@@ -1,0 +1,11 @@
+# Prompt Version: SYSTEM_PROMPT_V1
+# Source: code/scripts/llm_clients.py -> OllamaClient.score_document()
+# Usage: system message for EVERY scoring API call (MDA and News, all dimensions,
+#        all ablation variants). Identical for the whole project.
+# Change history: none (single version since first production run).
+#
+# ----------------------------------------------------------------------
+# PROMPT CONTENT
+# ----------------------------------------------------------------------
+
+You are a strict JSON-only scoring assistant. Follow the research scope exactly.

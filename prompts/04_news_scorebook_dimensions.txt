@@ -1,0 +1,42 @@
+# Prompt Version: NEWS_SCOREBOOK_V2026-06-15
+# Source: source/00_scorebook/news_scorebook.yaml
+# Usage: the "dimension_to_score" object injected into DOCUMENT_METADATA of the
+#        production prompt (02). One dimension per API call.
+# Change history: scorebook_version "2026-06-15" — the only production version.
+#        News dimensions follow the Lacy & Rosenstiel news-quality framework
+#        (factual accuracy, sourcing transparency, balance, information
+#        increment, headline fit), per team discussion in plans/dimension.txt.
+#
+# ----------------------------------------------------------------------
+# SHARED SCALE ANCHORS
+# ----------------------------------------------------------------------
+
+1 = severely insufficient
+2 = weak
+3 = adequate
+4 = good
+5 = excellent
+
+# ----------------------------------------------------------------------
+# DIMENSION DEFINITIONS (name / weight / definition)
+# ----------------------------------------------------------------------
+
+N01  name: Factual accuracy and internal consistency        weight: 0.30
+     definition: Whether company names, dates, events, amounts, percentages, people,
+                  timeline, and causal statements are clear, internally consistent,
+                  and not obviously exaggerated.
+
+N02  name: Source transparency and verifiability        weight: 0.25
+     definition: Whether the article identifies sources, quotations, evidence chains,
+                  citations, or other traceable clues.
+
+N03  name: Balance and objectivity        weight: 0.15
+     definition: Whether the article avoids one-sided claims, emotional wording,
+                  promotional exaggeration, or commentary replacing facts.
+
+N04  name: Relevance and information increment        weight: 0.20
+     definition: Whether the article adds useful company-research information rather
+                  than repeating announcements or low-relevance material.
+
+N05  name: Expression clarity and headline fit        weight: 0.10
+     definition: Whether title, lead, and body are aligned and clearly written without clickbait.

@@ -1,0 +1,70 @@
+# Prompt Version: MDA_SCOREBOOK_V2026-06-15
+# Source: source/00_scorebook/mda_scorebook.yaml
+# Usage: the "dimension_to_score" object injected into DOCUMENT_METADATA of the
+#        production prompt (02). One dimension per API call: the scorebook entry
+#        for the target dimension is serialized into the metadata JSON.
+# Change history: scorebook_version "2026-06-15" — the only production version.
+#        Scale anchors are shared by all five dimensions.
+#
+# ----------------------------------------------------------------------
+# SHARED SCALE ANCHORS
+# ----------------------------------------------------------------------
+
+1 = severely insufficient
+2 = weak
+3 = adequate
+4 = good
+5 = excellent
+
+# ----------------------------------------------------------------------
+# DIMENSION DEFINITIONS (name / weight / definition / anchors)
+# ----------------------------------------------------------------------
+
+AR01  name: MD&A content completeness        weight: 0.15
+      definition: Coverage of operating review, financial performance, business segments,
+                   market changes, drivers, risks or challenges, and outlook within the
+                   provided MD&A text only.
+      1: Extremely short or slogan-like MD&A with almost no substantive operating or financial content.
+      2: Basic operating description but little financial performance, business explanation, or change reason.
+      3: Basic operating and financial performance are covered, but business, market, risk, or outlook content is incomplete.
+      4: Operating, financial, business change, market background, and some risk or outlook information are covered.
+      5: Systematic and traceable coverage of performance, business, market, risk, outlook, and management explanation.
+
+AR02  name: MD&A internal numeric consistency and traceability        weight: 0.25
+      definition: Clarity, mathematical self-consistency, directional consistency, and logical
+                   traceability of financial expressions inside the provided MD&A text.
+      hard_limit: This is not financial statement verification and must not claim audited
+                   financial statements match.
+      required_wording: The numbers are internally consistent within the provided MD&A text.
+      1: Financial numbers are confusing, directions conflict, percentages are clearly wrong, or key numbers create major misleading risk.
+      2: Some numbers are present, but context is weak and some calculation or explanation problems are visible.
+      3: Revenue, profit, or cost changes are basically described with no major contradiction, but traceability is limited.
+      4: Financial numbers, percentages, and directions are mostly clear; calculable items are broadly correct.
+      5: Financial performance is highly clear and internally self-consistent, with strong explanations for amounts, percentage changes, segments, and drivers.
+
+AR03  name: Operating analysis specificity        weight: 0.30
+      definition: Specific explanation of revenue, cost, profit, segments, products, regions,
+                   volume, price, raw materials, currency, demand, and other operating drivers.
+      1: Mostly slogan-like language with almost no specific operating explanation.
+      2: Some operating description but little explanation of drivers.
+      3: Major operating changes are explained, but product, region, cost, or volume detail is limited.
+      4: Revenue, profit, cost, or business changes are explained with identifiable main drivers.
+      5: Operating results are explained in data-backed and causal terms across products, regions, costs, demand, price, or other drivers.
+
+AR04  name: MD&A internal risk and forward-looking disclosure        weight: 0.20
+      definition: Disclosure of challenges, risks, uncertainty, management outlook, and mitigation
+                   within the provided MD&A text only.
+      1: No substantive risk or outlook content, or only empty slogans.
+      2: Challenges or risks are mentioned but are highly generic.
+      3: Main risks or outlook are listed, but specificity, quantification, or mitigation detail is limited.
+      4: Risks or challenges are reasonably specific and include impact or management responses.
+      5: Risks are specific, important, traceable, and include impact, mitigation, and forward-looking uncertainty.
+
+AR05  name: MD&A readability and structural clarity        weight: 0.10
+      definition: Whether structure, paragraphs, language, headings, tables, and logic help
+                   readers understand the MD&A.
+      1: Disorganized, jargon-heavy, promotional, and hard to understand.
+      2: Weak readability with repetition, slogans, or long unfocused paragraphs.
+      3: Basically readable but structure and emphasis are only average.
+      4: Clear structure, concise language, and helpful headings or paragraphs.
+      5: Highly clear, logical, concise, and easy to navigate.

@@ -1,0 +1,17 @@
+# Prompt Version: OLLAMA_CHECK_MINIMAL_V1
+# Source: code/scripts/check_ollama.py -> MINIMAL_SCHEMA test call
+# Usage: environment self-check only. Verifies that the local qwen3:8b instance
+#        responds and can emit a minimal JSON object. NOT used for scoring.
+# Change history: none (single version).
+#
+# ----------------------------------------------------------------------
+# SYSTEM MESSAGE
+# ----------------------------------------------------------------------
+
+Return JSON only.
+
+# ----------------------------------------------------------------------
+# USER MESSAGE
+# ----------------------------------------------------------------------
+
+Return exactly this JSON shape with model "qwen3:8b": {"ok": true, "model": "qwen3:8b"}

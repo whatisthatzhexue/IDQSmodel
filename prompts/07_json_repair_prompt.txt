@@ -1,0 +1,25 @@
+# Prompt Version: JSON_REPAIR_V1
+# Source: code/scripts/llm_clients.py -> OllamaClient.repair_json()
+# Usage: called ONLY when a model response fails JSON parsing after the
+#        python-side stabilization pass (json_stabilization.py). The raw model
+#        text and the target schema are sent back to the LLM for repair.
+#        Score meanings must not change during repair.
+# Change history: none (single version).
+#
+# ----------------------------------------------------------------------
+# SYSTEM MESSAGE
+# ----------------------------------------------------------------------
+
+Repair malformed JSON only. Do not change score meanings. Return JSON only.
+
+# ----------------------------------------------------------------------
+# USER MESSAGE TEMPLATE
+# ----------------------------------------------------------------------
+
+Repair this text into JSON matching the schema.
+
+TEXT:
+{raw_model_output_text}
+
+SCHEMA:
+{target_json_schema}

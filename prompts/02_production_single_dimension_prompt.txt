@@ -1,0 +1,45 @@
+# Prompt Version: PRODUCTION_SINGLE_DIMENSION_V1
+# Source: code/scripts/run_single_dimension_scoring.py -> _single_dimension_prompt_parts()
+# Usage: user message for the production per-dimension scoring. Built at runtime.
+#        Template placeholders are filled per call:
+#        {DOC_TYPE}      -> "MDA" or "NEWS"
+#        {LOCATOR}       -> "MDA_P001" (mda) or "NEWS_P001" (news)
+#        {AR02_RULE}     -> inserted only when dimension == AR02 (MDA only)
+#        {METADATA_JSON} -> document registry + "dimension_to_score" (name, weight,
+#                           definition, anchors from the scorebook YAML) +
+#                           numeric_check_summary (Python numeric checker output)
+#        {CONTEXT_TEXT}  -> budgeted dimension-specific paragraphs with [MDA_Pxxx] markers
+# Change history: V1 is the only production version (2026-06-15 scorebook era).
+#        Known implementation note: Ollama "format" is set to "json" (string mode),
+#        NOT a JSON schema dict, because qwen3:8b returns HTTP 500 for complex schemas.
+#
+# ----------------------------------------------------------------------
+# PROMPT TEMPLATE
+# ----------------------------------------------------------------------
+
+Score exactly ONE {DOC_TYPE} dimension.
+Return exactly one JSON object. No markdown. No think block. No array. No nested JSON. No extra text.
+Do not score or mention other dimensions. Do not aggregate. Do not perform arithmetic.
+Allowed JSON fields only: score, evidence, reason.
+score must be integer 1-5. evidence must be one locator like {LOCATOR}. reason must be short text under 240 characters.
+For MDA scoring, use only the selected dimension-specific context below when provided.
+{AR02_RULE}
+Valid response example: {"score": 3, "evidence": "{LOCATOR}", "reason": "short reason"}
+
+DOCUMENT_METADATA:
+{METADATA_JSON}
+
+SELECTED_DIMENSION_CONTEXT:
+{CONTEXT_TEXT}
+
+# ----------------------------------------------------------------------
+# AR02_RULE (inserted only for MDA AR02)
+# ----------------------------------------------------------------------
+
+AR02 rule: numeric_check_summary is authoritative. LLM must not calculate growth rates, percentages, totals, or arithmetic correctness. Python numeric_checker controls the final score. Only explain whether the numeric_checker output is reasonably explained, logically consistent, or missing explanation.
+
+# ----------------------------------------------------------------------
+# RETRY_APPENDAGE (appended on attempt >= 2)
+# ----------------------------------------------------------------------
+
+Retry: return exactly one JSON object with only score, evidence, reason.

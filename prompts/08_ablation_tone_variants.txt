@@ -1,0 +1,37 @@
+# Prompt Version: ABLATION_TONE_VARIANTS_V1
+# Source: code/scripts/run_ablation_variant_scoring.py -> TONE_INSTRUCTIONS
+#         (single source of truth; run_ablation_experiment.py keeps a reference copy)
+# Usage: ablation experiment only. Each tone text is injected into the production
+#        prompt (02) at a FIXED position: immediately BEFORE the
+#        "Valid response example:" line. Everything else stays byte-identical
+#        to the production prompt. Applied to the 25-document ablation sample,
+#        4 variants x 25 docs x 5 dimensions = 500 API calls.
+#
+# Two perturbation groups:
+#   Group 1 (extreme): explicit score-direction commands — tests whether the
+#           model blindly obeys "score lower/higher" instructions.
+#   Group 2 (mild): descriptive standard rephrasings WITHOUT explicit score-
+#           direction commands — realistic rubric wording variation.
+#
+# Change history: V1 (two variants strict/lenient) -> V2 (teammate extension
+#        adding mild_strict / mild_lenient, 2026-09).
+#
+# ----------------------------------------------------------------------
+# GROUP 1 — EXTREME DIRECTIVE PERTURBATIONS
+# ----------------------------------------------------------------------
+
+strict:
+Scoring tone instruction: Be STRICT. Only award high scores when the text provides explicit, concrete, verifiable evidence for the dimension. When in doubt, score LOWER.
+
+lenient:
+Scoring tone instruction: Be LENIENT. Focus on overall information quality rather than specific missing details. When in doubt, score HIGHER.
+
+# ----------------------------------------------------------------------
+# GROUP 2 — MILD REPHRASING PERTURBATIONS
+# ----------------------------------------------------------------------
+
+mild_strict:
+Scoring tone instruction: Apply a rigorous, conservative evaluation standard. High scores require clear and explicit evidence in the text; indirect or ambiguous support should not be over-credited.
+
+mild_lenient:
+Scoring tone instruction: Apply a constructive, holistic evaluation standard. Credit substantive discussion and overall disclosure quality even when some specific details are missing.
