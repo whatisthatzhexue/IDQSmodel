@@ -1,0 +1,18 @@
+[TITLE]
+MSM Malaysia says low raw sugar prices bolster 2026 prospects
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-11-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/28/msm-malaysia-says-low-raw-sugar-prices-bolster-2026-prospects
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: MSM Malaysia Bhd is looking forward to better prospects in 2026 due to low raw sugar prices, even as it acknowledged continued challenges in the current financial year. According to MSM acting group CEO Hasni Ahmad, domestic sugar demand is expected to peak towards the end of the year in line with festive consumption trends. "The group continues to strengthen its domestic footprint while moderating refined sugar export volumes in response to soft global prices.
+
+[NEWS_P002] In addition, ongoing operational streamlining and optimisation efforts are being undertaken to support the Group’s return to profitability,” he added. In the third quarter ended Sept 30, 2025, MSM narrowed its net loss to RM4.6mil from a net loss of RM49.76mil in the year-ago quarter. Net loss per share was reduced to 0.65 sen from 7.08 sen previously. It said quarterly revenue fell to RM748.9mil from RM861.44mil in the same quarter in 2024, mainly on the contribution of controlled export sales volume.
+
+[NEWS_P003] The producer of Gula Prai refined sugar said the net loss over the nine-month period was RM30.62mil as compared to a net loss of RM40.44mil. Nine-month revenue dipped to RM2.31bil from RM2.6bil in the comparative period due to a lower average selling price despite a slightly higher sales volume. MSM said the ASP, including incentive, declined 11% compared to 9M24 primarily due to lower New York No. 11 raw sugar futures prices, forex and export and industry premium.
+
+[NEWS_P004] During the period under review, the group said it recorded a lower utilisation factor (UF) of 45% compared to 49% in 3QFY24 due to controlled production strategy of produce-to-demand, while recording a stable efficiency yield of 95%.

@@ -1,0 +1,113 @@
+document_id: MDA_4707_NESTLE_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 20, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+OPERATIONAL & BUSINESS REVIEW
+Every challenge also brings new opportunities, and our teams
+remained focused, proactive and entrepreneurial to tap into
+each potential opportunity. Nestlé Malaysia
+continued to
+demonstrate resilience
+throughout the year,
+weathering through
+a global pandemic to
+turn in another stable
+performance for 2020. Juan Aranols
+Chief Executive Officer
+[MDA_P003]
+15. Annua l Revie w
+Our business focus continued to build on the pillars of
+previous years, namely:
+1. Driving sustainable and profitable growth momentum;
+2. Continue nurturing the love and trust in our brands;
+3. Enhancing core fundamentals and capabilities for the
+future; and
+4. Leading the industry’s way into a greener future. 1. Driving sustainable and profitable growth momentum
+As more people stayed at home due to movement restrictions,
+we found new ways to engage consumers via digital tools and
+explored innovative approaches to help deliver our products
+to consumers. Underpinning this was our manufacturing
+and supply chain resilience which allowed us to maintain
+operational continuity, coupled with excellence in sales
+execution supported by our best-in-class sales force to ensure
+on-shelf availability. Driving digital engagement and e-commerce
+Throughout the year, we continued to engage our consumers
+digitally and further ramped up our online activations. We explored new models such as live streaming and shifted
+from traditional product launches to online events, offering
+consumers an interactive online shopping experience and
+successfully increasing our reach.
+[MDA_P004]
+Through this, we saw the
+launches of several new offerings such as NESCAFÉ Latte
+Milk Tea coffee mixes and MAGGI FUSIAN Sarang Kimchi and
+Karai Miso bowl noodles. We also leveraged on the Dalgona
+coffee craze, with a live stream event featuring how Dalgona
+coffee can be prepared using NESCAFÉ products. Campaigns such as the Nestlé Super Brand Day and
+11.11 drove significant traffic to our products across key
+e-commerce platforms and helped accelerate our online
+penetration, leading to record-breaking achievements during
+the big online sales days. All these allowed us to drive strong
+growth in e-commerce, further reinforcing our position as the
+biggest e-commerce business among the Nestlé markets in
+Southeast Asia. Exploring new business models to reach out to consumers
+Responding to the shift in consumer behaviour towards
+higher in-home consumption, categories like Ice Cream took
+on the challenge to continue delighting Malaysians at home. The new NESTLÉ Ice Cream Home Delivery business model
+proved to be a resounding success when it was first piloted
+and was subsequently rolled out nationwide within a week of
+launching.
+[MDA_P005]
+Our Ready-to-Drink (RTD) business also further expanded
+their presence online – making a wider range of Nestlé
+products available for online purchase, as well as rolling out a
+new home delivery option for RTD products such as MILO and
+NESCAFÉ Original cans. Supporting out-of-home operators
+Conscious of the profound impact to out-of-home channels,
+the NESTLÉ PROFESSIONAL team focused on supporting
+local F&B operators impacted by COVID-19. Through the
+Bangkit Bersama Nestlé campaign, we rolled out trade
+assistance programmes and provided cash contributions to
+help support coffee shops, mamak shops and other eateries
+and restaurants. This saw us channelling a total of RM5 million
+to more than 15,000 local F&B operators to help keep their
+businesses afloat. In addition, we reached out to professional chefs nationwide
+via an online cooking competition, MAGGI Wok Bersamamu,
+with cash prizes up for grabs. Chefs were able to take part
+by uploading videos of themselves cooking creative dishes
+utilising MAGGI professional products and demonstrating
+their culinary skills.
+[MDA_P006]
+Manufacturing and supply chain excellence
+Throughout the pandemic, we upheld our commitment
+to ensure continued production and delivery of our foods
+and beverages to consumers. Our manufacturing, supply
+chain and distribution operations demonstrated remarkable
+resilience and agility, allowing us to provide Malaysians with
+a stable supply of essential products across our brands such
+as MILO, MAGGI and NESCAFÉ, whilst strictly adhering to the
+safety requirements set by the Government. Best-in-class sales execution
+Serving a wide spectrum of customers and consumers
+throughout the nation with diverse preferences and
+requirements, our extensive sales network continued to play
+a core role in driving performance and ensuring continuous
+availability of products for all Malaysians during the pandemic. Our sales force plays a decisive contribution to revenue growth. Working as a cohesive unit together with other functions,
+brands and geographies in Malaysia, this enables our sales
+team to keep a pulse on evolving needs of the retail ecosystem.
+[MDA_P009]
+NIS
+More information on our response to the COVID-19 outbreak can be
+found on page 49 onwards of the Nestlé in Society Report. Our KIT KAT Break Bus dropping off KIT KAT products for our frontliners at Hospital Sungai Buloh, Selangor. The KIT KAT team also donated products to benefit over
+12,000 healthcare workers in six hospitals in the Klang Valley,
+encouraging frontliners to take a short break for themselves
+during their efforts to combat the pandemic. A donation drive was spearheaded by EVERYDAY Milk,
+sponsoring over RM4.5 million worth of nutritious EVERYDAY
+products to more than 85,000 Malaysians from vulnerable
+communities. Our Sampling team distributing MAGGI Bubur Lambuk to B40 communities during the month of Ramadan. We distributed more than 120,000 bowls of MAGGI bubur
+lambuk to B40 families, charity homes and frontliners. On top
+of this, the MAGGI Sah Malaysia campaign donated a total of
+50,000 meal kits to B40 communities nationwide. Through Program Mentor Wanita Cukup Berani MAGGI, more
+than 900 women benefitted from a three-day Wanita Cukup
+Berani MAGGI online workshop.

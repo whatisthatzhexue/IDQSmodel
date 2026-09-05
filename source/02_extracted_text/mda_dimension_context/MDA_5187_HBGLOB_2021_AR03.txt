@@ -1,0 +1,55 @@
+document_id: MDA_5187_HBGLOB_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 22, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+and ´The Four Seasons Farmµ 
+We produce more than types of products all of which are approved and export to more than countries 
+such as Japan USA Singapore Australia and Korea etc 
+We believe our technical expertise and commitment to strict quality control standards have been and will 
+continue to be vital in establishing our reputation as a leading foods manufacturer 
+We had a complete quality monitoring and control system we obtained and enforced ISO
+ ISO 
+HACCP FDA and BRC international certiÀcations 
+Underpinned by its fundamental principle to provide affordable foods products with high qualities and unique 
+favor HB products cater to a wide variety of users from hypermarket tourist market food stalls to common 
+residential houses The Group·s business operations comprise of main business units
+[MDA_P015]
+Forward Resources construction Sdn Bhd 
+´FRCµ
+ ² the main operating situated in Malaysia by SLH infra 
+Sdn Bhd
+As the main subsidiary SHF is principally involved in the design research development of RTS products and 
+marketing activities while JHF are rearing and trading of livestock and currently has ceased operation 
+CORPORATE OBJECTIVES AND STRATEGIES
+We shall seek new machinery and equipment to enhance and automate our production processes so that we 
+can be well equipped and ready for any mass production reduce our reliance on intensive labour and able to 
+stay ahead of our competitors 
+We intend to expand our geographical reach to new international markets including Malaysia and Singapore 
+for our RTS and frozen vegetables which have been well received in our existing markets With our new Malaysian 
+management team we envisage new business opportunities in Malaysia and nearby region 
+We are constantly on the look out for new business opportunities either via acquisition or organic growth to 
+complement our vision to be a food leader and be part of a growing emerging market 
+ PERFORMANCE OVERVIEW
+HB Group·s revenue had increased by RMB million or approximately from RMB
+[MDA_P017]
+´FYE µ
+ The increase was mainly due to increase in demand on products after the Covid 
+ outbreak since 
+early The Group achieved a net loss before taxation of RMB million in FYE as compared to net loss 
+before taxation of RMB million in FYE 
+Expectation
+As the countries around the world gradually reopen their borders from covid 
+ pandemic another major blow 
+had struck with the ongoing war in Ukraine resulting in higher commodity prices that drove up the raw materials 
+prices and freight rates We continue to invest in our product quality and explore new business opportunities 
+Covid 
+ pandemic had led to many end consumers preparing their own home food We believe our affordable 
+ready to serve food and frozen vegetables are poised to attract more end consumers in particular from fast 
+paced nations We continue to carry out research and development to create new products to pamper our 
+end consumers with more RTS food varieties
+[MDA_P019]
+Financial Review
+Our revenue increased by RMB million or approximately from RMB

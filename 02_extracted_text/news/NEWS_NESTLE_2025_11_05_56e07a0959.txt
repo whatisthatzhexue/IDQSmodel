@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI slips on profit-taking amid regional caution
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-11-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/05/fbm-klci-slips-on-profit-taking-amid-regional-caution
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Profit-taking activities dragged the local market lower on Wednesday, in line with cautious sentiment across the region ahead of Bank Negara’s overnight policy rate (OPR) decision. The FBM KLCI fell 1.95 points, or 0.12%, to close at 1,621.55. The benchmark index moved within a range of 8.86 points, hitting an intraday high of 1,623.16 and a low of 1,614.30. Market breadth turned negative as losers overpowered the gainers on a ratio of 752-to-427 stocks.
+
+[NEWS_P002] About 4.8 billion shares, valued at RM2.7bil, changed hands. Dealers said the broader market continued to see mixed trading today as investors rotated between sectors in search of short-term catalysts, keeping the overall tone subdued. They added that investors were likely to stay on the sidelines ahead of Bank Negara’s OPR announcement tomorrow, which analysts expect to remain unchanged at 2.75%. PJBumi, which yesterday said it was unaware of any reason behind the UMA in its shares following a Bursa Malaysia query, led the top losers list, sliding 52 sen to RM1.25 with 2.66 million shares traded.
+
+[NEWS_P003] Other decliners included F&N, which fell 30 sen to RM27.80, Hong Leong Bank dropped 28 sen to RM20.96, and Sunway Construction eased 13 sen to RM5.67. Among the gainers, Nestle surged RM3 to RM116, United Plantations gained 46 sen to RM25.46, Vstecs added 25 sen to RM4.05 and Westports climbed 25 sen to RM5.35. According to data on Bursa Malaysia, foreign investors bought RM110mil worth of equities on Bursa Malaysia on Tuesday, while local institutions and retailers sold RM64mil and RM46mil respectively.
+
+[NEWS_P004] On the forex market, the ringgit strengthened 0.13% against the US dollar to 4.1915 and inched up 0.18% against the Singapore dollar to 3.2088. Around the region, MSCI's Asia ex-Japan stock index was lower by 0.83%. Japan’s Nikkei 225 fell 2.5%, South Korea’s Kospi slipped 2.85%, Hong Kong’s Hang Seng eased 0.06%, while China’s CSI300 edged up 0.19%.

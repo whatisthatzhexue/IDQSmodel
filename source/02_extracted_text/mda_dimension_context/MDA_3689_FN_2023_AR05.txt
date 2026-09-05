@@ -1,0 +1,94 @@
+document_id: MDA_3689_FN_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 55, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 172.712, "paragraph_count": 55, "paragraph_length_distribution": {"max": 1199, "mean": 578.527, "min": 90}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION &
+ANALYSIS
+Annual Report 2023
+MARKET REVIEW
+A. Strategic Review
+In May 2023, the World Health
+Organization (WHO) declared that
+COVID-19
+“no
+longer
+constitutes
+a
+public
+health
+emergency
+of
+international concern”. Yet, the global
+macroenvironment is far from being
+optimally healthy. Added to the long-
+term effects of the pandemic, the
+Russia-Ukraine conflict continues to
+rage, there is now instability in Gaza,
+and we are experiencing more and
+more climate changes. Economically,
+persistent inflation has resulted in
+interest rate hikes. The International Monetary Fund, in
+its World Economic Outlook released
+in October 2023, predicts that global
+growth will slow down to 3.0% in
+2023 and 2.9% in 2024 from 3.5%
+in 2022 – rates that fall short of the
+3.8% average from 2000 until 2019. This deceleration is expected to
+be most pronounced in advanced
+economies, dropping from 2.6% in
+2022 to 1.5% in 2023 and 1.4% in
+2024. In contrast, emerging nations
+will experience a significantly more
+muted slowdown, from 4.1% in 2022
+to 4.0% in both 2023 and 2024.
+[MDA_P014]
+• We strive for zero waste as well as zero pollution through continuous
+improvement of our environmental management system. Climate Change
+Packaging
+Waste
+Management
+Energy
+Biodiversity
+Significant Increase in Commodity Prices
+(Emerging Risk)
+Commodities and material prices are influenced
+by the global & local supply and demand, weather
+conditions as well as regulatory changes imposed by
+the government. As such, any significant increase in
+prices of commodities and materials could materially
+affect the cost and profitability of our products. • Commodities and materials price risk is managed through forward
+purchase of key commodities, active monitoring of commodities price
+trends, and vigilant sales forecasting and production planning. • In addition, we also source from multiple suppliers and origin of
+commodities/materials as listed in our approved vendors list to enable
+us to respond ably in the event of shortage in supply and/or increase
+in price. • We also hedge our purchases using our enlarged and collective
+purchasing capability. • Price adjustment would be considered as last resort to protect
+profitability of the products.
+[MDA_P028]
+Creation of new business growth in our Halal Food Pillar
+with maiden contribution from Cocoaland companies this
+financial year.
+Priorities for 2024
+[MDA_P042]
+Our Halal Risk Management plan for all plants is reviewed to meet Halal
+Assurance Management System (HAS) 2020 requirements.
+[MDA_P055]
+DATO’ RAFFIQ
+BIN MD ARIFF
+Managing Director,
+Foods and Industry Engagement
+BRYAN LEE
+CHEE KONG
+Managing Director,
+Cocoaland
+(Retired on 31 October 2023)
+LAI
+MING KONG
+Managing Director,
+International Markets Development

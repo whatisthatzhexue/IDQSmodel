@@ -1,0 +1,131 @@
+document_id: MDA_5187_HBGLOB_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Bhd., the company
+engages in agriculture, aquaculture, infrastructure
+projects, and renewable energy. A major milestone
+was achieved in December 2024 when HBGL
+entered into a Joint Venture Cum Shareholders’
+Agreement with HIS Holdings Sdn. Bhd. to develop
+artificial intelligence technology-driven agriculture
+and plantation activities. This joint venture, named
+HB Global Capital Sdn. Bhd. marks a strategic step
+towards innovation and sustainable growth in the
+sector. Mission Statement
+The company’s mission is to provide the best products
+and services with innovative solutions to customers
+worldwide, aiming to be a leader in inventing new
+mechanical solutions to assist various industries and
+businesses. HBGL’s business objectives are centred on
+expanding its product offerings, exploring new market
+opportunities, and embracing sustainability and
+innovation. The company is committed to leveraging
+advanced technologies to enhance product quality
+and operational efficiency, while also diversifying
+its portfolio, to include sectors such as agriculture,
+aquaculture, infrastructure and renewable energy.
+[MDA_P003]
+Strategic partnerships and joint ventures are integral
+to HBGL’s approach to achieving sustainable growth
+and delivering value to stakeholders. Operation Review
+Enhancing Production Capabilities
+HBGL’s food processing division has expanded its
+production
+efficiency
+through
+automation
+and
+advanced
+food
+preservation
+techniques. The
+integration of modern processing equipment and
+stringent quality control measures has allowed
+the Group to optimise yield, reduce waste, and
+improve product consistency. The adoption of eco-
+friendly packaging solutions also aligns with global
+sustainability trends. Dear Valued Shareholders,
+It is my privilege, on behalf of the
+Board of Directors of HB Global Limited
+(“HBGL” or “the Group”), to present
+the
+Management
+Discussion
+and
+Analysis (“MD&A”) for the Company
+and its subsidiaries for the ﬁnancial
+year ended 31 December 2024 (“FYE
+2024”). The MD&A presents a comprehensive
+review of the Group’s operational
+and
+financial
+performance
+for
+the twelve (12) months ended 31
+December 2024. This report should be
+read in conjunction with the Audited
+Financial Statements for FYE 2024
+and the accompanying notes.
+[MDA_P005]
+ANNUAL REPORT 2024
+HB GLOBAL LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Expansion into High-Growth Sectors
+HBGL has broadened its portfolio by venturing into
+large-scale
+agriculture
+and
+aquaculture. These
+initiatives support both sustainable food production
+and export markets, catering to the growing demand
+for sustainable food sources. Leveraging Technology for Operational Efﬁciency
+As part of its digital transformation strategy, HBGL
+also leveraged in data-driven decision-making tools
+and AI-powered supply chain analytics to improve
+efficiency, productivity, and sustainability. These allow
+for real-time monitoring of production processes,
+improved
+inventory
+management,
+and
+better
+demand forecasting. The recent joint venture with HIS
+Holdings Sdn. Bhd. further reinforces the Group’s focus
+on AI-driven agriculture, enabling greater scalability
+and efficiency in its plantation and farming activities. Strengthening Market Presence and Strategic Partnerships
+To drive business growth, HBGL has expanded its distribution networks and strategic alliances.
+[MDA_P006]
+The Group
+has entered into partnerships with regional and international retailers, distributors, and institutional buyers,
+strengthening its market position across key territories. By aligning its offerings with evolving consumer preferences,
+HBGL remains competitive in the global food and agribusiness sector. FINANCIAL PERFORMANCE
+Revenue
+Cost of Sales
+Gross Margin
+Gross Proﬁt
+RMB80.7 million
+RMB(65.4) million
+19%
+RMB15.3 million
+Financial Review
+In FYE 2024, the Group recorded revenue of RMB80.7 million, continuing its positive momentum following the
+modest increase of RMB0.7 million (approximately 0.8%) in FYE 2023. The growth in both years was primarily
+attributable to stronger sales from the China subsidiary, reflecting the Group’s recovery from earlier disruptions in
+production and supply chains due to regional lockdowns during the Covid-19 resurgence. Gross profit in FYE 2024 stood at RMB15.3 million, with cost of sales amounting to RMB65.4 million. Other income
+for the year was RMB2.6 million, lower than RMB7 million in FYE 2023.
+[MDA_P007]
+Despite the decline in other income, the
+Group significantly reduced its loss for the year to RMB3.6 million, compared to a net loss before taxation of
+RMB45.8 million in FYE 2023. The improved performance was primarily driven by effective cost control and the absence of major non-recurring
+expenses. Notably, there were no other operating expenses recorded in FYE 2024, compared to RMB28.5 million
+in FYE 2023, which included impairment losses on property, plant, and equipment, intangible assets. In addition,
+an impairment loss on financial assets amounting to RMB1.3 million was recognised in FYE 2023, whereas no such
+impairment was recorded in FYE 2024. Overall, the Group’s performance in FYE 2024 demonstrates continued operational recovery and financial
+discipline, supported by revenue growth, lower operating costs, and improved bottom-line results. Revenue
+In FYE 2024, the Group recorded a revenue of RMB80.7 million, reflecting a 0.8% slight increase compared to the
+previous year’s revenue of RMB 80 million.

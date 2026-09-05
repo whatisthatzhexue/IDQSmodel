@@ -1,0 +1,33 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 4233.3,
+      "current_value": 4233.3,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P030]",
+      "metric": "segment revenue",
+      "note": "segment revenue: components sum 4233.30, stated total 2024.00, difference 109.16%, status material_discrepancy.",
+      "previous_value": 2024.0,
+      "source_text": "The Trade and Distribution Segment (“T&D Segment”) comprise mainly of the Fast-Moving Consumer Products businesses in Sabah and Sarawak. Sales of Building Materials and Engineering Products are mainly in Peninsular. This segment is the major segment of the Group which contributed 97.53% of the Group",
+      "stated_pct": 0,
+      "status": "material_discrepancy"
+    }
+  ],
+  "document_id": "MDA_5008_HARISON_2024",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "segment revenue: components sum 4233.30, stated total 2024.00, difference 109.16%, status material_discrepancy."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 68,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

@@ -1,0 +1,14 @@
+| metric | value |
+| --- | --- |
+| mda_claim_count | 0 |
+| news_claim_count | 0 |
+| claim_link_count | 0 |
+| strong_support | 0 |
+| partial_support | 0 |
+| contextual_support | 0 |
+| contradictions | 0 |
+| possible_omissions | 0 |
+| same_source_repetitions | 0 |
+| mock_mode_or_deterministic_proxy | False |
+| systemic_conflict_flag | False |
+| source_independence_distribution | {} |

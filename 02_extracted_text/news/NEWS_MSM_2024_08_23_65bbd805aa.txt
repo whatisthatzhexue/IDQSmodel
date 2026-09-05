@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia ends in the red with 888 counters lower
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-08-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/23/bursa-malaysia-ends-in-the-red-with-888-counters-lower
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended Friday in the red as 888 counters ended lower, as investors take profit amid mixed regional markets. The benchmark FBM KLCI closed at 1,635.74, down 0.36% or 5.92 points, taking its full-week gains to 0.73%. In the broader market, losers outpaced gainers, with 888 stocks closing lower and 255 ending higher. This resulted in a market breadth of 0.29, indicating the bears had stronger control. According to data on Bursa Malaysia, foreign investors continued to buy into local stocks on Monday, acquiring RM293mil worth of equities.
+
+[NEWS_P002] Local institutions and retailers sold equities worth RM234mil and RM59mil respectively. Nestle slid RM1 to RM102, Malaysian Pacific Industries lost 60 sen to RM35.70, MSM declined 25 sen to RM1.23 and Notion VTec gave up 23 sen to RM1.14. On the other hand, F&N rose 32 sen to RM29.82, Warisan TC gained 32 sen to RM1.49, Carlsberg added 16 sen to RM19.10 and Mega First climbed 10 sen to RM4.55. Newly listed EPB Group closed up six sen, or 10.71% to 62 sen with 96.23 million shares traded.
+
+[NEWS_P003] EPB’s managing director Yeoh Chee Min said that of the IPO proceeds, RM24.6mil would be utilised for factory expansion, which includes the acquisition of land from Penang Development Corporation, construction of a new factory and the purchase of machinery. Meanwhile, US West Texas Intermediate crude rose 36 cents to US$73.37 and Brent added 38 cents to US$77.60 per barrel. Among the key regional markets: Japan’s Nikkei 225 closed up 0.4% to 38,364.27; South Korea’s Kospi fell 0.22% to 2,701.69; Hong Kong’s Hang Seng Index closed down 0.16% to 17,612.10; China’s CSI300 Index rose 0.42% to 3,327.19; Taiwan’s Taiex added 0.04% to 22,158.05 and; Singapore’s Straits Times Index rose 0.44% to 3,388.28 points.

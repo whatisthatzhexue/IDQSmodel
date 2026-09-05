@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI almost flat amidst regional market optimism
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/15/fbm-klci-almost-flat-amidst-regional-market-optimism
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI snapped its losing streak to end almost flat on Wednesday, supported by optimism across regional markets. The 30-stock index ended almost flat, inching up 0.09 of a point, or 0.01%, to 1,611.55. It moved within a 25.72-point range, touching an intra-day high of 1,619.58 and a low of 1,611.12. Market breadth turned positive as gainers overpowered losers on a ratio of 726-to-426 stocks. Traded volumes stood at 4.26 billion shares worth RM3.7bil.
+
+[NEWS_P002] In today’s session, the KLCI reflected a balanced market tone, with 13 component stocks rising, 13 declining, and four unchanged. Among the gainers, Nestle advanced 60 sen to RM102.70, Genting climbed 39 sen to RM3.40, KLCC added 30 sen to RM9.03, and PETRONAS Dagangan rose 30 sen to RM23. Conversely, Carlsberg tumbled RM1.16 to RM15.42, Heineken slipped 54 sen to RM19.80, United Plantations eased 20 sen to RM23.24, and Malaysian Pacific Industries declined 20 sen to RM28.84.
+
+[NEWS_P003] Meanwhile, market data showed that foreign investors and local retailers were net sellers, offloading RM320mil and RM117mil worth of equities respectively on Tuesday, while local institutions emerged as net buyers with RM437mil. On the external front, MSCI’s Asia ex-Japan stock index was higher by 2%. Japan’s Nikkei 225 advanced 1.76% to 47,672.67 while South Korea’s Kospi closed up 2.68% at 3,657.28. Hong Kong’s Hang Seng ended 1.84% higher at 25,910.6.
+
+[NEWS_P004] China’s CSI300 index rose 1.48% to 4,606.29 while the Shanghai Composite advanced 1.22% to 3,912.21.

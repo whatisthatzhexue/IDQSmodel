@@ -1,0 +1,141 @@
+document_id: MDA_5202_MSM_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 87, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+During the initial phase of MCO, most of
+the domestic customers suspended their operations whilst
+During the
+initial
+phase
+of MCO, most
+of the
+domestic
+customers
+suspended
+their operations whilst the Industry customers were facing export supply chain
+disruptions. Nonetheless, consumption trends have been improving since Q3 2020
+based onthe positive operational earnings ofthe Group since July 2020. “
+“
+2020 Market Overview
+Global and local markets were hit by an unprecedented
+impact from COVID-19 in 2020 that continues to reverberate
+into 2021. This has changed the landscape of business and
+challenged many industries, some of which, such as travel
+and hospitality, are recording immense setbacks following
+the travel bans and other virus containment measures
+imposed by the Government. the Industry customers were facing export supply chain
+disruptions. Nonetheless, consumption trends have been
+improving since Q3 2020 based on the positive operational
+earnings of the Group since July 2020. The weak sales volume in Domestic segment has been
+supplemented by an increased Export segment sales volume.
+[MDA_P007]
+Despite
+the pandemic, NY11 prices in 2020 has been generally favourable
+for the Group, trending between USD11.00 – 15.00 cents/lb. The stable prices were a result of high production in Brazil1
+which balanced out the shortage caused by Thailand’s extreme
+drought. MSM managed to close the year at an average price
+of USD12.70 cents/lb against the market average of USD12.89
+cents/lb. In 2021, global sugar trade flow is projected to be in deficit of
+0.5 million tonnes with a more bullish price outlook ranging from
+USD14.00 – 19.00 cents/lb2 as the dry-weather in Thailand is
+expected to prolong to 2022, reducing the sugar supply in the
+region and the world by about 7 million tonnes and shifting the
+supply risk to Brazil as the single largest raw sugar exporter for
+2021. The increase in crude oil prices will also have an impact on
+Brazilian sugar production as millers will be motivated to produce
+more ethanol instead of sugar from the sugarcane crop. We also
+expect to see similar ethanol related influence similar to Brazil for
+Indian producers. 1. High raw sugar production in Brazil
+due to low ethanol price, weak real
+and good sugarcane crop
+2.
+[MDA_P009]
+Contributed over
+RM120,000
+worth of sugar products in basic
+food products care packages
+Staying Resilient
+There
+are
+still
+identified
+challenges
+towards
+MSM’s
+performance outlook due to the Group’s large refining
+capacity. MSM has to enhance its domestic market
+position and expand its export market footprint whilst faced
+with high production cost, borrowing commitments and
+volatility of external market factors. Having analysed the
+Group’s competitive position, Management has identified
+opportunities for the Group and formed the basis of the
+strategies for the next three years. The aim is to ensure MSM’s
+financial performance keeps on improving and sustainable.
+Based on a strategic analysis, as well as review of current
+risks and opportunities, Management has set out seven
+key strategic initiatives (KSIs) under MSM’s BP21 that shall
+uphold the four key strategic thrusts of Operational
+Improvement, Product and Market Penetration, New Growth
+Area and Financial Capability Building.
+[MDA_P011]
+More on Risks & Opportunities and BP21 can be found on
+pages 30 and 31 respectively. Focus on Sustainability
+MSM’s focus on sustainable growth continues to be
+trained on ensuring good governance practices, enabling
+a fair and safe workplace, taking care of our employees,
+maintaining energy and water savings, managing waste
+and
+emissions
+and
+contributing
+to
+the
+community. In 2020, we strove to increase engagement opportunities
+with our employees and the community in nurturing resilience
+within a challenging pandemic period. More investments
+towards digitalisation were also initiated towards meeting
+new norms for business continuity. Employee Engagement
+Due
+to
+COVID-19,
+the
+Group’s
+scheduled
+people
+engagement activities could not be carried out as
+planned. Instead, MSM focused on digital communication
+channels and activated a people outreach channel to
+strengthen employee-management synergy and harmony. Open channels of communication were established to
+enable sharing of constructive values and information
+during a period of uncertainty.
+[MDA_P013]
+GROUP CHIEF EXECUTIVE OFFICER REVIEW
+Digital Engagement
+To help curb the COVID-19 impact and catalyse our
+digitalisation
+journey,
+in
+MSM
+adopted
+digital
+engagement in our work practices by increasing online
+and teleconference meetings to avoid frequent interstate
+and inter-district travel. Previously, MSM frequently travel
+to operation sites and for other business meetings by
+flight. In relations to the digital adaptation in our business
+approach, we managed to reduce our carbon footprint
+by 86% for Greenhouse Gas (GHG) emissions related to air
+travel. Outlook
+The year 2021 began as an outright challenging year amidst
+the third wave of COVID-19 infections in Malaysia with the
+government imposing a fresh Movement Conditional Order
+(MCO) that caused further declines in market demand
+coupled with increased challenges for the SME industries. Having expanded our refining capacity with MSM Johor on
+stream, an immediate priority moving forward is to ensure
+the maximisation of Group capacity that is well supported
+by the growth in the core business units namely Domestic
+(Wholesale and Industry) and Export (refined sugar and
+value added products).

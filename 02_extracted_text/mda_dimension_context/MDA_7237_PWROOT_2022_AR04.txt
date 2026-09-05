@@ -1,0 +1,71 @@
+document_id: MDA_7237_PWROOT_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 30, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+Annual Report 2022
+Power Root was similarly affected by these challenges as we faced labour shortages in the short term. However, the
+Group as a whole responded with early proactive actions that helped mitigate the impact for FYE 2022 and we look
+forward to a new and better business environment in the coming year. THE BUSINESS ENVIRONMENT
+As pandemic restrictions continue to ease, governments are opening up national borders and loosening travel restrictions. The rapid economic pick-up, though, has seen supply chains struggling to cope. High demand for raw materials has
+caused pricing hikes amid scarcity, while logistics are scrambling to keep up with market movements. Against this backdrop, Power Root expects to build on what we achieved in FYE 2022. We have ingrained the Return on
+Investment (“ROI”) culture throughout our organisation in the past few years, and continue to focus on growing revenues
+with cost and control as the foundation of our growth. We have also improved communication across all functions with
+the business increasingly utilising technology in making data-driven decisions.
+[MDA_P004]
+Technological
+tools equipped the Group to track the volume and pattern of sales across regions and products. In turn, with a stronger
+Commercial Finance team positioned to analyse in detail profitability by products, channels and customers, this led to
+better analysis to find gaps and opportunities for sales and profitability. We also rolled out our handheld sales force reporting system which provides real-time distribution network status and
+updates. The information includes data on outlet levels which allows for a quick response to market demand, and helps
+us assess the implementation and effectiveness of our marketing 5Ps. Power Root was also prepared for the imposition of the sugar tax which was to be implemented on 1 April 2022. Although the Malaysian government has deferred the sugar tax implementation for the moment, our team is ready
+for this eventuality. Should the sugar tax regime be implemented, Power Root will have an advantage in being able to
+leverage on our previous experience from similar sugar tax roll-outs in the Middle East markets over the past two years
+to mitigate its impact.
+[MDA_P015]
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+Annual Report 2022
+Alicafé
+We also added Alicafé Tongkat Ali & Ginseng Kurma Madu to our Alicafé range in April 2021. This revolutionary energy
+coffee mix provides extra energy and nutrition to consumers, combining the holistic benefits of Tongkat Ali & Ginseng
+to strengthen the immune system with the goodness and deliciousness of Kurma Madu. EXPORTS
+Our export business was still largely impacted by the pandemic with closed borders and dampened economic activity
+throughout the world for much of FYE 2022. On the positive side, we have seen a momentum in recovery in the final
+quarter of the financial year. With the China and Hong Kong governments pursuing zero-COVID goals, activities in these regions were muted with
+sporadic strict movement restrictions despite early optimism. Online marketing and sales which had been expected to
+thrive during this period of physical isolation were affected by the Chinese government’s move to control online activities
+and platforms to ensure fairer pricing competition. This resulted in an uncertain online sales climate which was less
+vibrant compared to the preceding years.
+[MDA_P018]
+The Group also extended our use of KOLs influencers such as
+“Omar” and “Mom in Dubai” promoting Alitéa through their YouTube and Instagram channels respectively. In the KSA, due to the rise in the cost of raw materials and higher manufacturing costs, we started to increase the price
+of our products from May 2022. As with our Malaysian domestic market, we expect to increase our prices gradually in
+our MENA markets. To mitigate the impact of the KSA’s sugar tax, we have taken a creative approach in focusing our
+marketing attention on box packages instead of pouch packages as the boxes, which come with fewer sachets, are
+more budget-friendly for consumers at this time. We also focused on improving inventory management during the year. As countries open up, we plan to follow through on our MENA strategies and intensify our growth efforts in the region. MANAGEMENT DISCUSSION AND ANALYSIS
+cont’d
+[MDA_P021]
+While production and supply were
+still vulnerable to stoppages due to sporadic positive cases along the supply line, these measures have minimised the
+disruptions in areas where we are able to control. The Group also faced higher operational costs due to labour market shortages across industries and the resulting rise in
+wages, as well as the implementation of the new minimum wages level policy. While Power Root faced price pressures
+and availability issues in sourcing for raw materials, our team has managed to minimise its impact through a far-sighted
+progressive purchasing strategy. FINANCIAL REVIEW
+For the FYE 2022, the Group recorded revenue of RM347.9million, an increase of approximately 12.5% from the revenue
+of RM309.2 million recorded in FYE 2021. This increase was due to higher local sales, particularly after the lifting of MCO 3.0, and the improved operational
+efficiencies and capabilities as outlined above. Revenue (RM’million)
+204.1
+165.2
+144.0
+143.8
+309.2
+Local
+Export
+347.9
+FYE 2021
+FYE 2022

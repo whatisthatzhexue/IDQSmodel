@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia moves sideways ahead of central bank's OPR announcement
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-11-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/06/bursa-malaysia-moves-sideways-ahead-of-central-bank039s-opr-announcement
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI was flat against its previous closing price as traders awaited Bank Negara's interest rate decision this afternoon. According to TA Securities, sideways trading is likely to persist amid the weak regional sentiment and ahead of the central bank's overnight policy rate announcement. At 9am, the benchmark index was down a marginal 0.06 points at 1,621.49, virtually unmoved from where it settled at the previous close. Among the index's constituent blue chips, Nestle fell RM3.20 to RM112.80, a decline erased its gains from the previous session.
+
+[NEWS_P002] Meanwhile, there were gains in Sunway up five sne to RM5.44, Tenaga Nasional rising six sne to RM13.26 and Telekom Malaysia up four sen to RM7.24. SD Guthrie jumped five sen to RM5.33 after announcing a quarterly profit surge, while reiterating an optimistic outlook for the year. In the local tech space, there was a rebound in prices following the Nasdaq's overnight recovery. MPI rose 36 sen to RM30.80, Vitrox gained eight sen to RM4.59 and VSTECS rose five sne to RM4.10.
+
+[NEWS_P003] Of actives, Borneo Oil was unchanged at 0.5 sen, MMAG dropped 0.5 sen to 10 sen and NexG slid 0.5 sen to 29.5 sen.

@@ -1,0 +1,67 @@
+document_id: MDA_7035_CCK_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P006]
+CCKLocal supermarkets typically occupy a larger footprint and offer households a wide range of SKUs ranging from
+local and imported food items to general household items. Our wide-reaching retail network is supported by a fully integrated supply chain consisting of a feed mill, layer farming,
+poultry farming and processing, prawn farming and processing, and the manufacturing of house-brand food products. As Sarawak’s largest integrated poultry supplier, our retail network benefits by being integrated with the poultry
+segment. Much like the retail network, CCK’s farm operations are also located in Sarawak and Sabah. On a blended
+basis, fresh dressed chicken and chicken parts make up approximately 20% of our retail stores’ products. The other
+80% of our stores’ products comprise house-brand and third-party frozen products, seafood products, fresh fruits, and
+vegetables.
+[MDA_P017]
+ANNUAL REPORT 9
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+ANTICIPATED OR KNOWN RISKS
+a.
+Credit Risk
+[MDA_P018]
+CCK practises a policy of dealing with creditworthy customers based on careful evaluation of each credit
+customer’s financial standing and credit history. This practice mitigates the risk of financial loss from possible
+default payments. The Group has also in place a credit monitoring process which regularly monitors the status
+and payments of our credit customers.
+b.
+Foreign Currencies Fluctuation Risk
+[MDA_P019]
+The Group imports frozen products for the network of retail stores where the purchases are denominated in US
+dollars. As such, the Group is exposed to currency fluctuation risk. Any adverse fluctuation in the MYR/USD
+rate may affect the profitability of the Group. In addition, fluctuations in the MYR/USD will likely affect the cost
+of feed for the poultry segment.
+c.
+Liquidity Risk
+[MDA_P020]
+The Group maintains an adequate level of cash and cash equivalents and banking facilities to ensure sufficient
+liquidity to meet its liabilities as and when they fall due. The Group’s exposure to liquidity risk arises principally
+from trade payables, other payables and other bank borrowings (bankers’ acceptances and a revolving credit).
+d.
+Competition Risk
+[MDA_P021]
+CCK retail stores face increasing risks from existing and new competitors who offer similar products and compete
+on the basis of pricing. To mitigate this, we are continuously looking at means to improve our competitive edge.
+The Management not only focuses on pricing of products but also in evolving business models which improve
+the customers’ shopping experience.
+e.
+Biosecurity And Disease Risk
+[MDA_P023]
+In line with our continued focus on shareholder returns, the Board is pleased to announce a first and final single-tier
+dividend of 3.5 sen per share for the financial year ended 31 December 2022.
+PROSPECTS
+With Covid-19 and movement restrictions firmly behind us, consumer sentiment has recovered as all sectors of the
+economy returned to normal. This is expected to have a positive direct impact on all our business segments as the
+flowthrough effects of a complete reopening is realised.
+That said, the volatility of the US dollar against the Malaysian Ringgit remains a concern as it leads to fluctuations in
+prices of corn and soy. This is further exacerbated by heightened inflation that has led to an overall increase in raw
+material input costs as well as along the supply chain. This phenomenon is likely to persist into the coming financial
+year and will affect the cost structures of both the retail and poultry segments.
+[MDA_P025]
+Expansion of the retail network will continue to be carried out strategically. Increasing economies of scale and the
+efficiency of our fully integrated supply chain continues to remain a key priority and focus. On the Indonesian front, we are increasingly optimistic as the demand for our in-house manufactured brands of
+sausages and nuggets continues to be robust. The commencement of operations of our new facility in Pontianak,
+Indonesia in January 2021 boosted the production of sausages which allowed us to cater for increasing demand. Further expansions and capital expenditure will be invested when required to remove production bottlenecks as
+demand catches up with production capacity. Feed prices constitute a significant portion of the poultry segment’s costs which in-turn make up about 40% of our
+retail segment’s sales. We will try to mitigate the adverse impact of higher feed prices by economies of scale and a
+gradual increase in selling prices of our chicken products as and when necessary. Additionally, our vertically integrated
+business model allows for a more efficient cost pass through mechanism and cost savings along the supply chain.

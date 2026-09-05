@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI gains 2.54% in February
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-02-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/02/29/fbm-klci-gains-254-in-february
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the day higher on Thursday, bucking the trend as other regional indices edged down while the ringgit held its ground against the US dollar. The FBM KLCI rose 5.85 points, or 0.38% to close at 1,551.44. The index gained 38.46 points, or 2.54% in February from 1,512.98 on Jan 31. The overall market was significantly negative with 679 decliners to 370 gainers while 431 traded flat. Market activities rose to 5.34 billion shares worth RM7.01bil changed hands.
+
+[NEWS_P002] Among the gainers, Nestle jumped RM1.10 to RM124.90, Amway rose 65 sen to RM7.14, Malaysian Pacific Industries added 62 sen to RM29.04 and United Plantations advanced 44 sen to RM22.12. PBA Holdings slid 52 sen to RM1.94, BAT fell 24 sen to RM8.35, Hap Seng eased 20 sen to RM4.42 and MSM declined 19 sen to RM2.60. Meanwhile, the ringgit was quoted at 4.7515, up 0.41% against the US dollar. The local currency was up 0.23% against the Singapore dollar at 3.5335.
+
+[NEWS_P003] Elsewhere in the region, Japan’s Nikkei 225 fell 0.11%, Hong Kong’s Hang Seng Index fell 0.15%, South Korea’s Kospi lost 0.37% and China’s CSI 300 Index rose 1.91%.

@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 56.699719,
+      "current_value": 15153.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P003]",
+      "metric": "margin",
+      "note": "margin: stated 37.10%, calculated 56.70% from profit/revenue, status material_discrepancy.",
+      "previous_value": 26725.0,
+      "source_text": "The summary of the Statement of Comprehensive Income is as follows: (RM ‘000) FPE 2022 (18 Months) FYE 2021 Variance FPE 2022 vs. FYE 2021 Revenue 26,725 19,499 37.1% Gross Profit (“GP”) 15,153 6,193 >100.0% Gross Profit Margin (“GPM”) 56.7% 31.8% Administrative Expenses -13,051 -6,723 (94.1%) Other",
+      "stated_pct": 37.1,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": 4069.72,
+      "current_value": 4069.72,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P006]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 4069.72, stated total 19.50, difference 20770.36%.",
+      "previous_value": 19.5,
+      "source_text": "For the FPE 2022, the Group recorded a total revenue of RM26.72 million, higher compared to FYE 2021 total revenue of RM19.50 million which represents an increase of RM7.23 million or 37.1%. The increase was substantially contributed by all segments under IHB Group comprising of Hotel Operation, Hot",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    }
+  ],
+  "document_id": "MDA_7243_MAGMA_2022",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "margin: stated 37.10%, calculated 56.70% from profit/revenue, status material_discrepancy.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 4069.72, stated total 19.50, difference 20770.36%."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 61,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 1,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

@@ -1,0 +1,110 @@
+document_id: MDA_3255_HEIM_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 77, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+“The cover of our Annual
+Report 2020 is symbolic of our
+organisation’s collective sentiment
+during the difficult time, it
+represents our team spirit to keep
+the lights shining in the
+darkness, and it reflects
+our commitment as One
+Strong Winning Team to
+stay true to our purpose:
+Brewing a Sustainable
+Future for Our People,
+Business and Planet.”
+Roland Bala
+Managing Director
+One Strong
+Winning Team
+[MDA_P002]
+ANNUAL REPORT 2020 | HEINEKEN MALAYSIA BERHAD
+Management Discussion & Analysis
+2020 was a difficult year. The Covid-19 global pandemic brought the
+economy to a standstill. Faced with the immediate need to bring the
+contagion under control, the Malaysian Government introduced the
+Movement Control Order (MCO) in March 2020, allowing only essential
+sectors of the economy to continue operating, whilst putting strict
+restrictions on all other activities, including social activities. Looking back at the 46 consecutive days from 18 March to 3
+May 2020, it can be said that those were the darkest days of our
+Company’s history in Malaysia as we had to suspend operations
+at our Sungei Way Brewery during this period to comply with
+the MCO. The cover of our Annual Report 2020 is symbolic of
+our organisation’s collective sentiment during the difficult time,
+it represents our team spirit to keep the lights shining in the
+darkness, and it reflects our commitment as One Strong Winning
+Team to stay true to our purpose: Brewing a Sustainable Future
+for our People, Business and Planet.
+[MDA_P006]
+Who We Are
+Our Strategies
+Performance
+Review
+Growing
+Our People
+Protecting
+Our Planet
+How We Are
+Governed
+Our Numbers
+And Others
+HEINEKEN MALAYSIA BERHAD | ANNUAL REPORT 2020
+of the proactive interventions that we have undertaken. As
+such, we aim to continue maintaining a high level of discipline
+in enforcing the health-related SOPs and continually remind
+employees about the necessary health and safety precautions. STAYING CONNECTED WITH CUSTOMERS & CONSUMERS
+We started 2020 with the Chinese New Year festive campaign
+led by Tiger Beer, Malaysia’s No. 1 Beer. The year of the rat
+coincided with Tiger’s 88th anniversary and we went all out
+to give consumers an exciting festive season. Aptly named
+‘Double The Huat’ in honour of the double celebration, we ran
+a successful series of promotions, contests and activations on
+a grander scale than ever before across all channels, including
+restaurants, coffee shops, supermarkets, convenience stores and
+e-Commerce. However, due to the pandemic and nationwide lockdown,
+most of the commercial plans for the rest of the year were
+affected. For example, the annual Guinness St. Patrick’s
+celebration in March had to be canceled.
+[MDA_P007]
+Meanwhile, we had
+to adapt to the new realities that Covid-19 had forced upon
+society. Consumption drivers such as dining out and having
+social gatherings at restaurants, pubs and bars were curtailed
+significantly by various restrictions. Indeed, certain outlets
+with liquor licenses such as pubs and entertainment outlets
+were prohibited from operating. Unfortunately, the perpetual
+restrictions have significantly impacted the economy and
+consumer sentiment. Local businesses who depend on beer as a
+source of revenue have struggled to survive. The Confederation
+of Malaysian Brewers Berhad estimates that around 3,800 of
+these outlets have remain closed during the year with some
+38,000 jobs at risk. During this challenging year, it was important to remain
+connected with our customers and consumers. We leveraged the
+power of our brands to help re-connect consumers to businesses. Through our Tiger Save Our Street Food campaign, we channeled
+RM1.5 million to help restaurants, food courts and street food
+vendors who were affected directly by the lockdown. During the
+campaign, supporters could purchase a voucher for a big bottle
+of Tiger or Tiger Crystal.
+[MDA_P011]
+Group profit before tax dropped 52%, principally due to the
+same reasons mentioned above and the one-off settlement of
+the Customs’ Bills of Demand amounting to RM7.2 million in
+June 2020 as well as and a one-off provision of RM14 million in
+December 2020 for costs associated with the organisational
+restructuring exercise being implemented in 2021. Nevertheless,
+this was partially mitigated by the cost savings measures. Net cash from operating activities for FY2020 decreased by 45%
+to RM226 million, in tandem with the decline in Group revenue
+and operating profit and also due to the reduction in business
+activities in line with the cost saving initiatives undertaken by
+the Group during the year. Net assets for FY2020 was recorded at RM349 million, 11%
+lower versus FY2019 mainly due to the decline in Group business
+performance and the reduction in capital expenditure in line
+with the cost saving measures. The Group paid a total of RM1.05 billion in excise, custom duties,
+and sales tax for the year. The Group incurred a total of RM44
+million in income tax, translated into an effective tax rate of 24%.

@@ -1,0 +1,96 @@
+document_id: MDA_5306_FFB_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 54, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P047]", "note": "margin: stated 3.40%, calculated 27.16% from profit/revenue, status material_discrepancy.", "source_text": "The Group faced a variety of macroeconomic challenges during the year, Despite recording commendable topline growth, the unprecedented rising costs have resulted in our margins compressing, resulting in lower profitability of the Group. Despite this challenging backdrop, the Group has recorded a pro", "status": "material_discrepancy"}], "document_id": "MDA_5306_FFB_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 2, "num_consistent_checks": 1, "num_financial_mentions": 139, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P002]
+Operational
+Review
+pg88
+[MDA_P003]
+In our commitment to drive sustained value creation, we thoroughly analyse and evaluate all market factors and
+developments that hold the potential to shape our operations. The strategies we craft to address these global
+megatrends and respond to the shifting industry landscape play a vital role in safeguarding the sustainability and
+performance of our business. Macroeconomic Challenges
+Description
+While the latest trends in the International Monetary Fund (IMF)’s
+Global Uncertainty Index indicate that uncertainty due to factors
+such as the COVID-19 pandemic and international trade tensions
+have contracted compared to last year, the Russia-Ukraine conflict
+remains the dominant contributor for global economic insecurity1. The ongoing war is likely to continue to cause volatility in
+commodities, materials and logistics costs. Meanwhile, the World Bank recently softened its stance on
+impending global recession, but forecasted global GDP growth
+of just 2.1% in 2023, well below the 3.1% in global growth recorded
+last year.
+[MDA_P004]
+Despite this, we believe the expected continued growth
+in demand for dairy products in Southeast Asia, coupled with
+expected higher economic growth overall in Southeast Asia than
+the global average provides optimism for our expansion plans. In Australia, strong domestic demand for milk products, combined
+with limited Australia milk pool has resulted in Australia farmgate
+prices to continue to remain elevated. 1.
+[MDA_P005]
+https://www.imf.org/en/Blogs/Articles/2023/01/26/global-economic-uncertainty-remains-
+elevated-weighing-on-growth
+• Given the long-term nature of the headwinds and to counter the excessive impact of
+the input cost increases, we have increased our prices by an average of 5% in both
+August 2022 and July 2023 for our chilled products in Malaysia, on top of a 10% price
+increase in Singapore in August 2022
+• To counter the elevated Australia farmgate prices, we have already started to vary our
+milk mix by expanding further our farm capacities in both Malaysia and Australia
+• We closely monitor prices and stock levels to enable us to pre-emptively manage
+against supply and demand volatility
+• We are hedging our costs by locking in prices for our ingredients upfront for future
+deliveries as well as entering into forward contracts to hedge our foreign currency exposure
+OUR RESPONSE
+Key Stakeholders
+Material Matters
+Capitals
+Farm Fresh Berhad | Integrated Annual Report 2023
+M a n a g e m e n t D i s c u s s i o n & A n a l y s i s
+Strategic Review
+Market Landscape
+– Key Market Trends
+[MDA_P006]
+Transition to a
+Low-Carbon Economy
+Description
+The latest May 2023 update released by the World Meteorological
+Organization (WMO) has indicated that global temperatures will surge to
+record highs in the next five years, with a high chance of at least one
+year exceeding the 1.5°C above pre-industrial levels that was specified
+in the Paris Agreement2. Given our reliance on resources and land, the dairy industry significantly
+contributes to global emissions, whether through methane released from
+cows, nitrous oxide from fertilisers, carbon dioxide from tillage or the
+use of fossil fuels for farming and processing. We have thus elevated the minimisation of our environmental impact as
+a key priority in order to promote sustainability within our industry, meet
+the expectations of our customers and stakeholders, and enhance the
+long-term potential of our business. 2.
+[MDA_P007]
+https://public.wmo.int/en/media/press-release/global-temperatures-set-reach-new-records-
+next-five-years
+• After undertaking our first independent carbon footprint exercise
+for the year 2020 and taking steps to reduce our carbon footprint,
+we have then undertaken a second independent carbon footprint
+inventory exercise to evaluate our performance for the calendar
+year 2022 and assess the progress that we have made over the
+years
+• We have also started utilising renewable energy with the
+commencement of our solar PV projects at our Muadzam Shah
+and Larkin farms, and a new rooftop solar facility slated for launch
+at our Taiping processing facility in early 2024
+• We are also on track to launch a new biogas plant at our Muadzam
+Shah by the end of 2023, with an additional biogas plant planned
+for our Taiping farm
+• We continue to adopt regenerative agriculture practices across
+our farms to reduce our reliance on chemical fertilisers and curb
+methane emissions from animal waste, with a target of implementing
+regenerative agriculture practices across all our farms by 2024
+OUR RESPONSE
+Key Stakeholders
+Material Matters
+Capitals
+Farm Fresh Berhad | Integrated Annual Report 2023

@@ -1,0 +1,79 @@
+document_id: MDA_8303_LOTUS_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+This can be seen from its uptrend in sales performance since the financial year
+ended (“FYE”) 2018 (FYE 2018: RM39.007 million, FYE 2019: RM57.893 million, FYE 2020: RM 55.098 million and FYE
+2021: RM51.762 million). The Company had also initiated continuing efforts to improve its cost structure, operational
+efficiency, working capital management and supply chain stability. With all these elements in place, we are confident that
+the Company will be able to achieve a sustainable profit in the ensuing year. On 7 July 2020, with the completion of the regularisation plan, LKFM has regularised its financial condition and no longer
+triggers any of the criteria under Paragraph 2.1 of Practice Note 17 (“PN17”) of the Main Market Listing Requirements of
+Bursa Securities. Bursa Securities has decided to approve LKFM’s application for an early upliftment from being classified as a PN17
+company. LKFM has uplifted from being classified as a PN17 company effective from 9.00 a.m., Wednesday, 8 July 2020.
+[MDA_P005]
+As compared with the prior year, LKFM
+has decreased its gross profit by 21.79%. The gross profit margin for the current year is 8.28% (FYE 2020: 9.94%). The
+main reason for the declining margin is due to the fluctuation of wheat prices. The COVID-19 pandemic had caused the
+global supply of wheat to decrease which resulted in an increase in the market price of wheat. Furthermore, the sea-freight rate also had increased due to the imbalance in container box demand issue in the shipping
+industry. As a result, the cost of importing wheat had increased which led to a lower gross profit margin. The Group’s inventories level for the current FYE 2021 had decreased by 47.97% to RM4.497 million (FYE 2020: RM8.642
+million), where LKFM is trying to maintain a lower inventory level to minimise the holding cost and carrying cost. By doing
+so, it can also reduce the risk of slow-moving stock. Trade receivables had decreased by 8.79% to RM5.940 million (FYE 2020: RM6.512 million) which is in line with current
+financial year sales. In short, the sales team is actively approaching customers for collection.
+[MDA_P007]
+LOTUS KFM BERHAD Registration No. 198401007083 (119598-P)
+Review of Group’s Financial Results and Financial Conditions (COnt’d)
+The Group has low gearing as at end of the current financial year which the debt-to-equity ratio is 0.12 (FYE 2020: 0.17).
+On the payables side, it has decreased significantly to RM3.393 million with a decrease of 71.41% (FYE 2020: RM11.869
+million). The reason for such a substantial decrease was because the debts that have been settled by the Group and the
+Company.
+For the FYE 2021, the Group had recorded with deficit net operating cashflow of RM4.825 million (FYE 2020: deficit net
+operating cashflow RM19.081 million).
+Anticipated Business Risks
+The business risks faced by the Group include market competitions, volatility of imported raw material prices, movements
+of currency exchange rates, the performance of user industries and changes in economic, political and regulatory
+conditions.
+a)
+Market competitions
+[MDA_P008]
+The flour milling sector remains competitive among the flour milling operators locally as well as imported wheat flour
+and starch. The Group will continue to develop a new market strategy to capture a new market, particularly on less
+well-served segments, improve its distribution channels as well as product mix and quality to meet a wider range of
+customers’ needs and requirements.
+b)
+Volatility of raw material prices
+[MDA_P009]
+The volatility of prices on imported raw materials such as wheat and tapioca remain the key challenge. Both wheat
+and tapioca are globally traded commodities, and as a result, their prices may fluctuate from time to time. The price
+of wheat and tapioca are influenced by global macroeconomic factors including, among others, the supply and
+demand of wheat and tapioca, as well as stock levels.
+[MDA_P010]
+As the cost of these raw materials constitutes a major part of wheat flour and tapioca starch cost, managing these
+costs remain the key challenge.
+[MDA_P011]
+Any increase in the prices of these imported raw materials, if unable to pass on to customers on time, may adversely
+affect the financial performance of the Group.
+[MDA_P012]
+The stability of imported raw material prices remains a key challenge for all the industry players. This is an inherent
+risk faced by all the industry players.
+[MDA_P013]
+The Group has taken proactive measures to mitigate the unexpected interruption of the supply of these imported
+raw materials as well as their prices by increasing inventory to a reasonable level when prices are relatively low.
+Management Discussion and Analysis
+(cont’d)
+[MDA_P015]
+As LKFM’s main raw materials such as wheat and tapioca are fully imported from overseas markets and are traded
+in US currency. Fluctuations in US/RM rates will have a great impact on its raw material costs and hence its financial
+performance. However, during the current financial year, the Group has purchased the aforesaid raw materials
+locally from its business collaboration partner, LOTUS. Hence, the aforesaid currency risk is protected.
+d)
+Dependency on the performance of user industries
+[MDA_P016]
+Flour is mainly used in food manufacturing industries and food services operations. Any adverse performance in
+user industries would affect the demand for these products and hence, the financial performance of the Group. We
+will continue to take a prudent approach to manage this risk. However, this is an inherent risk in the wheat flour
+milling industry.
+e)
+Changes in economic, political and regulatory conditions

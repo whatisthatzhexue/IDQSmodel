@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia ends week in the red despite trimming losses
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-01-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/24/bursa-malaysia-ends-week-in-the-red-despite-trimming-losses
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia trimmed its losses on Friday but stayed in the red as profit-takers outpaced bargain-hunters. The benchmark FBM KLCI slid 3.47 points, or 0.22% to 1,573.73 after hitting an intraday high of 1,577.50 and low of 1,566.84. For the week, the index rose 0.45%. Sellers led gainers by 654 to 314, while 491 counters traded unchanged. Volume was three billion shares, valued at RM3.06bil. Among the decliners, Dutch Lady tumbled 76 sen to RM31.02, YTL Power declined 44 sen to RM3.61, Ajinomoto lost 26 sen to RM14.90 and F&N fell 26 sen to RM25.54.
+
+[NEWS_P002] Petronas Dagangan jumped 46 sen to RM19.90, Petronas Gas rose 32 sen to RM17.40, Khind gained 26 sen to RM2.48 and PPB Group climbed 24 sen to RM12.06. Oriental Kopi, which made its debut on the ACE Market of Bursa Malaysia, fell by 2.5 sen to 85 sen. It was among the most actively traded counters, with 93.14 million shares changing hands. In terms of funds flow, foreign investors and local retailers were the net sellers, recording RM169mil and RM10mil respectively.
+
+[NEWS_P003] Meanwhile, local institutions were net buyers, acquiring RM179mil worth of shares on Thursday. Meanwhile, US West Texas Intermediate crude fell 12 cents to US$74.50 and Brent lost 14 cents to US$78.15 per barrel. Among the key regional markets: Japan’s Nikkei 225 closed down 0.07% to 39,931.98; Hong Kong’s Hang Seng Index rose 1.86% to 20,066.19; China’s CSI 300 Index climbed 0.8% to 3,832.86; Taiwan’s Taiex added 0.97% to 23,525.41; South Korea’s Kospi closed up 0.85% to 2,536.80 and; Singapore’s Straits Times Index fell 0.04% to 3,804.88 points.

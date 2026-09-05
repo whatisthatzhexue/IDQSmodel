@@ -1,0 +1,14 @@
+[TITLE]
+Magma Group gets Bursa Malaysia approval for RCN issuance
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2024-08-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/15/magma-group-gets-bursa-malaysia-approval-for-rcn-issuance
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Magma Group Bhd has obtained Bursa Malaysia Securities Bhd’s approval for the listing and quotation of up to 1.0 billion new shares through redeemable convertible notes (RCN), subject to shareholder approval. The hospitality and investment holding group said in a statement that the issuance could potentially raise up to RM100mil upon completion. Magma said the proceeds from this issuance strengthen its balance sheet by repaying existing bank borrowings, reflecting the company’s commitment to maintaining financial robustness and pursuing strategic growth initiatives.
+
+[NEWS_P002] It added that the balance of the proceeds shall be directed towards working capital and covering the expenses related to the issuance of the RCN. “Receiving the green light for our RCN issuance marks a significant step forward for Magma. This fundraising will allow us to streamline our operations, and reduce financial burdens to further strengthen our position in the hospitality sector. We are also open to exploring new business ventures and enhancing our existing portfolio, setting the stage for sustainable growth,” group managing director Datuk Seri Thomas Liang Chee Fong said.

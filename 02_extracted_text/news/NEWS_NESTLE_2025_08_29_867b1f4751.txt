@@ -1,0 +1,16 @@
+[TITLE]
+Investors take profit from Bursa ahead of Merdeka Day holiday
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-08-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/29/investors-take-profit-from-bursa-ahead-of-merdeka-day-holiday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI remained on a slide on Friday in the absence of domestic catalysts as the corporate results period entered its final day. Profit-taking activities in the lead up to a long weekend holiday continued to exert downside pressure on the index, leading to a marginal 0.24-point lower open at 1,586.83. By 9.15am, the index had fallen 5.97 points to 1,581.1. US markets were positive overnight as stocks rebounded on a more optimistic reading of Nvidia's latest results and what it meant for the future of the AI sector.
+
+[NEWS_P002] Investors were also looking forward to the likelihood of a rate cut in September, going by signals dropped by Federal Reserve policymakers. "Range-bound trade is likely to continue in the absence of major local catalysts, with market attention centered on upcoming U.S. economic data that could shape the trajectory of interest rates," said TA Securities on its outlook for the FBM KLCI. However, Malacca Securities is taking a more positive view of the market ahead of Merdekda Day weekend.
+
+[NEWS_P003] "Given the S&P500 hitting a record high, we expect the FBMKLCI to trade on a positive note despite the long weekend break, with the key focus likely on the tech sector," it said in a note. Among the early price movers, Nestle slid 38 sen to MR95.62, Maybank dipped five sen to RM9.90 and Tenaga Nasional shed six sen to RM13.38. Top actives were Genetec sliding 7.5 sen to 56 sen, Tanco down two sen to 70.5 sen and Reneuco falling 0.5 sen to two sen.

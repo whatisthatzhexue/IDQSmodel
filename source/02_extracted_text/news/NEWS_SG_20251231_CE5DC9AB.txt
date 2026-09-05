@@ -1,0 +1,65 @@
+[TITLE]
+Every mineral is critical in the new metals age
+
+[LEAD]
+The US ‌Geological Survey's (USGS) updated critical minerals list now encompasses 60 different materials, representing around 80% of all the mined commodities on the periodic table.
+
+[NEWS_P001]
+THE US ‌Geological Survey’s (USGS) updated critical minerals list now encompasses 60 different materials, representing around 80% of all the mined commodities on the periodic table.
+
+[NEWS_P002]
+Some are well-known industrial inputs such as copper, nickel and zinc.
+
+[NEWS_P003]
+Many are not. Among the rare earth elements are exotic metals such as gadolinium, ytterbium and praseodymium.
+
+[NEWS_P004]
+From aluminium through to zirconium, all are considered “essential for national security, economic stability and supply chain resilience,” according to the USGS.
+
+[NEWS_P005]
+The spectrum of metals now deemed “vital for a modern American economy” speaks to a quiet revolution in how metals are used, one nurtured more in the laboratory than in the blast furnace.
+
+[NEWS_P006]
+Many critical minerals are “spice metals” – used in only tiny quantities but with a transformative impact.
+
+[NEWS_P007]
+Consider, for example, the humble semiconductor chip, the foundation stone of modern technology, ubiquitous but unseen in our laptops, mobile phones and cars.
+
+[NEWS_P008]
+Silicon ‌has been the wafer material of choice for decades but is close to its technical limits when it comes to advanced computing.
+
+[NEWS_P009]
+Sprinkle in a dash of gallium and germanium, however, and the chip’s capacity rises exponentially.
+
+[NEWS_P010]
+As garnish for the finished product, you’ll need a mix of palladium, arsenic, iridium, titanium, copper and cobalt for plating, wiring, doping and packaging.
+
+[NEWS_P011]
+It’s a lot of metal for something so small, but ​the spice is worth it as the semiconductor industry seeks ever more powerful chips.
+
+[NEWS_P012]
+The spice is also highly prized by the US military, which helped develop the technology at the Defence Advanced Research Projects Agency.
+
+[NEWS_P013]
+Super-powerful gallium nitride chips enhance radar capability and boost drone-jamming capacity, a major defence priority in an age of drone swarms.
+
+[NEWS_P014]
+The accelerator behind much of the recent metals revolution has been the global drive to reduce carbon emissions.
+
+[NEWS_P015]
+The road to phasing out fossil fuels is paved with metals such as lithium, cobalt, nickel and manganese.
+
+[NEWS_P016]
+Lithium was a niche industrial mineral used mainly in industrial lubricants until a little-known start-up called Tesla unveiled the Roadster electric vehicle (EV) in 2006.
+
+[NEWS_P017]
+Now lithium sits at the heart of the shift from internal combustion engines to cleaner technology.
+
+[NEWS_P018]
+Lithium and other metallic cathode ingredients are blended as powders into bespoke recipes for battery makers. It’s more chemistry than metalwork.
+
+[NEWS_P019]
+A battery alone won’t make a ‍vehicle move. For that you need an electric motor, and the best are permanent-magnet motors ‍rich in ​rare earths.
+
+[NEWS_P020]
+Smaller magnet motors are needed to operate the windscreen wipers, adjust the seats and lower the windows.

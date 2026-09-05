@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: IJM, SP Setia, Sapura Resources, Dayang, Magma, BHIC, 99 Speed Mart, SunREIT, Keyfield, Samchem, Dialog, Duopharma, ELK-Desa
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2024-08-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/16/trading-ideas-ijm-sp-setia-sapura-resources-dayang-magma-bhic-99-speed-mart-sunreit-keyfield-samchem-dialog-duopharma-elk-desa
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. IJM Corp Bhd ’s proposed acquisition of a 44.8% stake in Pestech International Bhd in a RM124mn cash deal, or 15.5 sen per share, has fallen through. S P Setia Bhd has commenced arbitration proceedings against Putrajaya Holdings Sdn Bhd for breach of contract with claims in damages of RM69.5mn. Sapura Resources Bhd said its board of directors is assessing the competition and conflict that might occur in its aviation business, if Explorer Group Sdn Bhd and Royal Jet LLC join hands in the business.
+
+[NEWS_P002] Dayang Enterprise Holdings Bhd ’s wholly-owned unit DESB Marine Services Sdn Bhd has been appointed by Petronas Carigali Sdn Bhd as one of its panel of contractors for offshore support vessel services for petroleum arrangement contractors. Magma Group Bhd has obtained Bursa Malaysia Securities Bhd’s approval for the listing and quotation of up to 1.0bn new shares through redeemable convertible notes, subject to shareholder approval. Boustead Heavy Industries Corp Bhd has secured a RM378mn contract from the Defence Ministry for in-service support and performance-based services for the Royal Malaysian Air Force helicopters.
+
+[NEWS_P003] Malaysia's top mini-market chain retailer 99 speed Mart Retail Holdings on Thursday launched an initial public offering that would raise RM2.4bn, the country's biggest IPO in seven years. Sunway Real Estate Investment Trust reported an 11.3% increase in net property income to RM129.3mn in 2QFY2024, from RM116.2mn a year ago, driven by an enlarged property portfolio and improved retail and hotel segment performance. Keyfield International Bhd’s net profit for the 2QFY2024 surged 131.8% to RM70.0mn from RM30.2mn a year ago, driven by revenue growth contributed by its own vessels and third-party vessel segments.
+
+[NEWS_P004] Samchem Holdings Bhd 's net profit for 2QFY2024 dropped 6.3% to RM5.1mn from RM5.4mn a year ago due to lower gross profit margins. Dialog Group Bhd reported a 9% increase in net profit to RM138.4mn for 4QFY2024 from RM126.8mn a year earlier, driven by higher upstream production. Duopharma Biotech Bhd reported a 33.1% increase in net profit to RM16.7mn in 2QFY2024, from RM12.5mn a year ago. Elk-Desa Resources Bhd reported a 4% decline in net profit to RM8.1mn for the 1QFY2025, from RM8.5mn a year ago.
+
+[NEWS_P005] Revenue grew 17% to RM45.9mn, driven by increased contributions from its hire purchase and furniture segments.

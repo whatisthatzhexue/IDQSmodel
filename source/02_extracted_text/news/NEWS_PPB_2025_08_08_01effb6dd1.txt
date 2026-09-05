@@ -1,0 +1,16 @@
+[TITLE]
+Late buying interest pushes FBM KLCI to close at day’s high
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-08-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/08/late-buying-interest-pushes-fbm-klci-to-close-at-days-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Last-minute buying interest pushed the FBM KLCI to close at its intraday high on Friday, after a subdued session earlier in the day. The FBM KLCI ended 7.87 points higher or 0.51% at 1,556.98, its intraday high, after rebounding from a low of 1,546.41. For the week, the benchmark rose 1.54%. Broad market sentiment continued to be weak, with 541 losers outpacing 448 gainers and 494 counters which traded unchanged. Turnover was at 2.42 billion shares valued at RM2.22bil.
+
+[NEWS_P002] PETRONAS Gas was the top gainer on Bursa Malaysia, rising 52 sen to RM18.68, followed by United Plantations, up 22 sen to RM21.78, Riverview Rubber Estates, up 20 sen to RM3.05, and Dutch Lady , up 20 sen to RM27.60. Among the decliners, Nestle fell RM2.30 to RM87.50, F&N dropped 70 sen to RM27.50, PPB Group slipped 18 sen to RM9.12, and BAT eased 16 sen to RM4.91. On the forex market, the ringgit eased 0.16% against the US dollar to 4.2430 and slipped 0.08% against the Singapore dollar to 3.3019.
+
+[NEWS_P003] It weakened 0.7% against the pound sterling to 5.6980 but firmed 0.11% against the euro to 4.9386. Regional bourses finished mixed today. Among key regional markets: Japan’s Nikkei 225 closed up 1.85% to 41,820.48; Hong Kong’s Hang Seng Index fell 0.89% to 24,858.82; China’s CSI300 Index declined 0.24% to 4,104.97; Taiwan’s Taiex rose 0.07% to 24,021.26; South Korea’s Kospi closed down 0.55% to 3,210.01 and; Singapore’s Straits Times Index fell 0.43% to 4,239.83 points.

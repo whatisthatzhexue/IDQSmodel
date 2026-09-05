@@ -1,0 +1,133 @@
+document_id: MDA_2836_CARLSBG_2020
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 47, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_2836_CARLSBG_2020", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 141, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P002]
+We essentially suspended
+production and distribution in compliance
+with unprecedented restrictions, which led
+to business disruption. From
+the
+beginning,
+we
+began
+engaging with our stakeholders in
+earnest, communicating our efforts
+to contain the virus and offering
+support and reassurance to our
+employees, business partners and
+customers. Our community efforts
+remained, with our Safer Schools
+campaign a new step-up in
+response to public fears over the
+outbreak of COVID-19. Our brewery was finally allowed to
+resume full operations following the
+start of the Conditional MCO (CMCO)
+period in Malaysia on 4 May 2020. Thankfully,
+from
+May
+onwards,
+we saw a gradual lifting of social
+distancing measures in Malaysia,
+though not all on-trade businesses
+such as entertainment outlets were
+allowed to operate. In Singapore, the
+government announced on 19 June
+2020 that on-trade outlets were only
+to re-open partially under ‘new normal’
+guidelines.
+[MDA_P003]
+Accordingly,
+our
+financial
+results
+suffered a tumultuous first half, with
+both revenue and profit severely dented
+due to the stay-at-home orders and
+social distancing restrictions imposed
+by authorities in Malaysia, Singapore, as
+well as our investment in Sri Lanka.
+[MDA_P004]
+Statements from Our Leadership
+MANAGING DIRECTOR’S MESSAGE
+AND MANAGEMENT DISCUSSION & ANALYSIS
+Overall, volumes were impacted due to the suspension of
+brewery operations and distribution from the start of MCO but
+improved gradually towards a recovery that started from June
+onwards as lockdown measures eased. However, the much-dreaded second wave began with new cases
+escalating from September onwards, once again triggering
+another round of stricter lockdown measures that were imposed
+in most states in Malaysia. Regrettably, it took another toll on
+on-trade consumption which had been on the path toward slow
+but promising recovery in the fourth quarter. As local businesses and their employees suffered from the
+lockdowns and loss of livelihoods, we prioritised our employees’
+well-being and welfare from the very start by ensuring that all
+our full-time employees would remain on full salary with no
+reduction throughout 2020. This helped boost morale among our staff, despite having to
+work under very difficult and challenging circumstances at the
+brewery, in marketplace or from home.
+[MDA_P006]
+As a collective, our people are now closer than ever
+before, brought together by the challenges, setting our company
+on the right course to benefit from a cautiously hopeful rebound
+in 2021, all while living our purpose of BREWING FOR A
+BETTER TODAY & TOMORROW.
+[MDA_P007]
+Annual Report 2020
+CARLSBERG BREWERY MALAYSIA BERHAD [196901000792 (9210-K)]
+MANAGING DIRECTOR’S MESSAGE
+AND MANAGEMENT DISCUSSION & ANALYSIS
+CORPORATE STRATEGY: SAIL’22
+OUR THREE STRATEGIC LEVERS
+STRENGTHEN
+THE CORE
+POSITION FOR
+GROWTH
+DELIVER VALUE FOR
+SHAREHOLDERS
+SAIL’22: Navigating the Storm
+Our SAIL’22 corporate strategy remained firmly in progress during a year that was unprecedented on so many levels. SAIL’22 dates to March 2016, aimed at turning the Carlsberg Group of companies into a successful, professional and attractive brewer
+in our markets. We define this by delivering sustainable and organic top- and bottom-line growth, being the preferred supplier to our
+consumers and customers and consistently delivering value for shareholders, employees and society alike. During the crisis, we were further guided by the Carlsberg Group’s COVID-19 leadership triangle introduced at the start of the
+pandemic that balances between ‘Situational Leadership’, ‘Defend Operating Profit and Cash’ and ‘Prepare for the Rebound’.
+[MDA_P008]
+In 2020, SAIL’22 took on an overarching theme of ‘Navigating the Storm’ in recognition of the Group’s COVID-19 response measures
+necessary for business continuity and sustainability.
+[MDA_P009]
+Statements from Our Leadership
+MANAGING DIRECTOR’S MESSAGE
+AND MANAGEMENT DISCUSSION & ANALYSIS
+OUR TWO ENABLERS
+OUR SEVEN STRATEGIC PRIORITIES
+CREATE A
+WINNING CULTURE
+DEFEND OUR LICENSE
+TO OPERATE
+‘Grow in Mainstream’ with Carlsberg Danish Pilsner
+and Carlsberg Smooth Draught
+‘Win in Each Store’ with better in-store execution,
+a step-up from the previous ‘Win in Store’
+‘Fund the Journey’ by delivering efficiencies in
+Operating Expenses, Value Management and the
+Supply Chain
+‘Go Big in Premium’ with Kronenbourg 1664 Blanc,
+Somersby cider, Asahi Super Dry and Connor’s
+Stout Porter
+‘Innovate with Digital’ replacing ‘Build New
+Revenue Streams’
+Achieve ‘Organic Growth in Operating Profit’
+Deliver ‘High and Stable Dividend Yield’ for
+shareholders
+Amidst all the uncertainties, whether from COVID-19, domestic and global macroeconomics or socio-politics, we remained agile and
+disciplined in implementing our SAIL’22 priorities, especially on our Fund the Journey initiatives and an ever-increased focus on cost
+control, embedded in our Malaysia and Singapore operations.
+[MDA_P010]
+To recap, the strategy consists of three levers: Strengthen the Core, Position for Growth and Deliver Value for Shareholders. These
+three levers are further cascaded down into seven strategic priorities, which form the core of our business model and performance
+priorities. Underpinning the three levers and seven business objectives are the two enablers: Create a Winning Culture and Defend
+our License to Operate. This strategy remains the bedrock of our operations, having turned the wider Carlsberg group of companies around with visible
+results over the past five years, and remains in place as we approach 2021.

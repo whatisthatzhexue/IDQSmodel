@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI ends marginally higher as ringgit strengthens
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-11-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/07/fbm-klci-ends-marginally-higher-as-ringgit-strengthens
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI eked out a slight gain on Friday, lifted by selective buying in blue-chip counters and the ringgit’s continued strength, despite weaker sentiment across regional markets. The 30-stock index inched up 0.19 of a point, or 0.01%, to close at 1,619.13, easing from an intraday high of 1,621.19. For the week, the benchmark index rose 0.62%. Across the broader market, decliners outpaced advancers 639 to 402, with 618 counters unchanged.
+
+[NEWS_P002] Total turnover reached 3.52 billion shares worth RM2.35bil. A dealer said the local bourse held steady even as most regional markets trended lower, supported by selective buying in index-linked stocks despite weakness in the broader market. Among the gainers, Kuala Lumpur Kepong rose 30 sen to RM21.08, Carlsberg added 20 sen to RM16.62, Dutch Lady gained 18 sen to RM26.96 and FCW Holdings climbed 15 sen to RM1.90. Conversely, Nestle slid 40 sen to RM112.40, Allianz-PA fell 28 sen to RM18.14, MISC lost 14 sen to RM7.65 and Time Dotcom declined 13 sen to RM4.87.
+
+[NEWS_P003] Meanwhile, the ringgit extended its upward trend, appreciating 0.15% to 4.1772 against the US dollar — its strongest level since October 2024. The local currency has risen about 7% year-to-date, making it the best-performing currency in Asia. According to stock market data, foreign investors disposed of RM129mil worth of equities on Thursday, while local institutions emerged as net buyers with RM144mil. Meanwhile, retail investors registered a smaller net outflow of RM15mil.
+
+[NEWS_P004] Across the region, MSCI’s broadest index of Asia-Pacific shares outside Japan declined 0.91%, with major regional markets as follows: Japan’s Nikkei 225 closed down 1.19% to 50,276.37; Hong Kong’s Hang Seng Index fell 0.92% to 26,241.83; China’s CSI300 Index declined 0.31% to 4,678.79; Taiwan’s Taiex closed down 0.89% to 27,651.41; South Korea’s Kospi lost 1.81% to 3,953.76 and; Singapore’s Straits Times Index added 0.16% to 4,492.24 points.

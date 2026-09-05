@@ -1,0 +1,22 @@
+[TITLE]
+Trading ideas: MSM, Malakoff, BFood, BCorp, Bank Islam, Oriental Kopi, Petron, Deleum, Advancecon, CTOS, Felixdynamic, Binastra, Astro, Cuckoo
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-06-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/20/trading-ideas-msm-malakoff-bfood-bcorp-bank-islam-oriental-kopi-petron-deleum-advancecon-ctos-felixdynamic-binastra-astro-cuckoo
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. MSM Malaysia Holdings Bhd expects the 5% sales and service tax on raw sugar to pressure input costs, which could in turn push up prices of refined sugar for industrial buyers. The country’s second waste-to-energy plant, costing RM660mn, will be built in Sungai Udang, Melaka through a partnership between the Ministry of Housing and Local Government and a consortium comprising Malakoff Corporation Bhd and Alam Flora Environmental Solutions Sdn Bhd.
+
+[NEWS_P002] Berjaya Food Bhd ’s wholly-owned subsidiary, Berjaya Food (International) Sdn Bhd (BFI), has disposed of 6.6mn ordinary shares, representing a 0.6% equity interest in 7-Eleven Malaysia Holdings Bhd , to Berjaya Corp Bhd for RM13.2mn cash, or RM2 per share. On a separate note, BCorp’s wholly-owned subsidiary, Inter-Pacific Credits Sdn Bhd, has acquired 42.5mn ordinary shares, representing about a 1.7% equity interest in Berjaya Assets Bhd for RM12.8mn in cash, or 30 sen per share.
+
+[NEWS_P003] Bank Islam Malaysia Bhd has secured a summary judgement against financially distressed Ivory Properties Group Bhd over unpaid loans totalling RM17.8mn. Oriental Kopi Holdings Bhd is proposing to acquire a parcel of leasehold land measuring 5,260.8 sq metres in Kuala Langat, Selangor, from Icon Facade Sdn Bhd for RM23mn. Petron Malaysia Refining & Marketing Bhd said it has been sued by its former transportation services provider over alleged negligent misrepresentation that involved RM174mn in damages and restitution.
+
+[NEWS_P004] Deleum Bhd has accepted a letter of award from Hess Exploration and Production Malaysia B.V. for the provision of solar gas turbine generators maintenance services and materials supply for the North Malay Basin. Advancecon Holdings Bhd said the group has issued a notice of adjudication to China Communications Construction (ECRL) Sdn Bhd over a RM15.2mn payment dispute relating to the East Coast Rail Link project. CTOS Digital Bhd has entered into a strategic partnership with Infomina Bhd , one of only four authorised service providers for Suruhanjaya Syarikat Malaysia data, to gain access to real-time corporate data.
+
+[NEWS_P005] Flexidynamic Holdings Bhd has entered into two share sale agreements — one with HARPS Investment Asia Pte Ltd and another with two minority shareholders — to acquire a 100% equity interest in Nilai-based glove former manufacturer Formtech Engineering (M) Sdn Bhd. Binastra Corporation Bhd’s net profit jumped by 38.9% YoY to RM25.1mn the 1QFY26, driven by strong contributions from the group’s core construction segment. Astro Malaysia Holdings Bhd said it will continue to invest in expanding its content offerings in lower subscription tiers and lowering entry pricing for Astro and its over-the-top platform sooka to grow its customer base, as it reported a 20.8% drop to RM13.5mn in its 1QFY26 earnings.
+
+[NEWS_P006] Cuckoo International (MAL) Bhd, which is set to be listed on the Main Market of Bursa Malaysia on June 24, said its net profit for the 1QFY25 came in at RM27.9mn.

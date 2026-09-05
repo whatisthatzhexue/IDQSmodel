@@ -1,0 +1,71 @@
+document_id: MDA_3026_DLADY_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 70, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 170.485, "paragraph_count": 70, "paragraph_length_distribution": {"max": 1198, "mean": 948.443, "min": 105}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis – Strategic Review | 04 | 05 | 06 | 07 |
+P e r s p e c t i v e
+CHAIRPERSON’S
+[MDA_P018]
+Our aspiration is to demonstrate
+continuous improvement and achieve Top Quartile Score
+by focusing on employee experience, wellbeing, capability
+and leadership development and growth founded on D&I. For more information on how we are committed to
+people and people development, please refer to Better
+People section of our Sustainability Statement on
+pages 080-095 of this Integrated Annual Report. DUTCH LADY MILK INDUSTRIES BERHAD • INTEGRATED ANNUAL REPORT 2023
+MANAGING DIRECTOR’S REPORT
+[MDA_P036]
+This move reduced raw material but
+increased finished goods. In addition, we relied on stock build-
+up of finished goods towards a seamless market transition
+during the Enstek move. Receivables were managed tightly to preserve working capital. The trade and other receivables balance reduced by 3.4%,
+whereas revenue went up by 7.7%. Trade and other payables increased by 17% to RM482.1
+million, driven by higher purchases of finished goods and
+expenditures related to the investments in our new production
+facility. Thus far DLMI has not employed any long-term debt as we
+continued to focus on cash preservation and financed the
+Enstek facility investments through internal funds. The change in provision for restructuring costs, from RM17.9
+million to RM13.1 million, reflects the utilisation and release of
+the provision taken up in 2022 for the restructuring related
+to the closure of some production lines in the PJ manufacturing
+facility. In December 2023 a provision taken to implement
+the fit-for-purpose commercial and administrative
+organisational design going forward.
+[MDA_P053]
+Additionally, our supply chain resilience strategy included
+an increased focus on exploring local suppliers, aligning
+with sustainability principles, and operationalising our
+new manufacturing facility @ Bandar Enstek to full
+capacity. These collectively assured business continuity,
+minimising external impacts on the supply chain. We also adopt a forward-looking stance by negotiating
+long-term contracts with key suppliers, providing
+predictability in the flow of raw materials over an extended
+period. KEY MARKET TRENDS
+Nutritional Status of Malaysia
+The announcement of the Southeast Asian Nutrition
+Surveys II (SEANUTS II) results commissioned by
+FrieslandCampina and conducted by Universiti
+Kebangsaan Malaysia in Peninsular Malaysia had the
+following key findings:
+•
+84% and 70% of children do not meet the average
+needs of vitamin D and calcium respectively. •
+1 in 3 children do not consume breakfast daily. •
+40% of children under 4 years of age have
+anemia.
+[MDA_P070]
+Along with our
+communication highlight on the need for milk consumption as part of a balanced diet, sharing the benefits of milk nutrition,
+we continue to be a much-loved dairy brand by Malaysians – winning the Gold Award in the Putra Brand Awards. Friso Gold grew value too in 2023 in the IFT premium segment through the continued focus on Novas Signature Milk which
+contains small molecules & soft structure, quality checked milk produced by our farms in the Netherlands to enable ‘Good
+Digestion for Stronger Inside’. This year, we strengthened our pool of advocates with Friso Gold DadMombassadors with
+the addition of working with Eyra Hazali and Mira Filzah, to bring strong social and positive word-of-mouth for the brand. We increased our activities in-store and on-ground this year with our Nutri Advisors and multiple baby exhibitions,
+integrated across mediums and channels to drive awareness and engagement of Friso Gold. KEY PRODUCT HIGHLIGHTS
+| Section | 01 | 02 | 03
+Management Discussion & Analysis – Market & Product Review | 04 | 05 | 06 | 07 |
+OUR PRODUCTS & WINNING BRANDS

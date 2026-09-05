@@ -1,0 +1,152 @@
+document_id: MDA_3026_DLADY_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 67, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+DUTCH LADY MILK INDUSTRIES BERHAD | INTEGRATED ANNUAL REPORT 2022
+MANAGING DIRECTOR’S
+REPORT
+DUAL DILEMMA & DAIRY LEADERSHIP
+The dynamics of business have changed over the
+last three years. In 2022, the market continued to
+perform but with uncertainty. There was no stability
+in price movements and trade behaviour. Supply chain
+disruptions affected incoming raw materials and their
+prices. As a result, supply chain and procurement
+from business continuity and resilience perspectives
+were in the limelight replacing the traditional lead role of
+commercial. Local and international political and policy
+contexts made markets even more fragile. Regulatory
+landscape kept evolving, especially in relation to
+responsible business conduct and sustainability. Against
+this backdrop, in our position and approach, we remained
+cautiously optimistic.
+RAMJEET KAUR VIRIK
+Managing Director
+[MDA_P005]
+Management Discussion & Analysis
+During the year, we continued to focus on fulfilling the nutritional
+needs of Malaysians, while striving to build resilient communities
+and business. With our undivided focus on efficiency and equity
+principles, our mid- to long-term goal has been to build a sustainable
+ecosystem. 2022 was all about creating positive value for both
+our shareholders and critical stakeholders. With these agile ways of work, our dairy leadership in
+Malaysia since 1963 is supported by our brand loyalists
+across generations. In 2022, we retained our market
+position as No.1 dairy producer and remained the largest
+purchaser of local fresh milk. absorbing
+the
+inflationary
+costs
+through optimisation measures to
+ensure the burden of price increase
+is
+only
+partially
+transferred
+to
+consumers. tapping the potential of our critical
+mass of over 400 local farms and
+FrieslandCampina’s
+regional
+and
+global network to ensure supply of raw
+materials to meet the demand. CRITICAL CHALLENGE & COLLABORATION
+During the year, we saw the transition of physical
+environment to digital solutions.
+[MDA_P007]
+MANAGING DIRECTOR’S REPORT
+At Dutch Lady Milk Industries Berhad (DLMI), we faced the
+dual dilemma. First was to keep our products accessible
+and affordable even with an increase in the price points,
+mainly due to the unprecedented inflation rate that stood
+at 8.9% (Euromonitor 2022) globally and 3.3% (Dept. of Statistics Malaysia, FY2022) in Malaysia. Second
+was related to our survival and winning profitably amid
+supply chain disruptions and while meeting the consumer
+demand. We successfully addressed these by:
+In 2022, we retained our
+market position as
+no.1 dairy producer
+and remained the
+largest purchaser
+of local fresh milk
+#1
+[MDA_P008]
+DUTCH LADY MILK INDUSTRIES BERHAD | INTEGRATED ANNUAL REPORT 2022
+OUR PURPOSE, PEOPLE, PERFORMANCE & POTENTIAL
+MANAGING DIRECTOR’S REPORT
+Nourishing Our Planet and People in Every Stage of Life. This purpose
+defines our reason for being. It guides our actions and behaviour. This
+means we aspire to keep our total portfolio nutritious, helping Malaysia
+and Malaysians meet their nutritional needs whilst also nourishing our
+employees, suppliers, and rakyat who are critical in driving growth and
+positioning DLMI as a responsible manufacturing hub in the region. In 2022, we saw a step change in our defined and operational approach to
+sustainability that is closer to our purpose. We examined efficiency and
+equity as two principles which will steer our EES&G performance. We also
+adopted the Thriving Framework (Wayne Visser 2020) to examine the
+systemic issues in our value chain and how our sustainability strategies
+are positioned to address them in the near to medium to long-term. This
+is a key milestone that will help us define our planet and people ambitions
+over the next one year, with clear measurable Board and Management KPIs
+and a robust business case.
+[MDA_P011]
+Management Discussion & Analysis
+MANAGING DIRECTOR’S REPORT
+With such a singular focus on purpose and people, we believe performance follows. At DLMI, performance is
+about ‘Winning Profitably’ in a manner that it is meaningful for both our shareholders and stakeholders. In
+other words, we can map our performance in two contexts:
+PERFORMANCE
+a. Product & Market Performance:
+96.4%
+of our consumer
+dairy products
+were compliant
+with Global
+Nutritional
+Standards
+18%
+increase
+in revenue
+Chosen
+BRAND OF
+THE DECADE
+by KANTAR -
+amongst all the
+brands in Malaysia,
+10 consecutive years
+RM54.6
+million profit
+before tax
+[MDA_P013]
+Our product performance can be attributed to
+the role of dairy in addressing undernourishment
+and issues such as stunting. Research indicates
+that the nutritional status of children in
+Malaysia is alarming. According to the South
+East Asian Nutrition Surveys II (SEANUTS II)
+results, commissioned by FrieslandCampina
+and conducted by Universiti Kebangsaan
+Malaysia, 84% and 70% of children do not
+meet the average needs of Vitamin D and
+Calcium, respectively. In addition to that, 40%
+of children under 4 years of age have anemia.
+[MDA_P014]
+As a result, stunting amongst children is
+becoming more common due to deficiencies
+of Vitamin D and Calcium. The National Health
+and Morbidity Survey (NHMS) 2019 showed a
+rise in the prevalence of stunting with 21.8% of
+children under 5 years of age being stunted.
+[MDA_P015]
+In 2022, we saw an uptake in Dutch Lady
+Growing Up Milk and Friso Growing Up Milk
+products, which have been clinically and en
+masse proven effective to fulfil nutritional
+needs of stunted children and promote healthy
+growth. We will continue to invest in innovation
+and trademark technologies to improve our
+product performance that is key to our purpose
+of Nourishing Our Planet and People in Every
+Stage of Life.

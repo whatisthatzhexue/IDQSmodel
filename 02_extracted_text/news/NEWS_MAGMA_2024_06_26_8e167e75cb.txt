@@ -1,0 +1,14 @@
+[TITLE]
+Magma focuses on hospitality growth
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2024-06-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/26/magma-focuses-on-hospitality-growth
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Magma Group Bhd will continue to focus on its main operations in the hospitality sector, emphasising its flagship hotels like Impiana KLCC Hotel, Impiana Hotel Ipoh, Impiana Hotel Senai, and WOLO Kuala Lumpur. “Our focus remains on strengthening our core hospitality operations, leveraging our flagship properties to improve occupancy rates and average room rates (ARR). “Additionally, we are committed to maintaining high standards of corporate governance and operational excellence.
+
+[NEWS_P002] As we look to the future, we are optimistic about the opportunities ahead and are dedicated to creating long-term value for our shareholders,” group managing director Datuk Seri Thomas Liang Chee Fong said in a statement. Magma held its 15th annual general meeting today, where shareholders approved all 12 resolutions, including adopting the FY2023 financial statements, re-electing directors, and reappointing auditors, among others.

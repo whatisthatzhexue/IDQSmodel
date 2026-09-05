@@ -1,0 +1,18 @@
+document_id: MDA_2836_CARLSBG_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": false, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS In embarking on the transition journey of our corporate strategy from SAIL’22 to SAIL'27 in 2023, Carlsberg Malaysia Group (the Group) remains steadfast in implementing the four strategic levers and stands at the forefront of constantly pursuing excellence in the markets in which we operate. SAIL'27 was co-created by the Carlsberg Group leaders and launched in early 2022, as we successfully navigated the COVID-19 pandemic and major supply chain disruptions as a result of the Russia-Ukraine war. The year 2023 marked the first year in our execution of the SAIL’27 corporate strategy, a strategic blueprint that aims to capture long-term growth opportunities with ambitious
+[MDA_P002]
+financial targets, and a commitment to sustainability, responsibility and creating long-term value. Sharpening Our Focus for Future Growth SAIL'27 encapsulates four key strategic levers, each designed to prepare the Group to be more agile and resilient in the face of market developments and global disruptions, while staying the course of sharpening our strategic organisational and
+[MDA_P003]
+financial dynamics. The four levers are enhancing our portfolio choices, constantly executing with excellence, driving a winning culture, and ensuring sustainable funding for our journey. Each of these levers are supported by priorities that interlock to create value for our stakeholders in our quest to be the most successful, professional and attractive brewer. Our Portfolio Choices, Execution Excellence and Cultivating a Winning Culture We are committed to driving innovation in our product offerings through premiumisation, strengthening our mainstream brands, and accelerating our presence in Alcohol-Free Brews and the Beyond Beer segment. This portfolio innovation is complemented by our unwavering commitment to execution excellence. Here, we focus on excelling at the point of purchase; mastering digital, data,
+[MDA_P004]
+and processes; and managing our supply chain end to end, ensuring that every step we take is marked by efficiency and effectiveness. We have built a strong winning culture since the launch of SAIL’22 seven years ago. Building on its solid foundation, we will further strengthen our workforce to be more purpose-
+[MDA_P008]
+OUR PORTFOLIO
+[MDA_P014]
+A NEW JOURNEY - SAIL’27

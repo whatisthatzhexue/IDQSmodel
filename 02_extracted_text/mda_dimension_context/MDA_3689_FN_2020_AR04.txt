@@ -1,0 +1,92 @@
+document_id: MDA_3689_FN_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+We won the prestigious Halal Food and Beverage Excellence Award
+from Halal Development Council, as a testament to our commitment in upholding
+Halal standards throughout our operations and our contribution towards the
+development of the nation’s Halal industry. 100PLUS continued with its Golden
+streak at the Putra Brand Awards in 2019, winning in the Non-Alcoholic Beverages
+category for the seventh consecutive year. At the same time, 100PLUS also
+claimed a Gold for Best Marketer in Media & Content Partnership Marketing at
+CMO Asia Awards 2019 and a Bronze for the Best Use of Influencers at the Effie
+Awards 2019. Concerted efforts by the Export team also bore fruit and saw F&B Malaysia grow its
+international sales revenue by 10 per cent. This was contributed mainly by sales to
+the Middle East, Africa and ASEAN markets. F&B Malaysia demonstrated resilience in overcoming what was undoubtedly one
+of the most challenging years we have faced in recent times.
+[MDA_P007]
+BUSINESS REVIEW:
+Food and Beverages
+Malaysia (Cont’d.)
+OUTLOOK
+The immediate future is wrought with the ongoing
+pandemic as well as local and global uncertainties. Despite the volatile landscape, we have been able to
+discern emerging trends and harness opportunities
+as efficiently as possible. Most pertinently, demand for healthier beverages
+is set to increase further. Catering to this, we have
+already planted the seeds for a greater presence
+in the wellness category. We will be focusing on
+purposeful innovation to nurture our health and
+wellness basket. At the same time, we will remain nimble and
+responsive to changes in consumers’ behaviour
+to optimise our investments and deliver the most
+effective marketing strategies. Having already scaled
+up F&N Life, we will continue to build the momentum
+gained to leverage the potential of online consumer
+engagement and sales fully. Continued emphasis on meeting consumers’ and
+customers’ expectations will lend us an edge, and
+bring smiles to everyone. MARKETING HIGHLIGHTS
+MALAYSIA
+F&N LIFE
+F&N Life was launched on 9 January 2020, enabling
+consumers to order their favourite F&N products in
+bulk and at competitive prices.
+[MDA_P025]
+With higher investment
+in advertising and promotions, sales volume picked
+up once again in the fourth quarter. Throughout the
+year, there was also a greater emphasis on digital
+marketing to build brand visibility and loyalty. Continued product innovation, meanwhile, meant
+we were able to meet the increasing demand for
+healthier options with the launch of products that
+cater to the changing tastes of our consumer
+demographic. In November 2019, we introduced a
+novel ready-to-eat product, milk candy tablets made
+from 100 per cent New Zealand milk. Magnolia Milkies
+was launched nationwide in Classic Malt, Strawberry
+Yogurt and Hokkaido Milk flavours, and garnered
+positive response. By the end of the financial year,
+the product had gained the third spot in its market. Overall agility in meeting market changes enabled us
+to maintain our leadership in key categories, namely
+that for sweetened condensed and evaporated milk
+with more than half of total market share. Carnation
+continued to command the superior segment, aided
+by the launch of a 0% Fat, 25% Reduced Sugar
+condensed milk with high milk powder content.
+[MDA_P027]
+Today, TEAPOT is the market-
+leading brand in condensed milk market in both
+Cambodia and Laos. A star product was the 160g
+evaporated milk, which gained significant traction in
+Africa. This year, for the first time, we received a special
+recognition towards our commitment in developing
+Halal products for Thailand and export markets, by
+winning the prestigious Thailand Best Halal Company
+of the Year 2020 from the Central Islamic Council of
+Thailand. We were also awarded the Diamond Level
+for National Occupational Health and Safety Award,
+and Silver Level for Zero Accident Campaign 2020
+from Ministry of Labour Thailand. Meanwhile, we were
+also recognised by the Ministry of Labour Thailand,
+with our eighth consecutive Excellent Establishment
+on Labour Relations and Welfare Award. Despite a challenging year due
+to the COVID-19 pandemic,
+F&B Thailand pulled in a very
+encouraging performance,
+aided by successful execution
+of operational strategies as well
+as recovery in the Indochina and
+export markets.

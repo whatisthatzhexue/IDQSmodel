@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI extends winning streak to fifth session, closes at 9-month high
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/02/fbm-klci-extends-winning-streak-to-fifth-session-closes-at-9-month-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI extended its winning streak to a fifth straight session on Thursday, closing at its highest level in nine months. The 30-stock index rose 16.93 points, or 1.04%, to 1,637.80, its highest level since Dec 31, when it closed at 1,642.33. Today’s advance was the biggest since Sept 12, when the index climbed 1.09%. All indices on Bursa Malaysia ended higher. Market breadth was positive, with gainers outnumbering losers 855 to 355.
+
+[NEWS_P002] With more than twice as many stocks advancing as declining, bullish sentiment was evident even as some selling pressure lingered in the broader market. Turnover stood at 4.27 billion shares valued at RM3.93bil. Dealers said the recent gains have pushed the FBM KLCI into overbought territory, likely prompting quick profit-taking. They added that the near-term market direction will depend on external macro developments and fresh domestic catalysts, particularly Budget 2026.
+
+[NEWS_P003] In today’s session, IHH Healthcare contributed the most to the index gain, rising 4.03%, or 32 sen, to RM8.26. Gamuda was the biggest drag, slipping 0.72%, or four sen, to RM5.51. Malaysian Pacific Industries was the top gainer, surging RM2.84 to RM31.74. This was followed by Sam Engineering, up 37 sen to RM4.28 and Tenaga Nasional, which advanced 34 sen to RM18.74. ACE Market debutant Camaroe Bhd rose 7.14%, or one sen to 15 sen with 92.73 million shares traded.
+
+[NEWS_P004] Among the losers, Nestle slid 28 sen tp RM97.12, Ajinomoto fell 16 sen to RM13.82, F&N lost 16 sen to RM27.24 and Hong Leong Industries declined 12 sen to RM13.88. Meanwhile, the ringgit was quoted at 4.2055 against the US dollar, appreciating 0.04%. It eased 0.1% against the Singapore dollar to 3.2676. The local currency slipped 0.11% against the euro to 4.9417 and weakened 0.22% against the pound sterling to 5.6767. Asian bourses closed higher today, with Japan's Nikkei 225 adding 0.87%, South Korea’s Kospi gained 2.7% while Hong Kong’s Hang Seng added 1.61%.
+
+[NEWS_P005] Chinese equity markets will be closed from October 1 to 8 for the Golden Week holiday.

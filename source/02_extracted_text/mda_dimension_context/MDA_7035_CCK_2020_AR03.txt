@@ -1,0 +1,125 @@
+document_id: MDA_7035_CCK_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 10, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+-
+1 CCK Fresh Mart retail store
+in Sabah in Kota Marudu;
+3 CCK Fresh Mart retail stores
+in Sarawak in Simunjan,
+Asajaya and Song;
+1 CCKLocal supermarket
+in Kuching, Sarawak; and
+1 CCKLocal supermarket
+in Kota Kinabalu, Sabah.
+The Group’s deposits with licensed banks and cash and bank balances increased by 88.1% and 27.5%,
+respectively, in line with the increase in revenue of the Group.
+Dividends paid out during the year were as follows –
+•
+An interim single-tier dividend of 1.25 sen per share on 30 June 2020; and
+•
+A final single-tier dividend of 0.5 sen per share on 22 September 2020.
+Bintulu
+2 Outlets
+Kuching
+32 Outlets plus 1 Supermarket
+Miri
+9 Outlets
+Kota Kinabalu
+10 Outlets
+plus 1
+Supermarket
+Sibu
+9 Outlets
+Sandakan
+2 Outlets
+Mukah, Kapit,
+Sarikei, Labuan
+1 Outlet Each
+CCK Group Retail Network
+The prawn segment was adversely affected by
+weak global pricing of prawns and demand,
+hence affecting our exports, particularly to our
+traditional markets of Japan and Australia.
+Malaysia
+Japan
+containers
+in 2019
+containers
+in 2020
+Australia
+containers
+in 2019
+containers
+in 2020
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+[MDA_P004]
+ANNUAL REPORT
+FINANCIAL & OPERATIONS REVIEW – INDONESIA
+Our operations in Indonesia were not affected by the pandemic as, unlike Malaysia, no nationwide lockdowns were
+declared by the Indonesian authorities in response to the pandemic. Revenue in Indonesia increased resulting from
+increased production and sales of sausages and nuggets. 5 Years Revenue Trend
+Sausages continue to be the Group’s best seller in Indonesia whilst the sales of nuggets continues to gain
+momentum. All products from our 2 factories in Jakarta and Pontianak are sold to our network of 6 locally partnered
+Freshmart outlets in Pontianak and also to third parties in Jakarta and Pontianak. The new factory in Pontianak was completed in the 4th quarter of 2020. However, due to pandemic related
+transportation delays, the installation of machinery and commencement of operations will be delayed to the 1st
+quarter of 2021. ANTICIPATED OR KNOWN RISKS
+CREDIT RISK
+CCK practises a policy of dealing with creditworthy customers based on careful evaluation of each credit
+customer’s financial standing and credit history. This practice mitigates the risk of financial loss from
+possible default payments.
+[MDA_P005]
+The Group has also in place a credit monitoring process which regularly
+monitors the status and payments of our credit customers. FOREIGN CURRENCIES FLUCTUATION RISK
+The Group imports frozen products for the network of retail stores where the purchases are denominated
+in US dollars. As such, the Group is exposed to currency fluctuation risk. Any adverse fluctuation in the
+MYR/USD rate may affect the profitability of the Group. In addition, fluctuations in the MYR/USD will likely
+affect the cost of feed for the poultry segment. LIQUIDITY RISK
+The Group maintains an adequate level of cash and cash equivalents and banking facilities to ensure
+sufficient liquidity to meet its liabilities as and when they fall due. The Group’s exposure to liquidity risk
+arises principally from trade payables, other payables and other bank borrowings (bankers’ acceptances
+and a revolving credit). COMPETITION RISK
+CCK retail stores face increasing risks from existing and new competitors who offer similar products and
+compete on the basis of pricing. To mitigate this, we are continuously looking at means to improve our
+competitive edge.
+[MDA_P007]
+Revenue (‘000)
+89,846
+110,641
+100,161
+105,884
+116,089
+% of Group
+Revenue
+16.07
+17.97
+16.29
+16.26
+17.70
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+[MDA_P008]
+CCK CONSOLIDATED HOLDINGS BERHAD
+DIVIDENDS
+CCK has an internal dividend policy of paying up to 30% of the profit after taxation and minority interests whilst
+taking into consideration the level of available funds, the amount of retained earnings, capital expenditure
+commitments and other investment planning requirements. In line with our continued focus on shareholder returns, the Board is pleased to announce a first and final
+single-tier dividend of 2 sen per share for the financial year ended 31 December 2020. FORWARD LOOKING STATEMENT
+With the ongoing pandemic affecting global economies, Malaysian’s economic growth was not spared. Overall,
+GDP shrank by 5.6 per cent, the biggest contraction since the 1998 Asian Financial Crisis. In line with expected
+global economic recovery, Bank Negara Malaysia has projected the nation’s GDP to return to positive growth in
+2021 at rates ranging between 6% - 7.5% on sustained progress of vaccine roll-outs. With the relaxation of restrictions affecting movement controls across the country, CCK expects our retail
+segment to gradually improve in-line with the pace of state-wide vaccine roll-outs.
+[MDA_P009]
+Barring unforeseen
+circumstances, we expect our performance to improve in the second half of 2021 driven by a reduction in new
+cases, pick-up in the pace of vaccine roll-outs and an improvement in consumer sentiment. Building on this
+momentum, the Group projects to open one (1) new supermarket in Sarawak and four (4) new retail stores in
+East Malaysia in 2021. CCK is cautiously optimistic about our Indonesian subsidiary’s performance. The commencement of operations
+of our new facility in Pontianak, Indonesia, in the first quarter of 2021 is expected to boost the production of
+sausages in the region to cater for increasing demand. The increasing price of feed resulting from rising raw material prices is of a concern to the management. Feed
+prices constitute a significant portion of the poultry segment’s costs. With the expected improvement in demand
+from the food and beverage industry, CCK hopes to be able to mitigate the increase in feed prices by economies
+of scale and a gradual increase in selling prices of our chicken products.

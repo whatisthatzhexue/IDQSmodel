@@ -1,0 +1,83 @@
+document_id: MDA_8478_HWATAI_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 171.953, "paragraph_count": 12, "paragraph_length_distribution": {"max": 1187, "mean": 1049.917, "min": 894}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+FINANCIAL AND OPERATIONS REVIEWS (CONTINUED)
+The breakdown of revenue of the Group in FYE2021 and FYE2020:
+FYE2021
+RM’000
+%
+FYE2020
+RM’000
+%
+Export sales
+12,505
+12,094
+Local sales-
+Hwa Tai & OEM Products
+60,873
+62,856
+Total
+73,378
+74,950
+The Group had registered a revenue of RM73.38 million in the current financial year ended 31 December 2021
+(“FYE2021”), a marginal 2% drop from RM74.95 million achieved in the previous financial year ended 31 December
+2020 (“FYE2020”). It attributed decrease of revenue in FYE2021 to reduced sales from local markets in Peninsular and East Malaysia
+in general trade segment, partially offset by higher sales recorded from International Sales market and E-commerce
+business. Our international market accounted to about 17% of the Group’s revenue in FYE 2021 as compared with 16% in
+FYE2020. The remainder was from the domestic market of 83% and 84% in FYE2021 and FYE2020 respectively. As our biscuits are part of essential food, our export market was not adversely affected in FYE2021 and its export
+sales was on par as compared with previous year.
+[MDA_P004]
+> HWA TAI INDUSTRIES BERHAD : Annual Report 2021
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+FINANCIAL AND OPERATIONS REVIEWS (CONTINUED)
+The loss reported in FYE2021 was mainly attributed to the Group recording a lower revenue, very much higher
+operating cost mainly caused by rising price of raw materials and packing materials due to continuous increase in
+price of commodities which are major cost components for our products. The Company had on 10 November 2021
+received a notice from the Ministry of Health, Malaysia to temporarily close its factory located at Batu Pahat, Johor,
+Malaysia from 11 November 2021 to 20 November 2021 to curb the spread of the coronavirus Covid-19 infection at
+the said premise. The temporary suspension had further severely dampened the performance of the Group due to
+the delay in delivery of products for both domestic and international sales order.
+[MDA_P007]
+> HWA TAI INDUSTRIES BERHAD : Annual Report 2021
+FINANCIAL POSITION (CONTINUED)
+The shareholders’ equity was reduced from RM23.59 million in FYE2020 to RM21.67 million in FYE2021. The
+reduction in shareholders’ equity was mainly caused by the loss reported in FYE 2021. Total assets and total
+liabilities stood at RM66.98 million and RM45.30 million respectively in FYE2021. An increase of RM3.48 million
+and RM5.39 million for total assets and total liabilities respectively were recorded in FYE2021 as compared with
+FYE2020. The changes in total assets and liabilities were reflected by reduction in trade receivables, increase of
+inventories and cash, bank balances and short- term deposits, mainly offset by increase in loans & borrowings. Net assets per share and loss per share were 28.96 sen and 2.56 sen respectively in FYE2021 as compared with net
+asset per share and earnings per share of 31.52 sen and 1.46 sen respectively in FYE2020. Investment in capital expenditure of approximately RM2.42 million in FYE2021 primarily comprised the purchase
+of machineries amounting to RM1.33 million and the remainder was on factory upgrading, office equipment and
+motor vehicles.
+[MDA_P010]
+> HWA TAI INDUSTRIES BERHAD : Annual Report 2021
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+BUSINESS STRATEGICS AND RISK FACTORS (CONTINUED)
+Our business risk is mainly from potential labour shortages, low profit margin due to stiff competition, price
+fluctuations of raw materials and changes in consumer demand. These risks may lead to cost increase which will
+affect our profitability if such costs are not able to be passed on to our consumers. To mitigate these risks, our
+management has taken steps such as remaining flexible in sourcing raw materials and packing materials from
+different suppliers to ensure our Group is not overly dependent on a single supplier without compromising its
+product quality. Also, to always update and acquire advanced machineries and improve plant automation to be less
+dependent on labour. Compliance with Food and Beverage Standard and licensing/approval from authorities are
+vital for us as a biscuit manufacturer.
+[MDA_P012]
+Moving forward, we anticipate the year ahead to remain difficult and challenging amidst the Covid-19 outbreak.
+Local and world economy were badly affected and slowing down, volatility of Ringgit Malaysia against major foreign
+currencies and the impact on volatile raw materials and packaging materials costs. These challenges have thus
+increased our costs of production and customer acquisition.
+We will constantly focus on improving the Group’s performance through the implementation of proactive measures,
+enhancing our social media and e-commerce platform advertising and promotional activities to improve our
+customer outreach, the innovation of product portfolio, the broadening of our distributor network, enhancing our
+brand recognition and products’ varieties for new business opportunities, cost rationalisation, streamlining of
+resources and the enhancement of operational efficiency.

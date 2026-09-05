@@ -1,0 +1,111 @@
+document_id: MDA_5306_FFB_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 41, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+In developing value creation strategies, we undertake detailed consideration of global megatrends and industry-
+based trends which have the potential to affect our operations. Our response to these trends is detailed below:
+DESCRIPTION
+The International Monetary Fund (IMF)’s Global
+Uncertainty Index has risen sharply to levels on par
+with the September 11 attacks and the UK’s vote in
+2016 to leave the European Union1. This reflects a
+turbulent macroeconomic environment, where the
+LINK TO
+MACROECONOMIC CHALLENGES
+The Russia-Ukraine conflict has exacerbated existing
+imbalances caused by the COVID-19 pandemic,
+leading to a sharp increase in inflation2 and in the
+price of oil3 and commodities4. In addition, global trade has been affected by supply
+chain bottlenecks caused by the pandemic and its
+resultant labour shortages5, with the Malaysian
+National Shippers’ Council (MNSC) reporting that
+sea freight rates have increased by up to 800% on
+some routes when compared to pre-pandemic
+levels5.
+[MDA_P004]
+While demand for our products has remained stable
+during this period, we have been adversely affected
+due to the increasing price of inputs, placing
+pressure on our margins, and have witnessed a
+sharp rise in logistics costs in importing raw milk
+from Australia to Malaysia. OUR RESPONSE
+• To protect our margins, we increased the prices of our chilled and
+ambient RTD products by 5% in September and December 2021
+respectively
+• As a vertically integrated dairy company, we benefit from an internal
+supply chain which allows us to mitigate against price increases
+across many of our inputs
+• We will continue to monitor prices and stock levels of raw materials
+to pre-emptively manage against volatility in supply and demand
+• We will continue to centrally procure our raw materials in order to
+achieve economies of scale and mitigate against price increases
+1. https://blogs.imf.org/2022/04/15/global-economic-uncertainty-surging-amid-war-may-slow-growth/
+2. https://tradingeconomics.com/united-states/inflation-cpi
+3. https://edition.cnn.com/2022/06/03/energy/oil-prices-what-next/index.html
+4.
+[MDA_P007]
+OUR RESPONSE
+• Following our first carbon footprint inventory exercise carried out in
+July 2021, we have implemented various measures to reduce carbon
+emissions, including replacing existing anaerobic lagoons with
+anaerobic digestion tanks and installing solar thermal systems to
+reduce the use of diesel for our boiler and generator units
+• We recently launched solar PV projects at our Muadzam Shah and
+Larkin processing facilities, with a further installation planned for
+our Taiping farm
+• In 2022, we are set to launch our first biogas plant at our Muadzam
+Shah farm, followed by a biogas plant at our Taiping farm
+• By adopting regenerative agriculture practices across our Muadzam
+Shah and UPM farms, we have reduced our reliance on chemical
+fertilisers and our methane emissions from animal waste
+• We plan to implement regenerative agriculture practices across all
+our farms by 2024
+6. https://www.ipcc.ch/assessment-report/ar5/
+TRANSITION TO A LOW-CARBON ECONOMY
+| 01 | 02 | Section 03 Management Discussion and Analysis | 04 | 05 | 06 | 07 | 08 |
+[MDA_P008]
+DESCRIPTION
+Global consumer demand for healthy food options
+has increased significantly over the past decade,
+and recent research suggests that this trend has
+accelerated in Malaysia. LINK TO
+HEALTH & WELLNESS
+GrabFood’s Food Trends Report 2020/2021 shows
+that seven out of 10 Malaysians want to eat healthier
+and 44% are willing to pay more for healthier food7,
+while a study by Herbalife Nutrition found that in
+2020, 61% of Malaysians surveyed were eating more
+plant-based foods8. In response, many leading
+internationally food brands have introduced plant-
+based food alternatives which have seen strong
+market uptake. As awareness of the impact of diet on health and
+wellness grows, this trend will continue to accelerate
+in the years ahead, reflecting in growing demand
+for nutritious and additive-free options across a
+wider variety of product categories, and especially
+in products for children.
+[MDA_P009]
+OUR RESPONSE
+• As Malaysia’s largest producer of dairy products from fresh raw milk,
+we have developed a reputation for healthy and nutritious products
+which are free of preservatives, artificial flavourings and colourings,
+and foreign substances
+• In 2022, we are slated to launch a new growing up milk for children
+aged two to six years old, made from fresh milk with fortification
+such as DHA, inulin, zinc, iron and vitamins, such as A and D, and
+which does not contain preservatives, artifical flavouring, vegetable
+oil, calcium carbonate (from limestone) and most importantly hidden
+sugar in the form of maltodextrin
+• Building upon our plant-based line and our A2 organic milk, we will
+continue to introduce new products which cater to consumer dietary
+restrictions and preferences
+• We will continue to seek out ways that we can improve our food
+safety and quality standards towards ensuring healthy and nutritious
+products
+7. https://www.thestar.com.my/food/food-news/2022/01/08/food-trends-to-look-out-for-in-2022
+8. https://www.nst.com.my/lifestyle/heal/2021/04/680500/shift-towards-plant-based-foods
+FARM FRESH BERHAD | ANNUAL REPORT 2022
+A.

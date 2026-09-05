@@ -1,0 +1,111 @@
+document_id: MDA_7243_MAGMA_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+The Group’s foray into real estate leverages its hospitality strengths to deliver elevated living experiences and long-
+term value. As a cornerstone of its growth strategy, property development is set to play a significant role in Magma’s
+future trajectory. Looking ahead to 2025, Magma is well-positioned to seize emerging opportunities in the dynamic hospitality
+and tourism sectors. With a strong asset base, proven operational excellence, and an unwavering focus on guest
+satisfaction, the Group is poised to lead with innovation and sustainable growth. Review of Financial Performance
+The summary of the Statement of Comprehensive Income is as follows:
+3. FYE 2024
+FYE 2023
+Variance
+FYE 2024
+vs.
+[MDA_P003]
+FYE 2023
+Revenue
+14,926
+14,458
+3.2%
+Gross Profit (“GP”)
+16,390
+16,543
+(0.9%)
+Gross Profit Margin (“GPM”)
+109.8%
+114.4%
+Administrative Expenses
+(21,829)
+(12,420)
+(75.7%)
+Other Cost
+(40,582)
+(17,141)
+(>100%)
+(Loss) Before Tax (“LBT”)
+(46,020)
+(13,018)
+(>100%)
+(Loss) After Tax from Continued Operations (1) (“LAT”)
+(45,466)
+(13,135)
+(>100%)
+Note:
+(1)
+Attributable to owner of the Company
+For the FYE2024, Magma recorded revenue of RM14.93 million, a 3.2% increase from RM14.46 million in financial year
+ended 31 December 2023 (“FYE2023”). This growth reflects the Group’s continued efforts to strengthen operational
+efficiency and adapt to evolving market conditions. Gross Profit (“GP”) declined by 0.9% to RM16.39 million (FYE2023: RM16.54 million). However, the Gross Profit Margin
+(“GPM”) contracting from 114.4% to 109.8%, primarily due to higher input and operating costs, driven by inflation and
+industry-wide cost pressures. Administrative expenses increased significantly by 75.7%, reaching RM21.83 million (FYE2023: RM12.42 million). This
+rise was mainly due to strategic restructuring initiatives, increased staffing costs, and inflation-related adjustments.
+[MDA_P007]
+The deterioration was attributed to contract cancellations and prevailing market headwinds. These
+results reflect the inherent volatility of the property sector amidst economic uncertainty and shifting buyer sentiment. 4USBUFHJD 3FBMJHONFOU BOE 0VUMPPL
+FYE2024 represented a significant period of transition for Magma, the implementation of targeted restructuring
+initiatives focused on cost optimization and operational efficiency. While these transformative efforts temporarily
+impacted the Group’s financial performance, resulting in a loss after tax (LAT) of RM45.67 million, they have
+established a stronger operational foundation for sustainable growth. In spite of the broader challenges, the Hotel
+Operations segment continued to exhibit robust performance, underscoring its strategic importance to the Group’s
+future trajectory. Looking forward, Magma will concentrate on expanding its hotel-based operations and refining management services
+to capitalize on growth opportunities, while recalibrating its property strategy to align with market realities. The Group
+remains committed to sustainable value creation and operational excellence in a dynamic business environment.
+[MDA_P014]
+While operating outflows
+rose, the Group maintained prudent investment and secured reliable financing. Magma’s stable year-end cash position
+reflects sound liquidity management and readiness to support future growth initiatives. %JWJEFOE
+For the FYE2024, Magma did not declare any dividend. This aligns with the Group’s cautious capital management
+strategy amid economic headwinds and ongoing restructuring. The Board of Directors exercises discretion over
+dividend declarations, guided by factors such as financial performance, capital needs, and overall business outlook. While dividends remain a future priority, any payout will be carefully evaluated to support long-term sustainability and
+value creation. MANAGEMENT DISCUSSION & ANALYSIS
+(Overview of Group Business)
+cont’d
+PERFORMANCE REVIEW ANNUAL REPORT 2024
+[MDA_P016]
+QBSU PG B MBSHFS 
+RM100.0 million facility. This enhanced liquidity and supports future growth and expansion plans.
+These developments reflect the Group’s focus on strategic realignment, asset enhancement, and financial resilience,
+positioning Magma for continued growth.
+#VTJOFTT 3JTLT 3FWJFX
+Magma operates in a challenging and evolving landscape, facing several key risks:
+(a)
+Economic and Environmental Uncertainty
+[MDA_P017]
+The hospitality sector remains vulnerable to economic downturns, natural disasters, and health crises. In
+response, Magma has adopted stringent health and safety standards, ensuring resilience and preparedness for
+future disruptions.
+[MDA_P019]
+With revenues and expenses in multiple currencies, the Group faces forex exposure. However, natural hedging
+and active monitoring help mitigate this risk.
+[MDA_P024]
+the Group undertook several initiatives to identify, develop, and retain high-potential employees, ensuring
+leadership continuity and organizational resilience. Structured talent development programmes, leadership
+training, and succession planning frameworks have been put in place to build a strong internal pipeline of future
+leaders. Moving forward, Magma will continue to foster a high-performance culture, offering opportunities for
+professional growth and aligning employee development with the Group’s strategic objectives.
+H
+[MDA_P033]
+Building on the foundational changes implemented in FYE2024, Magma is strategically positioned to pursue
+sustainable growth and enhanced profitability. The Group remains committed to driving operational excellence,
+strengthening its core business segments, and unlocking new opportunities through disciplined capital
+management and innovation. With a renewed leadership team and a more agile organizational structure, Magma
+is confident in its ability to navigate evolving market dynamics and deliver long-term value to its stakeholders.
+The resilience demonstrated by the Hotel Operations segment provides a strong platform from which to expand
+and diversify future revenue streams.
+(i)
+Prospects

@@ -1,0 +1,16 @@
+[TITLE]
+Investors seek relief on Bursa Malaysia after six losing sessions
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/04/investors-seek-relief-on-bursa-malaysia-after-six-losing-sessions
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: There was a welcome bounce on Bursa Malaysia as trading commenced on Wednesday, giving investors some respite amid the persistent market weakness. At the opening bell, the FBM KLCI rose 3.85 points to 1,507.1, alleviating the risk of the index falling through the 1,500 psychological support. Having endured six straight sessions of losses, the market's benchmark index is ripe for bargain-hunting. However, the market undertone remains weak with net selling by foreign funds sapping momentum from the market.
+
+[NEWS_P002] According to TA Securities Research, investors are wary of committing to the Malaysian stock market as it is beset by a weaker earnings outlook and uncertainties over global tariffs. The research firm noted weaker first-quarter earnings from local corporate and weaker China manufacturing numbers as the culprits behind the dampened investor sentiment, which took the market briefly below 1,500 points in the previous session. "Immediate index support stays at 1,490, while stronger supports can be found at 1,465 and 1,444.
+
+[NEWS_P003] Immediate resistance is kept at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead," it said in its technical outlook. Blue chips leading the rebound on Wednesday included Nestle up 30 sen to RM78.90, Kuala Lumpur Kepong adding 10 sen to RM19.74 and Hong Leong Financial Group gaining eight sen to RM16.38. Active stocks were KNM down 0.5 sen to three sen, Avangaad unchanged at 28 sen and Sunview flat at 38 sen.

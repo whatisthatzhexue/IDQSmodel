@@ -1,0 +1,112 @@
+document_id: MDA_7103_SPRITZER_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 29, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+BUSINESS AND OPERATIONS OVERVIEW
+The Malaysian economy grew by 5.0% in the fourth
+quarter of 2024. This performance was supported by
+strong expansion in investment activities, growth in
+export of goods and services and sustained household
+spending. For the overall 2024, Malaysia’s economy had
+achieved 5.1% growth marking a significant growth from
+the 3.7% achieved in 2023 driven by stronger domestic
+demand and higher investment. This marked a shift from
+the slower growth in 2023, which was affected by weaker
+global demand and tighter monetary conditions. In 2024,
+better investor confidence, a rebound in tourism and
+construction, and easing inflation boosted household
+spending. Overall, improved local and global conditions
+helped Malaysia recover and strengthen its economic
+performance compared to the previous year. Our Group’s revenue continued to reflect this economic
+strength, achieving an encouraging 21% growth in the
+current quarter and 18% for overall 2024.
+[MDA_P006]
+SPRITZER BHD
+ANNUAL REPORT 2024
+In line with our innovation agenda, we have begun adopting generative artificial intelligence (“AI”) within the past year to
+support functions, content creation, market analysis, and customer engagement, with employees using tools like Copilot and
+ChatGPT to improve productivity. While still in the early stages, this technology is expected to enhance operational efficiency
+and decision-making over time. We are also exploring the potential of agentic AI to further automate routine processes and
+optimise resource utilisation, with the goal of improving productivity and responsiveness across our operations. Sustainability remains a strategic priority. We have introduced eco-friendly packaging and are collaborating with partners to
+reduce packaging waste and improve recycling rates, contributing to a greener and more sustainable future. Our strategies are guided by trustworthiness, integrity, respect, and open collaboration—values that drive innovation,
+excellence, and inclusive growth in the competitive bottled water industry.
+[MDA_P021]
+The Group has committed to installing additional 632 kWp
+solar PV panels at its Shah Alam plant in 2025. Property development
+During the financial year, on February 8, 2024, Spritzer
+Development Sdn Bhd (“SD”), a wholly-owned subsidiary
+entered into a Joint Venture Agreement (“JVA”) with KNP
+Development Sdn Bhd (“KNP”), a company incorporated
+in Malaysia, to jointly develop a piece of land located in
+Perak measuring approximately 5.78 acres into a housing
+development project to build residential houses subject to
+and upon the terms and conditions contained in the JVA. SD will be the Developer and KNP the Landowner. This
+project is estimated to commence in the final quarter of
+2025. Human capital
+As of December 31, 2024, the Group has a workforce of
+1,101 employees (2023: 1,036). ANTICIPATED AND KNOWN RISKS
+The Group is sensitive to various risks which include
+reputational risk, business/operations risks, financial risks,
+cybersecurity risks, sustainability risks and regulatory risks. The Group’s risk management framework is designed
+to enable the material risks to be identified, analysed,
+assessed, and managed in order to prevent or minimise
+losses.
+[MDA_P022]
+Reputation Risk
+Being the leading bottled water company with dominant
+market share, our core brands have high brand equity. To
+sustain and to enhance the image and reputation of the
+Group and our branded products, we are committed to
+high product quality and cultivate strong discipline to
+improve continuously. We cultivate ethical and responsible
+business behaviour with a strong culture to manage and to
+ensure compliance with the applicable standards, internal
+policies and procedures, external rules and regulations,
+and good practices. We invest in and focus on effective
+communication, image, and brand building. We are
+also mindful of the emergence of certain brand boycott
+activities in Malaysia. Business Operations Risks
+Our significant business operations risks include the risk
+of adequacy and suitability of water supply, supply chain
+risk, customer/consumer loyalty risk, regulatory risk, anti-
+bribery, and corruption risks. We have suitably qualified and
+experienced personnel to manage our business operations
+and we have established proper business processes to
+ensure the proper mitigation and management of our
+business operations risks.
+[MDA_P023]
+We constantly strive to improve
+the efficiency and effectiveness of our entire value chain. Financial Risks
+Our key financial risks are credit risk and liquidity and cash
+flow risk. We have established proper credit evaluation
+and control processes to manage the credit risk of our
+receivables. We practise prudent liquidity risk management
+to minimise the mismatch of our financial assets and
+financial liabilities and we have adequate credit facilities
+and resources for contingency funding requirement. The
+Group has a healthy balance sheet and strong financial
+capability to manage its financial risk. Cybersecurity Risks
+As digital reliance grows, the Group faces increased
+cybersecurity
+risks
+including
+data
+breaches
+and
+unauthorised
+access. To
+address
+this,
+we
+have
+implemented comprehensive safeguards such as antivirus
+software, firewalls, and 24/7 threat monitoring. Data is
+protected through strong password policies, multi-factor
+authentication, and restricted access. Regular system
+updates, data backups, and a disaster recovery plan
+ensure resilience. Employee training and physical security
+measures further strengthen our defences.

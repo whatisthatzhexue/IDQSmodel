@@ -1,0 +1,12 @@
+[TITLE]
+Baidu's Apollo teams with Car Inc to launch autonomous driving rental service
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-05-08
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2025/05/08/baidu039s-apollo-teams-with-car-inc-to-launch-autonomous-driving-rental-service
+confidence_tier: low
+
+[NEWS_P001] BEIJING (Reuters) -Chinese tech giant Baidu's smart driving unit Apollo said on Thursday that it would team up with local auto rental firm Car Inc to launch a "first-of-its-kind" autonomous driving rental service. Under an agreement signed in Beijing on Thursday, the two companies will "jointly promote the application of autonomous driving technology" in cities, according to an Apollo statement. (Reporting by Beijing newsroom; Editing by Susan Fenton)

@@ -1,0 +1,14 @@
+[TITLE]
+Ajinomoto declares special dividend of RM2.12 from land sale
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-05-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/02/ajinomoto-declares-special-dividend-of-rm212-from-land-sale
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: Ajinomoto (M) Bhd has declared a special single-tier dividend of RM2.12 following the proceeds from its land sale. The entitlement and payment dates of the special interim dividend have been fixed on May 16 and May 30, respectively. “The board declared the special single-tier dividend arising from the disposal of the Kuchai Lama land,” Ajinomoto said in a filing with Bursa Malaysia. Ajinomoto, had in July 2023, proposed to sell six parcels of land with redevelopment potential that are located along Jalan Kuchai Lama, Kuala Lumpur to businessman Tan Sri David Law Tien Seng, better known as TS Law, for RM408mil cash.
+
+[NEWS_P002] The group will realise a net pro forma gain of RM357.12mil from the disposal. Ajinomoto surged 32 sen, or 1.65% to RM19.74 with 48,000 shares traded. Year-to-date, the counter has risen 24.3%.

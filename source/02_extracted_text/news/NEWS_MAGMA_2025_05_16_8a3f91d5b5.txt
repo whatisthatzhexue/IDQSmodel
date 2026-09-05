@@ -1,0 +1,24 @@
+[TITLE]
+Bursa Malaysia in consolidation mode, CI ends marginally lower
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2025-05-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/16/bursa-malaysia-in-consolidation-mode-ci-ends-marginally-lower
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended the week marginally lower in tandem with the negative performance of key regional indices on continued profit-taking as the market remains in consolidation mode, an analyst said. At 5 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) eased 1.27 points, or 0.08 per cent, to 1,571.75 from Thursday’s close of 1,573.02. The benchmark index opened 2.58 points higher at 1,575.60 and rose to a high of 1,580.06 in early trade before falling to a low of 1,568.70 during the afternoon session.
+
+[NEWS_P002] In the broader market, losers trounced gainers 613 to 380, while 481 counters were unchanged, 922 untraded and eight suspended. Turnover declined to 2.91 billion units worth RM2.16 billion against 3.71 billion units worth RM2.74 billion on Thursday. Rakuten Trade Sdn Bhd equity research vice-president Thong Pak Leng said the benchmark index has entered into a short-term consolidation mode following the strong run-up earlier this week. "Nonetheless, we remain optimistic as global funds are flowing into the region and Malaysia will benefit from the spillover effect," he told Bernama.
+
+[NEWS_P003] Meanwhile, UOB Kay Hian Wealth Advisors Sdn Bhd head of investment research Mohd Sedek Jantan believes investor sentiment remained cautious, particularly in cyclical sectors which are more sensitive to the macroeconomic outlook following the release of Malaysia's gross domestic product (GDP) data today. Earlier, Bank Negara Malaysia announced that the Malaysian economy expanded by 4.4 per cent in the first quarter of 2025 (1Q 2025) against 4.2 per cent in 1Q 2024, driven by sustained household spending supported by favourable labour market conditions and government policies.
+
+[NEWS_P004] "This points to a soft landing scenario, underpinned by resilient domestic demand," said Mohd Sedek. Among heavyweights, Maybank rose four sen to RM10.14, CIMB added two sen to RM7.18, Tenaga Nasional was flat at RM14.20, IHH Healthcare fell two sen to RM7.01, and Public Bank slipped one sen to RM4.50. For active stocks, both NexG and Magma bagged 1.5 sen to 37.5 sen and 41.5 sen respectively, West River added half-a-sen to 36 sen, Ekovest was unchanged at 39 sen, while Tanco increased 1.0 sen to 94.5 sen.
+
+[NEWS_P005] On the index board, the FBM Emas Index dropped 27.97 points to 11,746.04, the FBMT 100 Index declined 26.88 points to 11,472.70, and the FBM Emas Shariah Index dipped 44.44 points to 11,674.18. The FBM 70 Index slid 108.77 points to 16,702.41 and the FBM ACE Index fell by 9.28 points to 4,765.86. Across sectors, the Financial Services Index put on 17.16 points to 18,487.65, the Industrial Products and Services Index eased by 0.11 of-a-point to 159.68, the Energy Index shed 7.96 points to 729.38, and the Plantation Index slipped 2.51 points to 7,385.59.
+
+[NEWS_P006] The Main Market volume decreased to 1.40 billion units valued at RM1.90 billion against 1.82 billion units valued at RM2.40 billion on Thursday. Warrants turnover narrowed to 1.09 billion units worth RM134.46 million from 1.35 billion units worth RM172.47 million yesterday. The ACE Market volume dwindled to 415.63 million units valued at RM123.51 million versus 537.16 million units valued at RM169.20 million previously. Consumer products and services counters accounted for 226.28 million shares traded on the Main Market, industrial products and services (243.44 million), construction (132.94 million), technology (200.41 million), SPAC (nil), financial services (60.31 million), property (172.36 million), plantation (24.60 million), REITs (14.11 million), closed/fund (19,800), energy (127.58 million), healthcare (63.27 million), telecommunications and media (55.92 million), transportation and logistics (38.39 million), utilities (41.66 million), and business trusts (151,000).
+
+[NEWS_P007] - Bernama

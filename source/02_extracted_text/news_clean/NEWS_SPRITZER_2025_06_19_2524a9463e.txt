@@ -1,0 +1,18 @@
+[TITLE]
+SupportLine
+
+[METADATA]
+ticker: SPRITZER
+company_name: SPRITZER
+publish_date: 2025-06-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/19/supportline
+confidence_tier: low
+
+[NEWS_P001] Innoprise Plantations Bhd is showing signs of life as it seeks to close a trading gap that opened during the recent correction. The technical indices have signaled improving momentum with the slow-stochastic rising to 43 points and the 14-day relative strength index (RSI) also growing 45 points. The daily moving average convergence/divergence (MACD) histogram, however, remains negative although the trend is expected to turn more bullish over the coming sessions.
+
+[NEWS_P002] Overhead, there is share price resistance at RM1.80, representing a recent high, and a higher resistance of RM2.20. Support is found at RM1.68 and RM1.58. Pentamaster Corp Bhd is expected to sustain a short-term recovery as it challenges an overhead 100-day simple moving average (SMA). The rally is aiming for an initial resistance of RM3, and a higher level of RM3.40. Both the slow-stochastic and RSI levels are turning more bullish at 48 and 56 points respectively.
+
+[NEWS_P003] The MACD histogram is also looking optimistic with a succession of positive bars. Support for the share is pegged to RM2.44 and RM1.87. Spritzer Bhd could be halting its descent as it finds support at RM1.50. Both the slow-stochastic and RSI bounced near their respective oversold lines earlier this week to suggest some positive retracement is in progress. However, there may be some sideways movement as the share awaits the short-term 14- and 21-day SMA lines to arrest their declines.
+
+[NEWS_P004] The trend remains weak, as reflected in the falling MACD histogram, although a narrowing negative bar trend could be in the offing to indicate growing momentum. In the event of a sustained rebound, the share is looking at resistance at RM1.60 and RM1.68. Further support is found at RM1.38. The comments above do not represent a recommendation to buy or sell.

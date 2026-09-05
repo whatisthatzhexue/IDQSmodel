@@ -1,0 +1,18 @@
+[TITLE]
+Bargain-hunting to lift FBM KLCI after two-day plunge
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-01-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/10/bargain-hunting-to-lift-fbm-klci-after-two-day-plunge
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: There was some bargain-hunting on the domestic market after the recent bleeding, which took the FBM KLCI to just above the key 1,600 psychological level. At the start of Friday trading, the benchmark index was up 2.73 points to 1,503.54, a mild rebound considering the steep decline seen over the past two days. Wall Street markets were closed overnight due to the national day of mourning for the passing of former President Jimmy Carter.
+
+[NEWS_P002] Rakuten Trade said the recent sell-off offers an attractive opportunity for investors as the FBM KLCI is currently trading at 15 times price-earnings ratio, significantly below its historical average of 18x. "We anticipate the FBM KLCI to trend within the range of 1,600-1,610 for today," it said in a note. Malacca Securities Research said in a separate report that the market will focus o state-specific thematic plays, such as Sarawak, Penang and Johor.
+
+[NEWS_P003] The catalysts, it noted, include the Prime Minister's proposal to position Sarawak as an energy hub, the commencement of six water projects and the Light Rail Transit in Penang and the formalisation of the Johor-Singapore Special Economic Zone as well as foreign direct investment inflow and data centre investments in the state. On Bursa Malaysia, leading counters included United Plantations up 18 sen to RM31.44, PPB gaining 10 sen to RM12.40 and NPC rising 10 sen to RM3.
+
+[NEWS_P004] Top actives were Velocity up 0.5 sen to 7.5 sen, Green Packet rising one sne to four sen and Vanzo adding one sen to 20 sen.

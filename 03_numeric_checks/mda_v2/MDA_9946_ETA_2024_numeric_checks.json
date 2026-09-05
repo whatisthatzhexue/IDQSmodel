@@ -1,0 +1,18 @@
+{
+  "checks": [],
+  "document_id": "MDA_9946_ETA_2024",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": false,
+  "internal_check_notes": [],
+  "num_calculable_changes": 0,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 21,
+  "num_material_discrepancies": 0,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "not_enough_numbers"
+}

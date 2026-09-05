@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit falls against greenback as US tariff concerns dominate sentiment
+
+[METADATA]
+ticker: ETA
+company_name: Annual Report 2020
+publish_date: 2025-07-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/09/ringgit-falls-against-greenback-as-us-tariff-concerns-dominate-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit closed lower against the greenback today as concerns over US tariffs continued to dominate market sentiment, an analyst said. Additionally, the 25 basis points (bps) cut in the Overnight Policy Rate (OPR) announced by Bank Negara Malaysia (BNM) at 3 pm had also contributed to the easing of the ringgit. At 6 pm, the local note fell to 4.2500/2540 against the greenback from Tuesday’s close of 4.2365/2445. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said that, overall, the ringgit continues to trade within a narrow range.
+
+[NEWS_P002] He said BNM has been forthcoming in managing the economy by delivering a preemptive cut in OPR, which would provide support to the economic growth in the second half of 2025. "On that note, this should be positive for the ringgit as Malaysia’s macroeconomic condition remains resilient, be it the fiscal and monetary condition,” he told Bernama. Meanwhile, BNM, in its Monetary Policy statement today, noted that the ringgit’s performance would continue to be primarily driven by external factors.
+
+[NEWS_P003] It said Malaysia’s favourable economic prospects and domestic structural reforms, complemented by ongoing initiatives to encourage flows, would continue to provide enduring support to the ringgit. At the close, the ringgit was lower against a basket of major currencies. It slid against the Japanese yen to 2.8983/9012 from 2.8970/9026, fell versus the British pound to 5.7787/7842 from 5.7591/7700, and depreciated against the euro to 4.9780/9827 from 4.9745/9839.
+
+[NEWS_P004] The local note was mixed against ASEAN currencies. It went down vis-à-vis the Singapore dollar to 3.3182/3219 from 3.3152/3217, but rose versus the Thai baht to 12.9946/13.0128 from 13.0182/0488. It marginally increased against the Indonesian rupiah to 261.3/261.8 from 261.4/262.0 and was flat against the Philippine peso to 7.51/7.52 from 7.51/7.53. - Bernama

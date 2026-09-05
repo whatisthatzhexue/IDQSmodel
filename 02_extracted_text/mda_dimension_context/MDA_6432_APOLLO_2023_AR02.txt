@@ -1,0 +1,89 @@
+document_id: MDA_6432_APOLLO_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 46, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_6432_APOLLO_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 23, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P010]
+FINANCIAL PERFORMANCE
+[MDA_P011]
+Revenue
+[MDA_P012]
+The Group recorded revenue of RM257.11 million for the financial year ended 30 April 2023, an increase of
+36.56% as compared to RM188.27 million in the previous financial year ended 30 April 2022. The reopening of
+Malaysia’s borders has increased the demand of the Group’s products which result in higher sales. A large
+proportion of revenue was contributed by local market, accounting for 68.38% of total revenue. There were no
+material changes on the sales proportion from previous financial year.
+[MDA_P013]
+Profit for the Financial Year
+[MDA_P014]
+The profit after taxation had increased by 217.45% from RM9.97 million as recorded in the previous financial
+year to RM31.65 million due to an increase in sales.
+[MDA_P015]
+The Group’s earnings per share increased from 12.46 sen to 39.56 sen.
+[MDA_P016]
+APOLLO FOOD HOLDINGS BERHAD 199401005792 (291471-M)
+ANNUAL REPORT 2023
+[MDA_P019]
+Financial Position
+[MDA_P020]
+As at 30 April 2023, the Group’s total assets was RM255.96 million as compared to RM244.00 million in the
+previous financial year end. Higher total assets were mainly contributed by higher inventories and cash and bank
+balances.
+[MDA_P021]
+Total liabilities increased by RM0.31 million from RM17.14 million to RM17.45 million while the Group’s equity
+increased by RM11.65 million from previous financial year end. Net asset per share increased from RM2.84 to
+RM2.98 as at current financial year end.
+[MDA_P022]
+RISK OVERVIEW
+[MDA_P024]
+(i)
+Fluctuation of Raw Material Prices
+[MDA_P025]
+Any fluctuation of raw materials’ prices will have a direct impact on the Group’s gross profit margin.
+The Group has taken measures to reduce the risk of price fluctuation by working closely with suppliers
+to get reasonable price without compromising the quality of raw material. The Group will monitor the
+price closely and assures that the quality of raw materials is maintained.
+[MDA_P026]
+(ii)
+Fluctuation of Foreign Currency Exchange Rate
+[MDA_P027]
+Significant fluctuation of foreign currency exchange rate will impact on the Group’s cash flow
+movement and profitability. The movement of the foreign currency exchange rate is closely monitored
+by the Group’s management.
+[MDA_P028]
+(iii)
+Changes in Consumer’s Preferences
+[MDA_P037]
+The reopening of Malaysia’s borders and all economic sectors in April 2022 has improved the Group’s overall
+performance for the current financial year.
+[MDA_P038]
+However, the impact of Russia-Ukraine conflicts has resulted in increase in shipping charges and shortage of
+container. In addition, the new minimum wage order implemented in May 2022 also contributed to the increase
+in the labour cost of the Group.
+[MDA_P039]
+The pre-requisites for the Group to remain competitive in this challenging market environment include
+continuous improvement in the Group's production planning and application of stringent quality control on the
+products manufactured. The Group is continuously monitoring and upgrading its production lines for better
+efficiency.
+[MDA_P042]
+The reopening of borders has improved the economy and boost the demand of both local and export market
+after nearly two years under the pandemic. The Group expects the demand for the Group’s products will remain
+stable for the next financial year.
+[MDA_P043]
+With the price fluctuation of key raw materials supply chain and prices, the Group will strive to ensure that it
+continues to achieve satisfactory results by implementing prudent measures and improving operational
+efficiency to sustain the profit margin without compromising the product quality.
+[MDA_P044]
+DIVIDEND POLICY
+[MDA_P045]
+The Group does not have a fixed dividend policy. During the financial year, the Board of Directors approved a
+First Interim Dividend of 10 sen per ordinary share under the single tier system (tax exempt) for the financial
+year ending 30 April 2023 that was paid on 11 January 2023.
+[MDA_P046]
+In recognition of shareholders’ continuous support, the Board of Directors are pleased to recommend a Final
+Dividend of 15 sen per ordinary share under the single tier system (tax exempt) for the financial year ended
+30 April 2023. The dividend rate will subject to the shareholders’ approval at the forthcoming Annual General
+Meeting to be held on 17 October 2023. The dividend will be paid on 3 November 2023 once it is approved.

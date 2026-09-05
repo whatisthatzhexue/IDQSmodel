@@ -1,0 +1,121 @@
+document_id: MDA_2658_AJI_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 36, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Inauguration of
+Effluent Treatment
+Management
+(SALAM)
+Corporate name
+was changed to
+Ajinomoto
+(Malaysia)
+Sdn Bhd
+Company name
+was changed to
+Ajinomoto
+(Malaysia) Berhad
+as the public
+company
+Commencement of
+“AJI-NO-MOTO”
+plant operation
+Awarded HALAL
+Certification
+Establishment
+of ASEAN
+Application
+Centre
+Launch of
+“AJI-SHIO”
+Table Topping
+Seasoning
+ Launch of “PAL SWEET”
+Sweetener
+ Launch of Hydrolyzed
+Vegetable Protein (HVP)
+Powder
+Launch of
+“AJI-PLUS”
+Blended Flavour
+Enhancer
+Launch of
+“AJI-MIX”
+Blended
+Seasoning
+Awarded
+ISO 9001
+Certification
+Launch of
+“TUMIX” Stock
+Seasoning
+ /DXQFK RI 
+“VONO”
+Instant Soup
+ /DXQFK RI 
+“ACTIVA” TG
+Series
+Awarded
+OSHAS 18001
+Certification
+50th
+Anniversary
+of Ajinomoto
+(Malaysia)
+Berhad
+Establishment
+of Chicken
+Meat
+Powder Plant
+Hydrolysed
+Vegetable
+Protein (HVP)
+process
+improvement
+Launch of
+“SERI-AJI” Menu
+Specific
+Seasoning
+Launch of “Slim
+Up” Sweetener
+Awarded
+HACCP
+Certification
+Awarded
+ISO 14001
+Certification
+Launch of
+“Ajinomoto
+Brand”
+Chicken Stock
+Launch of
+“AJI-AROMA”
+Flavour Enhancing
+Seasoning
+Establishment
+of Ajinomoto
+(Malaya)
+Co., Ltd
+Launch of “AJI-EKI”
+(Hydrolyzed
+Vegetable Protein
+Liquid)
+ Establishment of Production
+2 (seasonings and food
+production line) factory
+ Launch of “AJIMATE” Taste
+Enhancing Seasoning
+ Awarded “AJI-NO-MOTO”
+Product Certification
+ Launch
+"Rasa Sifu"
+All in One
+Seasoning
+ Launch
+"aminoVITAL"
+Jellly Flavoured
+Drink with
+Amino Acids

@@ -1,0 +1,20 @@
+[TITLE]
+How to generate images with ChatGPT on WhatsApp
+
+[LEAD]
+For several months, all WhatsApp users have been able to communicate directly with ChatGPT via a dedicated phone number. It's now also possible to use this hotline to generate images, then share them with contacts.
+
+[NEWS_P001]
+For several months, all WhatsApp users have been able to communicate directly with ChatGPT via a dedicated phone number. It's now also possible to use this hotline to generate images, then share them with contacts.
+
+[NEWS_P002]
+OpenAI has announced that all WhatsApp users can now generate images directly via ChatGPT, whether or not they have an account with the service.
+
+[NEWS_P003]
+Simply add the US phone number 1-800 CHATGPT (1-800-242-8478) to your WhatsApp contacts to start a conversation directly with the AI service. From then on, a simple prompt, ie, a request written in natural language, can be used to generate an image. Note that it is also possible to send a photo and ask the AI to change it in various ways, such as applying a cartoon style, for example. These AI-generated images can then be easily shared in WhatsApp chats or groups, just like any other photo.
+
+[NEWS_P004]
+This feature, directly integrated into WhatsApp, is based on GPT-4o, a model capable of processing text and images. All WhatsApp users can generate one image per day, free of charge. This quota increases if you link up your ChatGPT account, whether free or paid.
+
+[NEWS_P005]
+For OpenAI, this is another step towards making its AI tools accessible to as many people as possible, the idea being to democratize AI-assisted image generation. In this sense, WhatsApp, with over two billion users worldwide, is a prime channel. But OpenAI is also stepping on the toes of WhatsApp's owner, Meta, which has already integrated its own AI tool into the application. It can answer a multitude of questions, but cannot yet generate images. – AFP Relaxnews

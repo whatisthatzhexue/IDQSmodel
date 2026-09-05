@@ -1,0 +1,194 @@
+document_id: MDA_3689_FN_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 83, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Strategic Review
+Market Review
+OUR OPERATING LANDSCAPE
+The year 2022 has been marked by two key
+and opposing factors. Positively, it has seen the
+gradual unravelling of movement and social
+restrictions imposed to contain COVID-19. Yet, rather than herald a significant economic
+recovery, global GDP growth is expected to
+decelerate to about 3.2 per cent after hitting
+a high of 6.1 per cent in 2021. The International
+Monetary Fund (IMF) was prompted to
+downgrade its GDP forecast in July 2022
+because of the Russia-Ukraine war, intermittent
+COVID-19 outbreaks, and a continued slowdown
+in manufacturing and logistics. Starting from a lower base of 3.1 per cent
+growth in 20211 , Malaysia’s GDP is expected
+to expand by 6.4 per cent according to the
+World Bank, supported by domestic demand
+underpinned by enhanced labour market
+conditions2. Growth in Thailand, meanwhile, is
+anticipated at between 2.7 per cent and 3.2 per
+cent3, slightly higher than initially predicted as
+the tourism industry is beginning to pick up. This is from a base of 1.5 per cent growth in
+2021.
+[MDA_P010]
+(2022:
+99 per cent)
+• 100 per cent of the industrial sludge from
+our dairy production is converted into
+organic fertiliser and distributed to local
+farmers. • After two years hiatus due to the pandemic,
+we re-activated our nationwide school
+recycling programme to inculcate 5R
+philosophy in our future generation. We are
+also a founding member of the Malaysian
+Recycling Alliance (MAREA), which seeks to
+develop effective post-consumption waste
+strategies and policies with all stakeholders. Gen Zs and millennials represent about half
+of the working population in Malaysia and
+Thailand today. They seek employers that
+provide excellent compensation and benefits,
+provide an enabling culture and career growth
+opportunities, respect the need for flexibility
+and work-life balance, and demonstrate strong
+ESG principles. While the ‘Great Resignation’
+appears to be more muted in Southeast Asia,
+86 per cent of the talents surveyed in a recent
+poll by Robert Walters have reassessed their
+priorities in work and workplaces4. Along with
+the stresses brought about by COVID-19, a
+majority (76 per cent) are prioritising their
+mental and physical well-being.
+[MDA_P013]
+Management Discussion & Analysis
+Strategic Review
+Key Risks and Mitigation
+Snapshot of the Enterprise Risk Management Process Flow
+Risk Identification
+& Assessment
+Risk
+Treatment
+Risk
+Reporting
+Four core
+response
+strategies
+Accept
+Avoid
+Reduce
+Transfer
+Continuous risk
+assessment at
+fundamental and
+Operations
+level through its
+self-assessment
+scorecard
+Key risks,
+mitigating actions
+or controls
+carried out and
+residual rating are
+highlighted to the
+Sustainability and
+Risk Management
+Committee
+quarterly
+A
+B
+E
+F
+G
+H
+J
+K
+N
+O
+P
+Material Issues
+Key Risks
+Product & Service Labelling
+B
+Other Financial Risks
+Human Capital Development
+Product Quality & Standards
+Packaging
+Health, Safety & Security
+Community Development
+& Inclusive Growth
+J
+Political/International
+Instability & Geopolitical Risk
+Nutrition
+H
+Managing Stakeholders,
+Expectations & Perceptions
+Economic Performance
+E
+Risk from Disruptive Digital
+Technology & Innovation
+Water Stewardship
+N
+Cyber Threats &
+Data Security Risk
+Waste Management
+O
+Talent Management &
+Succession Planning
+Energy
+P
+Supply Chain Risks
+Climate Change
+Biodiversity
+Employee Safety, Health
+& Well-being
+K
+Infectious Disease
+Human Rights
+Environmental Damage
+Policy & Regulations
+F
+Corruption, Fraud,
+Pilferage & Ethical Risks
+Innovation
+G
+Non-compliance with Laws,
+Rules, Regulations & Standards
+Product Quality & Safety
+A
+Signiﬁcant Increase in
+Commodity Prices
+Governance & Ethics
+Inability to Anticipate
+Respond Timely to Changing
+Consumer Needs
+Supply Chain Stewardship
+Strategic Risk Involving
+New Business Investment
+Economic
+Social
+Environment
+Governance & Ethics
+Reputational
+Operational
+Financial/economic
+Strategic
+[MDA_P026]
+• Unlocking potentials among the existing talent
+pools in support of future business expansion
+to become a more efficient, agile and focused
+organisation. • Strategic collaborations with key suppliers to
+achieve common partnership goals. • Leveraged on sukuk financing to unlock future
+business growth as well as diversifying our
+business risks. Priorities for 2023
+• Defend our existing business leadership in our core categories
+through transformative projects to strengthen our brand portfolio
+management as we continue to expand our product portfolio. • Continue to expand our reach by leveraging on digital and
+technologies in strengthening our route-to-market strategies
+while achieving cost effectiveness. • Continue to drive operational efficiency, commercial excellence
+and fiscal discipline across our value chain from raw materials,
+production, marketing & sales, and post-consumption packaging
+management as we integrate ESG elements as part of strategic
+management, where applicable. Priorities for 2023
+• Transforming through disruption and building
+business resilience across different aspects of
+the Company.

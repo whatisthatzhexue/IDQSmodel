@@ -1,0 +1,18 @@
+[TITLE]
+Retail growth to remain resilient with subsidies
+
+[METADATA]
+ticker: SPRITZER
+company_name: SPRITZER
+publish_date: 2025-10-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/01/retail-growth-to-remain-resilient-with-subsidies
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Retail momentum is expected to stay resilient, supported by firm labour market conditions, benign inflation and targeted fiscal measures, say analysts at MBSB Research. According to the research house, wage adjustments across government-linked companies or government-linked investment companies will continue to strengthen household purchasing power. The research house added that targeted subsidies for RON95 fuel, which unveiled its full roll out phase yesterday covering all Malaysians, will broaden the scope of relief beyond earlier income-based categories.
+
+[NEWS_P002] MBSB Research noted that these measures, as well as ongoing job creation and accommodative financing conditions post overnight policy rate cuts, are set to reinforce sentiment and sustain spending into year-end. Malaysia’s retail trade rose 5.6% year-on-year (y-o-y) to RM67.01bil in July 2025, underpinned by stronger gains in other specialised stores, automotive fuel in specialised stores as well as the food, beverages and tobacco sector. Moreover, employment growth accelerated to 3.1% y-o-y, continuing to outpace labour force expansion of 2.8%, demonstrating resilient job creation and sustained labour demand.
+
+[NEWS_P003] The labour market remained stable with the unemployment rate unchanged at 3%, emphasising a combination of robust employment conditions and mild inflation as factors that continue to support real household purchasing power and steady domestic consumption. MBSB Research favours Fraser & Neave Holdings (F&N), Aeon Co (M) Bhd and Life Water Bhd , each with a target price of RM32.08, RM1.77 and RM1.11 respectively. The research house has downgraded Spritzer Bhd to a “neutral” rating, while also recommending a “sell” rating on Nestle (M) Bhd and Oriental Kopi Holdings Bhd following recent share price rallies.
+
+[NEWS_P004] It remained positive on the consumer sector’s outlook, supported by firm macro fundamentals, pro-consumer policies, and structural demand drivers. MBSB Research stated that the consumer sector’s defensive nature offers resilience through staples, positioning consumer-related companies to deliver even amid a volatile global market.

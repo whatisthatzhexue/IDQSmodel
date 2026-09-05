@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI dips amid profit-taking, ringgit climbs
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-11-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/12/fbm-klci-dips-amid-profit-taking-ringgit-climbs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The local bourse slipped into negative territory as investors took some money off the table following recent gains, even as the ringgit continued its upward momentum. At 5pm, the FBM KLCI fell 3.22 points, or 0.2%, to 1,631.61, off its intraday low of 1,630.12. On the broader market, losers outpaced gainers 650 to 463, with 557 counters unchanged. Turnover stood at 3.43 billion shares worth RM2.86 billion. Dealers said the local bourse closed on a cautious note as profit-taking emerged following recent gains, with investors turning more guarded amid mixed regional performance.
+
+[NEWS_P002] They added that market participants are now looking towards upcoming corporate earnings for fresh trading cues. Malaysian Pacific Industries was the top loser on Bursa Malaysia, slipping 40 sen to RM31. PETRONAS Dagangan fell 26 sen to RM22.66, Hong Leong Industries eased 22 sen to RM14.86, while QL Resources declined 13 sen to RM4.25. Among the gainers, Nestle rose 90 sen to RM112.90, F&N added 84 sen to RM31.04, United Plantations climbed 44 sen to RM26.24, while Dutch Lady gained 32 sen to RM27.28.
+
+[NEWS_P003] ACE Market debutant Farmiera closed up 2%, or 0.5 sen to 25.5 sen with 56.47 million shares traded. Meanwhile, Reuters reported that the ringgit climbed to its strongest level in more than a year on Wednesday, supported by a robust economic growth outlook. The local currency strengthened 0.16% against the US dollar to 4.1310 and has appreciated 8.3% so far this year, making it the region’s best performer. On the external front, MSCI’s broadest index of Asia-Pacific shares outside Japan added 0.46%.
+
+[NEWS_P004] Regional markets ended mixed today, with Japan’s Nikkei 225 rising 0.43% to 51,063.31, Hong Kong’s Hang Seng gaining 0.85% to 26,922.73, and South Korea’s Kospi advancing 1.07% to 4,150.39. In contrast, China’s CSI300 index slipped 0.13% to 4,645.91, while the Shanghai Composite eased 0.06% to 4,000.14.

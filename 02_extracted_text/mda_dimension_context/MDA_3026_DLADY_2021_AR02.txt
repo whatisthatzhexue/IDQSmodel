@@ -1,0 +1,118 @@
+document_id: MDA_3026_DLADY_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_3026_DLADY_2021", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 43, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P005]
+Dutch Lady Milk Industries Berhad
+Driving The Nation’s Sustainable Dairy Farming
+DLMI achieved a milestone in April 2021 when we
+established a strategic public-private partnership by signing
+a Memorandum of Collaboration with the Department of
+Veterinary Services (DVS) to boost our nation’s supply of
+quality local fresh milk and to achieve a fully sustainable
+milk supply for the future. The collaboration allows DLMI
+to partner the Government, especially the Ministry of
+Agriculture and Food Industry to support the growth of the
+local dairy industry. This is in line with the Government’s goal
+to achieve 100 percent Self-Sufficiency of local fresh milk by
+2025 as part of the National Dairy Industry Development
+Programme. Since 2011, our Dairy Development Programme
+(DDP) has helped produce 37.9 million litres of milk while our
+Farmer2Farmer (F2F) Programme has benefitted more than
+536 farmers. In 2021, we introduced a new digital F2F format
+that revolved around video blogs and was aptly named F2F
+Vlogs. Via this initiative, a total of 70 local dairy farmers
+were trained virtually during the COVID-19 pandemic.
+[MDA_P006]
+Environmental Sustainability
+DLMI is constantly working to reduce our environmental
+footprint. Efforts to care for our environment are practiced
+every day across our business for example through purchasing
+100% green electricity. As such, we’re committed to using
+less energy and water, reducing waste and decreasing
+emissions. In 2021, we achieved an Energy ratio of 1.20 GJ/
+ton and Water ratio of 3.23 m3/ton against the budgeted
+1.12 GJ/ton and 3.59 m3/ton, respectively. This was done by
+implementing a few mechanical and systematical initiatives
+including energy recovery from steam condensate, reducing
+and reusing water usage from our manufacturing facility,
+compressed air optimisation through installation of booster
+pumps and air receiver tanks as well as energy conservation. Tributary Cleaning: Revitalisation of Sungai Penchala
+Ecosystem
+Public-private partnerships are vital in mapping and
+addressing environmental and societal needs. DLMI is happy
+to lead the path for effective and sustainable measures to
+ensure sustainable development of our river ecosystem -
+a key natural resource we need to preserve.
+[MDA_P007]
+As such, DLMI
+began tributary cleaning of Sungai Penchala in partnership
+with Selangor Maritime Gateway, an initiative by the
+Selangor Government to clean, rehabilitate and develop
+areas along the Sungai Klang ecosystem to make it an
+engine of growth for the state. During the clean-up from 15
+August right up to 31 December 2021, a total of 11.1 metric
+ton of waste was removed from Sungai Penchala. DLMI has
+also recently embarked on a partnership with the Global
+Environment Centre, a highly reputable organisation that
+shares a common goal in caring for the environment with
+various activities and solutions driven on river care. We
+look forward to supporting relevant activities pertaining
+to the river care of Sungai Penchala especially in driving
+greater effectiveness in river monitoring in the community
+via education and provision of the right infrastructure
+and tools. Our tributary cleaning efforts were recognised
+by the Selangor state government to be amongst the five
+key public-private collaborations involved in the cleaning,
+rehabilitation and sustainable development of Klang river.
+[MDA_P009]
+Annual Report 2021
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Through the course of 2021, we had carried out various
+initiatives in ensuring our People stayed connected through
+strong adoption of CARE (C-Connected; A-Appreciated;
+R-Responsive; E-Energised) principles, wellness initiatives
+to remain engaged and energised, and enabled a forward,
+flexible way of working through Agile Transformation. Despite all external challenges, we continue to invest in our
+People, and will continue doing so for years to come. Capability Building
+We remain committed and passionate about talent
+management and development as our employees are drivers
+of sustainable success. Hence, various initiatives have been
+deployed to enhance capability building:
+Winning Through Volatility – Body.Mind.Soul (BMS)
+The current volatile business landscape represents a challenge
+to employees where mental, spiritual and physical energies
+are shifting. This amplified the relevance of personal energy
+management - that an Engaged, Enabled, and Energised
+workforce is key in motivating our business forward.
+[MDA_P010]
+In 2021, many wellness-focused initiatives were deployed via
+our Employee Engagement model, Body.Mind.Soul (BMS),
+which included:
+Local employee participation in
+FrieslandCampina Academy programmes
+(Nourishing Leadership, Future Leader) – in
+developing the next class of high potential
+leaders
+Driving Coaching Culture via the Solution
+Focused Coaching programme (74 pax
+which accounts for 75% of our Business
+Leadership Team + selected Talent across
+DLMI involving up to 3,552 man-hour
+spent)
+Enterprise Agile Transformation:
+Introducing the Agile fundamentals; Agile
+Coaching (Total 106 pax of employees has
+went through Agile Fundamental training;
+768 of Agile coaching hours)
+Employee Growth and Development:
+10,259 training man-hours from 81 training
+programmes completed by our employees
+throughout the year in 2021, this translate
+to average of 12.28 hours per employee in
+DLMI.

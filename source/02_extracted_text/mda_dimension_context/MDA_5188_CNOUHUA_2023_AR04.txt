@@ -1,0 +1,21 @@
+document_id: MDA_5188_CNOUHUA_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 4, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+b) Profit(Loss) after Taxation
+Loss for FY 2023 was RMB 7.403 million as compared with FY 2022's loss of RMB 25.940 million.The higher loss
+figure in FY 2022 was mainly due to Inventories written down, which amount to RMB15.396 million, and
+Impairment for PPE of RMB6.388 million also contributed to the higher loss figure. Both year's operating
+result was badly affected by exacerbated competition in Chinese winery market, which result a lower profit
+level
+a) Revenue
+For FY 2023, China Ouhua, which is principally involved in importing and sales of grape wines with its sole
+manufacturing plant located in Yantai City, Shandong Province, China recorded an increase in revenue of
+6.74% or RMB 0.985 million from RMB 14.619 million in FY 2022 to RMB 15.604million in current financial
+year. Principal target market of China Ouhua's wine products is throughout China. For FY 2023, the sales
+recorded was solely through sales of red wine. Given that the wine market in China remains highly competitive
+and none of red wine and white wine was favoured by the consumers as before , Management had made
+many efforts with the objective to improve the sales revenue.

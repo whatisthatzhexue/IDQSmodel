@@ -1,0 +1,13 @@
+metric,value
+mda_claim_count,2861
+news_claim_count,323
+claim_link_count,316
+strong_support,2
+partial_support,0
+contextual_support,0
+contradictions,30
+possible_omissions,0
+same_source_repetitions,8
+mock_mode_or_deterministic_proxy,True
+systemic_conflict_flag,True
+source_independence_distribution,"{'unknown': 300, 'low': 10, 'medium': 6}"

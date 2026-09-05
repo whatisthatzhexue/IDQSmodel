@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI approaches 1,600 level as financial stocks lift
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/12/fbm-klci-approaches-1600-level-as-financial-stocks-lift
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI extended its gains over the morning session, and has come within striking range of the 1,600 psychological level. At 12.30pm, the benchmark index had risen 8.25 points to 1,598.2. The index has risen above the 50-day simple moving average for the first time since dropping under it a month ago. Trading volume on Bursa Malaysia was 1.72 billion shares changing hands for RM1.32bil. The rally on the FBM KLCI was broad-based, led by financial heavyweights ahead of the peak corporate earnings period.
+
+[NEWS_P002] Maybank climbed 14 sen to RM10.60, Public Bank gained seven sen to RM4.52 and RHB added eight sne to RM6.56. Nestle jumped 86 sen to RM91.66, on track to its highest closing in over three weeks, while QL Resources gained six sen to RM4.67 and SD Guthrie rose five sen to RM4.85. Among lower liners, however, there remained downward pressure as the number of declining stocks trumped gainers 500 to 394. Meanwhile, regional markets were mixed ahead of the release of the US consumer price index tonight, which would to determine the Federal Reserve's outlook on interest rates.
+
+[NEWS_P003] China's composite index was little changed at 3,317 but Hong Kong's Hang Seng jumped 1.56% to 21,626. Japan's Nikkei rose 0.17% to 38,867 and Singapore's Straits Times was down 0.04% to 3,859.

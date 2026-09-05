@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit soft as US$ remains elevated
+
+[METADATA]
+ticker: SG
+company_name: Saudee Group Berhad
+publish_date: 2024-04-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/25/ringgit-soft-as-us-remains-elevated
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit extended its downward trend as the US dollar remained elevated while market players await the release of the United States’ first-quarter (1Q) gross domestic product (GDP) data later today, as well as the March Personal Consumption Expenditures (PCE) data tomorrow. At 9 am, the ringgit eased to 4.7825/7870 against the greenback from Wednesday’s closing of 4.7765/7780. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the US economy in the 1Q is estimated to grow 2.4 per cent quarter-on-quarter from 3.4 per cent previously.
+
+[NEWS_P002] "So far, the US economy has been quite resilient and markets have shrugged off the dip in the US Purchasing Managers' Index (PMI) index for the manufacturing sector in April. "As such, the ringgit would remain soft ahead of the incoming US data points today and tomorrow,” he told Bernama. He noted that the US Dollar Index (DXY) has continued to appreciate against major currencies, including the Japanese yen where it had surpassed 155 yen per greenback for the first time in three decades, which may prompt direct intervention by authorities to stem the decline.
+
+[NEWS_P003] Meanwhile, the ringgit was traded mostly lower against a basket of major currencies. It rose vis-a-vis the Japanese yen to 3.0779/0810 from 3.0830/0840 at Wednesday’s close but depreciated versus the British pound to 5.9600/9656 from 5.9362/9381 and slid against the euro to 5.1187/1235 from 5.1046/1062 previously. It was also traded mixed against ASEAN currencies. The local currency appreciated versus the Thai baht to 12.8835/8995 against 12.9004/9097 from yesterday’s close and was better versus the Philippines’ peso at 8.29/8.31 from 8.30/8.31 on Wednesday.
+
+[NEWS_P004] However, it slid against the Singapore dollar to 3.5122/5157 from 3.5090/5104 yesterday and was slightly weaker vis-a-vis the Indonesian rupiah to 295.9/296.4 from 295.6/295.9 previously. - Bernama

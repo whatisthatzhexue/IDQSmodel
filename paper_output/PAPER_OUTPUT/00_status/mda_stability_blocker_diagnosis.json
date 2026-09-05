@@ -1,0 +1,112 @@
+{
+  "case_count": 94,
+  "failed_document_ids": [
+    "MDA_2828_CIHLDG_2024",
+    "MDA_2836_CARLSBG_2022",
+    "MDA_3026_DLADY_2021",
+    "MDA_3026_DLADY_2022",
+    "MDA_3026_DLADY_2023",
+    "MDA_3689_FN_2020",
+    "MDA_3689_FN_2021",
+    "MDA_3689_FN_2022",
+    "MDA_4065_PPB_2021",
+    "MDA_4065_PPB_2022",
+    "MDA_7103_SPRITZER_2023"
+  ],
+  "failure_count": 11,
+  "failure_type_distribution": {
+    "AR02_numeric_discrepancy": 11,
+    "evidence_locator_failure": 0,
+    "json_parse_failure": 11,
+    "low_confidence": 5,
+    "missing_dimension": 55,
+    "missing_output": 0,
+    "ollama_502_error": 0,
+    "ollama_http_error": 0,
+    "repeatability_failure": 0,
+    "schema_validation_failure": 11,
+    "score_difference_too_large": 0,
+    "structure_comparison_failure": 1,
+    "text_extraction_issue": 0,
+    "text_too_long": 0,
+    "unknown": 0,
+    "version_comparison_failure": 0
+  },
+  "is_16_over_27": true,
+  "manual_review_case_count": 5,
+  "repairable_case_count": 33,
+  "rescore_case_count": 55,
+  "selected_count": 27,
+  "stability_success_rate_explanation": "numerator is selected MD&A stability-batch documents present in mda_v2_stability_document_scores; denominator is mda_v2_stability_batch_selection selected documents",
+  "success_count": 16,
+  "success_fraction": "16/27",
+  "success_rate": 0.592593,
+  "top_unstable_dimensions": [
+    {
+      "case_count": 27,
+      "dimension_code": "AR02"
+    },
+    {
+      "case_count": 23,
+      "dimension_code": "ALL"
+    },
+    {
+      "case_count": 11,
+      "dimension_code": "AR01"
+    },
+    {
+      "case_count": 11,
+      "dimension_code": "AR03"
+    },
+    {
+      "case_count": 11,
+      "dimension_code": "AR04"
+    },
+    {
+      "case_count": 11,
+      "dimension_code": "AR05"
+    }
+  ],
+  "top_unstable_documents": [
+    {
+      "case_count": 9,
+      "document_id": "MDA_7103_SPRITZER_2023"
+    },
+    {
+      "case_count": 8,
+      "document_id": "MDA_2828_CIHLDG_2024"
+    },
+    {
+      "case_count": 8,
+      "document_id": "MDA_3026_DLADY_2022"
+    },
+    {
+      "case_count": 8,
+      "document_id": "MDA_3689_FN_2022"
+    },
+    {
+      "case_count": 8,
+      "document_id": "MDA_4065_PPB_2021"
+    },
+    {
+      "case_count": 7,
+      "document_id": "MDA_3026_DLADY_2023"
+    },
+    {
+      "case_count": 7,
+      "document_id": "MDA_3026_DLADY_2021"
+    },
+    {
+      "case_count": 7,
+      "document_id": "MDA_2836_CARLSBG_2022"
+    },
+    {
+      "case_count": 7,
+      "document_id": "MDA_3689_FN_2020"
+    },
+    {
+      "case_count": 7,
+      "document_id": "MDA_3689_FN_2021"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+document_id: MDA_5533_OCB_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 32, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P009]
+Registration No. 195901000114 (3465-H)
+REVIEW OF THE FINANCIAL RESULTS AND FINANCIAL CONDITIONS (cont’d)
+The Group reported a profit before taxation of RM12.7 million for FYE 2023 as opposed to a loss before taxation
+of RM2.0 million in the FYE 2022 because of higher profit reported from Consumer Foods and Bedding Products
+Divisions. The Consumer Foods Division posted a profit before taxation of RM11.7 million for FYE 2023 as compared to a
+loss before taxation of RM2.2 million in the FYE 2022 mainly due to higher products margin because of increase
+in selling price and stabilization of raw materials cost during the year. The main raw materials price such as flour,
+palm oil and soy bean oil have decreased in the range of 13% to 24% during the year. The Bedding Products Division reported a profit before taxation of RM6.9 million for FYE 2023 as against a profit
+before taxation of RM5.5 million in the FYE 2022 because of reopening of economy after Covid-19 restriction. Domestic projects have seen an uptake in activities after the long lockdown. Project sales has increased to RM18.3
+million in the FYE 2023 as compared to RM13.6 million reported in the immediate preceding year.
+[MDA_P011]
+Noodles’ sales reported a 58% increase to RM95.9 million as compared to RM60.7 million in the FYE 2022. These were mainly due to a new OEM business and increase customers coverage because of self-distribution. OEM noodles business registered RM29.9 million as compared to RM15.2 million in the FYE 2022. The Division is
+positive on the prospect of this business. Sales of in-house brands noodles also reported an increase of RM20.5
+million to RM66.0 million in the FYE 2023. The salad dressing segment also grew by RM4.2 million or 10% mainly contributed by the increase in selling price
+and more people are eating out as the economy continue to open-up. The sales of trading segment (creamer) increased by RM3.7 million or 7% due to a higher demand from the export
+market. This segment has achieved RM55.9 million sales for FYE 2023 as compared to RM52.2 million in the
+immediate preceding financial year. The sales of seasonings segment, on the other hand, saw a decrease by RM0.3 million or 25% in the FYE 2023
+attributable to a lower repeat orders from the overseas market for the Ready to Cook Curry Paste range.
+[MDA_P012]
+The Division registered a profit before taxation of RM11.7 million in the FYE 2023 versus a loss before taxation of
+RM2.2 million in the FYE 2022. On the operation level, the Division showed a higher margin and lower operating
+expenses ratio as a result of stabilization of raw material costs and the economies of scale. Overall, on a year-on-year basis, direct materials cost has stabilized since end of the FYE 2022, the main raw
+materials price such as flour, palm oil and soy bean oil have decreased in the range of 13% to 24% during the year. MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P015]
+The industry suffered
+supply chain disruptions and expect better days as the economy continue opening. REVIEW OF THE OPERATING ACTIVITIES
+Consumer Foods Division
+The Semenyih and Sibu noodle plants have a current combined capacity of 12.0 million pieces of noodles per shift
+per month. For the full year 2023, the Semenyih noodle plant utilised 93% of its daily shift capacity while Sibu plant
+ran at full capacity. The sales of instant noodles surged 58% compared to last year. Domestic market made up 87% of total sales in
+this category. Sales of IBUMIE was again strongly powered by the East Malaysian market which was up 21% year-
+on-year, partly driven by an increase in volume and price. The Division also started production for an OEM label brand of instant noodles which contributed 31% to the
+overall turnover of this product category in Year 2023. Beside the major improvement from existing OEM customers
+business, the Division also managed to secure additional OEM customer during the year. MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P017]
+The Division also resumed participation in more food fairs as the global economy continue to reopen. In 2023, the
+Division participated in a total of 3 exhibitions, namely:
+1. FHA–Food & Beverages, Singapore 2023
+2. THAIFEX–Anuga Asia 2023
+3. FHM–Food & Hotel Malaysia, Kuala Lumpur Convention Centre
+Operationally, the Division performed well for the Year 2023 as raw materials prices stabilized. Overall direct
+materials costs has decrease around 7%. The Division’s profitability was also helped by the increase in products’ selling price between the Years 2022 and 2023. In 2023, the implementation of imbalance cost pass-through (ICPT) saw a significant increase in utility rate from
+RM0.037/kWh to RM0.20/kWh, the Division was exploring the possibility of lowering energy costs by going into
+solar energy. All in all, Year 2023 has been a good year for the Division and we foresee it to perform better in the next financial
+year. The Division will continue to focus on automation and digitalization to be cost-efficient going forward. Bedding Products Division
+The Division has invested in the operations of The KING KOIL Flagship Stores.
+[MDA_P030]
+Registration No. 195901000114 (3465-H)
+BUSINESS OUTLOOK 2024
+Malaysia’s Gross Domestic Product (“GDP”) is expected to grow strongly at 4.5 percent to 5.0 percent in 2024,
+primarily on the back of a recovery in the manufacturing sector and driven by the expected expansion of its
+domestic consumption that is underpinned by a resilient labour market, and potential recovery in global trades
+amid expectation that the United States would avoid a recession.

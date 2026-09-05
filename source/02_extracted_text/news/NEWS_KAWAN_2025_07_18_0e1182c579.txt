@@ -1,0 +1,16 @@
+[TITLE]
+Ramasamy withdraws suit against Chow over Batu Kawan land deal
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-07-18
+source_name: The Star
+url: https://www.thestar.com.my/news/nation/2025/07/18/ramasamy-withdraws-suit-against-chow-over-batu-kawan-land-deal
+confidence_tier: low
+
+[NEWS_P001] GEORGE TOWN: Former Penang deputy chief minister II Dr P. Ramasamy on Friday (July 18) withdrew his defamation suit against Chief Minister Chow Kon Yeow over the controversial land sale issue in Batu Kawan. The consent judgment was recorded by Sessions Court Judge Helmi Ghani here after lawyer Dr Shamsher Thind Singh, representing Ramasamy, informed the court that his client agreed to withdraw the suit without the liberty to re-file it. Ramasamy initiated defamation proceedings against Chow on July 18 last year, over a statement published on Chow’s official Facebook page on Oct 3, 2023, which Ramasamy alleged gravely damaged his reputation.
+
+[NEWS_P002] The suit stemmed from a cancelled deal between Penang Development Corporation (PDC) and Umech Land Sdn Bhd over the sale of 226 hectares of land in Byram, Batu Kawan, which has now been cancelled. Chow was represented by lawyer A.Ruebankumar. In the same court, the PDC also withdrew its defamation suit over the same matter against Ramasamy without liberty to re-file and without an order as to costs. Ramasamy also agreed to withdraw statements he made about the PDC as part of the settlement.
+
+[NEWS_P003] The Batu Kawan land deal became controversial due to allegations that it was sold below market value. - Bernama

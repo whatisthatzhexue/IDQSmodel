@@ -1,0 +1,12 @@
+[TITLE]
+Rex Industry changes name to ETA Group, effective Dec 8
+
+[METADATA]
+ticker: ETA
+company_name: Annual Report 2020
+publish_date: 2025-12-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/03/rex-industry-changes-name-to-eta-group-effective-dec-8
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Rex Industry Bhd is changing its name to ETA Group Bhd, effective Dec 8, 2025. Bursa Malaysia, in a statement, said following the change, the company’s stock short name will be updated from REX to ETA, while its warrants will be traded under the new short name ETA-WA, replacing REX-WA. However, Bursa Malaysia noted that the company’s stock codes will remain unchanged.

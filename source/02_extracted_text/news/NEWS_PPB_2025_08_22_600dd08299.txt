@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI pushes higher despite caution over Fed chair speech
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-08-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/22/fbm-klci-pushes-higher-despite-caution-over-fed-chair-speech
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI edged cautiously higher at Friday's open although the risk appetite is expected to remain low ahead of the weekend where the US' top central banker is expected to give his remarks on interest rate policy. The benchmark index rose 0.93 points to 1,593.8, as investors picked up shares amid the ongoing corporate results period. However, analysts are expecting traders to remain cautious as they await US monetary policy cues from Federal Reserve chair Jerome Powell's upcoming speech at the ongoing Jackson Hole symposium.
+
+[NEWS_P002] According to Rakuten Trade, the accumulation of stocks from local institutions was apparent with buying interest mainly focused on the laggards. "We are indeed heartened by the solid support from the local funds thus far, rendering them taking the lead within the local bourse. "For today, we expect the index to hover between the 1,590-1,600 range, hopefully and beyond," said the research firm in a note. Maxis was an early leader on the FBM KLCI, rising five sen to RM3.51 following the previous day's positive results announcement.
+
+[NEWS_P003] Other notable gainers included Sunway up six sen to RM4.81, Tenaga Nasional rising six sen to RM13.70 and PPB climbing 17 sen to RM8.87. Maybank jumped nine sen to RM9.87 while AMBank gained six sen to RM5.56 Of actives, Widad dropped 0.5 sen to 1.5 sen, Ivory Properties slid 1.5 sen to 0.5 sen and SFP Technology gained 0.5 sen to 16 sen.

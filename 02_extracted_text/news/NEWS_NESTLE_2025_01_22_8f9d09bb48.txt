@@ -1,0 +1,16 @@
+[TITLE]
+Recovery continues on Bursa Malaysia as tariffs delay lifts
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/22/recovery-continues-on-bursa-malaysia-as-tariffs-delay-lifts
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia stayed on course for a recovery on Wednesday but has so far retraced only a fraction of the losses made in the opening weeks of January. The benchmark FBM KLCI rose 2.76 points to 1,583.22 at the starting line, on track to a fourth straight day of gains although it remained well below the 2024's year-ending level of 1,642. However, Rakuten Trade said the sold-down prices makes the local bourse a good value proposition for investors.
+
+[NEWS_P002] "In addition to this, Trump’s delayed tariff move may offer some optimism to regional markets hence expect prevailing bargain hunting activities to continue and expect the index to hover within the 1,580-1,595 range today," it said in a note. The rally on Wall Street overnight in its first trading day after Trump's inauguration also helped to shore up investor sentiment, sparked by a dialogue between the US President and China's Xi Jinping. According to Malacca Securities Research, the FBM KLCI is still trading below all the moving average lines within the pullback formation on the technical chart.
+
+[NEWS_P003] "The technical indicators however are recovering, with the RSI rebounded off the oversold zone, while MACD Histogram forming its rounding bottom formation. "Resistance is anticipated around 1,595-1,600, while support is set at 1,560-1,565," it added in its report. Among blue chips on the rise, Nestle gained 98 sen to RM92.48, Tenaga Nasional climbed 12 sen to RM13.80 and Kuala Lumpur Kepong rose six sen to RM20.24. Of actives, TWL was unchanged at 2.5 sen, Harvest Miracle gained one sen to 18 sen and CBH Engineering was flat at 36.5 sen.

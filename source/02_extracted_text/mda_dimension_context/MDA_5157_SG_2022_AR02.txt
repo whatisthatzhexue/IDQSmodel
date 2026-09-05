@@ -1,0 +1,172 @@
+document_id: MDA_5157_SG_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 19, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_5157_SG_2022", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 43, "num_material_discrepancies": 0, "num_minor_discrepancies": 1, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Introduction
+The summary of the results of SAUDEE and its subsidiaries (“Group”) for the past two (2) financial years ended 31 July 2021 (“FYE 2021”) to
+FYE 2022 as summarised below:-
+FYE 2022
+FYE 2021
+01.08.2021
+to
+31.07.2022
+01.08.2020
+to
+31.07.2021
+KEY RESULTS
+Revenue
+(RM’000)
+96,880
+80,779
+Loss before tax (“LBT”)
+(RM’000)
+(3,960)
+(4,465)
+Loss after tax (“LAT”)
+(RM’000)
+(4,406)
+(4,373)
+Earnings/(Loss) before interest, taxes, depreciation and amortisation (“EBITDA”)
+(RM’000)
+1,262
+1,214
+OTHER KEY DATA
+Total assets
+(RM’000)
+149,579
+141,319
+Total liabilities
+(RM’000)
+12,366
+16,273
+Share capital
+(RM’000)
+162,816
+146,234
+Shareholders’ funds
+(RM’000)
+137,214
+125,046
+FINANCIAL RATIOS
+Return on shareholders’ funds
+(%)
+(0.03)
+(0.01)
+Current ratio
+(Times)
+8.80
+7.20
+Debts to equity ratio
+(Times)
+0.01
+0.01
+Weighted average number of shares
+(‘000)
+902,141
+298,412
+Net loss per Share
+(Sen)
+(0.49)
+(1.47)
+Net assets per Share
+(RM)
+0.15
+0.47
+The purpose of this review is to highlight and provide brief insight on the key financial and operating information at the Group level. This
+review and comparison is for the FYE 2022 against FYE 2021 results.
+[MDA_P002]
+Analysis of Revenue
+FYE 2022
+FYE 2021
+(RM’000)
+(RM’000)
+Manufacturing-further process
+products (“FPP”)
+64,219
+49,432
+Food Service (HORECA and OEM)
+16,709
+13,013
+Trading products
+15,952
+18,334
+96,880
+80,779
+96,880
+80,779
+Our Group’s total revenue for FYE 2022 stands at RM96.9 million an increase by RM16.1 million as compared to RM80.8 million in FYE 2021
+due to the following reasons:
+i)
+Improved FPP sales during the 2nd half of the FYE 2022 sales increase in FPP segment by RM14.8 million and Food service segment
+of RM3.7 million. This was mainly due to the continued trends of consumer behavior for frozen FPP products as it can be kept for
+longer period, and
+ii)
+However, this improvement has been set off against the slow demand in trading activities of RM2.4 million. As the demand for
+trading products is reducing as a result of uncertainty in beef and chicken pricing in Malaysia . SAUDEE GROUP BERHAD 200801036832 (838172-P)
+ANNUAL REPORT 2022
+[MDA_P003]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+Analysis of Revenue (Cont'd)
+The Management will continue to improve its production efficiency and increase its production capacity to capture a bigger market
+share in the FPP segment which has catered more sales and increase the market for East Malaysia, i.e. Sabah and Sarawak. As during the
+financial under review, the Company investing into expand its production capacity that able to produce more in FPP products and meet
+the demand of local and East Malaysia market. The Management continued to put effort in monitoring its cash flow management and
+cost reduction programme that is important in view of the ever-changing business environment after Covid-19 impact and in future years.
+[MDA_P004]
+Analysis of Profit/(Loss)
+FYE 2022
+FYE 2021
+01.08.2021
+to
+31.07.2022
+01.08.2020
+to
+31.07.2021
+Analysis of Profit and expenses :
+Loss
+Loss before tax
+(RM’000)
+(3,960)
+(4,465)
+Loss after tax
+(RM’000)
+(4,406)
+(4,373)
+Earning before interest, taxes, depreciation and amortisation (“EBITDA”)
+(RM’000)
+1,262
+1,214
+Expenses
+Cost of goods sold (“COGS”)
+(RM’000)
+79,058
+71,419
+Administrative and selling expenses
+(RM’000)
+24,502
+13,459
+Finance costs
+(RM’000)
+1,294
+The slight improvement in EBITDA was mainly due to the improvement in revenue and effect from the continuing cost reduction
+programme implemented. However, this positive impact was mitigated by the fair value loss on other investments amounting to RM7.19
+million. The loss is not incurred any outflow of actual fund. The actual EBITDA excluded this fair value loss on other investment should be
+RM8.45 million as compare to RM1.2 million in FY 2021. Therefore, due to the above recognition of fair value loss, for FYE 2022, the Group recorded LAT of RM4.4 million as compared to LAT of
+RM4.4 million in FYE 2021. The slight increase in LAT mainly due to fair value loss on other investments in FY 2022, while there was none
+in FY 2021.
+[MDA_P005]
+The actual LAT excluded fair value loss on other investments should be a Profit After Tax ("PAT") of RM2.8 million in FY 2022 as
+compared to LAT of RM4.4 million in FY 2021. The adjusted PAT of RM2.8 million recorded is contributed by the effort of the management
+team which continues to implement cost efficiency and reduction programmes and the good strategy by management to concentrate on
+the FPP instead of HORECA in FY 2022. Even though the Group recorded LAT of RM4.4 million during FYE 2022, the Group was still able to repay its payables that is further
+discussed in the analysis on cash flow. Analysis of Expenses
+Our Group’s COGS increased by RM7.6 million or 10.7% from RM71.4 million in FYE 2021 to RM79.1 million in FYE 2022. The reason for
+the decrease in COGS was mainly due increase in revenue by RM16.1million in FYE 2022. Furthermore, the GP margin for FY2022 of
+18.4% improved by 6.8% for as compared to FY2021 of 11.6%. This mainly due to continuing cost reduction and improved in efficiency of
+production year to year implemented by the management.

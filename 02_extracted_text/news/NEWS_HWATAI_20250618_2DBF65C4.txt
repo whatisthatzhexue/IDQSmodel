@@ -1,0 +1,32 @@
+[TITLE]
+ChatGPT image generation comes to WhatsApp. What's the catch?
+
+[LEAD]
+The image generation process takes about two minutes.
+
+[NEWS_P001]
+OpenAI has announced that users can now generate images on WhatsApp.
+
+[NEWS_P002]
+Users can text ChatGPT through the number 1800 242 8478 and ask the AI bot to create an image.
+
+[NEWS_P003]
+Based on LifestyleTech's check, the process takes about two minutes.
+
+[NEWS_P004]
+When asked to generate another image, the bot responded: "You've hit the free plan limit for image generation requests. You can create more images when the limit resets in 23 hours and 40 minutes."
+
+[NEWS_P005]
+To generate more images, ChatGPT on WhatsApp advised users to link a Plus account (US$20 per month, or around RM85).
+
+[NEWS_P006]
+With account linking, OpenAI explained that users' WhatsApp phone number will be "associated" with their ChatGPT account.
+
+[NEWS_P007]
+Conversations on WhatsApp will be stored as part of their ChatGPT activity history.
+
+[NEWS_P008]
+Basedon information on its Help page, the company currently doesn't allow users to unlink phone numbers from OpenAI accounts.
+
+[NEWS_P009]
+WhatsApp has introduced AI image generation and chat via Meta AI. However, the feature is currently available in a limited number of countries.

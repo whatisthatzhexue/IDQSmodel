@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI extends winning streak; Cape EMS rises 7.41%
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/07/fbm-klci-extends-winning-streak-cape-ems-rises-741
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed higher on Wednesday, marking its second consecutive positive session as investors reassessed concerns about a sharp U.S. economic slowdown. At 5pm, the market's barometer advanced 17.48 points, or 1.11% to 1,591.87. The market traded within a range of 32.83 points between an intraday high of 1,596.60 and a low of 1,563.77 during the session. Stocks that rose outnumbered those that fell 1,061 to 270, with another 376 counters unchanged.
+
+[NEWS_P002] A total of 5.12 billion shares changed hands, worth RM4.02bil. Among the gainers, Malaysian Pacific Industries jumped RM1.26 to RM35.50, Allianz jumped 86 sen to RM20.40, YTL Power rose 35 sen to RM4.37 and Greatech Technology gained 34 sen to RM5.18. Edaran jumped 29.82%, or 51 sen to RM2.22 with 4.85 million shares traded. F&N tumbled RM1 to RM29.12, Nestle lost 70 sen to RM107.80, Kuala Lumpur Kepong slid 62 sen to RM20.80 and PETRONAS Dagangan fell 38 sen to RM17.62.
+
+[NEWS_P003] Cape EMS, the most active counter on Bursa Malaysia, rose 7.41%, or three sen to 43.5 sen with 736.24 million shares traded. Meanwhile, Reuters reported that oil prices rose slightly on Wednesday, but Brent remained near seven-month lows due to weak demand and recession fears in the United States. US West Texas Intermediate crude rose 37 cents to US$73.57 and Brent added 33 cents to US$76.81 per barrel. Around the region, MSCI's Asia ex-Japan stock index was firmer by 1.86%.
+
+[NEWS_P004] Japan’s Nikkei 225 ended up 1.19% at 35,089.62, while South Korea’s Kospi ended 1.83% higher at 2,568.41. Hong Kong’s Hang Seng index closed up 1.38% at 16,877.86. China’s blue-chip CSI300 index ended down 0.04% at 3,341.49, while the Shanghai Composite Index added 0.09% to 2,869.83.

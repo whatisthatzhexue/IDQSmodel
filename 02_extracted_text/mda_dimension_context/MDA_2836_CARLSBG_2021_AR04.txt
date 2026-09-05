@@ -1,0 +1,181 @@
+document_id: MDA_2836_CARLSBG_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 55, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P005]
+Our Business
+Message from Our Leaders
+Creating Sustainable Value
+Delivering Strong Governance
+Financial Statements
+Other Information
+Commitment to Sustainability
+CARLSBERG BREWERY MALAYSIA BERHAD [196901000792 (9210-K)]
+MANAGEMENT
+DISCUSSION & ANALYSIS
+WIN IN EACH STORE
+FUND THE JOURNEY
+2021 marked the second year that on-trade
+consumption
+was
+dampened
+by
+various
+restrictions on dine-ins, social distancing and
+operating hours, as well as the slower reopening
+of bars, pubs and restaurants and the temporary
+closure of entertainment outlets, which have yet
+to be allowed to reopen. This adversely affected our modern on-
+trade channel and permanently changed the
+behaviour of a segment of consumers who now
+prefer to enjoy their drinks in the safety of their
+homes. Our response since the first year of the
+pandemic has been agile, quick and consistent,
+as we re-channelled our focus and investment
+to the off-trade channel to capture the increased
+demand. We reorganised internal resources and
+re-strategised commercial activities to drive
+sales through e-commerce, convenience stores,
+mini markets, supermarkets and hypermarkets.
+[MDA_P010]
+We are happy to
+report that the new variant has almost achieved
+its full-year 2022 volume target in just three
+months since launch, and without cannibalising
+the 1664 Blanc, which continues to grow. Carlsberg Singapore is also set to launch the
+1664 Rosé in 2022. In Malaysia, the 1664 Blanc brand brought
+French and Malaysian cuisine together during
+the lockdowns through its Bon Appetit-lah
+campaign. Five unique French-Malaysian fusion
+recipes were created by French chef Nathalie of
+Nathalie Gourmet Studio and Malaysian chef
+Isadora Chai of Bistro à Table for consumers to
+try on their own at home by referring to step-
+by-step video demonstrations. A gastronomic
+cook-off competition between the two chefs
+was also featured on the brand’s social media
+platform to drive reach and engagement amid
+the lockdown. Somersby Cider, Malaysia and Singapore’s
+best-selling cider brand, released a new variant
+– Somersby Watermelon Cider – in March to
+further entrench its position in the cider market. This innovation is also doing well, becoming
+the second best-selling variant in our Somersby
+portfolio within a few months of launch.
+[MDA_P024]
+For instance, the Group had implemented
+enhancements on the existing Flexi Working
+Arrangements (FWA), including Work-From-
+Home, Flexi Working Hours and also Time Off
+arrangements. This FWA policy aims to support
+the needs of the employees as they go through
+different phases of their lives. By promoting a
+flexible workplace, we believe that it will lead
+to increased levels of employee engagement,
+health and wellbeing of employees and
+ultimately create a high performing workforce
+who feels empowered and valued. In addition, the upskilling of employees and
+the grooming of future leaders remained an
+important strategic thrust. To read more about our people priorities, please
+refer to pages 58 to 62 of this Integrated Report.
+[MDA_P027]
+There were also plans
+to impose a federal-level requirement on all
+coffeeshops and restaurants to obtain a licence
+to sell beer that would have severely affected
+the industry. This plan has since been shelved,
+and we are thankful to the Ministry of Finance
+for stepping in to remedy the matter. TOGETHER TOWARDS ZERO
+We believe that our business and sustainability
+performance go hand in hand. One cannot thrive
+without the other. We conduct our business in a
+way that is sustainable over the long term, as
+well as optimise financial returns in the short
+term. We are convinced that our commitment to
+sustainability bolstered our resilience through
+another very difficult year. COVID-19 is just
+one of the major crises the country faces. The
+extreme weather, with floods and mini-tornados,
+we experienced in different parts of Malaysia in
+2021 underlines the need for urgent action to
+tackle climate change. No one company can
+tackle this global challenge alone – we need
+businesses, governments, non-governmental
+organisations and civil society to come together
+for a better tomorrow.
+[MDA_P028]
+Consumers also have a critical role to play in
+a low-carbon future and it is encouraging that
+more people want to buy from brands with strong
+sustainability credentials. We are harnessing the
+power of our brands to encourage people to
+adopt more sustainable behaviour through the
+Planet Pledge that the Carlsberg Group took in
+September 2021, to which our Malaysian and
+Singapore operations are committed and will
+adapt into local campaigns to inspire consumers. We do not just embrace the concepts of
+sustainability; we have made it our mission to
+influence our stakeholders to adopt sustainable
+practices as well. Through our Together
+Towards ZERO (TTZ) sustainability programme,
+we stepped up to report on our commitment
+towards ESG considerations, which also supports
+10 out of the 17 United Nations Sustainable
+Development Goals (UN SDGs). DEFEND OUR LICENCE TO OPERATE
+Read more on the Group’s most material ESG
+issues and performance in the “Committing to
+Sustainability” section on pages 39 to 68.
+[MDA_P035]
+Our Business
+Message from Our Leaders
+Commitment to Sustainability
+Creating Sustainable Value
+Delivering Strong Governance
+Financial Statements
+Other Information
+CARLSBERG BREWERY MALAYSIA BERHAD [196901000792 (9210-K)]
+Sustainability
+strategy
+TOGETHER TOWARDS ZERO
+Sustainability
+priorities
+ZERO
+CARBON
+FOOTPRINT
+ZERO
+WATER
+WASTE
+ZERO
+IRRESPONSIBLE
+DRINKING
+ZERO
+ACCIDENTS
+CULTURE
+2030 targets
+ZERO carbon
+emissions at
+our breweries
+30% reduction in
+beer-in-hand
+carbon footprint
+50% reduction
+in water usage at
+our breweries
+Partner to safeguard
+shared water resources
+in all high-risk areas
+100% of our markets improve on
+responsible drinking year-on-year
+ZERO lost-time accidents
+Progress
+in 2021
+13.4%
+reduction
+since 2015
+8.4%
+reduction
+from 2015-2019
+21%
+reduction
+since 2015

@@ -1,0 +1,18 @@
+[TITLE]
+Sea of red on Bursa amid missile attacks in Middle East
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-04-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/17/sea-of-red-on-bursa-amid-missile-attacks-in-middle-east
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Volatility continued on Bursa Malaysia as over 1,000 securities closed in the red amid the rout in global equities. Dealers said risk sentiment remained subdued due to geopolitical tensions in the Middle East. Adding to the downbeat note, the US Federal Reserve is not expected to hurry in lowering interest rates this year. The FBM KLCI slipped 7.53 points, or 0.49% to 1,535.0, with 18 of the 30 component stocks ending lower. Market breadth was negative as losers overpowered gainers on a ratio of 1,139 to 173.
+
+[NEWS_P002] Trading volume rose to 4.93 billion securities worth RM3.72bil as profit-taking activities took control. A day earlier, losers outnumbered gainers with 993 securities ending lower and 230 finishing higher, indicating the bears were in control. Dutch Lady Milk Industries Bhd , the top loser on Bursa Malaysia yesterday, tumbled RM2.06 to RM31.56. Ajinomoto (M) Bhd declined 62 sen to RM18.70, Heineken Malaysia Bhd lost 54 sen to RM22.50 and Theta Edge Bhd fell 21 sen to RM1.53.
+
+[NEWS_P003] Among the gainers, Nestle (M) Bhd rose 80 sen to RM122.90, Malaysia Airports Holdings Bhd gained 19 sen to RM10.06, KESM Industries Bhd added 18 sen to RM6.35, United Plantations Bhd gained 16 sen to RM25 and CelcomDigi Bhd climbed 12 sen to RM4.20. Overall, the bearish market breadth was not exclusive to Malaysia. Other markets in the region took a more severe beating. Among the key stock indices that slipped were Japan’s Nikkei 225 index and China’s Shanghai Composite Index, falling by 1.94% and 1.65%, respectively.
+
+[NEWS_P004] South Korea’s Kospi declined by 2.28%, while Singapore’s Straits Times Index dropped by 1.22%.

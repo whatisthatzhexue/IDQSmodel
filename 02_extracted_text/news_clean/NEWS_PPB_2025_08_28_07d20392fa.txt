@@ -1,0 +1,14 @@
+[TITLE]
+PPB banks on grain for stability
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-08-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/28/ppb-banks-on-grain-for-stability
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: PPB Group Bhd ’s net profit for the second quarter ended June 30, (2Q25) has fallen by 9% year-on-year (y-o-y) due to a decrease in contributions from Wilmar International Ltd. For 2Q25, the diversified conglomerate’s net profit dropped to RM279.84mil or earnings per share of 19.67 sen. This was despite its revenue gaining 3% y-o-y to RM1.36bil. Over the six-month period, PPB’s net profit increased by 1% y-o-y to RM655.67mil, while revenue rose by 4% y-o-y to RM2.71bil.
+
+[NEWS_P002] In a filing with Bursa Malaysia, PPB said associate Wilmar’s performance will continue to contribute substantially to the overall profitability of the group. The company added that notwithstanding heightened uncertainties and economic pressures in the global trade environment, grain prices have remained relatively stable, providing some resilience to its operating landscape. PPB declared an interim dividend of 12 sen per share, with the ex-date on Sept 11, and payment date on Sept 26.

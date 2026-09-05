@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI rises for second day amid trade uncertainty
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/12/fbm-klci-rises-for-second-day-amid-trade-uncertainty
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed higher for the second straight day amid cautious sentiment, supported by selective buying in heavyweight stocks. Adding to the cautious mood were ongoing uncertainties over global trade developments and a mixed performance across key regional markets. The 30-stock index closed up 2.78 points, or 0.18% at 1,526.62. The market traded within a range of 5.5 points between an intra-day high of 1,528.72 and a low of 1,523.22 during the session.
+
+[NEWS_P002] Market breadth turned negative as losers overpowered the gainers on a ratio of 500-to-379 stocks. Traded volumes stood at 2.73 billion shares worth RM2.1bil. Nestle jumped 82 sen to RM76.38, PETRONAS Gas added 38 sen to RM18.08, Dutch Lady advanced 18 sen to RM29.68 and Carlsberg climbed 16 sen to RM19.62. Among the decliners, F&N fell 24 sen to RM28.20, LPI Capital slid 20 sen to RM14.32, Heineken gave up 14 sen to RM27.18 and Hong Leong Industries declined 12 sen to RM13.50.
+
+[NEWS_P003] Among the banks, Maybank added seven sen to RM9.77, Public Bank fell two sen to RM4.29 and CIMB declined one sen to RM6.89. RHB Bank gained one sen to RM6.39 while Hong Leong Bank rose 12 sen to RM19.64. Meanwhile, the ringgit strengthened 0.16% against the US dollar to 4.2290, tracking the greenback’s decline amid renewed expectations of interest rate cuts by the US Federal Reserve and lingering uncertainty over global trade developments. However, the local currency weakened against several other major currencies.
+
+[NEWS_P004] It fell 0.72% against the euro to 4.8784, dropped 0.28% against the British pound to 5.7348, and eased 0.22% against the Singapore dollar to 3.3005. Reuters reported that the US dollar slid to a seven-week low as markets priced in potential Fed rate cuts by year-end, with investors increasingly uncertain about the outlook for global trade. On the external front, regional markets were mixed. Japan’s Nikkei 225 slipped 0.65% to 38,173.09, while South Korea’s Kospi gained 0.45% to close at 2,920.03.
+
+[NEWS_P005] Hong Kong’s Hang Seng Index declined 1.36% to 24,035.38. In China, the CSI 300 index edged down 0.06% to 3,892.20, while the Shanghai Composite inched up 0.01% to 3,402.66.

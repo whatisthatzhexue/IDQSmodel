@@ -1,0 +1,16 @@
+[TITLE]
+Apollo’s net profit jumps 70% to RM53.8mil in FY24
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-06-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/13/apollos-net-profit-jumps-70-to-rm538mil-in-fy24
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: Apollo Food Holdings Bhd is studying initiatives to increase efficiency and leverage its strong brand to develop new export markets and customer segments, according to managing director Cheah Jia Ming. “This includes manufacturing space rationalisation, upscaling automation and digitalisation to optimise overall productivity and efficiency, thereby maximising both sales and capacity. Beyond these internal enhancements, we will also proactively strengthen our distribution and marketing efforts to achieve deeper market penetration and capture a higher market share.
+
+[NEWS_P002] “We remain optimistic and confident of our journey. Our goal is to create a solid foundation for sustained growth and profitability," Cheah said in a statement. In the fourth quarter ended April 30, Apollo posted a lower net profit of RM6mil, or earnings per share of 7.50 sen compared with RM6.8mil, or 8.51 sen a year ago. Revenue for the period fell 5% to RM57.2mil against RM60.2mil in the same period last year. For the full financial year, the confectionery manufacturer posted a net profit of RM53.8mil, up 70% from RM31.6mil while revenue declined marginally to RM255.4mil from RM257.1mil last year.
+
+[NEWS_P003] “We achieved satisfactory results for FY24, though sales for the fourth quarter were impacted by two major festive holidays coinciding with our final financial quarter this year,” Cheah said.

@@ -1,0 +1,16 @@
+[TITLE]
+Profit-taking keeps FBM KLCI in the red
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/03/profit-taking-keeps-fbm-klci-in-the-red
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI remained in negative territory at the midday break, having pared earlier losses amid ongoing profit-taking. At 12.30pm, the key index was down 2.9 points, or 0.19%, at 1,547.31, weighed down by Tenaga Nasional (TNB) and selected blue chips. On Bursa Malaysia, gainers led losers 514 to 371, while 404 counters were unchanged. Turnover stood at 2.4 billion shares worth RM1.4bil. TA Securities said that while stocks may edge higher, lingering concerns over potential US trade agreements with key global partners are likely to temper investor sentiment.
+
+[NEWS_P002] “Immediate index support is kept at 1,490, with stronger supports found at 1,465 followed by 1,444. “Immediate resistance remains at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead,” it added. Berjaya Research Sdn Bhd noted that although there has been limited progress on tariff negotiations, the return of foreign funds is helping to lift the key index, supported by ongoing portfolio realignment activities for the second half of 2025.
+
+[NEWS_P003] Among the laggards on Bursa Malaysia, TNB slid 62 sen to RM13.98, Malaysian Pacific Industries lost 40 sen to RM22, PETRONAS Dagangan fell 18 sen to RM21.52 and Kuala Lumpur Kepong declined 10 sen to RM20.88. Nestle surged RM1.80 to RM79.30, PETRONAS Gas rose 30 sen to RM18.06, Pentamaster gained 22 sen to RM3.42 and UWC climbed 15 sen to RM2.08.

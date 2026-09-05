@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia slips for fifth session amid selling pressure
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/25/bursa-malaysia-slips-for-fifth-session-amid-selling-pressure
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia saw a follow-through selling pressure on Friday, pushing the benchmark index lower for a fifth straight session. The FBM KLCI fell 13.93 points, or 0.85%, to close at 1,618.30, recovering from an intraday low of 1,617.60. The benchmark index dropped 27.69 points, or 1.78%, for the week. On the broader market, losers outnumbered gainers 656 to 354, with 2.5 billion shares worth RM2.14bil changing hands. Meanwhile, daily losers among FBM KLCI constituents stood at 21 counters, outnumbering the gainers at four, with five remaining unchanged.
+
+[NEWS_P002] Dealers expect the local bourse to stay in bearish consolidation on uncertainty about the U.S. election outcome. They expect trading on Bursa Malaysia to continue to be cautious. According to data from Bursa Malaysia, foreign investors continued selling local stocks on Wednesday, offloading RM230mil worth of equities. Local institutions and retailers acquired RM183mil and RM48mil worth of equities, respectively. Nestle, the top loser on Bursa Malaysia, tumbled RM2.30 to RM100.20.
+
+[NEWS_P003] HeiTech Padu declined 58 sen to RM3.29, Malaysian Pacific Industries lost 38 sen to RM26.22 and PETRONAS Dagangan slid 26 sen to RM17.72. Among the top gainers, DKSH rose 17 sen to RM5.23, Dutch Lady added 12 sen to RM30.58, PIE gained 11 sen to RM5.39 and United Plantations climbed 10 sen to RM26.50. Around the region, MSCI's Asia ex-Japan stock index was weaker by 0.05%. Japan’s Nikkei 225 fell 0.6%, Hong Kong’s Hang Seng Index closed up 0.5% and South Korea’s Kospi advanced 0.09%.
+
+[NEWS_P004] China’s CSI 300 Index added 0.7% while Shanghai Composite Index closed up 0.6%.

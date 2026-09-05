@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI tumbles 7.83% in first quarter amid market headwinds
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/28/fbm-klci-tumbles-783-in-first-quarter-amid-market-headwinds
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed the first quarter in the red, sliding 7.83% as persistent market uncertainties and cautious investor sentiment weighed on performance. At today’s close, the benchmark index tracked negative regional sentiment, falling 22.08 points, or 1.44%, to 1,513.65, its intraday high, amid concerns over U.S. tariffs and their potential impact on global trade. Despite a 0.54% weekly gain, the FBM KLCI tumbled 3.88% for the month and plunged 7.83% in the first quarter, marking its steepest decline since the second quarter of 2022.
+
+[NEWS_P002] Today's losses were largely driven by selling pressure on banking and energy heavyweights. Market breadth turned negative as losers outpaced gainers on a 563-to-395 ratio, while traded volume dropped to 2.25 billion shares worth RM2.13bil. Among the decliners, Nestle fell 74 sen to RM74.30, PETRONAS Dagangan slid 72 sen to RM18.28, Heineken lost 48 sen to RM26.76 and Panasonic Manufacturing declined 36 sen to RM13.56. Top gainers on Bursa Malaysia included F&N, which surged 34 sen to RM24.30, Far East, up 34 sen to RM3.69, Quality Concrete, rising 30 sen to RM1.16, and Edaran, climbing 13 sen to RM1.72.
+
+[NEWS_P003] Newly listed, HI Mobility rose 11 sen, or 9.02% to RM1.33 with 40.18 million shares traded. Among banks, Maybank dropped 24 sen to RM10.12, CIMB lost 13 sen to RM7, Public Bank slipped seven sen to RM4.42, RHB Bank eased five sen to RM6.84, and Hong Leong Bank declined 28 sen to RM20.14. On the forex market, the ringgit weakened by 0.01% against the greenback to 4.4325 but strengthened by 0.06% against the Singapore dollar to 3.3057. Meanwhile, Reuters reported that South Korea and Thailand led the decline in Asian emerging market stocks on Friday, as concerns over U.S.
+
+[NEWS_P004] tariffs weighed on sentiment. Thailand's benchmark index hit a one-week low, while the baht dropped 0.4%, as the country faced risks from new U.S. auto tariffs, Reuters reported. The Stock Exchange of Thailand halted all afternoon trading after an earthquake struck. South Korea's KOSPI fell 1.89% to 2,557.98 while Japan’s Nikkei 225 lost 1.8% to 37,120.33. Hong Kong’s Hang Seng closed down 0.65% at 23,426.60. China’s CSI 300 Index fell 0.44% to 3,915.17.

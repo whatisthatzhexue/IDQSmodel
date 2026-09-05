@@ -1,0 +1,22 @@
+[TITLE]
+Manufacturer’s dark chocolate variant made with Sabah, Sarawak cocoa beans
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2024-05-16
+source_name: The Star
+url: https://www.thestar.com.my/food/food-news/2024/05/16/manufacturers-dark-chocolate-variant-made-with-sabah-sarawak-cocoa-beans
+confidence_tier: high
+
+[NEWS_P001] TO LOCALISE ingredient supply chain, Nestle Malaysia has unveiled KitKat Dark Borneo made using cocoa beans grown in Sabah and Sarawak. The beans were sourced through the Nestle Borneo Cocoa Initiative (NBCI) launched in September 2023. The NBCI is a partnership between Nestle Malaysia and the Malaysian Cocoa Board to expand the company’s Farmer Connect programme. The programme supported sustainable agricultural practices and improve Malaysia’s food security and farmer livelihoods.
+
+[NEWS_P002] Since 1985, the company had engaged in the planting of local chillies and rice in several states, as well as coffee planting in Kedah and Kelantan. The NBCI expansion to Sabah and Sarawak provided opportunities to develop local cocoa supply by building on favourable planting conditions in the two states. This will also help position Malaysia as a global supplier for the crop. Using Trinitario cocoa beans grown in Borneo’s fertile volcanic soil and tropical rainforest climate, and which go through careful fermentation and sun-drying processes, the KitKat Dark Borneo with 52% cocoa content has a distinct balance of rich tastes and fruity notes.
+
+[NEWS_P003] KitKat Dark Borneo is part of the chocolatier’s product range produced at the halal-certified Chembong industrial complex in Negri Sembilan. Recently equipped with a new biomass boiler plant that reduces greenhouse gas emissions, this facility is among Nestle’s largest confectionery plants in Asia. It also plays a main role as an export manufacturing hub to South-East Asian markets and other destinations. Nestle Malaysia chief executive officer Juan Aranols praised the positive effect of the Farmer Connect programme.
+
+[NEWS_P004] “This initiative makes tangible our vision of ‘better farming, better lives and better cocoa’,” he said at the product launch. “Our approach includes implementing regenerative agricultural practices like agroforestry and intercropping, which help to ensure soil health for the long run as well as develop the crop yield and that helps boost local farmers’ income. “We believe that KitKat Dark Borneo is a great example of how private-public partnerships can bring about economic development for local communities,” Aranols added.
+
+[NEWS_P005] The event was attended by Plantation and Commodities Minister Datuk Seri Johari Abdul Ghani who said Malaysia had great potential to integrate into the global cocoa market. “Our ministry, together with the Malaysian Cocoa Board, are committed to revitalising and enriching our cocoa industry. “It is our task to re-energise the upstream and downstream sectors, ensuring that our approaches increase income generation and instils environmental stewardship,” he said.
+
+[NEWS_P006] Johari stressed the importance of innovating to tackle industry challenges. “Malaysia was once a thriving cocoa-producing nation and there are vast opportunities for us to use technology to elevate our production levels. “Therefore, efforts such as Nestle’s sustainability plan to support Borneo growers in improving their lives and the quality of their products are crucial,” the minister added. Also present were Deputy Plantation and Commodities Minister Datuk Chan Foong Hin, ministry deputy secretary-generals Datuk Razali Mohamad (agriculture and commodities) and Datuk Abdul Hadi Omar (strategic planning and management), Malaysian Cocoa Board director general Datuk Dr Ramle Kasin, Nestle confectionery business executive officer Carlota Casellas and Nestle Malaysia group corporate affairs executive director Datuk Adnan Pawanteh.

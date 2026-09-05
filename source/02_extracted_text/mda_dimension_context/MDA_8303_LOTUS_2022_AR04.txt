@@ -1,0 +1,81 @@
+document_id: MDA_8303_LOTUS_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+On 7 July 2020, with the completion of the regularisation plan, LKFM has regularised its financial condition and no longer
+triggers any of the criteria under PN17 of the Main Market Listing Requirements of Bursa Securities. Bursa Securities has decided to approve LKFM’s application for an early upliftment from being classified as a PN17
+company. LKFM has uplifted from being classified as a PN17 company effective from 9.00 a.m, Wednesday, 8 July 2020. During this financial year 2022 ("FYE 2022"), a proposed diversification allows the Group to enter into forest plantation
+industry in Malaysia and the Plantation Business is expected to provide a new source of recurring income stream for the
+Group to mitigate the risk of overdependence on its existing business. As part of the diversification plan, the Group have acquired three subsidiaries in 100% of the total issued shares, being
+ASV Jaya Resources Sdn. Bhd., Sam Jaya Plantation Sdn. Bhd. and Hijau Ria Solution Sdn. Bhd. on 11 October 2021. Their business included to plant, grow cultivate, produce and raise forest plantations of all kinds or varieties of forest
+plants, tree and crops nature product, wholesale of lumber and timber.
+[MDA_P003]
+On 31 December 2022, the Group had again
+acquired another two subsidiaries, Khas Jadi Sdn. Bhd. and Ladang Lojing Sdn. Bhd. in 100% of total shares. The Board believes that the future revenue contribution from the existing and new subsidiaries will positively contribute
+to the Group’s earnings. A full description of the Group’s integrated business model, financial outcomes, information on the subsidiaries can be
+found in our Annual Report 2022.
+[MDA_P007]
+The Group recorded consolidated revenue of RM66.079 million, represented increase of 27.66% over the prior financial
+year amount of RM51.762 million. The Group now records a gross profit of RM4.171 million (FYE 2021: RM4.285 million). As compared with the prior year,
+the Group's gross profit has been decreased by 2.66% and gross profit margin of 6.31% (FYE 2021: 8.28%). The Group’s
+inventories level for the current FYE 2022 had decrease significantly by 67.09% to RM1.480 million (FYE 2021: RM4.497
+million). This because LKFM is trying to maintain a lower inventory level to minimize the holding cost and carrying cost. Furthermore, it can also reduce the risk of slow-moving stock. The trade receivables had increased to RM7.725 million at the FYE 2022 compare to prior financial year (FYE 2021:
+RM5.940 million). It had increased 30.05% compare to prior financial year. The increase in trade receivables was due to
+higher sales generated towards the end of FYE2022 resulting in the corresponding increase in trade receivables. Other receivables have decrease 30.67% to RM10.609 million (FYE 2021: RM15.302 million).
+[MDA_P009]
+LOTUS KFM BERHAD Registration No. 198401007083 (119598-P)
+Anticipated Business Risks
+The business risks faced by the Group included market competitions, volatility of imported raw material prices,
+movements of currency exchange rates, the performance of user industries and changes in economic, political and
+regulatory conditions.
+a.
+Market competitions
+[MDA_P013]
+range of customers’ needs and requirements.
+b.
+Volatility of raw material prices
+[MDA_P014]
+The volatility of prices on imported raw materials such as wheat and tapioca remain the key challenge. Both wheat
+[MDA_P018]
+As the cost of these raw materials constitutes a major part of wheat flour and tapioca starch cost, managing these
+[MDA_P019]
+costs remain the key challenge.
+[MDA_P020]
+Any increase in the prices of these imported raw materials, if unable to pass on to customers on time, may adversely
+[MDA_P022]
+The stability of imported raw material prices remains a key challenge for all the industry players. This is an inherent
+[MDA_P023]
+risk faced by all the industry players.
+[MDA_P025]
+raw materials as well as their prices by increasing inventory to a reasonable level when prices are relatively low.
+c.
+Movements of currency exchange rates
+[MDA_P026]
+As LKFM’s main raw materials such as wheat and tapioca are fully imported from overseas markets and it is traded
+[MDA_P028]
+despite surging raw materials cost. Fluctuations in USD/RM rates will greatly impacted on its raw material costs
+[MDA_P030]
+purchased the aforesaid raw materials locally from its business collaboration partner, Lotus Essential Sdn. Bhd.
+[MDA_P031]
+("LOTUS"). Hence, the aforesaid currency risk is protected.
+Management Discussion and Analysis
+(cont’d)
+[MDA_P035]
+We will continue to take a prudent approach to manage this risk. However, this is an inherent risk in the wheat flour
+[MDA_P039]
+future prospects of the business such as the war between Ukraine and Russia and the wheat export had
+[MDA_P042]
+the control of the Group.
+Outlook of Industry
+The operating environment is expected to remain highly competitive and we anticipate intensifying pressures on margins
+as consumers’ living costs rise. Nevertheless, the Group will persevere in elevating operational efficiency and focus on
+exploring various marketing strategies to improve the Group’s revenue and profitability.
+We always uphold our mantra of offering excellent customer services, with great prices as our inherent objective.
+Regardless of the economic weather, the benchmark for the best value is set so that our customers can get the best
+possible deals with no compromise in quality and services.
+Note of Appreciation
+To our shareholders, customers, suppliers and business associates, who have given us valuable support, we
+wish to express our sincere appreciation and thanks to all of your enduring trust and confidence in our business.

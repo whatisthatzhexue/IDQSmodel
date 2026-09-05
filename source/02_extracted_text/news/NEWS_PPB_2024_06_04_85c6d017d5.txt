@@ -1,0 +1,18 @@
+[TITLE]
+Brighter prospects for PPB Group on China recovery
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-06-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/04/brighter-prospects-for-ppb-group-on-china-recovery
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: PPB Group Bhd ’s prospects are expected to improve after weak first-quarter (1Q24) results, according to Affin Hwang Investment Bank Research. PPB reported a lower 1Q24 revenue of RM1.29bil, a decrease of 15.3% year-on-year (y-o-y). This was mainly due to the absence of contribution from the divested Indonesian flour operations. The headline profit before tax – which includes a foreign-exchange gain on disposal of an associate, gains on derivatives and impairments, decreased by 11.4% y-o-y to RM367.6mil.
+
+[NEWS_P002] The lower profits were attributed to the group’s consumer product division due to higher trade promotion and operating costs. Wilmar International Ltd (Wilmar), which PPB has a 18.8% stake in the company, contributed to weaker performance in the feed and industrial segment given the poor performance from the sugar merchandising sub-division while the tropical oils and crushing businesses remained challenging. The group also disclosed increased losses from its movie distribution and exhibition segment due to increased cinema operation and closure expenses.
+
+[NEWS_P003] Meanwhile, higher profit was seen at its grains and agribusiness due to better performance at the flour, feed and maize sub-segments, and property division due to positive malls performance. “Excluding the one-off items, PPB’s core net profit was lower by 10.9% y-o-y at RM291.3mil, coming in below our expectations due to higher losses at the film exhibition and distribution division and lower Wilmar profits,” Affin Hwang said. Meanwhile, based on its quarter-on-quarter (q-o-q) performance, PPB’s core net profit was down by 49.8% to RM291.3mil.
+
+[NEWS_P004] The drop in q-o-q profit was mainly due to lower contribution from Wilmar at RM266mil in 1Q24 compared to RM572mil in 4Q23. This was partially mitigated by higher contribution from the grains and agribusiness segment and lower losses at the film exhibition and distribution segment. Affin Hwang expects earnings from Wilmar to improve on the back of rallying economic conditions in China. The research house kept its “buy” rating on the stock with a target price of RM16.50 per share.

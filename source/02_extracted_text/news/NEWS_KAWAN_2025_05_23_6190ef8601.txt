@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Mesiniaga, Gas Malaysia, Uzma, CelcomDigi, YTL Power, KLK, UEM Sunrise, Bumi Armada, Batu Kawan, DRB-Hicom, DLMI, Prolintas, Press Metal, Cahya Mata
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-05-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/23/trading-ideas-mesiniaga-gas-malaysia-uzma-celcomdigi-ytl-power-klk-uem-sunrise-bumi-armada-batu-kawan-drb-hicom-dlmi-prolintas-press-metal-cahya-mata
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Mesiniaga Bhd has secured a RM251.9mn contract from the Ministry of Finance for maintenance and infrastructure support services for the Integrated Government Financial and Management Accounting System of the Accountant General's Department of Malaysia. Gas Malaysia Bhd has launched Malaysia’s first centralised biomethane injection station in a landmark effort to drive the growth of renewable energy.
+
+[NEWS_P002] Uzma Bhd has announced that it has secured Malaysia’s remote sensing satellite project that spans over eight years. In 1QFY25, CelcomDigi Bhd posted a net profit of RM383.8mn, up from RM376.5mn in the year-ago quarter, which translated to an earnings per share of 3.3 sen from 3.2 sen previously. YTL Power International Bhd recorded a lower net profit of RM489.4mn for 3QFY25, from RM698.7mn in the same quarter last year, mainly due to weaker power generation margins and foreign exchange losses.
+
+[NEWS_P003] Kuala Lumpur Kepong Bhd posted a 31.8% jump in net profit to RM154.3mn for 2QFY25, from RM117.1mn a year ago, on improved plantation profit. UEM Sunrise reported a 150.5% YoY surge in net profit for 1QFY25 to RM417.6mn from RM225mn supported by higher revenue and lower finance costs. Bumi Armada Bhd ’s 1QFY25 net profit fell to RM182.8mn from RM240.5mn, while revenue shrank to RM474mn from RM635.5mn in the year-ago quarter due to reduced contributions from two of its floating production storage and offloading vessels.
+
+[NEWS_P004] Batu Kawan Bhd ’s 2QFY25 net profit witnessed a 3.7% YoY increase to RM87.9mn from RM84.7mn, carried by higher palm product prices, offset by lower sales volume and fair value loss on unharvested oil palm. DRB-Hicom Bhd recorded an 80.6% YoY decline in net profit for 1QFY25 to RM17.7mn from RM91.5mn in the same period last year due to reduced revenue across major segments, coupled with higher depreciation and amortisation expenses. Dutch Lady Milk Industries Bhd reported a 6.1% YoY decline in 1QFY25 to RM25mn from RM26.7mn, on lower operating profit.
+
+[NEWS_P005] Prolintas Infra Business Trust posted a 70.5% rise in net profit to RM3.6mn for the 1QFY25 from RM2.1mn a year ago, supported by increased toll revenue. Press Metal Aluminium Holdings Bhd’s net profit for 1QFY25 rose by 13.2% to RM461.8mn from RM408.0mn in the same period last year, mainly due to higher metal prices and stronger profit contribution from associated companies. Cahya Mata Sarawak Bhd net profit fell 33.8% YoY to RM25.3mn in 1QFY25 from RM38.3mn, dragged by unfavourable foreign exchange, and lower contribution from associates and joint ventures.

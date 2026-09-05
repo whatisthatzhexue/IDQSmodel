@@ -1,0 +1,76 @@
+document_id: MDA_7216_KAWAN_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+(cont’d)
+The Food and Beverage (“F&B”) industry in which we operate experienced unprecedented supply and demand
+volatility in FY2020. Movement restrictions impacted supply chain and operational efficiencies industry-wide, resulting
+in growth of frozen food sales at grocers and retailers while, foodservice outlets experienced a dramatic reduction in
+customer footfall for much of the year. Changes in customers’ purchasing and consumption behaviour are summarised
+below:
+F&B
+Market Trends
+and Consumer
+Behaviour
+Shift in food consumption behaviour from eating out to dining in
+due to movement strictions and safety concerns
+Rise of online shopping and food delivery services as shoppers
+prioritised safety and convenience
+Demand for home cooking and frozen products soared in place
+of dining out
+Consumers preferred convenient and healthier food options
+Mainstream groceries and retailers gained market share from
+the drop in food service demand
+Despite facing a succession of challenges, our team rose to the occasion.
+[MDA_P003]
+With staff
+strength numbering 660, we produce a range of food products including paratha, spring roll, pastry, frozen vegetable,
+chapati, finger food, bakery and desserts that are sold under five brands:
+Our products are exported to 37 territories and counting, utilising a range of distribution channels such as distributorship,
+direct sales to key account customers, e-Commerce, and sales to retailers and wholesalers. Strategic Response
+Given our reputation as a frozen food manufacturer, the pandemic-driven market trends worked in our favour as our
+product ranges primarily service the home-dining segment, providing convenient, easy-to-prepare food products and
+frozen-ready-meals for ease of consumption. The trend towards convenient and healthier food options is also aligned
+with the Group’s growth strategy, while the e-Commerce collaborations established in previous years have prepared
+us to meet the surge in digital sales. Our products are also widely available at grocers, retailers and convenience
+stores where consumers are diverting their spending in place of foodservice.
+[MDA_P005]
+Our leadership team streamlined our production and product ranges in order to protect margins while maintaining
+supply and availability. As the conditions began to progressively stabilise, we quickly rebuilt the mix elements of our
+product ranges to continue to broaden our consumer choices. We leveraged on our insights in consumer behaviour
+patterns in decision making. We activated our business continuity management processes in the early days of the pandemic, allowing non-
+essential personnel to work off-site and utilised a range of traditional and digital channels of communication to
+maintain operational efficiency. Pandemic prevention measures were put in place at our manufacturing facilities to
+ensure that production can continue safely, while we leveraged the strong supply chain partnerships we built over the
+years to ensure a steady supply of raw materials throughout the outbreak. This allowed us to sustain our production
+and minimise supply disruption to our customers, who appreciated the high level of service provided during this
+challenging period, and our ability to deliver orders on time.
+[MDA_P007]
+We also provided crisis management training to our managers to help them work through the crisis while navigating
+the roller coaster of emotions experienced by staff amid heightened fear and uncertainty. These efforts underpin our commitment to the physical and mental wellbeing of our employees. Leading with passion
+and compassion, we will continue to make every effort to keep abreast with the latest COVID-19 developments to
+minimise its impact on our employees and our operations.
+[MDA_P009]
+Enterprise Resource Planning (“ERP”) System
+In early FY2020, Kawan rolled out a new ERP system at our Malaysian base to help us better coordinate production,
+resources, procurement, inventory, orders, invoicing and payments with greater efficiency. The data analytics provided
+by the new ERP system helped us to better navigate the challenges of the pandemic, providing timely and relevant data
+to ensure Kawan’s smooth operations even when managers could not be on the premises due to COVID-19 restrictions. With the proven success of the new ERP system, it was subsequently implemented at our subsidiary in China in
+December 2020 to further strengthen the Group’s operational efficiency. The integration of these business processes into
+one cloud-based system will make the Group more agile in processing information for more effective decision making. Food Safety & Health
+Food safety continues to be a priority for us and throughout FY2020, we continued to deliver quality food despite the
+disruptions.
+[MDA_P010]
+Cognisant of the growing expectations of higher food safety levels, we had strengthened our food safety management
+standards and processes with more stringent hygiene measures and guideline adherence to ensure we safeguard the
+health of our consumers. We are happy to report that in the year under review, Kawan continued to meet the high standards of international
+food handling best practices. Our facilities have successfully maintained our Hazard Analysis Critical Control Point
+(“HACCP”) MS1480:2019 Certificate, HALAL authentication certificate from JAKIM Malaysia, as well as the Good
+Manufacturing Practices (“GMP”) certificate in FY2020, signalling our compliance with all relevant food safety, quality
+and operational requirements for food manufacturers. We are also proud to have obtained a Grade A certification from British Retailer Consortium (“BRC”) Global Standard
+for Food Safety (Issue 8) for our sites in FY2020, which is a step up from our FY2019 achievement. These recognitions are critical to our ability to continue operating in the food manufacturing sector, serving as a sign
+of confidence in our products that consumers can trust.

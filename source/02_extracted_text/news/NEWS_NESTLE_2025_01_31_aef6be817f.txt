@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia reopens in sluggish mode after CNY break
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/31/bursa-malaysia-reopens-in-sluggish-mode-after-cny-break
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: There is slow day ahead for Bursa Malaysia as it reopened for a single trading session before the weekend. However, investors were seen staying cautious following the recent volatility sparked by the launch of China's DeepSeek AI model, which promises to reshape the AI technology landscape. The FBM KLCI opened 1.09 points higher at 1,553.78, but soon gave in to selling pressure. Within the five five minutes of trading, the index had fallen as much as 6.84 points to 1,545.84.
+
+[NEWS_P002] Rakuten Trend noted that the domestic market had traded on a downtrend ahead of the Lunar New Year break as investors were concerned of the impact of DeepSeek on the AI investments of hyperscalers. Nonetheless, the research firm is confident that foreign funds will eventually look at Asia as the preferred destination due to reasonable valuations as compared to overvalued stocks on Wall Street. "Thus, we can expect a U-turn in foreign funds back to the region.
+
+[NEWS_P003] For today, we anticipate the index to hover within the 1,550-1,560 range," it said in a note. Among leading laggards, Nestle slid 50 sen to RM90.32, SDG dropped 13 sen to RM4.85 and Gamuda shed six sen to RM3.97. Meanwhile, 7-Eleven Malaysia fell five sen to RM1.85 and SMRT dipped five sen to RM1.05. Of actives, EA Holdings was flat at 0.5 sen, NationGate dropped two sen to RM1.77 and YTL was up three sen to RM1.93.

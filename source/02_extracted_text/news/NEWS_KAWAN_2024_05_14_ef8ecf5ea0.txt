@@ -1,0 +1,18 @@
+[TITLE]
+YTL Corp, YTL Power drive FBM KLCI upward
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-05-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/14/ytl-corp-ytl-power-drive-fbm-klci-upward
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia continued its uptrend on Tuesday, boosted by strong buying in YTL Corp and YTL Power International . The FBM KLCI settled the day up 2.97 points, or 0.19% to 1,605.88 points. Liquidity improved to 4.7 billion shares valued at RM3.2bil. On the local stock exchange, 600 stocks ended higher, 516 closed in negative territory, and 529 remained unchanged. Funds flow wise, foreigners acquired RM27mil worth of equities on Monday.
+
+[NEWS_P002] Local institutions and retailers net sold RM24mil and RM3mil shares respectively. YTL Corp leads index gainers, jumping 13 sen to RM3.52. YTL Power gained 12 sen to RM5.04, PETRONAS CHemicals added eight sen to RM6.97 and IOI Corp climbed five sen to RM4.09. Laggards among the KLCI component stocks were PETRONAS Dagangan, Hong Leong Financial Group, Hong Leong Bank and Kuala Lumpur Kepong. On the broader market, Malaysian Pacific Industries jumped 52 sen to RM32.60, PTT rose 31 sen to RM1.88, Kobay slid 21 sen to RM2.28 and Batu Kawan fell 20 sen to RM20.08.
+
+[NEWS_P003] ACE Market debutant Farm Price rose 17 sen, or 70.83% to 41 sen with 147.59 million shares traded. Meanwhile, Reuters reported that Asian shares hovered around 15-month highs on Tuesday and the dollar was firm ahead of highly anticipated U.S. inflation data. MSCI's broadest index of Asia-Pacific shares outside Japan hit its highest since early 2023 in morning trade, before settling back to flat. Japan's Nikkei 225 edged 0.46% higher while South Korea’s Kospi rose 0.11%.
+
+[NEWS_P004] Hong Kong’s Hang Seng index was down 0.22% and China’s CSI 300 index edged down 0.21%.

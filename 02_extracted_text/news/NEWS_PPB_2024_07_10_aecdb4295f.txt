@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI starts on flattish note ahead of fresh catalysts
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-07-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/10/fbm-klci-starts-on-flattish-note-ahead-of-fresh-catalysts
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI made a slow start on Wednesday but is expected to maintain its climb as Wall Street reacted positively overnight to US Federal Reserve chairman Jerome Powell's dovish remarks over interest rates. At the open, the FBM KLCI was down marginally by 0.61 points to 1,613.71 as investors approached the latest development with caution. Apex Securities Research noted that the key index rebounded in the previous session on buying support ahead of Bank Negara's overnight policy rate decision this Thursday, and expects the benchmark to continue ticking higher on mild buying support.
+
+[NEWS_P002] "We foresee the benchmark to hover within the 1,600 to 1,630 level. Likewise, the lower liners may trend in a rangebound pattern as investors await fresh catalysts," it said in its outlook. The research firm said the key investor focus lies on the ongoing release of US corporate earnings although economy-wise, investors will be monitoring the China inflation rate and producer price index (PPI) as well as the Malaysia unemployment rate later today. Apex is turning bullish on stocks with large exposure in the export markets as Malaysia becomes a member of the BRICS intergovernmental alliance, which is expected to attract domestic and foreign traders.
+
+[NEWS_P003] Oil stocks, however, may be adversely impacted by the weakness in oil price, it said. Among the market's blue chips, MISC rose 13 sen to RM8.88, PPB climbed 16 sen to RM14.32 and CIMB gained four sen to RM7.01. Laggards included Tenaga Nasional down six sen to RM14.36, Sunway falling three sen to RM3.91 and Maybank shedding four sen to RM10.02. Consumer stocks were on the retreat, including F&N sliding 36 sen to RM31.02 and Dutch Lady falling 14 sen to RM34.26.
+
+[NEWS_P004] Of actives, Dataprep rose two sen to 23 sen, Cabnet jumped 6.5 sen to 65.5 sen and Aimflex rose 0.5 sen to 20.5 sen.

@@ -1,0 +1,18 @@
+[TITLE]
+Strong 2Q GDP boosts sentiment on Bursa Malaysia
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/16/strong-2q-gdp-boosts-sentiment-on-bursa-malaysia
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended sharply higher for the sixth consecutive session on the back of buying interest in selected heavyweights, in line with the performance of its regional peers. The 30-stock index closed at 1,623.90, up 10.96 points or 0.68%, bringing its total weekly gain to 1.74%. The market was optimistic with 802 gainers compared with 324 decliners. Trading volume was brisk at 3.22 billion shares valued at RM2.76bil. Dealers attributed the positive market sentiment to the country's strong economic growth for the second quarter of 2024 (2Q24).
+
+[NEWS_P002] The country’s economy advanced by 5.9% in 2Q24, driven by stronger domestic demand and further expansion in exports. On Bursa Malaysia, Dutch Lady jumped RM1.24 to RM31.84, Panasonic Manufacturing rose 33 sen to RM5.63, Malaysian Pacific Industries added 28 sen to RM26.80 and MNRB gained 22 sen to RM2.34. Petronas Chemicals lifted the KLCI by 3.8478 points after rising 33 sen to RM5.63. Maybank, which rose eight sen to RM10.26 contributed 1.4070 points to the index while CIMB, which added 13 sen to RM7.66, pushed the index higher by 2.0275.
+
+[NEWS_P003] Nestle slid 50 sen to RM105.60, Heineken declined 34 sen to RM23.28, PETRONAS Dagangan fell 16 sen to RM18.82 and Carlsberg lost 14 sen to RM18.72. Meanwhile, the ringgit was quoted at 44330, up 0.11% against the US dollar. US West Texas Intermediate crude fell US$1.05 to US$77.11 and Brent lost 92 cents to US$80.12 per barrel. On the external front, Japan’s Nikkei 225 jumped 3.64% to 38,062.67 while South Korea’s Kospi closed up 1.99% at 2,697.23. Hong Kong’s Hang Seng ended 1.88% higher at 17,430.16.
+
+[NEWS_P004] China’s CSI300 index rose 0.11% to 3,345.63 while the Shanghai Composite advanced 0.07% to 2,879.43.

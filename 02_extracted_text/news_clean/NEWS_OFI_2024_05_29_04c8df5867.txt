@@ -1,0 +1,16 @@
+[TITLE]
+Super Ring maker Oriental Food posts over 4-fold profit jump in 4Q24
+
+[METADATA]
+ticker: OFI
+company_name: Oriental Food Industries Holdings Berhad
+publish_date: 2024-05-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/29/oriental-food-posts-over-4-fold-profit-jump-in-4q24
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: Oriental Food Industries Holdings Bhd remains positive about the sustained growth in local product demand, thanks to the underlying strength in domestic demand. “The development in export sales meanwhile remains positive even though affected by seasonal fluctuations. The business environment is still expected to be challenging due to the world economic slowdown aggravated by the ongoing war. “However, the group expected the impact to be mitigated by the various policies implemented by the government,” the snack food and confectionery manufacturer said.
+
+[NEWS_P002] In the fourth quarter ended March 31, Oriental Food’s net profit jumped over four-fold to RM14.2mil compared with RM3mil a year ago, translating into higher earnings per share of 5.94 sen against 1.25 sen previously. Oriental Food said the higher profit was mainly due to higher sales and a higher gross profit margin at 20.65% as compared to the preceding year's corresponding period at 15.12%. Its revenue rose 30.8% to RM109.7mil from RM83.9mil a year prior.
+
+[NEWS_P003] For the full financial year, Oriental Food posted a net profit of RM43.3mil, up 126.4% from RM19.1mil while revenue grew 20% to RM431.74mil against RM360mil previously. Oriental Food has declared an interim single-tier dividend of 2.0 per share for the financial year ended March 31, 2024, amounting to RM4.8mil. The entitlement date is on June 18 and payment on July 10. “The board expects that the performance of the group will be satisfactory and remain positive for the financial year ending March 31, 2025, despite facing various challenges from the competitive and uncertain markets,” Oriental Food said.

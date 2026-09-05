@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI closes nearly unchanged amid mixed sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/14/fbm-klci-closes-nearly-unchanged-amid-mixed-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended flat as mixed sentiment affected buying patterns, following Bank Negara's release of the fourth-quarter (4Q24) gross domestic product (GDP) data. Malaysia's economy grew 5% in 4Q24, slightly above market expectations and the official advance estimate of 4.8%. At 5 PM, the FBM KLCI closed at 1,591.60, down 0.68 points or 0.04%. It fluctuated between 1,595.01 and 1,587.58 throughout the day. For the week, the FBM KLCI gained 0.04%.
+
+[NEWS_P002] Turnover stood at 3.27 billion shares worth RM2.4bil, with 597 decliners, 433 gainers, and 446 counters unchanged. Among the decliners, BLD Plantation slid 60 sen to RM1.40, Malaysian Pacific Industries fell 52 sen to RM20.72, F&N lost 48 sen to RM26.22 and CelcomDigi declined 33 sen to RM3.54. Conversely, Heineken jumped RM1.62 to RM27.60, Nestle rose 40 sen to RM91.04, LPI Capital added 30 sen to RM13.90 and PETRONAS Dagangan climbed 26 sen to RM19.78.
+
+[NEWS_P003] Meanwhile, the ringgit was quoted at 4.4355, up 0.48% against the US dollar. Among the key regional markets: Japan’s Nikkei 225 closed down 0.79% to 39,149.43; Hong Kong’s Hang Seng Index rose 3.69% to 22,620.33; China’s CSI 300 Index advanced 0.87% to 3,939.01; Taiwan’s Taiex fell 1.05% to 23,152.61; South Korea’s Kospi closed up 0.31% to 2,591.05 and; Singapore’s Straits Times Index fell 0.13% to 3,877.53 points.

@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI maintains gains as US govt shutdown slated for noon
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/01/fbm-klci-maintains-gains-as-us-govt-shutdown-slated-for-noon
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI edged higher although there are expectations foreign funds could take profit from equities as new US tariffs are scheduled to come into effect later this month. According to TA Securities, stocks are likely to experience a profit-taking pullback as investors secure gains ahead of the implementation of US President Donald Trump's latest round of sectoral tariffs. "Immediate support is capped at the 61.8%FR (1,564), with stronger supports seen at the 50%FR (1,527) followed by the 38.2%FR (1,490).
+
+[NEWS_P002] Immediate resistance remains at the December 2024 high of 1,644, followed by tougher upside hurdles at the highs of 1,684, and 1,695," it said in a market commentary. Also closely watched, the US government is expected to shut down at noon Malaysian time, as Congress failed to come to agreement over a federal spending bill. However, Wall Street's resilient overnight performance in the face of the impending shutdown suggested investor interest remained bullish over interest rate cuts and AI earnings prospects.
+
+[NEWS_P003] The confidence in US markets spilled over onto the Malaysian market, which is currently on a three-day winning streak, although the gains have been capped by heightened caution over trade developments. At 9am, the FBM KLCI opened 0.74 points higher at 1,612.62, as investors rode on the bullish momentum that has picked up in recent days. Some blue chips seeing seeing investor interest include PETRONAS Gas gaining 12 sen to RM18.62, Hong Leong Bank adding 10 sen to RM20.62 and PPB lifting 10 sen to RM10.20.
+
+[NEWS_P004] Of actives, NexG Bina was flat at 9.5 sen, Key Asic unchanged at four sen and VS Industry gaining 0.5 sen to 59.5 sen.

@@ -1,0 +1,20 @@
+[TITLE]
+Improving sales, lower costs to bolster Nestle
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2025-10-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/30/improving-sales-lower-costs-to-bolster-nestle
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Analysts expect Nestle (M) Bhd to be supported by improving sales and stabilising raw-material costs brought about by a stronger ringgit. The group posted a net profit of RM114.04mil for the third quarter of this year (3Q25) on the back of RM1.76bil in revenue contributed by both domestic and export sales. TA Research said, “Moving into 4Q25, we expect sales volumes to remain intact, supported by festive-driven demand, improving consumer sentiment and one-off government assistance.
+
+[NEWS_P002] “Additionally, favourable sugar and cocoa prices in the second half of the year are likely to further support Nestlé’s margins.” The research house, which expects Nestle Malaysia’s earnings to stay on track for this year, has maintained its earnings estimates at this juncture, pending further insights from an analyst briefing. TA Research has a “buy” call on the stock with a target price of RM102.80 a share under review pending updates from the analyst briefing.
+
+[NEWS_P003] Meanwhile, Hong Leong Investment Bank Research (HLIB Research) said it remained cautiously optimistic about Nestle’s near-term prospects. “While the macro backdrop remains challenging, with input-cost volatility, soft consumer sentiment, and geopolitical uncertainty management’s focus on operational efficiency and portfolio optimisation provides resilience. “Easing boycott sentiment should underpin gradual sales normalisation, particularly across key domestic categories,” the research house said in a note to clients yesterday.
+
+[NEWS_P004] HLIB Research noted it has revised Nestle’s earnings forecasts for this year, next year and 2027 higher by 4%, 1% and 1%, respectively. It also reiterated a “hold” call on Nestle with a higher target price of RM98 a share from RM80 previously. “Nestle trades at a relatively high valuation level of 50.8 times this year’s price-earnings ratio in comparison to its holding company in Switzerland at 18.6 times,” it added. While valuations remain elevated, HLIB Research expects sentiment to improve in tandem with earnings recovery and stabilising domestic consumption trends.
+
+[NEWS_P005] Maybank Investment Bank Research (Maybank IB) has kept a “buy” call on Nestle Malaysia with a higher target price of RM122 per share. The research house said in a report that it expects positive earnings momentum to continue in the near term, led by declining effects from consumer boycotts, higher consumer spending on food staples driven by government stimulus programmes, and potential margin accretion from the easing input costs. Maybank IB has lifted its earnings estimates for Nestle by between 7% and 8% for this year, next year and 2027.

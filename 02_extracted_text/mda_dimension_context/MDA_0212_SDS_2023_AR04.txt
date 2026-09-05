@@ -1,0 +1,70 @@
+document_id: MDA_0212_SDS_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Nonetheless, our operations for the financial year ended 31 March 2023 (“FY2023”) was disrupted with geopolitical
+issues and inflationary concerns which saw impact on the business’ supply chain, higher ingredient costs as well
+as pricing of its products. In response to the price escalation trend as well as keen competition, SDS leveraged on its own innovation efforts
+to produce creative products to stay competitive and meet consumers’ expectations for a more exciting fare. This
+has also paved the way for the expansion of SDS customer base and strengthening of earnings in recent years. Backed by a strong local market presence and its solid manufacturing and logistic capabilities, SDS focuses on
+production efficiency and cost management and continuously offers quality, value-for-money products. The Group is firm on its journey to unlock the potential of new customers through wider market reach, strategic
+distribution centres as well as accelerating the momentum of online purchases.
+[MDA_P005]
+Although there was a great pressure over the increasing price of raw materials, SDS displayed high resistance
+power and has achieved optimisation in its operating costs to cushion the negative impact. The Group’s unique
+proposition of wide-ranging product offerings and options on sales channels had allowed SDS to continue to meet
+the demands of its customers.
+[MDA_P026]
+Concurrently, the Group expanded its R&D team and facilities to be ahead in meeting the demand for its products.
+The use of warmer display was its latest feature and has garnered good response. Some of the Group’s bakery
+products were sold in warm temperature to improve their attractiveness. Due to the good response, SDS has since
+created new products series specially for warmer display. Other outcome coming from product research include
+ready-to-eat, ready-to-drink, and frozen products as well as sauces. New special menus were also launched during
+festive period together with some new bakery products namely Chocolate Tuxedo Cheese Cake, Fudgy Choco
+Velvet, Snowy Almond Croissant and more.
+[MDA_P028]
+SDS GROUP BERHAD
+ANNUAL REPORT 2023
+Management Discussion
+and Analysis
+KEY BUSINESS OPPORTUNITIES AND RISKS
+Embarking on expansion of its business, performance improvement of fleet and innovation of new product offerings
+have not only improved market share and provided cost savings for SDS but has also brought along potential risks
+and challenges. The Board and Management team have been vigilant and continue to take the necessary measures to
+mitigate the potential threats that may be disrupting the smooth running of the business. SDS employed risk management process of risk identification, impact assessment, profiling matrix and the mitigation plans,
+based on the general principles of the risk management framework. The Group were aware of intensified competition
+and challenging environment given inflationary pressure, high food cost, labour shortage as well as increased awareness
+on carbon footprint. Some of the mitigation action plans included product diversification to keep up with the customers’
+changing preferences and taste. Other measures involved in detailed analysis of products disposals for retail outlets in
+order to reduce cost.
+[MDA_P029]
+The Group has created a benchmark for disposal which resulted in significant reduction in cost due
+to better monitoring and control. On logistic risks, SDS ensured its delivery trucks were regularly inspected and proper scheduled maintenance were in
+place. With 21 distribution centres in 10 out of the 11 states in Peninsular Malaysia, SDS distribution channels involved
+supermarkets, convenience stores, mini marts, petrol kiosks, factories and schools. The logistic teams have established
+proper sales plans in reviewing routes as well as assessing the requirements to further expand the number of vehicles for
+efficient distribution. Specific details on SDS’s risk management areas are provided in the Statement on Risk Management and Internal Control
+of this Annual Report.
+[MDA_P030]
+SDS GROUP BERHAD
+ANNUAL REPORT 2023
+Management Discussion
+and Analysis
+OUTLOOK AND PROSPECTS
+Moving into FY2024, sustaining consumption demand will
+be a key challenge in the prospect of global economic
+slowdown or recession. With the looming high inflation,
+twin effects of slower demand and rising input costs could
+significantly impact corporate earnings. In the case of SDS,
+it is imperative to ensure steadiness in the various revenue
+streams, opening more F&B retail outlets at lower capex
+outlay and efficient distribution activities for its wholesale
+segment. The Group is optimistic of the growth projections
+for each of the core segments they ventured into. SDS has successfully attained a listing transfer from the
+ACE Market to the Main Market of Bursa Malaysia Securities
+Berhad, which took place on 8th May 2023. On the retail
+side, the Group also plans to set up more retail outlets
+adding to the total of 36 outlets it already has.

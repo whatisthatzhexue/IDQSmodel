@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI extends loss for second day running
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-11-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/08/fbm-klci-extends-loss-for-second-day-running
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended lower on Friday as investors sold off stocks, while regional markets showed mixed results. The benchmark FBM KLCI closed at 1,621.24, down 0.13% or 2.04 points, bringing its full-week gain to 1.08%. Dealers stated that today's decline is primarily driven by investors taking the opportunity to sell off their holdings following recent gains. The broader market sagged, with decliners outpacing advancers at 653 to 338, while 490 counters remained unchanged.
+
+[NEWS_P002] Turnover stood at 2.7 billion shares worth RM1.86bil. F&N, the top decliner on Bursa Malaysia, lost RM1.04 to RM28.66. Malaysian Pacific Industries slid 98 sen to RM26.50, Hong Leong Financial Group declined 30 sen to RM18.34 and Pentamaster gave up 30 sen to RM3.70. Among the gainers, Hong Leong Industries added 18 sen to RM13.50, Yoong Onn Corp gained 17 sen to RM1.98, Batu Kawan rose 14 sen to RM20.16 and PPB Group climbed 12 sen to RM14.24. Meanwhile, the ringgit was quoted at 4.3830, up 0.02% against the US dollar.
+
+[NEWS_P003] US West Texas Intermediate crude fell US$1.16 to US$71.20 and Brent lost US$1.01 to US$74.62 per barrel. Among the key regional markets: Japan’s Nikkei 225 closed up 0.3% to 39,500.37; Hong Kong’s Hang Seng Index fell 1.07% to 20,728.19; China’s CSI 300 Index ended down 1% at 4,104.05; Taiwan’s Taiex added 0.62% to 23,553.89; South Korea’s Kospi closed down 0.14% to 2,561.15 and; Singapore’s Straits Times Index rose 1.41% to 3,725.42 points.

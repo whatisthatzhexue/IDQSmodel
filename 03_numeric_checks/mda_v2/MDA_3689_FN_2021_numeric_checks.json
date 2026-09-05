@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 418391.6,
+      "current_value": 418391.6,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P009]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 418391.60, stated total 90.00, difference 464779.56%.",
+      "previous_value": 90.0,
+      "source_text": "At the same time, for ethical and health reasons, more people are converting to a plant-based diet. While they seek products that will enhance their wellbeing, consumers are also wary of false promises and seek science-based evidence to support claims made by F&B brands. The halal market has been gr",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": -1948.0,
+      "current_value": -1948.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P063]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum -1948.00, stated total 2016.00, difference -196.63%.",
+      "previous_value": 2016.0,
+      "source_text": "https://www.reuters.com/world/asia-paciﬁc/thailand-further-ease-coronavirus-restrictions-2021-09-27/ OUTLOOK Results • Maintained business continuity at all levels • Production was sufficient to meet demand • Achieved almost 100 per cent on-time performance by suppliers • Met all delivery commitment",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    }
+  ],
+  "document_id": "MDA_3689_FN_2021",
+  "has_cost_discussion": true,
+  "has_margin_discussion": false,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 418391.60, stated total 90.00, difference 464779.56%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum -1948.00, stated total 2016.00, difference -196.63%."
+  ],
+  "num_calculable_changes": 0,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 30,
+  "num_material_discrepancies": 0,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 2,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "moderate"
+}

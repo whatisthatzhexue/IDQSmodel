@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit rises as US$ index retreats
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2025-03-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/12/ringgit-rises-as-us-index-retreats
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit strengthened against the US dollar in early trade on Wednesday as the US Dollar Index (DXY) eased to 103.419 points from 103.900 points previously, despite stronger-than-expected US job openings, an economist said. At 8 am, the ringgit rose to 4.4095/4170 against the greenback from Tuesday’s close of 4.4100/4175. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said US job openings rose to 7.74 million in January, exceeding the consensus estimate of 7.6 million, pushing US Treasury yields higher.
+
+[NEWS_P002] The two-year and 10-year yields rose by six and seven basis points to 3.94 per cent and 4.28 per cent, respectively. He noted that global equities fell again as uncertainty over US tariffs kept traders and investors defensive. "Markets will look for more clues on whether the US Federal Reserve will shift towards a more dovish stance at next week’s Federal Open Market Committee meeting. "Hence, tonight’s US Consumer Price Index data will be closely watched by traders,” he told Bernama.
+
+[NEWS_P003] Mohd Afzanizam said he expects the US dollar-ringgit pair to trade sideways today. Meanwhile, the ringgit was mostly lower against a basket of major currencies. It rose against the Japanese yen to 2.9778/9830 from 2.9921/9974 at Tuesday’s close but weakened against the British pound to 5.7068/7165 from 5.7035/7132 and depreciated against the euro to 4.8121/8203 from 4.8091/8173. The ringgit traded mixed against ASEAN currencies. It fell against the Singapore dollar to 3.3127/3188 from Tuesday’s close of 3.3118/3177 and declined against the Thai baht to 13.0679/0967 from 13.0415/0695.
+
+[NEWS_P004] However, it was unchanged against the Philippine peso and the Indonesian rupiah, remaining at 7.70/7.72 and 268.7/269.3, respectively. - Bernama

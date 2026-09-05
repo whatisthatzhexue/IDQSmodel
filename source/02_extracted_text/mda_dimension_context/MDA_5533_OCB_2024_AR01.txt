@@ -1,0 +1,67 @@
+document_id: MDA_5533_OCB_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P002]
+Registration No. 195901000114 (3465-H)
+REVIEW OF THE OPERATING ACTIVITIES
+Consumer Foods Division
+The Semenyih and Sibu noodle plants have a current combined capacity of 12.0 million pieces of noodles per shift
+per month. For the full year 2024, the Semenyih noodle plant utilised 116% of its daily shift capacity while Sibu
+plant ran at 128% capacity. The sales of instant noodles surged 18% compared to FYE 2023. Domestic market made up 88% of total sales
+in this category. In April 2024, the Division successfully launched a new noodle product, Ibumie Meepoh Kosong. The launch reflects the Division’s commitment to innovation and expanding its product offerings, ensuring it meets
+the growing demand in the market for high-quality, ready-to-prepare noodles. With its unique taste and appeal,
+Ibumie Meepoh Kosong aims to strengthen the IBUMIE brand’s presence in the competitive noodle market and
+attract a broader customer base. OEM label brand of instant noodles contributed 40% to the overall turnover of this product category in Year 2024. Besides the major improvements from existing OEM business customers, the Division also managed to secure
+additional OEM customers during the year.
+[MDA_P003]
+The Salad Dressing plant in Semenyih continued to run full swing, operating a second shift to keep up with
+orders. The plant produced a total of 8,900 metric tons of salad dressings for Year 2024. Sales remain solid and
+climbed 14% year-on-year. This product category is strongly driven by domestic sales which made up 94% of total
+turnover in this category. 74% of sales come from the Food Service pack formats which are sold mainly to Burger
+kiosks. There was also an increase in the contribution from the Retail Packs. The Division has begun supplying Salad Dressing in bulk packing to industrial users such as bread factories. Industrial users usually require customised formula for each factory, but we foresee that we can leverage our
+Research & Development experience to grow this channel. We are also expanding our supply to more restaurant
+chains and outlets to grow this product category. The Division also resumed participation in more food fairs as the global economy continues to reopen. In 2024, the
+Division participated in a total of 4 exhibitions, namely:
+1. Anuga Asia Thaifex Bangkok, Thailand
+2. SIAL Paris, France
+3.
+[MDA_P008]
+9.9, 10.10, 11.11 and 12.12 and MEGA Campaign
+Going forward, the Division will continue to leverage on digital marketing such as digital billboards, online sales,
+Google Ads, and others to enhance its brand awareness among Malaysians. In addition to that, the Division will
+continue the use of traditional marketing strategies such as the print media to reach our audience offline to maintain
+its brand presence among the older generation consumers focusing on sustainability of the KING KOIL brand. The
+Division will continue to participate in major events that align with its brands values of comfort, luxury and health. The Division will also continue with its advertising and promotion budget for media spending to create new
+customer base and other brand building activities. The Division will allocate an additional budget into the digital
+and social media marketing such as in Facebook, Instagram, Google display network, YouTube Ads, Key Opinion
+Leaders, and other similar applications that will continue to play an important role in its marketing activities.
+[MDA_P009]
+Higher priority of marketing expenditure will be focused and allocated to digital marketing as it has rapidly grown
+in importance due to its interactivity, cost effectiveness and ability to reach a wide range of targeted audiences. MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P012]
+LIQUIDITY AND CAPITAL MANAGEMENT
+The Group maintains a healthy level of cash and cash equivalents and banking facilities from financial institutions
+to fund the Group’s short-term and long-term operational as requirements. As at 31 December 2024, the Group’s
+cash and cash equivalents amounted to RM72.5 million (31 December 2023: RM60.1 million), an increase of
+RM12.4 million is mainly attributable to net cash increase from operating activities, whereas the Group’s total
+bank borrowings stood at RM58.81 million compared to RM80.65 million as at 31 December 2023 mainly due to
+repayment of term loans. The Group’s gearing ratio was 0.33 times as at 31 December 2024 as compared to 0.45 times as at 31 December
+2023.
+[MDA_P014]
+ANNUAL REPORT 2024
+BUSINESS OUTLOOK 2025
+In 2025, Malaysia’s business landscape is expected to be characterized by steady economic growth, strategic
+policy initiatives, and a strong focus on technological advancement. The Malaysian economy is projected to
+expand at a rate of 4.5% to 5.5%, following a growth of 5.1% in 2024. This projection aligns with forecasts from
+the Government and Bank Negara Malaysia, reflecting sustained domestic demand and manageable inflation. Despite external uncertainties, Bank Negara Malaysia’s forecast of 4.5% to 5.5% growth for 2025 remains positive. Key business trends in Malaysia for 2025 include the adoption of artificial intelligence, sustainability initiatives,
+innovations in online retail, the expansion of business process outsourcing, growth in the halal economy, and
+significant infrastructure developments, including the creation of smart cities. These trends are supported by
+government incentives and policies aimed at driving economic transformation. Malaysia’s business outlook for 2025 remains positive, underpinned by strategic initiatives in tourism, technology,
+fiscal policy, and foreign investment.

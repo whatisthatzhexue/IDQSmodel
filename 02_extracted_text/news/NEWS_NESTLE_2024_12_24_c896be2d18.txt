@@ -1,0 +1,18 @@
+[TITLE]
+Blue chips lift FBM KLCI above the 1,600-point level
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-12-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/24/blue-chips-lift-fbm-klci-above-the-1600-point-level
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI has reclaimed the 1,600-point level at midday, amid subdued trading ahead of the Christmas holiday. The market barometer is up 6.06 points, or 0.38%, to 1,602.26 at 12:30 pm, just slightly below its intra-morning high of 1,603.57. There were 373 gainers, 453 losers and 472 counters traded unchanged on the Bursa Malaysia. Turnover stood at 1.31 billion shares valued at RM853.2mil. Malacca Securities expects window-dressing activities to persist within the banking sector as the year-end approaches, providing a boost to the key index.
+
+[NEWS_P002] Meanwhile, it noted that the submission of Capital A’s regularisation plan could heighten trading activity in Capital A and AirAsia X , as the company plans to exit PN17 status by 1Q25. “Lastly, we remain optimistic about the data centre value chain industries within the construction, building material, technology and utilities sectors,” it added. Meanwhile. TA Securities noted that trading activity is likely to persist as investors trim their positions ahead of the approaching Christmas and New Year holidays.
+
+[NEWS_P003] “Immediate index support stays at 1,588, the 38.2% Fibonacci retracement (FR) of the 1,529 low (6 Aug) to 1,684 high (Aug 29) rally, with stronger key supports at 1,565, the 23.6% FR level, and then 1,550. “Immediate resistance remains at 1,628, next 1,648, followed by the September peak of 1,675,” it said. Among the gainers on Bursa Malaysia, Nestle rose 40 sen to RM98.20, Kuala Lumpur Kepong gained 24 sen to RM21.54, PETRONAS Dagangan added 16 sen to RM19.36 and BAT climbed 12 sen to RM7.57.
+
+[NEWS_P004] Malaysian Pacific Industries slid 24 sen to RM25.50, Hong Leong Bank fell 14 sen to RM20.20, MBM Resources lost 14 sen to RM5.88 and Sunway Construction declined 11 sen to RM4.57.

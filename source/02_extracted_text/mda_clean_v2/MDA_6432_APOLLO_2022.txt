@@ -1,0 +1,164 @@
+[SECTION: Unknown]
+
+[MDA_P001]
+[MDA_P001] MANAGEMENT DISCUSSION AND ANALYSIS
+
+[SECTION: Business Review]
+
+[MDA_P002]
+[MDA_P003] Apollo Food Holdings Berhad is principally an investment holding company and currently it has two wholly owned subsidiaries as below:
+
+[SECTION: Business Review]
+
+[MDA_P003]
+[MDA_P004] (i) Apollo Food Industries (M) Sdn Bhd is principally engaged in manufacturing and trading in compound chocolates, chocolate confectionery products and layer cakes in overseas markets.
+
+[SECTION: Business Review]
+
+[MDA_P004]
+[MDA_P005] (ii) Hap Huat Food Industries Sdn Bhd is principally engaged in distributing and marketing of compound chocolates, chocolate confectionery products and layer cakes in local market.
+
+[SECTION: Business Review]
+
+[MDA_P005]
+[MDA_P006] Over the years, the Group has established itself as one of the leading manufacturer of chocolate confectionery products and layer cakes in Malaysia.
+
+[SECTION: Business Review]
+
+[MDA_P006]
+[MDA_P007] The aim of the Group is to always fulfil the customer needs and requirements by using the latest equipment and technology. In order to achieve the aim, the Group uses only the finest natural ingredients sourced from a select panel of suppliers and employs state-of-art technology in manufacturing its products.
+
+[SECTION: Business Review]
+
+[MDA_P007]
+[MDA_P008] The Group firmly believes that quality sells. Holding this belief, the Group strives to ensure that following principles are taken to improve its market position:
+
+[SECTION: Business Review]
+
+[MDA_P008]
+[MDA_P009] • Implement and maintain quality management system and continually improve its effectiveness • Produce products with top quality of raw and packaging materials • Use world class wafer and layer cake manufacturing machinery from Europe and constantly upgrade to improve the quality and competitiveness • Enhance customer satisfaction by meeting customer requirements • Recognize customers’ needs by introducing individual packaging • Implement quality assurance procedures such as HALAL and ISO accreditation
+
+[SECTION: Financial Review]
+
+[MDA_P009]
+[MDA_P011] Revenue
+
+[SECTION: Financial Review]
+
+[MDA_P010]
+[MDA_P012] The Group registered a turnover of RM188.27 million for the financial year ended 30 April 2022, a decrease of 1.11% as compared to RM190.39 million in previous financial year ended 30 April 2021. 73.88% of the turnover was contributed by local market and there were no material changes on the sales proportion from previous financial year.
+
+[SECTION: Financial Review]
+
+[MDA_P011]
+[MDA_P014] The profit after taxation had decreased by 42.50% to RM9.97 million from RM17.34 million as recorded in the previous financial year. The decrease in profit after taxation during the financial year was mainly due to lower gross profit margin as a result of higher raw material costs as compared to previous financial year.
+
+[SECTION: Financial Review]
+
+[MDA_P012]
+[MDA_P015] Consequently, the Group’s earnings per share had decreased from 21.67 sen to 12.46 sen.
+
+[SECTION: Financial Review]
+
+[MDA_P013]
+[MDA_P016] APOLLO FOOD HOLDINGS BERHAD 199401005792 (291471-M)
+
+[SECTION: Financial Review]
+
+[MDA_P014]
+[MDA_P017] MANAGEMENT DISCUSSION AND ANALYSIS (continued)
+
+[SECTION: Financial Review]
+
+[MDA_P015]
+[MDA_P020] Total assets had decreased from RM260.61 million as at last financial year end to RM244.00 million as at current financial year end.
+
+[SECTION: Financial Review]
+
+[MDA_P016]
+[MDA_P021] Total liabilities had decreased by RM6.85 million while the Group’s equity had decreased by RM9.77 million from previous financial year end. Net asset per share had reduced from RM2.96 to RM2.84 as at current financial year end.
+
+[SECTION: Risk and Outlook]
+
+[MDA_P017]
+[MDA_P023] The Group is currently facing a few risk factors that might affect the Group’s profitability. Those risks include the following:
+
+[SECTION: Risk and Outlook]
+
+[MDA_P018]
+[MDA_P024] (i) Fluctuation of Raw Material Prices
+
+[SECTION: Risk and Outlook]
+
+[MDA_P019]
+[MDA_P025] The fluctuation of raw materials’ prices will have an impact on the Group’s profitability. The Group has taken steps in reducing the risk of price fluctuation by negotiating better terms with suppliers. Under the supervision of the Directors, Purchasing Department monitors the prices closely and assures that the quality of raw materials is maintained despite the lower purchase price.
+
+[SECTION: Risk and Outlook]
+
+[MDA_P020]
+[MDA_P026] (ii) Fluctuation of Foreign Currency Exchange Rate
+
+[SECTION: Risk and Outlook]
+
+[MDA_P021]
+[MDA_P027] Significant fluctuation of foreign currency exchange rate will impact the Group’s cash flow movement and profitability. The movement of the foreign currency exchange rate is closely monitored by the Group’s management.
+
+[SECTION: Risk and Outlook]
+
+[MDA_P022]
+[MDA_P028] (iii) Changes in Consumer’s Preferences
+
+[SECTION: Risk and Outlook]
+
+[MDA_P023]
+[MDA_P029] Consumers tend to consume healthy food as compared to the past. The Group is aware of the shift in consumer preferences and will consider producing products to meet the requirement of such health-conscious customers.
+
+[SECTION: Risk and Outlook]
+
+[MDA_P024]
+[MDA_P030] (iv) Quality of the Products
+
+[SECTION: Risk and Outlook]
+
+[MDA_P025]
+[MDA_P031] The Group has implemented quality management systems and quality assurance procedures via HALAL and ISO accreditation and sources raw materials from reputable and reliable suppliers to maintain the quality of the product.
+
+[SECTION: Risk and Outlook]
+
+[MDA_P026]
+[MDA_P032] APOLLO FOOD HOLDINGS BERHAD 199401005792 (291471-M)
+
+[SECTION: Risk and Outlook]
+
+[MDA_P027]
+[MDA_P033] MANAGEMENT DISCUSSION AND ANALYSIS (continued)
+
+[SECTION: Business Review]
+
+[MDA_P028]
+[MDA_P035] The pre-requisites for the Group to remain competitive in this challenging market environment include continuous improvement in the Group's production planning, application of stringent quality control on the products manufactured.
+
+[SECTION: Business Review]
+
+[MDA_P029]
+[MDA_P036] The Group is continuously monitoring and upgrading its production lines for better efficiency.
+
+[SECTION: Business Review]
+
+[MDA_P030]
+[MDA_P038] Despite the political unrest in certain regions and the slowing of growth in the emerging markets, the markets in which the Group operates remain relatively stable.
+
+[SECTION: Business Review]
+
+[MDA_P031]
+[MDA_P039] With the stabilisation of key raw materials supply chain and prices, the revenue and results of the Group are expected to improve in the forthcoming financial year.
+
+[SECTION: Business Review]
+
+[MDA_P032]
+[MDA_P040] The Group will strive to ensure that it continues to achieve satisfactory results by implementing prudent measures and improving operational efficiency so as to sustain the profit margin without compromising the product quality.
+
+[SECTION: Dividends]
+
+[MDA_P033]
+[MDA_P042] The Company does not have a fixed dividend policy. The Board of Directors are pleased to recommend a First and Final Dividend of 15 sen under the single tier system (tax exempt) for the financial year ended 30 April 2022. The dividend rate will subject to the shareholders’ approval at the forthcoming Annual General Meeting to be held on 27 October 2022. The dividend will be paid on 11 January 2023 once it is approved.

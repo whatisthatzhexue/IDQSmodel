@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia rallies at midday as US tariff cut lifts sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-08-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/01/bursa-malaysia-rallies-at-midday-as-us-tariff-cut-lifts-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia climbed at midday, buoyed by improved investor sentiment after the United States reduced tariffs on Malaysian exports to 19% from 25%. At 12.30 pm, the FBM KLCI surged 18.72 points to 1,531.97, just shy of its intraday high of 1,533.10, as investor sentiment turned broadly positive following news of a US tariff cut. ALSO READ: US cuts Malaysia tariff to 19% from 25% Across the broader market, 462 counters advanced, 394 declined and 477 remained unchanged, with 2.03 billion shares traded worth RM1.03bil.
+
+[NEWS_P002] The tariff reduction, announced earlier by the US, was described by Investment, Trade and Industry Minister Tengku Datuk Seri Zafrul Abdul Aziz as a significant achievement for Malaysia, secured without compromising national policy sovereignty. Malacca Securities noted that the lower 19% tariff may support local trade activity. “We anticipate buying interest in energy players like Deleum, supported by the recent spike in Brent crude, its strong net cash position, and attractive dividend yield.
+
+[NEWS_P003] “Additionally, with new contract wins in Johor and potential for replication in Penang, we view ITMAX as a strong fundamental pick. Lastly, Tenaga’s extended capex cycle should benefit names such as KJTS, MN Holdings, UUE, and Southern Cable Group moving forward,” the research house said. Among the gainers on Bursa Malaysia, Malaysian Pacific Industries climbed 46 sen to RM20.60, UMS Integration rose 38 sen to RM5.38, CIMB gained 25 sen to RM6.80 and Allianz added 24 sen to RM17.66.
+
+[NEWS_P004] Meanwhile, Nestle fell 28 sen to RM87.80, Mesiniaga lost 16 sen to RM1.30, Perusahaan Sadur Timah Malaysia slipped 11 sen to RM1.79 and United Malacca eased 10 sen to RM5.25.

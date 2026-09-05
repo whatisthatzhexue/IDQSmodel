@@ -1,0 +1,20 @@
+[TITLE]
+India's Apollo Hospitals bets on AI to tackle staff workload
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-03-13
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2025/03/13/india039s-apollo-hospitals-bets-on-ai-to-tackle-staff-workload
+confidence_tier: low
+
+[NEWS_P001] HYDERABAD (Reuters) -India's Apollo Hospitals will invest more in artificial intelligence tools to ease the workload for its doctors and nurses by automating routine tasks, including medical documentation, a top executive told Reuters. Indian hospitals, which grapple with overworked doctors and nurses handling heavy patient loads, are increasingly using AI to boost diagnostic accuracy, predict patients' risk of complications, improve precision in robotic surgeries, provide virtual medical care, and streamline hospital operations.
+
+[NEWS_P002] Apollo, which has more than 10,000 beds across its hospital network, making it one of the largest in the country, set aside 3.5% of its digital spend on AI over the past two years and plans to increase it this year, Joint Managing Director Sangita Reddy said, without providing further details. "Our aim is to free up two to three hours of time daily for doctors and nurses with AI interventions," Reddy said in an interview last month. Apollo's AI tools, some of which are experimental and still in the initial stages, will analyse patients' electronic medical records to suggest diagnoses, tests and treatment.
+
+[NEWS_P003] They will help transcribe doctors' observations, generate faster discharge summaries and create daily schedules out of nurses' notes. The Chennai-based hospital chain is also working on an AI tool that will help clinicians prescribe the most effective antibiotic suitable to treat the illness. Apollo, which aims to expand bed capacity by one-third in four years, will direct a part of the revenue from the additions towards boosting AI use without burdening costs, Reddy said.
+
+[NEWS_P004] The hospital hopes that the use of such AI tools will help lower nurses' workload as it tackles a 25% attrition rate among nurses, which it expects to increase to 30% by the end of fiscal 2025. Other Indian hospitals such as Fortis Healthcare, Tata Memorial Hospital, Manipal Hospitals, Narayana Health, Max Healthcare, Medanta and Aster DM Healthcare have also invested in AI-powered tools. But challenges such as high technology costs, diverse data sources and formats, limited availability of electronic medical records and profitability concerns have made it difficult for them to accelerate AI adoption, according to Joydeep Ghosh, a partner at Deloitte India.
+
+[NEWS_P005] (Reporting by Rishika Sadam; Editing by Dhanya Skariachan, Janane Venkatraman and Mrigank Dhaniwala)

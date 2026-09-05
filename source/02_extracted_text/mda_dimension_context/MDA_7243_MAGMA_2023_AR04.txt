@@ -1,0 +1,73 @@
+document_id: MDA_7243_MAGMA_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 26, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P009]
+Meanwhile, intangible assets saw a considerable reduction to RM1.92 million from RM5.31 million as at 31 Dec
+2022, indicative of changes in the valuation of hotel management rights or potential amortisation effects. Current assets also saw a rise to RM93.80 million, up from RM66.42 million in the previous year, with a notable
+increase in inventories and trade receivables, which may reflect an uptick in business activity and improved revenue
+collection processes. On the liabilities side, the Group witnessed the total liabilities increase to RM140.60 million from RM156.13 million in
+the previous year. Equity saw a considerable rise, with total equity increasing to RM104.61 million from RM65.69 million. This increase in
+equity boosts the Group’s financial robustness and ability to finance future growth. These financial dynamics showcase a year where Magma Group Berhad leveraged market opportunities, enhanced
+operational capabilities, and navigated the economic uncertainties to strengthen its asset base and financial stability.
+[MDA_P013]
+The decision on the declaration of interim dividends and the recommendation of final dividends remains
+at the discretion of the Board of Directors (“BOD”), taking into account various factors such as the Group’s financial
+performance, capital expenditure needs, overall financial health, and other relevant considerations. While it is Magma’s
+intention to reward shareholders through dividends in the future, such distributions will be carefully evaluated against
+the backdrop of the Group’s operational and financial landscape. Corporate Developments
+In FYE2023, Magma Group Berhad embarked on several strategic developments that marked significant milestones
+in the Company’s journey. A pivotal moment was the revaluation exercise conducted on leasehold lands and buildings
+across the Company and its subsidiaries, leading to a substantial fair value gain of RM37.06 million. This revaluation
+underscores the underlying value in Magma’s real estate assets and bolsters the Group’s financial standing. A significant legal development during the year was the withdrawal of a lawsuit by Public Bank Berhad against
+Magma, including its wholly-owned subsidiary, Astaka Mekar.
+[MDA_P014]
+This resolution removes a potential obstacle, paving the
+way for smoother operations and strategic initiatives. A noteworthy corporate identity change was also undertaken, with Impiana Hotels Berhad transitioning to Magma
+Group Berhad, symbolised by a change in the stock short name from IMPIANA to MAGMA. This rebranding reflects a
+new strategic direction and a broader vision for the Group’s future. Management Discussion & Analysis
+(Overview of Group Business)
+cont’d
+MAGMA GROUP BERHAD (fka Impiana Hotels Berhad) 200601021085 (740838-A)
+[MDA_P015]
+To bolster its financial capacity, Magma undertook a private placement of 10% of the total number of issued shares,
+which successfully raised RM19.52 million. The exercise, completed on 15 December 2023, saw a total listing of 85.93
+million shares. Alongside this, the Group raised additional funds through Redeemable Convertible Notes (“RCN”),
+significantly enhancing its cash position with RM32.50 million raised, thus providing a solid foundation for future
+growth and development initiatives.
+These corporate developments collectively mark a year of strategic realignment, expansion, and financial fortification
+for Magma Group Berhad, setting a robust platform for the Group to capture emerging opportunities and navigate the
+dynamic business landscape in the years ahead.
+Business Risks Review
+The performances of the Company and its subsidiaries in the hospitality business are dependent on the following key
+risk areas:
+a.
+Economic Environment and Natural Disasters Impact on Hospitality Sector
+[MDA_P016]
+In FYE2023, the dynamics of travel and tourism spending, inherently discretionary and sensitive to economic
+fluctuations, continued to shape the hospitality industry. Factors such as transportation and accommodation
+supply and demand, economic growth rates, interest rates, inflation, and broader economic trends directly
+influence travel and tourism activities. Moreover, the sector’s vulnerability to natural and public health disasters,
+exemplified by the global COVID-19 pandemic, poses ongoing challenges to the operational stability and
+resilience of the Group’s assets.
+[MDA_P017]
+To navigate these complexities, the Group proactively monitors economic indicators and potential risks, enabling
+the formulation of pre-emptive strategies to mitigate adverse impacts. The previous fiscal period’s reopening of
+borders and economies heralded a resurgence in the Group’s Hotel Operation and Hotel Management segments,
+signalling a recovery from the pandemic’s extensive economic and human toll. However, the latent threat of
+future pandemics underscores the need for vigilance and preparedness.
+[MDA_P018]
+In response to the heightened awareness of public health risks, the Group has prioritised the implementation of
+rigorous “clean and safe” protocols, aligning with international standards. This commitment to safety, evidenced
+by the adoption of strict Standard Operating Procedures (SOPs) and pursuit of globally recognized certifications,
+aims to reassure guests of the Group’s dedication to health and safety. Drawing lessons from the COVID-19
+experience, the Group is better equipped to address financial and operational challenges that may arise from
+future epidemics or pandemics.
+b.
+Managing Foreign Exchange Risk
+[MDA_P019]
+The Group’s engagement in international transactions, particularly under hotel management agreements
+denominated in various currencies, exposes it to foreign exchange risk. Fluctuations in the currencies of the
+countries where the Group operates could potentially impact its financial performance.

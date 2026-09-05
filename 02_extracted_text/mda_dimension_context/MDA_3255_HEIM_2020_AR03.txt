@@ -1,0 +1,118 @@
+document_id: MDA_3255_HEIM_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 77, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+We are the leading brewer in the country, with a portfolio of
+iconic international and local brands that are supported by
+consumers who share the same Passion for Quality that is a
+key HEINEKEN value. In 2020, we had to respond to the drastic
+changes in the external environment caused by the global
+pandemic and nationwide lockdown, which had a significant
+impact on our industry and business. In navigating the crisis, our
+key priorities were (1) safeguarding the health and safety of our
+people, (2) adapting the business to the new landscape, and (3)
+prudent cost control to preserve cash. Our Key Priorities
+safeguarding the
+health and safety
+of our people
+adapting the
+business to the
+new landscape
+prudent cost
+control to
+preserve cash
+PROTECTING THE HEALTH & SAFETY OF OUR PEOPLE
+To ensure the health and safety of our employees, we
+instructed all staff to work from home immediately upon the
+commencement of the MCO. When we were allowed to resume
+operations on 3 May 2020, only essential employees were asked
+to return to our brewery whilst non-essential staff continued
+working from home.
+[MDA_P006]
+Who We Are
+Our Strategies
+Performance
+Review
+Growing
+Our People
+Protecting
+Our Planet
+How We Are
+Governed
+Our Numbers
+And Others
+HEINEKEN MALAYSIA BERHAD | ANNUAL REPORT 2020
+of the proactive interventions that we have undertaken. As
+such, we aim to continue maintaining a high level of discipline
+in enforcing the health-related SOPs and continually remind
+employees about the necessary health and safety precautions. STAYING CONNECTED WITH CUSTOMERS & CONSUMERS
+We started 2020 with the Chinese New Year festive campaign
+led by Tiger Beer, Malaysia’s No. 1 Beer. The year of the rat
+coincided with Tiger’s 88th anniversary and we went all out
+to give consumers an exciting festive season. Aptly named
+‘Double The Huat’ in honour of the double celebration, we ran
+a successful series of promotions, contests and activations on
+a grander scale than ever before across all channels, including
+restaurants, coffee shops, supermarkets, convenience stores and
+e-Commerce. However, due to the pandemic and nationwide lockdown,
+most of the commercial plans for the rest of the year were
+affected. For example, the annual Guinness St. Patrick’s
+celebration in March had to be canceled.
+[MDA_P007]
+Meanwhile, we had
+to adapt to the new realities that Covid-19 had forced upon
+society. Consumption drivers such as dining out and having
+social gatherings at restaurants, pubs and bars were curtailed
+significantly by various restrictions. Indeed, certain outlets
+with liquor licenses such as pubs and entertainment outlets
+were prohibited from operating. Unfortunately, the perpetual
+restrictions have significantly impacted the economy and
+consumer sentiment. Local businesses who depend on beer as a
+source of revenue have struggled to survive. The Confederation
+of Malaysian Brewers Berhad estimates that around 3,800 of
+these outlets have remain closed during the year with some
+38,000 jobs at risk. During this challenging year, it was important to remain
+connected with our customers and consumers. We leveraged the
+power of our brands to help re-connect consumers to businesses. Through our Tiger Save Our Street Food campaign, we channeled
+RM1.5 million to help restaurants, food courts and street food
+vendors who were affected directly by the lockdown. During the
+campaign, supporters could purchase a voucher for a big bottle
+of Tiger or Tiger Crystal.
+[MDA_P008]
+Proceeds from the sale of the vouchers
+were then fully donated to participating outlets, on top of the
+retail price of the beer that the outlets also receive. We are proud
+that this campaign brought consumers together to support their
+favourite restaurants and coffee shops, whilst demonstrating
+HEINEKEN Malaysia’s commitment to navigate the storm
+together with our business partners. As mentioned earlier, most pubs and entertainment outlets were
+not allowed to operate. In view of this, we launched the Raise
+Our Bars initiative, with a commitment of RM1 million to help
+affected pubs and bars during the crisis. The Heineken® brand
+also launched its Socialise Responsibly campaign, giving a fresh
+perspective to social distancing in bars, educating consumers
+that although new bar experiences can be awkward, it is
+important to respect the rules of social distancing. In a year when staying at home became the norm, we further
+engaged consumers with exciting campaigns that cut through
+the monotony due to the lack of social interactions.
+[MDA_P010]
+ANNUAL REPORT 2020 | HEINEKEN MALAYSIA BERHAD
+OUR PERFORMANCE
+Group revenue for the 12 months ended 31 December 2020
+declined by 24%, impacted by the implementation of the first
+MCO during which the brewery suspended its operations. Despite
+the gradual recovery of economic activities after the second
+quarter, the Group’s business performance particularly in the on-
+trade channel continued to be affected. With the slowdown in the on-trade channel, we refocused our
+efforts to win in the off-trade channels including supermarkets
+and convenience stores, which were allowed to continue
+operating throughout the lockdowns. The rapid adoption
+of e-commerce in Malaysia was further accelerated by the
+pandemic, with many consumers switching from visiting physical
+stores to doing their shopping online. HEINEKEN Malaysia’s
+official e-commerce platform, Drinkies.my, grew its total number
+of orders by 93% vs 2019. The on-demand delivery service is
+currently available in major cities of Peninsular Malaysia.

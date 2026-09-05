@@ -1,0 +1,128 @@
+document_id: MDA_0012_3A_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 149.677, "paragraph_count": 13, "paragraph_length_distribution": {"max": 1191, "mean": 841.615, "min": 297}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION AND ANALYSIS
+OUR PRODUCT PORTFOLIO
+•
+ Liquid Caramel, Caramel Colour
+•
+ Vinegar
+•
+ Glucose Syrup, High Maltose Syrup
+•
+Soya Protein Sauce (“HVP”)
+•
+ Hydrolysed Vegetable Protein (“HVP”) Powder
+•
+ Maltodextrin
+The Group serves businesses of all sizes across a broad
+spectrum of industries and sectors. Our versatile range of
+ingredients have different functional properties and unique
+characteristics that can be tailored to customer needs. All
+ingredients are Halal and Kosher certified. The Group offers diverse range of packaging options to
+accommodate customer needs. There are various package
+sizes ranging from bulk road tanker to small packing such
+as jerrycan and carton box. Customised packaging can be
+arranged to accommodate customer requirements.
+[MDA_P004]
+Revenue by Geographical Locations for
+FY2020
+Other Foreign
+Countries
+Singapore
+Malaysia
+39%
+9%
+52%
+During the FY2020, the Group registered
+impairment losses on trade receivables
+amounting to RM0.57 million but the
+Group successfully made recoveries of
+RM0.29 million from impairment losses
+during the year. The Group continued with its carefully
+crafted business strategies to research
+and develop good quality products in
+order to meet as well as exceed the
+expectations of our valued customers. Besides, the Group also continued with
+initiatives to achieve improved operational
+efficiency in our manufacturing plants
+from upgrading and modernization plans
+which were carried out in FY2020. These
+long-term plans are also meant to enable
+us to reduce reliance on foreign labor and
+to improve our manufacturing facilities in
+order to be more efficient to produce
+more as well as achieve cost savings. THE YEAR 2020
+During the year 2020, the COVID-19
+pandemic had brought dramatic changes
+to the lives of the people and businesses
+all over the world. With the introduction
+of the Movement Control Order (“MCO”)
+to fight the pandemic, local consumers
+were cautious in spending during the
+year.
+[MDA_P007]
+Moreover, the Group expects the utilisation
+to continue to increase in 2021 with
+encouraging interests from a few major
+customers. Maltodextrin plant no. 3 was
+designed to produce certain grades
+of maltodextrin, thereby the intention
+is to capture customers with specific
+applications. The upgrading of Maltodextrin plant
+2 to increase its plant efficiency is still
+on-going. In view of increasing demand
+for maltodextrin products, the Group had
+deferred earlier plans to convert our first-
+generation maltodextrin plant 1 to produce
+caramel powder products and other
+powder products to a later stage. In addition, the expansion and upgrading
+of the latest glucose production plant
+was completed in year 2019 and has yet
+to achieve optimum utilisation as at the
+end of year 2020. In view thereof, the
+Group decided to defer initial plans for
+construction of another glucose production
+plant to a later stage. Moreover, the
+production plant capacity expansion plans
+for HVP and Caramel products together
+with the relocation of Vinegar production
+plant that were launched in 2019 had been
+delayed in light of the COVID-19 pandemic.
+[MDA_P010]
+In order to address risks of volatility in raw materials prices, expansion plans of
+warehousing facilities are still on-going. Besides, the Group is carefully adapting to
+current market conditions with our core competency to develop new products with
+excellent quality for customers. In addition the Group will continue to come up with
+targeted marketing strategies with our unique ability to change the sales mix to face
+intense market competition.
+Although the Group is cautious in our business approaches, the Group is continuing
+its business plans to commit adequate resources to expand and upgrade production
+plants. The Group strongly believes that we are on the right track to accomplish our
+vision to be a recognised global leader in the food and beverage ingredients industry
+known with products of exceptional quality.
+THREE-A RESOURCES BERHAD 199901006659 (481559-M)
+Annual Report 2020
+[MDA_P013]
+Last but not least, we are thankful to all
+Board members who have contributed
+to the success of the Group with their
+extraordinary leadership, guidance and
+commitment. Thank you. ABOUT US
+LEADERSHIP
+SUSTAINABILITY
+CORPORATE
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+ADDITIONAL
+INFORMATION
+PERFORMANCE
+REVIEW

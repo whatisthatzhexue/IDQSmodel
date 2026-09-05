@@ -1,0 +1,200 @@
+document_id: MDA_3255_HEIM_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 36, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Emerging
+Stronger
+from the
+Crisis
+2022 was a new dawn as
+we stepped out from the
+global pandemic. Businesses
+reopened, social restrictions
+relaxed, international tourism
+resumed, and we pushed ahead
+to accelerate our recovery
+amidst the evolving challenges
+in the external environment. INTRODUCTION
+After a challenging two years in 2020
+and 2021 due to COVID-19, we stepped
+into 2022 with a cautious outlook
+especially with the unpredictable nature
+of events related to the global pandemic. For seven weeks in 2020 and a further
+11 weeks in 2021, we had to suspend
+operations at our Sungei Way Brewery
+in Petaling Jaya due to prolonged
+lockdowns. We are thankful that such a
+situation did not re-occur during 2022,
+as the high vaccination rate in the
+Malaysian population kept the severity
+of the pandemic under control. In April 2022, Malaysia began its
+transition to the endemic phase, with
+gradual reopening of international
+borders, revival of tourism, and lifting
+of various restrictions on social and
+economic activities.
+[MDA_P002]
+Nevertheless,
+entertainment outlets and bars
+continued to be on the National
+Security Council’s Negative List, until
+the Government eventually abolished
+this from 15 May 2022. Throughout
+the year, we remained focused on our
+commitment to help drive the recovery of
+our trade partners, especially those in the
+on-trade who had persevered through
+much hardship during the previous two
+years. From ensuring supply continuity
+and product quality to creating engaging
+campaigns to drive consumer traffic
+back to restaurants and bars, the team
+at HEINEKEN Malaysia can look back
+at 2022 and be proud of the way we
+have worked together to deliver this
+commendable performance. Indeed, the bold moves we took in the
+past two years to navigate through the
+storm whilst building a stronger future
+are starting to bear results. HEINEKEN’s
+HEINEKEN MALAYSIA BERHAD
+Annual REPORT 2022
+Performance
+Review
+Our Business
+Model
+Who
+We Are
+[MDA_P003]
+HEINEKEN MALAYSIA BERHAD
+Annual REPORT 2022
+ESG
+Review
+How We Are
+Governed
+Our Numbers &
+Other Information
+Management Discussion & Analysis
+After two years of hosting
+the Tiger Street Food
+Festival virtually, the
+iconic street food festival
+returned as an on-ground
+event, bringing consumers
+together to celebrate the
+best of Malaysian street
+food, paired with Malaysia’s
+No. 1 Beer, Tiger.”
+EverGreen strategy, launched at the
+height of the pandemic, is the next
+chapter of our growth journey, with
+key priorities to drive premium growth,
+fund the growth through cost and value
+initiatives, become the best connected
+brewer, raise the bar on sustainability
+and responsibility, and unlock the full
+potential of our people. Undoubtedly, despite the positives,
+it was still a challenging period,
+especially with heightening geopolitical
+tensions globally, complex supply chain
+disruptions, rising inflationary pressures,
+and subdued consumer sentiments. Against this backdrop, I am thus
+pleased to share with you an improved
+performance for the financial year ended
+31 December 2022 (FY2022) and that
+we have accelerated our recovery ahead
+of pre-pandemic levels in 2019.
+[MDA_P004]
+The
+following is a review of our business and
+financial performance, the highlights of
+our commercial campaigns, the progress
+of our sustainability commitments, as
+well as the outlook for 2023. OUR PERFORMANCE
+Compared to 2021, Group revenue
+rose by 44%, mainly attributable to an
+increase in sales volume following the
+reopening of international borders,
+increased on-trade consumption as well
+as positive mix impact from premium
+portfolio growth. It was also driven by
+low volume in 2021 as the brewery was
+closed for 11 weeks from 1 June 2021 to
+15 August 2021 due to the Movement
+Control Order. Group PBT increased by 85% to
+RM595 million, primarily due to strong
+post-COVID recovery, gradual recovery
+for the on-trade business, and improved
+revenue and cost management. The
+Group will continue to focus on the
+execution of the EverGreen strategy to
+drive sustainable growth. Correspond
+with the above, earnings per share
+increase to RM1.37 per share from
+RM0.81. Net cash from operating activities for
+FY2022 increased by 38% to RM469
+million while net assets increased by 23%
+to RM488 million mainly due to better
+business performance during the year.
+[MDA_P013]
+HEINEKEN MALAYSIA BERHAD
+Annual REPORT 2022
+Who
+We Are
+Our Business
+Model
+Performance
+Review
+Management Discussion & Analysis
+Rising Input Cost
+Through our EverGreen
+strategy, our Fund the
+Growth priority ensures
+we practice disciplined
+cost management with an
+aim to unlock efficiencies
+wherever possible. We
+mitigate this risk further by
+leveraging the scale and
+capabilities of HEINEKEN’s
+global procurement. Supply Chain Disruptions
+By modernising our facilities
+and leveraging digital and
+technology, we improve the
+efficiency of our brewery to
+mitigate the risk of wider
+supply chain constraints. We continue engaging
+our network of third party
+logistics providers and
+distributors to ensure we
+are able to respond to
+unexpected challenges. Growing Conservatism
+We engage the Government to
+create better understanding of
+our industry. We ensure strict
+compliance with our Responsible
+Marketing Code and market
+our brands with utmost respect
+towards cultural sensitivities both
+local and global. We ensure that
+our commercial communications
+are directed towards consumers
+who are above 21 years old and
+non-Muslim only.
+[MDA_P014]
+Cyber Security
+We continually train our
+people to be aware and
+capable in protecting our
+business against cyber
+threats. We performed a
+cyber crisis preparedness
+exercise during the
+year and implemented
+a framework on cyber
+security. MANAGING OUR RISKS
+Our approach to risk management is detailed in our Statement on Risk Management and Internal Control on pages 101 to 107. The
+following table contains a general description of different areas of risks and actions undertaken by Management during the year:

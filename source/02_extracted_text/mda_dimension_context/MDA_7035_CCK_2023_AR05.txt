@@ -1,0 +1,61 @@
+document_id: MDA_7035_CCK_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 26, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 125.483, "paragraph_count": 26, "paragraph_length_distribution": {"max": 1186, "mean": 670.885, "min": 99}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Profit Before Tax
+RM107.44
+million
+Total Liabilities
+RM144.69
+million
+Revenue
+RM980.75
+million
+Total Assets
+RM576.25
+million
+Profit After Tax
+RM83.36
+million
+Current Ratio
+2.68
+times
+Earnings
+Per Share
+13.35
+sen
+[MDA_P007]
+Growth was
+driven by more matured contributions from our established retail network, higher sales volumes from both the retail
+and wholesale channels, and strong demand for our in-house manufactured processed products in Indonesia.
+[MDA_P014]
+In FY2023, we expanded our retail network as follows –
+- Three (3) CCK Fresh Mart stores; one (1) in Kuching, Sarawak, one (1) in Telipok, Sabah and one (1) in Kota
+Kinabalu, Sabah. To recap, the acquisition of PT Bonanza was completed in July 2022, during the previous financial year. Established
+for the past 22 years, PT Bonanza operates out of Tarakan and is engaged in the processing of shrimp for local and
+export markets. PT Bonanza’s key products are frozen raw shrimp, frozen cooked shrimp and frozen Nobashi Ebi
+shrimp. As evidenced by the performance of the prawn segment in FY2023, the acquisition has augmented our seafood
+business and increased the size and scale of our export-oriented prawn products. Specifically, the prawn segment
+benefitted from a full year of contribution from PT Bonanza which boosted export volumes to Japan, Taiwan. Thailand
+and The People’s Republic of China. Manufacturing operations in Indonesia continued to benefit from an overall increase in production capacity due to the
+addition of Pontianak’s facility that was commissioned in January 2021.
+[MDA_P020]
+CCK retail stores face increasing risks from existing and new competitors who offer similar products and compete
+on the basis of pricing. To mitigate this, we are continuously looking at means to improve our competitive edge.
+The Management not only focuses on pricing of products but also in evolving business models which improve
+the customers’ shopping experience.
+e.
+Biosecurity And Disease Risk
+[MDA_P026]
+I am deeply grateful for your continued collaboration, partnership,
+and patronage. Your ongoing support fuels our motivation to strive for
+excellence and reinforces our commitment to delivering exceptional
+value and service. Together, we look forward to building upon our
+successes and forging ahead towards a brighter future for CCK. TIONG CHIONG HIIUNG
+GROUP MANAGING DIRECTOR

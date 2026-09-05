@@ -1,0 +1,40 @@
+document_id: MDA_5008_HARISON_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 42, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 51.713, "paragraph_count": 42, "paragraph_length_distribution": {"max": 1088, "mean": 209.881, "min": 7}, "repetition_ratio": 0.047619, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+Overview of Business Activities
+Harrisons' income is mainly derived from the marketing, sales, warehousing and distribution of Fast-
+Moving Consumer Goods, Building Materials and Engineering Products, Fine Wines, Industrial and
+Agricultural Chemicals, and the operation of Shipping/Logistics, Travel Agencies and Retailing. These
+businesses are conducted as follows:
+a. In East Malaysia, Harrisons Sabah Sdn. Bhd. and Harrisons Sarawak Sdn. Bhd. are involved in the
+marketing, sales, warehousing and distribution of Fast-Moving Consumer Goods, Building Materials,
+Engineering Products and Industrial and Agricultural Chemicals Products as well as the operation of
+Shipping and Travel Agencies; and
+b. In Peninsular Malaysia, Harrisons Peninsular Sdn. Bhd. and Harrisons Marketing & Services Sdn. Bhd. are involved in the marketing, sales, warehousing and distribution of Building Materials, Industrial and
+Agricultural Chemicals, and import and distribution of Fine Wines as well as the Freight Forwarding and
+Shipping.
+[MDA_P011]
+The Group Profit Before Taxation for FY2024 was RM60.01 million as compared to FY2023 of RM89.52
+million. Besides the drop in Gross Profit, administrative expenses increased by RM4.10 million for FY2024
+as compared to FY2023 as provision for doubtful debts increased by RM2.7 million for FY2024 caused by
+overall slow collections. Interest expense increased by RM2.53 million as bank borrowings and interest
+rates increased in FY2024.
+[MDA_P022]
+──────
+──────
+──────
+──────
+────
+[MDA_P032]
+The Shipping and Others Segment Profit Before Tax is RM4.01 million for FY2024 as compared to RM3.55
+million in FY2023. Shipping Division results increased by RM0.46 million in FY2024 due to higher
+commissions earned as shipping business activities pick up in Sabah for FY2024.
+[MDA_P042]
+MANAGEMENT DISCUSSION AND ANALYSIS (CONT’D)

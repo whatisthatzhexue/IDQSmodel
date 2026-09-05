@@ -1,0 +1,86 @@
+document_id: MDA_4065_PPB_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 33, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Annual Report for a more detailed management discussion and analysis
+of our business operations and performance in FY2021.
+COVID-19 Initiatives
+PPB Group continued to undertake various initiatives to
+support the community during the COVID-19 pandemic.
+We spent a total of RM6 million in 2021 on food products
+for
+20,000
+vulnerable
+recipients;
+medical
+equipment
+requested by hospitals, and items to enhance the
+wellbeing of frontliners. We also provided a total of 149,700
+lunch meals to 2,400 recipients in Seremban, Penang, Johor,
+and the Klang Valley, whilst generating income for more
+than 50 unemployed individuals or struggling operators who
+prepared the meals. In addition, PPB engaged local singers,
+buskers, muralists, home bakers and skilled workers, with
+334 engagements to assist them in earning an income.
+MESSAGES FROM OUR LEADERS
+2021 Annual Repor t
+RISE ABOVE ADVERSIT Y
+[MDA_P002]
+MANAGING DIRECTOR’S REVIEW
+Dear Shareholders,
+The PPB Group performed satisfactorily in 2021 despite the continuing COVID-19 pandemic. Notwithstanding the difficulties faced by our businesses, the Group results remained stable, due
+largely to the contribution from Wilmar International Limited (“Wilmar”). Group revenue was 16% higher at RM4.86 billion (2020: RM4.19 billion), with revenue increase
+in all business segments. Group pre-tax profit was also higher, with a 5% increase to RM1.50
+billion (2020: RM1.42 billion), mainly due to a higher share of results of Wilmar of RM1.50
+billion (2020: RM1.24 billion). “
+“
+Economic and Operating Environment in 2021
+The Malaysian economy registered positive growth of 3.6% in the fourth quarter of 2021. This was supported mainly by improved domestic
+demand as economic activities recovered following the easing of containment measures under the National Recovery Plan (“NRP”). The Group performance improved gradually with our business segments adapting to the new normalcy in line with the NRP. The Grains
+and Agribusiness segment recorded a small profit despite challenging business conditions.
+[MDA_P005]
+Flour Milling
+Animal Feed Milling
+Navigating the Pandemic
+FFM Group’s increased revenue for 2021 was due to the higher
+selling prices and sales volume in both Indonesia and Vietnam. The
+rise in raw materials cost contributed to the increase in selling price
+of flour; a portion of the cost increase being passed to customers. The increase in wheat prices and freight charges has intensified
+market competition, and the price volatility had driven up the
+cost of products. However, we leveraged on our Group’s extensive
+experience in grains procurement, supply chain management and
+technical competency to mitigate the adverse impact of the wheat
+price volatility and supply chain disruption. FFM’s flour milling capacity has increased with the completion of
+its new 500 MT/day wheat flour mill constructed by 51%-owned
+VFM-Wilmar Flour Mills Co Ltd at its existing factory in Quang
+Ninh Province, in northern Vietnam at an estimated cost of
+USD20 million. Looking ahead, the domestic market growth looks more positive
+after the opening of all economic sectors.
+[MDA_P006]
+However, we expect
+the ongoing Russia-Ukraine conflict to add more uncertainty and
+volatility to the commodity market and cause greater disruption
+to the global supply chain. This will continue to be a challenging
+year. Notwithstanding the volatility of raw material prices and other
+rising costs, we do not pass all cost increases to customers. The Animal Feed Milling’s business environment is uncertain due to market segment contraction as many high-volume customers switched
+to home mixing or toll milling to cut costs. Previously, independent farmers had also abandoned the traditional farming model and opted
+for an integrated farming scheme, which has an impact on independent feed millers.
+[MDA_P016]
+In September 2021, GSC completed the acquisition of 18 cinema assets from MCAT Box Office Sdn Bhd (“MBO”) and Reel Entertainment
+Holdings Sdn Bhd, increasing its market share to more than 50%. In December, we also celebrated the first Happy Food Co outlet launch
+in GSC Southkey, Johor Bahru. Happy Food Co is GSC’s expansion into cafes in key locations. GSC is optimistic that lifting of movement controls, relaxation
+of social restrictions and a strong line-up of movie blockbusters
+would positively contribute to cinema admissions. As the recovery
+momentum picks up in 2022, we anticipate the Film Exhibition and
+Distribution segment to deliver better financial results on a year-
+on-year comparison. The Group has several development plans for the coming year,
+such as GSC Rewards programme to drive more admissions, retain
+and attract new cinemagoers, and build customer loyalty. We are
+launching eight BIG cinema halls to provide for a better immersive
+experience and opening at least two Happy Food Co outlets during
+the year. GSC also targets the introduction of new cinemas in
+Bintulu, Johor, Kuala Lumpur, and Putrajaya, with a total of 50 new
+screens.

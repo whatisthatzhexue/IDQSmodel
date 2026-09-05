@@ -1,0 +1,200 @@
+document_id: MDA_9946_ETA_2024
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_9946_ETA_2024", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 21, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Our History and Business
+Rex was incorporated on 26 November 1993 as a private limited company under the Companies Act 1965 by
+the name of Kompetitif Pertama Sdn Bhd. The Company acquired the entire issued and paid-up share capital of
+Rex Canning Co. Sdn Bhd, Rex Trading Sdn Bhd and Rex Foods Sdn Bhd and took on the function as a holding
+company in conjunction with the listing of Rex on Bursa Malaysia Securities Berhad ("Bursa Securities"). The
+Company changed its name to Rex Industry Sdn Bhd on 5 February 1994. It was converted to a public limited
+company on 16 February 1994 and adopted its present name. Rex was listed on the Second Board of Bursa
+Securities on 29 November 1995. Rex Group is involved in the manufacturing of canned food, beverage and confectionary products. Rex Canning
+Co. Sdn. Bhd. a wholly owned subsidiary of Rex was founded in 1965 and has since grown into a leading
+manufacturer, distributor and exporter of halal canned products, frozen food, and beverages in Malaysia.
+[MDA_P002]
+PT
+Rex Canning Indonesia (“PT Rex”) began commercial operations in August 1992; with principal activities in
+manufacturing and exporting of canned processed seafood. PT Rex operates under stringent standards set by
+the Ministry of Marine Affairs and Fisheries of Indonesia. Most of the PT Rex’s canned seafood is exported to the
+US and EU. Our strength lies in providing quality products that cater to the taste preferences and budgets of our growing
+population. Our Policy
+Towards producing trusted products for all consumers, food safety best practices are core to our business. They
+are implemented throughout the chain from sourcing to manufacturing and delivery, to ensure compliance
+with local and international food safety standards and manufacturing best practices. Financial Performance
+For the financial year ended (“FYE”) 30 June 2024, the Group recorded a revenue of RM130.52 million which
+represents a reduction of approximately RM31.89 million when compared to the preceding financial year of
+RM162.41 million. The decline in revenue was mainly due to weaker demand from both local and overseas
+market.
+[MDA_P003]
+The Group recorded a loss before tax of RM4.18 million for FYE 30 June 2024 when compared to preceding
+financial year’s loss of RM43.41 million. The huge loss in the preceding financial year was due to additional cost
+incurred in relation to the decommissioning of Bukit Minyak facility for one-off impairment of the plants’ fixed
+assets, provision allowance of inventories obsolescence and staff retrenchment cost. The lower loss in this financial year was mainly attributed to cost control initiatives instituted and better operational
+efficiencies from the business rationalisation plan. REX GROUP
+[MDA_P004]
+FY 2022
+FY 2023
+FY 2024
+(All in RM’000)
+Revenue
+[MDA_P005]
+161,111
+162,408
+130,522
+(Loss)/Profit before tax
+[MDA_P006]
+2,934
+(43,414)
+(4,181)
+The Board is committed to continue with prudent measures to improve the Group’s financial performance and
+deliver satisfactory results taking cognizance of the prevailing business environment.
+[MDA_P009]
+30 Jun 20
+30 Jun 21
+30 Jun 22
+30 Jun 23
+30 Jun 24
+[MDA_P010]
+RM’000
+RM’000
+RM’000
+RM’000
+RM’000
+Statement of Profit and Loss
+Revenue
+149,245
+160,539
+161,111
+162,408
+130,522
+[MDA_P011]
+(Loss)/Profit before Tax after
+Minority Interest
+(8,396)
+3,912
+2,934
+(43,414)
+(4,181)
+[MDA_P012]
+Interest expense
+2,050
+1,531
+1,171
+1,617
+1,707
+(Loss)/Profit after Tax and
+Minority Interest
+(9,465)
+2,603
+2,027
+(44,399)
+(4,167)
+Dividend declared
+–
+(987)
+–
+–
+–
+[MDA_P013]
+Statement of Financial Position
+Paid-up Share Capital
+73,742
+97,903
+97,903
+113,717
+113,717
+Shareholders Funds
+101,891
+127,404
+129,714
+103,562
+96,361
+Borrowings
+42,209
+28,884
+27,804
+31,766
+24,849
+Net Tangible Assets (“NTA”)
+94,854
+120,367
+122,677
+96,525
+89,324
+Financial Ratio
+[MDA_P014]
+Investment Ratio
+NTA per share
+0.38
+0.24
+0.25
+0.15
+0.14
+[MDA_P015]
+Basic (Loss)/Earnings
+Per Share (Sen)
+(3.84)
+0.64
+0.38 (7.04)
+(0.63)
+Dividend per share (sen)
+–
+0.2
+–
+–
+–
+Operating Ratio
+[MDA_P016]
+After tax return on
+shareholders’ fund (%)
+(9.29)
+2.04
+1.56 (42.87) (4.32)
+Pre-tax profit margin (%)
+(5.63)
+2.44
+1.82 (26.73)
+(3.20)
+Financial Ratio
+[MDA_P017]
+Gearing (times)
+0.42
+0.23
+0.22
+0.31
+0.26
+Interest Coverage ratio
+(3.10)
+3.55
+3.51 (25.85)
+(1.45)
+[MDA_P018]
+Liquidity ratio
+Current ratio
+1.32
+1.87
+1.79
+1.67
+2.04
+Quick ratio
+0.61
+0.93
+0.83
+0.77
+1.08
+Note:
+1)
+Basic (Loss)/Earning per ordinary share for the financial year is calculated by dividing the (loss)/profit after tax
+attributable to owners of the parent by weighted average number of ordinary shares outstanding during the financial
+year.
+MANAGEMENT DISCUSSION
+& ANALYSIS
+(Cont’d)

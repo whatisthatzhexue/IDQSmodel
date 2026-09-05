@@ -1,0 +1,14 @@
+[TITLE]
+Lotus to buy major shareholder’s two recycling firms
+
+[METADATA]
+ticker: LOTUS
+company_name: Lotus KFM Berhad
+publish_date: 2024-12-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/20/lotus-to-buy-major-shareholders-two-recycling-firms
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Datuk Wong Sak Kuan, the single-largest shareholder of Lotus Circular Bhd, will be injecting his two waste recycling companies into the group for RM100mil. This will be in addition to the three private companies he sold to Lotus, or formerly known as MESB Bhd , last year for RM51mil. Lotus told shareholders yesterday that it will acquire the entire equity interest in Earthwise Resources Sdn Bhd and Expert Resource Management Sdn Bhd.
+
+[NEWS_P002] The acquisitions, which come with a two-year profit after tax guarantee of RM16mil, are to be paid in RM35.01mil cash and the remaining via issuance of new shares at 41.5 sen apiece. The Lotus stock closed at 44 sen yesterday. With the new shares, Wong’s shareholding will jump to 57.3% from 26.62% currently. Together with the shares held by persons acting in concert (PACs), the shareholding will touch 70.6%. Although the shareholding will cross the 33% threshold, Wong and his PACs do not intend to undertake a mandatory takeover offer and plans to seek exemption from the Securities Commission.

@@ -1,0 +1,110 @@
+document_id: MDA_0212_SDS_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 29, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+SDS GROUP BERHAD
+ANNUAL REPORT 2024
+DOMESTIC REVIEW
+he global economic situation weighed significantly on
+Malaysia’s economy which was already impacted by
+the increased inflation, unemployment and shrinking
+incomes. To manage the erosion of the ringgit and
+growing inflation, Bank Negara Malaysia remained resolute
+in maintaining the overnight policy rate (“OPR”) at 3.00% for
+much of the financial year 2024. Malaysia’s overall economic performance fluctuated in
+2023, with the Gross Domestic Product recording 3.7%, a
+sharp fall from 8.7% in the previous year. Adding to this is
+the weakening of the Malaysian ringgit to as low as RM4.70
+to the US dollar in December 2023. Malaysia’s economy
+experienced a slowdown due to weakened external demand
+and a reduction in commodity production, affecting the local
+market purchasing power. Compounding this was the impact
+on the business’s supply chain, higher costs of raw materials,
+ingredient costs as well as pricing of products. Notwithstanding this, there has been a gradual uptrend in
+the local operating environment, with business travel and
+international and domestic tourism taking off.
+[MDA_P006]
+SDS GROUP BERHAD
+ANNUAL REPORT 2024
+Total assets recorded an increase of 19.5% to RM193.4 million during FY2024. This was largely attributable to the increase in capital expenditures, including the
+acquisition of three parcels of land at Mukim Tebrau, Daerah Johor Bahru, totalling
+RM14.4 million for expanding manufacturing facilities in future. The Group’s strong financial position is also reflected in its cash and bank balance
+of RM30.0 million in FY2024, representing an 8.9% increase over FY2023. This
+was achieved by the improvement of revenue and profit, and a conservative
+capital management and capital expenditure policy, enabling it to mitigate any
+unexpected financial situations and pivot to capitalise on expansion activities
+where needed. SDS is committed to driving value creation for the benefit of our shareholders. On
+this note, the dividend declared for FY2024 was 1.65 sen compared to 1.25 sen in
+FY2023, an increase of 32.0%. The Group would like to express its gratitude to its loyal shareholders for their
+trust and confidence in the Group’s management and operational excellence in
+producing such a strong financial outcome.
+[MDA_P008]
+The Group’s healthy revenue is reflected
+in its growth of 14.2% from RM 283.7
+million in FY2023 to RM 324.1 million
+in FY2024. The increase in profit before
+tax (“PBT”) is mainly due to the increase
+in revenue and improvement in gross
+profit margin, from 31.5% in FY2023
+to 34.0% in FY2024. This was further
+supported by an increase in sales price
+and stabilisation of raw material prices. This has in turn, reflected on the Group’s
+profit after tax (“PAT”) attributable to
+Owners of the Company of RM32.6
+million in FY2024 as compared to
+RM24.5 million in FY2023, representing
+an improvement of 32.7%. The Group continued its strategic
+approach
+by
+strengthening
+its
+partnership
+collaboration
+with
+local businesses and vendors alike,
+sponsoring or collaborating with their
+local events. As part of the Group’s commitment
+to minimise its carbon footprint in
+support of the environment, the Group
+has embarked on a solar renewable
+energy initiative at its two existing
+manufacturing plants - one in Johor
+Bahru, which has been completed and
+another in Seremban, which is currently
+in progress.
+[MDA_P024]
+This, and other various strategic measures employed
+will translate to more accurate profit realisation from its
+sales channels moving forward. KEY BUSINESS OPPORTUNITIES
+AND CHALLENGES
+ur 37 years of experience in this industry has
+held us in good stead, particularly through
+the many turbulent economic times. It has
+taught us the importance of scanning the
+horizon, recognising signs of potential opportunities and
+challenges, and the need for business agility to realign our
+business strategies where needed. Our business expansion strategies including opening new
+retail outlets in strategic locations, increasing the fleet size
+of our wholesale segment, and introducing innovative and
+creative product offerings, have contributed significantly
+to our improved market share. Invariably, this also exposes
+us to potential business risks. Cognisant of the impacts of such potential risks, we have
+in place a robust and comprehensive risk management
+framework, encompassing risk identification, impact
+assessment and mitigation plans.
+[MDA_P025]
+Such risks are keen
+competition for market space, rising inflation, high food
+costs, liberalisation of fuel subsidies, labour shortage and
+escalating concerns on environmental sustainability. Given the gradual return to economic normalcy, we
+anticipate a heightened flow of tourists to the Klang Valley
+and of Singaporean visitors to Johor Bahru. Certainly, while there are risks to be anticipated, we feel
+there are larger opportunities on the immediate horizon
+to support the achievement of the Group’s commercial
+objectives and the sustainability of its operations for the
+future. Specific details on SDS’s risk management are provided in
+the Statement on Risk Management and Internal Control
+of this Annual Report. O

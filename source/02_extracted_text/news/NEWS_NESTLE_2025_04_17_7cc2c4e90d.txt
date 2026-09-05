@@ -1,0 +1,14 @@
+[TITLE]
+FBM KLCI shrugs off slow start as China investment optimism lifts
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/17/fbm-klci-shrugs-of-slow-start-as-china-investment-optimism-lifts
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The positive sentiment surrounding the investment deals made during China President Xi Jinping's visit to Malaysia spurred buying interest in Bursa Malaysia. Shurugging off a slow start, the market's main index rose 7.86 points to 1,484.78 at midday. Among the leading heavyweights, Nestle rose RM2.54 to RM79.58, 99 Speed Mart gained 10 sen to RM2.21 and PETRONAS Chemicals climbed five sen ot RM3.12. The market's lower liners also received some investor attention as advancing issues outnumbered decliners by a 1.08-to-1 ratio on Bursa Malaysia.
+
+[NEWS_P002] The volume on the stock exchange was 1.52 billion shares for a transacted value of RM760.83mil. Meanwhile, leading Asian markets were mostly positive. Japan's Nikkei was up 0.94% to 34,239. Shanghai's composite index rose 0.21% to 3,282 and Hong Kong's Hang Seng gained 1.62% to 21,398. Singapore's Straits Times index added 1.37% to 3,712.

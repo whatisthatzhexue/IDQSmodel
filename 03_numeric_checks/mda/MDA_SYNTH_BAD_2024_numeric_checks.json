@@ -1,0 +1,44 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 20.0,
+      "current_value": 120.0,
+      "direction_word": "increased",
+      "metric": "revenue",
+      "note": "Revenue: stated 50.00%, calculated 20.00%, status material_discrepancy.",
+      "previous_value": 100.0,
+      "source_text": "Revenue increased by 50% from RM100 million to RM120 million",
+      "stated_pct": 50.0,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": -10.0,
+      "current_value": 45.0,
+      "direction_word": "decreased",
+      "metric": "profit",
+      "note": "Profit: stated -10.00%, calculated -10.00%, status consistent.",
+      "previous_value": 50.0,
+      "source_text": "Profit decreased by 10% from RM50 million to RM45 million",
+      "stated_pct": 10.0,
+      "status": "consistent"
+    }
+  ],
+  "document_id": "MDA_SYNTH_BAD_2024",
+  "has_cost_discussion": false,
+  "has_margin_discussion": false,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": false,
+  "internal_check_notes": [
+    "Revenue: stated 50.00%, calculated 20.00%, status material_discrepancy.",
+    "Profit: stated -10.00%, calculated -10.00%, status consistent."
+  ],
+  "num_calculable_changes": 2,
+  "num_consistent_checks": 1,
+  "num_financial_mentions": 4,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

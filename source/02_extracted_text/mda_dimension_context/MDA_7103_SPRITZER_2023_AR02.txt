@@ -1,0 +1,60 @@
+document_id: MDA_7103_SPRITZER_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 19, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P006]", "note": "margin: stated 10.40%, calculated 6.32% from profit/revenue, status material_discrepancy.", "source_text": "Revenue, Results and Dividend The Group recorded a new high in annual revenue of RM490.7 million in the financial year ended December 31, 2023, a significant increase of 13% from the previous year’s revenue of RM433.3 million, mainly due to the increase in sales volume and better average selling pri", "status": "material_discrepancy"}], "document_id": "MDA_7103_SPRITZER_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 87, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+ECONOMIC OVERVIEW
+The Malaysian economy grew moderately by 3.7% in 2023, following a robust expansion of 8.7% recorded in the previous
+year. The slower growth in 2023 is attributed to the weakness in the manufacturing and export-oriented sectors amid weak
+global demand. Moreover, escalating geopolitical conflicts, inflationary pressure and volatile currency exchange rates have
+added further strain. However, the robust domestic demand, firm labour market and improving tourism activities continued
+to support the overall economic growth. Despite the less favourable economic conditions, the demand for our bottled water products has remained strong throughout
+the financial year ended December 31, 2023. Our revenue has improved strongly by 13% for the year ended December
+31, 2023. The sales of our bottled water products have remained favourable mainly due to the robust demand, the strong
+recovery in tourism activities and the hot weather environment. Our innovative branding, marketing and promotional
+activities and our ability to cope with the surge in demand have also enabled us to deliver a strong performance for the year.
+[MDA_P002]
+BUSINESS AND OPERATIONS OVERVIEW
+We are a pioneer and the industry leader with 35 years of manufacturing, branding, marketing and distribution excellence
+in the Malaysian bottled water industry. Our Group is principally involved in the manufacturing, marketing and distribution
+of a comprehensive range of bottled water products. With annual turnover of RM491 million and a market capitalisation of
+RM578.8 million as at December 31, 2023 (2022: RM463.7 million), our Group is the largest and most integrated bottled
+water producer in Malaysia with a commanding market share of above 40%. Our core brands are Spritzer, Spritzer Sparkling,
+Spritzer Tinge, Spritzer So Tinge, Cactus, Desa and Summer which are also the leading brands in their respective market
+segments in the Malaysian bottled water industry. Our Group has three bottled water plants and one plastic packaging manufacturing plant in Malaysia. Our main mineral
+water plant is located in Taiping, Perak with the second mineral water plant in Yong Peng, Johor and the third drinking
+water plant in Shah Alam, Selangor. Our plastic packaging manufacturing plant is located in Ipoh, Perak.
+[MDA_P003]
+The Group has an
+annual production capacity of about 1 billion litres of bottled water as of December 31, 2023. Our operations are primarily
+in Malaysia and our export sales currently make up of less than 10% of our Group’s revenue. We also have a wholly owned
+trading company operating in Guangzhou, China which has, in April 2016, started its operations of selling and wholesale
+distribution of bottled water products in Guangzhou and other parts of China. The Group also exports its mineral water
+products under the brand name ACILIS by Spritzer to United Kingdom and Netherlands. In January 2023, the Group has acquired a 30% interest in an associated company, The Tapping Tapir Sdn Bhd, a company
+principally involved in the manufacturing, producing and distribution of beverages, namely naturally flavoured sparkling
+sodas. As of December 31, 2023, the Group has a workforce of 1,036 employees (2022: 960).
+[MDA_P004]
+For Financial Year Ended December 31, 2023
+STRATEGIC DIRECTION
+Being the largest, most integrated and the leading bottled water
+company in Malaysia, we are committed to delivering to all our
+consumers of our high quality bottled water products with special focus
+on health benefits and at the same time, satisfying the sophisticated
+taste preference and the hydration needs of our consumers. We will
+continue to increase our product range to strengthen our leading
+position in the Malaysian bottled water industry. We will constantly
+improve our processes across our value chain and at the same time,
+improving our market coverage and sales volume. We will strive to
+improve our positions in the various markets where we are currently
+operating. We are also exploring business opportunities and investment
+in the beverage industry. We are also actively exploring and have started introducing sustainable
+packaging alternatives for our Spritzer bottled water products. We also
+collaborate with other stakeholders to jointly manage packaging waste
+and improve collection and recycling rates for a greener Malaysia and
+a more sustainable, waste-reduced future.

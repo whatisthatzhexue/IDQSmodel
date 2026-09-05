@@ -1,0 +1,174 @@
+document_id: MDA_2836_CARLSBG_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 47, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+We essentially suspended
+production and distribution in compliance
+with unprecedented restrictions, which led
+to business disruption. From
+the
+beginning,
+we
+began
+engaging with our stakeholders in
+earnest, communicating our efforts
+to contain the virus and offering
+support and reassurance to our
+employees, business partners and
+customers. Our community efforts
+remained, with our Safer Schools
+campaign a new step-up in
+response to public fears over the
+outbreak of COVID-19. Our brewery was finally allowed to
+resume full operations following the
+start of the Conditional MCO (CMCO)
+period in Malaysia on 4 May 2020. Thankfully,
+from
+May
+onwards,
+we saw a gradual lifting of social
+distancing measures in Malaysia,
+though not all on-trade businesses
+such as entertainment outlets were
+allowed to operate. In Singapore, the
+government announced on 19 June
+2020 that on-trade outlets were only
+to re-open partially under ‘new normal’
+guidelines.
+[MDA_P008]
+In 2020, SAIL’22 took on an overarching theme of ‘Navigating the Storm’ in recognition of the Group’s COVID-19 response measures
+necessary for business continuity and sustainability.
+[MDA_P009]
+Statements from Our Leadership
+MANAGING DIRECTOR’S MESSAGE
+AND MANAGEMENT DISCUSSION & ANALYSIS
+OUR TWO ENABLERS
+OUR SEVEN STRATEGIC PRIORITIES
+CREATE A
+WINNING CULTURE
+DEFEND OUR LICENSE
+TO OPERATE
+‘Grow in Mainstream’ with Carlsberg Danish Pilsner
+and Carlsberg Smooth Draught
+‘Win in Each Store’ with better in-store execution,
+a step-up from the previous ‘Win in Store’
+‘Fund the Journey’ by delivering efficiencies in
+Operating Expenses, Value Management and the
+Supply Chain
+‘Go Big in Premium’ with Kronenbourg 1664 Blanc,
+Somersby cider, Asahi Super Dry and Connor’s
+Stout Porter
+‘Innovate with Digital’ replacing ‘Build New
+Revenue Streams’
+Achieve ‘Organic Growth in Operating Profit’
+Deliver ‘High and Stable Dividend Yield’ for
+shareholders
+Amidst all the uncertainties, whether from COVID-19, domestic and global macroeconomics or socio-politics, we remained agile and
+disciplined in implementing our SAIL’22 priorities, especially on our Fund the Journey initiatives and an ever-increased focus on cost
+control, embedded in our Malaysia and Singapore operations.
+[MDA_P022]
+Statements from Our Leadership
+MANAGING DIRECTOR’S MESSAGE
+AND MANAGEMENT DISCUSSION & ANALYSIS
+Spurred on by the pandemic, we embraced
+digital at a swift pace, successfully
+repositioning our brand campaigns for
+both on- and off-trade in response to the
+new norms. In Malaysia, we amplified our off-trade
+activities with consumer promotions while
+activating all our national campaign and
+consumer promotions on our e-commerce
+partners’ platforms Shopee and Lazada,
+where we established official stores in
+2020. We increased our focus on social media
+engagement to create more traffic to
+e-commerce platforms, in sampling and
+via virtual events such as 1664’s ‘Share
+Good Taste with a Twist’ launch and the
+Connor’s Perfect Pour Battle. Brand innovations continue to play
+an important role through packaging,
+serving and liquid improvement, but with
+an added digital dimension such as that
+seen through Adopt a Keg’s novel way of
+consumer and customer engagement via
+an online platform.
+[MDA_P025]
+Each 330ml serving contains not more
+than 99 calories and only two grams
+of carbohydrates, resulting in no heavy
+aftertaste compared to other alcoholic
+alternatives. Carlsberg
+Singapore
+also
+welcomed
+the latest member of its Somersby
+portfolio with a limited-edition Somersby
+Watermelon cider launched in June and
+became the first market in Asia to do so. Due to fantastic consumer response, we
+ride on its success and have just launched
+Watermelon variant for consumers in
+Malaysia in March this year. In Malaysia, the cider brand celebrated
+Apple Day in October with a special
+three-day promotion on four-can packs
+of
+Somersby
+Apple,
+Blackberry
+or
+Elderflower
+Lime,
+while
+brightening
+up
+stay-at-home
+drinking
+occasions
+with limited-edition Somersby Shooter
+& Ladder game sets and exclusive
+Somersby Cocktail Kits with suggested
+cocktail recipes. Somerita, a fun drinking ritual of a
+Somersby bottle served upside down
+over crushed ice, made its return at more
+than 150 selected bistros and restaurants
+across Malaysia. INNOVATE WITH DIGITAL
+[MDA_P028]
+In addition, the Group has also proposed
+a FINAL single tier dividend of 30 sen per
+ordinary share, subject to the shareholders’
+approval at the forthcoming 51st Annual
+General Meeting. If approved, the total dividends declared for
+FY20 would amount to 40 sen per ordinary
+share, equivalent to a total payment of
+RM122.3 million comprising 75.4% of total
+Group net profit for FY20. Given the unprecedented impact, uncertainty
+and volatility of the pandemic, the Board
+suspended quarterly dividend payments
+for the financial year ending 31 December
+2020 (FY20). This difficult decision was made to preserve
+cash and liquidity, striking a balance
+between our company’s long-term health
+versus our track record of delivering value
+to shareholders. With any recovery expected to be slow
+and bumpy, we decided to take a prudent
+approach to conserve cash and protect the
+business. DIVIDENDS AND
+SHAREHOLDER VALUE
+Revenue (RM million)
+Earnings per Ordinary Share (sen)
+Group Net Profit (RM million)
+1,982.3
+2,256.6
+1,785.0
+277.2
+291.0
+162.2
+Return on Shareholders’ Fund (%)
+90.7
+95.2
+53.0
+122.5
+189.2
+105.1

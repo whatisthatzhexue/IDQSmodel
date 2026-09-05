@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia ends morning session lower ahead of Budget 2026
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/10/bursa-malaysia-ends-morning-session-lower-ahead-of-budget-2026
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended the morning session lower, tracking the weaker performance across regional markets, as investors stayed on the sidelines ahead of the Budget 2026 announcement this evening. Prime Minister Datuk Seri Anwar Ibrahim is scheduled to table Budget 2026 in the Dewan Rakyat at 4 pm today. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) slipped 3.01 points to 1,626.66 from Thursday's closing of 1,629.67. The benchmark index opened 1.51 points lower at 1,628.16, and moved between 1,621.74 and 1,628.21 throughout the morning session.
+
+[NEWS_P002] The broader market was negative with 552 decliners outnumbering 323 gainers, while 494 counters were unchanged, 1,260 untraded and eight suspended. Turnover stood at 2.04 billion shares worth RM1.25 billion. Malacca Securities Sdn Bhd expects the FBM KLCI to trade on a cautious note, as investors may adopt a "wait-and-see” approach ahead of Budget 2026, which is set to be released this evening. "Additionally, we believe traders could start to position themselves in the glove sector, supported by Top Glove’s earnings beat and the potential for a turnaround in industry sentiment.
+
+[NEWS_P003] "We also believe that glove stocks are trading at deep value, with structural demand and ongoing supply rationalisation expected to provide the sector with a long-term upside,” the brokerage said in a note today. Among the heavyweights, Maybank eased five sen to RM9.95, CIMB Group fell one sen to RM7.56, IHH Healthcare slipped two sen to RM8.08, and Tenaga Nasional was flat at RM13.28, while Public Bank was one sen higher at RM4.30. On the most active list, Top Glove increased one sen to 68 sen, Tanco bagged half-a-sen to 85.5 sen, while Hartalega erased six sen to RM1.24, V.S Industry eased half-a-sen to 56 sen, and TWL remained unchanged at three sen.
+
+[NEWS_P004] Top gainers included VSTECS, up 30 sen to RM4.29, Gas Malaysia advanced 15 sen to RM4.80, Hong Leong Bank climbed 14 sen to RM20.64, while Hong Leong Financial and Allianz were 12 sen higher at RM17 and RM18.12, respectively. Of the top losers, Nestle declined RM1.06 to RM98.50, Malaysian Pacific Industries slid 52 sen to RM30.64, Kuala Lumpur Kepong was 24 sen lower at RM20.44, KESM dropped 19 sen to RM3.71, and Vitrox trimmed 18 sen to RM4.36. On the index board, the FBM Emas Index fell 23 points to 12,158.35, the FBM 100 Index dropped 24.58 points to 11,883.12, and the FBM Emas Shariah Index decreased 19.03 points to 12,227.08.
+
+[NEWS_P005] The FBM 70 Index dipped 46.59 points to 17,207.01, while the FBM ACE Index edged down 10.74 points to 5,280.39. Sector-wise, the Industrial Products and Services Index inched down 0.24 of a point to 174.62, the Plantation Index erased 14.73 points to 7,889.72, and the Financial Services Index narrowed 33.22 points to 18,419.63, while the Energy Index bagged 5.40 points to 800.36. - Bernama

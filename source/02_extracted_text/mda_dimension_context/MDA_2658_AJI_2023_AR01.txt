@@ -1,0 +1,253 @@
+document_id: MDA_2658_AJI_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 52, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION & ANALYSIS
+Inauguration of
+Effluent Treatment
+Management
+(SALAM)
+Corporate name
+was changed to
+Ajinomoto
+(Malaysia)
+Sdn Bhd
+Company name
+was changed to
+Ajinomoto
+(Malaysia) Berhad
+as the public
+company
+Commencement of
+AJI-NO-MOTO®
+plant operation
+Awarded HALAL
+Certification
+Establishment
+of ASEAN
+Application
+Centre
+Launch of AJI-SHIO®
+Table Topping
+Seasoning
+• Launch of PAL SWEET®
+Sweetener
+• Launch of Hydrolysed
+Vegetable Protein (HVP)
+Powder
+Launch of
+AJI-PLUS™
+Blended Flavour
+Enhancer
+Launch of
+AJI.MIX™
+Blended
+Seasoning
+Awarded
+ISO 9001
+Certification
+Launch of
+TUMIX® Stock
+Seasoning
+• Launch of
+VONO®
+Instant Soup
+• Launch of
+ACTIVA™ TG
+Series
+Awarded
+OSHAS 18001
+Certification
+50th
+Anniversary
+of Ajinomoto
+(Malaysia)
+Berhad
+Establishment
+of Chicken
+Meat
+Powder Plant
+Hydrolysed
+Vegetable
+Protein (HVP)
+process
+improvement
+Launch of
+Seri-Aji® Menu
+Specific
+Seasoning
+Launch of Slim Up™
+Sweetener
+Awarded
+HACCP
+Certification
+Awarded
+ISO 14001
+Certification
+Launch of
+AJINOMOTO®
+Chicken Stock
+Launch of
+AJI-AROMA™
+Flavour Enhancing
+Seasoning
+Establishment
+of Ajinomoto
+(Malaya)
+Co., Ltd
+Launch of AJI-EKI™
+(Hydrolysed
+Vegetable Protein
+Liquid)
+• Establishment of Production
+2 (seasonings and food
+production line) factory
+• Launch of AJIMATE™ Taste
+Enhancing Seasoning
+• Awarded AJI-NO-MOTO®
+Product Certification
+• Launch of
+Rasa Sifu™
+All in One
+Seasoning
+• Launch of
+aminoVITAL®
+Jellly Flavoured
+Drink with
+Amino Acids
+• Launch of Seri-Aji®
+Fritter Seasoned
+Flour
+• Launch of Seri-Aji®
+Banana Fritter Flour
+Establishment of new
+plant at Bandar Enstek,
+Negeri Sembilan, as a
+'Global
+Customer-Centric Halal
+Food Company'
+• Launch of Seri-Aji® Curry Fried Rice Seasoning
+and Seri-Aji® Chicken Soup Seasoning Powder
+Launch of AJINOMOTO® Chicken Gyoza
+Launch of AJIRISE™ K and AJIRISE™ UM
+Our Business
+History & Milestones
+$MLQRPRWR
+0DOD\VLD
+%HUKDG
+´WKH&RPSDQ\µ
+ÀUVWVWDUWHGLWVEXVLQHVVRSHUDWLRQLQ0DOD\VLDLQ
+DVDPRQRVRGLXP
+glutamate (“MSG”) distributor imported from its parent company in Japan under the brand, AJI-NO-MOTO®.
+[MDA_P007]
+AJINOMOTO SALES BRANCHES
+in Malaysia & Middle East
+KUCHING, SARAWAK
+KOTA KINABALU, SABAH
+MELAKA
+BATU PAHAT, JOHOR
+JOHOR BAHRU, JOHOR
+KUANTAN, PAHANG
+BANDAR ENSTEK,
+NEGERI SEMBILAN
+KUALA LUMPUR
+IPOH, PERAK
+PENANG
+ALOR SETAR, KEDAH
+NEW FACTORY
+KILANG BAHARU
+SALES BRANCHES
+CAWANGAN-CAWANGAN JUALAN
+HEAD OFFICE
+PEJABAT UTAMA
+SAUDI ARABIA
+JEDDAH
+OCEANIA
+OCEANIA
+MIDDLE EAST
+TIMUR TENGAH
+AFRICA
+AFRIKA
+SOUTH AMERICA
+AMERIKA SELATAN
+ASIA
+ASIA
+OVERSEAS MARKET
+Countries where we export our product to
+[MDA_P008]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W)
+ANNUAL REPORT 2023
+RM742.0MIL
+TOTAL
+ASSETS
+RM603.7MIL
+REVENUE
+45.22SEN
+EARNINGS
+PER SHARE
+5.20%
+RETURN
+ON EQUITY
+9.10SEN
+ORDINARY
+DIVIDENDS
+PER SHARE
+(DECLARED)
+RM15.9MIL
+PROFIT
+BEFORE TAX
+NET SALES BY
+GEOGRAPHICAL
+AREA
+(RM MILLION)
+NET SALES
+BY BUSINESS
+(RM MILLION)
+Consumer
+Business
+RM462.1
+Industrial
+Business
+RM141.7
+Malaysia
+RM345.7
+Other Asian
+Countries
+RM118.2
+Middle East
+RM132.6
+Others
+RM7.2
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d.)
+Financial Results
+Snapshot
+[MDA_P010]
+3URÀWIRUWKH\HDULQFUHDVHGIURP50PLOOLRQLQWKHSUHFHGLQJÀQDQFLDO\HDUWR50PLOOLRQLQ)<(GXH
+WR WKH WD[ ZULWH EDFN RI 50 PLOOLRQ LQ WKH FXUUHQW ÀQDQFLDO \HDU 7KH WD[ ZULWH EDFN ZDV DWWULEXWHG WR WKH SULRU
+year’s income tax overprovision of RM3.7 million and deferred tax asset recognition of RM13.8 million for unutilized special
+UHLQYHVWPHQWDOORZDQFHZKLFKLVH[SHFWHGWRRIIVHWDJDLQVWWKH&RPSDQ\·VIXWXUHSURÀWV
+Segment Information
+Consumer Business
+Revenue in Consumer Business segment was RM462.1 million, soared by 33.1% as compared to the revenue of RM347.1
+PLOOLRQLQWKHSUHFHGLQJÀQDQFLDO\HDU7KHLQFUHDVHZDVFRQWULEXWHGE\WKHKLNHLQWKHVDOHVYROXPHDQGWKHEHWWHUVHOOLQJ
+SULFHRI$-,120272LQERWKWKHGRPHVWLFDQGH[SRUWPDUNHWVDVZHOODVVDOHRI780,;LQWKHGRPHVWLFPDUNHW3URÀW
+ZDV50PLOOLRQGHFUHDVHGE\50PLOOLRQDVFRPSDUHGWRWKHSURÀWRI50PLOOLRQLQWKHSUHFHGLQJÀQDQFLDO\HDU
+due to the increase in raw material prices particularly for AJI-NO-MOTO®, computer hardware and software maintenance
+costs and transitional costs from new factory relocation.
+[MDA_P011]
+Industrial Business
+Industrial Business segment recorded revenue of RM141.7 million, improved by 3.0% against revenue of RM137.6 million in
+WKHSUHFHGLQJÀQDQFLDO\HDUGXHWREHWWHUVHOOLQJSULFHRI7(1&+2LQGXVWULDOSURGXFWV3URÀWZDV50PLOOLRQUHGXFHG
+E\50PLOOLRQDVFRPSDUHGWRWKHSURÀWRI50PLOOLRQLQWKHSUHFHGLQJÀQDQFLDO\HDUGXHWRKLJKHUUDZPDWHULDO
+costs, computer software maintenance costs, research and development expenditure and transitional costs from new
+factory relocation. Financial Condition
+$VDW)<(7RWDO$VVHWVDQG7RWDO1HW$VVHWVLQFUHDVHGDVFRPSDUHGWRWKHSUHFHGLQJÀQDQFLDO\HDUGXHWR
+EHWWHUSURÀWIRUWKH\HDULQWKHFXUUHQWÀQDQFLDO\HDU1HWFDVKXVHGLQRSHUDWLQJDFWLYLWLHVIRUWKHFXUUHQWÀQDQFLDO\HDU
+ZDV50PLOOLRQZKLOHWKHQHWFDVKJHQHUDWHGIURPRSHUDWLQJDFWLYLWLHVLQWKHSUHFHGLQJÀQDQFLDO\HDUZDV50
+PLOOLRQGXHWRKLJKHUFRVWRIUDZPDWHULDOV1HWFDVKXVHGIRULQYHVWLQJDFWLYLWLHVZDV50PLOOLRQGXULQJWKHÀQDQFLDO
+year due to payment of capital expenditure incurred in the new manufacturing facilities.

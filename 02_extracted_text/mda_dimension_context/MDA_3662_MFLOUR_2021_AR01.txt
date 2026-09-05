@@ -1,0 +1,112 @@
+document_id: MDA_3662_MFLOUR_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 8, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P002]
+ANNUAL REPORT 2021 - Malayan Flour Mills Berhad
+to favourable margin arising from higher sales
+volume of fl our and increased selling prices in 2021. On the contrary, grains trading business recorded an
+operating loss for fi nancial year 2021 due to lower
+demand and higher commodity cost which negated
+the higher grains selling prices. The Group recorded a profi t after tax from
+discontinued operations of RM137.52 million. The discontinued operations are in respect of the
+poultry integration segment which comprise poultry
+farming, feed milling and poultry processing. The
+RM137.52 million represents the results of the poultry
+integration segment up to 31 May 2021 amounting
+to a loss of RM36.75 million which was set off by
+a one-off gain on deconsolidation of subsidiaries of
+RM174.26 million. As at 31 December 2021, our Group’s total assets
+stood at RM2.73 billion with cash and cash
+equivalents of RM534.53 million.
+[MDA_P003]
+Our Group’s
+Earnings before interest, taxes, depreciation and
+amortisation (“EBITDA”) from continuing operations
+after fair value loss arising from remeasurement of
+contingent consideration receivable and provision
+for profi t guarantee payment of RM77.87 million
+and RM15.00 million respectively, decreased by
+20.6% to RM123.15 million in the current fi nancial
+year as compared to RM155.10 million previously. Review of Operation
+In 2021, in spite of the challenges faced from
+COVID-19 pandemic with several lockdowns in
+the country, rising cost of raw material and low
+utilisation of capacity, our Group’s revenue grew
+by 14.5% to RM2.43 billion mainly due to higher
+sales volume and selling prices. The grains sales
+volume was 18% lower than previous year due to
+the lower demand of feeds. Despite the operating
+losses from the grains business, the performance
+from fl our milling business had more than offset
+the losses resulting in the Group’s operating profi t
+increasing to RM183.25 million.
+[MDA_P004]
+The Group’s share of profi t from the joint venture
+in Indonesia, PT Bungasari Flour Mills Indonesia
+(“BFMI”) amounted to RM8.2 million as compared
+to a share of profi t of RM1.0 million in the preceding
+year. The higher share of profi t is mainly driven by
+increased sales volume and better margins earned. Amidst positive progress in the fl our and grains
+trading segment, we will continue our efforts to
+drive production effi ciency through better fl our
+extraction and blending process. The Group’s share of loss from joint venture, DTSB
+stood at RM10.47 million for the 7 months ended
+31 December 2021. The 12 months results of DTSB
+Group in 2021 amounted to a loss of RM57.27
+million as compared to RM88.42 million in 2020
+mainly due to recognition of deferred tax income of
+RM36.02 million arising from unabsorbed tax losses
+and unutilised capital allowances as compared to
+RM9.22 million in the preceding year. Despite the immense challenges in the poultry
+integration segment in 2021, we are continuously
+implementing progressive efforts to improve feeds
+quality, better farm-house hygiene and higher bio-
+security controls to mitigate future spread of diseases
+and improve broilers quality.
+[MDA_P005]
+With the improvements
+on track, we will be able to reduce production
+costs through optimum feed conversion ratio and
+lower mortality rate. With the commissioning of our
+new poultry processing plant in Kampung Acheh,
+Sitiawan, Perak, processing capacity had increased
+by 3 times to slaughter live chickens and further
+process into higher value-added products for a wider
+industry base, retailers and consumers. This would
+reduce the segment’s exposure to the volatile prices
+in live bird trading and generate better profi tability
+from value-added products.
+[MDA_P006]
+ANNUAL REPORT 2021 - Malayan Flour Mills Berhad
+Anticipated or Known Risks
+Food safety and compliance to standards are top
+priorities for us as a food manufacturer as usage
+of fl our and poultry is very wide and diverse and it
+cut across different cultural background, race and
+religion. To ensure our customers and consumers
+can use products produced by us without any
+worry or doubt, we have implemented Hazard
+Analysis and Critical Control Points (“HACCP”) in
+all our manufacturing facilities. At the same time,
+all our products are halal certifi ed by Department
+of Islamic Development Malaysia (“JAKIM”) and are
+subject to annual compliance audit. Due to the nature of the fl our industry which is
+highly dependent on global wheat prices, we will
+continually monitor the global wheat prices to
+ensure that the fl our business continues to remain
+profi table. Due to the nature of the poultry industry which
+faces inherent risk of avian diseases outbreak,
+we are always vigilant in managing our farms with
+comprehensive bio-security measures in place.
+[MDA_P008]
+ANNUAL REPORT 2021 - Malayan Flour Mills Berhad
+Achieving greater
+heights in our drive to
+manage sustainability
+ANNUAL REPORT 2021 - Malayan Flour Mills Berhad

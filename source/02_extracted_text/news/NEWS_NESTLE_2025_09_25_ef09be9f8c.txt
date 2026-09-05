@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI slips under 1,600 after Wall St retreats on stretched valuations
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/25/fbm-klci-slips-under-1600-after-wall-st-retreats-on-stretched-valuations
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI fell below the 1,600 psychological support as profit-taking intensified amid a pullback in US equities as investors lost their nerve over the sky-high valuations of equities. US traders cashed out some of their profits overnight following remarks by Federal Reserve chair Jerome Powell that stocks were overvalued. Also weighing on sentiment, a highly anticipated US inflation report this week could prove a major setback to hopes over more aggressive rate cuts by the central bank, which has put investors on a more cautious footing.
+
+[NEWS_P002] On Bursa Malaysia, the benchmark index flopped 4.21 points to 1,595.45 after the first 10 minutes of trading as the market succumbed to consolidation. Rakuten Trade had a more positive takeaway from the previous day's trading despite the onset of profit-taking activities. "This healthier level of activity reflects investors’ willingness to participate, which could provide a foundation for the index to stabilise and potentially recover when fresh catalysts emerge.
+
+[NEWS_P003] As such we foresee the benchmark index to trend within the range of 1,595-1,610 for today," it said in a note. Early laggards on the blue-chip inedx included Nestle down 28 sen to RM96.32, PETRONAS Dagangan shedding 24 sne ot RM22.06 and MISC dropping six sen to RM7.22. Notable decliners included Apollo Food , which continued its descent after a disappointing quarterly earnings results, dropping eight sen to RM6.20, while Unisem slid seven sen to RM2.77.
+
+[NEWS_P004] Of actives, NexG Bina, formerly known as Classita Holdings, rose one sen to 10 sen with over 57 million shares traded. TWL gained 0.5 sen to three sen with 10.78 million shares done and NexG added 0.5 sen to 52 sen after 6.98 million shares crossed.

@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Mah Sing, Vestland, Uzma, Aeon Credit, United Malacca, Lotus Circular, Poh Huat, MyNews
+
+[METADATA]
+ticker: LOTUS
+company_name: Lotus KFM Berhad
+publish_date: 2024-12-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/20/trading-ideas-mah-sing-vestland-uzma-aeon-credit-united-malacca-lotus-circular-poh-huat-mynews
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Mah Sing Group Bhd , Vestland Bhd , Uzma Bhd , Aeon Credit Service (M) Bhd , United Malacca Bhd , Lotus Circular Bhd (LCB), Poh Huat Resources Holdings Bhd , MyNews Holdings Bhd and Binastra Corp Bhd are among the stocks to watch on Friday. Mah Sing Group Bhd has acquired 5.99 acres of freehold land in Johor for RM156.8mil and plans to develop premium serviced apartments and retail units with an estimated gross development value of RM1.5bil.
+
+[NEWS_P002] Uzma has secured a contract worth RM44.15mil solar photovoltaic (PV) plant project in Kedah from Samaiden Sdn Bhd. Aeon Credit’s net profit for the third quarter of the financial year ended Feb 28, 2025 (3Q 2025) fell to RM62.07mil from RM85.55mil last year. Revenue rose 15.5% to RM562mil versus RM486.51mil posted a year ago. United Malacca’s net profit more than doubled to RM30.9mil, or earnings per share of 14.74 sen in the second quarter ended Oct 31, 2024 (2Q25), compared with RM13.7mil, or 6.54 sen, posted in the same period last year.
+
+[NEWS_P003] Revenue for the quarter rose 26.9% to RM183.4mil versus RM144.5mil posted a year ago. LCB has proposed to acquire the entire equity interest in Earthwise Resources Sdn Bhd and the entire equity interest in Expert Resource Management Sdn Bhd for a total purchase consideration of RM100mil. For the financial year ended Oct 31, 2024, Poh Huat posted a net profit of RM29.3mil, up 9.9% from RM26.7mil while revenue expanded 11.11% to RM475.7mil against RM428.1mil last year.
+
+[NEWS_P004] MyNews saw its net profit surge to RM3.76mil in the fourth quarter ended Oct 31, resulting in a full-year net profit of RM9.4mil. Revenue for the quarter reached RM208.4mil, contributing to a total annual revenue of RM804.2mil. Vestland’s wholly-owned subsidiary, Vestland Resources Sdn Bhd (VRSB) has secured a construction contract worth RM70mil from Sg. Besi Construction Sdn Bhd. Binastra’s net profit more than doubled to RM24.2mil in the third quarter ended Oct 31, with revenue jumping to RM265.9mil from RM120.9mil in the same quarter last year.
+
+[NEWS_P005] Overnight, the Dow Jones Industrial Average rose 0.04% to 42,342.24, the S&P 500 lost 0.09% to 5,867.08 and the Nasdaq Composite lost 0.10% to 19,372.77.

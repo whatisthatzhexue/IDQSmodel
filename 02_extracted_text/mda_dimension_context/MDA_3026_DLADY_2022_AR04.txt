@@ -1,0 +1,140 @@
+document_id: MDA_3026_DLADY_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 67, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+DUTCH LADY MILK INDUSTRIES BERHAD | INTEGRATED ANNUAL REPORT 2022
+MANAGING DIRECTOR’S
+REPORT
+DUAL DILEMMA & DAIRY LEADERSHIP
+The dynamics of business have changed over the
+last three years. In 2022, the market continued to
+perform but with uncertainty. There was no stability
+in price movements and trade behaviour. Supply chain
+disruptions affected incoming raw materials and their
+prices. As a result, supply chain and procurement
+from business continuity and resilience perspectives
+were in the limelight replacing the traditional lead role of
+commercial. Local and international political and policy
+contexts made markets even more fragile. Regulatory
+landscape kept evolving, especially in relation to
+responsible business conduct and sustainability. Against
+this backdrop, in our position and approach, we remained
+cautiously optimistic.
+RAMJEET KAUR VIRIK
+Managing Director
+[MDA_P005]
+Management Discussion & Analysis
+During the year, we continued to focus on fulfilling the nutritional
+needs of Malaysians, while striving to build resilient communities
+and business. With our undivided focus on efficiency and equity
+principles, our mid- to long-term goal has been to build a sustainable
+ecosystem. 2022 was all about creating positive value for both
+our shareholders and critical stakeholders. With these agile ways of work, our dairy leadership in
+Malaysia since 1963 is supported by our brand loyalists
+across generations. In 2022, we retained our market
+position as No.1 dairy producer and remained the largest
+purchaser of local fresh milk. absorbing
+the
+inflationary
+costs
+through optimisation measures to
+ensure the burden of price increase
+is
+only
+partially
+transferred
+to
+consumers. tapping the potential of our critical
+mass of over 400 local farms and
+FrieslandCampina’s
+regional
+and
+global network to ensure supply of raw
+materials to meet the demand. CRITICAL CHALLENGE & COLLABORATION
+During the year, we saw the transition of physical
+environment to digital solutions.
+[MDA_P007]
+MANAGING DIRECTOR’S REPORT
+At Dutch Lady Milk Industries Berhad (DLMI), we faced the
+dual dilemma. First was to keep our products accessible
+and affordable even with an increase in the price points,
+mainly due to the unprecedented inflation rate that stood
+at 8.9% (Euromonitor 2022) globally and 3.3% (Dept. of Statistics Malaysia, FY2022) in Malaysia. Second
+was related to our survival and winning profitably amid
+supply chain disruptions and while meeting the consumer
+demand. We successfully addressed these by:
+In 2022, we retained our
+market position as
+no.1 dairy producer
+and remained the
+largest purchaser
+of local fresh milk
+#1
+[MDA_P010]
+Our future plans in these two areas are supported by the need to improve work-life balance, contribute to
+positive physical and mental well-being, improve the morale and overall, productivity and performance of
+our people. Towards this, engagement is key, and we recorded an engagement index of 81 through Over2You
+engagement platform and 5 points above the external benchmark. This is encouraging, given our ambitious plan
+to nurture our people. In addition, we also joined industry initiatives such as the 30% Club and CEO Action Network to expand our
+focus as well as support from diversity to the principles of equity and inclusion. In the long-term, our aspiration
+is to embed DEI in philosophy and in practice across all processes that govern our relationships at workplace as
+well as in the marketplace. For more information on how we are committed to accelerating our people agenda, please refer to Sustainability Statement on
+pages 52-79 of this Integrated Annual Report. PURPOSE
+PEOPLE
+We examined
+efficiency and
+equity as two
+principles which will
+steer our
+EES&G
+performance
+[MDA_P016]
+Competition
+[MDA_P017]
+One
+of
+the
+many
+triggers
+of
+product
+performance is competition, which we welcome.
+We believe, the more the competition, the more
+we can collectively create greater awareness
+on issues such as malnutrition and obesity
+in Malaysia. In short, our performance on the
+mission to Nourish our Nation is catalysed by
+competition and accelerated by our continuous
+efforts to improve the nutritional content as
+well as formats of our products.
+[MDA_P019]
+DUTCH LADY MILK INDUSTRIES BERHAD | INTEGRATED ANNUAL REPORT 2022
+MANAGING DIRECTOR’S REPORT
+Our current year’s focus and performance are also a reflection of our potential. We understand the need to
+keep an eye on what lies ahead; explore new opportunities for learning and growth; and above all, future-
+proof our business, our people and our ecosystem.
+PERFORMANCE (continued)
+POTENTIAL
+b. Profit Performance:
+[MDA_P020]
+Profit
+from
+Expansion
+of
+Operations
+Profit before tax Capital spending in 2022
+includes costs related to the transition from
+our Production Facility @ Petaling Jaya to
+Bandar Enstek of RM166 million. These are
+predominantly accelerated depreciation of
+Plant and Equipment (from construction
+of the future Production Facility @ Bandar
+Enstek).
+For more information on how we are creating value
+for our shareholders, please refer to Financial
+Director’s Analysis as well as Financial Statements
+on pages 40-43 and pages 82-135 this Integrated
+Annual Report.

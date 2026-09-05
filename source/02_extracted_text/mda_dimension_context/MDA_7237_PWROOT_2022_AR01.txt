@@ -1,0 +1,99 @@
+document_id: MDA_7237_PWROOT_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 30, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+[MDA_P002]
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+Annual Report 2022
+Power Root was similarly affected by these challenges as we faced labour shortages in the short term. However, the
+Group as a whole responded with early proactive actions that helped mitigate the impact for FYE 2022 and we look
+forward to a new and better business environment in the coming year. THE BUSINESS ENVIRONMENT
+As pandemic restrictions continue to ease, governments are opening up national borders and loosening travel restrictions. The rapid economic pick-up, though, has seen supply chains struggling to cope. High demand for raw materials has
+caused pricing hikes amid scarcity, while logistics are scrambling to keep up with market movements. Against this backdrop, Power Root expects to build on what we achieved in FYE 2022. We have ingrained the Return on
+Investment (“ROI”) culture throughout our organisation in the past few years, and continue to focus on growing revenues
+with cost and control as the foundation of our growth. We have also improved communication across all functions with
+the business increasingly utilising technology in making data-driven decisions.
+[MDA_P003]
+Safety standards remain a priority as we
+continue to enhance a conducive working environment. DOMESTIC ACTIVITIES
+Operational Strategies
+On the local front, Power Root saw an increase in sales following the lifting of MCO 3.0. The relaxation of restrictions
+spurred the domestic market as consumers returned to their pre-pandemic shopping patterns. As activities picked up,
+the Group’s investment in the use of technology and employee training in smoothing out operational efficiencies are
+bearing fruit. The efforts we have put in to improve communication channels have resulted in better coordination across the different
+functions of the Group, from brand product development to marketing, sales and distribution as well as on the factory
+floor. The result is an increasingly seamless execution of business strategies and achievement of our corporate objectives
+in a timely manner. Such systematic implementation of our business strategies has also improved monitoring of our marketing 5Ps – product,
+price, promotion, place and people – and its effectiveness and enabled us to respond quickly and effectively.
+[MDA_P016]
+Livestreaming (real-time online selling entertainment programmes that include
+audience participation) which had become a popular marketing and sales tool, also took a hit as celebrity influencers
+were investigated as part of the government’s attempt to eliminate income disparity. Within this climate of restrictions, Power Root found it difficult to implement our marketing and sales plans. We made
+adjustments to our plans and explored different avenues for marketing and sales, and are preparing for China’s re-opening. The Group launched and promoted Ah Huat Charcoal Roast to our overseas markets in Hong Kong and Singapore
+during the year. Ah Huat Charcoal Roast was launched in Hong Kong with promotions in September and November
+2021. Meanwhile, in Singapore earlier in the year, we collaborated with Sunshine Bread in cross-collaboration marketing
+campaigns. Between April and June 2021, customers who purchased a loaf of Sunshine Bread Loaf were able to redeem
+two sachets of Ah Huat Charcoal Roast and for July 2021, buyers of a 65g Sunshine Cream Bun could redeem a sachet
+of Ah Huat Charcoal Roast.
+[MDA_P021]
+While production and supply were
+still vulnerable to stoppages due to sporadic positive cases along the supply line, these measures have minimised the
+disruptions in areas where we are able to control. The Group also faced higher operational costs due to labour market shortages across industries and the resulting rise in
+wages, as well as the implementation of the new minimum wages level policy. While Power Root faced price pressures
+and availability issues in sourcing for raw materials, our team has managed to minimise its impact through a far-sighted
+progressive purchasing strategy. FINANCIAL REVIEW
+For the FYE 2022, the Group recorded revenue of RM347.9million, an increase of approximately 12.5% from the revenue
+of RM309.2 million recorded in FYE 2021. This increase was due to higher local sales, particularly after the lifting of MCO 3.0, and the improved operational
+efficiencies and capabilities as outlined above. Revenue (RM’million)
+204.1
+165.2
+144.0
+143.8
+309.2
+Local
+Export
+347.9
+FYE 2021
+FYE 2022
+[MDA_P022]
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+Annual Report 2022
+MANAGEMENT DISCUSSION AND ANALYSIS
+cont’d
+Profit After Tax (“PAT”)
+For the FYE 2022, the Group recorded a PAT of RM26.3 million, a decrease of 7.1% from the PAT of RM28.3 million
+in FYE 2021.
+The decrease in PAT was due to higher staff costs with additional headcount required in operations, and the higher
+sales incentives incurred. Another factor was the higher operating expenses incurred due to increased advertising and
+promotion costs, and higher freight costs.
+Statement of financial position
+FYE 2022
+(RM’000)
+FYE 2021
+(RM’000)
+Total Assets
+386,382
+348,726
+Equity attributable to owners of the
+Company
+266,618
+265,529
+Total Liabilities
+119,703
+82,725
+Borrowings
+19,922
+Gearing (times)
+0.075
+0.003
+The Total Assets of the Group increased by RM37.7 million in FYE 2022 due to an increase in inventories, trade and
+other receivables, and cash and bank balances.

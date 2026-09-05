@@ -1,0 +1,116 @@
+document_id: MDA_5157_SG_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+Analysis of Revenue (Cont'd)
+The Management will continue to monitor the prospect of secondary Covid-19 outbreak leading to the re-imposition of containment
+measures. Therefore, the Management will continue to improve its production efficiency and increase its production capacity to
+capture a bigger market share in the HORECA and OEM segment which has higher profit margin while sustaining its market share for
+FPP segment during post pandemic while Malaysia moves to open its economic segment in stages. The Management continued to put
+effort in monitoring its cash flow management and cost reduction programme that is important in view of the ever-changing business
+environment amidst the on-going Covid-19 impact and in future years.
+[MDA_P003]
+Analysis of Profit/(Loss)
+FYE 2021
+FYE 2020
+01.08.2020
+to
+31.07.2021
+01.08.2019
+to
+31.07.2020
+Analysis of Profit and expenses :
+Profit/(Loss)
+Loss before tax
+(RM’000)
+(4,465)
+(28,007)
+Loss after tax
+(RM’000)
+(4,373)
+(30,611)
+Earnings/(Loss) before interest, taxes, depreciation and amortisation (“(L)/EBITDA”)
+(RM’000)
+1,214
+(21,611)
+Expenses
+Cost of goods sold (“COGS”)
+(RM’000)
+71,419
+91,077
+Administrative and selling expenses
+(RM’000)
+13,459
+14,824
+Finance costs
+(RM’000)
+1,294
+1,632
+The EBITDA of RM1.2 million was mainly due to the improvement in revenue and effect from the continuing cost reduction programme
+implemented. However, this positive impact was mitigated by implementation of lock down by Malaysia government during the 2nd half of
+FYE 2021. During the lock down measures implemented by the authorities, the Group was only able to work at 60% capacity that caused
+the Group to be unable to fulfill the market demand and eventually the revenue in 2nd half of FYE 2021 had been reduced by at least 40%.
+[MDA_P004]
+Furthermore, even though the reduction in production capacity caused a reduction in the Group revenue for 2nd half of FYE 2021, the
+overhead expenses have not been reduced as the Group needed to bear 100% fixed cost incurred during the period under review. Therefore, for the FYE 2021, the Group recorded LAT of RM4.4 million as compared to LAT of RM30.6 million in FYE 2020. The significant
+decrease in LAT due to there was inventories writen off of RM25 million in FYE 2020, while there was none in FYE 2021. Besides, the
+decrease in LAT also contributed by the effort of the management team which continues to implement cost efficiency and reduction
+programmes and the good strategy by management to concentrate on the FPP instead of HORECA in FYE 2021. Even though the Group recorded LAT of RM4.4 million during FYE 2021, the Group was still able to repay its bank borrowing and payables
+that is further discussed in the analysis on cash flow. Analysis of Expenses
+Our Group’s COGS decreased by RM19.7 million or 21.6% from RM91.1 million in FYE 2020 to RM71.4 million in FYE 2021.
+[MDA_P005]
+The reason for
+the decrease in COGS was mainly due to the inventories written off and rework of slow moving trading goods and sales of low margin
+products in FYE 2020. Furthermore, the reduction in COGS was also due to the effort of reducing overheads by programmes implemented
+by the management. Our Group’s administrative and selling expenses comprised mainly of marketing cost such as promotion expenses, listing of products
+cost, sales commissions, salaries and etc. The Group’s administrative and selling expenses reduced by RM1.4 million or 19.5% from RM14.8
+million in FYE 2020 to RM13.5 million in FYE 2021. The decrease was mainly due to the lean management implemented by the Group to
+reduce the selling and administrative costs. However, this reduction is mitigate by expected credit losses on trade receivables of RM1.5
+million in FYE 2021. The Group was able to improve the efficiency and reduce the employees expenses by RM0.9 million as compared
+to FYE 2020.
+[MDA_P006]
+This reduction in expenses was mainly contributed from the decrease in sales personnel salary and promotional expenses
+arising from the effectiveness in changing the sales model from direct retail selling model to distributorship model and also reduction in
+overtime costs during the financial year under review. Our Group’s finance cost has decreased by RM0.3 million or 20.7% from RM1.6 million in FYE 2020 to RM1.3 million in FYE 2021. Going
+forward, there should be minimum finance cost as technically the Group is in a “debts free” position. ANNUAL REPORT 2021
+[MDA_P007]
+Losses Per Share (“LPS”)
+The impact of the lock down in 2nd half of FYE 2021 and impairment
+for expected credit losses had contributed to an overall loss after
+tax of RM4.4 million. As such, our Group has recorded loss per share
+of 1.47 sen for FYE 2021 as compared to loss per share of 18.04 sen
+in FYE 2020. Cash Flow Analysis
+FYE 2021
+FYE 2020
+(RM’000)
+(RM’000)
+Operating cash flow before
+working capital change
+2, 831
+2,240
+Changes in working capital
+(2,513)
+1,535
+Tax refund/(paid)
+(542)
+Interest paid
+(1,286)
+(1,621)
+Net cash from operating
+activities
+(1,510)
+2,333
+Our Group has recorded net cash used in operating activities of
+RM1.5 million in FYE 2021 as compared to net cash from operating
+activities of RM2.3 million in FYE 2020 after deducting interest
+paid of RM1.3 million for FYE 2021 and RM1.6 million for FYE
+2020 respectively. The decrease in cash from operating activities
+was due to the repayment of supplier and also payment of Real
+Property Gain Tax during the year under review. Even facing the
+Covid-19 pandemic challenge, the Group was still able to improve
+its current ratio at 7.2 times for FYE 2021 as compared to 1.02 times
+For FYE 2020.

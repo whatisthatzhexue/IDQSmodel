@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI erases earlier gains as lacklustre momentum prevails
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/04/fbm-klci-erases-earlier-gains-as-lacklustre-momentum-prevails
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The prospect of a relief rebound subsided as Bursa Malaysia closed lower at the midday break, beset by the absence of positive catalysts to inspire investor buying. At 12.30pm, the benchmark index was down 0.84 points to 1,502.41, at odds with key Asian indices that have been pulling higher on the back of optimism over US-China trade talks scheduled for this week. According to reports, investors are pinning their hopes on a possible call between US President Donald Trump and Chinese leader Xi Jinping this week.
+
+[NEWS_P002] Meanwhile, domestic index heavyweights have continued to slip amid the lacklustre domestic outlook. Maybank dropped four sen to RM9.72, RHB fell eight sen to RM6.40, Nestle shed 56 sen to RM78.04 and QL Resources slipped six sen to RM4.34. The broader market was also negative, weighed down by 489 stocks in the red, as compared to 322 advancers. The volume was 1.49 billion shares changing hands for RM833.5mil. In Asia, major developed markets stayed positive, with sentiment boosted by the overnight rally on Wall Street on the back of a jump in Nvidia stock.
+
+[NEWS_P003] Japan's Nikkei rose 0.88% to 37,775, China's CSI 300 rose 052% to 3,871 and Hong Kong's Hang Seng gained 0.72% to 23,680.

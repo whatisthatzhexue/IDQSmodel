@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI snaps losing streak, reclaims 1,600 mark despite regional weakness
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/26/fbm-klci-snaps-losing-streak-reclaims-1600-mark-despite-regional-weakness
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI rebounded to reclaim the 1,600 mark, snapping a two-day losing streak despite regional weakness. Market sentiment turned cautious after US President Donald Trump announced a fresh round of tariffs, while investors pared back expectations of sharp US rate cuts following stronger-than-expected economic data. The FBM KLCI climbed 10.58 points, or 0.66%, to 1,609.05 after touching an intra-day high of 1,611.32 and a low of 1,595.32.
+
+[NEWS_P002] For the week, the benchmark index gained 0.7%. Winners and losers were nearly balanced, with 575 gainers against 559 decliners and 469 unchanged. A total of 4.16 billion shares worth RM3.17bil changed hands. Among the gainers on Bursa Malaysia, Malayan Cement rose 42 sen to RM7.15, PETRONAS Dagangan added 30 sen to RM22.42, Country View advanced 23 sen to RM2.78, and Dutch Lady climbed 22 sen to RM27.28. Nestle slid 56 sen to RM96.04, Malaysian Pacific Industries shed 30 sen to RM29.30, PPB Group fell 20 sen to RM10.12, and Sunway Construction eased 14 sen to RM5.99.
+
+[NEWS_P003] Among the banks, Maybank rose 10 sen to RM9.89, Public Bank added six sen to RM4.34, and CIMB edged up one sen to RM7.25. RHB Bank gained six sen to RM6.57, Hong Leong Bank advanced 16 sen to RM20.32, while AmBank climbed five sen to RM5.60. According to Bursa Malaysia data, foreign investors and local retailers sold RM233mil and RM32mil worth of equities respectively yesterday, while local institutions bought RM256mil. On the forex market, the ringgit eased 0.26% against the US dollar to 4.2210 but edged up 0.06% against the Singapore dollar to 3.2659.
+
+[NEWS_P004] Elsewhere in the region, markets ended mostly lower today, with MSCI’s Asia ex-Japan index down 1.36%. Japan’s Nikkei 225 slipped 0.87% to 45,354.99, while South Korea’s Kospi tumbled 2.45% to 3,386.05. Hong Kong’s Hang Seng Index fell 1.35% to 26,128.20, while Singapore’s Straits Times Index bucked the trend, rising 1.07% to 3,087.84. China’s CSI300 Index declined 0.95% to 4,550.05, and the Shanghai Composite eased 0.65% to 3,828.11.

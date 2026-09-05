@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia continues to track weakness in US market
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-07-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/26/bursa-malaysia-continues-to-track-weakness-in-us-market
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: There was ongoing weakness in the domestic market at the start of Friday trading with selling pressure on the main index bearing down on the 1,600 psychological support. The FBM KLCI opened 1.19 points lower at 1,613.99, taking cue from the US market, which remains in the grip of a correction phase. The leading laggards included Tenaga Nasional down six sen to RM13.92 and Telekom Malaysia, falling six sen to RM6.82. Nestle Malaysia dropped RM3 to RM119, after it announced its bottomline had nearly halved in the second quarter of the year on a year-on-year basis due to weak consumer spending.
+
+[NEWS_P002] Meanwhile, investors focused their attention on 2D animator Kucingko, which made its debut on the ACE Market, surging more than twice its initial public offering price to 80.5 sen at the open. The counter was leading the most actively traded with more than 57 million shares changing hands as at 9.07am. Apex Securities Research said cautiousness prevails ahead of the release of US personal consumption expenditure and consumer sentiment data tonight, which may provide guidance over the timing of the potential rate cut.
+
+[NEWS_P003] "For now, any potential gains are expected to be limited by the absence of fresh catalysts," said the research firm in a note. It said it continues to take a defensive approach, favouring the REIT sector amid the volatility, while expected the technology sector to continue underperforming given the weakness on the Nasdaq overnight. On the technical charts, Apex Securities said the indicators have turned negative with the MACD line crossing below the signal line and the RSI dipping below 50 points.
+
+[NEWS_P004] The research firm sees immediate resistance at 1,650 and support at about 1,580.

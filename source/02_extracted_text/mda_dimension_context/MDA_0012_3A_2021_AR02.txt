@@ -1,0 +1,125 @@
+document_id: MDA_0012_3A_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 10, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_0012_3A_2021", "has_cost_discussion": true, "has_margin_discussion": false, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 2, "num_consistent_checks": 2, "num_financial_mentions": 27, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "strong"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+REVENUE
+10%
+Malaysia
+Singapore
+Other countries
+Revenue by Geographical Locations for FY2021
+BUSINESS OVERVIEW
+The year 2021 was truly another extraordinary year. For one,
+the COVID-19 pandemic had dramatically changed our way
+of life. Although multiple Movement Control Order (“MCO”)
+were implemented last year, the Group saw a resurgence of
+confidence from our customers. This translated to the Group
+having recorded the best ever annual Revenue and Profits as
+both grew by double digits in year 2021. The commendable
+results are possible owing to our strong business philosophy
+of producing products of exceptional quality at competitive
+prices. Besides, effective marketing strategies and agility in
+meeting new buying trends that were made possible by large
+amount of knowledge and experience accumulated over the
+years were the other ingredients of our achievements. Moving
+ahead, the Group embarks on careful and comprehensive
+investments on production facilities to improve capacity and
+efficiency to scale greater heights.
+[MDA_P002]
+However, hopes are high as our country was ramping up the
+vaccination drive together with booster shots for all adults
+as well as certain groups of children now. But the emergence
+of new variants had dashed hope to achieving herd immunity
+and now it would be unrealistic to expect the end of the
+pandemic any time soon. At the time of writing, our government
+had indicated that we shall transition to the endemic phase
+whereby it is an exit strategy that would allow the people
+to go back to the near-normal life after nearly two years of
+battling the pandemic. 2021 IN REVIEW
+The Group recorded 18% increase in revenue of RM515.615
+million in FY2021 as compared with RM436.166 million in
+FY2020. Meanwhile, profit before tax and profit after tax also increased
+to RM62.5 million and RM46.5 million respectively in FY2021
+as compared with RM40.7 million and RM30.2 million
+respectively in FY2020. Despite the uncertain economic conditions, the Group recorded
+a commendable financial performance that was attributed
+to effective business strategies that were carried out in
+increasing the quantities of products sold and also achieving
+higher average selling prices of products sold.
+[MDA_P003]
+Revenue from
+export of products comprised 43% of the overall revenue of
+the Group in FY2021. During the FY2021, the Group successfully recouped an
+amount of RM0.53 million from impairment losses that
+were provided in the prior years. The Group is pleased to report that cash and bank balances
+of the Group was at RM55.1 million at the end of financial
+year 2021. Meanwhile, total borrowings remain manageable
+at RM8.0 million. Therefore, the Group is confident with
+the availability of sufficient financial resources to continue
+with the implementation of various business plans. THREE-A RESOURCES BERHAD
+199901006659 (481559-M)
+ANNUAL REPORT 2021
+[MDA_P004]
+PERFORMANCE REVIEW
+MANAGEMENT DISCUSSION
+AND ANALYSIS (CONTINUED)
+The Group recorded 18% increase
+in revenue of RM515.615 million in
+FY2021 as compared with RM436.166 million
+in FY2020. “ ”
+REVENUE
+RM515.615 million
+2020: RM436.166 million
+PROFIT BEFORE TAX
+RM62.5 million
+2020: RM40.7 million
+we should not be complacent and should continue to adhere
+to Standard Operating Procedures that were introduced by
+the Health Ministry. In 2021, the Group continued to carry out automation plans
+for selected production plants with the primary objective to
+increase efficiency in production plants and achieve savings in
+operational and manpower costs. Moreover, certain of these
+plans are expected to bring major improvements to products’
+quality to meet the evolving and untapped customers’ stringent
+requirements. In view of encouraging demands from customers, the Group
+enjoyed good utilisation rates across all production plants last
+year. The Group was fortunate to have completed construction
+and upgrading of certain production plants such as Maltodextrin
+plant no 2, no 3 and the glucose plant in the prior year in order
+to meet the pent-up demand from customers in year 2021.
+[MDA_P005]
+The Group intends to continue investing in research and
+development projects to increase the range and appeal of
+our products. The increase of revenue from our export sales
+to overseas markets demonstrated the wide acceptance
+of our products in the global landscape. It is important for
+the Group to continue its leverage on our core competency
+to continue develop products in order to meet as well as
+exceed the expectations of the constantly evolving customers’
+requirements everywhere. Therefore, the Group continues to
+make adequate allocations to acquire up-to-date and modern
+laboratory facilities as well as recruit suitably qualified skilled
+personnel. Total assets and shareholders’ equity of the Group grew
+to RM463.6 million and RM398.3 million respectively as
+at 31 December 2021. Besides, the Group’s earnings per
+share for the year was 9.5 sen and net asset per share was
+at 81.2 sen as at the end of 2021. OUTLOOK AND PROSPECTS
+The COVID-19 pandemic is still a major concern at the
+time of writing. The implications have been devastating and
+far reaching from lockdowns and its negative impacts on
+economic activities in 2021.
+[MDA_P006]
+Hopes are high as countries
+worldwide race to inoculate their populations including
+Malaysia which has achieved high vaccinations among
+adults and also recently approved for children. However,
+THREE-A RESOURCES BERHAD
+199901006659 (481559-M)
+ANNUAL REPORT 2021

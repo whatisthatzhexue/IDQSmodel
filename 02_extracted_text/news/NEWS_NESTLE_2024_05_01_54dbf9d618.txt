@@ -1,0 +1,24 @@
+[TITLE]
+Nestle share price rises on good 1Q performance
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-05-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/01/nestle-share-price-rises-on-good-1q-performance
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Shares of Nestle (M) Bhd hit a multi-month high yesterday, on the back of its latest financial results which came in within analyst expectations. At 5pm, the food and beverage company closed 0.24% up to RM127.20, its highest in nearly seven months. Kenanga Research in a report said Nestle’s net profit of RM196mil in the first quarter of the financial year 2024 (1Q24) came in at 29% and 25% of its full-year forecast and full-year consensus estimate, respectively.
+
+[NEWS_P002] “We considered the results within our expectation but they disappointed the market as historically, its 1Q accounted for about 30% to 33% of its annual earnings,” the research house said. The group’s top line in 1Q24 decreased by 3.2% year-on-year (y-o-y) mainly due to the decline in domestic sales (down by 3.9% to RM1.42bil), which could be attributable to downtrading (that is switching to more affordable alternatives) by consumers. This is amidst sustained elevated inflation and the boycott of Western products due to Israel’s war on Gaza.
+
+[NEWS_P003] “However, its gross profit rose 5.7% y-o-y, driven by lower prices for certain commodities like milk and palm oil, along with more effective cost management, that is via forward purchases of commodities such as cocoa and coffee. “Nonetheless, its net profit eased 1% y-o-y, weighed down by higher marketing expenses,” Kenanga Research said. The research firm added that starting July 1, 2024, Nestle has confirmed it will be adjusting the prices of selected products, including popular items such as Milo, Nescafe and Maggi tomato ketchup.
+
+[NEWS_P004] “Although the group has not disclosed the exact extent of the price increases, recent reports in the media suggest an average hike of between 5% and 6%. “This price adjustment is in response to the substantial global increase in cocoa and coffee prices, which have surged by over 150% and 20% year-to-date, respectively,” Kenanga Research said. Meanwhile, CGS International (CGSI) said the group’s gross profit margins increased by 2.8% points to 33.4% in 1Q24 due to lower raw material costs.
+
+[NEWS_P005] “Our thesis is that the reduction in raw material costs from late 2022 took six to nine months to filter through into company results,” the research house said. CGSI, which maintained a “hold” call on Nestle with a target price of RM122 per share, said gross profit margins and revenues into the second half of 2024 are likely to be supported by the increase of 22 coffee and cocoa-related products, to mitigate the rising costs of these products. Hong Leong Investment Bank (HLIB) Research said uncertainty from volatility in commodity and energy prices, coupled with weakening currency, will continue to pose challenges to Nestle.
+
+[NEWS_P006] Moreover, consumer spending may also experience additional strain with the recent increase in the sales and service tax and introduction of the high-value goods tax. “The group is steadfast in capturing the demand by leveraging on opportunities to increase the reach of its core products, while continuing to lead in product innovation. Nestle continues to drive the development of Kit Kat Dragon and puff pastry additions to Harvest Gourmet,” it said.
+
+[NEWS_P007] HLIB Research maintained a “hold” call on Nestle with a target price of RM122.50 per share.

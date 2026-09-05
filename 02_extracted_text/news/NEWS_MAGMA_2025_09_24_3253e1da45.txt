@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI holds above 1,600 level amid pullback
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2025-09-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/24/fbm-klci-holds-above-1600-level-amid-pullback
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: There was mild profit-taking pressure on Bursa Malaysia following recent comments by the US Federal Reserve chair on interest rates that led to a pullback in global equities. After dipping below the 1,600-point level in intra-morning trade, the FBM KLCI pared losses to end the early session 2.05 points lower at 1,601.5. The broader market recorded 483 declining stocks compared to 430 gainers. A pullback was seen in eight of the 13 market sectors with the heaviest losses sustained in financial services and plantations.
+
+[NEWS_P002] Volume was 2.39 billion shares with a value of RM1.36bil. Asian markets started Wednesday on the backfoot on Wednesday following US Fed chair Jerome Powell's remarks that the central bank was walking a fine line between reining in inflation risks and facilitating a healthy labour market. The uncertainty over future interest rate cuts sent Wall Steet indices in the red, especially tech stocks, whose valuations have skyrocketed on the back of interest rate cut hopes.
+
+[NEWS_P003] Following suit, Australia's ASX200 was a leading laggard, falling 1.07% to 8,751. Japan's Nikkei had started the day in negative territory but had returned to a flatline at 45,491. China's composite index was up 0.63% to 3,845 while the CSI 300 gained 0.71% to 4,551. Hong Kong's Hang Seng was up 0.91% to 26,397 even as a super typhoon lashed the island state. On Malaysia's blue-chip market, leading decliners included Sunway down nine sen ot RM5.41, MISC falling four sen to RM7.36, QL Resources shedding six sne to RM4.34.
+
+[NEWS_P004] The day's top actives were ACE Market debutant Express Powerr up three sen to 23 sen, Capitaland Malaysia Trust unchanged at 61.5 sen and Magma down two sen to 34 sen.

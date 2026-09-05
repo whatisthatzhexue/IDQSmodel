@@ -1,0 +1,4 @@
+document_id,num_financial_mentions,num_calculable_changes,num_consistent_checks,num_minor_discrepancies,num_material_discrepancies,num_severe_direction_conflicts,num_not_calculable,has_revenue_discussion,has_profit_discussion,has_cost_discussion,has_segment_discussion,has_margin_discussion,overall_numeric_consistency,internal_check_notes
+MDA_0012_3A_2020,27,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_0012_3A_2021,27,2,2,0,0,0,0,True,True,True,False,False,strong,"revenue: stated 18.00%, calculated 18.22%, status consistent. | revenue: stated 18.00%, calculated 18.22%, status consistent."
+MDA_0012_3A_2022,47,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,

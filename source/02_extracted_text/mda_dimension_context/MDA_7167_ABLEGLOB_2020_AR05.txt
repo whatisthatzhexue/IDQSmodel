@@ -1,0 +1,38 @@
+document_id: MDA_7167_ABLEGLOB_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 204, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 76.046, "paragraph_count": 204, "paragraph_length_distribution": {"max": 1149, "mean": 133.275, "min": 2}, "repetition_ratio": 0.073529, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis (“MD&A”), which provides an insight of the financial
+performance of Johore Tin Berhad (“JTB”) and its subsidiaries (“the Group”) for the financial year ended 31
+December 2020 (“FYE 2020”). This MD&A also contains information on the Group’s overview of business and
+operations, current financial position, reviewing of operating activities, assessing the operational risks faced by the
+Group and discussing the future prospect of the Group.
+1.
+OVERVIEW OF BUSINESS AND OPERATIONS
+A.
+Business and Operations
+[MDA_P052]
+100%
+[MDA_P103]
+Association of Chartered
+[MDA_P154]
+Bhd. as President and Chief
+[MDA_P204]
+(Member)
+Other directorship in public
+: No
+companies and listed issuers
+Family relationship with any
+: No
+director and/or major
+shareholder of JTB
+Conflict of interests with JTB
+: No
+Conviction for offences within : No
+the past 5 years, other than
+traffic offences

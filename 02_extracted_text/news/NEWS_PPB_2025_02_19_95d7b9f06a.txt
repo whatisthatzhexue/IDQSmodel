@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI ends lower as heavyweights drag; glovemakers in focus
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-02-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/19/fbm-klci-ends-lower-as-heavyweights-drag-glovemakers-in-focus
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed lower today but edged up from its intraday low, weighed down by losses in heavyweights, while glovemakers saw active trading. At closing, the KLCI was down 3.96 points, or 0.25%, to 1,580.88. The index traded within a narrow range of 4.86 points, hitting an intraday low of 1,578.89 and a high of 1,583.75. The KLCI-component stocks were mostly negative, with 17 decliners, nine gainers, and four unchanged. Overall market breadth was negative, with decliners outpacing gainers as 754 stocks fell, 274 advanced, and 496 remained unchanged on Bursa Malaysia.
+
+[NEWS_P002] Dealers observed that market uncertainty is prompting investors to sell first, as a sustained surge in sentiment is expected to remain subdued in the short term. U.S. President Donald Trump said on Tuesday that he plans to impose auto tariffs "in the neighbourhood of 25%" and similar duties on semiconductors and pharmaceutical imports, marking the latest in a series of measures that could disrupt international trade. Stock market data showed that foreign investors and local institutions sold a net RM74mil and RM37mil worth of equities, respectively, on Tuesday, while local retailers were net buyers with RM110mil.
+
+[NEWS_P003] Among the KLCI component stocks, CIMB slid 11 to RM8.29 and single-handedly took 1.6946 points off the FBM KLCI. Mr D.I.Y. fell 10 sen to RM1.40, weighing down the index by 1.3587 points, while PPB Group lost 62 sen to RM10.56, dragging it down by 1.266 On the other hand, Public Bank gained four sen to RM4.54, lifting the index by 1.1145 points, while Petronas Dagangan jumped 76 sen to RM19.90, adding 1.0838 points to the index. On the broader market, Heineken slid 68 sen to RM26.48, while F&N lost 34 sen to RM26.16.
+
+[NEWS_P004] Can-One rose 15 sen to RM2.45, and Cahya Mata Sarawak climbed 10 sen to RM1.10. Meanwhile, glovemakers were among the most heavily traded counters on Bursa Malaysia. Hartalega fell 17 sen to RM2.44 with 103.93 million shares traded, while Top Glove declined three sen to 97 sen with 99.68 million shares changing hands. Kossan slipped six sen to RM1.91 with 43.48 million shares traded, while Supermax dipped one sen to RM1.03 with 21.73 million shares done.
+
+[NEWS_P005] Meanwhile, key gauges across the region were mixed, with Japan’s Nikkei 225 slipping 0.27%, while South Korea’s Kospi rose 1.70%. Hong Kong’s Hang Seng edged down 0.14%, while China’s CSI 300 Index gained 0.7%.

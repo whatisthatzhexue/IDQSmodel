@@ -1,0 +1,22 @@
+[TITLE]
+Bursa Malaysia remains lower at midday, KLCI down 0.54%
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/05/bursa-malaysia-remains-lower-at-midday-klci-down-054
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia remained lower at midday today, with the benchmark index down 0.54 per cent, due to persistent selling in selected heavyweights, led by the financial services, telecommunications, and media sectors. Maybank and CIMB fell 10 sen each to RM10.14 and RM7.82, respectively. Meanwhile, Axiata lost 12 sen to RM2.56, collectively shaving 5.92 points off the composite index. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) was down 8.81 points, or 0.54 per cent, at 1,612.26, compared with Thursday’s close of 1,621.07.
+
+[NEWS_P002] The benchmark index, which opened 0.37 of-a-point lower at 1,620.70, moved between 1,611.80 and 1,621.25 during the morning session. The broader market was negative, with decliners beating gainers 571 to 316. A total of 462 counters were unchanged, 1,395 untraded, and 18 suspended. Turnover stood at 2.13 billion units, valued at RM982.27 million. Hong Leong Investment Bank Bhd stated that, despite near-term volatility, it remains constructive on the FBM KLCI, which is nearing a bullish triangle breakout backed by strong December seasonality and rising United States Federal Reserve-cut optimism.
+
+[NEWS_P003] "A sustained close above 1,643 would pave the way for a retest of 1,659 and 1,686. Failure to break this threshold may keep the index in consolidation, with supports at 1,600 and 1,591 (100-day moving average),” it added. Among other heavyweights, Maxis fell 11 sen to RM3.75, Mr D.I.Y. went down 5.0 sen to RM1.46, Public Bank trimmed 2.0 sen to RM4.37, Tenaga Nasional added 12 sen to RM12.62, and Gamuda rose 6.0 sen to RM5.21. On the most active list, V.S.
+
+[NEWS_P004] Industry gained 1.0 sen to 47 sen, Velesto Energy inched up half-a-sen to 25 sen, Tanco rose 2.0 sen to RM1.17, Zetrix AI slipped 1.5 sen to 82 sen, PSP Energy inched down half-a-sen to 14 sen, and Main Market debutant Geohan Corporation fell 4.0 sen to 51 sen. Top gainers included Southern Acids, which was 20 sen better at RM3.20, Malayan Cement put on 14 sen to RM6.93, and Sungei Bagan Rubber widened 13 sen to RM5.80. Among the top losers, Nestle was RM1.60 easier at RM114.10, Fraser & Neave depreciated 62 sen to RM34.98, and Malaysian Pacific Industries slid 40 sen to RM31.68.
+
+[NEWS_P005] On the index board, the FBM Emas Shariah Index fell 35.01 points to 11,796.67, the FBM Mid 70 Index shrank 47.22 points to 16,699.70, the FBM ACE Index ticked down 41.75 points to 4,784.88, the FBM Emas Index declined 54.45 points to 11,936.74, and the FBMT 100 Index fell by 56.48 points to 11,716.52. Sector-wise, the Energy Index firmed by 0.76 of-a-point to 758.82, the Plantation Index weakened by 14.12 points to 8,097.20, the Financial Services Index dropped 114.48 points to 18,933.54, and the Industrial Products & Services Index edged down 0.46 of-a-point to 165.83.
+
+[NEWS_P006] - Bernama

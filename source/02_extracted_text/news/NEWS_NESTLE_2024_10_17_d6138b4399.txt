@@ -1,0 +1,14 @@
+[TITLE]
+Nestle misses nine-month organic sales growth estimate, cuts outlook
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/17/nestle-misses-nine-month-organic-sales-growth-estimate-cuts-outlook
+confidence_tier: low
+
+[NEWS_P001] LONDON: Nestle cut its full-year sales outlook and reported worse-than-expected nine-month organic sales growth on Thursday as the world's biggest packaged food company failed to grow volumes amid continued price hikes. Nestle said it expects 2024 organic sales growth to be around 2% and an underlying trading operating profit (UTOP) margin of about 17% for the year. Nestle had said in July that it expected full-year organic sales growth of at least 3% and that its UTOP margin for 2024 would grow moderately from the 17.3% it had reported in 2023.
+
+[NEWS_P002] Nine-month organic sales for 2024, which exclude the impact of currency movements and acquisitions, rose 2%, the maker of Maggi stock cubes and Nescafe coffee said. Analysts had, on average, expected organic sales growth of 2.5%. - Reuters

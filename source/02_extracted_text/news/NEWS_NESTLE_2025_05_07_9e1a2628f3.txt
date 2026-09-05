@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI drifts sideways ahead of interest rate decisions
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/07/fbm-klci-drifts-sideways-ahead-of-interest-rate-decisions
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's blue-chip index drifted sideways in early Wednesday trading after having been caught in a narrow consolidation channel over the last three sessions. The benchmark FBM KLCI fell a marginal 0.24 points to 1,536.56 as investors stayed to the sidelines ahead of the much-anticipated policy decisions by the US Federal Reserve and Malaysia's own Bank Negara this week. According to Rakuten Trade, the weak showing on Wall Street overnight was also owing to the wait for clarity from the Fed policy meeting and post-meeting press statement by Fed chair Jerome Powell later today.
+
+[NEWS_P002] "Judging by the lacklustre trading over the past two days, we believe the index to remain stuck within a narrow range of between 1,530-1,540 range today," it said in its outlook. Meanwhile, TA Securities Research noted that investors were refraining from taking major positions as they await further devleopments from the ongoing US-Malaysia trade negotiations. It said weaker domestic growth expectations resulting from US reciprocal tariffs may dampen investor sentiment in the near term, but optimism following recent support measures announced by the government should cushion downside.
+
+[NEWS_P003] "Immediate resistance is kept at 1,564, which represents the 61.8%FR of the rally from the 1,369 low (June 2023) to the 1,684 peak (August 2024), with next upside hurdles seen at the 76.4%FR (1,610) and 1,644. "Immediate support is maintained at the 38.2%FR (1,490) with stronger supports seen at the 23.6%FR (1,444) followed by the 1,400 psychological level," it added. On the broader markets, top traded stocks were Sapura Energy up 0.5 se to 4.5 sen, Reach Ten flat at 56 sen and Velesto gaining 0.5 sen to 15.5 sen.
+
+[NEWS_P004] There was some positive movement in consumer counters with Nestle rising 50 sen to RM89, F&N gaining 12 sen to RM27.20, Carlsberg rising 10 sen to RM19.28 and British American Tobacco climbing eight sen to RM6.78.

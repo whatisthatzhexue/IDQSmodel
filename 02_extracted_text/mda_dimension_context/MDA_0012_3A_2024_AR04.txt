@@ -1,0 +1,157 @@
+document_id: MDA_0012_3A_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 8, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Profit After
+Tax (PAT)
+(RM'000)
+RM43,449
+Revenue
+(RM'000)
+RM557,116
+Industry Overview
+Three-A Resources Berhad ("3A" or "the
+Group") continues to strengthen its position
+as a manufacturer of high-quality food and
+beverage ingredients. In line with its strategic
+objectives, the Group remains committed to
+enhancing operational efficiencies, optimising
+its supply chain, and managing costs
+effectively to reinforce its market position. For FY2024, 3A has navigated an evolving
+industry landscape while maintaining a
+strategic focus on sustainable growth. The Group's performance in FY2024 was
+shaped by macroeconomic conditions,
+including geopolitical risks and inflationary
+pressures that influenced raw material
+costs. However, with inflation stabilising
+at 1.8% and cost pressures moderating,
+3A effectively managed its input costs. The
+Malaysian economy recorded a 5% growth
+in the fourth quarter of 2024, supported
+by ongoing structural reforms. Stronger
+household spending supported by a robust
+labour market and policy measures further
+drove demand for ingredient solutions.
+[MDA_P002]
+Additionally, movements in the ringgit,
+influenced by external developments,
+remained a key factor in sourcing imported
+raw materials. Nevertheless, Malaysia’s
+favourable macroeconomic outlook is
+expected to provide a more stable business
+environment, allowing 3A to reinforce its
+competitive positioning and providing
+opportunities for growth in the coming year. Business
+and
+Operational
+Performance
+Performance Overview
+In FY2024, the Group recorded a 7.7%
+decline in revenue, amounting to RM46.7
+million compared to FY2023, primarily
+due to lower sales volume. While liquidity
+ratios, such as the current and quick ratios,
+declined slightly, cash and bank balances
+improved significantly. Looking ahead, softer
+consumer demand, evolving market trends,
+and increasing competition are expected
+to impact the Group’s operations, financial
+performance, and liquidity. Earnings
+Net profit for FY2024 decreased by 3.8%,
+amounting to RM1.7 million as compared to
+FY2023. This decline was primarily driven by
+reduced revenue due to lower sales volumes.
+[MDA_P003]
+However, the impact was partially offset by a
+more favourable product sales mix, reduced
+volatility in raw material costs, and enhanced
+cost control measures, which contributed to
+a more stable financial performance despite
+the challenges. Exports
+Singapore remained the Group's top export
+market in FY2024, contributing 10.7% to
+total revenue. However, export revenue
+experienced a decline of approximately
+RM16.3 million compared to FY2023. This
+decrease was mainly driven by reduced sales
+volumes, resulting from weaker industry
+demand. As global markets faced challenges,
+lower quantities of products sold contributed
+significantly to the overall drop in export
+revenue for the year. Assets and Liabilities
+In FY2024, the Group saw a 5.9% increase
+in total assets, reaching RM535.3 million,
+driven largely by higher inventory levels and
+cash balances. This was partially offset by
+[MDA_P004]
+www.three-a.com.my
+THREE-A RESOURCES BERHAD
+Annual Report 2024
+MANAGEMENT DISCUSSION
+AND ANALYSIS (CONTINUED)
+“
+ In response to
+inflationary
+pressures and geopolitical
+issues, which could affect
+the prices of raw materials
+like tapioca, corn starch,
+sugar, and soybean,
+the Group will continue
+to enhance its product
+sales mix, operational
+efficiency, and cost controls. Additionally, the Group will
+strengthen its marketing
+strategies and apply risk
+management processes
+to ensure it remains
+resilient. ”
+a decline in trade receivables, in line with
+lower revenue. Similarly, total liabilities
+rose by 4.2% to RM57.4 million, primarily
+due to higher trade payables linked to the
+increased inventory, although this was
+partially mitigated by repayments of term
+loans. Shareholders’ equity grew by 6.1%
+to RM477.9 million, reflecting the profit
+generated for FY2024, despite interim
+dividend payouts and share buybacks. Earnings per share stood at 8.89 sen, with
+a net asset per share of 97.7 sen. Production
+The Group continued its long-term operational
+efficiency initiatives in FY2024.
+[MDA_P006]
+THREE-A RESOURCES BERHAD
+Annual Report 2024
+About Us
+LEADERSHIP
+ADDITIONAL INFORMATION
+CORPORATE GOVERNANCE
+FINANCIAL Report
+PERFORMANCE REVIEW
+SUSTAINABILITY
+listening to customer needs, providing
+tailored solutions, and continually seeking
+improvements to achieve marketing goals. To support these efforts, the Micro Lab,
+Physical and Chemical Lab were relocated
+and expanded, becoming fully operational
+in December 2024. These new facilities
+enabled the Group to better meet customer
+expectations by providing enhanced support
+and improving service capabilities. These
+developments form part of the Group’s
+strategy to deliver value while fostering
+stronger customer relationships, ultimately
+driving long-term business growth. Key Business Opportunities and Risks
+Sustainability and ESG-related matters
+presented significant business opportunities,
+as strong performance in these areas could
+attract companies that prioritise such
+initiatives. However, the Group also faced
+risks, including slower economic growth
+in key markets and increased competition
+from both local and international products.

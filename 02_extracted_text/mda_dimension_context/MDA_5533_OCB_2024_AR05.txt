@@ -1,0 +1,30 @@
+document_id: MDA_5533_OCB_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 132.611, "paragraph_count": 16, "paragraph_length_distribution": {"max": 1194, "mean": 814.125, "min": 34}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P005]
+To maintain this momentum, the Division will continue to prioritize automation and digitalization initiatives,
+with a focus on enhancing cost-efficiency and streamlining operations. By embracing these technologies, we aim
+to drive greater productivity, reduce operational costs, and ensure sustained growth in the years to come. MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P009]
+Higher priority of marketing expenditure will be focused and allocated to digital marketing as it has rapidly grown
+in importance due to its interactivity, cost effectiveness and ability to reach a wide range of targeted audiences. MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P013]
+CAPITAL EXPENDITURE REQUIREMENTS, CAPITAL STRUCTURE AND CAPITAL RESOURCES
+The Group strives to maintain a prudent financial structure to ensure that it has access to adequate capital and
+financing on terms which are favorable to the Group.
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P016]
+With a clear focus on its core businesses, strategic divestments, and a commitment to operational excellence,
+OCB Group is well-positioned to navigate the challenges and opportunities of 2025 effectively. MANAGEMENT DISCUSSION
+AND ANALYSIS

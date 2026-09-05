@@ -1,0 +1,51 @@
+document_id: MDA_2828_CIHLDG_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 104.99, "paragraph_count": 13, "paragraph_length_distribution": {"max": 1282, "mean": 898.385, "min": 97}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion And Analysis
+ANNUAL REPORT 2021
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)
+[MDA_P004]
+Unfortunately, we were unable to secure some of the shipments to our customers during this challenging global
+pandemic time hence the drop in total FCLs (FY2021 – 34,897; FY2020 – 36,830 FCLs) exported. ANNUAL REPORT 2021
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)
+Management
+Discussion And Analysis
+(Cont’d)
+[MDA_P007]
+This is in tandem
+with the higher revenue recorded in the current financial year. Capital Structure And Capital Resources
+The Group remains prudent in maintaining a sound financial position to enable the execution of strategic objectives in creating
+value over the coming years. The Group’s borrowings decreased by 20%, from RM375.14 million to RM300.18 million during
+the year. The Debt/Equity ratio of 165% reported as at 30 June 2020 decreased substantially to 107% as at 30 June 2021. Noteworthy to mention that the debt was mainly for short term financing no more than 90 days outstanding to purchase raw
+materials for sales. Known Trends And Events
+The unprecedented pandemic is taking a toll on the Malaysian economy as well as many other countries around the world. The
+Movement Control Order (MCO 2.0 and MCO 3.0) and subsequent Phase One of National Recovery Plan were fully enforced
+since Q3FY21. This has dampened many domestic economic activities. The Group’s Tapware and Sanitary ware Division (“DOE Group”) was not allowed to operate or did not operate at full capacity
+for most of the Q3FY21 and Q4FY21 periods.
+[MDA_P010]
+Management
+Discussion And Analysis
+(Cont’d)
+Despite all the challenges and uncertainties during the pandemic, the Group is proud to state that we strived to protect the
+employees’ future by paying their full take-home salaries, annual bonuses and salary increments without delay, with no pay cuts
+whilst not resorting to any employee lay-offs. Review Of Operating Activities
+Operating Activities
+The Group is pleased with its performance during these challenging times. The Group’s Profit Before Interest and Taxation (“PBIT”)
+of RM127.87 million was up 101% compared to the RM63.58 million of the previous year’s corresponding period. The positive
+growth was particularly attributed from the improved operating margin due to favorable selling margins at destination markets
+because of sharp increases in prices resulting in increased immediate delivery contracts. The higher margins and prices are thus
+less susceptible to price negotiations with the customers. Aside from that, there were no further significant developments in the operating activities during the financial year.
+[MDA_P013]
+The division also aspires to be the “Station Master” for tap and sanitary
+ware for all MRT and LRT stations nationwide, after securing the supply tender to all 32 MRT2 stations from Sg Buloh – Serdang
+– Putrajaya. Moving forward, it is looking to secure more of such projects and expand their retail market segment to ensure a sustainable
+stream of income for a better profit margin for the Group. Dividend Policy
+The Group has no dividend policy in place on the account of possible requirements of funds for future expansions and growth. ANNUAL REPORT 2021
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)

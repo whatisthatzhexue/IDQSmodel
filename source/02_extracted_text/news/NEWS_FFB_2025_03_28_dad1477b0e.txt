@@ -1,0 +1,18 @@
+[TITLE]
+Kim Loong poised for growth with higher FFB output
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2025-03-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/28/kim-loong-poised-for-growth-with-higher-ffb-output
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Kim Loong Resources Bhd has registered a fourth quarter result that was below expectations, according to TA Research. The crude palm oil (CPO) miller posted a lower revenue of RM22.79mil for the fourth quarter ended Jan 31, 2025 despite a revenue increase to RM443.32mil. In a report, TA Research said the weaker profit was primarily driven by lower-than-expected contributions from the milling business. However, year-on-year (y-o-y), core net profit grew 7.6% to RM160.1mil, supported by a 10.3% rise in revenue on the back of stronger palm oil prices.
+
+[NEWS_P002] For its plantation segment, operating profit rose by 20.6% y-o-y to RM141.2mil, mainly due to a 15.9% y-o-y increase in the average selling price (ASP) of fresh fruit bunch (FFB) to RM825 per tonne. But, FFB production dropped 5.9% y-o-y to 310,200 tonnes. In its palm oil milling segment, operating profit surged 5.8% y-o-y to RM117.4mil, driven by stronger processing margins and improved milling efficiency. “The ASP of CPO rose by 12.4% y-o-y to RM4,291 per tonne.
+
+[NEWS_P003] The group declared a second interim single-tier dividend of 5.0 sen per share for the quarter under review,” TA Research said. The group recently announced plans to target a 5% to 10% increase in FFB production for the financial year ending Jan 31, 2026 (FY26), citing a better age profile of young palms and ongoing replanting efforts. Management has planned to replant approximately 300 ha to 500 ha in FY26, a decrease compared to 1,300 ha in FY25. With that, the research house said it will adjust its earnings forecasts for FY26 and FY27 upward by 0.7% and 5.5% respectively to reflect higher FFB growth assumptions in line with management guidance and improved margins.
+
+[NEWS_P004] “We foresee a more cautious outlook for CPO prices, influenced by weaker exports and demand from major importing countries, as well as an expected rise in global vegetable oil supply.” It also revised Kim Loong’s target price to RM2.47 from RM2.58 following the earnings adjustments with an unchanged price earnings ratio of 16 times. TA Research has maintained a “buy” call on the group. Kim Loong closed 2.16% down to RM2.26 yesterday.

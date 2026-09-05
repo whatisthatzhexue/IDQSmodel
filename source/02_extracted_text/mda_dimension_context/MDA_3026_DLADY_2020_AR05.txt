@@ -1,0 +1,150 @@
+document_id: MDA_3026_DLADY_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 24, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 194.81, "paragraph_count": 24, "paragraph_length_distribution": {"max": 1193, "mean": 893.375, "min": 384}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Number 1 position
+in Liquid Milk.
+In line with DLMI’s purpose to
+Nourish our Nation from Grass to
+Glass, the business successfully
+overcame multiple challenges
+throughout 2020.
+66 SKUs which make
+up 85% of our portfolio
+in the Consumer Dairy
+business is now Healthier
+Choice-compliant and
+features the HCL logo on
+the “Front of Pack”
+Dutch Lady Milk Industries Berhad
+Annual Report 2020
+[MDA_P007]
+MANAGEMENT DISCUSSION & ANALYSIS
+For our Specialised Nutrition portfolio, our
+Growing Up Milk segment had performed
+well ahead of the category. We continue
+to see growth in penetration of Growing
+Up Milk to 24.4% (+1.2pp vs 2019, source
+Kantar WIP). This resulted in a further
+increase in our value share to 41.6%
+(+1.2pp vs 2019, source AC Nielsen), clearly
+leading the category. We maintained our
+strong performance with continued rigorous
+brand building activities and distribution
+expansion despite movement control order
+(MCO). As part of our mission in nourishing
+Malaysian
+children
+with
+quality
+dairy
+nutrition, in 2020, we also launched Dutch
+Lady MaxGro, a milk based formula dietary
+food for children 1-9 years of age. Dutch Lady
+MaxGro is especially formulated to support
+a child’s optimal growth. The launch comes
+with special growth application that can
+be used by mothers to track their child’s
+physical growth progress and cognitive
+development. For our premium brand, Friso Gold faced
+multiple challenges at the beginning of 2020
+that impacted negatively on our consumers
+including channel disruption during MCO.
+[MDA_P013]
+MANAGEMENT DISCUSSION & ANALYSIS
+PEOPLE
+When COVID-19 hit Malaysia it disrupted well laid plans,
+reshaped the landscape of work and productivity as
+health and safety took precedence for the workforce. In
+reaction to the crisis DLMI employed different strategies
+for the three locations where our workforce were
+situated; the manufacturing plant, our corporate office
+and field workforce. Firstly for all staff and contractors,
+we had obtained the necessary clearance labelling us as,
+“Essential Services” which allowed our manufacturing
+plant and field workforce to mobilise under strict
+EMPLOYEE
+FACTORY
+FIELD
+WORKING
+AT HOME
+FAMILY
+1. Cooking at home tips
+2. Exercise at home
+support virtually –
+Zumba and Yoga
+3. Constant
+communication and
+flyers on:
+• Parenting Hacks
+communicated
+• Self Case Tips
+Communication
+• Exercises on
+Mindfulness
+1. Moving connectivity to
+MS Teams/Zoom
+2. Whatsapp Chat Group
+3. Video Communication
+from Leaders
+4. Virtual Townhall
+5. Email Communication
+& Flyers
+6. Email Weekly
+Appreciation
+7. Tea with Tarang
+Session – small group
+8.
+[MDA_P019]
+Total Favourable Score
+Compelling Directions
+Make the Purpose Operational
+Compliance to Company Standards
+Customer Focus
+Capable Organisation
+Faster Time to Market
+Speed and Decision-Making
+Invest in Big Rocks
+Be Pragmatic & Prudent on Cost
+Clear Performance Standards
+Feedback Culture
+Nourish Growth
+Empowering Management
+Engaged, Enabled & Energised
+Winning Performance Mindset &
+Behavior
+Diversity and Inclusion
+PROFIT: PROFITABILITY UNDER PRESSURE DUE TO
+EXTRA-ORDINARY SITUATION
+Despite the COVID-19 pandemic DLMI realised a 3%
+business growth bringing revenue to RM1.1 billion. The revenue growth is resulting from increased in-home
+consumption of our three main categories - Dutch Lady
+plain and flavored liquid milk, Dutch Lady Growing Up
+Milk and Friso Gold Growing Up Milk products. During the
+COVID-19 pandemic DLMI has been able to continue to
+drive its purpose of Nourishing the Malaysian people. Profit before tax is at index 71 versus previous year
+i.e. from RM137.6 million in 2019 to RM103.3 million in
+2020.
+[MDA_P024]
+Affordability of milk will continue to be high on
+our agenda to ensure sustainable growth of the
+dairy sector in Malaysia, and to help Malaysians
+become stronger and nourished. DLMI is determined to invest in Malaysia even in
+these trying times. In December, we announced the
+plans to invest RM340 million between the years
+of 2021 and 2025 for our future manufacturing
+activities. Company solvency
+Cash flow
+development
+38 %
+RM144
+Million
+38 %
+RM118
+Million

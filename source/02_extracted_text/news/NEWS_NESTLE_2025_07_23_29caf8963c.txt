@@ -1,0 +1,22 @@
+[TITLE]
+Bursa Malaysia gains at midday as fuel price assurance boosts consumer stocks
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/23/bursa-malaysia-gains-at-midday-as-fuel-price-assurance-boosts-consumer-stocks
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended the morning trading session in positive territory, supported by buying in selected counters, led by 99 SpeedMart, CIMB and Maybank. Prime Minister Datuk Seri Anwar Ibrahim has given assurance that the price of RON95 petrol will drop to RM1.99 per litre following the implementation of targeted fuel subsidies -- a move that is likely to favour consumer-related stocks, with 99 Speedmart among the top gainers. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) garnered 4.89 points to 1,524.29, compared to yesterday’s close of 1,519.48.
+
+[NEWS_P002] At the opening bell, the benchmark index was 0.08 of-a-point higher at 1,519.48, and moved up to a high of 1,525.99 during the session. Across the broader market, gainers surpassed losers 454 to 398, while 455 counters were unchanged, 1,172 untraded and seven suspended. Turnover stood at 2.06 billion units worth RM1.06 billion. In a research note, Malacca Securities Sdn Bhd said it expects Bursa Malaysia to be in cautious mode following Wall Street’s mixed performance.
+
+[NEWS_P003] "We expect a similar sentiment on the local front due to the recent investigations on several data centre projects. "However, we believe this may provide a decent buy-on-dip opportunity in Sunway Construction and Sunway Group and other data centre-related counters, underpinned by their strong fundamentals and solid order book secured,” it said. Meanwhile, crude palm oil prices have been trending higher since late June, supported by firmer soybean oil prices and stronger exports to India.
+
+[NEWS_P004] Among the heavyweights, Maybank improved five sen to RM9.58, Tenaga Nasional advanced eight sen to RM13.86, CIMB improved seven sen to RM6.62, IHH Healthcare was one sen better at RM6.61 and 99 SpeedMart was 11 sen better at RM2.38, while Public Bank lost three sen to RM4.28. As for the actives, NexG gained one sen to 51.5 sen, Green Packet added half-a-sen to five sen, Ekovest and Tanco were flat at 39 sen and 91 sen, respectively, and Zetrix accumulated one sen to 93.5 sen.
+
+[NEWS_P005] Top gainers were led by consumer product counter, Nestle, which rose 54 sen to RM76.50, followed by Hong Leong Industries, which increased by 22 sen to RM13.22 and Malaysian Pacific, which added 28 sen to RM19.74, while Petronas Gas climbed 20 sen to RM17.76 and Hong Leong Bank improved 16 sen to RM19.16. On the broader index board, the FBM Emas Index was 37.97 points higher at 11,457.71, the FBMT 100 Index rose 38.07 points to 11,220.01, and the FBM Emas Shariah Index was up 34.07 points to 11,481.42.
+
+[NEWS_P006] The FBM 70 Index gained 65.22 points to 16,621.09, while the FBM ACE Index advanced 3.92 points to 4,628.52. Sector-wise, the Financial Services Index put on 71.88 points to 17,382.48, the Energy Index edged up 1.37 points to 741.54 and the Industrial Products and Services Index rose 0.56 of a point to 154.60, while the Plantation Index fell 2.78 points to 7,393.37. - Bernama

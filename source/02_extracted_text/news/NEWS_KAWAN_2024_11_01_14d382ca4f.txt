@@ -1,0 +1,26 @@
+[TITLE]
+Trading ideas: YTL Power, SunCon, IGB, Axis REIT, Duopharma, Solarvest, Wasco, MMAG, Deleum, Cypark, MN, Ge-Shen, Haily
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-11-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/01/trading-ideas-ytl-power-suncon-igb-axis-reit-duopharma-solarvest-wasco-mmag-deleum-cypark-mn-ge-shen-haily
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Coprorate Malaysia. YTL Power International Bhd is “seeking legal advice regarding potential steps” against unnamed parties that it said are spreading accusations of misconduct by the company in the 1BestariNet project currently under investigations. Sunway Construction Group Bhd has been awarded additional tenant improvement works for its data centre construction project at the Sedenak Tech Park in Johor for RM347.0mn.
+
+[NEWS_P002] IGB Bhd plans to raise up to RM5.0bn by establishing a medium-term note programme to finance the general corporate purposes of the group. Axis Real Estate Investment Trust has raised RM449.7mn through a private placement exercise, which will be used to support the REIT's strategy to pursue high-quality, yield-accretive acquisitions. Duopharma Biotech Bhd has secured 5 additional supply contracts from Pharmaniaga Bhd , totaling RM87.7mn, to provide 10 pharmaceutical and non-pharmaceutical products to government offices and facilities that Pharmaniaga operates.
+
+[NEWS_P003] Solarvest Holdings Bhd said its 70%-owned subsidiary Setia Kawan Energy Sdn Bhd has been approved by Tenaga Nasional Bhd to operate as a merchant generator to sell energy to the single buyer for a capacity of 29.99 megawatt to be located in Manjung, Perak. Wasco Bhd said its indirect wholly owned subsidiary Wasco Coatings Germany GmbH has filed for insolvency with the Stralsund, Germany Court, as it anticipates that an unreasonable claim may be made against it.
+
+[NEWS_P004] Menzies Aviation (Malaysia) Sdn Bhd, a 49:51 joint venture between MMAG Holdings Bhd and Menzies Malaysia Sdn Bhd, has secured a 12-month ground-handling licence from the Malaysian Aviation Commission. Deleum Bhd 's 86.67%-owned indirect subsidiary Deleum Technology Solutions Sdn Bhd has bagged 2 contracts for the provision of Pan Malaysia offshore maintenance, construction, modification and hook-up commissioning services. Cypark Resources Bhd ’s third cycle of large scale solar photovoltaic plant of 100 megawatt in Merchang, Terengganu, was given an extension of time which involves the revision of the period of power purchase agreement.
+
+[NEWS_P005] MN Holdings Bhd has received a RM63.0mn contract from Tenaga Nasional Bhd for the extension of new 1 X 132KV overhead lines battery energy storage system interconnection facilities bay. Ge-Shen Corporation Bhd announced that it is selling a plot of industrial land in Johor for RM7.6mn. Haily Group Berhad has accepted a RM65.1mn job from Akipro Architect Sdn Bhd on behalf of Austin Senibong Development Sdn Bhd for the construction of Phase 6C of a development in Bandar Jaya Putra in Tebrau, Johor Bahru.
+
+[NEWS_P006] IJM Land Bhd’s chief executive officer Datuk Wong Tuck Wai is retiring after a 28-month stint at the property division of conglomerate IJM Corporation Bhd , internal communication showed. FGV Holdings Bhd has appointed Fakhrunniam Othman as group chief executive officer of the plantation group effective Nov 1. Datuk Shahriman Shamsuddin, managing director of Sapura Resources Bhd , has tendered his resignation with immediate effect, having been put on garden leave for nearly 2 months.
+
+[NEWS_P007] Minox International Group Bhd which was listed on the ACE Market of Bursa Malaysia on 17 October 2024 has proposed to undertake a bonus issue of up to 180.0mn warrants on the basis of 1 warrant for every 2 existing shares in Minox. YBS International Bhd said that it has amended several key terms in the agreement with Nasdaq-listed Enovix Corp on the manufacturing of batteries for the latter. Ageson Bhd said its current external auditor Messrs LTTH PLT has expressed a disclaimer of opinion on the company’s audited financial statements for the 18-month financial period ended 30 June 2024.
+
+[NEWS_P008] Ireka Corporation Bhd , a Practice Note 17 construction company, said its external auditor has expressed a disclaimer of opinion on the company’s audited financial statements for FY24. Maxland Bhd formerly known as Priceworth International Bhd , has had a material uncertainty flagged by its external auditor that cast doubt over the integrated timber operator’s availability to continue as a going concern.

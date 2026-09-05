@@ -1,0 +1,28 @@
+document_id: MDA_6203_KHEESAN_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 33, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 101.944, "paragraph_count": 33, "paragraph_length_distribution": {"max": 735, "mean": 255.394, "min": 5}, "repetition_ratio": 0.030303, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d)
+[MDA_P009]
+Other than this current problem, the Group has made significant strides over the years through progressive investments
+to meet this demand trend. The Group currently operates five (5) units of state-of-the-art packaging machines from the
+initial two (2) packaging machines for the purposes of twist wrapping deposited candy products. These machines are
+capable of packaging speed 5 times over that of older existing packaging machines. To date, Khee San Group is one
+of the selected few companies in Asia to operate this machine. In addition, it has carried out additional upgrades by
+installing automated candy jar packaging lines to reduce manpower requirements.
+[MDA_P017]
+The Group faces several risk factors that may affect the Group’s profitability. Those risks include the following:
+[MDA_P025]
+The Group is aware of the continuous shift in consumers’ taste preferences. As such it is constantly introducing innovative
+new flavours for its existing product range, as well as new products and product packaging to the market.
+[MDA_P033]
+The Group is weighing all options and will decide on the best course of action moving forward and will act in the best
+interest of its shareholders.
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d)

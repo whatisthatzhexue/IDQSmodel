@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Axiata, KIP REIT, Binastra, AmanahRaya REIT, 99 Speed Mart, TNB, Press Metal, IHH, PPB, Genting, GenM, Velesto, Hong Leong
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-08-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/30/trading-ideas-axiata-kip-reit-binastra-amanahraya-reit-99-speed-mart-tnb-press-metal-ihh-ppb-genting-genm-velesto-hong-leong
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Axiata Group Bhd is offering up to US$200mn to buy back outstanding medium-term notes issued by its wholly-owned subsidiary Axiata SPV5 (Labuan) Ltd, which are due in 2050. KIP Real Estate Investment Trust has proposed to acquire another four industrial properties in Cheras Jaya, Pulau Indah, Pasir Gudang in Johor, and Bintulu in Sarawak, for a total purchase price of RM98.3mn.
+
+[NEWS_P002] Binastra Corp Bhd, formerly known as Comintel Corp Bhd , has secured a RM155mn contract for the redevelopment of a sewage treatment plant in Sri Hartamas. AmanahRaya Real Estate Investment Trust has acquired a private education asset for RM31.4mn in Glenmarie, Shah Alam, Selangor. 99 Speed Mart Retail Holdings Bhd, which is set to list on the Main Market on Sept 9, announced that its initial public offering has been oversubscribed by 3.0 times. Tenaga Nasional Bhd 's net profit for the 2QFY2024 jumped more than fourfold to RM1.5bn from RM327.9mn a year ago, as it recorded higher electricity sales, a favourable foreign exchange translation and lower net finance costs.
+
+[NEWS_P003] Press Metal Aluminium Holdings Bhd’s net profit surged 65% in 2QFY2024 to RM505.8mn compared to RM305.8mn over the same period a year earlier, thanks mainly to higher price sold and stronger US dollar that boosted export receipts. IHH Healthcare Bhd ’s 2QFY2024 net profit more than doubled to RM623mn from RM301mn a year earlier, driven by strong operational performance and the positive impact of deferred tax credits. PPB Group Bhd 's 2QFY2024 net profit rose 52.3% year-on-year to RM308.9mn from RM202.8mn, thanks to higher contribution from Wilmar International Ltd.
+
+[NEWS_P004] Genting Bhd reported a 49% jump to RM239.7mn in its 2QFY2024 net profit, partly helped by other non-operating gain and a reduction in the share of losses. Genting Malaysia Bhd saw its net profit rise 74.5% to RM82.2mn for 2QFY2024 from RM47.1mn a year earlier, driven by its leisure and hospitality business. Velesto Energy Bhd ’s 2QFY2024 net profit net profit jumped to RM62.8mn from RM17.4mn a year ago, thanks to higher utilisation rates and an increase in average daily charter rates.
+
+[NEWS_P005] Kenanga Investment Bank Bhd ’s 2QFY2024 net profit plunged 43.9% YoY to RM9.4mn fall due to impairment provisions on its fees receivables amounting to RM6.6mn for the quarter. Capital A Bhd posted a much larger net loss of RM454.2mn for 2QFY2024, mainly due to higher foreign exchange losses and aircraft depreciation charges. Hong Leong Financial Group Bhd ’s net profit for the 4QFY2024 rise by 21% YoY to RM806.1mn, led by its banking unit. Hong Leong Bank’s net profit for 4QFY2024 rose nearly 20% to RM1.0bn compared to RM864.4mn over the same period a year earlier, thanks to higher operating income and provisions writeback.

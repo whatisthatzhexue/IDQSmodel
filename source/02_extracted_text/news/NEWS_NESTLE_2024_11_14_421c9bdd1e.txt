@@ -1,0 +1,16 @@
+[TITLE]
+Bursa falls as China's economy weighs on regional sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-11-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/14/bursa-falls-as-china039s-economy-weighs-on-regional-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI slipped into negative territory shortly after the start of the day's trading as China's recently announced stimulus measures failed to impress investors. At 12.30pm, the key index was down 4.11 points to 1,607.39 while the broader index remained negative with 460 decliners compared to 410 gainers. The trading volume was 1.91 billion shares changing hands for RM1.18bil. There was a further selling in the plantations sector, with declines in SD Guthrie falling 12 sen to RM4.89 and IOI dropping two sen to RM3.98.
+
+[NEWS_P002] Kuala Lumpur Kepong, however, rose 14 sen to RM22.42 and United Plantations gained 88 sen to RM30.52. Meanwhile, in other sectors, Maxis shed 10 sen to RM3.53 while Nestle dropped 20 sen to RM100. Top actives on the market were Life Water, falling five sen to 89 sen, Cape EMS rising 1.5 sen to 39 sen and Classita gaining 1.5 sen to six sen. In key Asian markets, the sentiment remained subdued as worries over China's economy weighed on the regional outlook.
+
+[NEWS_P003] China's composite index dropped 0.32% to 3,428 while Hong Kong's Hang Seng slid 0.88% to 19,649. Japan's Nikkei was up 0.1% to 38,742, and Singapore's Straits Times was unchanged at 3,721.

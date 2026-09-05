@@ -1,0 +1,18 @@
+[TITLE]
+YTL Power, YTL Corp drive FBM KLCI higher at midday
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-09-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/12/ytl-power-ytl-corp-drive-fbm-klci-higher-at-midday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia advanced at midday, boosted by stronger Asian markets and overnight gains on Wall Street. At lunch break, the FBM KLCI climbed 4.26 points, or 0.26%, to 1,644.06, after reaching an intra-morning high of 1,649.87. Market breadth was positive with gainers outpacing losers 532 to 346, with 412 counters unchanged. Turnover was 1.62 billion shares valued at RM1.34bil. Dealers said Wall Street's gains buoyed market sentiment while investors assessed the latest U.S.
+
+[NEWS_P002] inflation data and its impact on the global interest rate outlook. Hong Leong Investment Bank Research said that the FBM KLCI is expected to trade sideways ahead of the FOMC meeting on September 18, with support at 1,613-1,628 and resistance at 1,650-1,660-1,690. It said this cautious outlook is due to the impact of strong US core CPI data and the lack of additional rerating catalysts. PETRONAS Chemicals, which added 10 sen to RM5.45, pushed the index higher by 1.1741.
+
+[NEWS_P003] YTL Corp and YTL Power each gained 10 sen, reaching RM3.50 and RM2.50 respectively, contributing 1.6250 and 1.2128 points to the index. On the broader market, United Plantations jumped 60 sen to RM27.62, Malaysian Pacific Industries rose 52 sen to RM27.34 and Dutch Lady added 50 sen to RM30.88. Nestle fell 40 sen to RM100.10, Hong Leong Bank lost 26 sen to RM21.24, Arka slid 15 sen to RM1.90 and Paragon Union declined 13 sen to RM3.23. Overnight, the Dow Jones Industrial Average rose 0.31% to 40,861.71, the S&P 500 gained 1.07% to 5,554.13 and the Nasdaq Composite gained 2.17% to 17,395.53.
+
+[NEWS_P004] TA Securities noted that blue chips are expected to remain range-bound while awaiting the results of the closely watched US inflation data and interest rate decisions. Meanwhile, foreign interest in key banking and utility stocks is likely to limit any downside. “Immediate index support remains at the recent correction low of 1,633, with 1,620 and 1,600 acting as stronger supports. “Immediate resistance is revised lower to 1,670, with the recent high of 1,684, then 1,695, the Dec 2020 high, as tougher resistance levels,” it added.

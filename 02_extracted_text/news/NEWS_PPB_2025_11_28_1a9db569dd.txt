@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia ends morning session easier
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-11-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/28/bursa-malaysia-ends-morning-session-easier
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended the morning session lower today with substantial selling observed across the board, tracking softer regional market movements amid a lack of fresh catalysts. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) fell 11.70 points, or 0.72 per cent to 1,605.76 from Thursday’s close of 1,617.46. The benchmark index, which opened 0.71 of-a-point easier at 1,616.75, swayed between 1,605.13 and 1,617.26 during the session.
+
+[NEWS_P002] The broader market was negative, with 710 decliners thumping 283 gainers. A further 471 counters were unchanged, 1,262 were untraded, and 48 were suspended. Turnover reached 2.64 billion units, valued at RM1.45 billion. Among heavyweights, Maybank was flat at RM9.98, Public Bank fell two sen to RM4.33, CIMB added one sen to RM7.49, Tenaga Nasional lost 10 sen to RM13.18 and IHH rose three sen to RM8.26. On the most active list, Foodie Media bagged 12 sen to 42 sen, Eastern & Oriental trimmed 6.5 sen to 69.5 sen, Tanco gained two sen RM1.13, TWL was flat at 2.5 sen and Perak Transit eased one sen to 26.5 sen.
+
+[NEWS_P003] Top gainers included BLD Plantation , which grew 60 sen to RM15.50, Allianz cliched 28 sen to RM18.96, Hong Leong Industries added 16 sen to RM15.20, DKSH put on 15 sen to RM5.20 and IOI Properties edged up 14 sen to RM2.57. Among the top losers, Nestle gave up RM1.60 to RM107.40, MPI shed 68 sen to RM32.32, United Plantations shaved 42 sen RM28.20, YTL Power and PPB both dwindled 28 sen to RM3.28 and RM11.02 respectively. On the index board, the FBM Emas Index shed 86.48 points to 11,934.18, the FBM Emas Shariah Index gave up 95.69 points to 11,905.54, and the FBMT 100 Index went down 83.07 points to 11,718.62.
+
+[NEWS_P004] The FBM Mid 70 Index dropped 109.90 points to 16,917.54 and the FBM ACE Index slipped 41.22 points to 4,815.44. Sector-wise, the Financial Services Index trimmed 24.91 points to 18,532.78, the Plantation Index reduced 48.67 points to 8,081.57, the Industrial Products & Services Index eased 0.25 of-a-point to 164.22 and the Energy Index shed 3.48 points to 752.45. - Bernama

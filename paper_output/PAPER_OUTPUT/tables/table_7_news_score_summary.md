@@ -1,0 +1,5 @@
+| N | mean | median | std | min | max | p25 | p75 | grade_A | grade_B | grade_C | grade_D |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 125 | 68.77 | 70.0 | 10.229839 | 50.0 | 91.25 | 62.5 | 75.0 | 11 | 52 | 44 | 18 |
+
+News score summary uses the broad manually preserved sample; company-focused strict subset is reported in the final freeze summary.

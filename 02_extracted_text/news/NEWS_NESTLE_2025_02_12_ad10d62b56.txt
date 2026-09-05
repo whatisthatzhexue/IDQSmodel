@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI breaks above 1,600 points for the first time in a month
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/12/fbm-klci-breaks-above-1600-points-for-the-first-time-in-a-month
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI finished higher today, crossing the 1,600 psychological level as blue-chip stocks saw steady buying interest. The 30-stock index rose 13.10 points, or 0.82%, to 1,603.05, its intraday high. It touched an intraday low of 1,592.32. The last time the benchmark index closed above the 1,600 level was on Jan 10 at 1,602.41. Despite the FBM KLCI’s gains, overall market breadth was negative, reflecting a cautious undertone among investors amid external uncertainties.
+
+[NEWS_P002] There were 492 gainers, 534 losers and 480 counters traded unchanged on Bursa Malaysia. Turnover rose to 3.15 billion shares valued at RM2.66bil. Among the gainers, Nestle jumped RM1.16 to RM91.96, F&N gained 50 sen to RM26.50, PETRONAS Dagangan added 48 sen to RM19.98 and PETRONAS Gas rose 44 sen to RM17.76. Malaysian Pacific Industries , the top decliner on Bursa Malaysia, slid 58 sen to RM21.54. PETRONAS Chemicals fell 19 sen to RM4.14, Genetec Technology lost 18 sen to RM1.42, Ideal Capital declined 15 sen to RM3.85 and Panasonic Manufacturing gave up 14 sen to RM17.30.
+
+[NEWS_P003] On the forex market, the ringgit was down 0.06% against the greenback to 4.4720. Around the region, MSCI's broadest index of Asia-Pacific shares outside Japan rose 0.76%. Asian benchmarks finished mostly higher with Japan’s Nikkei 225 and South Korea’s Kospi adding 0.42% and 0.37% respectively. Hong Kong’s Hang Seng index rose 2.64% and China’s CSI 300 Index closed up 0.95%.

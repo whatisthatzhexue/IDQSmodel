@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI slips on early profit-taking; TNB drags index after RM1.25bil tax ruling
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/03/fbm-klci-slips-on-early-profit-taking-tnb-drags-index-after-rm125bil-tax-ruling
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia fell in early trade Thursday on profit-taking, bucking the overnight gains on Wall Street, where the S&P 500 and Nasdaq closed at record highs. Overnight, the S&P 500 rose 0.47% to 6,227.42, while the Nasdaq Composite gained 0.94% to 20,393.13. The Dow slipped 0.02% to 44,484.42. At 9.19 am, the FBM KLCI had fallen 4.41 points, or 0.28%, to 1,545.80, after opening 4.07 points lower at 1,546.14. Tenaga Nasional (TNB), the top loser on Bursa Malaysia, slid 52 sen to RM14.08.
+
+[NEWS_P002] The Federal Court has allowed the Inland Revenue Board’s (IRB) appeal to reinstate an additional tax assessment of RM1.25bil against TNB for the 2018 assessment year, following a penalty remission from the original RM1.8bil notice. Other decliners include Heineken, which lost 16 sen to RM25.34, ViTrox, which fell four sen to RM3.62, and Hong Leong Financial Group, which declined four sen to RM16.50. Among the gainers, Nestle jumped 68 sen to RM78.18, Malaysian Pacific Industries rose 20 sen to RM22.60, LPI added 12 sen to RM14.86 and PPB Group climbed six sen to RM10.46.
+
+[NEWS_P003] Berjaya Research Sdn Bhd noted that although there has been limited progress on tariff negotiations, the return of foreign funds is helping to lift the key index, supported by ongoing portfolio realignment activities for the second half of 2025. “With conditions still looking sanguine, there should be further near-term upsides as the FBM KLCI capitalises on its position undertone to make further headway with the targets now at the 1,552-1,556 levels, followed by 1,561 points.
+
+[NEWS_P004] “The supports, meanwhile, are at 1,542-1,545 levels and 1,540 points respectively,” it added.

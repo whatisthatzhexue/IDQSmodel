@@ -1,0 +1,63 @@
+document_id: MDA_5202_MSM_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 121, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 298.499, "paragraph_count": 121, "paragraph_length_distribution": {"max": 1580, "mean": 668.901, "min": 79}, "repetition_ratio": 0.07438, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Business Review
+NY11 RAW SUGAR PRICE
+PROCUREMENT OF RAW SUGAR
+1,008,959
+tonnes
+968,646
+tonnes
+1,092,869
+tonnes
+NY11 RAW SUGAR PRICE
+[MDA_P031]
+Our
+decisionmaking processes are guided by the
+Malaysian Code on Corporate Governance
+2021 (MCCG 2021), in compliance with Bursa
+Malaysia's provisions of sustainability disclosures
+and reporting. • Established a Risk Committee led by our C-Suite to enhance our
+governance. • Established an approved six (6) new governance policies. • Included an additional feedback channel to encourage whistleblowing. • Our Anti-Bribery Policy Statement addresses seven specific policies and
+codes including the CoBCE, the Asset/Personal Interest Declaration
+Policy (APID), the Whistleblowing Policy, the Referral Policy, the Conflict
+of Interest Policy, the Sponsorships and Donations Policy and the External
+Gift, Entertainment and Hospitality Policy (GEH). Financial Performance
+MSM is committed towards its compliance to
+financial regulations, laws and accounting standards
+to ensure that its financial performance meets the
+mandated regulations to prevent penalties and legal
+ramifications. • Improved ASPs, lowered costs and improved domestic sales volume by
+expanding new channels and increasing Consumer Reach Points. • Recorded a loss before tax of RM179 million.
+[MDA_P061]
+(January 2001 - December 2002)
+• General Manager, International Business, DRB-HICOM Export Corporations
+Sdn Bhd (April 1998 - December 2000)
+• Director, Proton Cars (UK) Pte Ltd (1997 - 1998)
+• General Manager, Proton Corporations Sdn Bhd (1995 - March 1998)
+Directorship of Public Companies (if any):
+• Bermaz Auto Berhad
+Age
+Board Meeting
+Attendance:
+13/13
+Profile of
+Directors
+[MDA_P091]
+(1993 - 2008)
+• Accountant, FELDA (1991 - 1993)
+• Accountant, Syarikat Kumpulan Perbadanan Kemajuan Negeri Perak (1990)
+Directorship of Public Companies (if any):
+• Nil
+Profile of
+Directors
+NRC
+-
+[MDA_P121]
+• been imposed with any public sanction or penalty by the relevant regulatory bodies during the financial year.

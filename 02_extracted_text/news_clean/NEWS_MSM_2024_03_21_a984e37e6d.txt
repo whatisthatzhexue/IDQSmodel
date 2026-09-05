@@ -1,0 +1,22 @@
+[TITLE]
+Lack of refinement in sugar policy
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-03-21
+source_name: The Star
+url: https://www.thestar.com.my/news/nation/2024/03/21/lack-of-refinement-in-sugar-policy
+confidence_tier: low
+
+[NEWS_P001] GOVERNMENT incentives were given to a sugar refinery company even after sugar subsidies were stopped in October 2013, the Finance Minister II has acknowledged to a question raised by Datuk Seri Dr Wee Ka Siong in the Dewan Rakyat. Dr Wee, the Ayer Hitam MP, raised the issue during Datuk Seri Amir Hamzah Azizan’s reply to questions when debating the Supplementary Supply Bill (2023) 2024 at the committee level yesterday. He noted that the government stopped subsidising sugar since Oct 26, 2013, but pointed to a report by a business weekly that MSM Malaysia Holdings Bhd received a monthly RM24mil “special incentive” in November and December 2023 from the government.
+
+[NEWS_P002] This led to the company registering profits after eight consecutive quarters of losses. Dr Wee went on to question the government’s decision to impose an excise duty on sugary drinks from 40sen to 50sen per litre to highlight the flip-flop in policies about sugar. “Are we continuing with the sugar subsidy, like what is done (with incentives to a sugar refinery company)? Why does the Domestic Trade and Cost of Living Ministry say otherwise? What is our direction?
+
+[NEWS_P003] What is the ministry’s view about this, because it will affect all of us health-wise,” he added. In his reply, Amir Hamzah described the payment of financial incentives to the sugar refinery companies as “temporary,” without saying how long the assistance will last or if it is still being given. He said the incentive was given to ensure continuous supply and maintain sugar prices for consumers, adding that global sugar prices had soared and affected local producers.
+
+[NEWS_P004] Last year, the government allowed two local sugar-producing companies, MSM and Central Sugars Refinery Sdn Bhd (CSR), to produce clear refined white sugar effective May 25. MSM and CSR were told to continue producing 42,000 tonnes of refined white sugar every month. According to a report from BIMB Securities Research, despite Malaysia’s controlled sugar price being the cheapest in the region and globally, local sugar producers are obligated to meet a minimum monthly quota of 24,000 tonnes.
+
+[NEWS_P005] To address this challenge, it said MSM received RM1,000 per tonne in a special incentive for November and December 2023 for coarse granulated sugar (CGS) for 1kg and 2kg packs, and fine sugar for 1kg packs, to cover its cost. This financial incentive translated into an additional RM48mil and helped turn the company around, with a net profit of RM42.87mil for the fourth quarter ended Dec 31, 2023, after it had been loss-making for eight consecutive quarters.
+
+[NEWS_P006] The company also attributed the improved earnings performance to the special incentives from the government. In a Facebook post yesterday, Dr Wee asked if such a financial incentive was not a form of subsidy. “Incentives instead of subsidies? Are the incentives temporary? For how long? “Who can explain the meaning of the report, which says the company had gone from suffering losses to making a profit? “Do all the sugar producers get a financial incentive too?” he wrote.

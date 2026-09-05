@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit opens higher versus US dollar following fed rate cut
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-11-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/08/ringgit-opens-higher-versus-us-dollar-following-fed-rate-cut
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit opened at the 4.38 level against the US dollar on Friday after the United States Federal Reserve (Fed) cut interest rates by 25 basis points (bps) during its Federal Open Market Committee (FOMC) meeting last night. At 8 am, the ringgit appreciated to 4.3860/4100 against the US dollar from yesterday’s close of 4.4020/4065. Bank Muamalat Malaysia Bhd chief economist Dr. Mohd Afzanizam Abdul Rashid noted that the Fed Funds Rate currently ranges between 4.50 per cent and 4.75 per cent.
+
+[NEWS_P002] Meanwhile, the 10-year US Treasury yield dropped by 11 bps to 4.31 per cent, and the US Dollar Index (DXY) eased by 0.55 per cent to 104.508 points. He explained that the Fed's decision was made despite uncertainties surrounding President-elect Donald Trump's policies for next year, which are viewed as potentially inflationary. "The Fed considers its current monetary policy stance to be restrictive, leaving room for possible rate reductions ahead. Consequently, we may observe the ringgit showing an upward trend today,” he told Bernama.
+
+[NEWS_P003] The ringgit was weaker against a basket of major currencies. It fell vis-a-vis the British pound to 5.6943/7255 from Thursday’s close of 5.6821/6879, dipped versus the Japanese yen to 2.8637/8795 from 2.8597/8629, and was slightly lower against the euro at 4.7347/7606 from 4.7317/7365 previously. The local note traded mixed versus ASEAN currencies. It rose versus the Philippine peso to 7.47/7.51 from 7.49/7.51 yesterday and went up against the Indonesian rupiah to 278.6/280.3 from 279.6/280.0 previously.
+
+[NEWS_P004] However, it weakened vis-a-vis the Singapore dollar to 3.3207/3394 from 3.3178/3216 at yesterday’s close and depreciated against the Thai baht to 12.8947/12.9767 from 12.8290/8492 previously. - Bernama

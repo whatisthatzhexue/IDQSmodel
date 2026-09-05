@@ -1,0 +1,18 @@
+[TITLE]
+Rally resumes on Bursa Malaysia on hopeful sentiment over US trade negotiations
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/30/rally-resumes-on-bursa-malaysia-on-hopeful-sentiment-over-us-trade-negotiations
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The Malaysian stock benchmark was mildly positive after a positive showing on Wall Street overnight as traders turned hopeful on news the US was nearing a trade deal with India. At 9am, the FBM KLC was up 2.51 points to 1,518.07, retracing some of the previous session's loss but capped below the 50-day simple moving average. According to TA Research, Bursa Malaysia is poised for a rebound today given the growing optimism the US will soon reach a trade agreement with its key partners.
+
+[NEWS_P002] "Immediate resistance is maintained at 1,527, which represents the 50%FR of the rally from the 1,369 low (June 2023) to the 1,684 peak (August 2024), with next upside hurdles seen at the 61.8%FR (1,564) and the 76.4%FR (1,610). "Immediate support remains at the 23.6%FR (1,444) with stronger supports seen at the 1,400 psychological level, followed by the June 2023 low of 1,369," it said in its technical commentary. Malacca Securities in its review said the rally could be capped as the domestic market will be closed tomorrow for the Labour Day holiday.
+
+[NEWS_P003] In its sectoral analysis, the broker said it observed certain technology counters forming round bottom formations such as SNS, Dufu Technology and ViTrox. Meanwhile, it said solar-related counters are trending higher, presenting trading opportunities for longer-term growth under the NETR masterplan. Malacca Securities said investors might also consider MYEG, which has partnered with MIMOS to launch the Malaysia Blockchain Infrastructure (MBI), aimed at driving blockchain innovation and digital asset integration across industries.
+
+[NEWS_P004] Stocks seeing positive trading action included Nestle, rising 92 sen to RM85.14, Cyberview rising 26 sen to RM2.35 and Kawan adding nine sen ot RM1.47. Most actively traded counters included Nationgate jumping five sen to RM1.33, Velesto rising 0.5 sen to 15.5 sen and Avangaad flat at 27.5 sen.

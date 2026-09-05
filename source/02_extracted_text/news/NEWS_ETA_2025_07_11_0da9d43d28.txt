@@ -1,0 +1,18 @@
+[TITLE]
+Beware of scam sites when applying for ETA to Britain
+
+[METADATA]
+ticker: ETA
+company_name: Annual Report 2020
+publish_date: 2025-07-11
+source_name: The Star
+url: https://www.thestar.com.my/lifestyle/travel/2025/07/11/beware-of-scam-sites-when-applying-for-eta-to-britain
+confidence_tier: low
+
+[NEWS_P001] Travellers planning a holiday in Britain are once again being warned about websites wildly overcharging for an unnecessary middle-man “service” when applying for electronic travel authorisation (ETA). One provider is charging as much as £85 (RM491), five times more than the cost on official channels, a consumer organisation in Germany is warning tourists. There is no added value in this service, as tourists are ultimately paying a company to forward their information to the British authorities.
+
+[NEWS_P002] The problem is that cancellations with such overpriced intermediary websites are generally impossible once the service (i.e. your information being submitted) has taken place. Instead, holidaymakers should only use the official channels of the British government for ETA applications. These include the UK ETA app, available for Android and iOS, and the website of the UK Home Office. This direct link leads to the application: https://apply-for-an-eta.homeoffice.gov.uk/apply/electronic-travel-authorisation/how-to-apply.
+
+[NEWS_P003] The cost is £16 (RM92), regardless of whether you apply in the app or on the website. In general, when applying for travel authorisations and visas, you should always exercise great caution and verify that it is the official website of the respective government, consumer advocates advise. After all, such processes involve sharing highly sensitive information – personal details from passports and credit card data. Since early April, travellers from much of Europe, as well as North America, South America and parts of Asia, have needed the digital travel authorisation ETA to enter Britain, provided they do not have another residence permit or visa.
+
+[NEWS_P004] The ETA allows you to travel to Britain to visit for up to six months. Malaysia, Singapore and Brunei are the only South-East Asian countries that are eligible for the ETA, while the rest of the countries in the region must apply for a visa instead. – dpa

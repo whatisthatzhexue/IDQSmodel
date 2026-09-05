@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia rises amid year-end window dressing
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2024-12-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/27/bursa-malaysia-rises-amid-year-end-window-dressing
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia opens on a steady note this Friday, driven by positive momentum from year-end window dressing activities, which continue to support market sentiment. At 9:14 am, the FBM KLCI rose 7.35 points, or 0.46%, to 1,621.05, after opening 3.86 points higher at 1,617.56. Among the gainers, United Plantations surged 64 sen to RM31.24, Tenaga Nasional jumped 46 sen to RM14.64, PETRONAS Chemicals added eight sen to RM4.97 and CCK Consolidated climbed six sen to RM1.61.
+
+[NEWS_P002] Scientex slid 17 sen to RM4.40, Kuala Lumpur Kepong declined 10 sen to RM21.38, Muda Holdings fell nine sen to RM1.07 and PETRONAS Gas eased eight sen to RM17.52. Based on 2025 estimates, the local bourse is currently trading at a price-to-earnings ratio of nearly 15x, which is considered reasonable, according to Rakuten Trade. “Nonetheless, daily volume traded remained low as foreign selling may be drying up, hence offering ample opportunities for the benchmark index to climb further, hopefully to above the 1,630 mark.
+
+[NEWS_P003] Rakuten expects the index to possibly hover within the 1,610-1,620 range today Inter-Pacific Research said the recent recovery in the past few sessions had helped the key index rise above the 200-day moving average, signalling a positive trend and indicating that the FBM KLCI is experiencing a bullish uptrend. However, the research house still thinks the positivity is benign for the time being, as the gains are largely seen as window dressing, and the longevity of the upsides remains in question.
+
+[NEWS_P004] At the same time, Bursa Malaysia’s fundamentals have seen little change and have become more unsettled due to ongoing selling by foreign institutions, which could continue to dampen sentiment in the near-to-medium term. “For now, however, the window dressing activities could persist as the key index aims for a more positive close to the year and could target the 1,615-1,617 levels over the near term, before making a pass at the 1,620-1,622 levels.
+
+[NEWS_P005] “On the downside, the immediate support is at 1,610 points, followed by the 1,605 level,” it said. Overnight, the S&P 500 slipped 0.04% to 6,037.59 points, while the Nasdaq Composite lost 0.05% to 20,020.36. The Dow Jones Industrial Average rose 0.07% to 43,325.80.

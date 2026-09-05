@@ -1,0 +1,124 @@
+document_id: MDA_3255_HEIM_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 36, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 206.465, "paragraph_count": 36, "paragraph_length_distribution": {"max": 1184, "mean": 939.417, "min": 99}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Emerging
+Stronger
+from the
+Crisis
+2022 was a new dawn as
+we stepped out from the
+global pandemic. Businesses
+reopened, social restrictions
+relaxed, international tourism
+resumed, and we pushed ahead
+to accelerate our recovery
+amidst the evolving challenges
+in the external environment. INTRODUCTION
+After a challenging two years in 2020
+and 2021 due to COVID-19, we stepped
+into 2022 with a cautious outlook
+especially with the unpredictable nature
+of events related to the global pandemic. For seven weeks in 2020 and a further
+11 weeks in 2021, we had to suspend
+operations at our Sungei Way Brewery
+in Petaling Jaya due to prolonged
+lockdowns. We are thankful that such a
+situation did not re-occur during 2022,
+as the high vaccination rate in the
+Malaysian population kept the severity
+of the pandemic under control. In April 2022, Malaysia began its
+transition to the endemic phase, with
+gradual reopening of international
+borders, revival of tourism, and lifting
+of various restrictions on social and
+economic activities.
+[MDA_P010]
+I am pleased to share that
+our world-class brands
+continued to be recognised
+by consumers amongst
+Malaysia’s
+most trusted
+and preferred
+brands at the Putra
+Brand Awards 2022.”
+BREW A BETTER WORLD
+Alongside our efforts to deliver balanced
+growth, we are committed to create
+sustainable value for our stakeholders in
+a responsible way. HEINEKEN’s Brew a
+Better World sustainability strategy sets
+us on three important pathways:
+Together in this annual report, our ESG
+Review section comprehensively covers
+our initiatives and progress against
+our commitments as we continue
+integrating sustainability across our
+business. This year, we refreshed our
+materiality assessment to prioritise key
+material matters in contrast against
+our management of key business risks
+as well as environmental and climate
+risks. Our enhanced disclosures this year
+are aligned against Bursa Malaysia’s
+sustainability reporting requirements, the
+Global Reporting Initiative standards,
+the recommendations of the Task Force
+on Climate-related Financial Disclosures
+(TCFD), and FTSE4Good Bursa Malaysia
+Index.
+[MDA_P019]
+Throughout the
+night, guests danced the night
+away to live performances by
+local DJs BATE, Bass Agents,
+Jhin, Jodie and Hades. Exciting
+activities, including a Spin
+& Scan game for visitors to
+win attractive prizes while
+consumers got to create
+their very own personalised
+Heineken® bottle.
+[MDA_P028]
+HEINEKEN MALAYSIA BERHAD
+Annual REPORT 2022
+ESG
+Review
+How We Are
+Governed
+Our Numbers &
+Other Information
+Brand Highlights
+House of Guinness
+Following the launch of Guinness Draught in a Can in Malaysia, the House of
+Guinness was launched to officially introduce and bring consumers through the
+innovation behind the product. The hub gave fans an immersive experience in
+the world of Guinness at APW Bangsar where they were taken through a mission,
+comprising three tasks to be awarded the title of Guinness Innovation Expert. The House of Guinness ran from July to September, on Wednesdays to Sundays. In conjunction with the International Stout Day celebration, Guinness House
+of Guinness back for a further 2 weekends at Pavilion Bukit Jalil, and this time
+with the concept of #ItIsAMatterOfTaste, highlighting Guinness products and
+the magic behind them. Visitors explored different zones, uniquely created to
+depict the features of Guinness that make it the most loved stout brand among
+drinkers. The sensorial zones – roasted barley, hops, nitrogen, and widget zones
+– are equipped with various Instagram-worthy experiences highlighting the
+essence of Guinness in style.
+[MDA_P036]
+Our 2030 targets
+have been validated by the Science-Based Targets initiative
+(SBTi) as compliant with the 1.5°C approach to limiting global
+warming. Overall, we are confident that this strategy will enable
+a faster transition to a more sustainable world, with specific
+ambitions including carbon neutrality, moderation, circularity,
+healthy watersheds, diversity and community impact. We are committed to meeting our 2030 goal ambitions
+through close monitoring and a proactive approach to the
+implementation of our initiatives. Data on each key initiative is
+tracked and updated regularly during Sustainability Committee
+meetings. Meetings are conducted quarterly to ensure the
+desired progress is made throughout the year.

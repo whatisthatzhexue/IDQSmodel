@@ -1,0 +1,50 @@
+document_id: MDA_9946_ETA_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 86.679, "paragraph_count": 21, "paragraph_length_distribution": {"max": 1198, "mean": 331.0, "min": 19}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Our History and Business
+Rex was incorporated on 26 November 1993 as a private limited company under the Companies Act 1965 by
+the name of Kompetitif Pertama Sdn Bhd. The Company acquired the entire issued and paid-up share capital of
+Rex Canning Co. Sdn Bhd, Rex Trading Sdn Bhd and Rex Foods Sdn Bhd and took on the function as a holding
+company in conjunction with the listing of Rex on Bursa Malaysia Securities Berhad ("Bursa Securities"). The
+Company changed its name to Rex Industry Sdn Bhd on 5 February 1994. It was converted to a public limited
+company on 16 February 1994 and adopted its present name. Rex was listed on the Second Board of Bursa
+Securities on 29 November 1995. Rex Group is involved in the manufacturing of canned food, beverage and confectionary products. Rex Canning
+Co. Sdn. Bhd. a wholly owned subsidiary of Rex was founded in 1965 and has since grown into a leading
+manufacturer, distributor and exporter of halal canned products, frozen food, and beverages in Malaysia.
+[MDA_P006]
+2,934
+(43,414)
+(4,181)
+The Board is committed to continue with prudent measures to improve the Group’s financial performance and
+deliver satisfactory results taking cognizance of the prevailing business environment.
+[MDA_P011]
+(Loss)/Profit before Tax after
+Minority Interest
+(8,396)
+3,912
+2,934
+(43,414)
+(4,181)
+[MDA_P016]
+After tax return on
+shareholders’ fund (%)
+(9.29)
+2.04
+1.56 (42.87) (4.32)
+Pre-tax profit margin (%)
+(5.63)
+2.44
+1.82 (26.73)
+(3.20)
+Financial Ratio
+[MDA_P021]
+DAMENDRAN KUNARETNAM
+Group Managing Director

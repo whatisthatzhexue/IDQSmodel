@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI, regional indices push higher on rate cut hopes
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-06-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/06/fbm-klci-regional-indices-push-higher-on-rate-cut-hopes
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Investors remained bullish on the FBM KLCI as hopes the Federal Reserve will slash interest rates in September continued to rise. At 12.30pm, the key index was up 3.25 points to 1,611.78, underpinned by positive market sentiment. The broader market registered 604 gainers to 451 decliners while 464 stocks remained unchanged. Total trading volume was 3.02 billion valued at RM2.15bil. Among blue chips, Tenaga Nasional jumped 44 sen to RM13.70, YTL Corp rose four sen to RM3.63 and YTL Power gained five sen to RM5.04.
+
+[NEWS_P002] PPB was up 14 sen to RM14.64, MISC added six sen to RM8.56 and Hong Leong Bank climbed six sen to RM19.40. Meanwhile, MPI rose 34 sen to RM38.34, Globetronics gained 15 sen to RM1.48 and Vitrox added six sen to RM7.86. Of actives, WCT surged 18 sen to 80.5 sen, JCY rose 4.5 sen to 66 sen and SNS added 2.5 sen to 67.5 sen. In regional markets, most major indices were lifted on the latest US economic data. Japan's NIkkei rose 0.59% to 38,717, Hong Kong's Hang Seng added 0.59% to 18,533 and Singapore's Straits Times index climbed 0.47% to 3,345.
+
+[NEWS_P003] China's composite index was down 0.08% to 3,062.

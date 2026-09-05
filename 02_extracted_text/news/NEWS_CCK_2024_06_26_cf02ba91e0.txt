@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit ends lower against US dollar on Fed's potential hawkish outlook
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2024-06-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/26/ringgit-ends-lower-against-us-dollar-on-fed039s-potential-hawkish-outlook
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit ended lower against the US dollar today, as concerns about a potentially hawkish United States Federal Reserve (Fed) stance bolstered the greenback. At 6 pm, the ringgit traded at 4.7140/7185 against the greenback from Tuesday’s close of 4.7035/7070. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the ringgit initially showed strength against the US dollar, reaching RM4.7068 during the morning session.
+
+[NEWS_P002] "However, by afternoon, the ringgit had weakened to RM4.7145. This decline is largely due to market anxieties surrounding US interest rates, as the Fed’s preferred inflation gauge, the Personal Consumption Expenditure (PCE), is scheduled to be released this Friday (June 28). "The PCE inflation is expected to moderate to 2.6 per cent in May based on consensus estimates, after staying at 2.7 per cent for the past two months. These concerns about a potentially hawkish Fed have bolstered the strength of the US dollar, leading to the ringgit’s depreciation,” he told Bernama.
+
+[NEWS_P003] Meanwhile, the ringgit closed mostly higher against a basket of major currencies. The ringgit appreciated against the Japanese yen to 2.9459/9489 from 2.9513/9537, boosted against the euro to 5.0383/0431 from 5.0440/0478 but slid against the British pound to 5.9722/9779 from 5.9687/9732 at yesterday’s close. The ringgit was also mostly higher than its ASEAN peers. The ringgit rose vis-s-vis against the Thai baht to 12.8007/8185 from 12.8294/8431, inched up against the Singapore dollar to 3.4746/4782 from 3.4763/4792 and higher against the Philippine peso to 8.01/8.02 from 8.00/8.01.
+
+[NEWS_P004] The ringgit was almost flat against the Indonesian rupiah at 287.1/287.6 from 287.1/287.5 previously. - Bernama

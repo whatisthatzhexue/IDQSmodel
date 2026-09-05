@@ -1,0 +1,16 @@
+[TITLE]
+CCK sells 40% stake in Indonesian subsidiary PT Adilmart to Creador
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2024-09-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/12/cck-sells-40-stake-in-indonesian-subsidiary-pt-adilmart-to-creador
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: CCK Consolidated Holdings Bhd is divesting 40% stake in its Indonesian subsidiary, PT Adilmart, to Creador, a prominent private equity firm. CCK, in a statement, said the strategic partnership is aimed at accelerating the growth and expansion of PT Adilmart, a fast-growing consumer foods brand in Indonesia. Specialising in frozen food production, PT Adilmart has emerged as a key player in Indonesia, offering a variety of frozen products such as sausages, nuggets, burgers, and bakso under the brands Jofrans, Chop Chop, and Hoho.
+
+[NEWS_P002] With manufacturing facilities located in Cikupa and Pontianak, PT Adilmart has built a strong foothold in Kalimantan and Central Java, and is planning to expand its production capacity to meet the rising demand. CCK group managing director John Tiong Chiong Hiiung said the group is excited to partner with Creador, whose proven track record in the consumer sector aligns with its vision for PT Adilmart’s future growth. “With Creador’s expertise and our established brand presence supported by a strong local distribution network, we believe this partnership will enhance our capacity to meet the growing demand for frozen consumer foods in Indonesia.
+
+[NEWS_P003] “The upcoming commissioning of our third production facility will further support our growth strategy and give us a springboard as we expand PT Adilmart’s footprint and distribution coverage to other key markets in Indonesia.”

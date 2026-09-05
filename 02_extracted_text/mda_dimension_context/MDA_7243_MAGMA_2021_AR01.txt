@@ -1,0 +1,111 @@
+document_id: MDA_7243_MAGMA_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+1.
+FINANCIAL REVIEW
+[MDA_P003]
+The summary of the Statement of Comprehensive Income is as follows:
+(RM ‘000)
+FYE 2021
+FPE 2020
+(18 Months)
+Variance FYE 2021
+vs. FPE 2020
+Revenue
+19,499
+33,818
+(42%)
+Gross Profit (“GP”)
+6,193
+17,256
+(64%)
+Gross Profit Margin (“GPM”)
+31.8
+51.0%
+Administrative Expenses
+(6,723)
+(18,032)
+(63%)
+Other Cost
+(9,938)
+(63,164)
+(84%)
+(Loss) Before Tax (“LBT”)
+(10,467)
+(63,940)
+(84%)
+(Loss) After Tax from Continued Operations (1)
+(“LAT”)
+(10,730)
+(62,374)
+(83%)
+Note:
+(1)
+Attributable to owner of the Company
+[MDA_P004]
+For FYE 2021, the Group recorded a total revenue of RM19.50 million, lower as compared to FPE 2020
+of RM33.81 million which represents a decrease of RM14.31 million or 42%. The decrease included
+all segments under IHB Group comprising Hotel Operations, Hotel Management and Property Sales.
+During the FYE 2021, Impiana Cherating Sdn Bhd (“Impiana Cherating”), a wholly-owned subsidiary of
+the Company undertook the development and property sale of Impiana Resort & Residences Cherating
+(“IRC”) where the property shall be operated by Impiana Cherating as a resort. “Revenue recognised in
+FYE 2021 is based on the work progress on site.
+[MDA_P009]
+The Group total asset increased from RM194.72 million recorded in FPE 2020 to RM203.93 million in
+FYE 2021 by 5%. The increase was mainly due to recognition of additional contract assets of RM37.74
+million. The intangible assets were mainly on the hotel management rights where a subsidiary of the
+Company has the rights over the management of hotels under the Impiana brand.
+[MDA_P010]
+On trade receivables, it decreased from RM19.53 million in FPE 2020 to RM2.77 million in FYE 2021
+mainly due to the reversal of impairments from amount owing from trade debtors. In addition, contract
+assets which arose from the IRC project, for work completed on property development, but not yet billed
+at the reporting date were recognised. The Management is not aware of any possible non-collection
+from these trade receivables and contract assets.
+[MDA_P015]
+The Group’s revenue for FYE 2021 was derived from the hospitality and the property development
+businesses. The hospitality revenue was derived from Impiana Ipoh Sdn. Bhd. (“IISB”), hotel management
+revenue from Impiana Hotels & Resorts Management Sdn. Bhd. (“IHRM”) and property development
+revenue was from Impiana Cherating. Please refer to the Outlook in the “Executive Chairman’s Statement”
+section in this Annual Report.
+3.
+BUSINESS RISKS OVERVIEW
+[MDA_P016]
+The performances of the Company and its subsidiaries in the hospitality business are dependent on the
+following key risk areas:
+(a)
+Changes in Economic Environment and Natural Disasters
+[MDA_P018]
+However, the Group manages the above risks by constantly monitoring movements in economy to
+pre-identify risks to ensure that action plans are devised at an earlier stage to mitigate risk.
+MANAGEMENT DISCUSSION & ANALYSIS
+(Cont’d)
+[MDA_P019]
+FYE 2021 saw the global destruction brought about by the Covid-19 pandemic which not only
+resulted in human toll but also wreaked havoc to the global economy. To minimise the human
+toll, governments across the globe introduced severe restrictions on movement and business
+operations. International and even domestic borders were closed and employees were made
+to work from home. The closure of borders and movement restrictions severely affected most
+industries. Following airlines, the hospitality industry was one of the worst affected as the demand for
+business and leisure accommodation disappeared. The gradual relaxation of domestic movement
+restrictions has somewhat alleviated the situation, but as at time of writing, most international
+borders remain closed.
+[MDA_P028]
+The Group has an experienced finance team with expertise in financial planning to forecast the
+future costs that may be incurred in maintaining the Group assets and provide for such costs in
+financial projections and budgets. This will enable the Group to mitigate the risk from unplanned
+escalation of costs for future redevelopments, renovation works, and repair and maintenance of
+assets.
+(e)
+Competition Risk
+[MDA_P034]
+While these factors are beyond the Group’s control, the Group mitigates such risk by ensuring
+compliance with the relevant laws and regulations and conditions that are enforced and that the
+relevant licenses are obtained and renewed on a timely basis.
+MANAGEMENT DISCUSSION & ANALYSIS
+(Cont’d)

@@ -1,0 +1,68 @@
+document_id: MDA_2828_CIHLDG_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P009]
+Liabilities: Trade And Other Payables
+The Group’s trade and other payables increased 58% to RM286.0 million from RM181.29 million in FY2021. This is consistent
+with the higher revenue recorded in the current financial year. Capital Structure And Capital Resources
+The Group remains prudent in maintaining a sound financial position to enable the execution of strategic objectives in creating
+value over the coming years. The Group’s borrowings increased by 35%, from RM300.18 million to RM403.90 million during
+the year. The Debt/Equity ratio of 107% reported as at 30 June 2021 increased to 123% as at 30 June 2022. Noteworthy to
+mention that the debt was mainly for short term financing of no more than 90 days outstanding to purchase raw materials for sales. Known Trends And Events
+With the reopening of the economy as well as the National Recovery Plan being fully enforced. This has contributed to the
+improvement of the nation’s economic activity. The Group’s Edible Oil Products Division clocked in higher revenue with the global shortage of soft oil stocks which widened the
+premium of olein prices.
+[MDA_P010]
+This came after Malaysia recorded higher exports when the world’s largest palm oil producer restricted
+its palm oil exports due to several measures implemented plus the Russia-Ukraine war which disrupted the global supply chain of
+sunflower oil, pushing up demand for palm oil as an alternative. Plus the average crude palm oil (“CPO”) price hiting a record
+high of $1,800 per tonne in May 2022. This has undoubtedly benefited the Edible Oil Products Division in increasing sales
+exports. As a result, most of our sales orders were done with immediate delivery contracts, which fetched premium pricing at
+destination markets. Malaysia’s Tap and Sanitary Ware market is expected to slow down over the forecast period. The sluggish building and
+construction sectors has been severely affected due to the shortage of workers. The high prices for building materials caused
+by increases in their basic material prices and higher freight and shipping costs have caused many contractors to renegotiate
+their contracts with the property developers which have further delayed progress at sites.
+[MDA_P011]
+However, we still believe we can turn
+around the division’s performance given our planned costs cutting measures coupled with the strong demand in the private housing
+renovation, Do-It-Yourself (“DIY”) market as well as to the current Mass Rapid Transit (“MRT”) and Light Rail Transit (“LRT”) projects
+which are ongoing albeit at a slow pace due to the unavailability of workers at site. Despite all the challenges and uncertainties during the pandemic and now endemic phase, the Group is proud to state that we
+have strived to protect the employees’ future by paying their full take-home salaries, annual bonuses and salary increments without
+delay and with no pay cuts. Review Of Operating Activities
+Operating Activities
+Despite these challenging times, the Group is satisfied with the current period’s performance. The Group’s Profit Before Interest
+and Taxation of RM128.90 million did not differ much from the RM127.87 million recorded in the previous period. This is due
+to improved gross profit margins due to favorable selling margins at destination markets as a result of the sharp increases in
+prices which resulted in increased immediate delivery contracts.
+[MDA_P013]
+ANNUAL REPORT 2022
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)
+MANAGEMENT
+DISCUSSION AND ANALYSIS
+(continued)
+Anticipated Or Known Risks
+Foreign Exchange Risk
+The Group exports approximately 95% of its products worldwide each year, thereby increasing the risk of exposure to currency
+exchange. However, this risk is mitigated by way of forward currency contracts, wherever possible. Country Risk
+To a large extent, financial performance is dependent on political, economic and regulatory environment in the importing
+countries. Any adverse developments may result in default of contracts, collection problems leading to bad debts and possible loss
+of market share. The Group thus closely monitor the situation on a weekly and at times on a daily basis of the importing countries
+to identify, plan and execute counter measures to mitigate such risks. Future Prospects
+Possible Trend And Outlook
+The Group will focus on its expansion plans for revenue growth for its edible oil operations and with smart partnership tie-up with
+property developers for the tap-ware and sanitary ware divisions to enhance shareholders’ value.
+[MDA_P014]
+The Edible Oil Products Division is focusing on expanding its customer base as it aspires to maintain a constant flow of reliable
+customers from various markets. The Group is also striving towards achieving cost and operational efficiency in its daily operations. This has resulted in CRSB undergoing a business model restructure which is expected to result in improved future earnings and
+margins. Despite downward pressure on CPO prices, palm oil prices are likely to remain high in light of the tight overall edible
+oils and fat supply internationally. At the same time, we are consistently focusing on improving margins for our own product
+range, predominantly in our own palm olein house brands and non-oil products such as soap-related products, evaporated and
+condensed milk and milk powder. The Tap and Sanitary Ware Division aims to focus on transportation mega projects, healthcare and retail for better profitability. The Government’s effort to improve intra city public transportation system provides an opportunity for the Division to expand its
+market.
+[MDA_P016]
+Besides targeting the end user, the Division is also offering
+attractive packages to the retailers to increased revenue in the near future. Dividend Policy
+The Group has no dividend policy in place on the account of possible requirements of funds for future expansions and growth.

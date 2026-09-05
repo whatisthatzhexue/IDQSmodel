@@ -1,0 +1,45 @@
+document_id: MDA_6432_APOLLO_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P005]
+(ii) Hap Huat Food Industries Sdn Bhd is principally engaged in distributing and marketing of compound
+chocolates, chocolate confectionery products and layer cakes in local market.
+[MDA_P007]
+The aim of the Group is to always fulfil the customer needs and requirements by using the latest equipment and
+technology. In order to achieve the aim, the Group uses only the finest natural ingredients sourced from a select
+panel of suppliers and employs state-of-art technology in manufacturing its products.
+[MDA_P012]
+The Group registered a turnover of RM190.39 million for the financial year ended 30 April 2021, an increase of 8.84%
+as compared to RM174.93 million in previous financial year ended 30 April 2020. 75.96% of the turnover was
+contributed by local market and there were no material changes on the sales proportion from previous financial
+year. During the financial year, the increase of sales demand in local market has improved the overall turnover of
+the Group.
+[MDA_P014]
+The profit after taxation had increased by 21.77% to RM17.34 million from RM14.24 million as recorded in the
+previous financial year. The increase in profit after taxation during the financial year was mainly due to reversal of
+impairment loss on Property, Plant and Equipment and fair value gain on other investments.
+[MDA_P020]
+Total assets had decreased from RM263.55 million as at last financial year end to RM260.61 million as at current
+financial year end mainly due to higher dividend paid during the financial year.
+[MDA_P022]
+RISK OVERVIEW
+[MDA_P023]
+The Group is currently facing a few risk factors that might affect the Group’s profitability. Those risks include the
+following:
+[MDA_P029]
+In this new era, consumers tend to consume healthy foods as compared to the olden days. The Group is aware of
+the shift in consumer preferences and understand that consumers nowadays prefer to consume healthier products
+with less sugar and sweetness. The Group will assess the risk and consider whether to produce healthier products
+in the near future to prevent potential loss of health-conscious customers.
+[MDA_P037]
+BUSINESS PROSPECT
+[MDA_P043]
+The Board of Directors are pleased to recommend a Final Dividend of 25 sen under the single tier system (tax
+exempt) for the financial year ended 30 April 2021. The dividend rate will subject to the shareholders’ approval at
+the forthcoming Annual General Meeting to be held on 28 October 2021. The dividend will be paid on 12 January
+2022 once it is approved.

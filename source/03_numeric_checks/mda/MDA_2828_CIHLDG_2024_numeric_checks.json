@@ -1,0 +1,56 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": -45.680586,
+      "current_value": 383.62,
+      "direction_word": "decreased",
+      "metric": "assets",
+      "note": "Assets: stated -46.00%, calculated -45.68%, status consistent.",
+      "previous_value": 706.23,
+      "source_text": "Assets: Trade Receivables Trade receivables decreased by 46% from RM706.23 million to RM383.62 million",
+      "stated_pct": 46.0,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": 47.086061,
+      "current_value": 368.48,
+      "direction_word": "increased",
+      "metric": "assets",
+      "note": "Assets: stated 47.00%, calculated 47.09%, status consistent.",
+      "previous_value": 250.52,
+      "source_text": "Assets: Cash And Bank Balances The Group’s bank balances and deposits placed with financial institutions increased by 47%, from RM250.52 million to RM368.48 million",
+      "stated_pct": 47.0,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": -24.346153,
+      "current_value": 318.48,
+      "direction_word": "decreased",
+      "metric": "borrowings",
+      "note": "borrowings: stated -24.35%, calculated -24.35%, status consistent.",
+      "previous_value": 420.97,
+      "source_text": "borrowings decreased by 24.35%, from RM420.97 million to RM318.48 million",
+      "stated_pct": 24.35,
+      "status": "consistent"
+    }
+  ],
+  "document_id": "MDA_2828_CIHLDG_2024",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "Assets: stated -46.00%, calculated -45.68%, status consistent.",
+    "Assets: stated 47.00%, calculated 47.09%, status consistent.",
+    "borrowings: stated -24.35%, calculated -24.35%, status consistent."
+  ],
+  "num_calculable_changes": 3,
+  "num_consistent_checks": 3,
+  "num_financial_mentions": 61,
+  "num_material_discrepancies": 0,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "strong"
+}

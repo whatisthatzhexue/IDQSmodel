@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 17.391304,
+      "current_value": 2.8,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P005]",
+      "metric": "margin",
+      "note": "margin: stated 18.40%, calculated 17.39% from profit/revenue, status minor_discrepancy.",
+      "previous_value": 16.1,
+      "source_text": "The actual LAT excluded fair value loss on other investments should be a Profit After Tax (\"PAT\") of RM2.8 million in FY 2022 as compared to LAT of RM4.4 million in FY 2021. The adjusted PAT of RM2.8 million recorded is contributed by the effort of the management team which continues to implement co",
+      "stated_pct": 18.4,
+      "status": "minor_discrepancy"
+    },
+    {
+      "calculated_change_pct": 539042.0,
+      "current_value": 539042.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P002]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 539042.00, stated total 96.90, difference 556186.89%.",
+      "previous_value": 96.9,
+      "source_text": "Analysis of Revenue FYE 2022 FYE 2021 (RM’000) (RM’000) Manufacturing-further process products (“FPP”) 64,219 49,432 Food Service (HORECA and OEM) 16,709 13,013 Trading products 15,952 18,334 96,880 80,779 96,880 80,779 Our Group’s total revenue for FYE 2022 stands at RM96.9 million an increase by R",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    }
+  ],
+  "document_id": "MDA_5157_SG_2022",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "margin: stated 18.40%, calculated 17.39% from profit/revenue, status minor_discrepancy.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 539042.00, stated total 96.90, difference 556186.89%."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 43,
+  "num_material_discrepancies": 0,
+  "num_minor_discrepancies": 1,
+  "num_not_calculable": 1,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "moderate"
+}

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI bounces higher on bargain-hunting
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-07-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/31/fbm-klci-bounces-higher-on-bargain-hunting
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI continued its rebound in the early session as investors picked up bargains after the recent sell-off. At 12.30pm, the key index was up 6.75 points to 1,618.69. The broader market, however, remained notably negative with 686 decliners compared to just 298 gainers. The share turnover was 2.57 billion valued at RM1.41bil. Only four out of the 13 market sectors were positive with financial services and plantations leading the gains.
+
+[NEWS_P002] Among the leading blue chips, CIMB rose 15 sen to RM7.36, PPB gained 22 sen to RM14.82 and Kuala Lumpur Kepong added 16 sen to RM21.04. Meanwhile, Affin Bank surged 19 sen to RM3.14, Crescendo climbed 14 sen to RM4.80 and Kim Loong gained 12 sen to RM2.43. Top actives were Velocity down 0.5 sen to seven sen, Top Glove dropping eight sen to RM1.01 and Velesto rising 0.5 sen to 22.5 sen. In regional markets, Hong Kong's Hang Seng led gains after rising 1.9% to 17,326 while Mainland China's composite index surged 1.79% to 2,930 on bets the government will announce more stimulus measures to prop up the economy.
+
+[NEWS_P003] Japan's Nikkei was flat at 38,517 while Singapore's Straits Times index gained 0.22% to 3,449.

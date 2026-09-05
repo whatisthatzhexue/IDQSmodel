@@ -1,0 +1,20 @@
+[TITLE]
+Strong ringgit – Stock winners and losers
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/07/strong-ringgit---stock-winners-and-losers
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: The ringgit’s rally in recent weeks will benefit businesses that import a lot and have large US dollar debt exposure, while those with large US dollar sales exposure are likely to face profit headwinds. Hong Leong Investment Bank (HLIB) Research said potential stock winners from the ringgit’s 6.5% rally year-to-date (y-t-d) include Tan Chong Motor Holdings Bhd , Sime Darby Bhd , Capital A Bhd , Carlsberg Malaysia Bhd, Heineken Malaysia Bhd , QL Resources Bhd , Nestle (M) Bhd and Astro Malaysia Holdings Bhd .
+
+[NEWS_P002] It noted that stocks likely to face pressure include Vstecs Bhd , Uchi Technologies Bhd , Hartalega Holdings Bhd , Kossan Rubber Industries Bhd , Top Glove Corp Bhd , Dayang Enterprise Holdings Bhd , Deleum Bhd , Keyfield International Bhd, together with all technology stocks as well as wood-based manufacturers such as Evergreen Fibreboard Bhd and Heveaboard Bhd . “For the remainder of 2025, we retain our expectation for the ringgit to appreciate broadly, with an average exchange rate of RM4.35/US dollar (2024: RM4.57/US dollar; y-t-d average: RM4.43/US dollar), and a year-end target of RM4.10/US dollar,” it said, expecting the US Federal Reserve (Fed) to cut benchmark interest rates by 50 basis points in the second-half of 2025 despite risks to inflation from unpredictable tariff policies.
+
+[NEWS_P003] The research house cautioned that the rally was subject to volatility as Bank Negara might lower interest rates by 25 basis points to 2.75% in response to worsening global economic conditions that would narrow the interest rate differential and offer support to the ringgit. While the ringgit would benefit from the country’s relatively favourable domestic economic outlook and ongoing government commitment to fiscal reforms, the research house said the currency continued to be susceptible to volatility in global financial markets, amid uncertainties surrounding future global policy direction, the Fed’s trajectory, along with ongoing geopolitical tensions.
+
+[NEWS_P004] HLIB Research has retained a target of 1,690 points based on a conservative 14.5 times price-to-earnings ratio for the local bourse’s benchmark KLCI. “We caution that volatility remains a core feature of today’s market climate, particularly with Trump at the helm, and urge investors to look beyond the current ringgit’s strength. “Focus instead on risk-reward elements and fundamentals. As such, we still advocate to tactically sell on strength, with a readiness to pivot to buy on weakness strategy when chances arise,” it said.
+
+[NEWS_P005] The research house said this would be a good time for investors to reassess their portfolio composition and lower beta (volatility) exposure. “Accordingly, we also adopt a barbell strategy by pairing high-dividend, big cap, defensive stocks with selective positioning into undervalued laggards,” the research house added.

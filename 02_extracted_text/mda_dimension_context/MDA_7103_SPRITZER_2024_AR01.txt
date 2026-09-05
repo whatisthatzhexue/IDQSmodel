@@ -1,0 +1,152 @@
+document_id: MDA_7103_SPRITZER_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 29, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+BUSINESS AND OPERATIONS OVERVIEW
+The Malaysian economy grew by 5.0% in the fourth
+quarter of 2024. This performance was supported by
+strong expansion in investment activities, growth in
+export of goods and services and sustained household
+spending. For the overall 2024, Malaysia’s economy had
+achieved 5.1% growth marking a significant growth from
+the 3.7% achieved in 2023 driven by stronger domestic
+demand and higher investment. This marked a shift from
+the slower growth in 2023, which was affected by weaker
+global demand and tighter monetary conditions. In 2024,
+better investor confidence, a rebound in tourism and
+construction, and easing inflation boosted household
+spending. Overall, improved local and global conditions
+helped Malaysia recover and strengthen its economic
+performance compared to the previous year. Our Group’s revenue continued to reflect this economic
+strength, achieving an encouraging 21% growth in the
+current quarter and 18% for overall 2024.
+[MDA_P006]
+SPRITZER BHD
+ANNUAL REPORT 2024
+In line with our innovation agenda, we have begun adopting generative artificial intelligence (“AI”) within the past year to
+support functions, content creation, market analysis, and customer engagement, with employees using tools like Copilot and
+ChatGPT to improve productivity. While still in the early stages, this technology is expected to enhance operational efficiency
+and decision-making over time. We are also exploring the potential of agentic AI to further automate routine processes and
+optimise resource utilisation, with the goal of improving productivity and responsiveness across our operations. Sustainability remains a strategic priority. We have introduced eco-friendly packaging and are collaborating with partners to
+reduce packaging waste and improve recycling rates, contributing to a greener and more sustainable future. Our strategies are guided by trustworthiness, integrity, respect, and open collaboration—values that drive innovation,
+excellence, and inclusive growth in the competitive bottled water industry.
+[MDA_P007]
+Financial Highlights
+The Group
+Change
+%
+Revenue (RM’000)
+578,988
+490,675
+88,313
+Other gains and losses (RM’000)
+(2,576)
+3,628
+(6,204)
+(171)
+Profit before tax (RM’000)
+79,361
+65,924
+13,437
+Profit for the year (RM’000)
+71,111
+49,486
+21,625
+Profit before tax margin (%)
+13.7
+13.4
+0.3
+Net profit margin (%)
+12.3
+10.1
+2.2
+Basic earnings per share (sen)
+22.3
+15.5
+6.8
+Diluted earnings per share (sen)
+22.0
+15.2
+6.8
+Dividend per share (sen)
+8.0 *
+5.5
+2.5
+Dividend payout ratio (%)
+Total assets (RM’000)
+772,116
+687,910
+84,206
+Total liabilities (RM’000)
+190,118
+160,879
+29,239
+Current ratio (time)
+1.7
+2.0
+(0.3)
+Quick ratio (time)
+1.4
+1.6
+(0.2)
+No. of shares in issue (less treasury shares) (‘000)
+318,369
+316,291
+2,078
+Total equity (RM’000)
+581,998
+527,031
+54,967
+Net debt to equity ratio (%)
+4.6
+3.3
+1.3
+Net assets per share (RM)
+1.83
+1.67
+0.16
+Market capitalisation (RM’000)
+977,393
+578,813
+398,580
+Share price (RM)
+3.07
+1.83
+1.24
+* Restated to incorporate the effects of the bonus issue of one bonus share for every one existing share held, completed
+in February 2025 for comparative purpose. Management Discussion and Analysis
+[MDA_P010]
+Profit before tax, net profit, and earnings per share
+The Group’s current year profit before tax rose by 20% to RM79.4 million (2023: RM65.9 million), mainly attributed to
+increased sales revenue driven by higher bottled water sales volume. The Group’s profit for the year rose by 44% to RM71.1 million (2023: RM49.5 million), driven by higher sales revenue
+and a lower income tax expense. The decrease in income tax expense in 2024 compared to 2023 was primarily due to
+reinvestment allowances claimed on new plant and machinery that were installed and used during the year. Additionally,
+there was no derecognition of deferred tax brought forward in 2024, whereas RM4.5 million was derecognised and charged
+to profit and loss in 2023. In line with the higher earnings, The Group’s basic earnings per share and diluted earnings per share for the year stood at
+22.3 sen and 22.0 sen (2023: 15.5 sen and 15.2 sen) respectively.
+[MDA_P012]
+SPRITZER BHD
+ANNUAL REPORT 2024
+Financial position
+The Group’s financial position remained strong in 2024,
+underpinned by higher net earnings of RM71.1 million for
+the year. Total assets increased by RM84.2 million, or 12%,
+from RM687.9 million as of December 31, 2023, to RM772.1
+million as of December 31, 2024. This growth was primarily
+driven by the acquisition of property, plant, and machinery
+to support the expansion of our production facilities, along
+with a 27% rise in trade and other receivables to RM121.5
+million (2023: RM96.0 million), in line with the significant
+increase in sales during the year. Total liabilities rose by RM29.2 million, or 18%, from
+RM160.9 million as of December 31, 2023, to RM190.1
+million as of December 31, 2024. This increase was
+mainly attributable to a 46% rise in other payables to
+RM32.4 million (2023: RM22.2 million), related to ongoing
+investments in property, plant, and machinery. Short-
+term bank borrowings also increased by 33% to RM23.0
+million (2023: RM17.3 million), to finance working capital
+requirements.

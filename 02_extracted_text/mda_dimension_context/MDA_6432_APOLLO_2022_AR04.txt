@@ -1,0 +1,44 @@
+document_id: MDA_6432_APOLLO_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 42, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P009]
+•
+Implement and maintain quality management system and continually improve its effectiveness
+•
+Produce products with top quality of raw and packaging materials
+•
+Use world class wafer and layer cake manufacturing machinery from Europe and constantly upgrade to improve
+the quality and competitiveness
+•
+Enhance customer satisfaction by meeting customer requirements
+•
+Recognize customers’ needs by introducing individual packaging
+•
+Implement quality assurance procedures such as HALAL and ISO accreditation
+[MDA_P014]
+The profit after taxation had decreased by 42.50% to RM9.97 million from RM17.34 million as recorded in the
+previous financial year. The decrease in profit after taxation during the financial year was mainly due to lower gross
+profit margin as a result of higher raw material costs as compared to previous financial year.
+[MDA_P022]
+RISK OVERVIEW
+[MDA_P023]
+The Group is currently facing a few risk factors that might affect the Group’s profitability. Those risks include the
+following:
+[MDA_P024]
+(i) Fluctuation of Raw Material Prices
+[MDA_P025]
+The fluctuation of raw materials’ prices will have an impact on the Group’s profitability. The Group has taken steps
+in reducing the risk of price fluctuation by negotiating better terms with suppliers. Under the supervision of the
+Directors, Purchasing Department monitors the prices closely and assures that the quality of raw materials is
+maintained despite the lower purchase price.
+[MDA_P031]
+The Group has implemented quality management systems and quality assurance procedures via HALAL and ISO
+accreditation and sources raw materials from reputable and reliable suppliers to maintain the quality of the product.
+[MDA_P037]
+BUSINESS PROSPECT
+[MDA_P039]
+With the stabilisation of key raw materials supply chain and prices, the revenue and results of the Group are
+expected to improve in the forthcoming financial year.

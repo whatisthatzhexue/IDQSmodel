@@ -1,0 +1,130 @@
+document_id: MDA_5306_FFB_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+IN A CONSTANTLY CHANGING
+BUSINESS LANDSCAPE,
+CHARACTERISED BY EVOLVING
+CONSUMER PREFERENCES,
+REGULATORY SHIFTS AND GLOBAL
+CHALLENGES, WE REMAIN
+COMMITTED TO MANAGING THE
+COMPLEXITIES OF OPERATING FROM
+GRASS TO GLASS IN THE DAIRY
+INDUSTRY, ENSURING EFFICIENCY,
+QUALITY AND RESPONSIBILITY AT
+EVERY STAGE.
+AMIDST A MOSTLY FAVOURABLE
+MACROECONOMIC ENVIRONMENT, WE
+ACHIEVED POSITIVE RESULTS DURING
+FY2024 WHILE MAKING SIGNIFICANT
+STRIDES ACROSS ALL THREE OF OUR
+BUSINESS SEGMENTS, HIGHLIGHTED
+BY NUMEROUS STRATEGIC
+EXPANSION, DIVERSIFICATION AND
+SUSTAINABILITY INITIATIVES.
+Farm Fresh Berhad
+M a n a g e m e n t D i s c u s s i o n a n d A n a l y s i s – O p e r a t i o n a l R e v i e w
+OPERATIONAL
+REVIEW
+[MDA_P002]
+THIS OPERATIONAL REVIEW
+OUTLINES THE KEY ACHIEVEMENTS
+OF OUR FARMING, MANUFACTURING
+AND DISTRIBUTION SEGMENTS OVER
+THE PAST YEAR, REVEALING THEIR
+CURRENT AND FUTURE IMPACT ON
+OUR BUSINESS OPERATIONS AND
+GROWTH PROSPECTS.
+Integrated Annual Repor t 2024
+[MDA_P005]
+Farms
+(5 in Malaysia,
+1 in Australia)
+(5 in Malaysia,
+1 in Australia)
+(5 in Malaysia,
+2 in Australia)
+Total Acreage
+5,416
+5,367
+5,367
+Total Dairy Herd Capacity
+9,650
+11,000
+12,500
+Total Dairy Herd Size
+8,938
+10,985
+11,852
+UPDATES ON NEW AUSTRALIAN FARM
+We have purchased and completed the upgrading of a 300-acre farm property situated next to our processing facility in
+Kyabram. Due to its proximity, this new farm strategically fits to the next step expansion as it can absorb all the treated
+wastewater from our Kyabram trade waste pond thus adding value for farming purposes. The new farm will continue the
+AFS breed development for the Group’s Malaysian farms, which was previously done at another 350-acre farm situated
+further away at Echucha Road, Ardmona, which has since been disposed. We have equipped the new farm with a new
+rotary milking station and with the added milking capacity we will be able to increase the herd size to enable more milk
+production from our own farms in Australia.
+[MDA_P008]
+We are undertaking a butter churn expansion in Australia to be able to produce 20 metric tonnes of butter for local
+sales and for export markets. . STRATEGICALLY EXPANDING OUR
+MANUFACTURING CAPACITY
+EXPANDING OUR PRODUCT PORTFOLIO
+Driven by consistent and strategic innovation to meet evolving market expectations and expand across the dairy value
+chain, we successfully commercialised 16 new products in FY2024, increasing our total number of SKUs to 192. A major highlight was the introduction of a powder variant of our successful Farm Fresh Grow growing up milk, originally
+launched in FY2023. By creating a powder form of our nutritious milk, free from hidden or unnecessary ingredients, we
+have significantly increased the accessibility of Farm Fresh Grow to meet the rising demand for quality growing up milk. Other key launches during the year included Almond and Oat Barista Milk variants, Natural Farm Yoghurt, 100% Australia
+Organic Milk, Chocolate Mint Milk, Riceberry Milk and Cooking Cream. Looking ahead, we are on track to enter several new product categories in the upcoming financial year.
+[MDA_P010]
+Growing demand for honest
+and healthy growing up milk
+for children
+Evolving customer tastes
+and dietary needs
+Increasing commercial
+demand for UHT products,
+especially from HORECA
+sector
+High demand and low
+supply of dairy products
+in Asia-Pacific
+•
+Expanding our Farm Fresh Grow range to include a powder format,
+enhancing the accessibility of our milk formula within the market. •
+Maintaining the nutritional value of our products, alongside our promise of
+incorporating no hidden or unnecessary ingredients. •
+Our research and development team are constantly on the horizon by
+looking at the potential market and innovating new products that will serve
+our evolving customers. •
+Adding new lines to existing facilities to grow our manufacturing capacity. •
+Building new production facilities, most notably our upcoming central
+manufacturing hub at Enstek, to meet existing and future demand. Challenges & Opportunities
+Our Response
+Processing Facilities & Production
+•
+Expanding our international footprint by venturing into the Greater Manila
+market in the Philippines.
+[MDA_P012]
+DISTRIBUTION
+Our home dealer network remains a cornerstone
+of our operations, extending our reach into
+rural areas and create sustainable economic
+opportunities within local communities. As at
+the end of FY2024, our network comprising 58
+stockists, 762 home dealers and 971 agents has
+continued to play a vital role in promoting our
+products in less urbanised areas of the country,
+contributing 17% to our total revenue during
+the past financial year. As outlined last year, we have taken steps to
+expand our HORECA segment. Our efforts to do
+so have resulted in a significant uptick in
+customer recruitment and boosted HORECA
+sales during FY2024, contributing to a sales
+growth of 48.6% in the commercial UHT
+category. GROWING OUR DISTRIBUTION
+REACH AND EXPERTISE
+In preparation for our upcoming launch of CPG ice cream, we have enhanced our distribution capabilities through the
+strategic acquisition of a 70% stake in Sin Wah Ice Cream in October 2023.

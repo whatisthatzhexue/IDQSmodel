@@ -1,0 +1,18 @@
+[TITLE]
+Local institutions prop up Bursa Malaysia amid cautious sentiment
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-02-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/19/local-institutions-prop-up-bursa-malaysia-amid-cautious-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Local institutions could be supporting equities prices in the lead up to the release of earnings results over the next two weeks, said Rakuten Trade. The broker said in a morning note local institutions could be accumulating selective stocks ahead of the earnings season, which could explain the marginal rise in the FBM KLCI in the previous session despite continued foreign selling. On Wednesday, the benchmark index opened 1.62 points lower at 1,583.22, suggesting ongoing caution in the market.
+
+[NEWS_P002] This mirrored the mood on Wall Street, which reopened overnight after an extended weekend holiday, but saw a session of volatile trading. While the US indices ended on a positive note with a S&P500 reaching an all-time high, Rakuten Trade said the overall sentiment remained cautious as traders weighed on prevailing trade tensions and inflationary headwinds. "For today, we expect the FBM KLCI to hover between the 1,580-1,590 range as market undertone remains rather cautious," it said in its outlook.
+
+[NEWS_P003] On Bursa Malaysia, stocks were mostly negative. Maybank extended its fall by four sen to RM10.50 as the recent termination of the bank's chief financial officer unnerved investors. PPB dropped 24 sen to RM10.94 and Kuala Lumpur Kepong shaved 18 sen to RM18.42. Nestle fell 54 sen to RM90. Meanwhile, Hartalega , which plunged 23% in the previous session after a weak earnings result, remained wobbly, shaving one sen to RM2.60. The share was the third most active stock on Bursa Malaysia with 13.333 million shares traded as at 9.20am.
+
+[NEWS_P004] Other glove manufacturers were also sold down on fears of weak demand recovery in the wake of Hartalega's dismal result. However, Top Glove was seen bouncing back two sen to RM1.02 and Kossan Rubber gained two sen to RM1.99. Of actives, Ingenieur topped the list, unchanged at six sen after 66.58 million shares done, while MYEG was runner-up, also flat at RM1.03 after 22.65 million shares crossed.

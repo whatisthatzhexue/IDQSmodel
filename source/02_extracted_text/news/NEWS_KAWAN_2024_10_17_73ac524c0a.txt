@@ -1,0 +1,14 @@
+[TITLE]
+Lim Hun Soon is chairman of Kawan Food
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-10-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/17/lim-hun-soon-is-chairman-of-kawan-food
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Kawan Food Bhd has redesignated director Lim Hun Soon @ David Lim, as its chairman. In a filing with Bursa Malaysia, Kawan Food said Lim, 68, will succeed Gan Thiam Chai, 71. “Gan will be bestowed the title chairman emeritus on Oct 16, 2024 and stay on as adviser to provide guidance to support the continued growth of Kawan Food and its group of companies.” According to the company’s annual report, Lim had an extensive career serving as an auditor in KPMG, spanning 33 years.
+
+[NEWS_P002] During his career with KPMG, he was admitted as partner of the firm in 1990 and served in the management committee of the firm from 1997 to 2001 and in KPMG’s partnership supervisory council from 2002 to 2010.

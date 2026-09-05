@@ -1,0 +1,103 @@
+document_id: MDA_5157_SG_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+Analysis of Revenue (Cont'd)
+The Management will continue to monitor the prospect of secondary Covid-19 outbreak leading to the re-imposition of containment
+measures. Therefore, the Management will continue to improve its production efficiency and increase its production capacity to
+capture a bigger market share in the HORECA and OEM segment which has higher profit margin while sustaining its market share for
+FPP segment during post pandemic while Malaysia moves to open its economic segment in stages. The Management continued to put
+effort in monitoring its cash flow management and cost reduction programme that is important in view of the ever-changing business
+environment amidst the on-going Covid-19 impact and in future years.
+[MDA_P007]
+Losses Per Share (“LPS”)
+The impact of the lock down in 2nd half of FYE 2021 and impairment
+for expected credit losses had contributed to an overall loss after
+tax of RM4.4 million. As such, our Group has recorded loss per share
+of 1.47 sen for FYE 2021 as compared to loss per share of 18.04 sen
+in FYE 2020. Cash Flow Analysis
+FYE 2021
+FYE 2020
+(RM’000)
+(RM’000)
+Operating cash flow before
+working capital change
+2, 831
+2,240
+Changes in working capital
+(2,513)
+1,535
+Tax refund/(paid)
+(542)
+Interest paid
+(1,286)
+(1,621)
+Net cash from operating
+activities
+(1,510)
+2,333
+Our Group has recorded net cash used in operating activities of
+RM1.5 million in FYE 2021 as compared to net cash from operating
+activities of RM2.3 million in FYE 2020 after deducting interest
+paid of RM1.3 million for FYE 2021 and RM1.6 million for FYE
+2020 respectively. The decrease in cash from operating activities
+was due to the repayment of supplier and also payment of Real
+Property Gain Tax during the year under review. Even facing the
+Covid-19 pandemic challenge, the Group was still able to improve
+its current ratio at 7.2 times for FYE 2021 as compared to 1.02 times
+For FYE 2020.
+[MDA_P008]
+During the financial year under review, the Group raised funds of
+RM100.4 million through rights issue and placement of shares. The
+cash generated were used to pay off bank borrowing of RM24.6
+million and surplus cash and cash equivalent stood at RM80.9
+million as at 31 July 2021. During FYE 2020, the Group also reduced
+bank borrowing by RM0.8 million. FYE 2021
+FYE 2020
+(RM’000)
+(RM’000)
+Net cash generated from/(used
+in) investing activities
+(22, 418)
+(1,409)
+Net cash generated from/(used
+in) Financing activities
+75,749
+Net increase in cash and cash
+equivalent
+51, 821
+1,192
+The Group has planned to increase its production capacity by
+investing in new machineries and equipment in future years with
+the proceeds raised pursuant to the rights issue and placement
+of shares. In FYE 2021, the Group has invested RM2.1 million
+in FYE2021 as compared to RM1.62 million in FYE 2020 on the
+acquisition of plant and machineries. The spending was mainly in
+the acquisition of new enterprise resource planning “ERP” system
+and new machineries that will improve the production capacity in
+order to cater the customers demand when relaxing and opening
+of economic sectors in the near future.
+[MDA_P012]
+The increase were mainly due to the fund raising exercises
+such as Private Placement and Right Issue with warrants completed during the year under review. -
+The abovementioned cause our Group’s net assets per share to improve to 47 sen in FYE 2021 as compare to 44 sen in FYE 2020. Key Risk and Mitigation
+After implementing the distributorship model two (2) years ago, the Group was able to strengthen its credit control and minimised
+exposure of credit risks. However, due to the Covid-19 pandemic and lock down by government during the financial year, the Group had
+no choice but to maintain the staff force by absorbing the cost even though it was only able to carry out production at 60% capacity. The
+additional cost has contributed to the negative result during the financial year under review. As such, the Group will continue to put more
+effort in strengthen the growth of HORECA and OEM products and continue to sustain the increase in demand of FPP during the post
+COVID-19 period in the coming year.
+[MDA_P013]
+Trend, outlook, future challenge, strategy and capital expenditure
+The Group will continue to improve its operation efficiency with effective resources planning, practicing lean concept for operation work
+flow as well as empower the employees especially middle management to initiate and execute ideas for better production cost control by
+sharing their idea and thinking every day during our daily and monthly Head of Department meeting that will discuss the current situation
+of the Company and risks that were faced during the past month and will be facing in the coming months. Moving forward, with the pay off of bank borrowing and the plan of expansion of production capacity, the Group foresee increase in
+revenue and better performance in the coming year. With the current management team headed by our Executive Directors, the Group
+have will move at faster pace after the completion of the expansion project in FYE 2022. The Group is expected to further strengthen
+its financial performance to maintain or exceed the current momentum based on the strategic plans that have been put in place by the
+Management with the view to further improve on the generating cash flow.

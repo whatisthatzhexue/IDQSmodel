@@ -1,0 +1,127 @@
+document_id: MDA_7216_KAWAN_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 30, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 199.359, "paragraph_count": 30, "paragraph_length_distribution": {"max": 1212, "mean": 886.8, "min": 154}, "repetition_ratio": 0.2, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Dear Shareholders,
+I am proud that Kawan has a team with great
+people who possess strength and resilience
+to overcome the tough challenges over
+the year. Together, we have faced difficult
+periods and emerged stronger. I have full
+confidence that we will continue to rise
+to the occasion and navigate through
+any future obstacles with determination
+and excellence.
+Executive Chairman
+Gan Thiam Chai
+Profit Before Taxation
+RM40.1 Mil
+2021: RM36.7 million
+Profit After Taxation
+2021: RM31.8 million
+RM38.5 Mil
+[MDA_P008]
+Our approach is built on
+our
+sustainability
+strategic
+framework
+encompassing
+three
+pillars: Trusted Enterprise, Nurturing & Empowering People and
+Environmental Stewardship. We have laid a solid foundation and
+are seeking ways to fulfil our commitments. In FY2022, we prioritised
+the development of policies, processes, targets and budget while
+continuing to integrate sustainability into our day-to-day operations. Our sustainability agenda has progressed significantly over the last
+12 months and we are well on our way to embedding sustainability as
+part of our business. Moving forward, we will concentrate our efforts
+on short, mid- and long-term commitments under these three pillars. Our People
+Kawan is committed to fostering a culture that enables our
+people to realise their potential by building the capability of our
+leaders and leveraging the power of a diverse workforce. Our goal is to create an inclusive culture that encourages our
+people to be themselves and unlock their full potential. We
+prioritise inclusion and diversity and make informed business
+decisions based on diverse perspectives.
+[MDA_P016]
+A detailed explanation of Kawan’s risk management approach and internal control activities can be found in the Statement on
+Risk Management and Internal Control on pages 89 to 95 of this report. Monitored impact of post pandemic factors
+on employee safety, business continuity,
+supply chain, impact on growth, productivity,
+operations, service delivery and financial
+resilience;
+Reviewed top risks in terms of risk trend,
+the likelihood of their occurrence, potential
+impact and progress of mitigation action;
+Continuously monitored the effectiveness of
+the measures taken by the Group;
+Reviewed key updates in relation to business
+continuity that were provided by Management;
+Reviewed key strategic, financial, regulatory,
+operational risk and actions based on the
+external assessments of the risk register and
+internal audit findings.
+[MDA_P023]
+ANNUAL REPORT 2022
+KAWAN FOOD BERHAD
+Management Discussion & Analysis
+GROUP FINANCIAL
+REVIEW
+Financial Performance
+The Group achieved revenue
+of RM293.2 million for FY2022,
+16.4% higher compared to
+RM251.8 million in FY2021, driven
+by higher selling price and the
+easing of supply bottlenecks in
+container shipments.
+The revenue growth was contributed by both
+domestic and export sales, where domestic sales
+grew by 9.2%, and export sales grew by 31.0%.
+Flatbread remained the highest contributor to
+the Group’s sales revenue in terms of product
+type, accounting for 57.3% of all sales. In terms of
+revenue contribution by geographical segments,
+Malaysia remained the largest market for Kawan,
+generating 45.3% of the Group turnover, followed
+by North America at 22.3% and Asia at 17.0%.
+The Group’s PBT in FY2022 increased by 9.5% to
+RM40.1 million but PBT margin declined by 0.9%
+to 13.7% mainly due to higher input cost despite
+higher selling price and cost optimisation.
+ACHIEVED
+RM293. 2 MILLION
+IN REVENUE
+_
+INCREASE OF
+16.4%
+compare to 2021
+199,985
+214,087
+254,703
+251,770
+293,231
+Revenue (RM‘000)
+132,874
+136,076
+155,105
+177,220
+205,075
+Retained Earnings (RM‘000)
+[MDA_P030]
+We are very much looking forward to welcoming Mr Adam Pandian, who
+will join us as Executive Adviser to Chairman and Head of Transformation
+in FY2023. As the Executive Chairman, I am truly grateful for the invaluable support
+and guidance provided by our Board and I look forward to working
+alongside them again in 2023 to achieve our objectives. On behalf of the Board, I extend our gratitude to our shareholders for
+their support, and to our dedicated Management and employees for
+their unwavering commitment and tireless efforts. We would also like to
+express our appreciation to our customers and suppliers for their ongoing
+commitment and support to Kawan. Thank you. On behalf of the Board and Management,
+MR GAN THIAM CHAI
+Executive Chairman

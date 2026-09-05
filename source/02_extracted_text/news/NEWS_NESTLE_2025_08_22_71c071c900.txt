@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI flirts with 1,600 level, ends just below key mark
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-08-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/22/fbm-klci-flirts-with-1600-level-ends-just-below-key-mark
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI briefly broke above the 1,600-point level before paring gains to close below the psychological threshold. The 30-stock index rose 4.6 points, or 0.29%, to 1,597.47 — its highest close since mid-February — after touching an intraday high of 1,603.19. For the week, it gained 21.13 points, or 1.34%. There were 561 gainers, 428 losers and 526 counters traded unchanged on the Bursa Malaysia. Turnover stood at 2.63 billion shares valued at RM2.7bil.
+
+[NEWS_P002] Rakuten Trade vice-president of research Thong Pak Leng said the FBM KLCI closed higher today, supported by strong corporate earnings. He noted that major Asian indices also ended firmer despite negative cues from Wall Street, as fresh funds continued to flow into the region, particularly developed markets, on the back of stronger growth prospects. Thong said the benchmark index tested the 1,600-point psychological level today, and a decisive break above it could pave the way towards the next resistance at 1,620.
+
+[NEWS_P003] “Nonetheless, the benchmark index is currently in an overbought position, and we do not rule out the possibility of profit-taking in the near future.” “Based on our estimate, the index has recovered well from earlier weakness and continues to form higher highs and higher lows, indicating the long-term bullish structure is intact. “As such, we anticipate the FBM KLCI to trend within the range of 1,580-1,620 for the coming week,” Thong said. Among the top gainers on Bursa Malaysia, Malaysian Pacific Industries jumped RM2.88 to RM25.02, Kuala Lumpur Kepong advanced 40 sen to RM19.86, MBM Resources added 30 sen to RM5.15, and PPB gained 27 sen to RM8.97.
+
+[NEWS_P004] On the downside, Nestle fell 86 sen to RM91.10, F&N slipped 20 sen to RM27.20, Petra Energy eased 17 sen to 86 sen, and Bintulu Port shed 16 sen to RM5.04. Meanwhile, the ringgit was quoted at 4.2273, down 0.04% against the US dollar but rose 0.1% against the Singapore dollar at 3.2805. On the external front, most regional indices closed broadly higher. Key markets included: Japan’s Nikkei 225 edged up 0.05% to 42,633.29; Hong Kong’s Hang Seng Index rose 0.93% to 25,339.14; China’s CSI300 index added 2.1% to 4,378.00; Taiwan’s Taiex fell 0.82% to 23,764.47; South Korea’s Kospi advanced 0.86% to 3,168.73 and; Singapore’s Straits Times Index rose 0.4% to 4,251.81 points.

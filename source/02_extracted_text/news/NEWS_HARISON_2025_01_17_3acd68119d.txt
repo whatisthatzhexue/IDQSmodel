@@ -1,0 +1,16 @@
+[TITLE]
+Ringgit continues to close weaker against US dollar
+
+[METADATA]
+ticker: HARISON
+company_name: Harrisons Holdings (Malaysia) Berhad - 2020
+publish_date: 2025-01-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/17/ringgit-continues-to-close-weaker-against-us-dollar
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit weakened against the US dollar at the close today on cautious market sentiment ahead of the inauguration of Donald Trump as the US president on Monday, said an analyst. At 6 pm, the ringgit fell to 4.5040/5085 against the greenback from Thursday’s closing of 4.5005/5050. SPI Asset Management managing partner Stephen Innes said markets are currently in a cautious state, trimming positions ahead of the US inauguration, with much anticipation about the potential impact should Trump opt to impose the full spectrum of tariffs on China.
+
+[NEWS_P002] "This week, internal debates within Trump’s administration between trade hardliners and moderates have underscored a significant rift, adding layers of uncertainty that are particularly palpable for Asian forex, including the ringgit. The ringgit trades a tad weaker into the close, but nothing significant,” he told Bernama. At the close, the ringgit was lower against other major currencies. It fell vis-a-vis the euro to 4.6382/6429 from Thursday’s close of 4.6283/6329, depreciated against the British pound to 5.4953/5008 from 5.4888/4943 yesterday, and fell slightly versus the Japanese yen to 2.8918/8949 from 2.8914/8945.
+
+[NEWS_P003] Meanwhile, the local note traded mostly lower against ASEAN currencies. It slid against the Thai baht to 13.0664/0856 from 2.9941/13.0127 at the previous close and was a little changed against the Indonesian rupiah at 274.9/275.3 from 274.7/275.2 on Thursday. The ringgit eased against the Singapore dollar to 3.2948/2983 from 3.2906/2941 and was unchanged against the Philippine peso at yesterday’s closing of 7.68/7.69. - Bernama

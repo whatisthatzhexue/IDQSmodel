@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI ticks up as analysts see range-bound trading ahead
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/11/fbm-klci-ticks-up-as-analysts-see-range-bound-trading-ahead
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI climbed at midday as investors digested the US Federal Reserve’s rate cut and firmer regional signals. At midday, the benchmark FBM KLCI rose 7.0 points, or 0.43%, to its intramorning high of 1,618.0. Market breadth was mixed, with 404 gainers and 515 losers, while 477 counters traded unchanged. Turnover came in at 2.02 billion shares worth RM1.15bil. Among the gainers, Kuala Lumpur Kepong rose 30 sen to RM19.50, Westports added 19 sen to RM5.64, ITMAX gained 17 sen to RM4.70 and Telekom Malaysia climbed 16 sen to RM7.88.
+
+[NEWS_P002] On the downside, Nestle slipped 40 sen to RM114.60, Gamuda eased 28 sen to RM4.85, Malaysian Pacific Industries fell 24 sen to RM31.94 and PETRONAS Gas declined 18 sen to RM17.08. Newly listed Wasco Greenergy dropped six sen, or 6%, to 94 sen with 16.36 million shares traded. Apex Securities said the US Federal Reserve’s 25-basis-point rate cut and Chair Powell’s reassuring comments on inflation and growth offer a supportive near-term backdrop for risk assets, though investors are likely to remain selective as markets gauge the easing path into 2026.
+
+[NEWS_P003] “Locally, sentiment should stay measured amid ongoing profit-taking in index heavyweights, even as positive market breadth and leadership from the technology sector point to range-bound trading for the FBM KLCI in the near term,” it said. Apex remained constructive on selected power-ancillary and renewable energy counters, citing structural tailwinds from the ongoing energy transition. It said these secular themes should stay resilient despite global trade headwinds.
+
+[NEWS_P004] Meanwhile, Malacca Securities expects the FBM KLCI to rebound following the Fed’s rate cut, with sectors such as consumer and financials likely to benefit. It said it remains positive on UWC’s breakout, supported by better margins from its move into front-end semiconductor engineering, strong AI-driven demand for high-performance chip equipment, and its continued focus on 5G gear, autonomous vehicle chip testers and EV battery testers. “Traders may also look at Kobey and 3REN, with the former showing 1Q26 profit recovery, while the latter is poised for a potential breakout continuation.”

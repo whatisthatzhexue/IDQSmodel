@@ -1,0 +1,77 @@
+document_id: MDA_8303_LOTUS_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+The Board anticipates that revenue contributions from both the flour milling and trading operations, along with
+future income from plantation and investment subsidiaries, will enhance the Group’s earnings in the coming years. A comprehensive overview of the Group’s overall financial outcomes, business operation, operating segment and
+subsidiaries information can be found in Audited Financial Statement 2024. Corporate Developments
+Details of the regularisation plan can be obtained from the Company’s various announcements with Bursa
+Securities. Group’s Financial Results and Financial Conditions
+The following table is the financial highlights of the Group for the past five (5) financial years:-
+[MDA_P008]
+The Group’s inventories level for current FYE 2024 has decreased to RM0.291 million (FYE 2023: RM0.836
+million), reflecting the decrease of 65.19%. The reason for maintaining a lower inventory level during FYE
+2024 is to minimize the holding and carrying cost and as part of the Company’s strategy to reduce the risk
+of inventories become slow-moving stock or obsolete inventories.
+[MDA_P013]
+LOTUS KFM BERHAD | ANNUAL REPORT 2024
+Management Discussion and Analysis
+(cont'd)
+Anticipated Business Risks
+The business risks faced by LKFM include market competitions, volatility of imported raw material prices,
+movements of currency exchange rates, pressure of inflation, the performance of user industries and changes in
+economic, political and regulatory conditions.
+a)
+Market competitions
+[MDA_P014]
+The flour milling sector remains competitive among the flour milling operators locally. The Group will continue
+to develop new market strategy in order to capture new market, particularly on less well-served segments,
+then improved its distribution channels as well as product mix and quality to meet a wider range of customers’
+needs and requirements and to sustain the margin in this highly competitive market. The Group is also
+targeting to continue expand new customers’ base.
+b)
+Volatility of raw material prices
+[MDA_P015]
+The volatility of prices on imported raw materials such as wheat and tapioca still remained as the key
+challenge for the Group as the cost of raw materials constitutes a major part of production of wheat flour and
+tapioca starch.
+[MDA_P017]
+As LKFM’s main raw materials such as wheat and tapioca are fully imported from overseas markets and
+traded in USD. Thus, the fluctuations in USD/RM exchanges rates will have a great impact on its raw material
+costs and further affecting the cost of goods sold. The Group is fitting proactive approach and strategic to
+minimize the risk.
+d)
+Pressure of inflation
+[MDA_P018]
+The pressure of the inflation is not only happening in local, but it is also the global phenomenon that
+experienced in others countries. Inflation has significantly impacted the operating costs for LKFM business.
+The operating cost emphases day-by-day necessary expenses for the Group to conduct business operations.
+The most direct impacts on inflation on operating costs is the increased cost of inputs such as raw material,
+energy and other resources. As the general price level rises, the cost of acquiring these essential inputs tend
+to increase, hence, it maybe directs impacting on the production costs. The Group is regularly reviewing the
+changing of the economic conditions and multifaceted approach, which involve cost management ad risk
+mitigation to adapt the economic conditions.
+e)
+Changes in economic, political and regulatory conditions
+[MDA_P020]
+Similarly, any changes in geopolitical may bring unfavorable future prospects to the business. The Group
+may take a prudent approach to manage these risks internally in the event it arises. However, these risks are
+still beyond the control of the Group.
+[MDA_P021]
+ANNUAL REPORT 2024 | LOTUS KFM BERHAD
+Management Discussion and Analysis
+(cont'd)
+Outlook of Industry
+The operating environment is expected to remain highly competitive in 2025 due to inherent uncertainties and
+unforeseen events that may impact the Group. Despite these challenges, the Group is committed to enhancing
+the Group’s operational efficiency and exploring diverse marketing strategies to boost revenue and profitability.
+The Group will continue monitoring and conduct regular review on the market condition to mitigate potential risk.
+We always uphold our mantra of offering excellent customer services and delivering high-quality products to
+our existing customers while actively securing new business opportunities. The Group will remain focused on
+monitoring prevailing market conditions to ensure sustainable growth.
+Note of Appreciation
+To our shareholders, customers, suppliers and business associates, who have given us valuable support, we wish
+to express our sincere appreciation and thanks to all of your enduring trust and confidence in our business.

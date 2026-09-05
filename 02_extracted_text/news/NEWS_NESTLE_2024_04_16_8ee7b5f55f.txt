@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia continues downtrend with over 1,000 counters in red
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-04-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/16/bursa-malaysia-continues-downtrend-with-over-1000-counters-in-red
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia saw another day of over 1,000 counters closing in the red, marking a consecutive decline. Dealers noted that risk sentiment remained subdued due to geopolitical tensions in the Middle East. Adding to the downbeat note, the US Federal Reserve is not expected to hurry in lowering interest rates this year. The FBM KLCI slipped 7.53 points, or 0.49% to 1,535.0 with 18 of the component stocks ending lower. Market breadth was negative as losers overpowered the gainers on a ratio of 1,139-to-173 stocks.
+
+[NEWS_P002] Traded volumes rose to 4.93 billion shares worth RM3.72bil as profit taking activities took control Dutch Lady , the top loser on Bursa Malaysia, tumbled RM2.06 to RM31.56. Ajinomoto declined 62 sen to RM18.70, Heineken lost 54 sen to RM22.50 and Theta Edge fell 21 sen to RM1.53. Among the gainers, Nestle rose 80 sen to RM122.90, Malaysia Airports gained 19 sen to RM10.06, KESM added 18 sen to RM6.35, United Plantations gained 16 sen to RM25 and CelcomDigi climbed 12 sen to RM4.20.
+
+[NEWS_P003] Among the banks, Maybank declined seven sen to RM9.58, Public Bank fell two sen to RM4.10 and CIMB declined 10 sen to RM6.48. RHB Bank dropped four sen to RM5.70, AmBank gave up eight sen to RM4.10 and Hong Leong Bank eased 16 sen to RM19.30. On the forex market, the ringgit was down 0.28% against the greenback to 4.7933 and 0.03% against the Singapore dollar at 3.5142. Around the region, MSCI's Asia ex-Japan index was lower by 2.01%. Japan’s Nikkei 225 ended down 1.94% at 38,471.20, while South Korea’s Kospi fell 2.28% to 2,609.63.
+
+[NEWS_P004] China's blue-chip CSI 300 Index closed down 1.1%, the biggest daily drop in more than half a month, while Hong Kong's Hang Seng plunged 2.1%.

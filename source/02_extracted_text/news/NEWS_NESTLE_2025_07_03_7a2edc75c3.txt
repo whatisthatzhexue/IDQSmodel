@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI snaps five-day winning streak on profit-taking
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/03/fbm-klci-snaps-five-day-winning-streak-on-profit-taking
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI snapped a five-day winning streak on Thursday as investors locked in profits following the recent gains, despite mostly positive regional markets. The 30-stock index slipped 1.22 points, or 0.08%, to close at its intraday high of 1,548.99, weighed down by losses in Tenaga Nasional (TNB), Public Bank, and MR D.I.Y. In the broader market, 630 stocks rose against 389 decliners, bringing the gainers-to-losers ratio to 1.62, indicating there's broad-based buying interest.
+
+[NEWS_P002] Traded volume surged to 5.09 billion shares valued at RM2.94bil. TNB skidded 58 sen to RM14.02, single-handedly taking 4.8135 points off the FBM KLCI. Public Bank slipped two sen to RM4.30, dragging the index down by 0.55 points, while MR D.I.Y fell four sen to RM1.66, pulling it lower by 0.54 points. Gainers among the KLCI component stocks include Nestle, PETRONAS Gas, PETRONAS Dagangan and Press Metal . On the broader market, Hong Leong Industries fell 24 sen to RM13.42, Heineken lost 16 sen to RM20.84 and UMS lost 11 sen to RM2.
+
+[NEWS_P003] Westports rose 37 sen to RM5.80, Pentamaster added 37 sen to RM3.57 and Panasonic Manufacturing climbed 30 sen to RM12.10. Borneo Oil , which ended flat at 0.5 sen, was the most actively traded counter with 1.33 billion shares done. On the forex market, the ringgit rose 0.11% against the US dollar to 4.2227 and gained 0.07% against the Singapore dollar to 3.3158. Meanwhile, Most Asian markets ended in the black on trade deal optimism, with the MSCI Asia ex-Japan index rising 0.4%.
+
+[NEWS_P004] Japan’s Nikkei 225 edged up 0.06% to 39,785.90, while South Korea’s Kospi gained 1.34% to 3,116.27. China’s CSI 300 rose 0.62% to 3,968.07, and the Shanghai Composite added 0.18% to 3,461.15. Hong Kong’s Hang Seng Index, however, slipped 0.63% to 24,069.94.

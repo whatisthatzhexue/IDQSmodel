@@ -1,0 +1,32 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 46.283784,
+      "current_value": 4.33,
+      "direction_word": "increased",
+      "metric": "dividend",
+      "note": "Dividend: stated 1.37%, calculated 46.28%, status material_discrepancy.",
+      "previous_value": 2.96,
+      "source_text": "Dividend yield increased by 1.37% from 2.96% to 4.33%",
+      "stated_pct": 1.37,
+      "status": "material_discrepancy"
+    }
+  ],
+  "document_id": "MDA_7167_ABLEGLOB_2023",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "Dividend: stated 1.37%, calculated 46.28%, status material_discrepancy."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 53,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

@@ -1,0 +1,22 @@
+[TITLE]
+Trading ideas: TNB, Lagenda, Apollo, George Kent, Magma, Advancecon, Hong Seng, Pos, TSR, Sunway
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-05-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/23/trading-ideas-tnb-lagenda-apollo-george-kent-magma-advancecon-hong-seng-pos-tsr-sunway
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here are the leading headlines from Corporate Malaysia. Tenaga Nasional Bhd is preparing for Regulatory Period 4 2025-2027 with significant capital expenditure to support Malaysia’s energy transition and projected growth in electricity demand. Lagenda Properties Bhd said it is buying 855 acres of freehold land in Kuala Muda, Kedah for RM149mn to capitalise on the demand for affordable housing. Apollo Food Holdings Bhd ’s said its public shareholding spread is back in compliance with Bursa Malaysia’s listing requirements after the disposal by its largest shareholder, Baskin-Robbins ice cream brand franchisee Scoop Capital Sdn Bhd, of 3.2mn shares or 4% stake in Apollo on May 16.
+
+[NEWS_P002] George Kent (M) Bhd is tying up with University of Technology Sarawak to provide support for the implementation of UTS’ Smart Home research and development initiative, enhancing the project with a cloud-based smart water-management system. Magma Group Bhd , formerly known as Impiana Hotels Bhd, plans to undertake an issuance of redeemable convertible notes to raise up to RM100mn to repay borrowings and fund working capital. Advancecon Holdings Bhd has accepted a letter of acceptance from Sime Darby Property (Bukit Jelutong) Sdn Bhd worth RM25.4mn to undertake main infrastructure works for Tiara Residences in Seksyen U8, Shah Alam, Selangor.
+
+[NEWS_P003] Hong Seng Consolidated Bhd 's previously suspended plan to expand its glove business seems to be back on the table as the group eyes an alternate, albeit smaller, site for a synthetic rubber manufacturing plant in Kedah Rubber City. Pos Malaysia Bhd is selling its ship-chartering unit that mainly deals with bulk cargoes for RM123.2mn as part of a move to shed non-core businesses. The Federal Court has ruled in favour of TSR Capital Bhd in its dispute with Syarikat Pembenaan Yeoh Tiong Lay Sdn Bhd over the termination of a civil works subcontract for the electrified double-track project from Gemas to Johor Bahru.
+
+[NEWS_P004] Sunway Bhd will continue to focus on its core businesses, particularly the healthcare, property development and construction segments. For the 1QFY24, Sunway’s net profit rose to RM172.2mn from RM141.6mn in the previous corresponding period. Petronas Dagangan Bhd 's net profit for the 1QFY24 fell 25% y-o-y to RM226mn, from RM301.8mn previously, due mainly to higher product cost and operating expenditure. In its 4QFY24, Hartalega Holdings Bhd posted a net profit of RM15.1mn, a stark difference to a net loss of RM319.9mn in the same quarter in 2023.
+
+[NEWS_P005] Sime Darby Property Bhd’s net profit for the 1QFY2024 jumped 103.7% to RM123.6mn from RM60.7mn in 1QFY2023, as its quarterly revenue hit a record high on higher sales and successful project executions. Kossan Rubber Industries Bhd posted a net profit of RM31.5mn for 1QFY2024 compared to a net loss of RM24.3mn in 1QFY2023, thanks to higher sales volume and lower natural gas prices. Affin Bank Bhd’s net profit down profit for the 1QFY2024 stood at RM110.2mn, 26% lower YoY, on lower net interest income and other income.
+
+[NEWS_P006] Bank Islam Malaysia Bhd posted a net profit of RM129.2mn in 1QFY24, up from RM118.1mn in the year-ago quarter, and expects improved earnings growth as it expands its financing volume, while net interest margin is forecast to stabilise. Hibiscus Petroleum Bhd 's net profit climbed by 42.4% to RM101.8mn in the 3QFY2024, from RM71.5mn a year ago, driven by strong oil and condensate prices of over US$90 per barrel.

@@ -1,0 +1,222 @@
+document_id: MDA_9946_ETA_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 25, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_9946_ETA_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 19, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P003]
+Annual Report 2023
+Financial Performance (cont’d)
+REX GROUP
+[MDA_P004]
+FY 2021
+FY 2022
+FY 2023
+(All in RM’000)
+Revenue
+[MDA_P005]
+160,539
+161,111
+162,408
+(Loss)/Profit before tax
+[MDA_P006]
+3,912
+2,934
+(43,414)
+The Board is committed to continue with prudent measures to improve the Group’s financial performance
+and deliver satisfactory results taking cognizance of the prevailing business environment.
+Financial Highlights
+[MDA_P007]
+30 Jun 19
+30 Jun 20
+30 Jun 21
+30 Jun 22
+30 Jun 23
+[MDA_P008]
+RM'000
+RM'000
+RM'000
+RM'000
+RM'000
+Statement of Profit and Loss
+Revenue
+136,609
+149,245
+160,539
+161,111
+162,408
+Interest expense
+1,905
+2,050
+1,531
+1,171
+1,617
+[MDA_P009]
+(Loss)/Profit before Tax after
+Minority Interest
+(14,317) (8,396)
+3,912
+2,934
+(43,414)
+[MDA_P010]
+(Loss)/Profit after Tax and
+Minority Interest
+(13,297) (9,465)
+2,603
+2,027
+(44,399)
+Dividend declared
+–
+–
+(987)
+–
+–
+[MDA_P011]
+Statement of Financial Position
+Paid-up Share Capital
+73,742
+73,742
+97,903
+97,903
+113,717
+Shareholders Funds
+113,672
+101,891
+127,404
+129,714
+103,562
+Borrowings
+36,472
+42,209
+28,884
+27,804
+31,766
+Net Tangible Assets (“NTA”)
+106,635
+94,854
+120,367
+122,677
+96,525
+MANAGEMENT DISCUSSION
+& ANALYSIS
+(CONT’D)
+[MDA_P014]
+30 Jun 19
+30 Jun 20
+30 Jun 21
+30 Jun 22
+30 Jun 23
+[MDA_P015]
+RM'000
+RM'000
+RM'000
+RM'000
+RM'000
+Investment Ratio
+NTA per share
+0.43
+0.38
+0.24
+0.25
+0.15
+[MDA_P016]
+Basic (Loss)/Earnings
+Per Share (Sen)
+(5.39) (3.84)
+0.64
+0.38
+(7.04)
+Dividend per share (sen)
+–
+–
+0.2
+–
+–
+Operating Ratio
+[MDA_P017]
+After tax return on
+shareholders' fund (%)
+(11.70) (9.29)
+2.04
+1.56 (42.87)
+Pre-tax profit margin (%)
+(10.48) (5.63)
+2.44
+1.82 (26.73)
+Financial Ratio
+[MDA_P018]
+Gearing (times)
+0.32
+0.42
+0.23
+0.22
+0.31
+Interest Coverage ratio
+(6.52)
+(3.10)
+3.55
+3.51 (25.85)
+[MDA_P020]
+Current ratio
+1.80
+1.32
+1.87
+1.79
+1.67
+Quick ratio
+0.99
+0.61
+0.93
+0.83
+0.77
+[MDA_P021]
+Note:
+1)
+The issued ordinary shares of the Company was increased from 493,252,936 to 657,670,581 units of
+ordinary shares by way of issuance of 164,417,645 new ordinary shares arising from right issue exercise.
+The right issue had been completed when the Rights Shares were listed and quoted on the Main Market
+of Bursa Malaysia Securities Berhad on 30 August 2022.
+2)
+Basic (Loss)/Earning per ordinary share for the financial year is calculated by dividing the (loss)/
+profit after tax attributable to owners of the parent by weighted average number of ordinary shares
+outstanding during the financial year.
+Changes in the composition of the Group
+There were no changes in the composition of the Group for the financial year ended 30 June 2023.
+MANAGEMENT DISCUSSION
+& ANALYSIS
+(CONT’D)
+[MDA_P022]
+REX INDUSTRY BERHAD
+[MDA_P023]
+Annual Report 2023
+CORPORATE EXERCISE
+The Company undertook a fund-raising exercise during the financial year for a renounceable rights issue for
+ordinary shares at RM0.10 per Rights Share, on the basis of 1 Rights Share for every 3 existing Rex Shares
+held, together with 54,805,755 Warrants on the basis of 1 Warrant for every 3 Rights Shares subscribed. With
+164,417,645 Rights Shares subscribed, the Company raised proceeds of approximately RM16.44 million. The
+Rights Shares and Warrants were listed and quoted on the Main Market of Bursa Malaysia Securities Berhad
+on 30 August 2022. The proceeds raised from the Rights Issue were utilised firstly in priority to defray the expenses related to the
+Rights Issue, secondly towards business expansion, and lastly towards the working capital required for the
+day-to day operations of the Group. Outlook and Prospects
+The Group expects the business environment in the foreseeable future to remain challenging due to continued
+uncertainties in the commodity markets, geo-political tensions, weakening of the Ringgit and consumer
+demand being impacted by inflationary pressures.
+[MDA_P024]
+Despite the challenging business conditions, our sales revenue remains steady in the last three years. Additionally, consumers are expected to down trade given the continued inflationary pressures and our Group
+will be poised to benefit because of our value proposition. A big part of the Group’s business rationalisation plan is to drive for operational efficiencies and cost
+optimisation coupled with our steady sales trend, the Group remains confident in improving its financial
+position. The Group will further explore outsourcing certain products to third parties and continue to invest in our
+Brands and product innovation to drive sustainable growth. Acknowledgements
+I take this opportunity to extend a warm welcome to our new Executive Director, Madam Chris Kong Wai Fa,
+who has been appointed to our Board on 22 May 2023. Her experience and expertise will contribute positively
+to the strategies and direction of the Group. I would also like to thank my fellow Board members, our shareholders, customers and business partners for
+their continued support, trust, and unwavering confidence over the past years.
+[MDA_P025]
+To all our dedicated staff and management team, thank you for your commitment and leading the Company
+forward. DAMENDRAN KUNARETNAM
+Group Managing Director
+MANAGEMENT DISCUSSION
+& ANALYSIS
+(CONT’D)

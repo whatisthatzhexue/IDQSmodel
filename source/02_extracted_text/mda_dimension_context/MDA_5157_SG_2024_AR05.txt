@@ -1,0 +1,81 @@
+document_id: MDA_5157_SG_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 107.085, "paragraph_count": 12, "paragraph_length_distribution": {"max": 1184, "mean": 932.583, "min": 32}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+[MDA_P004]
+However, The Management will continue and concentrate in monitoring the
+Cost of Good Manufactured (“COGM”) by continued cost reduction and efficiency improvement programme in production. Our Group’s administrative and selling expenses comprised mainly of marketing cost such as promotion expenses, listing of products cost,
+sales commissions, salaries and etc. The Group’s administrative and selling expenses decreased by RM8.3 million or 36.4% from RM22.85
+million in FYE 2023 to RM14.5 million in FYE 2024. The decrease was mainly due to reduce in promotion and selling expenses. Besides,
+the Group will foreseen selling and promotion costs to continue reduce as the Group been completely change to distributorship model
+completely in year 2024 from direct retail selling model. Our Group’s finance cost has slight decreased by RM0.06 million from RM0.13 million in FYE 2023 to RM0.07 million in FYE 2024. Going
+forward, there should be minimum finance cost as technically the Group is in a “debts free” position. MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+[MDA_P007]
+The spending was mainly in the acquisition of new production
+machinery and increase in production and cold storage space that
+will improve the production capacity in order to cater existing
+customers demand and increasing demand by customers from
+East Malaysia in the now and coming years. Even with the tough
+time during the financial year under review, the management
+re-strategised the direction decided that it was a strategic time for
+expansion and reinvestment to replace old machines with more
+automated machines in the short and middle term. Therefore, the
+Group raised funds for expansion of production and reinvesting
+into new machinery to increase the production capacity of the
+Group in coming years, even during this challenging time i.e. post Covid-19 pandemic and uncertainty in global situation. Financial Position Analysis
+FYE 2024
+FYE 2023
+(RM’000)
+(RM’000)
+Inventories
+22,315
+18,461
+Trade and other receivables, and
+amount due from an associate
+12,594
+23,346
+Trade and other payables, and
+amount due to an associate
+12,502
+17,476
+Bank borrowings
+1,077
+Our Group’s inventories was RM22.3 million for FYE 2024 as
+compared to RM18.5 million for FYE 2023.
+[MDA_P010]
+SAUDIGOLD GROUP BERHAD 200801036832 (838172-P)
+Shareholders’ Fund Analysis
+EARNINGS / (LOSS) PER SHARE (SEN)
+(18.04)
+(1.47)
+(0.49)
+(0.67)
+(0.40)
+(5.00)
+(10.00)
+(15.00)
+(20.00)
+(25.00)
+-
+Our Group’s shareholders’ equity as at 31 July 2024 stood at RM140.4 million representing an increase of RM4.2 million or 3.1% over
+the previous financial year ended 31 July 2023 of RM136.2 million. The increase was mainly due to fund raising by private placement
+and shares issuance scheme in current year under review. -
+The Group’s net assets per share reduce to 9 sen in FYE 2024 as compare to 12 sen in FYE 2023. This mainly due to increase in number
+of ordinary shares. Key Risk and Mitigation
+After completely implementing the distributorship model under current year review, the Group was able to strengthen its credit control
+and minimised exposure of credit risks. However, due to the post Covid and uncertainty in global economy during the financial year, the
+Group had continued monitoring the situation in Malaysia and globally.
+[MDA_P012]
+Moving forward, with technically debts free situation and the in progress of expansion plan of production capacity, the Group foresee
+increase in revenue and better performance in the coming year after successfully penetrated into East Malaysia market. With the current
+management team headed by our Executive Directors and supported by experience management staff, the Group have will move at faster
+pace after the completion of the expansion project in FYE 2025. The Group is expected to further strengthen its financial performance to
+maintain or exceed the current momentum based on the strategic plans that have been put in place by the Management with the view to
+further improve on the generating cash flow. The Group will continuously improve on production efficiency and to further realise plan to
+penetrate into a bigger share in FPP segment. MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)

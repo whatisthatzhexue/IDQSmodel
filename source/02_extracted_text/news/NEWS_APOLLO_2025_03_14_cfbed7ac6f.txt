@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Kerjaya Prospek, TMK Chemical, Hibiscus, Taghill, Sin-Kung, PUC, Manforce, Sumisaujana, Dengkil, UWC, Apollo
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-03-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/14/trading-ideas-kerjaya-prospek-tmk-chemical-hibiscus-taghill-sin-kung-puc-manforce-sumisaujana-dengkil-uwc-apollo
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Kerjaya Prospek Group Bhd has secured an RM11.6mn contract for construction works from Tanjung Pinang Development Sdn Bhd. TMK Chemical Bhd is acquiring a parcel of leasehold land with a standard detached factory in Tuas Street, Singapore, from Chin Yuan Metal Pte Ltd for S$14.8mn (RM49.2mn). Hibiscus Petroleum Bhd has declared a third interim dividend of 2.0sen/share for FY25, with the extension of one of its production sharing contracts.
+
+[NEWS_P002] Avangaad Bhd plans to buy marine service provider Bumi Jaya Shipcare Sdn Bhd and 2 tugboats for RM49.0mn. Taghill Holdings Bhd is taking legal action against a developer to recover an alleged outstanding payment of RM4.9mn. Sin-Kung Logistics Bhd plans to launch air cargo services in the 3QCY25 after completing the RM20.7mn acquisition of a 100% stake in Prima Air Sdn Bhd. PUC Bhd group managing director and chief executive officer Cheong Chia Chou has ceased to be a substantial shareholder in the loss-making digital payment solutions provider, after trimming his stake to 4.1%.
+
+[NEWS_P003] Manforce Group Bhd is eyeing a transfer of its listing from Bursa Malaysia’s LEAP Market to the ACE Market. SumiSaujana Group Bhd has opened applications for its at 24.0 sen per share that could raise up to RM96.0mn for its ACE Market listing. Wawasan Dengkil Holdings Bhd has attracted RM124.2mn worth of applications from retail investors — seven times more than the amount it plans to raise from its initial public offering. UWC Bhd net profit more than doubled to RM9.7mn for its 2QFY25 from RM4.8mn a year ago, amid the semiconductor industry's strong recovery.
+
+[NEWS_P004] Apollo Food Holdings Bhd ’s 3QFY25 net profit fell 65.5% YoY to RM10.4mn, dragged by lower profit margins and the absence of RM21.9mn in disposal gains from investment properties.

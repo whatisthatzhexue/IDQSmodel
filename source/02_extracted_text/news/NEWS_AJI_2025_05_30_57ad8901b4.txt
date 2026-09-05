@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia sinks amid foreign sell-off and regional weakness
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-05-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/30/bursa-malaysia-sinks-amid-foreign-sell-off-and-regional-weakness
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia remained under selling pressure on Friday as foreign investors continued to pare down their holdings, amid ongoing tariff concerns and weakness in regional markets. The benchmark FBM KLCI slid 10.63 points, or 0.7%, to 1,508.35 — its intraday low. It fell 1.8% for the week and about 2.1% for the month of May. Stocks that fell outnumbered those that rose 616 to 336, with another 418 counters unchanged. A total of 3.2 billion shares changed hands, worth RM5.04bil.
+
+[NEWS_P002] Dealers said selling in the past few days has shaken market sentiment, pushing more investors to the sidelines. They added that overall conditions remain tepid, with interest staying relatively muted even as foreign investors continue to sell. Among the decliners, Nestle tumbled RM2.26 to RM78.60, Ajinomoto slid RM1.28 to RM12.96, PETRONAS Dagangan fell 80 sen to RM19.70 and Heineken lost 60 sen to RM7.10. Hong Leong Financial Group rose 32 sen to RM16.58, Bintulu Port gained 21 sen to RM5.46, F&N added 20 sen to RM27.30 and Kumpulan Fima climbed 19 sen to RM2.58.
+
+[NEWS_P003] Among the actives, KPJ slid 24 sen to RM2.72, with 81.42 million shares traded, Eco Shop added seven sen to RM1.26, with 63.15 million shares done, and Public Bank traded flat at RM4.31, with 62.14 million shares changing hands. Meanwhile, the ringgit was quoted at 4.2585, slipping 0.36% against the US dollar. It also fell 0.24% to 3.2969 against the Singapore dollar. Among the key regional markets: Japan’s Nikkei 225 closed down 1.22% to 37,965.10; South Korea’s Kospi slipped 0.84% to 2,697.67; Hong Kong’s Hang Seng Index fell 1.2% to 23,289.77; China’s CSI 300 Index finished down 0.48% to 3,840.23 and; Singapore’s Straits Times Index fell 0.57% to 3,894.61 points.

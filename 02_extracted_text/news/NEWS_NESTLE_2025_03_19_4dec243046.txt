@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia in the red as upcoming Fed meeting rattles nerves
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/19/bursa-malaysia-in-the-red-as-upcoming-fed-meeting-rattles-nerves
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's main index returned to a slide after a three-day recovery as the upcoming Federal Reserve meeting rattled nerves. While expectations are for the US central bank to remain status quo on lending rates, Wall Street was seen pulling back overnight in anticipation of new guidance on the inflation and interest rates. At the opening bell, the FBM KLCI dove 14.52 points to 1,513.29, affirming the market uncertainty over the health of the US economy and future policy direction.
+
+[NEWS_P002] TA Securities Research said stocks should extend gains on bargain-hunting at current oversold levels, although persisting volatility and uncertainties over the outcome on global trade tariffs may cap upside. "Immediate index resistance is retained at 1,550, followed by 1,580, with tougher upside hurdle at 1,605. Immediate support is revised upwards to 1,500, with stronger key retracement supports seen at 1,472 and 1,450," it added in a note. On the blue-chip index, Nestle fell RM1.84 to RM62.98, CIMB dropped 17 sen to RM7.08 and PETRONAS Gas shed 22 sen to RM16.52.
+
+[NEWS_P003] Other laggards included Telekom Malaysia down eight sen to RM6.52, Tenaga Nasional dropping four sen to RM13.52 and Kuala Lumpur Kepong shedding 14 sen to RM21.02. Among the actives on the broader market, Sapura Energy was flat at 4.5 sen, Pertama Digital gained 4.5 sento 15.5 sen and Nationgate dropped one sen to RM1.34.

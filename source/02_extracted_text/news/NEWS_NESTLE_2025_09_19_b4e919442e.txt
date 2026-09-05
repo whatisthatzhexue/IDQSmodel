@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI closes little changed as regional markets end mixed
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/19/fbm-klci-closes-little-changed-as-regional-markets-end-mixed
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI eased for a second consecutive day on Friday, ending little changed amid mixed regional performances. The 30-stock index eased 0.7 of a point, or 0.04%, to close at 1,598.23 after fluctuating between an intraday high of 1,600.40 and a low of 1,595.68. On a weekly basis, the index slipped 0.12%. In the broader market, gainers outnumbered decliners 564 to 493, while 482 counters remained unchanged. Turnover stood at 3.6 billion shares worth RM4.16bil.
+
+[NEWS_P002] Key losers included Nestle, down 28 sen to RM94.72, Hong Leong Financial Group, off 22 sen to RM16.94, Sunway Construction, weaker by 22 sen at RM6.13, and Carlsberg, which shed 20 sen to RM16.30. Malaysian Pacific Industries was the top gainer, jumping 58 sen to RM19.12, followed by Heineken, which added 42 sen to RM21.30, UWC, which rose 37 sen to RM3.70 and United Plantations, which gained 32 sem tp RM23.12. Meanwhile, stock market data showed foreign funds and local retailers were net sellers at RM62mil and RM34mil respectively on Thursday.
+
+[NEWS_P003] Local institutions were net buyers at RM96mil. On the forex market, the ringgit slipped 0.23% against the US dollar to 4.2065, while edging up 0.17% against the Singapore dollar to 3.2762 The local currency was up 0.46% against the euro at 4.9456 and rose 0.85% against the pound sterling at 5.6782. Asian equities closed mixed on Friday, with regional benchmarks showing varied moves. Among the key markets: Japan’s Nikkei 225 closed down 0.57% to 45,045.81; South Korea’s Kospi fell 0.46% to 3,445.24; Hong Kong’s Hang Seng Index ended flat at 26,545.10; China’s CSI 300 Index added 0.085% to 4,501.92; Taiwan’s Taiex fell 0.74% to 25,578.37 and; Singapore’s Straits Times Index rose 0.14% to 4,318.74 points.

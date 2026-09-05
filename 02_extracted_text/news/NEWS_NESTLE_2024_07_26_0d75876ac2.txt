@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia extends losses, ends week lower
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-07-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/26/bursa-malaysia-extends-losses-ends-week-lower
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia extended its losing streak to a third consecutive session on Friday, ending the week with a modest decline. The benchmark FBM KLCI closed at 1,612.88, down 0.14% or 2.30 points, taking its full-week drop to 1.44%. Stocks that fell outnumbered those that rose 569 to 455, with another 556 counters unchanged. A total of 3.83 billion shares changed hands, worth RM2.7bil. Stock market data showed that foreign investors sold a net RM371mil on Thursday.
+
+[NEWS_P002] Local institutions and retailers were net buyers, with RM267mil and RM104mil, respectively. Nestle, the top decliner on Bursa Malaysia, tumbled RM6.10, or 5% to RM115.90. The counter pushed the index lower by 2.0575 points. Cape EMS fell 17 sen to 71 sen, PIE Industrial declined 16 sen to RM5.58 and Pentamaster lost 12 sen to RM4.70. Meanwhile, the top gainer on Bursa Malaysia was Dutch Lady , which gained 70 sen, or 2.22% to RM32.24. United Plantations rose 60 sen to RM25.90, Apollo Food added 39 sen to RM7.09 and F&N gained 32 sen to RM30.32.
+
+[NEWS_P003] Among the key regional markets: Japan’s Nikkei 225 closed down 0.53% to 37,667.41; Hong Kong’s Hang Seng Index rose 0.09% to 17,021.31; China’s CSI 300 Index advanced 0.29% to 3,409.29; Taiwan’s Taiex declined 3.29% to 22,119.21; South Korea’s Kospi closed up 0.78% to 2,731.90 and; Singapore’s Straits Times Index fell 0.13% to 3,426.15 points.

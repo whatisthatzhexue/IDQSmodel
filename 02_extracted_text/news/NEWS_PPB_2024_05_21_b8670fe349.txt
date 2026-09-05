@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI falls from three-year high on profit-taking
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-05-21
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/21/fbm-klci-falls-from-three-year-high-on-profit-taking
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Investors decided to take a breather on Tuesday and secure profits following the recent strong gains. The FBM KLCI was down 5.41 points, or 0.33%, at 1,622.09, snapping a three-day winning streak. Decliners outnumbered gainers on a ratio of 726-to-470 stocks. That gave a market breadth of 0.60 indicating the bears were in better control. Traded volumes fell to 5.43 billion shares valued at RM4.23bil. Much of the losses were due to the selling pressure on banking and plantation stocks.
+
+[NEWS_P002] Leading laggards among the FBM KLCI component stocks were Kuala Lumpur Kepong falling 84 sen to RM21.60, PETRONAS Dagangan skidding 48 sen to RM20.70 and PPB Group easing 30 sen to RM15.02. Telekom Malaysia added 23 sen to RM6.49, MISC gained three sen to RM8.31 a nd YTL Corp climbed one sen to RM3.82. Among the banks, Maybank, Public Bank and CIMB closed unchanged at RM9.99, RM4.19 and RM6.84 respectively. AmBank fell three sen to RM4.26, RHB Bank declined four sen to RM5.49 and Hong Leong Bank ended down 10 sen to RM19.42.
+
+[NEWS_P003] On the broader market, Malaysian Pacific Industries lost 44 sen to RM38.96, Heineken slid 42 sen to RM24.92, Ajinomoto jumped 52 sen to RM16.22 and Panasonic Manufacturing rose 40 sen to RM19.96. Feytech Holdings, which debuted on the Main Market of Bursa Malaysia today closed up 30 sen, or 37.5% to RM1.10 with 135.11 million shares traded. According to data on Bursa Malaysia, foreign investors acquired RM103mil worth of equities on Monday while local institutions and retailers disposed of RM36mil and RM66mil respectively.
+
+[NEWS_P004] Meanwhile, US West Texas Intermediate crude fell 64 cents to US$79.16 and Brent lost 74 cents to US$82.97 per barrel. Elsewhere in the region, Japan’s Nikkei 225 closed down 0.31%, South Korea’s Kospi fell 0.65%, China’s CSI300 Index lost 0.4% and Hong Kong’s Hang Seng Index ended down 2.12%.

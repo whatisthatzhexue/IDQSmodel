@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: TNB, Sports Toto, Cypark, Aeon Credit, HSS, Gas Malaysia, Green Ocean, UEM Sunrise, Destini, Citaglobal, ATA IMS, RHB, Sapura Energy, Ajinomoto, SNS, iCents
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-06-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/26/trading-ideas-tnb-sports-toto-cypark-aeon-credit-hss-gas-malaysia-green-ocean-uem-sunrise-destini-citaglobal-ata-ims-rhb-sapura-energy-ajinomoto-sns-icents
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Tenaga Nasional Bhd , via unit GSparx Sdn Bhd, will develop a 5.5 megawatt-peak solar project at Universiti Sains Islam Malaysia campus in Nilai, Negeri Sembilan. Sports Toto Bhd said it is acquiring three freehold commercial units at Berjaya Times Square for RM24.9mn in a related-party transaction. Cypark Resources Bhd has withdrawn its RM61.3mn arbitration claim against the government over landfill site closures, following an amicable settlement.
+
+[NEWS_P002] Aeon Credit Service (M) Bhd is targeting a ROE of 12%–13% for FY26, down from 13.6% in FY25, mainly due to expected continued losses from its digital banking venture. HSS Engineers Bhd 's associate company HSS Integrated Sdn Bhd has secured a contract worth an estimated USD4.5mn for the Davao public transport modernisation project in the Philippines. Gas Malaysia Bhd has signed a MoU with British climate technology company Levidian to explore the deployment of Levidian’s LOOP technology in Malaysia and the broader region.
+
+[NEWS_P003] Green Ocean Corporation Bhd has received an unusual market activity query from Bursa Malaysia following a record low in its share price and a surge in trading volume. UEM Sunrise Bhd has dropped plans to build a data centre on the 74-acre site linked to its unsuccessful deal with Logos Infrastructure Holdco Pte Ltd. Destini Bhd has entered into two agreements to carry out overhaul works on electric train components for 58 train sets operating on the MRT Line 1.
+
+[NEWS_P004] Citaglobal Bhd has signed a MoU with the Energy Ministry of the Kyrgyz Republic to cooperate on advancing energy projects, particularly in renewable energy facility construction. Shares in ATA IMS Bhd will be traded and quoted under its new name, Wavefront Bhd, effective 9am on June 30, 2025. RHB Bank Bhd has announced the appointment of Vashta Mahendran as its new group chief operations officer, effective July 1. Sapura Energy Bhd has announced the resignation of Datuk Shahriman Shamsuddin as a director of the group, effective yesterday.
+
+[NEWS_P005] Ajinomoto (Malaysia) Bhd has declared a first and final dividend of 40.85sen/share for FY25 that brings its total dividend payout for FY25 to a record high of RM2.53/share. SNS Network Technology Bhd 's net profit surged 173.7% YoY to RM10.2mn for 1QFY26 from RM3.7mn a year earlier, thanks to robust sales of information and communication technology products through its commercial and online channels. iCents Group Holdings Bhd, a cleanroom and facility services provider, has set its IPO price at 24.0sen/share to raise RM27.0mn at its upcoming ACE Market listing.

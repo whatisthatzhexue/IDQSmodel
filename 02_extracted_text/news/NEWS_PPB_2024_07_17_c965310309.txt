@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI hit fresh 3-year high on strong buying interest
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-07-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/17/fbm-klci-hit-fresh-3-year-high-on-strong-buying-interest
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI climbed to a fresh three-year high on Wednesday, bucking the downward trend seen in most regional stock markets, as gold surged to a record high. At 5pm, the 30-stock index advanced 7.58 points, or 0.47%, to 1,633.54, marking its highest level since March 10, 2021, when it reached 1,639.83. The market traded within a range of 8.14 points between an intra-day high of 1,638.03 and a low of 1,629.89 during the session. In the broader market, gainers outnumbered decliners 770 to 445, while 513 counters remained unchanged.
+
+[NEWS_P002] Turnover rose to 5.3 billion shares worth RM3.9bil. Rakuten Trade Sdn Bhd anticipates the FBM KLCI to test the 1,730 level by end-2024 based on 16.5 times price-to-earnings (PER) ratio on 16 per cent earnings growth. The research firm had previously expected the index to touch 1,660 by year-end. Among the gainers on Bursa Malaysia, Heineken jumped 60 sen to RM22.88, Kuala Lumpur Kepong added 50 sen to RM20.52, Gamuda rose 30 sen to RM8.25 and PPB Group climbed 24 sen to RM14.64.
+
+[NEWS_P003] Dutch Lady slid 34 sen to RM33.66, Synergy House lost 31 sen to RM1.07, Nestle fell 30 sen to RM121.70 and Greatech Technology declined 23 sen to RM5.50. Reuters reported that gold surged to an all-time peak on Wednesday, driven by mounting hopes of a U.S. interest rate cut in September after recent comments from Federal Reserve officials. Spot gold was steady at US$2,466.02 per ounce, as of 0711 GMT, after hitting a record peak of US$2,482.29. U.S. gold futures gained 0.1% to US$2,470.20.
+
+[NEWS_P004] Meanwhile, the ringgit was quoted at 4.6643, up 0.27% against the US dollar. The local unit was down 0.03% against the Singapore dollar at 3.4813. Elsewhere in the region, Japan’s Nikkei 225 fell 0.43%, South Korea’s Kospi closed down 0.8%, China’s Shanghai Composite Index fell 0.46% and Hong Kong’s Hang Seng Index closed up 0.064%.

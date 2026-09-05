@@ -1,0 +1,16 @@
+[TITLE]
+Nestle Malaysia posts lower 1H sales on cautious consumer spending
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2024-07-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/25/nestle-malaysia-faces-lower-1h-sales-on-cautious-consumer-spending
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: Nestle (Malaysia) Bhd experienced a correction in its sales in the first half of 2024 (1HFY24) as subdued consumer sentiment and cautious spending during the festive period took it lower from record-high sales achieved in the first half of 2023 (1HFY23). In a results announcement, the consumer group said sales in 1HFY24 fell 8% to RM3.3bil, on a par with sales two years earlier in the first half of 2022 (1HFY22). In the second quarter alone, sales fell to RM1.52bil from RM1.75bil in the same quarter in 2023.
+
+[NEWS_P002] Consequently, Nestle Malaysia posted a lower 1HFY24 net profit of RM289.11mil, as compared to RM378.06mil in 1HFY23. In 2QFY24, net profit was RM93.6mil, nearly half the net profit of RM180.92mil in the previous comparative quarter. The board of directors declared a first interim dividend of 70 sen per share, on a par with the previous year. According to CEO Juan Aranols, the group recognises the significant challenges the inflation in food and other basic items represents to Malaysian families.
+
+[NEWS_P003] “We recognise the significant challenges that high food costs, driven by the global situation of commodity prices, create for Malaysian families. "We continue to make every possible effort to moderate the translation to our final prices of these external cost increases, absorbing them to the best of our ability and mitigating cost pressure through all possible actions, including the constant search for internal process efficiencies and the adoption of digital-enabled technologies across our entire value chain.” Moving forward, he said the group is expecting the challenging conditions to remain throughout the third quarter of the year and moderate progressively towards the year, with a return to growth by 1H25.

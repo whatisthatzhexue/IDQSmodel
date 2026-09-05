@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Uzma, Willowglen, Cape EMS, Heineken Malaysia, Hup Seng, Sentral REIT, Kawan Renergy
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-08-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/08/trading-ideas-uzma-willowglen-cape-ems-heineken-malaysia-hup-seng-sentral-reit-kawan-renergy
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Stocks to watch on Thursday include Uzma Bhd , Willowglen MSC Bhd , Cape EMS Bhd , Heineken Malaysia Bhd , Hup Seng Industries Bhd , Sentral Real Estate Investment Trust (Sentral REIT ) and Kawan Renergy Bhd. Uzma has accepted a contract award from PTTEP Sarawak Oil Ltd (PTTEP) for the provision of one hydraulic workover unit (HWU) and associated services for PTTEP, pursuant to the latter’s letter of award dated July 4, 2024 and subsequently approved on Aug 5.
+
+[NEWS_P002] 2024. Willowglen has been awarded a contract valued at RM27.82mil from Kadenko Co Ltd, Singapore, for the provision of supervisory control and data acquisition and condition monitoring system, monitoring and control network. Cape EMS managing director and chief executive officer Christina Tee Kim Chin continued her divestment of company shares, selling 112.74 million shares for RM53.56mil on Tuesday. Heineken Malaysia’s net profit for second quarter ended June 30, 2024 rose 0.72% to RM91.13mil from RM90.47mil earlier, thanks to lower operating expenses.
+
+[NEWS_P003] Hup Seng reported a net profit increase of 3.53% to RM9.03mil, or 1.13 sen per share, for the second quarter ended June 30. Sentral REIT saw a 30% increase in net property income to RM76.06mil for the first half of FY2024, from RM58.49mil a year ago, driven by contributions from Menara CelcomDigi and key properties like Building 4 and Platinum Sentral. Kawan Renergy’s subsidiary, Kawan Engineering Sdn Bhd (KESB), secured a RM58mil contract from KAB Energy Holdings Sdn Bhd for mechanical, firefighting, and electrical works at a 52-megawatt power plant in Sipitang, Sabah.
+
+[NEWS_P004] Overnight, the Dow Jones Industrial Average fell 0.6% to 38,763.45, the S&P 500 lost 0.77% to 5,199.5 and the Nasdaq Composite dropped 1.05% to 16,195.81. Apex Securities anticipates that the local stock market will reflect Wall Street's recent decline due to profit-taking activities making a return. “We advise investors to remain defensive and stay on the sidelines due to ongoing global headwinds such as potential US recessions and geopolitical tensions between Iran and Israel.
+
+[NEWS_P005] “Despite maintaining a positive longer-term outlook, we continue to favor the financial and REIT sectors to outperform others, serving as safe havens during this volatility,” it said.

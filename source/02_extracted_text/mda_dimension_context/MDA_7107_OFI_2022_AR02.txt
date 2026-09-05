@@ -1,0 +1,159 @@
+document_id: MDA_7107_OFI_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 26, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_7107_OFI_2022", "has_cost_discussion": true, "has_margin_discussion": false, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 51, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+OVERVIEW OF THE GROUPS’ BUSINESS AND OPERATIONS
+Oriental Food Industries Holdings Berhad (“the Company” or “the Group”) has made its mark in the snack food and
+confectionery manufacturing industry today as one of the companies holding the leading position in the said industry
+in Malaysia.
+The Group remains focused on placing the needs and interests of its customers first by manufacturing an assortment
+of snack food and confectionery products that focuses on quality. Generally, these products can be divided into five
+(5) broad categories, which are snack food, wafer, biscuits, potato snacks and bakery products.
+The Group has various product brand names, most of which are commercially strong and generating the required
+sales and profit both locally and overseas. Super Ring, Jacker, Rota and Oriental are currently well-known household
+brand names in Malaysia.
+FINANCIAL RESULTS AND FINANCIAL CONDITION
+Despite undergoing a challenging year in 2021, the Group has managed to secure continued growth in revenue as
+seen in the financial year ended 31 March 2022 (“FY 2022”) results as reflected in the table below:
+[MDA_P002]
+Y-O-Y
+[MDA_P003]
+RM’000
+RM’000
+RM’000
+%
+[MDA_P004]
+Revenue
+[MDA_P005]
+288,124
+295,809
+(7,685) (2.60%)
+Gross Profit
+[MDA_P006]
+51,484 53,844
+(2,360)
+(4.38%)
+Profit Before Tax (“PBT”)
+[MDA_P007]
+24,184
+22,834
+1,350 5.91%
+Financial Costs
+[MDA_P008]
+38.19%
+Profit After Tax (“PAT”)
+[MDA_P009]
+18,163
+18,496
+(333) (1.80%)
+Shareholders’ Fund
+[MDA_P010]
+220,820
+209,177
+11,643 5.57%
+Total Assets
+[MDA_P011]
+282,213
+266,791
+15,422
+5.78%
+Borrowings
+[MDA_P012]
+5,650
+9,636
+3,986
+41.37%
+*Debt/ Equity (%)
+[MDA_P013]
+-
+-
+Earnings Per Share
+[MDA_P014]
+7.57
+7.71
+Net Assets Per Share
+[MDA_P015]
+0.92
+0.87
+* The debt-to-equity ratio is Nil as the cash and cash equivalents exceeded the total external borrowings.
+REVENUE
+The Group recorded lower revenue of RM288.1 million in the financial year 2022, a decrease of 2.60% as compared
+to the previous financial year of RM295.8 million. The decrease was due to lower sales from both local and export
+market in the snack food and confectioneries segment.
+Revenue information based on the geographical location of customers is as follows:
+[MDA_P016]
+Revenue
+[MDA_P017]
+01.04.2021 - 31.03.2022
+01.04.2020 - 31.03.2021
+[MDA_P018]
+RM’000
+%
+RM’000
+%
+[MDA_P019]
+Malaysia
+[MDA_P020]
+129,311
+45%
+130,136
+44%
+Asia
+[MDA_P021]
+123,973
+43%
+124,082
+42%
+Others
+[MDA_P022]
+34,840
+12%
+41,591
+14%
+[MDA_P023]
+Total reported segments
+[MDA_P024]
+288,124
+100%
+295,809
+100%
+[MDA_P025]
+ORIENTAL FOOD INDUSTRIES HOLDINGS BERHAD
+Registration No. 199601017418 (389769-M)
+ANNUAL REPORT 2022
+MANAGEMENT DISCUSSION AND ANALYSIS
+NET PROFITS
+The Group’s profit after tax is lower at RM18.2 million as
+compared to RM18.5 million in the previous financial year. Earnings per share of the Group stood at 7.57 sen. FINANCIAL POSITION
+The Group’s financial position remains strong with total
+assets of RM282.2 million against total liabilities of RM61.4
+million. The Group has a cash reserve of RM39.4 million
+at the financial year-end as compared to RM30.2 million in
+the previous financial year. The Group expects a positive
+contribution in the coming years from the investment made
+earlier by one of its major subsidiary. Net tangible assets per share, attributable to the owner
+improved to RM0.92 (2021: RM0.87). The debt/equity ratio
+of the Group stood at Nil (2021: Nil) and the shareholders’
+fund is RM220.8 million. The Group’s liquidity, measures by
+the current ratio is 3.31. DIVIDEND
+The Group continuously declares a dividend payout for
+every quarter for the past years. The total dividend declared
+during the financial year 2022 was 2.8 sen (2021: 1.9 sen)
+per share.
+[MDA_P026]
+GROUP’S PROSPECTS
+The sustainability of revenue growth is promising as the
+Group has a solid business foundation in this industry. The
+Group will continuous strive to pursue higher productivity
+and lower operation costs by improving efficiency through
+capital investment. The Board expects that the performance of the Group will
+be satisfactory for the next financial year ending 31 March
+2023, despite facing various challenges from the competitive
+markets and uncertain markets.

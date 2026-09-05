@@ -1,0 +1,97 @@
+document_id: MDA_0012_3A_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Revenue
+RM 603.9
+million
+Profit After Tax (PAT)
+RM 45.2
+million
+1.0 Three-A Resources Management Discussion & Analysis
+Business Overview
+Three-A Resources Berhad ("3A" or "the Company") is an investment
+holding company that has been publicly listed since 2002, subsequently
+transferred to the Main Market of Bursa Malaysia in 2008. Through
+our wholly-owned subsidiary, San Soon Seng Food Industries Sdn Bhd
+("SSSFI"), 3A operates as a leading manufacturer of food and beverage
+ingredients. Originating as a caramel producer in 1977, SSSFI has since
+diversified our product range, establishing our presence across various
+global markets. Together, as a cohesive entity ("the Group"), 3A and
+SSSFI remain committed to manufacturing excellence, with a core
+focus on producing high-quality food and ingredients. Leveraging our
+collective expertise, the Group has successfully extended our reach
+beyond the confines of Asia where we now have an established
+presence on the international stage. Our primary objective at 3A is to relentlessly pursue excellence in
+our business operations.
+[MDA_P002]
+Aligned with our overarching vision to
+emerge as a prominent global market leader, we are dedicated
+to manufacturing globally-recognised quality brands of food and
+beverage ingredients. To achieve this goal, we adopt a strategic
+approach focused on innovation, quality assurance, and customer
+satisfaction. By consistently striving for excellence in every aspect of
+our operations, we aim to solidify our position as a preferred choice
+for discerning consumers worldwide. Through a relentless pursuit of
+manufacturing excellence, we position ourselves to achieve our vision
+of global leadership in the food and beverage ingredients industry. Industry Overview
+Against the backdrop of a challenging global economic environment,
+3A navigated FY2023 with strategic resilience. The Malaysian economy,
+after an impressive growth of 8.7% in 2022, witnessed a normalisation
+to 3.7% in 2023 according to Bank Negara Malaysia's Economic
+and Financial Developments in Malaysia in the Fourth Quarter of
+2023.
+[MDA_P003]
+This moderation stemmed from various external challenges,
+including a slowdown in global trade, the impact of the global tech
+downcycle, geopolitical tensions, and the implementation of tighter
+monetary policies. In spite of this, the outlook for 2024’s growth according to Bank
+Negara Malaysia's Economic and Financial Developments in
+Malaysia in the Fourth Quarter of 2023 will be fuelled by resilient
+domestic spending and a recovery in external demand. The IMF
+anticipates a substantial rebound in global trade growth, rising
+from 0.4% in 2023 to 3.3% in 2024. This, coupled with the tech
+upswing, increased external demand, and ongoing improvements
+in the tourism sector, is poised to bolster Malaysia's exports. On
+the domestic side, sustained employment and wage growth will
+support household spending, whilst investments will gain momentum
+through multi-year projects in both private and public sectors.
+[MDA_P006]
+As we progress forward, 3A remains
+committed to navigating these economic conditions prudently, moving
+towards a promising future. 2023 Business and Operational Performance
+Performance Overview
+Turning to business and operational performance, 3A experienced a
+decrease of 8.3% in revenue (RM 54.8 million) in FY2023 compared to
+the previous fiscal year. This reduction was attributed to lower quantities
+of products sold, reflecting the broader economic challenges faced
+during this period. The anticipated softening in consumer demand,
+influenced by weakened consumer spending and increased competition
+from new market entrants, is expected to affect the group accordingly. However, amidst the financial environment, there were positive indicators
+wherein the Group's liquidity ratios, including the current ratio, quick
+ratio, as well as cash and bank balances, demonstrated improvements. Exports
+Singapore emerged as the primary export destination, constituting
+10.3% of the total revenue in FY2023 as compared to 9.7% in FY2022. However, overall export revenue experienced a decline, amounting to
+approximately RM 5.4 million less than FY2022.
+[MDA_P007]
+This reduction in export
+revenue can be attributed primarily to diminished sales volumes during
+FY2023, due to broader industry headwinds and subdued demand
+compared to the preceding fiscal year. In response to these challenges,
+the Group has remained vigilant, implementing adaptive strategies
+to align with market dynamics and navigate industry fluctuations
+effectively. We continue to prioritise agility and responsiveness in our
+operations to capitalise on emerging opportunities and mitigate risks
+in the global export arena. Earnings
+The Group’s earnings demonstrated promising growth in FY2023, with
+net profit surging by 29% or RM 10.1 million to RM 45.2 million. The
+significant increase can be ascribed to several strategic factors. Firstly,
+our focus on optimising our sales mix led to an improved average
+selling price (ASP), bolstering our bottom line. Additionally, measures
+to mitigate raw material costs and stabilise other industry-related
+expenses contributed positively to our financial performance.

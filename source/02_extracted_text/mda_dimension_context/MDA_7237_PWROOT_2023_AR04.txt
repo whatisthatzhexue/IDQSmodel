@@ -1,0 +1,96 @@
+document_id: MDA_7237_PWROOT_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+AR 2023
+China and Hong Kong were among the last countries to
+reopen their borders, with China doing so on 1 January
+2023 and Hong Kong in February 2023. There was little
+movement in our activities in these countries for FY 2023
+but we have observed that economic recovery is underway
+and we expect our activities to pick up further in the year
+ahead. PRODUCTION
+Improved production efficiency and capacity, reduce
+downtime, improved supply chain and inventory
+management and better management of labour costs were
+some of the Group’s operational achievements in FY 2023. Production Facilities and Product Management
+We increased the instant powder (IP) production capacity at
+our plant with the commencement of an additional 10-lane
+machine which had its first commercial run in producing
+Alicafé Black Gold (2g pure coffee) in November 2022. This investment resulted in an increase in IP production
+capacity by 6%. Beverage capacity was also increased with an additional
+deionised water station installed for our canning lines.
+[MDA_P004]
+Furthermore, Power Root has enhanced our production
+capability with our own newly-commissioned coffee bean
+roasting plant which will enable us to produce micro ground
+coffee as raw material for our products. This capability gives
+us the option of producing assorted varieties of coffee in
+the future. As a start, we are focusing on the production
+of our own black coffee. Talent Recruitment and Workforce Efficiency
+Such investments and production efficiencies are partially
+the result of successful recruitment of experienced
+personnel with the right skills and knowledge and are able
+to advise on increasing and optimising in output, alleviate
+bottlenecks on the line, and streamline processes and
+workflow. The Group improved its workforce efficiencies this financial
+year with the resumption of foreign worker availability. Previously, closed borders and restrictions had brought
+about increased competition for eligible local workers
+resulting in a low-supply, high-wages labour market. The
+return of foreign workers (principally Nepalese workers)
+has led to better workforce management and will help in
+cost management.
+[MDA_P008]
+On 3 July 2023, the Group paid a fourth interim single tier
+dividend of 2.0 sen per ordinary share and a special interim
+single tier dividend of 1.5 sen per ordinary share amounting
+to RM15.8 million in respect of the current financial year. The Board did not recommend the payment of any final
+dividend in respect of the FY 2023. As such, the total dividends paid for FY 2023 is 11.75
+sen per ordinary share amounting to RM50.5 million,
+representing a dividend pay-out ratio of approximately
+84.9%. The Group’s dividend policy is to maintain a minimum of
+50% dividend pay-out ratio. Since our listing on Bursa
+Malaysia Securities Berhad in 2007, the Group has paid
+out a total of RM437.0 million in dividends, representing
+a dividend pay-out ratio of approximately 86.4%. It is our
+intention to continue to reward our shareholders for their
+loyalty and participation in our growth. BUSINESS OUTLOOK
+Power Root will continue with our push for excellence in
+performance and business sustainability in the coming
+financial year, with financial and operational discipline being
+a priority.
+[MDA_P009]
+The ROI mindset is being embedded across all
+departments – manufacturing, supply chain, Research &
+Development, Marketing, Sales and all support functions
+– and we will continue to focus on it. While we have improved efficiency in the past few years,
+there are still measures to be taken to optimise our
+operations. The Group will continue to utilise technology
+in this respect. The Sales Force Automation system which
+we have started using will be fully implemented this coming
+financial year; we also plan to roll out the Route-to-Market
+software which will assist our sales team in optimising route
+planning for better effectiveness when making site visits. A proof of delivery system which tracks on-time deliveries
+will also be implemented this year. On the manufacturing floor, we are looking at more effective
+utilisation of manpower, streamlining measures, and further
+material wastage reduction. We will also explore new
+marketing streams and collaborative partnership which are
+advantageous in promoting our brands. Ultimately, Power Root will be adaptable to meet changing
+consumer demand for quality products which gives good
+value for money, and nimble in adjusting to market changes.
+[MDA_P010]
+AREAS OF RISK
+The uncertain global economic outlook raises pricing and
+supply risk concerns, with rising inflation expected to
+influence raw material and labour costs. Power Root is
+taking measures to manage its impact through sourcing
+and costing initiatives; however, our business is highly
+sensitive to commodity prices and supply. Similarly, we
+are not immune to foreign exchange fluctuations although
+hedging measures are in place. The prolonged war in the
+Ukraine and domestic economic cost-of-living factors are
+also potential areas of concern. MANAGEMENT DISCUSSION AND ANALYSIS
+cont’d

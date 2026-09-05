@@ -1,0 +1,14 @@
+[TITLE]
+Profit-taking in the market, KLCI down 8.68 points
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-03-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/19/profit-taking-in-the-market-klci-down-868-points
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended lower on Tuesday, echoing regional equity performances on profit-taking in index-linked stocks. The benchmark FBM KLCI was down 8.68 points, or 0.56% to 1,544.96, its intraday low, after a bout of profit-taking following recent gains. There were 510 stocks advancing against 502 stocks declining while 486 counters were unchanged. Trading volume stood at 4.05 billion units worth RM3.1bil. Among the losers, PETRONAS Gas slid 24 sen to RM17.54, Ge-Shen lost 20 sen to RM3.79, Hong Leong Industries fell 16 sen to RM10.50 and CelcomDigi declined 13 sen to RM4.25.
+
+[NEWS_P002] YTL Power and YTL also saw profit-taking, with each falling three sen to RM3.89 and RM2.72, respectively. Dutch Lady jumped RM1.32 to RM26.92, Apollo Food surged RM1.23 to RM7, Allianz added 66 sen to RM20 and PETRONAS Dagangan gained 30 sen to RM21.74. Elsewhere in the region, MSCI's Asia ex-Japan stock index was lower by 0.94%. Japan’s Nikkei 225 rose 0.66% to 40,003.60 while South Korea’s Kospi closed down 1.1% at 2,656.17. Hong Kong’s Hang Seng index was down 1.24% at 16,529.48 and China’s CSI300 index lost 0.72% to 3,577.63.

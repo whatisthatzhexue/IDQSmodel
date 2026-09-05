@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia dives sharply into the red after Wall St plunge
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-09-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/04/bursa-malaysia-dives-sharply-into-the-red-after-wall-st-plunge
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The sharp selling pressure on Wall Street weighed on the domestic market on Wednesday, even as investors shifted their focus from heavyweights to small caps and lower liners. The FBM KLCI gapped down 14 points to 1,662.65 as trading commenced on Wednesday, with sharp profit-taking in about two-thirds of the index. Nestle Malaysia dropped RM2 to RM103.40 to lead the decline, while YTL slid 10 sen to RM3.86 and SD Guthrie slipped seven sen to RM4.50.
+
+[NEWS_P002] Malacca Securities Research said the negative sentiment in the US is expected to keep the selling pressure on the local technology sector. At Wednesday's open, the Bursa Malaysia Technology Index shed 1.6%, tracking the weakness in global technology counters. Sharp falls were seen across most traded stocks in the sector, with semiconductor plays Inari falling seven sen to RM3.12, Pentamaster shedding six sen to RM4.04 and Unisem slipping four sen to RM3.12.
+
+[NEWS_P003] The research firm was more bullish over other sectors, seeing potential in stocks benefiting from a stronger ringgit, such as consumer, construction, building materials and utilities. "Additionally, we favour stocks with strong fundamentals, growing earnings, and high dividend yields," it said in a note. Overnight, the Dow Jones shed over 600 points or 1.5% with renewed fears over a slowdown of the global economy sparking caution among investors. The Nasdaq dove 3.26% after Nividia lost nearly 10% of its share value as investors dialled back their optimism over AI and demand projections for semiconductor chips.

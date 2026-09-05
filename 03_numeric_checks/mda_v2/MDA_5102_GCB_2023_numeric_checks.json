@@ -1,0 +1,33 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 20.385538,
+      "current_value": 5320.8,
+      "direction_word": "increased",
+      "evidence_locator": "[MDA_P077]",
+      "metric": "revenue",
+      "note": "revenue: stated 20.40%, calculated 20.39%, status consistent.",
+      "previous_value": 4419.8,
+      "source_text": "revenue increased by 20.4% from RM4,419.8 million to RM5,320.8 million",
+      "stated_pct": 20.4,
+      "status": "consistent"
+    }
+  ],
+  "document_id": "MDA_5102_GCB_2023",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "revenue: stated 20.40%, calculated 20.39%, status consistent."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 1,
+  "num_financial_mentions": 141,
+  "num_material_discrepancies": 0,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "moderate"
+}

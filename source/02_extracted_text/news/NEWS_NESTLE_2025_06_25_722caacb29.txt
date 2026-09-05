@@ -1,0 +1,18 @@
+[TITLE]
+Optimism picks up on Bursa Malaysia after US rally on easing Middle East tensions
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/25/optimism-picks-up-on-bursa-malaysia-after-us-rally-on-easing-middle-east-tensions
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia shrugged off lacklustre sentiment to follow Wall Street higher on Wednesday, as investors celebrated what could be a ceasefire in the Iran-Israel conflict. The benchmark FBM KLCI picked up 4.38 points to 1,518.67, finally showing signs of confidence after slipping in the previous session. TA Securities noted that the weak session on Tuesday was owing to profit-taking among key index heavyweights in the energy sector as oil prices dropped amid easing tensions in the Middle East.
+
+[NEWS_P002] However, it said the market is poised for a rebound due to growing optimism over the potential ceasefire between Iran and Israel. "Immediate index support remains at 1,490, with stronger supports found at 1,465 followed by 1,444. Immediate resistance stays at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead," it said in a market commentary. According to Rakuten Trade, it remained apparent the local bourse was lacking the desired liquidity with the absence of foreign and retail participants.
+
+[NEWS_P003] "Nonetheless, we are hopeful that the flight of foreign funds back to Asia is happening especially into Hong Kong hence expect some spillover effect anytime soon," it said in its review. Financial blue chips leapt higher, led by Maybank rising seven sen to RM9.87, RHB gaining five sne to RM6.39 and CIMB adding three sen to RM6.80. Nestle climbed 78 sen to RM76.62. Meanwhile, local oil and gas-related stocks continued to fall. Petron Malaysia dropped four sen to RM1.63, Hibiscus Petroleum slid four sen to RM1.63 and Hengyuan Refining lost four sen to RM1.71.
+
+[NEWS_P004] Of actives, NexG rose 1.5 sen to 37 sen, Reservoir Link fell 1.5 sen to 29.5 sen and Cuckoo International dropped four sen to RM1.04.

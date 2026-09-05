@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia opens flat as uncertainty remains
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-10-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/30/bursa-malaysia-opens-flat-as-uncertainty-remains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The domestic market opened little changed on Wednesday as investors stayed on the sidelines ahead of the corporate results period and the US presidential elections. The benchmark FBM KLCI started the day 0.18 points lower at 1,614.90, amid the ongoing uncertainty. Apex Securities Research said the local sentiment remained subdued with recent net selling from foreign funds capping gains over the interim. The research firm said, however, that the technology sector is expected to outperform given the positive tech earnings reports and a spillover effect from the Nasdaq's overnight gains.
+
+[NEWS_P002] On Wall Street, the tech-heavy Nasdaq hit a fresh record high after rising 0.81% amid optimism over the performance of key tech counters in the coming days, in contrast to a 0.36% pullback in the Dow Jones Industrial Average. Malacca Securities Research said in its own report that the weakening bias of the ringgit could lift sentiment for export-oriented stocks. It added that the O&G sector may stay muted due to softer Brent oil prices, but plantation and gold-related stocks could trend positively as crude palm oil and gold continue in their upcycle.
+
+[NEWS_P003] Leading decliners on the market included BLD Plantation down 52 sen to RM10.72, Sunmow falling 26 sen to RM26.20 and Batu Kawan shedding 20 sen to RM19.78. Top actives were Dutch Lady up 26 sen to RM30.46, Atlan rising 25 sen to RM2.85 and Kotra gaining 20 sen to RM4.50.

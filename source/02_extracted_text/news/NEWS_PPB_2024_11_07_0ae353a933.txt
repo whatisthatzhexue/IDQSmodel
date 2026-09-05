@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI opens higher, then slides on profit-taking
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-11-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/07/fbm-klci-opens-higher-then-slides-on-profit-taking
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI opened higher in early trade Thursday, lifted by Bank Negara's decision to keep the overnight policy rate (OPR) at 3% and gains on Wall Street. However, it later slid due to profit-taking activities. The market bellwether slid 5.51 points, or 0.34% to 1,628.66 at 9.17 am. The index opened 1.97 points higher at 1,636.14. Overnight, the US stocks rallied sharply to close at record highs after Republican Donald Trump won the 2024 US presidential election.
+
+[NEWS_P002] The Dow Jones Industrial Average rose 1,508.05 points, or 3.57%, to 43,729.93, the S&P 500 gained 146.28 points, or 2.53%, to 5,929.04 and the Nasdaq Composite gained 544.29 points, or 2.95%, to 18,983.47. Inter-Pacific Research expects near-term market conditions to remain relatively buoyant, with a pro-business outlook likely under a Trump presidency. However, the trade war with China may intensify due to his protectionist policies. Nevertheless, the research house said the FBM KLCI is set to follow Wall Street’s lead in moving higher in the near term amid ongoing equity market euphoria that could support an extended recovery after recently finding support at the 1,600-point level.
+
+[NEWS_P003] The Federal Reserve is also widely tipped to reduce interest rates again with potentially another 25 basis points cut later today that could also provide further impetus for equity markets to head higher. “With the recovery looking to extend, the next targets are at 1,640 points and 1,645 points respectively. On the downside, meanwhile, the supports are at 1,630 points and at 1,624 points respectively. “The lower liners could also gather more momentum and push higher in the day ahead as they continue with the recovery.
+
+[NEWS_P004] As it is, there has been a gradual pickup in market activity and this could lend further impetus for these stocks to move higher over the near term,” Inter-Pacific said. Meanwhile, TA Securities said the local market should remain upbeat, lifted by China's central bank plans to increase the intensity of counter-cyclical monetary policy to address short-term economic challenges. “Immediate index resistance is revised to the recent high of 1,648, with next upside hurdles seen at 1,660 and 1,675.
+
+[NEWS_P005] “Immediate support stays at the 1,600 psychological level, with next crucial support coming in at the 200-day moving average level of 1,593, and next at 1,575, the 76.4%FR level,” it added. Among the decliners on Bursa Malaysia, F&N fell 40 sen to RM30.34, PPB Group lost 24 sen to RM14.28, Hong Leong Financial Group declined 18 sen to RM18.62 and Kuala Lumpur Kepong eased 18 sen to RM22.04. Malaysian Pacific Industries jumped 58 sen to RM26.94, Chin Tek added 12 sen to RM8.16, United Plantations gained 10 sen to RM28.10 and Harrisons climbed nine sen to RM8.60.

@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia struggles as weak sentiment drags market
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-12-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/20/bursa-malaysia-struggles-as-weak-sentiment-drags-market
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia started strong but quickly moved into negative territory by midday as weak investor sentiment weighed on market performance. The FBM KLCI declined by 0.27 points, or 0.02%, to 1,599.82, recovering from an intra-morning low of 1,595.70. There were 416 gainers, 475 losers and 494 counters traded unchanged on the Bursa Malaysia. Turnover stood at almost two billion shares valued at RM1.4bil. Among the decliners, United Plantations slid 64 sen to RM32.50, PETRONAS Dagangan eased 52 sen to RM19.34, Malaysian Pacific Industries lost 42 sen to RM25.58 and Batu Kawan declined 14 sen to RM20.
+
+[NEWS_P002] F&N rose 28 sen to RM27.96 Ayer added 24 sen to RM7.80, Hong Leong Industries gained 18 sen to RM14.58 and Nestle advanced 18 sen to RM97.18. TA Securities said stocks are likely to continue their profit-taking consolidation ahead of the weekend, with the broader market remaining cautious due to ongoing inflation risks in the US, which have raised expectations of higher interest rates for a longer period. “Immediate index support stays at 1,588, the 38.2% Fibonacci retracement (FR) of the 1,529 low (Aug 6) to 1,684 high (Aug 29) rally, with stronger key supports at 1,565, the 23.6% FR level, and then 1,550.
+
+[NEWS_P003] “Immediate resistance remains at 1,628, next 1,648, followed by the September peak of 1,675,” it added. Malacca Securities noted that a mixed trading session is expected on the local bourse, influenced by sentiment on Wall Street. However, buying interest is anticipated to focus on export-oriented sectors, such as Technology and Glove stocks. This is expected to be supported by the Fed's hawkish pivot. “Also, we remain positive on stocks linked to the data centre supply chain and the construction, utility, building material sectors, as supported by the data centre investments earlier this year,” it added.

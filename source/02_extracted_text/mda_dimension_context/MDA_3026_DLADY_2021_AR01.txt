@@ -1,0 +1,129 @@
+document_id: MDA_3026_DLADY_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Datin Seri Sunita
+Mei-Lin Rajakumar
+Chairperson
+Ramjeet Kaur Virik
+Executive Director
+Distributing over
+180,000
+milk packs
+to key frontliners and
+partnered various
+Non-Government
+Organisations, Key
+Opinion Leaders and
+Foodbanks
+Nourishing by Nature
+Our Dairy Development
+Programme (DDP) has
+helped produce
+37.9 million
+LITRES OF MILK
+[MDA_P005]
+Dutch Lady Milk Industries Berhad
+Driving The Nation’s Sustainable Dairy Farming
+DLMI achieved a milestone in April 2021 when we
+established a strategic public-private partnership by signing
+a Memorandum of Collaboration with the Department of
+Veterinary Services (DVS) to boost our nation’s supply of
+quality local fresh milk and to achieve a fully sustainable
+milk supply for the future. The collaboration allows DLMI
+to partner the Government, especially the Ministry of
+Agriculture and Food Industry to support the growth of the
+local dairy industry. This is in line with the Government’s goal
+to achieve 100 percent Self-Sufficiency of local fresh milk by
+2025 as part of the National Dairy Industry Development
+Programme. Since 2011, our Dairy Development Programme
+(DDP) has helped produce 37.9 million litres of milk while our
+Farmer2Farmer (F2F) Programme has benefitted more than
+536 farmers. In 2021, we introduced a new digital F2F format
+that revolved around video blogs and was aptly named F2F
+Vlogs. Via this initiative, a total of 70 local dairy farmers
+were trained virtually during the COVID-19 pandemic.
+[MDA_P009]
+Annual Report 2021
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Through the course of 2021, we had carried out various
+initiatives in ensuring our People stayed connected through
+strong adoption of CARE (C-Connected; A-Appreciated;
+R-Responsive; E-Energised) principles, wellness initiatives
+to remain engaged and energised, and enabled a forward,
+flexible way of working through Agile Transformation. Despite all external challenges, we continue to invest in our
+People, and will continue doing so for years to come. Capability Building
+We remain committed and passionate about talent
+management and development as our employees are drivers
+of sustainable success. Hence, various initiatives have been
+deployed to enhance capability building:
+Winning Through Volatility – Body.Mind.Soul (BMS)
+The current volatile business landscape represents a challenge
+to employees where mental, spiritual and physical energies
+are shifting. This amplified the relevance of personal energy
+management - that an Engaged, Enabled, and Energised
+workforce is key in motivating our business forward.
+[MDA_P014]
+Keeping employees
+informed on COVID-19 SOPs
+and developments
+COVID-19 on-site Testing
+(Factory)
+RTK Home Saliva Test Kits
+for Office Employees
+Talks on managing isolation
+and stress (well-being)
+Charity Opportunities (Milk
+Donation) via Blue Brigade
+EAP Support – Mental
+Health (isolation)
+COVID-19 Vaccination (Stats:
+99% Fully Vaccinated as at
+31 December 2021)
+Talks by doctors to ease fear,
+uncertainties on COVID-19
+and COVID-19 Vaccination
+Distribution of Care Packs
+(Masks, Vitamin C, Hand
+Sanitiser)
+[MDA_P018]
+While we have been true to our purpose in Nourishing Malaysian, 2021 has really
+been the year where that purpose is clearly brought to live. Movement Control
+Orders (MCO) has changed the way consumer consume and perceive dairy. Not
+only the nutritional value of our milk is highly appreciated during this time,
+the delicious taste of our products has also leads to various creative ways of
+consumptions during this unprecedented time. All this has led to strong overall volume growth of +7% vs 2020. Within the total
+Dairy category, our market share improved to 26.6% (+1p.p. vs 2020 and +2.9p.p
+vs 2019, Nielsen Retail Audit Dec 2021), where we remain a strong #1 Dairy
+Player in Malaysia, showing the trust and connection we have with our Malaysian
+consumers. Within Consumer Dairy segment, after a spike in 2020 due to lockdown and
+panic buying, the Liquid Milk category normalised in 2021 with -1% value decline. Despite the category decline, Dutch Lady continued to drive growth of +4%, giving
+us 38.7% value share (+2p.p. vs 2020, Nielsen Retail Audit Dec 2021) further
+strengthening our market leadership.
+[MDA_P021]
+MaxGro has gained 4.5% value share in this segment in
+the past year since launch with an expansion of portfolio in
+second half of the year with larger pack sizes and portion
+packs and now has achieved third position within this
+segment. In 2021, Friso Gold continued to dial up product superiority
+via the launch of Novas Signature Milk which contains small
+molecules & soft structure, high-quality milk produced
+by our farms & premium bred cows in the Netherlands to
+enable Good Digestion for Stronger Inside. We leveraged
+on 150 years’ celebration of our Dutch Dairy heritage in Q3,
+2021 to further amplify brand trust & expertise. Having a
+pool of strong advocates called Friso Gold Mombassadors,
+we led digital share of voice and positive sentiments were
+up to 10x more than the next brand. As a result, Friso hit the
+highest number of buyers for IFFO & GUM (Kantar, 24 weeks
+data), doubling up GUM buyers by Nov ‘21, contributed by a
+strong focus in driving penetration. This led to Friso hitting
+its highest market share (YTD Nov ‘21 @ 10.3%) in the past
+3 years. 2021 has not only changed the way consumer consumed
+dairy.

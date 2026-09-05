@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI climbs back above 1,600 points on Christmas boost
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-12-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/24/fbm-klci-climbs-back-above-1600-points-on-christmas-boost
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI enjoyed some pre-Christmas cheer, supported by gains in YTL Power, Public Bank, and Tenaga Nasional, in line with the broadly higher regional markets. The 30-stock index rose 6.79 points, or 0.43% to 1,602.99, just slightly below its intra-day high of 1,603.89. It hit an intraday low of 1,596.64. There were 500 gainers, 427 losers and 534 counters traded unchanged on the Bursa Malaysia. Turnover stood at 2.01 billion shares valued at RM1.54bil.
+
+[NEWS_P002] The FBM KLCI component stocks were overwhelmingly positive, with 22 gainers and two decliners. Leading the mover on the index was YTL Power, climbing eight sen to RM4.19, pushing the index up by 0.9467 points. Public Bank rose three sen to RM4.55, contributing 0.8336 points to the index, while Tenaga Nasional added eight sen to RM14.08, pushing the index higher by 0.6657 points. Key losers on the FBM KLCI were Hong Leong Bank, which slid 14 sen to RM20.20 while Sime Darby fell one sen to 2.30 On the broader market, Yinson rose 13 sen to RM2.70, Batu Kawan added 12 sen to RM20.12 while Heineken fell 28 sen to RM23.66 and Malaysian Pacific Industries lost 26 sen to RM25.48.
+
+[NEWS_P003] Meanwhile, the ringgit was quoted at 4.4885, up 0.03% against the US dollar. It strengthened by 0.29% against the Singapore dollar, reaching 3.3027. According to Bursa Malaysia data, foreign investors continued to sell local equities, disposing of RM118mil on Monday. Local institutions and retailers bought equities worth RM110mil and RM9mil, respectively. Bursa Malaysia and its subsidiaries will be closed on Wednesday for Christmas Day. Trading will resume on Thursday.
+
+[NEWS_P004] On the external front, MSCI’s Asia ex-Japan stock index was higher by 0.4%. Japan’s Nikkei 225 declined 0.32% to 39,036.85 while South Korea’s Kospi closed down 0.06% at 2,440.52. Hong Kong’s Hang Seng finished 1.08% higher at 20,098.29. China’s CSI300 index rose 1.27% to 3,983.69 while the Shanghai Composite advanced 1.26% to 3,393.53.

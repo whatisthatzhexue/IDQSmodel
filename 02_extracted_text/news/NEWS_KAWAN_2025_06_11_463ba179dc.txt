@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI rises at midday on U.S.-China trade optimism
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-06-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/11/fbm-klci-rises-at-midday-on-us-china-trade-optimism
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the morning session higher, tracking regional gains on signs of progress in U.S.-China trade talks, although upside momentum remained capped amid investor caution. The benchmark index rose 7.36 points, or 0.49%, to 1,524.31, down from its intra-morning high of 1,530.85. Gainers thumped losers at 459 to 364 while 474 counters were unchanged. Turnover stood at almost two billion securities valued at RM1.16bil. Investor sentiment is expected to stay cautious, according to TA Securities, as markets await Wednesday’s US CPI data for insights into how President Donald Trump’s tariff policies may be driving inflation.
+
+[NEWS_P002] “Immediate index support remains at 1,490, while stronger supports can be found at 1,465 and 1,444. “Immediate resistance is maintained at 1,564 with the next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead,” TA said. Meanwhile, Hong Leong Investment Bank Research expects the FBM KLCI to trade sideways with a slight upside, supported by US-China trade hopes. However, foreign outflows, US-Malaysia tariff uncertainty, and June’s poor historical returns may cap gains.
+
+[NEWS_P003] “Market concerns are further exacerbated by a fragile global trade environment, ongoing macroeconomic headwinds, and the looming risk of domestic subsidy rationalisation in 2H25, as well as the potential repercussions of expanded SST (effect 1 July) - all of which could weigh on Malaysia’s growth and corporate earnings visibility,” it added. Among the gainers on Bursa Malaysia, Allianz rose 30 sen to RM19.42, Sunway Construction added 26 sen to RM6.23, Batu Kawan gained 18 sen to RM19.18 and F&N climbed 18 sen to RM27.98.
+
+[NEWS_P004] Decliners included Kuala Lumpur Kepong, which fell 32 sen to RM19.64, Country View, down 29 sen to RM2.07, PETRONAS Gas, which lost 26 sen to RM17.68, and Genting Malaysia, which eased 13 sen to RM1.90. Reuters reported China's blue-chip CSI300 Index rose as much as 1.2%, hitting its highest level since May 23. The Hong Kong's benchmark Hang Seng index climbed up to 1%, reaching its strongest level since March 20. The Nikkei 225 Index climbed 0.5% as of the midday break, set for its longest winning streak in about a month.

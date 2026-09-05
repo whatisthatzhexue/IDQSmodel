@@ -1,0 +1,16 @@
+[TITLE]
+Higher close on buying support
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-04-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/08/higher-close-on-buying-support
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended firmer today in sync with regional markets, on the back of follow-through interest. Gains on index-linked counters pushed the market barometer FBM KLCI to close higher by 4.73 points to 1,559.98. Stocks that gained outnumbered those that fell 531 to 511, with another 502 counters unchanged. A total of 3.97 billion shares changed hands, worth RM2.33bil in all. Top gainers on Bursa Malaysia included Nestle which jumped RM1.40 to RM122.50, Dutch Lady , which added RM1.14 to RM34.50 and Allianz which rose 70 sen to RM21.74.
+
+[NEWS_P002] Among the losers, Ge-Shen slid 16 sen to RM3.71, PETRONAS Dagangan lost 12 sen to RM21.80, Apollo Food declined 11 sen to RM6.92 and Chin Hin Group Property fell 10 sen to RM1.70. On the forex market, the ringgit was down 0.16% against the greenback to 4.7550, 0.05% against the pound sterling to 6.0012 and 0.05% against the Singapore dollar to 3.5239. US West Texas Intermediate crude lost 79 cents to US$86.12 and Brent slid 81 cents to US$90.36 per barrel.
+
+[NEWS_P003] Elsewhere in the region, Japan’s Nikkei 225 rose 0.91%, Hong Kong’s Hang Seng Index closed up 0.05%, South Korea’s Kospi added 0.13%, China’s composite index closed down 0.88% and Singapore’s Straits Times Index gained 0.02%.

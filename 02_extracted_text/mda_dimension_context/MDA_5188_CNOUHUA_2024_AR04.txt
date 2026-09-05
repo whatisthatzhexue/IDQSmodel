@@ -1,0 +1,11 @@
+document_id: MDA_5188_CNOUHUA_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 5, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+CHINA OUHUA WINERY HOLDINGS LIMITED
+Overview of Performance
+Prospects

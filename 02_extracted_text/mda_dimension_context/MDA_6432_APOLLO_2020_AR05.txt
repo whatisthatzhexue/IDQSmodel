@@ -1,0 +1,22 @@
+document_id: MDA_6432_APOLLO_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 41, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 93.048, "paragraph_count": 41, "paragraph_length_distribution": {"max": 551, "mean": 181.463, "min": 7}, "repetition_ratio": 0.04878, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P011]
+Revenue
+[MDA_P021]
+RISK OVERVIEW
+[MDA_P031]
+ANNUAL REPORT 2020
+APOLLO FOOD HOLDINGS BERHAD 199401005792 (291471-M)
+[MDA_P041]
+The Board of Directors recommend a first and final dividend of 20 sen under the single tier system (tax
+exempt) for the financial year ended 30 April 2020. The dividend rate will subject to the shareholders’ approval
+at the forthcoming Annual General Meeting to be held on 28 October 2020. The dividend will be paid on 12
+January 2021 once it is approved.

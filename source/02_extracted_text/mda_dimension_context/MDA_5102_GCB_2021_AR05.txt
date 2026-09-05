@@ -1,0 +1,161 @@
+document_id: MDA_5102_GCB_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 98, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 413.193, "paragraph_count": 98, "paragraph_length_distribution": {"max": 3169, "mean": 1041.806, "min": 29}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion
+& Analysis
+6 | GUAN CHONG BERHAD
+Our Financial Performance
+Continuing our trend of steady year-on-year growth, Group-wide revenue rose by 6.5% in FY2021. However, our net profit
+decreased by 30.5% mainly due to weaker butter ratio during the year and one-off gain on the disposal of an associate
+company in FY2020. Read more about our financial performance within the Financial Statements section of this report.
+Read more: Financial Performance Review, page 40
+Our Non-Financial Performance
+In FY2021, we increased our annual cocoa grinding capacity by 20,000MT to a total of 277,000MT across our worldwide
+production facilities. We were also crowned the Company of the Year Award in food manufacturing and were recognised
+for our exemplary community care initiatives at the Sustainability and CSR Malaysia Awards.
+RM3,923.3
+million
+14.86
+sen
+Revenue
+Earnings
+per share
+RM196.8
+million
+RM1,342.3
+million
+Profit
+before tax
+Shareholders’
+equity
+RM154.8
+million
+0.92
+times
+Net profit
+Net
+gearing ratio
+Snapshot of FY2021:
+Financial and Non-Financial Performance Highlights
+[MDA_P025]
+In Malaysia, we were successful in
+increasing our grinding capacity at
+our Pasir Gudang plants by 20,000MT
+to reach a total of 150,000MT. This
+was achieved through an expansion
+exercise carried out on our existing
+facilities. In Ivory Coast, we will commence
+Phase 1 operations with an initial
+annual
+grinding
+capacity
+of
+60,000MT in mid-2022. The cocoa
+processing facility will boost our
+Group-wide annual grinding capacity
+to 337,000MT upon completion,
+empowering us to capture a greater
+share of the global cocoa market. During FY2021, we
+increased our grinding
+capacity by 20,000MT to
+end the year with a total
+cocoa grinding capacity of
+277,000MT and industrial
+chocolate capacity of
+90,000MT across our
+global operations.
+[MDA_P050]
+He is not a director of any other public company. He is the cousin of Tay Hoe Lian, the
+Managing Director and shareholder of the Company, and brother of Tay How Sik @ Tay
+How Sick, an Executive Director and shareholder of the company. He does not have any
+conflict of interest with the Company and has not been convicted for any offences within
+the past 5 years. Malaysian
+Female
+TAY SEE MIN
+Commercial Director
+Tay See Min was appointed as the Commercial Director of GCBCS on 10 December 2010. She graduated with a Bachelor in Information System from Monash University, Australia
+in 1993. Upon graduation, she worked in the Information Technology (“IT”) profession
+and was last associated to American International Assurance (AIA) as an IT Manager. Since
+joining GCCM, she has been actively involved in trading of cocoa beans and the sales and
+marketing of cocoa products. In 2012, she was appointed to be in charge of the Indonesian
+Market and has successfully set up a trading company in Jakarta, namely GCBCI. Since
+then, she has been managing the subsidiary and has successfully expanded the customer
+base in Indonesia.
+[MDA_P074]
+In addition to enabling us
+to better understand their
+needs
+and
+expectations,
+we also gain a greater
+understanding of the various
+skills and aptitudes at our
+disposal, enabling us to
+better deploy our human
+resources for sustainable
+growth. • Monthly
+Workers’
+Committee meetings
+• Regular
+employee
+meetings (daily, weekly
+and monthly, depending
+on job profile)
+• Employee
+appraisal
+sessions
+• Team building activities
+• Regular,
+role-specific
+training modules
+• Consistently recognising the hard
+work of our employees through a fair
+remuneration and reward system
+• Providing professional development
+and
+training
+opportunities
+to
+enhance the skills of our employees
+• Embedding our corporate vision,
+business
+direction
+and
+growth
+plans at all levels, thereby nurturing
+a greater sense of belonging and
+purpose at work
+Governments/
+Regulators
+Our
+engagements
+with
+governments and regulators
+are crucial to remaining
+abreast of changing laws
+and
+regulatory
+regimes,
+thereby minimising the risk
+of any disruptions to our
+multinational operations.
+[MDA_P098]
+Contributing
+factors to this positive performance included effective
+fulfilment of customers’ orders, an increase in utilisation
+rates and enhanced operational efficiency. Taken as a whole, FY2021 evidenced the strength of our
+business during challenging times while providing a
+positive outlook for our business. This provides optimism
+as our expansion plans come to fruition in FY2023 and
+beyond, we will be able to fully capitalise on enhanced
+cost efficiencies and capture a greater share of the global
+cocoa-derived ingredients and chocolate market. 1 Wall Street Journal (2021), Shipping and Logistics Costs Are Expected
+to Keep Rising in 2022
+2 Lloyd’s List (2022), UN Says Ukraine War To Lead To Even Higher
+Freight Rates

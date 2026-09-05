@@ -1,0 +1,55 @@
+document_id: MDA_6203_KHEESAN_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 33, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d)
+[MDA_P003]
+In FYE 2022, the Group recorded total sales revenue of RM33.0 million of which domestic sales accounted for 57.6%
+which export sales accounted for the balance of 42.4%. The main product category of the Group is Candy.
+[MDA_P006]
+The Candy segment comprises the majority of the Group’s revenue and was the main contributor of the Group. The
+bestselling product was the Fruitplus range of chewy candies whilst Torrone Barley Mint hard candies were an iconic
+product which was easily recognizable as it has been present in the market for over three decades. The overall market
+condition remained strong for the segment with strong demand for the chewy and soft candy products.
+[MDA_P008]
+The Group’s production operations are based at its plant located in Seri Kembangan, Selangor which produces the candy
+products. The Group is currently experiencing capacity constraint due to rising production level to meet current demand
+as a result of cash flow constraints resulting from the unauthorized transfer of funds by the IJM to their Solicitors Account
+without due approval and considerations of the production and operational requirements of the Group.
+[MDA_P016]
+In an effort to achieve higher sales volume, the Group distributes its products via both the wholesale and modern distribution
+channels in Malaysia. However, for export sales, the distribution channels vary from country to country. For example, in
+Singapore and Hong Kong, only the modern distribution channel will be employed whilst the wholesale channel will be
+more prevalent in Indonesia and Vietnam.
+5.
+BUSINESS RISK OVERVIEW
+[MDA_P017]
+The Group faces several risk factors that may affect the Group’s profitability. Those risks include the following:
+[MDA_P023]
+Significant fluctuation of foreign currency exchange rate will impact the Group’s cash flow movement and profitability
+as most of its input materials are sourced from abroad. In addition, the Group also relies on its export sales which are
+also subject to changes in currency exchange rates. The Group shall manage currency exchange rate fluctuations by
+continuing to monitor global currency movements and, if necessary, take proactive hedging positions to mitigate such
+risk.
+[MDA_P030]
+The Group is exposed to interest rate and liquidity risk as it has considerably high bank borrowings. The board is cognisant
+of this inherent risk and shall monitor its cashflow position diligently while exploring alternate avenues of funding. The
+Company may consider raising funds through the capital markets when the stock market condition is much more
+favourable. This will help mitigate over-reliance on banking facility which is prone to interest rate movements.
+6.
+OUTLOOK OF FUTURE PROSPECTS
+[MDA_P031]
+The Malaysian economy was hit due to the covid pandemic over the last two years and the Group was not spared.
+However, the government has managed this pandemic reasonably well and Malaysia as a whole has achieved over 90%
+immunization of the adult population and as such there has been loosening on social movement. This re-opening of the
+economy has helped the recovery process of the Group, hence the management is optimistic that this would translate
+to the recovery in the Group’s revenue in time.
+[MDA_P033]
+The Group is weighing all options and will decide on the best course of action moving forward and will act in the best
+interest of its shareholders.
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d)

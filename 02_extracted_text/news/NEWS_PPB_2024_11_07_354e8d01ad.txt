@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia snaps 4-day winning streak
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-11-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/07/bursa-malaysia-snaps-4-day-winning-streak
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia dipped into negative territory on Thursday as investors took profits following recent gains, while the ringgit strengthened against the US dollar. At 5pm, the FBM KLCI was down 10.89 points, or 0.67%, at 1,623.28, recovering slightly from its intraday low of 1,622.75. All indices on Bursa Malaysia ended lower, except for the Bursa Malaysia Technology Index, which gained 1.25% to 62.44 points. In the broader market, decliners outpaced gainers, with 466 counters advancing, 641 declining, and 507 unchanged.
+
+[NEWS_P002] Turnover reached 3.8 billion shares, valued at RM3.4bil. Dealers said the FBM KLCI was unable to sustain its gains due to some emerging profit-taking. On Bursa Malaysia, Nestle was the top loser, losing RM1.20 to RM100. F&N slid RM1.04 to RM29.70, PPB Group fell 40 en to RM14.12 and Kuala Lumpur Kepong lost 28 sen to RM21.94. Malaysian Pacific Industries surged RM1.12 to RM27.48, Kotra added 23 sen to RM4.40, Inari gained 20 sen to RM3.19 and Ayer rose 20 sen to RM7.25.
+
+[NEWS_P003] On the forex market, the ringgit was up flat against the greenback to 4.4030. The local unit fell 0.34% against the Singapore dollar at 3.3217. Elsewhere in Asia, Japan’s Nikkei 225 index ended down 0.25%, South Korea’s Kospi rose 0.04% and Hong Kong’s Hang Seng advanced 2.02%. China’s CSI 300 Index added 3.02% and the Shanghai Composite Index closed up 2.57%.

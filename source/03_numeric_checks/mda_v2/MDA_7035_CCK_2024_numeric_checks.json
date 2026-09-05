@@ -1,0 +1,85 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 29.874633,
+      "current_value": 112.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P007]",
+      "metric": "margin",
+      "note": "margin: stated 2.30%, calculated 29.87% from profit/revenue, status material_discrepancy.",
+      "previous_value": 374.9,
+      "source_text": "ANNUAL REPORT | 7 MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d) The poultry segment reported a total segment revenue of RM374.9 million for FY2024, an increase of 11.4% from the same period last year. The better performance was mainly driven by an increasing demand for poultry products with sales from",
+      "stated_pct": 2.3,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": 4081.0,
+      "current_value": 4081.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P003]",
+      "metric": "segment revenue",
+      "note": "segment revenue: components sum 4081.00, stated total 2986.00, difference 36.67%, status material_discrepancy.",
+      "previous_value": 2986.0,
+      "source_text": "CCK CONSOLIDATED HOLDINGS BERHAD 6 | The Management Discussion and Analysis (“MD&A”) is intended to provide the stakeholder with operational and financial highlights of CCK Consolidated Holdings Berhad (“CCK” or “the Group”) for the financial year ended 31 December 2024 (“FY2024”). The MD&A should b",
+      "stated_pct": 0,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": 7049.6,
+      "current_value": 7049.6,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P005]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 7049.60, stated total -76.00, difference 9375.79%.",
+      "previous_value": -76.0,
+      "source_text": "The other 85% of CCK Fresh Mart retail stores’ products comprise house-brand and third-party frozen products, seafood products, fresh fruits, and vegetables. REVIEW OF FINANCIAL PERFORMANCE Revenue for FY2024 increased by 7.8% to RM1,057.6 million from a year ago (“FY2023”). Revenue growth was drive",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 381.9,
+      "current_value": 381.9,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P007]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 381.90, stated total 2024.00, difference -81.13%.",
+      "previous_value": 2024.0,
+      "source_text": "ANNUAL REPORT | 7 MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d) The poultry segment reported a total segment revenue of RM374.9 million for FY2024, an increase of 11.4% from the same period last year. The better performance was mainly driven by an increasing demand for poultry products with sales from",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 12176.9,
+      "current_value": 12176.9,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P009]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 12176.90, stated total 49.00, difference 24750.82%.",
+      "previous_value": 49.0,
+      "source_text": "The prawn segment recorded a PBT of RM9.1 million, declined 4.4% from RM9.5 million in FY2023. Segment profitability affected by a moderation in average selling prices and sales volumes to key export markets during the period under review. The food service segment reported a PBT of RM1.5 million in ",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    }
+  ],
+  "document_id": "MDA_7035_CCK_2024",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "margin: stated 2.30%, calculated 29.87% from profit/revenue, status material_discrepancy.",
+    "segment revenue: components sum 4081.00, stated total 2986.00, difference 36.67%, status material_discrepancy.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 7049.60, stated total -76.00, difference 9375.79%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 381.90, stated total 2024.00, difference -81.13%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 12176.90, stated total 49.00, difference 24750.82%."
+  ],
+  "num_calculable_changes": 2,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 66,
+  "num_material_discrepancies": 2,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 3,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

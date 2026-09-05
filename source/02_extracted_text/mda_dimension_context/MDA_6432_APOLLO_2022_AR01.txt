@@ -1,0 +1,36 @@
+document_id: MDA_6432_APOLLO_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 42, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P005]
+(ii) Hap Huat Food Industries Sdn Bhd is principally engaged in distributing and marketing of compound
+chocolates, chocolate confectionery products and layer cakes in local market.
+[MDA_P007]
+The aim of the Group is to always fulfil the customer needs and requirements by using the latest equipment and
+technology. In order to achieve the aim, the Group uses only the finest natural ingredients sourced from a select
+panel of suppliers and employs state-of-art technology in manufacturing its products.
+[MDA_P012]
+The Group registered a turnover of RM188.27 million for the financial year ended 30 April 2022, a decrease of 1.11%
+as compared to RM190.39 million in previous financial year ended 30 April 2021. 73.88% of the turnover was
+contributed by local market and there were no material changes on the sales proportion from previous financial
+year.
+[MDA_P014]
+The profit after taxation had decreased by 42.50% to RM9.97 million from RM17.34 million as recorded in the
+previous financial year. The decrease in profit after taxation during the financial year was mainly due to lower gross
+profit margin as a result of higher raw material costs as compared to previous financial year.
+[MDA_P022]
+RISK OVERVIEW
+[MDA_P023]
+The Group is currently facing a few risk factors that might affect the Group’s profitability. Those risks include the
+following:
+[MDA_P037]
+BUSINESS PROSPECT
+[MDA_P042]
+The Company does not have a fixed dividend policy. The Board of Directors are pleased to recommend a First and
+Final Dividend of 15 sen under the single tier system (tax exempt) for the financial year ended 30 April 2022. The
+dividend rate will subject to the shareholders’ approval at the forthcoming Annual General Meeting to be held on
+27 October 2022. The dividend will be paid on 11 January 2023 once it is approved.

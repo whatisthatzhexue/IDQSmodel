@@ -1,0 +1,14 @@
+[TITLE]
+Banks, utilities shore up FBM KLCI
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/26/banks-utilities-shore-up-fbm-klci
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The domestic market maintained its lead as it entered the lunch break with the most gains seen in financial and utility counters. At 12.30pm, the FBM KLCI was up 7.96 points to 1,575.99 ahead of a raft of earnings results that are scheduled for the remainder of the week. The market was broadly positive with 445 gainers compared to 405 decliners. Trading volume was 1.65 billion shares changing hands for RM1.03bil. Among the leading blue chips, Telekom Malaysia rose 13 sen to RM6.83, Tenaga Nasional gained six sen to RM13.46 and YTL Power rose six sen to RM3.16.
+
+[NEWS_P002] RHB jumped seven sen to RM6.61, Public Bank climbed six sen to RM4.52 and Maybank added two sen to RM10.48. Nestle, however, fell RM1.26 to RM88.74 on the back of a disappointing earnings result. Meanwhile, regional markets were mixed with Hong Kong's Hang Seng surging 2.54% to 23,619 and China's composite index gaining 0.5% to 3,362, while Japan's Nikkei dropped 1.04% to 37,839. Singapore's Straits Times was unchanged at 3,915.

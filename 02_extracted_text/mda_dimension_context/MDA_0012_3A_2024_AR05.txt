@@ -1,0 +1,141 @@
+document_id: MDA_0012_3A_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 8, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 140.39, "paragraph_count": 8, "paragraph_length_distribution": {"max": 1120, "mean": 1028.25, "min": 883}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Profit After
+Tax (PAT)
+(RM'000)
+RM43,449
+Revenue
+(RM'000)
+RM557,116
+Industry Overview
+Three-A Resources Berhad ("3A" or "the
+Group") continues to strengthen its position
+as a manufacturer of high-quality food and
+beverage ingredients. In line with its strategic
+objectives, the Group remains committed to
+enhancing operational efficiencies, optimising
+its supply chain, and managing costs
+effectively to reinforce its market position. For FY2024, 3A has navigated an evolving
+industry landscape while maintaining a
+strategic focus on sustainable growth. The Group's performance in FY2024 was
+shaped by macroeconomic conditions,
+including geopolitical risks and inflationary
+pressures that influenced raw material
+costs. However, with inflation stabilising
+at 1.8% and cost pressures moderating,
+3A effectively managed its input costs. The
+Malaysian economy recorded a 5% growth
+in the fourth quarter of 2024, supported
+by ongoing structural reforms. Stronger
+household spending supported by a robust
+labour market and policy measures further
+drove demand for ingredient solutions.
+[MDA_P003]
+However, the impact was partially offset by a
+more favourable product sales mix, reduced
+volatility in raw material costs, and enhanced
+cost control measures, which contributed to
+a more stable financial performance despite
+the challenges. Exports
+Singapore remained the Group's top export
+market in FY2024, contributing 10.7% to
+total revenue. However, export revenue
+experienced a decline of approximately
+RM16.3 million compared to FY2023. This
+decrease was mainly driven by reduced sales
+volumes, resulting from weaker industry
+demand. As global markets faced challenges,
+lower quantities of products sold contributed
+significantly to the overall drop in export
+revenue for the year. Assets and Liabilities
+In FY2024, the Group saw a 5.9% increase
+in total assets, reaching RM535.3 million,
+driven largely by higher inventory levels and
+cash balances. This was partially offset by
+[MDA_P005]
+Upgrading
+manufacturing facilities and enhancing
+product innovation capabilities remained top
+priorities, enabling the Group to deliver high-
+quality, cost-competitive products that meet
+customer expectations. The expansion of the
+Quality Control and Micro lab, Physical and
+Chemical Laboratory facilities was completed
+in October 2024, while the construction of a
+new warehouse facility is set to be completed
+by mid-2025. Additionally, the first phase
+of the solar panel photovoltaic system
+has yielded encouraging results, reducing
+energy costs and carbon footprints. Ongoing
+plant expansions, automation efforts, and
+the installation of steam leak detection
+systems have further contributed to improved
+efficiency and reduced reliance on foreign
+labour. Marketing and Customer Base Expansion
+Efforts to expand market share and grow the
+customer base in FY2024 focused on actively
+[MDA_P007]
+To
+mitigate these risks, the Group diversified its
+customer base across local and export markets
+while adjusting its sales mix to align with
+evolving market demands. By integrating
+ESG considerations into its decision-making
+approach, the Group effectively navigated
+challenges and capitalised on emerging
+opportunities to ensure continued growth
+and resilience. Outlook and Prospects
+Given the macro and microeconomic
+conditions in FY2024, the Group anticipates
+ongoing challenges in FY2025, including
+inflationary pressures and geopolitical
+issues, which could lead to fluctuations
+in the prices of key raw materials such as
+tapioca, corn starch, sugar, and soybean
+meal. These factors present both risks and
+opportunities. The Group plans to improve
+plant efficiency, explore new markets, and
+innovate in product offerings, driving cost
+savings and unlock new business possibilities. In response to these challenges, the Group
+will continue enhancing its product sales
+mix, operational efficiency, and cost controls
+while strengthening marketing strategies
+and applying risk management processes
+to ensure resilience.
+[MDA_P008]
+Dividends
+Three interim dividends were declared,
+totalling RM0.028 per share, with a total
+payout of RM13.7 million and paid on
+21 June, 24 September, and 24 December 2024. The dividend payout was determined after
+assessing the financial performance for
+FY2024, alongside evaluations of business
+plans for the forthcoming years, capital
+requirements, and liquidity positions. This
+strategic approach ensures that dividend
+distribution aligns with operational needs
+and long-term financial sustainability while
+maintaining a solid cash flow for continued
+growth and investment. Conclusion
+Despite a challenging business environment,
+Three-A Resources Berhad remains resilient,
+leveraging
+its
+operational
+strengths,
+market adaptability, and commitment to
+sustainability. As the Group enters FY2025,
+it will continue enhancing efficiency,
+driving market expansion, and solidifying
+its ESG leadership to ensure sustainable and
+profitable growth. MANAGEMENT DISCUSSION
+AND ANALYSIS (CONTINUED)

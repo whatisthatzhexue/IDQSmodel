@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI edges up, bucks regional trend
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-01-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/10/fbm-klci-edges-up-bucks-regional-trend
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI bucked the downtrend in regional stock markets, remaining in positive territory due to bargain-hunting activities following recent losses. At the close, the 30-stock index advanced by 1.6 points, or 0.1%, to 1,602.41, supported by strong interest in banking stocks. During the session, the market traded within a narrow range of 6.03 points, hitting an intraday high of 1,605.74 and a low of 1,599.71. The benchmark index fell 27.05 points, or 1.66%, for the week.
+
+[NEWS_P002] There were 443 gainers against 530 decliners while 551 counters were unchanged. About 2.52 billion shares, valued at RM2.42bil, changed hands. Among the gainers on Bursa Malaysia, United Plantations rose 24 sen to RM31.50, Guan Chong gained 21 sen to RM4.12, Allianz added 20 sen to RM20.80 and Ajinomoto advanced 20 sen to RM15.20. Malaysian Pacific Industries slid 70 sen to RM23.96, PETRONAS Dagangan lost 60 sen to RM19.10, Hong Leong Industries fell 30 sen to RM12.90 and Kuala Lumpur Kepong declined 26 sen to RM21.10.
+
+[NEWS_P003] According to Bursa Malaysia data, foreign investors continued to sell local equities, disposing of RM162mil on Thursday. Local institutions and retailers bought equities worth RM44mil and RM118mil, respectively. On the forex market, the ringgit was up 0.13% against the greenback to 4.4972. The local currency rose has appreciated by 0.03% against the pound sterling, now at 5.5286, and by 0.08% against the Singapore dollar at 3.2860. Among the key regional markets: Japan’s Nikkei 225 closed down 1.05% to 39,190.40; China’s CSI 300 Index fell 1.25% to 3,732.48; Hong Kong’s Hang Seng Index declined 0.92% to 19,064.29; Taiwan’s Taiex lost 0.3% to 23,011.86; South Korea’s Kospi finished down 0.24% to 2,515.78 and; Singapore’s Straits Times Index fell 1.57% to 3,801.86 points.

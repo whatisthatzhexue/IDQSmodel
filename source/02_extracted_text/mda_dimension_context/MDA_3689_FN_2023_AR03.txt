@@ -1,0 +1,153 @@
+document_id: MDA_3689_FN_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 55, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+In Malaysia, Bank Negara forecasts
+that the economy will benefit from
+robust
+domestic
+demand,
+the
+implementation of major infrastructure
+projects as well as recovering tourism
+to expand between 4.0% and 5.0%. Nevertheless,
+this
+is
+a
+marked
+slowdown compared to the growth
+of 8.7% in 2022, reflecting external
+headwinds. While
+Thailand
+is
+expected
+to
+experience a slower growth rate than
+Malaysia – at 2.7% in 2023 – this is
+higher than its economic expansion
+of 2.6% in 2022. The slight increase
+will be driven by private consumption
+as tourism in the country recovers. Meanwhile, the Thai Baht has been
+strengthening since 2022 due to
+growth initiatives announced by the
+government. INFLATION & INCREASED COST OF LIVING
+Inflation in Malaysia has been increasing in the last few years, from -1.14% in 2020 to
++2.48% in 2021 and +3.38% in 20221. According to Bank Negara, core inflation in 2023
+has been moderating, from 3.6% in the first quarter of the year to 2.8% in the second
+quarter. However, inflation remains higher than the long-term pre-pandemic average of
+2.0% from 2011-20192.
+[MDA_P003]
+In Thailand, meanwhile, headline inflation is expected to average
+1.2% in 2023 as a result of measures to manage energy prices and improvements in
+global supply chains3. Along with inflation and a higher cost of living, consumers are
+more wary of how they spend their money. Other than essentials, consumers seek value
+in their purchases. Businesses, meanwhile, have been impacted by increasing cost of
+commodities and energy resulting in a higher cost of production for manufacturers and
+higher cost of operations more generally. EFFECTS OF CLIMATE CHANGE
+Climate change is no longer a distant threat. The effects of increasing levels of carbon
+dioxide and other greenhouse gases (GHGs) in the atmosphere is already being felt as
+we experience more and more unexpected as well as unprecedented climate events. In recent years, the world has been recording all-time-high temperatures, intense
+wildfires, more severe and prolonged droughts, hurricanes and floods.
+[MDA_P007]
+• The completion of certain capex projects in recent years contributed positively in terms of operational efficiency and energy savings, which
+helped the Group mitigate higher commodity and energy cost. • We continued to offer consumers value deals, such as twin packs for FARMHOUSE milk and economical 1.75L packs for various soft drinks,
+which was extended to our sugarless 100PLUS ZERO in Malaysia. • In Thailand, we have also been diligent about offering value to our customers by giving more for less and catering to their specific
+needs. For example, TEAPOT Sweetened Evaporated Milk (2 in 1) 1L were highly sought after by hawker customers to gain savings. Meanwhile, we kept them updated with new application and recipes to further boost their product offering. • To support our suppliers, we established the F&N Business Partner Award Programme to help them enhance their service and expand into
+the region with F&N. • We have embarked on a phased implementation of the Task Force on Climate-Related Financial Disclosures (TCFD) ahead of Bursa
+Malaysia’s stipulated reporting timeline. In FY2023, we quantified material physical risks and key transition risks through scenario analysis.
+[MDA_P008]
+• We are intensifying efforts to rely less on fossil fuels for energy to reduce the Group’s GHG emissions. Following the installation of rooftop
+solar PV system in our Malaysia and Thailand facilities, plans are underway to extend solar roof systems with total capacity of 6.38 MWp
+to more facilities including our factories in Rawang in FY2024. • We were the first company in Malaysia to back 100% of the palm oil used in our products with RSPO credits, with a goal to transition to
+100% physically certified palm oil by 2025. We currently utilised 60% Certified Sustainable Palm Oil, while the remaining 40% was through
+RSPO credits. • To support our climate change efforts, we have amplified our sustainability awareness training across the Group, and aim for every
+employee to undergo ESG training by 2025. • We have increased the use of recycled material in our packaging to 25% and aim for all beverage and dairy packaging to be 100% recyclable
+by 2025 (2022:98%). Our new BORNEO SPRINGS is packed in FSCTM-certified paper cartons with caps made from sugar cane. • We manage food surplus by channelling them to charitable organisations and communities in need.
+[MDA_P012]
+Strategic Review
+Material Issues
+Product & Service Labelling
+Human Capital Development
+Packaging
+Community Development
+& Inclusive Growth
+Nutrition
+Economic Performance
+Water Stewardship
+Waste Management
+Energy
+Climate Change
+Biodiversity
+Employee Safety, Health
+& Well-being
+Human Rights
+Policy & Regulations
+Innovation
+Product Quality & Safety
+Governance & Ethics
+Supply Chain Stewardship
+B
+E
+F
+N
+H
+G
+J
+K
+O
+P
+Economic
+Social
+Environment
+A
+Key Risks
+B
+Other Financial Risks
+A
+Significant Increase in
+Commodity Prices
+Inability to Anticipate/
+Respond Timely to
+Changing Consumer Needs
+Strategic Risk Involving
+New Business Investment
+F
+Corruption, Fraud, Pilferage
+& Ethical Risks
+E
+Risk from Disruptive Digital
+Technology & Innovation
+H
+Managing Stakeholders,
+Expectations & Perceptions
+G
+Non-compliance with
+Laws, Rules, Regulations
+& Standards
+J
+Political/International
+Instability & Geopolitical Risk
+Environmental Damage
+Product Quality & Standards
+K
+Infectious Disease
+N
+Cyber Threats &
+Data Security Risk
+Health, Safety
+& Security
+P
+Supply Chain Risks
+O
+Talent Management &
+Succession Planning
+Financial/
+Economic
+Strategic
+Governance &
+Ethics
+Reputational
+Operational

@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI dips 5.51 points at midday as Public Bank weighs
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/11/fbm-klci-dips-551-points-at-midday-as-public-bank-weighs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended 0.34% lower at the midday break today, dragged down by losses in Public Bank Bhd and Genting Bhd . The benchmark index declined by 5.51 points, or 0.34%, to 1,635.43, recovering slightly from its intraday low of 1,635.21. Market breadth turned negative as losers outpaced gainers on a ratio of 512-to-334 stocks. Traded volumes stood at 1.25 billion shares worth RM1.35bil. Public Bank slid 20 sen to RM4.37, and single-handedly took 5.6361 points off the FBM KLCI.
+
+[NEWS_P002] Genting fell seven sen to RM4.08, contributing a decline of 0.3940 points to the index, while YTL Corp dropped two sen to RM2.48, dragging the index down by 0.3216 points. Other decliners include LPI, which lost 42 sen to RM12.58, Malaysian Pacific Industries , which declined 28 sen to RM26.12, and Carlsberg, which gave up 10 sen to RM19.58. Among the gainers, Nestle rose 40 sen to RM104.10, F&N gained 34 sen to RM30.96, Bursa Malaysia gained 14 sen to RM9.74 and Dutch Lady climbed 14 sen to RM31.60.
+
+[NEWS_P003] Meanwhile, TA Securities said stocks should continue to trade sideways ahead of the weekend, as investors evaluate the latest US inflation data and await further details regarding potential additional stimulus measures from China. “Immediate index support stays at the low of 1,625, with 1,620 and then 1,600 acting as stronger supports. “Immediate resistance remains at 1,660, followed by the recent highs of 1,675 and 1,684, and then 1,695, the Dec 2020 high, as tougher resistance levels,” it added.
+
+[NEWS_P004] According to Malacca Securities, investor attention is likely to focus on the Public Bank-LPI deal, with Public Bank acquiring a 44.15% stake in LPI, “We expect traders to position themselves ahead of Budget 2025, particularly in the e-invoicing, construction, property, building materials, utilities, and consumer sectors, as speculation grows around potential mega projects and realignment of subsidies. “We also anticipate decent rebound from plantation and O&G stocks due to the spike in crude oil and crude palm oil (CPO) prices,” it said.

@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: SD Guthrie, IGB REIT, Hektar REIT, Crest Builder, Uni Wall APS, HeiTech Padu, Advancecon, UEM Sunrise, Nestle, Unique, Bonia, Irelia, Peterlabs, Kronologi, AE Multi, Glomac, SSF
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/25/trading-ideas-sd-guthrie-igb-reit-hektar-reit-crest-builder-uni-wall-aps-heitech-padu-advancecon-uem-sunrise-nestle-unique-bonia-irelia-peterlabs-kronologi-ae-multi-glomac-ssf
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. SD Guthrie Bhd has entered into a partnership with Menteri Besar Incorporated Negeri Sembilan to develop an industrial park on a 300-acre site in Port Dickson. IGB Real Estate Investment Trust has proposed to acquire The Mall, Mid Valley Southkey in Johor Bahru for RM2.7bn. Hektar Real Estate Investment Trust is acquiring a 90% stake in Terramark Sdn Bhd from Wan Realty Sdn Bhd and Darul Modal Sdn Bhd for RM26.0mn to diversify its portfolio into the industrial and renewable energy sectors.
+
+[NEWS_P002] Crest Builder Holdings Bhd has received a RM233.0mn construction contract from Sunway Group. Uni Wall Aps Holdings Bhd has secured an RM89.6mn sub-contract for façade, aluminium, and glazing works on three towers under the Pavilion Damansara Heights project in Kuala Lumpur. Heitech Padu Bhd has revised its EBITDA for FY24 to RM35.4mn, up from the RM26.8mn previously stated in its annual report. China Communications Construction (ECRL) Sdn Bhd said it has "wholly disputed" an alleged outstanding payment claim of RM15.2mn made by Advancecon Holdings Bhd in relation to the latter's works on the East Coast Rail Link project.
+
+[NEWS_P003] UEM Sunrise Bhd expects little impact from the expanded sales and service tax as most of its new projects are residential and mostly exempt from the 6% tax on construction services. Nestle (Malaysia) Bhd has teamed up with three universities as part of its continued efforts to empower youth and develop future talent. Fire-extinguisher manufacturer Unique Fire Holdings Bhd will be transferred from the ACE Market to the Main Market of Bursa Malaysia on June 26.
+
+[NEWS_P004] Bonia Corporation Bhd is acquiring the remaining 10.0% stake in its property investment subsidiary, Casa Bologna Sdn Bhd, from One Seafood F&B Sdn Bhd for RM2.1mn. Irelia Management Sdn Bhd has emerged as a substantial shareholder in Parkson Holdings Bhd after acquiring a 6.8% stake or 78.3mn shares in the department store operator via open market transaction. Peterlabs Holdings Bhd announced that Datuk Loh Saw Foong, who was suspended from the company’s board on May 13, has been reinstated as executive director with immediate effect.
+
+[NEWS_P005] Edmond Tay Nam Hiong, CEO of Kronologi Asia Bhd , expressed confidence in the group’s outlook for FY26, citing sustained growth in data capacity demand as a key driver. AE Multi Holdings Bhd ’s largest shareholder, Erdasan Group Bhd, has disposed of a 6.0% stake in the electronic component maker. Glomac Bhd 's net profit dropped 84.2% YoY to RM2.4mn for 4QFY25 from RM15.2mn a year earlier, mainly due to higher taxation. SSF Home Group Bhd ’s net profit declined 5.3% YoY to RM5.9mn in 4QFY25 from RM6.2mn a year ago, due to a lower gross profit margin.

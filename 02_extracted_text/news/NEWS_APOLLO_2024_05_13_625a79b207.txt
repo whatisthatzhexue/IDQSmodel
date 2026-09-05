@@ -1,0 +1,16 @@
+[TITLE]
+Intel nears $11 billion deal with Apollo for Ireland factory, WSJ reports
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-05-13
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2024/05/13/intel-nears-deal-with-apollo-for-11-billion-ireland-partnership-wsj-reports
+confidence_tier: low
+
+[NEWS_P001] (Reuters) -Intel is in advanced talks for a deal with Apollo Global Management in which the equity firm would provide more than $11 billion to build a facility in Ireland, the Wall Street Journal reported on Monday. The move comes as Intel looks to expand its presence across the United States with a planned $100-billion spending spree across four states, to boost its manufacturing business and catch up with chipmaking rival TSMC Intel and Apollo are in exclusive talks for the deal, which could be signed in the coming weeks, the report said, citing people familiar with the matter.
+
+[NEWS_P002] Other investment firms including KKR and infrastructure investor Stonepeak were also in the running before Apollo recently pulled ahead, the report added. Apollo Global Management and Intel declined to comment when contacted by Reuters. Intel forecast second-quarter revenue and profit below market estimates last month as it faces weak demand for its traditional data center and personal computing chips, amid a surging market for AI components. The company announced plans in 2022 to build chip factories in Ireland and France as it seeks to benefit from easier European Commission funding rules and subsidies.
+
+[NEWS_P003] (Reporting by Zaheer Kachwala in Bengaluru; Editing by Devika Syamnath and Pooja Desai)

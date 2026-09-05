@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia rebounds on bargain-hunting after four-day slump
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/17/bursa-malaysia-rebounds-on-bargain-hunting-after-four-day-slump
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia rebounded on Friday after four consecutive sessions of losses, driven by bargain-hunting as investors took advantage of oversold stocks. The FBM KLCI closed 11.18 points higher, or 0.72%, at 1,566.72 after trading within a range of 1,569.43 to 1,545.67. Despite the gains, the benchmark index recorded a weekly loss of 35.69 points or 2.22%. There were 549 gainers, 433 losers and 521 counters traded unchanged on the Bursa Malaysia.
+
+[NEWS_P002] About 3.11 billion shares, valued at RM3.06bil, changed hands. Dealers noted that market sentiment improved today as bargain-hunting activities emerged following the heavy selloff in previous sessions. Malaysian Pacific Industries , the top gainer on Bursa Malaysia, jumped 54 sen to RM23.28. Tenaga Nasional rose 48 sen to RM13.60, PETRONAS Dagangan gained 40 sen to RM19.60 and F&N added 36 sen to RM25.92. Among the losers, Nestle slid 46 sen to RM92.02, PETRONAS Gas fell 26 sen to RM17.18, MBM Resources lost 16 sen to RM5.88 and Salutica declined 15.5 sen to 26.5 sen.
+
+[NEWS_P003] Stock market data showed that foreign investors sold a net RM212mil on Thursday. Local institutions and retailers were net buyers, with RM102mil and RM110mil, respectively. Meanwhile, the ringgit was quoted at 4.5065, down 0.08% against the US dollar. US West Texas Intermediate crude rose 45 cents to US$79.13 and Brent gained 33 cents to US$81.6 per barrel. Among the key regional markets: Japan’s Nikkei 225 closed down 0.31% to 38,451.46; Hong Kong’s Hang Seng Index rose 0.31% to 19,584.06; China’s CSI 300 Index added 0.31% to 3,812.34; Taiwan’s Taiex advanced 0.53% to 23,148.08; South Korea’s Kospi fell 0.16% to 2,523.55 and; Singapore’s Straits Times Index rose 0.13% to 3,810.78 points.

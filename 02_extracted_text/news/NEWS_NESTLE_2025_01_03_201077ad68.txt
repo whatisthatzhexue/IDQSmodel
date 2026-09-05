@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI slips for second day amid mixed regional sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/03/fbm-klci-slips-for-second-day-amid-mixed-regional-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI extended its decline, finishing lower for the second consecutive day amid mixed regional sentiment. The benchmark index fell 3.41 points, or 0.21%, to 1,629.46, retreating from its intraday high of 1,636.08. For the week, the index added a meagre 0.08%. Stocks that rose outnumbered those that fell 631 to 477, with another 502 counters unchanged. A total of 3.7 billion shares were traded, valued at RM2.86bil. Among the gainers on Bursa Malaysia, PETRONAS Dagangan jumped 86 sen to RM20.46, BLD Plantation rose 48 sen to RM11.98, Dutch Lady added 30 sen to RM31.02 and Allianz gained 20 sen to RM20.94.
+
+[NEWS_P002] Nestle tumbled RM1.72 to RM98.22, F&N lost 56 sen to RM27.62, Malaysian Pacific Industries fell 56 sen to RM24.74 and Heineken declined 28 sen to RM24.48. Meanwhile, the ringgit was quoted at 4.5020, down 0.52% against the US dollar. The local unit rose 0.24% against the Singapore dollar at 3.2797. In 2024, the ringgit became Asia's top-performing currency, gaining 2.7% against the US dollar. TA Securities expect the ringgit to remain volatile in the near term while maintaining our outlook for a stronger local currency in 2025.
+
+[NEWS_P003] “In the short term, the ringgit is projected to move towards RM4.35 per US dollar, representing its immediate support level. “Key factors such as a resilient domestic economic outlook, positive developments in tourism-related industries, stable commodity prices, and improved government policies are likely to underpin its strength,” TA said. Among the key regional markets: Japan’s Nikkei 225 closed down 0.96% to 39,894.54; Hong Kong’s Hang Seng Index rose 0.7% to 19,760.27; China’s CSI 300 Index fell 1.18% to 3,775.16; Taiwan’s Taiex added 0.33% to 22,908.30; South Korea’s Kospi finished up 1.79% to 2,441.92 and; Singapore’s Straits Times Index fell 0.03% to 3,801.83 points.

@@ -1,0 +1,14 @@
+[TITLE]
+CCK shares rise after special dividend announcement
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2024-12-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/27/cck-shares-rise-after-special-dividend-announcement
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Shares of CCK Consolidated Holdings Bhd climbed in early trade Friday after the company announced a special dividend. The retailer and food processing company climbed 1.94%, or three sen, to RM1.58 at 9:55 am. It has appreciated by nearly 93% so far this year. It hit a 52-week high of RM1.86 on Sept 6. CCK declared a special interim single-tier dividend of 5.0 sen per share for the financial year ending Dec 31, 2024. The entitlement and payment dates of the special dividend have been fixed on Jan 10, 2025, and Jan 22, 2025, respectively.
+
+[NEWS_P002] CCK posted a net profit of RM64.5mil in the nine months ended Sept 30 on revenue of RM791.8mil. For the nine months to Sept 30, CCK’s net profit surged 21.9% to RM64.48mil from RM52.9mil a year ago, while revenue rose 7.1% to RM791.79mil from RM739.37mil posted last year.

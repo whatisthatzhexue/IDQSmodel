@@ -1,0 +1,93 @@
+document_id: MDA_3026_DLADY_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 70, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_3026_DLADY_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 167, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P003]
+The Sustainability Policy and Guidelines will support
+implementation of our strategies in seven key focus areas:
+Better Nutrition, Better Packaging, Better Sourcing, Better
+Climate, Better People, Better Society, and Better
+Governance. These focus areas reflect our Grass to Glass
+philosophy and support 7 out the 17 UN Sustainable
+Development Goals: SDG2, SDG3, SDG5, SDG6, SDG8,
+SDG12, SDG13. These SDGs have been prioritised based
+on a preliminary assessment done in 2022 of our direct
+impact and material areas where we may have a certain
+degree of control and influence to move the needle. During the year, the Board reviewed and approved DLMI’s
+first-level ambition with interim mid-term 2030 targets for
+each of the focus areas. We will continuously re-assess
+our direction in light of the progress made, issues addressed
+as well as the evolving policy and regulatory landscape. By
+2030, we will have the next set of interim targets again. All sustainability focus areas and strategies are deliberated
+by the Sustainability Steering Committee (SSC). Critical ESG
+risks and strategies are tabled to the Board by the SSC
+every quarter.
+[MDA_P004]
+Meanwhile, sustainability KPIs are part of
+Managing Director and Management Team’s annual targets. Our three-year journey towards transition and adoption of
+Integrated Reporting principles, which commenced from
+the reporting cycle of 2022, is currently ongoing. The
+intent is to take a more interconnected approach to
+reporting performance. This means, we are committed to a
+four-year journey starting 2024 to align with the Taskforce
+on Climate-Related Financial Disclosures (TCFD) in line
+with Bursa’s sustainability reporting requirements and the
+new IFRS S1 and S2. SHAREHOLDER AND STAKEHOLDER VALUE
+DLMI strives to maximise value for both shareholders and
+stakeholders through a dedicated and balanced approach
+to risk and performance. Our emphasis is also on
+engagement and fostering valuable relationships with our
+employees, consumers, suppliers, industry and the
+government. Shareholders: We remain committed to delivering shareholder
+returns and to creating value for all stakeholders. On the back
+of a 7.7% revenue growth, DLMI generated an adjusted
+operating profit of RM159.1 million (excluding accelerated
+depreciation and one-offs).
+[MDA_P005]
+For the fiscal year ended 31
+December 2023, a total of RM32.0 million was disbursed as
+standard interim dividends to shareholders, representing a
+44.2% distribution of the Company’s net profit attributable to
+shareholders. Employees: DLMI remained committed to people welfare
+and wellbeing, enabling our talent and catalysing
+both performance and growth. We also continued our
+focus on embracing diversity as a powerful differentiator
+that contributes to real value. Being a multinational
+company, it is important to gain insights and leverage on
+our people who come from various backgrounds, respect
+their strengths and integrate their values into our culture
+as we embark on our journey to become a truly diverse,
+equitable, inclusive and purposive global organisation. I also take pride in the fact that as at 31 December 2023,
+we have 75% female representation on Board and 44% in
+top management. Consumers: Our priority for our consumers is on ensuring
+the accessibility and affordability of our products. Annually,
+we engage with over 3.8 million households (Kantar
+Worldpanel Malaysia – Household Panel, MAT P13 2023).
+[MDA_P006]
+Through the year, we focused on ensuring we reached
+DUTCH LADY MILK INDUSTRIES BERHAD • INTEGRATED ANNUAL REPORT 2023
+CHAIRPERSON’S PERSPECTIVE
+[MDA_P009]
+Government: In “Nourishing our Nation”, we actively
+support national endeavours to stimulate dairy development
+and broaden access to nutrition. In our efforts to broaden
+access to nutrition, DLMI partnered with the Ministry of
+Education to supply our milk products to primary schools
+in Malaysia through the School Milk Programme. DLMI’s
+involvement in the Programme did not merely result in the
+increased consumption of milk among schoolchildren, but
+also provided access to 1,000 government officials,
+parents and teachers to nutrition education. Through a
+series of nutritional talks conducted by DLMI from July
+until August 2023, the public was educated on the rising
+issues of stunting and malnutrition among children and the
+importance of consuming dairy to address said issues. This
+is a novel addition provided by DLMI exclusively in 2023
+via the Programme. Through a Memorandum of Collaboration (MoC) with the
+Department of Veterinary Services, we address and
+advocate for sectoral issues while fostering the growth of
+farms, farmers, and other ecosystem stakeholders.

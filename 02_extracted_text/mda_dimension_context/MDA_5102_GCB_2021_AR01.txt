@@ -1,0 +1,155 @@
+document_id: MDA_5102_GCB_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 98, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion
+& Analysis
+6 | GUAN CHONG BERHAD
+Our Financial Performance
+Continuing our trend of steady year-on-year growth, Group-wide revenue rose by 6.5% in FY2021. However, our net profit
+decreased by 30.5% mainly due to weaker butter ratio during the year and one-off gain on the disposal of an associate
+company in FY2020. Read more about our financial performance within the Financial Statements section of this report.
+Read more: Financial Performance Review, page 40
+Our Non-Financial Performance
+In FY2021, we increased our annual cocoa grinding capacity by 20,000MT to a total of 277,000MT across our worldwide
+production facilities. We were also crowned the Company of the Year Award in food manufacturing and were recognised
+for our exemplary community care initiatives at the Sustainability and CSR Malaysia Awards.
+RM3,923.3
+million
+14.86
+sen
+Revenue
+Earnings
+per share
+RM196.8
+million
+RM1,342.3
+million
+Profit
+before tax
+Shareholders’
+equity
+RM154.8
+million
+0.92
+times
+Net profit
+Net
+gearing ratio
+Snapshot of FY2021:
+Financial and Non-Financial Performance Highlights
+[MDA_P010]
+Sustainability report
+Corporate Governance
+& Compliance
+Financial STATEMENTS
+Others
+Integrated ANNUAL REPORT 2021 | 11
+Corporate Principal Activities, Market Environment,
+Competitive Landscape and Market Positioning
+Corporate Principal Activities
+Our business is principally involved in the manufacturing
+of cocoa-derived food ingredients including cocoa mass,
+cocoa butter, cocoa powder and cocoa cake, in addition
+to a full range of chocolates and couvertures that come in
+dark, milk and white varieties, and in solid or liquid form. Market Environment
+FY2021 presented a challenging year for the Group,
+as disruptions caused by the COVID-19 pandemic and
+geopolitical tensions have led to uncertainty, global
+inflation and supply chain disruptions. Even so, market demand during FY2021 was better than
+FY2020 as economies gradually recovered from the impact
+of COVID-19. Alongside the rapid rollout of COVID-19
+vaccines in most countries and travel restrictions that are
+gradually being lifted, there has been a surge in demand
+for chocolate in the market in the United States1, and the
+industry is adopting a cautiously optimistic outlook over
+the medium-to-long-term.
+[MDA_P011]
+Nevertheless, our expansion plans represent both a risk and
+an opportunity. While we stand to benefit from reduced
+supply chain risks, differences in market conditions, social
+and cultural practices, and business processes will pose
+challenges that will require coordinated and collective
+effort to overcome. Competitive Landscape
+Even with the recent expansion activities, as the world’s
+fourth largest cocoa grinding company, we continue to
+face stiff competition from major international companies
+that boast wider market reach, stronger influence
+and greater financial resources. Furthermore, these
+international companies usually operate end-to-end,
+vertically integrated supply chains, thereby reducing their
+exposure to risks derived from logistical challenges and
+weakened market demand. In addressing this issue, our new cocoa processing facility in
+Ivory Coast, expected to commence production activities
+in mid-2022, will have a transformative effect.
+[MDA_P033]
+However, we believe that our new
+cocoa grinding facility in Ivory Coast,
+which will provide us with direct
+access to cocoa in the world’s largest
+cocoa producing country, will prove
+a game changer in improving the
+supply availability for the Group and
+supporting
+increasing
+customer
+orders from mid-2022 onwards. Our global expansion activities across
+Germany, the United Kingdom and
+Ivory Coast have also raised our
+cognisance towards the potential
+geographical risks that may arise
+when entering new markets, such
+as differences in market conditions,
+social and cultural practices, as well
+as business processes. One of the
+strategies we have employed to
+address this is to nurture workforces
+with the right balance of local hires
+and experienced personnel from
+Malaysia and Indonesia to lead the set
+up. We will leverage on the wealth of
+experience we gained from our past
+expansions into Indonesia and the
+United States to guide our practices
+and ensure a smooth integration of
+operations. Most of our trades are transacted in
+United States Dollar (“USD”) and Great
+Britain Pound (“GBP”) but our reporting
+currency is in Malaysian Ringgit (“RM”).
+[MDA_P035]
+Sustainability report
+Corporate Governance
+& Compliance
+Financial STATEMENTS
+Others
+Integrated ANNUAL REPORT 2021 | 19
+Outlook
+While countries around the world
+have loosened pandemic restrictions
+and re-opened borders, there remain
+market uncertainties fuelled by the
+potential reemergence of stronger
+variants. At the same time, the
+ongoing conflict between Russia and
+Ukraine has the potential to drastically
+influence oil prices and exert upward
+pressure on shipping rates. Nevertheless,
+is
+generally
+forecasted to be a year of recovery
+as governments worldwide loosen
+COVID-19 restrictions and move to
+fully reopen borders and economies. The International Monetary Fund has
+forecasted global Gross Domestic
+Product (“GDP”) growth of 4.4% in
+2022, and we are further optimistic
+that the recommencement of travel
+activities will also serve to boost
+demand in the cocoa sector next year. Our recent expansion into Europe -
+known for its high levels of chocolate
+consumption - has placed us in a
+prime position to capitalise on the
+strong demand.

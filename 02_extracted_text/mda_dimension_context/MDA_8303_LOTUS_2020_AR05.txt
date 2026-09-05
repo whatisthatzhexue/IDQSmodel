@@ -1,0 +1,86 @@
+document_id: MDA_8303_LOTUS_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 101.74, "paragraph_count": 14, "paragraph_length_distribution": {"max": 1200, "mean": 634.786, "min": 20}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+REVIEW OF GROUP’S FINANCIAL RESULTS AND FINANCIAL CONDITIONS (cont’d)
+[MDA_P004]
+Despite with the lower performance in sales, as
+compared with prior financial year, there was an
+operating loss suffered and then LKFM’s new
+management had turned around the loss and generated
+profit for the current financial year. The Group’s long-term assets had recorded an increase
+of 61.48% to RM23.446 million (FYE 2019: RM14.519
+million). This was mainly due to the adoption of MFRS
+16 Leases during the financial year. The Group’s inventories level for current FYE 2020 had
+decreased by 13.57% to RM8.642 million (FYE 2019:
+RM9.998 million), where LKFM is trying to maintain a
+lower inventory level to minimise the holding cost and
+carrying cost. By doing so, it can also reduce the risk of
+slow-moving stock. Trade receivables are maintaining as RM6.512 million
+(FYE 2019: RM6.317 million) which is in line with
+current financial year sales. In short, the sales team is
+actively approaching to customers for collection. Other
+receivables have increased to RM5.280 million which is
+159.33% (FYE 2019: RM2.036 million). The increase is
+mainly due to the advances received from the customers
+to purchase wheat and starch products.
+[MDA_P008]
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+ANTICIPATED BUSINESS RISKS (cont’d)
+b)
+Volatility of raw material prices
+Volatility of prices on imported raw materials
+such as wheat and tapioca remain the key
+challenges. Both wheat and tapioca are globally
+traded commodities, and as a result, their prices
+may fluctuate from time to time. The price of
+wheat and tapioca are influenced by global
+macroeconomic factors including, among others,
+supply and demand of wheat and tapioca, as
+well as stock levels.
+As the cost of these raw materials constitute a
+major part of wheat flour and tapioca starch cost,
+managing these costs remain the key challenge.
+Any increase in the prices of these imported raw
+materials, if unable to pass on to customers on
+time,
+may
+adversely
+affect
+the
+financial
+performance of the Group.
+Stability of imported raw material prices remain a
+key challenge for all the industry players. This is
+an inherent risk faced by all the industry players.
+[MDA_P011]
+DIVIDEND POLICY
+Currently, our Company does not have any formal
+dividend policy. The Board will evaluate the Group’s
+profitability, long term plans and cash flows position
+annually before recommending any dividend payment.
+On 10 June 2020, the Group declared a special dividend
+of 0.5 sen per ordinary share amounting to RM3.572
+million in respect of the financial period ended 30
+September 2020. The dividend was paid on 5 August
+2020.
+[MDA_P014]
+To our shareholders, customers, suppliers and business
+associates, who have given us valuable support, we wish
+to express our sincere appreciation and thanks to all of
+your enduring trust and confidence in our business.
+Further, we would like to take this opportunity to welcome
+our new Board members Mr. Chia Weng Lock and Mr.
+Yap Ee Seong. Both of them joined the board on 30 April
+2020 and 3 August 2020 respectively. With their diverse
+expertise and experience, we are confident that under
+their leadership, the Group will achieve a greater
+performance in years to come.

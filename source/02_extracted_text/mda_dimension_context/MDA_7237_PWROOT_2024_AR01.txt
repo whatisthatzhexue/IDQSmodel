@@ -1,0 +1,136 @@
+document_id: MDA_7237_PWROOT_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+(cont’d)
+meet their demand for high quality beverages. We also
+know that it is crucial for us to be agile and to adapt
+in a competitive beverage market with unpredictable
+consumer behaviour. Constant change is required, be it
+in ways we engage customers, target consumers, create
+marketing interest, or provide increased product choices. The Group’s strategies will continue to evolve as we seek
+continued business growth. THE BUSINESS ENVIRONMENT
+Economic uncertainty, exacerbated by a weak Ringgit,
+global conflicts and moderate domestic demand in
+household spending, contributed to slower growth this
+financial year. Consumers in Malaysia are struggling
+with increasing costs of living, particularly in urban
+areas. Such uneasiness was reflected by weak
+consumer sentiments as the public tightened their
+spending in response to near-term concerns, as well
+as in anticipation of on-going government economic
+restructuring aimed at long-term growth.
+[MDA_P002]
+Power Root is mindful of the delicate balance between
+maintaining our market position and ﬁne margins even
+as our business costs, including foreign exchange
+pressures, commodities pricing, and operational
+expenses have been increasing. The Group’s growth strategy will focus on continuous
+improvement on operational efﬁciencies by tapping on
+technology to streamline processes and increase agility
+while managing costs and resources across all areas. At the same time, we are actively seeking opportunities
+to grow existing markets while penetrating new
+markets. As such, the Group is excited to have signed
+up distribution agreements with two major partners
+in Thailand and KSA in FY 2024 which facilitate our
+overseas expansion. DOMESTIC ACTIVITIES
+MARKETING AND BRANDING
+Marketing is an integral component of Power Root’s
+activities, especially in a competitive market with
+abundant consumer choices and wavering brand loyalty. Power Root’s marketing campaigns are product-driven
+as we have very distinct customer segments. The Group
+invests heavily in building our product brands through
+marketing campaigns across a spectrum of activities.
+[MDA_P008]
+Power Root believes that we have found a dependable
+partner in Abbar & Sons with similar goals to us which will
+play a crucial role in our recovery and growth in MENA. With their distribution network and support, the Group is
+working to increase our volume of sales in the near future.
+[MDA_P010]
+Separately, Sappe appointed Power Root as its exclusive
+distributor for their popular ‘Mogu Mogu’ fruit juice
+with its jelly-like nata de coco. ‘Mogu Mogu’ has been
+in Malaysian markets since October 2023, and can be
+found at petrol station stores, convenience stores and
+chain household outlets, namely CU, MyNews, KK Mart
+and MR.DIY. For Power Root, this is another opportunity to tap
+into the Gen Z market and extend our customer
+demographics while expanding on our product line. PRODUCTION
+The Group’s on-going efficiency drive was at the
+forefront of improvements in production during this
+financial year with better machinery, systems and
+processes put in place at our facilities and in product
+management. PRODUCTION
+FACILITIES
+AND
+PRODUCT
+MANAGEMENT
+Stock management
+The warehouse racking systems were revamped from
+the satellite racking 18 system to the drive-in racking
+system which improved optimal utilisation by 13%. This
+enabled better product segregation, accessibility and
+manoeuvrability, thus improving efﬁciency in managing
+our stock. In another stock management improvement, forward
+contracts were arranged in a way where commodities
+[MDA_P013]
+We have also converted all sub-
+contracted labour to be directly under the Group which
+will stabilise our work force and be more cost-efﬁcient. FINANCIAL REVIEW
+REVENUE
+LOCAL
+(RM’million)
+EXPORT
+(RM’million)
+FY 2024
+243.6
+175.7
+FY 2023
+262.7
+193.1
+For the FY 2024, the Group recorded revenue of
+RM419.3 million, a decrease of approximately 8.0% from
+the revenue of RM455.8 million recorded in FY 2023. The decline in local market revenue can be attributed to
+weak consumer sentiment due to high inﬂation and slow
+economic growth while the decrease in export revenue
+was due to the restructuring of sales and distribution in
+our operations within MENA. PROFIT AFTER TAX (“PAT”)
+For the FY 2024, the Group recorded a PAT of RM42.3
+million, a decrease of 28.9% from the PAT of RM59.5
+million in FY 2023. The decrease in PAT was attributed to lower revenue
+recorded for the year, higher raw material costs and
+higher absorption costs due to lower production output.
+[MDA_P014]
+STATEMENT OF FINANCIAL POSITION
+FY 2024
+(RM’000)
+FY 2023
+(RM’000)
+Total Assets
+505,510
+438,153
+Equity attributable
+to the owners of the
+Company
+345,832
+289,603
+Total Liabilities
+157,765
+147,804
+Borrowings
+59,304
+31,314
+Gearing (times)
+0.171
+0.108
+The Total Assets of the Group increased by RM67.4
+million in FY 2024 mainly due to higher cash and bank
+balances and purchase of property, plant and equipment. The Total Liabilities of the Group increased by RM10.0
+million in FY 2023 mainly due to increase in loans and
+borrowings. With a low gearing of 0.171 as at 31 March 2024, the
+Group’s ﬁnancial position remains sound.

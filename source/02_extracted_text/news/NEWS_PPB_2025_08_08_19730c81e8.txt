@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI inches higher amid cautious market optimism
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-08-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/08/fbm-klci-inches-higher-amid-cautious-market-optimism
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI opened on a subdued note, taking a cautious cue from Wall Street’s mixed overnight performance. The FBM KLCI rose by a negligible 0.18 point, or 0.01%, to 1,549.29 as of 9:28 AM. The index had opened slightly lower at 1,549.00. Among the gainers, Heineken rose 28 sen to RM23.50, United Plantations gained 12 sen to RM21.68, Carlsberg added 10 sen to RM17.40, and PIE climbed nine sen to RM3.84. Conversely, PETRONAS Dagangan slid 26 sen to RM22.64, PPB Group fell 22 sen to RM9.08, BAT lost 22 sen to RM4.85, and Nestle declined 14 sen to RM89.66.
+
+[NEWS_P002] Berjaya Research Sdn Bhd said the FBM KLCI may see slight near-term upside, supported by improved market sentiment following the finalisation of tariff impositions. This development could provide a lift to the benchmark index and support further short-term gains. However, the research house noted that concerns over global economic growth may continue to weigh on investor sentiment. “Looking ahead, market participants are likely to remain cautious as they await for a wave of corporate earnings releases in coming weeks.
+
+[NEWS_P003] This could limit the key index's upside potential, particularly given the subdued earnings growth outlook,” Berjaya Research said. “Technically, the local bourse is now treading a hair away from the immediate resistance located at 1,550 points and upon a successful breakthrough, the next resistance is envisaged at 1,566 points. “On the flipside, the immediate support is pegged at 1,533 points, followed by 1,525 points,” it said. Meanwhile, Rakuten Trade said it believes there could be some foreign buying and hopes this time the investors will stay a tad longer.
+
+[NEWS_P004] “For today, we expect the index to trend between the 1,545 and 1,555 range,” it added. Overnight, the Dow Jones fell 0.51% to 43,968.64, the S&P 500 edged down 0.08% to 6,340.00, while the Nasdaq rose 0.35% to 21,242.70.

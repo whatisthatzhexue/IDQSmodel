@@ -1,0 +1,118 @@
+document_id: MDA_5187_HBGLOB_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 11, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_5187_HBGLOB_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 19, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+Overview of Business and Objectives
+HB Global Limited (“HBGL”) is principally an investment
+holding company and currently the Group has one
+active wholly owned subsidiary as below:
+100% owned Subsidiary:
+(i) Shandong Hengbao Foodstuffs Co., Ltd. (“SHF”) –
+the main operating plant situated in China
+Our Group specializes in the processing, packaging,
+and production of a wide array of ready-to-serve
+foods, frozen vegetables, and other culinary products
+through our subsidiaries. Over the years, we have
+established ourselves as a leading gourmet convenient
+food specialist in China, equipped with advanced
+food processing technologies such as cleaning,
+slicing/cutting, blanching, boiling, frying, vacuum
+frying, steaming, smoking, stewing, and barbequing. We produce a diverse range of food materials and
+quick-frozen products, primarily catering to the needs
+of our customers and distributors. Additionally, we
+operate as an original equipment manufacturer (OEM)
+for third-party brands.
+[MDA_P002]
+Our products are marketed
+both under our customers’ brands and our proprietary
+brands, including “Geleifu” (Green Food), “Hengbao
+Food,” “Qing Long Tan” (Asparagus Tea), and “The
+Four Seasons Farm”. Our product portfolio includes over 1,000 items, which
+are exported to more than 20 countries, including
+Japan, the USA, Singapore, Australia, and Korea. Our
+products are accessible to a variety of users, from
+hypermarkets and tourist markets to food stalls and
+residential homes. At the heart of our operations is the principle of
+providing high-quality, affordable food products
+with unique flavors. Our commitment to technical
+excellence and stringent quality control standards
+has solidified our reputation as a premier food
+manufacturer. We maintain a comprehensive quality
+monitoring and control system, and our facilities are
+certified with international standards such as ISO 9001,
+ISO 22000, HACCP, FDA, and BRC. The Group believes that maintaining high quality is
+crucial for attracting and retaining customers. To
+support this belief, we are dedicated to enhancing
+the quality of our products, services, and processes,
+adopting industry best practices, and ensuring
+customer satisfaction.
+[MDA_P003]
+Recognizing that customer
+preferences evolve, we continuously strive to monitor
+and refine our offerings to meet their changing needs. By prioritizing quality, the Group aims to fortify its
+market position and cultivate enduring relationships
+with its customers. Operation Overview
+HBGL Group’s revenue had increased by RMB3.9
+million or approximately 4.9% from RMB76.1 million in
+financial year ended 31 December 2022 (“FYE2022”) to
+RMB80.0 million in financial year ended 31 December
+2023 (“FYE2023”). The increase was mainly due to
+increase in sales of China subsidiary as during FYE2023,
+there was recovery from disruption in the production
+and supply chain due to lockdown in certain areas of
+China which have been affected with rising Covid 19
+cases. The Group had a decrease in net loss before
+taxation to RMB47.9 million in FYE2023 as compared to
+RMB171.0 million in FYE2022. Dear Valued Shareholders,
+The following MD&A of the operating
+performance and financial condition
+of the Group for the twelve (12) months
+ended 31 December 2023 should be
+read in conjunction with the Audited
+Financial Statement for the year ended
+31 December 2023 and related notes
+thereto.
+[MDA_P004]
+The information presented
+in the MD&A, including information
+relating to comparative year in 2022,
+is presented in accordance with
+the Singapore Financial Reporting
+Standards
+(International)
+[SFRS(I)s],
+unless otherwise stated.
+[MDA_P005]
+ANNUAL REPORT 2023
+HB GLOBAL LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+In order to maintain competitiveness in the current
+market conditions, it is essential for the Group to
+focus on improving its production planning and
+implementing rigorous quality control measures on
+its manufactured products. The Group is continuously
+monitoring and enhancing its production lines to
+ensure optimal efficiency. HBGL
+expenses
+are
+classified
+into
+five
+main
+components: costs of sales, selling and distribution
+expenses, administrative expenses, other expenses,
+and finance costs. In the year under review, costs of
+sales constituted the largest portion of the Group’s
+expenditure, accounting for 54.9% of total expenses. Given the potential risks posed by currency fluctuations
+and changing consumer behavior, HBGL has put in
+place effective contingency plans to mitigate such
+risks. To minimize costs, management has implemented
+a tight control operating model, while also leveraging
+technology to enhance operational efficiency.

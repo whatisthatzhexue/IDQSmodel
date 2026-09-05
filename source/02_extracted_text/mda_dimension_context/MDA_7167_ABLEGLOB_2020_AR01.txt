@@ -1,0 +1,73 @@
+document_id: MDA_7167_ABLEGLOB_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 204, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis (“MD&A”), which provides an insight of the financial
+performance of Johore Tin Berhad (“JTB”) and its subsidiaries (“the Group”) for the financial year ended 31
+December 2020 (“FYE 2020”). This MD&A also contains information on the Group’s overview of business and
+operations, current financial position, reviewing of operating activities, assessing the operational risks faced by the
+Group and discussing the future prospect of the Group.
+1.
+OVERVIEW OF BUSINESS AND OPERATIONS
+A.
+Business and Operations
+[MDA_P004]
+For Tin Cans segment, most of the customers are locally based, with minor market share in Singapore.
+The customer base consists of various industries mainly in biscuit, paint and chemical, edible oil and
+food processing industries. As for the tinplates printing services, most of the printing services are
+exported within South-East Asia market as well as local market.
+[MDA_P007]
+For the FYE 2020, the Group achieved revenue of RM502.26 million as compared to RM579.79 million in the
+previous financial year, a decreased of RM77.53 million. Profit before tax decreased by RM7.30 million to
+RM53.22 million as compared to RM60.52 million in the previous financial year.
+[MDA_P008]
+For Tin Cans segment, the revenue decreased by RM15.73 million to RM115.38 million from RM131.11
+million as a result of lower sales from edible oil tin cans and lower local demand directly caused by the
+COVID-19 restrictions.
+[MDA_P009]
+As for the F&B segment, the revenue decreased by RM61.80 million to RM386.88 million from RM448.68
+million mainly due to lower sales caused by the global COVID-19 pandemic and export shipments delay
+caused by the shortage of containers globally in 4th quarter of 2020.
+[MDA_P010]
+Profit before tax of Tin Cans segment decreased by RM3.97 million to RM13.14 million from RM17.11 million,
+mainly due to lower sales and the burden of higher production overhead costs of full wages paid for workers
+who did not work during the lockdown period and the increase of raw materials costs in 4th quarter of 2020.
+[MDA_P023]
+The prices of dairy and sugar remain volatiles and it will affect the manufacturing costs significantly. This
+posed a challenge to the management in deciding the quantity and timing of the purchase of these raw
+materials. As such, the management is in constant contacts and dialogues with the suppliers and traders to
+gauge the situation of the market in order to make the purchase decisions.
+[MDA_P025]
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+4.
+REVIEW OF OPERATIONAL RISKS
+The following are the main factors that may affect the operational risks of the Group:
+A.
+Business Risk
+[MDA_P042]
+On the other hand, the demand for F&B segment remains strong although the market is highly competitive.
+The continued volatility of dairy products prices and the higher priced local sugar compared to international
+prices creates a challenging environment especially for sweetened condensed milk export to outside
+Malaysia. However, the Group believes that this business segment will still be able to sustain its profitability.
+[MDA_P044]
+Barring any unforeseen circumstances, the Board believes that the overall prospects and future financial
+performance of the Group is expected to be favourable in the mid-term.
+[MDA_P103]
+Association of Chartered
+[MDA_P204]
+(Member)
+Other directorship in public
+: No
+companies and listed issuers
+Family relationship with any
+: No
+director and/or major
+shareholder of JTB
+Conflict of interests with JTB
+: No
+Conviction for offences within : No
+the past 5 years, other than
+traffic offences

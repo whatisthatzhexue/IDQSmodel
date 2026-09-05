@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia dips as Trump’s tariffs hit sentiment, last-minute buying cushions losses
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/03/bursa-malaysia-dips-as-trumps-tariffs-hit-sentiment-last-minute-buying-cushions-losses
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia closed lower on Thursday, weighed down by fragile market sentiment following U.S. President Donald Trump’s announcement of reciprocal tariffs. However, last-minute buying helped trim losses, even as regional equities saw broad declines. At 5pm, the market barometer, FBM KLCI closed at 1,518.91, slipping 7.61 points or 0.5%. It traded within a 12.09-point range, hitting an intraday high of 1,524.41 and a low of 1,512.32. Market breadth was negative with 357 gainers against 548 losers, while 448 counters were unchanged.
+
+[NEWS_P002] A total of 2.51 billion shares changed hands, worth RM1.81bil. In today’s session, 17 of the KLCI-component stocks closed lower while 10 counters chalked up gains. Sime Darby contributed the most to the index decline and had the largest move, decreasing 4.17%, or nine sen to RM2.07. MISC, on the other hand, provided the biggest boost to the index and had the largest gain, advancing 2.38%, or 17 sen to RM7.31. Among the decliners, Nestle slid RM2.50 to RM70.10, Hong Leong Financial Group lost 26 sen to RM17.16, Hong Leong Industries fell 26 sen to RM14 and F&N eased 20 sen to RM23.90.
+
+[NEWS_P003] Dutch Lady , the top gainer on Bursa Malaysia, jumped 98 sen to RM29.88. Hartalega added 16 sen to RM2.02, Kossan gained 16 sen to RM1.80 and Perstima rose 15 sen to RM2.15. Stock market data showed that foreign funds and local retailers were net sellers, offloading equities worth RM33mil and RM10mil, respectively. Local institutions, however, remained net buyers at RM43mil. On the forex market, the ringgit weakened by 0.08% against the US dollar to 4.4575.
+
+[NEWS_P004] The local currency also fell 0.3% against the Singapore dollar to 3.3260. It declined 1.66% against the pound sterling to 5.8604 and 1.84% against the euro to 4.9012. Around the region, MSCI's Asia ex-Japan stock index was weaker by 0.77%. Japan’s Nikkei 225 ended down 2.77% at 34,735.93, while South Korea’s Kospi ended 0.76% lower at 2,486.70. Hong Kong’s Hang Seng index closed down 1.52% at 22,849.81. China’s blue-chip CSI 300 index fell 0.59% to 3,861.50, while the Shanghai Composite Index lost 0.24% to 3,342.01.

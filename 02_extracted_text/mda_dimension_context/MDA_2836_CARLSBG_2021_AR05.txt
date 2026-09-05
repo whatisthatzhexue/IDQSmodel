@@ -1,0 +1,149 @@
+document_id: MDA_2836_CARLSBG_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 55, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 169.38, "paragraph_count": 55, "paragraph_length_distribution": {"max": 1339, "mean": 919.582, "min": 67}, "repetition_ratio": 0.236364, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION & ANALYSIS
+CORPORATE
+STRATEGY: SAIL’22
+OUR TWO
+ENABLERS
+OUR SEVEN
+STRATEGIC PRIORITIES
+OUR THREE
+STRATEGIC LEVERS
+DEFEND OUR
+LICENCE
+TO OPERATE
+CREATE A
+WINNING
+CULTURE
+STRENGTHEN
+THE CORE
+POSITION
+FOR GROWTH
+DELIVER
+VALUE FOR
+SHAREHOLDERS
+“Go Big in Premium” with Kronenbourg 1664 Blanc,
+Somersby Cider, Asahi Super Dry and
+Connor’s Stout Porter
+“Innovate With Digital” to enhance the role of
+digitalisation in our operations
+Achieve “Growth in Net Profit”
+Deliver Stable Dividend Yield for Shareholders
+“Grow in Mainstream” with Carlsberg Danish Pilsner and
+Carlsberg Smooth Draught
+“Win in Each Store” with better in-store execution
+“Funding the Journey” by delivering efficiencies in
+Operating Expenses and Value Management
+[MDA_P014]
+We will continue to drive targeted digital
+campaigns,
+with
+exclusive
+e-commerce
+promotions and gift sets like Somersby Cider’s
+Apple Day merchandise, Connor’s Premium
+Kits, Asahi’s Discover Tokyo limited edition
+sets, Festive Advent Calendars and Carlsberg
+Amazin’ Graze CNY gift packs activated in recent
+months.
+[MDA_P028]
+Consumers also have a critical role to play in
+a low-carbon future and it is encouraging that
+more people want to buy from brands with strong
+sustainability credentials. We are harnessing the
+power of our brands to encourage people to
+adopt more sustainable behaviour through the
+Planet Pledge that the Carlsberg Group took in
+September 2021, to which our Malaysian and
+Singapore operations are committed and will
+adapt into local campaigns to inspire consumers. We do not just embrace the concepts of
+sustainability; we have made it our mission to
+influence our stakeholders to adopt sustainable
+practices as well. Through our Together
+Towards ZERO (TTZ) sustainability programme,
+we stepped up to report on our commitment
+towards ESG considerations, which also supports
+10 out of the 17 United Nations Sustainable
+Development Goals (UN SDGs). DEFEND OUR LICENCE TO OPERATE
+Read more on the Group’s most material ESG
+issues and performance in the “Committing to
+Sustainability” section on pages 39 to 68.
+[MDA_P042]
+Life-Saving
+Rules Commitment
+ZERO
+IRRESPONSIBLE
+DRINKING
+Drink Driving
+Accidents
+PRIMARY PACKAGING
+√
+Target 0
+(Nil since 2019)
+Nutrimalt in Malaysia; Carlsberg
+Alcohol Free Pilsner and Carlsberg
+Alcohol Free Wheat in Singapore. 1,566
+subsidised e-hailing
+rides redeemed
+vs 1,500 rides in 2020. #Celebrate
+Responsibly campaign
+Availability of
+Alcohol-Free Brew
+10%
+Age Restriction
+100%
+of our products in
+Malaysia carry legal
+purchasing age symbol. of our products in
+Malaysia and Singapore
+declare nutrition info. 100%
+compliance by
+Malaysia and Singapore
+operations. Responsible Consumption
+Nutrition Info
+Communities
+RM3.6 million
+• RM2 million in Food & Education aid. • RM1.6 million in Safer School
+donations. People
+99.8%
+• employees & contractors inoculated. • 627 direct employment vs 638
+in 2020. ZERO
+CARBON
+FOOTPRINT
+Thermal
+19.8
+kWh/hl
+Target 19.8
+(+0%)
+10.6
+kWh/hl
+Target 9.15
+(+16%)
+Electricity
+-8.3% (2019 vs. 2015)
+Target -15%
+by 2022 vs.
+[MDA_P055]
+We also rolled out an insulation implementation
+project for hot water piping and tanks, and
+installed energy meters for better monitoring of
+heat usage and improved distribution. WASTE MANAGEMENT
+A large portion of our production waste
+comprises spent grains, kieselguhr and waste
+yeast. We continuously reduce our production
+waste, with 746 tonnes sent to the landfill in
+2021. This was a significant drop from 4,897
+tonnes in 2019 and 1,327 tonnes in 2020. In 2021, we sent 12,644 tonnes of spent grains
+to three contractors, compared to 18,787 tonnes
+and 15,191 tonnes in 2019 and 2020 respectively. Two of contractors use the spent grains as cattle
+feed while another applies a bioconversion
+process that transforms the spent materials into
+a protein component for livestock feed. ENVIRONMENT

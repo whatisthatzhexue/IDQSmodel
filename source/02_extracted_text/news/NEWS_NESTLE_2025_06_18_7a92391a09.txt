@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends flat at midday in range-bound trading
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/18/fbm-klci-ends-flat-at-midday-in-range-bound-trading
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia was range-bound in the early session with the benchmark index entering the lunch break little changed from the previous day's close. At 12.30pm, the FBM KLCI was down 0.13 points to 1,511.51, as investors stayed to the sidelines amid the ongoing geopolitical turmoil, as well as growing anticipation over the outcome of the Federal Reserve's monetary policy meeting ending tonight. The broader market was heavy on the losers as the declining issues outnumbered advancers at a ratio of 1.45-to-1.
+
+[NEWS_P002] Market volume was 1.62 billion shares changing hands for RM818.61mil. Leading the decline on the blue-chip index, Nestle dropped 38 sen to RM71.32, PPB fell 28 sen to RM10.48 and MISC shed eight sen to RM7.51. There was some upward movement in energy-related stocks, including PETRONAS Gas up 10 sen to RM18.20 and PETRONAS Dagangan gaining eight sen to RM21.28. Hibiscus Petroleum climbed six sen to RM1.73. In regional markets, China's composite index slipped 0.2% to 3,380 while the country's blue chip CSI300 was flat at 3,867.
+
+[NEWS_P003] Hong Kong's Hang Seng index fell 1.17% to 23,698. In Japan, the Nikkei rose 0.68% to 38,800 and Singapore's Straits Times index slipped 0.33% to 3,917.

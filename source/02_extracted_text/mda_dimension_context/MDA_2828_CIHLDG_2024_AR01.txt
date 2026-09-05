@@ -1,0 +1,151 @@
+document_id: MDA_2828_CIHLDG_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P002]
+ANNUAL REPORT 2024
+C.I. HOLDINGS BERHAD
+197801000889 (37918-A)
+Mission
+Our mission is to develop sustainable products with innovative fulfilment processes that minimise environmental impact while
+delivering significant value to all stakeholders. We are dedicated to creating long-term benefits for our shareholders, employees,
+customers, and the communities we serve, fostering a future where business success and sustainability go hand in hand. Principal Activities Of Our Group
+• Blending and packing vegetable-based edible oils. • Marketing, branding, and merchandising consumer-packaged products in domestic and international markets. • Trading and manufacturing tap and sanitary ware products. Key Markets
+• Asia (including Oceania)
+• Africa
+• Middle East
+Strategies In Creating Value
+• Leveraging Core Competencies: Capitalising on our core strengths and strategic advantages to maintain a competitive edge. • Identifying Market Opportunities: Keeping informed on market developments and evolving customer needs to seize emerging
+opportunities.
+[MDA_P004]
+Highlights of the Group’s Financial Information for the Past Five (5) Financial Years
+Financial (in RM’000)
+Revenue
+3,895,568
+5,347,165
+4,046,102
+3,144,549
+2,572,493
+Earnings Before Interest and Tax
+139,106
+190,140
+128,897
+127,873
+63,584
+Finance Costs
+(15,713)
+(17,079)
+(5,132)
+(6,796)
+(10,517)
+Profit After Tax
+117,170
+166,514
+119,360
+116,090
+45,311
+Shareholders’ Funds
+454,805
+410,320
+328,793
+281,328
+227,663
+Total Assets
+1,045,634
+1,216,783
+1,149,474
+849,942
+805,076
+Cash and Bank Balances
+368,483
+250,517
+241,868
+187,309
+165,422
+Borrowings
+318,479
+420,973
+403,899
+300,176
+375,136
+Debt/Equity (%)
+-11
+Earnings Per Share (sen)
+42.38
+62.00
+41.04
+43.19
+18.59
+Net Assets Per Share (RM)
+2.81
+2.53
+2.03
+1.74
+1.41
+Dividend Per Share (sen)
+Share Performance (RM)
+All in Figures in RM
+Year High
+3.49
+3.78
+4.28
+3.70
+1.55
+Year Low
+2.75
+2.60
+2.69
+1.09
+0.82
+Year Close
+2.98
+3.10
+2.84
+3.23
+1.20
+Market Capitalisation
+(as at financial year end)
+482.76 million
+502.2 million
+460.0 million
+523.3 million
+194.4 million
+MANAGEMENT DISCUSSION AND ANALYSIS
+(continued)
+[MDA_P005]
+ANNUAL REPORT 2024
+C.I. HOLDINGS BERHAD
+197801000889 (37918-A)
+REVIEW OF FINANCIAL RESULTS AND FINANCIAL CONDITION
+Revenue
+The Group recorded a decrease in revenue to RM3.90 billion for the financial year ended 30 June 2024 (“FY2024”) as against
+RM5.35 billion recorded in the preceding financial year ended 30 June 2023 (“FY2023”). This decrease of 27% was driven by lower demand from Africa region, mainly West Africa, and Middle East region. In Africa, this
+was due to the Coup d’état that occurred in Niger in July 2023 which escalated into a political crisis affecting neighbouring countries
+in West Africa. Demand from the Middle East weakened as a result of the crisis in the Red Sea region which led to a sharp increase
+in freight costs affecting shipments to Middle East and East Africa ports. As our primary operations is the export of fast moving consumer goods, the weakened MYR relative to USD throughout FY2024 resulted
+in favourable average foreign exchange rates to cushion the demand challenges in the financial year under review. The opening of
+MYR/USD commenced the financial year at MYR 4.60 per 1 USD and peaked at MYR 4.77 in April 2024, ending at MYR 4.71 for
+June 2024.
+[MDA_P006]
+The overall average for the year stood at RM4.70/USD. This is a 4.47% increase as against the previous financial year
+average of MYR 4.495 to 1 USD. The Group has successfully navigated global challenges by expanding its product range and diversifying its sales mix, which has
+minimised revenue losses and reduced reliance on a single product, showcasing the team’s adaptability and strategic thinking. Profit After Tax (“PAT”) And Expenses
+The Group’s PAT decrease of 30% to RM 117.17 million for the current year from RM166.51 million in the previous year is in line
+with the decrease in revenue due to market challenges mentioned above. While absolute PAT saw a decrease during the year, the
+overall PAT and Gross Profit margin still remain strong at 3.01% and 6.49%, respectively for the Group compared to 6.66% and
+3.11% in FY2023. Operating expenses decreased from RM165.78 million to RM 113.71 million during the year, a 31% decrease compared to the
+previous year. The decrease was due to lower realised/unrealised gain from derivatives arising from hedged foreign exchange
+contracts of our sales proceeds.
+[MDA_P007]
+This is consistent with the more stable currency fluctuation and lower overall volume throughout the year
+under review compared to the previous financial year. Finance costs decreased by 8% from RM17.08 million to RM15.71 million in the reporting period. This is mainly due to lower utilisation
+of trade facilities aimed at funding the necessary working capital to fulfil sales orders. As a result, the finance cost also increased to
+0.4% compared to 0.32% in the previous year due to the lower revenue. Assets: Trade Receivables
+Trade receivables decreased by 46% from RM706.23 million to RM383.62 million, with the average outstanding period shortening
+from 48 days in FY2023 to 36 days in FY2024. The drop in revenue resulted in a RM322 million reduction in receivables. Although this may not be seen as entirely favourable, the receivable turnover days have improved significantly, reducing by 12
+days due to the lower overall receivables from customers compared to the previous reporting period. Assets: Inventories
+There was an increase in inventories by 4%, from RM71.68 million in the previous financial year to RM74.56 million.

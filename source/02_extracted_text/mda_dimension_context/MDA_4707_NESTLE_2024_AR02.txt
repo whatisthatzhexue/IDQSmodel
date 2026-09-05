@@ -1,0 +1,80 @@
+document_id: MDA_4707_NESTLE_2024
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_4707_NESTLE_2024", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": false, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 14, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+“Through the significant external challenges confronted in 2024, Nestlé Malaysia remained focused on consistently delivering on
+our mission to provide high-quality nutrition, foods and beverages through our vast range of products, all Halal-certified, sold under
+trusted brands, and proudly made in Malaysia, by Malaysians. As we have done throughout our 112 years in Malaysia, we continued
+to adapt, innovate and, above all, stay true to our purpose of being a positive force in the life of the nation, creating shared value for all
+our stakeholders and leading industry action towards building a more sustainable future.“
+Juan Aranols
+Chief Executive Officer
+Business, Financial & Operational Review
+The defining element of the operating environment in 2024 was the unfavourable
+sentiment and hesitancy towards international brands triggered by global
+events. This was compounded by constrained consumer purchasing power and
+persistent volatility in food-related commodity costs, impacting the cost of living
+for many Malaysian families.
+[MDA_P002]
+Within this landscape, the Group’s turnover was
+impacted by a 12% reduction in sales driven by the domestic market, while the
+export business continued to grow. In spite of the challenges, our leading position in the FMCG market in Malaysia
+remained undisputed, and we continue to command strong leadership across
+most of the segments in which we operate. Indeed, with a penetration of 96%
+of Malaysian households, nearly 200 Nestlé products are consumed every
+second, with our distribution and sales capabilities ensuring the widest possible
+territorial and channel coverage. These foundational aspects, in combination
+with strong plans for demand generation, give us full confidence in recovering
+healthy growth levels in 2025. In a year with growth headwinds, our disciplined cost management and
+continuous search for operational efficiency improvements were critical to
+partially mitigate margin pressures. These efforts will also be beneficial to
+our competitiveness in the marketplace, further strengthening our ability to
+win.
+[MDA_P003]
+In this context, a number of projects and initiatives were implemented to
+drive efficiency in industrial and logistics operations as well as administrative
+activities, with digitalisation (including gradual adoption of AI solutions) as a
+key enabler. Our capital expenditure in 2024 was also optimised, while ensuring all-important
+projects supporting business continuity, capacity and efficiency upgrades, as
+well as new product launches were fully implemented on time and on budget. In fact, by the end of 2024, we had completed the RM1 billion investment cycle
+to be delivered over the last triennium, as announced in 2021. [Third from left, onwards] YBhg Ts. Dr. Nagulendran Kangayatkarasu, Secretary-General, Ministry of Youth and Sports; Juan
+Aranols, YB Puan Hannah Yeoh, Minister of Youth and Sports; Ng Su Yen and the MILO team at the Handover Ceremony
+celebrating our 56 Olympians and Paralympians who proudly represented Malaysia in Paris. Their journey from school sports to
+global stage showcases the power of perseverance and dedication, embodying the values MILO has championed for over 70 years.
+[MDA_P004]
+Nestlé (Malaysia) Berhad
+Overall, while the decline in revenue had an unfavourable impact on short-
+term bottom-line results, the Company’s financial position has remained
+strong, allowing us to deliver another year of solid dividends of RM1.79
+per share. As mentioned earlier, 2024 was a year focused on building operational
+resilience, alongside sharpening our competitive edge in an evolving
+market landscape while ensuring that the key fundamental elements in the
+narrative of our brands and Nestlé as a whole were well explained and
+understood by all Malaysians. We implemented comprehensive measures
+to address and respond to shifting consumer sentiments while enhancing
+our value propositions across different market segments, in order for our
+products to remain highly accessible to Malaysian consumers. Through
+every endeavour, we consistently upheld our commitment to quality,
+nutrition and Halal certification, while continuing to protect the consumer
+taste preferences intrinsically associated with our core brands.
+[MDA_P005]
+Furthermore, brand-building activities were reassessed to enhance
+consumer trust and leverage rising social media channels like TikTok,
+resulting in more efficient marketing investments and optimised returns. Consumers at the Heart of Innovation
+Innovation maintained its value as a core pillar, enabling us to adapt
+our product portfolio to evolving consumer preferences and expand
+our consumer base with new and relevant propositions. Throughout
+the year under review, innovation helped to uphold our market-leading
+positions, expanding penetration into new consumer segments, while
+further reinforcing our mission of delivering high-quality, nutritious and
+great-tasting Halal products, with value propositions that resonate with
+Malaysians. We continued to focus on providing healthier choices in line with our
+global “Good for You” strategy, with Nestlé Malaysia offering the largest
+range of Healthier Choice Logo (HCL) certified products by the Malaysian
+Ministry of Health (MOE).

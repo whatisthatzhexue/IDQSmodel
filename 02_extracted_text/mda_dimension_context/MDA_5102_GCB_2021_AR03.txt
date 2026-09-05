@@ -1,0 +1,145 @@
+document_id: MDA_5102_GCB_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 98, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion
+& Analysis
+6 | GUAN CHONG BERHAD
+Our Financial Performance
+Continuing our trend of steady year-on-year growth, Group-wide revenue rose by 6.5% in FY2021. However, our net profit
+decreased by 30.5% mainly due to weaker butter ratio during the year and one-off gain on the disposal of an associate
+company in FY2020. Read more about our financial performance within the Financial Statements section of this report.
+Read more: Financial Performance Review, page 40
+Our Non-Financial Performance
+In FY2021, we increased our annual cocoa grinding capacity by 20,000MT to a total of 277,000MT across our worldwide
+production facilities. We were also crowned the Company of the Year Award in food manufacturing and were recognised
+for our exemplary community care initiatives at the Sustainability and CSR Malaysia Awards.
+RM3,923.3
+million
+14.86
+sen
+Revenue
+Earnings
+per share
+RM196.8
+million
+RM1,342.3
+million
+Profit
+before tax
+Shareholders’
+equity
+RM154.8
+million
+0.92
+times
+Net profit
+Net
+gearing ratio
+Snapshot of FY2021:
+Financial and Non-Financial Performance Highlights
+[MDA_P007]
+Sustainability report
+Corporate Governance
+& Compliance
+Financial STATEMENTS
+Others
+Integrated ANNUAL REPORT 2021 | 9
+Our Vision, Mission, Values & Promises
+our Vision
+To be the world’s most preferred and
+leading cocoa partner. our Mission
+We at GCB Cocoa are committed to deliver quality cocoa and chocolates while offering
+utmost flexibility and attention. Through forming strong alliances with local partners,
+we are dedicated to serving our customers worldwide and growing together with them
+in long-term partnerships. our VALUES
+Grit
+Ambition
+Sincerity
+our Promises
+Full Product Range
+Providing an extensive product
+range from cocoa powder, liquor,
+cake and butter to liquid and solid
+chocolates in various shapes, sizes
+and packaging options. Flexibility and Excellence in
+Customer Service
+Fulfilling customer orders as
+our top priority; seeking to
+establish long-term meaningful
+relationships. Product Quality and Safety
+Ensuring excellent throughput
+at our production facilities
+and compliance with all safety
+standards. Technical Support and
+Innovation
+Crafting tailor-made recipes and
+developing new products with our
+experienced R&D team.
+[MDA_P010]
+Sustainability report
+Corporate Governance
+& Compliance
+Financial STATEMENTS
+Others
+Integrated ANNUAL REPORT 2021 | 11
+Corporate Principal Activities, Market Environment,
+Competitive Landscape and Market Positioning
+Corporate Principal Activities
+Our business is principally involved in the manufacturing
+of cocoa-derived food ingredients including cocoa mass,
+cocoa butter, cocoa powder and cocoa cake, in addition
+to a full range of chocolates and couvertures that come in
+dark, milk and white varieties, and in solid or liquid form. Market Environment
+FY2021 presented a challenging year for the Group,
+as disruptions caused by the COVID-19 pandemic and
+geopolitical tensions have led to uncertainty, global
+inflation and supply chain disruptions. Even so, market demand during FY2021 was better than
+FY2020 as economies gradually recovered from the impact
+of COVID-19. Alongside the rapid rollout of COVID-19
+vaccines in most countries and travel restrictions that are
+gradually being lifted, there has been a surge in demand
+for chocolate in the market in the United States1, and the
+industry is adopting a cautiously optimistic outlook over
+the medium-to-long-term.
+[MDA_P011]
+Nevertheless, our expansion plans represent both a risk and
+an opportunity. While we stand to benefit from reduced
+supply chain risks, differences in market conditions, social
+and cultural practices, and business processes will pose
+challenges that will require coordinated and collective
+effort to overcome. Competitive Landscape
+Even with the recent expansion activities, as the world’s
+fourth largest cocoa grinding company, we continue to
+face stiff competition from major international companies
+that boast wider market reach, stronger influence
+and greater financial resources. Furthermore, these
+international companies usually operate end-to-end,
+vertically integrated supply chains, thereby reducing their
+exposure to risks derived from logistical challenges and
+weakened market demand. In addressing this issue, our new cocoa processing facility in
+Ivory Coast, expected to commence production activities
+in mid-2022, will have a transformative effect.
+[MDA_P012]
+It will enable
+us to source cocoa beans directly from origin, which will
+not only provide us a shorter bean-to-ingredients cycle
+compared to our other facilities, but also give us better
+control over the scheduling and supply reliability of quality
+beans. This will mitigate supply chain risks and empower
+greater control over the scheduling of our production and
+shipping activities. Ultimately, by enabling the direct supply of cocoa
+ingredients to our operations in Germany and the United
+Kingdom, our facility in Ivory Coast will drive increased cost
+efficiencies, giving us increased leeway to capture market
+share and achieve long-term growth in these important
+markets and beyond. Market Positioning
+We are optimistic that the acquisitions and expansion we
+have made in the past few years stand us in good stead to
+strengthen our presence as a key multinational player in
+the global chocolate supply chain. Firstly, through our new cocoa processing facility in Ivory
+Coast, we will benefit from direct access to raw materials in
+the world’s largest cocoa bean producing country.

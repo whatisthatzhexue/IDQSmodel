@@ -1,0 +1,74 @@
+document_id: MDA_7216_KAWAN_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 8, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+ANNUAL REPORT 2021
+OVERVIEW
+FY2021 was a demanding year for the business. The resurgence of COVID 19 cases and the return of movement
+restriction had a significant impact on society and the economy as well as Kawan’s operations, affecting our supply
+chain and the number of employees that were allowed to operate at our plant. Our exports were also constrained by
+the worldwide container shortage. However, amid these challenges, we remained focused on ensuring business continuity and keeping our employees
+safe. I am proud of the resilience and responsiveness shown by our employees and am grateful for how quickly they
+adapted to the challenges which COVID 19 had presented. Though we did not reach all the FY2021 targets and objectives that
+we had planned, we did broaden our distribution channel presence by
+securing new businesses with both existing and new customers. It was
+encouraging to note that the profit before tax (“PBT”) has increased from
+RM32.0 million in FY2020 to RM36.7 million in FY2021 in such a difficult
+business environment, and the Group had retained its financial strength
+and flexibility with cash & cash equivalents of RM88.6 million.
+[MDA_P003]
+The Board
+had also taken steps to ensure adequate liquidity was available in light
+of the considerable uncertainty surrounding the impact of the ongoing
+pandemic. Overall, I am pleased with the financial performance of the Group in FY2021. However, going forward, challenges
+remain in terms of maintaining market supply and product availability, given the intensifying supply chain uncertainties
+and labour constraints faced by the manufacturing and food industries. We will continue to monitor closely the
+potential implications on our business and adapt our strategies to mitigate its risks and capitalise on opportunities
+that may emerge from this ever-evolving scenario. OPERATING ENVIRONMENT
+Overall, FY2021 did not unfold as how we had envisaged at the beginning of the year. The resurgence of COVID
+19 cases led to the reimplementation of a nation-wide lockdown in early June 2021, causing significant economic
+hardships for society. It also brought food security issues to the fore, with many in Malaysia raising white flags outside
+their homes in a plea for food and basic necessities.
+[MDA_P005]
+Management Discussion and Analysis
+(cont’d)
+RM88.6 mil
+in Cash & Cash
+Equivalents
+more conservative spending habits among
+the population
+increased demand for home cooking and
+frozen food products
+convenience gaining in value, which led to a
+surge in popularity of smaller convenience
+stores
+growing popularity of plant -based foods,
+which are beneﬁcial to both personal and
+planetary health
+[MDA_P006]
+KAWAN FOOD BERHAD
+Operating within the food value chain, Kawan’s classification as an essential business allowed for the continuation of our
+business activities amid the pandemic restrictions for much of the year. This licence to operate required adherence to a
+strict set of health and safety protocols that included a cap on the number of employees on premises, which restricted
+our productivity levels. An outbreak at the site of our production facility at Pulau Indah (“PI”) and the surrounding area
+in June 2021 led to a temporary cessation of production activities at PI. Production recommenced after the two-week
+suspension, with workforce capacity returning to full in September 2021 upon the successful vaccination campaign,
+and we worked to gradually build back our supply inventory in the final quarter of the year. Beyond production challenges, Kawan also grappled with a rise in raw material costs and freight costs, labour shortage
+and supply chain challenges which placed downward pressures on our profit margins.
+[MDA_P008]
+Ensuring Business Continuity
+Since FY2020, we have implemented various initiatives to mitigate COVID 19’s negative impacts to the business.
+Business continuity plans introduced in FY2020 continued to serve us well in FY2021, allowing us to sustain
+our food production and customer engagement activities despite the workforce limitation and other restrictions
+in place.
+During the temporary cessation of production activities at PI in June 2021, our efforts shifted to focus on cost
+management to bridge the short-term negative impact of business shutdown while continuing to pursue the
+expansion of our distribution channels and enhance our presence in growth channels such as general trade.
+When the restrictions were lifted, the team focused on rapidly rebuilding the business, working closely with
+customers and business partners to rationalise product ranges and overcome supply chain and labour force
+disruptions to deliver optimally.
+Management Discussion and Analysis
+(cont’d)

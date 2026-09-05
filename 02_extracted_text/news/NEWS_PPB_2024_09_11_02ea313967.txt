@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI loses 13 points as caution takes over
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-09-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/11/fbm-klci-loses-13-points-as-caution-takes-over
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI was dragged lower by banking heavyweights, in line with a weaker regional performance following the US presidential debate. Asian markets were mostly lower following the televised clash between presidential hopefuls Kamala Harris and Donald Trump, adding to nerves over the impending release of US inflation data. At the end of the early session, the FBM KLCI was down 13.14 points to 1,647.21 while the broader market was weighed heavily into the red with 749 decliners compared to 205 gainers.
+
+[NEWS_P002] All the market sectors sank into the red given the broad-based selling with financial services being among the worst-hit. The share turnover was 1.68 billion valued at RM1.53bil. On the blue-chip index, CIMB fell 15 sen to RM8.34, RHB dropped seven sen to RM6.24 and Public Bank slipped four sen to RM4.77. Maybank underwent a share price adjustment after its dividend went ex, sliding 29 sen to RM0.64, before rising 14 sen to RM10.78. Meanwhile, PETRONAS Dagangan shed 35 sen to RM18.74, PPB dropped 16 sen to RM14.18 and Kuala Lumpur Kepong was down 22 sen to RM20.94.
+
+[NEWS_P003] Of actives, Globetronics bounced 2.5 sen higher to 56.5 sen after the previous day's sell-off, while 99 Speed Mart was flat at RM1.89 and Tanco rose two sen to RM1.14. In Asian markets, Japan's Nikkei dropped 1.57% to 35,591, China's composite index slid 0.92% to 2,718 and Hong Kong's Hang Seng lost 1.4% to 16,992. Singapore's Straits Times index rose 0.42% to 3,527.

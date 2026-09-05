@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit closes higher against US$ supported by decline in Malaysia's inflation
+
+[METADATA]
+ticker: CIHLDG
+company_name: CIHB
+publish_date: 2025-01-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/22/ringgit-closes-higher-against-us-supported-by-decline-in-malaysia039s-inflation
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit closed higher against the US dollar on Wednesday, supported by data showing a decline in Malaysia’s inflation rate, said an economist. According to the Department of Statistics Malaysia (DOSM), Malaysia’s inflation rate for December 2024 moderated to 1.7 per cent, compared to the 2024 annual rate of 1.8 per cent. At 6 pm, the ringgit gained to 4.4340/4400 versus the greenback from Tuesday’s closing of 4.4730/4780. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said that domestically, low inflation, at 1.7 per cent in December 2024 and 1.8 per cent for 2024, suggests that the Malaysian economy has been growing decently.
+
+[NEWS_P002] "The economy was able to grow above five per cent in 2024, but the inflation rate remained contained. Therefore, fundamentally speaking, the Malaysian economy is in good shape, and it should attract foreign funds to come and invest in Malaysia,” he told Bernama. He said that heightened external uncertainties may have curbed the risk appetite of foreign investors regarding Malaysia for now. Meanwhile, Mohd Afzanizam said issues revolving around the policies of United States President Donald Trump continue to dominate market sentiment.
+
+[NEWS_P003] "It appears that the possible imposition of an import tariff on China appears likely to be milder, and the present administration is mindful of recklessly using tariffs as a policy instrument,” he added. At the close, the ringgit traded mostly lower against other major currencies. It rose marginally versus the Japanese yen to 2.8480/8522 from Tuesday’s close of 2.8691/8725. However, it depreciated vis-a-vis the euro to 4.6313/6376 from 4.6291/6343 yesterday and slid against the British pound to 5.4822/4896 from 5.4781/4842 previously.
+
+[NEWS_P004] Meanwhile, the local note traded higher against ASEAN currencies. It gained against the Indonesian rupiah at 272.3/272.8 from 273.6/274.1 yesterday, improved against the Philippines’ peso to 7.58/7.59 from 7.65/7.66, inched up against the Thai baht to 13.1106/1345 from Tuesday’s 13.1123/1347, and appreciated against the Singapore dollar to 3.2781/2828 from 3.2899/2941 previously. - Bernama

@@ -1,0 +1,111 @@
+document_id: MDA_4065_PPB_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 33, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 160.538, "paragraph_count": 33, "paragraph_length_distribution": {"max": 1184, "mean": 1001.394, "min": 412}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Annual Report for a more detailed management discussion and analysis
+of our business operations and performance in FY2021.
+COVID-19 Initiatives
+PPB Group continued to undertake various initiatives to
+support the community during the COVID-19 pandemic.
+We spent a total of RM6 million in 2021 on food products
+for
+20,000
+vulnerable
+recipients;
+medical
+equipment
+requested by hospitals, and items to enhance the
+wellbeing of frontliners. We also provided a total of 149,700
+lunch meals to 2,400 recipients in Seremban, Penang, Johor,
+and the Klang Valley, whilst generating income for more
+than 50 unemployed individuals or struggling operators who
+prepared the meals. In addition, PPB engaged local singers,
+buskers, muralists, home bakers and skilled workers, with
+334 engagements to assist them in earning an income.
+MESSAGES FROM OUR LEADERS
+2021 Annual Repor t
+RISE ABOVE ADVERSIT Y
+[MDA_P009]
+Projecting ahead, we are optimistic of a recovery as poultry products
+such as egg and broiler meat are the most widely accepted food
+and cheapest source of protein. However, the livestock farming
+business continues to be competitive as many major players in the
+industry are moving fast and continuously perfecting their business
+models by adopting full integration. Overall, we expect the business for livestock farming to be
+satisfactory in 2022, in the absence of unforeseen circumstances
+that may negatively affect the farms’ performance or operations. MANAGING DIRECTOR’S REVIEW
+FFM Farms’ layer farm in Trong, Perak
+MESSAGES FROM OUR LEADERS
+2021 Annual Repor t
+RISE ABOVE ADVERSIT Y
+Palletised bagged animal feed in warehouse
+[MDA_P017]
+Navigating the Pandemic
+The Government imposed two rounds of MCO in
+2021, preventing cinemas from operating during those
+periods. GSC was only allowed to operate 186 days compared
+to 222 days in 2020. Our cinemas operated under strict
+SOPs to safeguard customers’ wellbeing, with regular hall
+sanitisation. Various cost control measures were implemented
+to defray operating costs, including continued negotiation with
+landlords for rental rebates. To maintain brand awareness with our customers, we
+boosted our online presence to sell merchandise products
+and expanded to non-movie related merchandise through
+GSC’s online store ‘Keepsake’. Other efforts to mitigate the
+pandemic’s effects include developing food and beverage
+sales through Happy Food Co, screening independent
+titles and alternative content, and promotional ticket
+pricing packages for individual and corporate customers. GSC is the first in Malaysia to introduce ScreenX, a unique screen format
+from Korea that delivers an immersive cinematic experience all around
+the auditorium
+MESSAGES FROM OUR LEADERS
+2021 Annual Repor t
+RISE ABOVE ADVERSIT Y
+[MDA_P025]
+Cinema operations were significantly impacted by the intermittent cinema closures since the
+second quarter of FY2020 as the country imposed nationwide containment measures against the COVID-19 pandemic. Segment revenue was higher at RM205 million (FY2020: RM190 million). The segment recorded a profit of RM647,000 for FY2021 (FY2020:
+RM14 million). Performance in FY2021 was affected by a loss amounting to RM4 million on divestment of a 40%-associate involved in
+landfill operations. Contribution from the said associate immediately prior to the divestment was a loss of RM526,000 as compared to a
+profit of RM5.1 million recorded in the previous financial year. RM’000
+RM’000
+RM’000
+Segment revenue
+Segment revenue
+Segment revenue
+Segment profit
+Segment loss
+Segment profit
+645,183
+116,470
+204,843
+6,543
+(113,278)
+628,275
+114,255
+189,543
+31,548
+(135,598)
+14,382
+RM’000
+RM’000
+RM’000
+Financial Performance by Business Segments
+MESSAGES FROM OUR LEADERS
+2021 Annual Repor t
+RISE ABOVE ADVERSIT Y
+[MDA_P033]
+The acquisition of the former MBO assets
+in September 2021 to expand our cinema circuit nationwide, is
+expected to contribute positively to the performance and support
+the recovery of this segment. Management remains prudent with
+expenditure during the shift to normalcy and will continue to
+explore revenue diversification to improve operation resilience. MANAGING DIRECTOR’S REVIEW
+GROUP OUTLOOK & PROSPECTS FOR 2022
+MESSAGES FROM OUR LEADERS
+2021 Annual Repor t
+RISE ABOVE ADVERSIT Y

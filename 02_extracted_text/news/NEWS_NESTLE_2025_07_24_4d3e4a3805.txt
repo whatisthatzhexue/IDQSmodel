@@ -1,0 +1,20 @@
+[TITLE]
+Utilities, consumer stocks lift Bursa Malaysia higher at midday
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/24/utilities-consumer-stocks-lift-bursa-malaysia-higher-at-midday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended the morning session on a firmer note as positive sentiment persisted on the local bourse, supported by gains in utilities as well as consumer products and services stocks. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) rose 2.97 points to 1,532.76, compared to Wednesday’s close of 1,529.79. The index opened 1.26 points higher at 1,531.05 and moved within a narrow range of 1,529.71 to 1,533.08 throughout the session.
+
+[NEWS_P002] However, broader market sentiment turned slightly bearish, with losers edging past gainers 418 to 402, while 458 counters were unchanged, 1,238 untraded, and seven suspended. Turnover stood at 1.92 billion units worth RM1.05 billion. In a research note, Malacca Securities Sdn Bhd said market optimism was fuelled by Prime Minister Datuk Seri Anwar Ibrahim’s announcement to lower the RON95 retail price to RM1.99 per litre effective end-September, coupled with RM100 cash handouts, which led to the higher market performance today.
+
+[NEWS_P003] "The cash assistance is also expected to benefit the consumer sector, with counters like EcoShop and 99 SpeedMart experiencing breakouts following the announcement. "We continue to favour the construction and utilities sectors amid the ongoing data centre boom, and real estate investment trusts given Bank Negara Malaysia’s overnight policy rate (OPR) reduction and their defensive nature,” it said. Gainers among heavyweight utilities and consumer products and services stocks included YTL Corporation, which added six sen to RM2.49.
+
+[NEWS_P004] Nestle was up RM2.36 to RM79.26, Petronas Gas rose 22 sen to RM17.90, and Petronas Dagangan gained 40 sen to RM21.40. Among the heavyweights, Maybank erased one sen to RM9.58, Public Bank was flat at RM4.29, Tenaga Nasional lost two sen to RM13.92 while CIMB and IHH Healthcare accumulated two sen each to RM6.69 and RM6.64, respectively. As for the actives, NexG was flat at 52 sen, Zetrix erased 2.5 sen to 92 sen, Dagang Nexchange advanced one sen to 29.5 sen, Tan Chong erased three sen to 90.5 sen while Tanco removed half-a-sen to 92 sen On the broader index board, the FBM Emas Index was 13.55 points higher at 11,508.09, the FBMT 100 Index rose 15.59 points to 11,269.75, and the FBM Emas Shariah Index was up 16.78 points to 11,533.27.
+
+[NEWS_P005] The FBM 70 Index was down 4.32 points to 16,639.77 while the FBM ACE Index erased 16.46 points to 4,648.59. Sector-wise, the Financial Services Index put on 4.81 points to 17,435.06, the Plantation Index ticked up 30.99 points to 7,442.43.37, but the Energy Index slipped 3.25 points to 739.93 and the Industrial Products and Services Index trimmed 0.07 of a point to 155.360. - Bernama

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI loses early lead on profit-taking pressure
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-06-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/05/fbm-klci-loses-early-lead-on-profit-taking-pressure
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the early session in the red, dashing hopes that the market's positive momentum would continue amid fresh rate cut hopes. At 12.30pm, the key index was down 2.01 points to 1,613.39. There was a positive market breadth with 476 gainers compared to 534 decliners while 461 stocks remained unchanged. The share turnover was 2.39 billion changing hands for RM1.61bil. Bank shares turned lower to lead the FBM KLCI into negative territory.
+
+[NEWS_P002] CIMB fell six sen to RM6.93, Maybank dropped seven sen to RM9.99 and Hong Leong Bank shaved 18 sen to RM19.30. Tenaga Nasional slid 26 sen to RM13.24, Genting shed five sen to RM4.74 and PPB slid 16 sen to RM14.64. Meanwhile, technology share MPI gained 40 sen to RM38.10 while Inari Amertron climbed 11 sen to RM3.41 and Pentamaster fell five sen to RM4.84. Regionally, there was renewed risk appetite for equities following a weak US labour report that renewed expectations the Federal Reserve will begin cutting rates this year.
+
+[NEWS_P003] On the flip side, the indication that the world's largest economy may be slowing capped investor optimism. Hong Kong's Hang Seng rose 0.33% to 18,505 and Singapore's Straits Times index gained 0.25% to 3,347. Japan's Nikkei dropped 1.09% to 38,414 and China's composite index slid 0.36% to 3,079.

@@ -1,0 +1,31 @@
+document_id: MDA_7243_MAGMA_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 122.353, "paragraph_count": 43, "paragraph_length_distribution": {"max": 1141, "mean": 370.465, "min": 18}, "repetition_ratio": 0.023256, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+1.
+FINANCIAL REVIEW
+[MDA_P011]
+Annual Report 2020
+[MDA_P022]
+The Group’s revenue for the FPE 2020 was derived from the hospitality and the property development
+businesses. The hospitality revenue was derived from Impiana Ipoh Sdn. Bhd. (“IISB”), hotel management
+revenue from Impiana Hotels & Resorts Management Sdn. Bhd. (“IHRM”) and property development
+revenue was from Impiana Cherating. Please refer to the Outlook in the 'Executive Chairman’s Statement'
+section in this Annual Report.
+3.
+BUSINESS RISKS OVERVIEW
+[MDA_P033]
+The assets of the Group are required to be up-to-date and in good working condition to ensure
+smooth running operations. This means that the Group’s assets may incur further costs as it may
+be subject to redevelopments, renovation works and ad hoc maintenance and repairs. These costs
+usually increase over time.
+[MDA_P043]
+Impiana Resort Cherating & Residences
+Kuantan, Pahang

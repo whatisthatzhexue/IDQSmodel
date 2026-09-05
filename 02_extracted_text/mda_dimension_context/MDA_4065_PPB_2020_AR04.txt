@@ -1,0 +1,106 @@
+document_id: MDA_4065_PPB_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Financial Review
+4,190,690
+1,420,933
+4,683,776
+1,271,628
+The Group achieved total revenue of RM4.19 billion,
+11% lower than FY2019. This was mainly attributable to
+lower revenue from the Film exhibition and distribution
+segment. Group pre-tax profit was higher by 12% to
+RM1.42 billion for FY2020 (FY2019: RM1.27 billion),
+mainly due to higher contribution from Wilmar
+at RM1.24 billion (FY2019: RM960 million). Profit
+attributable to owners of the parent amounted to
+RM1.32 billion, and earnings per share was 14.3%
+higher at 92.6 sen (FY2019: 81.0 sen). Financial performance by business segments
+Grains and agribusiness
+Consumer products
+Film exhibition and distribution
+Environmental engineering and utilities
+Property
+Group financial position
+Revenue
+(RM’000)
+Profit before tax
+(RM’000)
+Profit attributable to
+shareholders
+(RM’000)
+Earnings per share (sen)
+1,316,961
+1,152,551
+92.6
+81.0
+Segment
+revenue
+remained
+relatively
+unchanged at RM3.29 billion (FY2019: RM3.30
+billion). Segment profit increased by 28% to
+RM272 million (FY2019: RM213 million) mainly
+attributable to lower raw material costs and
+higher share of profit from associates.
+[MDA_P007]
+The Group has
+identified the following top five risks that must be managed to ensure its
+continued long-term success:
+GROUP OUTLOOK & PROSPECTS FOR 2021
+The Malaysian economy recorded negative growth of 3.4% in the
+fourth quarter of 2020, as economic recovery was affected by a
+resurgence in Covid-19 cases and the introduction of targeted
+containment measures in several states. Overall performance of
+the year was a negative of 5.6% following global restraint orders
+and border closures. For 2021, we believe that the impact will be less severe than in
+2020, although we expect near term growth to be affected by
+the re-introduction of stricter containment measures. The growth
+trajectory is projected to improve from the second quarter, driven
+by improvement in global demand, turnaround in public and
+private sector expenditure amidst continuing support from policy
+measures, and higher production in the manufacturing and mining
+sectors. The Covid-19 vaccine rollout from February 2021 is also
+expected to lift sentiment and dampen the spread of the virus. The Grains and Agribusiness segment is expected to weather the
+volatile commodities market.
+[MDA_P009]
+Wilmar’s performance will
+continue to contribute substantially to the overall profitability of
+the Group. 25 March 2021
+Reliance on certain income streams
+PPB Group is a conglomerate that also has an 18.6% stake in Wilmar. It currently relies to a large extent on contributions from Wilmar and
+FFM Group to meet one of its key objectives, which is to reward
+shareholders with sustainable and consistent dividends. The Group
+therefore invests in and expands its other business segments both
+domestically and overseas, while continually looking for investment
+opportunities to diversify its portfolio. Compliance with regulatory requirements
+PPB Group places high priority on compliance with relevant regulatory
+requirements. As such, the Group endeavours to create awareness
+and equip employees through relevant training and engagement of
+external advisers or consultants for advice on compliance matters. Foreign exchange risk
+The fluctuation of the Ringgit has presented challenges to
+PPB Group as most of the raw materials for the food processing
+and manufacturing segments, film rights purchases and overseas
+investments are denominated in foreign currencies.
+[MDA_P010]
+The Group
+monitors currency fluctuations closely and hedges part of its
+exposure; it also has a natural hedge in view that some of its income
+is generated in foreign currencies. Fluctuation of commodity prices
+Some of the raw materials used in the Group’s production are traded
+in the commodities market, which is exposed to price fluctuation
+risk. Changes in consumer demand, extreme weather change,
+and unforeseen events are amongst some circumstances that can
+influence commodity prices. It is critical to secure raw materials at
+favourable prices for the Group to remain competitive and profitable. The Group closely monitors commodity price movements and hedges
+its exposure. Health and safety hazards
+The nature of certain business segments in the Group may expose
+our employees to health and safety hazards. To foster a safe and
+healthy work environment, we take a range of actions including
+safety awareness and training sessions for employees and other
+stakeholders, the formation of OSHA committees and stringent
+enforcement of OSHA requirements.

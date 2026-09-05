@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rebounds above 1,600-point mark at midday
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-12-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/18/fbm-klci-rebounds-above-1600-point-mark-at-midday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI rebounded and was slightly higher at midday, lifted by gains in Tenaga Nasional and YTL Corp. At 12.30 pm, the market barometer rose 3.71 points or 0.23% to 1,601.04, after hitting an intra-morning high of 1,602.38. Market breadth, however, was negative, with decliners surpassing advancers 429 to 384, while 527 counters were unchanged. Among the KLCI component stocks, Tenaga Nasional rose 22 sen to RM14.02, YTL added three sen to RM2.15, Hong Leong Financial group gained 18 sen to RM18.12 and Genting Malaysia climbed two sen to RM2.12.
+
+[NEWS_P002] Laggards among the component stocks include PETRONAS Dagangan, Kuala Lumpur Kepong and PPB Group. On the broader market, United Plantations jumped 64 sen to RM33.04, F&N rose 20 sen to RM27.74, and Carlsberg gained 16 sen to RM20.60, while Malaysian Pacific Industries fell 32 sen to RM26.08, Apollo Food gave up 13 sen to RM6.58, and Panasonic Manufacturing declined 10 sen. ACE Market debutant, Carlo Rino fell 16.67%, or 4.5 sen to 22.5 sen with 80.4 million shares traded.
+
+[NEWS_P003] TA Securities noted that cautious trading with a downward bias is likely to continue, given the disappointing fiscal stimulus measures from China, while investors await the outcome of the two-day FOMC meeting in the US. “Immediate index support stays at 1,588, the 38.2%FR of the 1,529 low (Aug 6) to 1,684 high (Aug 29) rally, with stronger key supports at 1,565, the 23.6%FR level, and then 1,550. “Immediate resistance remains at 1,628, next 1,68, followed by the September peak of 1,675,” it added.

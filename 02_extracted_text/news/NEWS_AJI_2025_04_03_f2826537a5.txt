@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia slips on Trump's tariff shock
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-04-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/03/bursa-malaysia-slips-on-trump039s-tariff-shock
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia opened lower, with losers outpacing gainers nearly three to one, as sentiment weakened after U.S. President Donald Trump announced sweeping tariffs on all imports, escalating the global trade war. The FBM KLCI fell 6.93 points, or 0.45% to 1,519.59 at 9.07 am. The index opened 9.22 points lower at 1,517.30. There were 122 gainers, 311 losers and 217 counters traded unchanged on Bursa Malaysia. Malaysia will face a 24% reciprocal tariff by the US effective April 9.
+
+[NEWS_P002] According to the reciprocal tariff chart, Malaysia applies a 47% tariff on the U.S., with reciprocal tariffs on Malaysia set at half that rate. A baseline of 10% will apply to all goods entering the US effective April 5, while the higher duties will start April 9. Inter-Pacific Research said Malaysia’s 24% reciprocal tariff on U.S. imports is likely to trigger a fresh wave of selling on Bursa Malaysia, with stocks reacting in a knee-jerk manner. “However, Malaysian products are spared the worst of the tariffs as many other Asian nations are seeing higher tariffs and the downsides could be measured as Malaysia’s total direct trades with the U.S.
+
+[NEWS_P003] only amounts to about 10% of total trades,” the research house said. It added that the FBM KLCI’s recent losses have already partly priced in the impending tariffs, thereby limiting further downside. “Nevertheless, with global equity market conditions to remain dour for the time being, Malaysian equities are also likely to be subdued as market players could still stay on the sidelines for now. “On the downside, the key index could head back to its support at the 1,510-1,513 levels, which is followed by the 1,500-1,505 levels.
+
+[NEWS_P004] The resistances are at 1,531 points and 1,535 points respectively,” Inter-Pacific said. Meanwhile, Rakuten Trade expects the index to trend between the 1,500-1,520 range today amid heightening regional market volatility attributed to Trump’s bizarre protectionism move. “Except for Singapore (10%) and the Philippines (17%), Malaysia’s 24% reciprocal tariff ranked the 3rd lowest within the Asia-Pacific region, with Cambodia (49%), Vietnam (46%), Thailand (36%) and Indonesia (32%) as the Top 4 targets,” it said.
+
+[NEWS_P005] Among the losers on Bursa Malaysia, Nestle tumbled RM2.46 to RM70.20, Hong Leong Bank fell 20 sen to RM20.18, Ajinomoto eased 16 sen to RM14.34 and Carlsberg declined 16 sen to RM18.78. Malaysian Pacific Industries , the top gainer on Bursa Malaysia, rose 34 sen to RM17.88. F&N added 28 sen to RM24.38, Heineken gained 16 sen to RM26.62 and Hartalega climbed 15 sen to RM2.01.

@@ -1,0 +1,16 @@
+[TITLE]
+Kawan Renergy reports record earnings for FY24
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-12-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/20/kawan-renergy-reports-record-earnings-for-fy24
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Kawan Renergy Bhd (Kenergy) remains optimistic about the group’s future prospects, bolstered by a healthy order book of RM141.7mil as of Oct 31, 2024. The prospects of the group are favourable taking into consideration the group’s competitive strengths, business strategies and the outlook of the industrial process equipment industry and biogas industry, Kenergy said in the notes accompanying its financial results. In the fourth quarter ended October 31, Kenergy recorded a net profit of RM5.32mil, bringing the full-year net profit to an all-time high of RM19.22mil.
+
+[NEWS_P002] Revenue for the quarter amounted to RM39.2mil, with full-year revenue reaching RM113.1mil. Managing director Lim Thou Lai said the group was delighted to close the financial year on a high note, highlighting their strong execution amidst robust order book growth. “Aligned with our growth strategy, our investment in additional machinery and equipment, coupled with upgraded production processes, is designed to enhance efficiency, minimize wastage, and achieve greater precision.
+
+[NEWS_P003] “These initiatives position us to capitalise on the strong growth of Malaysia’s industrial process equipment sector, which recorded a CAGR of 14.6% from 2020 to 2023, driven by increasing foreign direct investment inflows, according to the independent market research report by Smith Zander International,” Lim said.

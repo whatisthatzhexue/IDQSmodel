@@ -1,0 +1,110 @@
+document_id: MDA_7243_MAGMA_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 26, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P003]", "note": "margin: stated 45.90%, calculated 114.42% from profit/revenue, status material_discrepancy.", "source_text": "FPE 2022 Revenue 14,458 26,725 (45.9%) Gross Profit (“GP”) 16,543 15,153 9.2% Gross Profit Margin (“GPM”) 114.4% 56.7% Administrative Expenses -12,420 -13,051 4.8% Other Cost -17,141 -15,928 (7.6%) (Loss) Before Tax (“LBT”) -13,018 -13,826 5.8% (Loss) After Tax from Continued Operations -1 (“LAT”) -", "status": "material_discrepancy"}], "document_id": "MDA_7243_MAGMA_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 73, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+(Overview of Group Business)
+Magma Group Berhad (“Magma” or the “Group”) has solidified its presence in the hospitality industry through a
+commitment to excellence in hotel management. Magma’s hospitality arm, MHM, manages a diverse portfolio of 4-star
+hotels located in strategic areas across Malaysia, including notable establishments like Impiana KLCC, Impiana Ipoh,
+and Impiana Senai. These strategic locations, selected for their accessibility and appeal, underscore Magma’s dedication to providing
+exceptional hospitality experiences. The Group’s focus on blending innovation with strategic placement ensures
+that guests receive unparalleled service, setting new benchmarks in the industry. Magma’s commitment to creating
+memorable stays is evident in its approach to hotel management, where the emphasis is on quality, guest satisfaction,
+and operational excellence. In addition to its hotel management ventures, Magma is also engaged in property development, with projects like
+the Impiana Resorts & Residences Cherating. This beachfront luxury suite development in Cherating, known for its
+pristine coastline, marks Magma’s foray into resort living.
+[MDA_P002]
+The project’s first phase encompasses 3 blocks with 144
+units, offering a range of accommodations from 1-bedroom suites to 3-bedroom units. Set on a freehold parcel,
+this development combines luxury with the natural beauty of Malaysia’s east coast, promising an exclusive lifestyle
+opportunity. As Magma actively seeks partners for the project’s second phase, it continues to expand its footprint in
+the property sector, leveraging its expertise in hospitality to enhance its real estate ventures. Looking towards 2024, Magma is optimistic about the prospects of its hospitality business. The Group is poised
+to leverage its strong portfolio of properties and its reputation for excellence to capture growth opportunities in the
+evolving hotel and tourism landscape. With a strategic focus on guest experiences and operational efficiency, Magma
+is well-positioned to meet the demands of the modern traveller and to continue its growth trajectory in the hospitality
+sector. Review of Financial Performance
+The summary of the Statement of Comprehensive Income is as follows:
+(RM ’000)
+FYE 2023
+FPE 2022
+(18 Months)
+Variance FYE
+2023 vs.
+[MDA_P003]
+FPE 2022
+Revenue
+14,458
+26,725
+(45.9%)
+Gross Profit (“GP”)
+16,543
+15,153
+9.2%
+Gross Profit Margin (“GPM”)
+114.4%
+56.7%
+Administrative Expenses
+(12,420)
+(13,051)
+4.8%
+Other Cost
+(17,141)
+(15,928)
+(7.6%)
+(Loss) Before Tax (“LBT”)
+(13,018)
+(13,826)
+5.8%
+(Loss) After Tax from Continued Operations (1) (“LAT”)
+(13,100)
+(14,307)
+8.4%
+Note:
+(1)
+Attributable to owner of the Company
+For the fiscal year concluded on 31 December 2023 (“FYE2023”), Magma Group Berhad (“Magma” or the “Group”)
+faced a year filled with considerable challenges and pivotal strategic shifts. The Group’s revenue for FYE2023
+reached RM14.46 million, a decrease from the RM26.73 million reported in FPE2022. This change reflects the Group’s
+adaptation to market fluctuations and its dedicated efforts towards refining operational efficiency across its business
+segments. Despite these endeavours, the Group encountered a Loss After Tax (“LAT”) of RM13.10 million for FYE2023,
+an improvement from the LAT of RM14.31 million in the preceding year, indicating the effectiveness of the Group’s
+strategic realignments and cost management initiatives in a turbulent economic environment.
+[MDA_P004]
+About Us | Performance | Sustainability | Governance | Financial | Additional Information
+ANNUAL REPORT 2023
+[MDA_P005]
+The summary of the Statement of Segmented Revenue is as follows:
+(RM ’000)
+FYE 2023
+FPE 2022
+(18 Months)
+Variance FYE
+2023 vs. FPE 2022
+Hotel Operation
+12,077
+13,556
+(10.9%)
+Hotel Management
+4,832
+5,147
+(6.1%)
+Property Development
+(2,451)
+8,022
+(>100%)
+Total Revenue
+14,458
+26,725
+(46.2%)
+In FYE2023, Magma Group Berhad navigated through a period of recalibration and strategic refinement across its
+business segments. The Hotel Operation segment emerged as a significant contributor, generating RM12.08 million,
+which constituted a substantial portion of the Group’s total revenue. This performance underscores the segment’s
+recovery and resilience, buoyed by increased occupancy rates and Average Room Rates (“ARR”), reflecting a rebound
+in the hospitality sector, particularly with the influx of travellers from China. The Hotel Management segment also demonstrated notable performance, contributing RM4.83 million to the revenue. This improvement is indicative of the effective management strategies and operational efficiencies implemented
+within the segment.

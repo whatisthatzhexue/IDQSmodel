@@ -1,0 +1,132 @@
+document_id: MDA_3026_DLADY_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Annual Report 2021
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Purpose: Nourishing Our Nation
+During Unprecedented Times
+Everything we do at DLMI is driven by our
+Purpose. Nourishing Our Nation with trusted
+and sustainable dairy nutrition, is our mantra to
+continue to achieve accelerated growth. More so
+during this COVID-19 pandemic and beyond, we
+continued to empower Malaysians to focus on
+nutrition. As a leading dairy company in Malaysia,
+we support the Government’s national health
+agenda to mitigate the public health crisis such
+as non-communicable diseases i.e. stunting,
+obesity and micronutrient deficiencies in children
+to improve the nutritional status of Malaysians. Nourishing Our Nation guided by our leadership
+philosophy focusing on our 4Ps: Purpose, People,
+Performance and Potential has helped us meet
+the needs of our shareholders, consumers and
+communities, while caring for our environment. This strategy helps us address key challenges
+facing our Company during the COVID-19
+pandemic
+including
+a
+highly
+competitive
+operating environment, a rapidly changing retail
+landscape, and an ever evolving regulatory, social
+and cultural landscape.
+[MDA_P004]
+Besides
+ensuring
+full
+product
+availability
+throughout these challenging times, including
+the floods at the end of 2021 that impacted many
+different communities across the country, DLMI
+continued to nourish key frontliners and partnered
+various Non-Government Organisations, Key
+Opinion Leaders and Foodbanks by distributing
+over 180,000 milk packs. We take great pride
+in being able to make a difference in society by
+supporting our Rakyat. Everything we do at Dutch Lady
+Milk Industries Berhad’s (DLMI) is
+driven by our Purpose. Nourishing
+Our Nation with trusted and
+sustainable dairy nutrition, is our
+mantra to continue to achieve
+accelerated growth. PURPOSE
+PEOPLE
+PERFORMANCE
+POTENTIAL
+[MDA_P018]
+While we have been true to our purpose in Nourishing Malaysian, 2021 has really
+been the year where that purpose is clearly brought to live. Movement Control
+Orders (MCO) has changed the way consumer consume and perceive dairy. Not
+only the nutritional value of our milk is highly appreciated during this time,
+the delicious taste of our products has also leads to various creative ways of
+consumptions during this unprecedented time. All this has led to strong overall volume growth of +7% vs 2020. Within the total
+Dairy category, our market share improved to 26.6% (+1p.p. vs 2020 and +2.9p.p
+vs 2019, Nielsen Retail Audit Dec 2021), where we remain a strong #1 Dairy
+Player in Malaysia, showing the trust and connection we have with our Malaysian
+consumers. Within Consumer Dairy segment, after a spike in 2020 due to lockdown and
+panic buying, the Liquid Milk category normalised in 2021 with -1% value decline. Despite the category decline, Dutch Lady continued to drive growth of +4%, giving
+us 38.7% value share (+2p.p. vs 2020, Nielsen Retail Audit Dec 2021) further
+strengthening our market leadership.
+[MDA_P019]
+Dutch Lady is also high on household
+penetration, with almost 6 out of 10 households in Malaysia consuming Dutch
+Lady products (52 wks, Kantar HH Panel, Dec 2021). The growth is contributed by the continuous efforts to ensure supply continuity
+despite restrictions and SOPs, and impactful consumer campaigns such as
+Ramadan & Morning Campaigns, and successful innovation such as Dutch Lady
+Banana Flavored Milk range, Juicy Milk Mango and reinventing our communication
+approach to stay connected to our consumers during the new norm. Diversity and Inclusion
+In 2018, McKinsey & Co. corroborated
+that Gender equality drives economic
+growth
+and
+improves
+business
+performance. USD
+4.5
+trillion
+could be added to the Asia Pacific
+economics by 2025 through advancing
+women’s equality. By having balanced
+representation
+in
+management,
+businesses can boost revenue by 19%. For this reason, DLMI Board of
+Directors
+are
+deliberately
+equally
+gender balanced, setting the right tone
+at the top. Similarly, our Management
+Team is also equally gender balanced,
+something we are really proud of as an
+organisation. Management Team
+50%
+50%
+Male
+Female
+[MDA_P020]
+Annual Report 2021
+MANAGEMENT DISCUSSION
+& ANALYSIS
+The Mainstream Growing Up milk (GUM) for 1-3 years
+old experienced a decline compared to previous year as
+consumers balance their overall spend impacted by the
+pandemic. This lead to a 12% category decline in penetration
+(Kantar 52 week Dec 2021) with a similar drop for the Dutch
+Lady GUM Brand. The decline for the GUM Mainstream also
+reflected a 5% drop in value vs the previous year, however
+Dutch Lady GUM sales remained rather flat resulting in an
+increase in value share in the mainstream segment to 43.6%. This is contributed by our key 2021 meaningful campaign;
+Dana Sejuta Harapan in quarter two of 2021. The campaign
+sought to benefit both the parent and child, whereby we
+worked with SSPN-i to award 40 Child Education funds (with
+Insurance plan) and 160 smart devices to aid children in
+their education while away from school. Efforts also continue in the Specialised Diet segment of
+MaxGro to support the Optimal Growth of Malaysian children
+in an effort to minimise the Stunting issue faced in Malaysia.

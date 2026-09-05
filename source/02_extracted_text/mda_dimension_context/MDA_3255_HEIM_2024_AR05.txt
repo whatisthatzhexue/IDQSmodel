@@ -1,0 +1,118 @@
+document_id: MDA_3255_HEIM_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 44, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 222.175, "paragraph_count": 44, "paragraph_length_distribution": {"max": 1906, "mean": 956.591, "min": 136}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+HEINEKEN Malaysia delivered
+strong financial results in 2024,
+showing significant progress
+from the previous year, fueled
+by strategic marketing efforts
+and the successful launch
+of innovation products that
+resonated well with consumers. BUSINESS AND OPERATIONS
+At HEINEKEN Malaysia, we are guided by our purpose, ‘Brew
+the Joy of True Togetherness to Inspire a Better World’, creating
+memorable experiences that bring people together and foster a
+sense of community. We have remained resilient amidst challenges
+by aligning our initiatives with our growth strategy, EverGreen, to
+future-proof our business. A key aspect of this strategy is to drive
+superior growth by investing in our brands and diversifying our
+offerings to cater to evolving consumer preferences, ensuring we
+meet market demands. This approach, coupled with a cost and
+value optimisation mindset to fund our growth, has enabled us to
+achieve financial growth despite external pressures.
+[MDA_P012]
+This campaign came to life with local viewing parties,
+exclusive giveaways and engaging activities at top pubs and
+bars nationwide, embodying the camaraderie of football while
+rewarding fans with unforgettable moments and dream rewards,
+including all-expenses-paid trips to live matches. In 2024, Anchor continued to strengthen its market presence in
+Malaysia, building on its deep roots as a widely enjoyed beer. The
+brand focused on targeted consumer promotions and activations
+to drive engagement. Notable initiatives included efforts to raise
+visibility and a strategic approach to create more value for our
+consumers. These efforts helped reinforce Anchor’s position in
+Malaysia.
+[MDA_P023]
+Despite these obstacles, we see
+opportunities emerging from recent macroeconomic stability,
+including improving consumer confidence and increased tourist
+arrivals. We remain cautiously optimistic about our ability to
+adapt and navigate this evolving market landscape, particularly
+in the face of economic volatility and a challenging consumer
+environment. By aligning our efforts with our EverGreen strategy,
+we aim to drive sustainable growth and strengthen our long-term
+resilience through cost optimisation and operational efficiency. Additionally, we welcome the Government’s decision not to increase
+excise duties in Budget 2025, as any hike in excise rates would
+drive greater demand for illicit alcohol. The Group will continue
+to work closely with relevant authorities to address illicit alcohol
+concerns, ensuring a fair operating environment for key players
+through awareness campaigns. All in all, we will persist in staying
+One Step Ahead by continuously innovating and adapting to the
+ever-changing market landscape, ensuring we deliver exceptional
+value and experiences to our customers and consumers.
+[MDA_P034]
+Heineken Malaysia Berhad • Annual Report 2024
+Our Business Model
+Performance Review
+Who We Are
+Brand Highlights
+ST. PATRICK’S DAY 2024:
+MAKE IT OUR DAY TO REMEMBER
+Guinness Malaysia celebrated St. Patrick’s
+Day 2024 with an exciting campaign that
+invited fans to make the day truly their
+own. At participating pubs and bars, fans
+could customise their Guinness pints in
+two unique ways - physically at on-ground
+events or digitally through an AR filter by
+scanning the Guinness logo.
+The AR feature allowed fans to generate
+personalised charms and share their
+creations
+online,
+blending
+traditional
+celebrations
+with
+modern
+technology.
+Alongside this, the campaign offered live
+music, exclusive merchandise and skill-
+based games at iconic venues nationwide,
+creating an engaging and memorable
+celebration.
+By merging innovative digital experiences
+with
+on-ground
+festivities,
+Guinness
+brought the spirit of St. Patrick’s Day to life
+for fans across Malaysia.
+Guinness
+World’s No. 1 stout
+For more information, scan the
+QR code or visit:
+https://www.heinekenmalaysia.com/
+guinness/
+[MDA_P044]
+Heineken Malaysia Berhad • Annual Report 2024
+Our Business Model
+Performance Review
+Who We Are
+ABOUT THIS STATEMENT
+As a responsible and progressive company, HEINEKEN Malaysia is guided by our
+purpose, To Brew the Joy of True Togetherness to Inspire a Better World, embedding
+sustainability into our core operations to drive long-term value for all stakeholders.
+As part of the HEINEKEN Group, HEINEKEN Malaysia has adopted the HEINEKEN
+sustainability strategy, Brew a Better World (BaBW) 2030 which clearly outlines
+measurable and ambitious goals across three pillars: environmental sustainability,
+social sustainability and responsible consumption.
+Review
+ESG

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI soars above 1,600, highest in over two years
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-05-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/07/fbm-klci-soars-above-1600-highest-in-over-two-years
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Share prices on Bursa Malaysia marched higher for the fourth straight trading session, as investors piled into blue chip stocks. At closing, the FBM KLCI rose 8.29 points, or 0.52% to 1,605.68, its highest since early April 2022. The benchmark index earlier hit an intraday high of 1,610.32. Market breadth was positive with gainers outnumbered losers on a ratio of 684-to-455 stocks. Traded volumes rose to 5.4 billion shares valued at RM3.8bil.
+
+[NEWS_P002] MR DIY had the largest move among the KLCI component stocks, increasing 4.12%, or seven sen to RM1.77 with 45.02 million shares traded. The home improvement retailer is expected to announce its financial results this week. Meanwhile, YTL Power was the biggest drag on the index, falling 0.61%, or three sen to RM4.88. On the broader market, Carlsberg jumped 70 sen to RM19.40, Heineken rose 40 sen to RM23.72, Panasonic Manufacturing added 34 sen to RM19.46 and Malaysian Pacific Industries gained 30 sen to RM31.30.
+
+[NEWS_P003] Among the decliners, Ajinomoto slid 50 sen to RM19.54, Dutch Lady fell 20 sen to RM34.30, Bintulu Port gave up 19 sen to RM6.11 and SAM Engineering lost 18 sen to RM5.36. According to data on Bursa Malaysia, foreign investors bought RM249mil of local equities on Monday. Local institutions and retailers sold RM140mil and RM110mil worth of equities yesterday. Meanwhile, the ringgit was quoted at 4.7390, down 0.01% against the US dollar. Among the key regional markets: Japan’s Nikkei 225 closed up 1.57% to 38,835.10; Hong Kong’s Hang Seng Index fell 0.53% to 18,479.37; Shanghai Composite Index added 0.22% to 3,147.74; Taiwan’s Taiex fell 0.63% to 20,653.53; South Korea’s Kospi advanced 2.16% to 2,734.36 and; Singapore’s Straits Times Index fell 0.1% to 3,300.04 points.

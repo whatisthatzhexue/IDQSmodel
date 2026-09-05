@@ -1,0 +1,12 @@
+[TITLE]
+Kawan Renergy unit secures RM12.75mil contract in Port Klang
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-10-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/23/kawan-renergy-unit-secures-rm1275mil-contract-in-port-klang
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Kawan Renergy Bhd 's wholly-owned subsidiary Kawan Engineering Sdn Bhd has accepted an offer from Govi Cast Sdn Bhd to undertake the engineering, procurement and construction of an additional chemical production line (Line 3) at its Port Klang factory for RM12.75mil. In a bourse filing, the group said the project is to be delivered and commissioned by May 1, 2026. The order is expected to contribute positively towards the earnings and net assets of the company and its subsidiaries for the financial year ending Oct 31, 2026.

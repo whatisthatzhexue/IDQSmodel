@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI slips towards 1,600 as US inflation jitters spill over
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-12-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/11/fbm-klci-slips-towards-1600-as-us-inflation-jitters-spill-over
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the morning closer to the key 1,600 support as profit-taking intensified ahead of a key US inflation report scheduled for release tonight. At 12.30pm, the benchmark index was down 6.43 points to 1,602.54, in line with a broad-based pullback across the market. A total of 560 stocks were in the red compared with 337 gainers after 1.51 billion shares changed hands for RM1.14bil. According to observers, global markets are on tenterhooks over the upcoming US consumer price index report, which will inform the Federal Reserve's next policy move.
+
+[NEWS_P002] Asian markets on Wednesday were seen dipping on fears a higher-than-expected inflation print will lead to the central bank leaving rates higher for longer. In Japan, the Nikkei index dropped 0.34% to 39,236 and Singapore's Straits Times shed 0.5% to 3,794. China's composite index rose 0.22% to 3,430 while Hong Kong's Hang Seng was unchanged at 20,310. The selling on Bursa Malaysia was seen across sectors. Among the leading blue chips. IHH drove 33 sen to RM7.11 while Sunway dropped 18 sen to RM4.61.
+
+[NEWS_P003] Hong Leong Bank shed 24 sen to RM20.50, MISC slipped seven sen to RM7.39 and Kuala Lumpur Kepong gave up 28 sen to RM21.32. A few consumer giants, however, were seen rising including Nestle up RM1.40 to RM98.20, Dutch Lady gaining 66 sen to RM30.96 and Heineken Malaysia adding 28 sen to RM23.98. Top actives on the market included Dnex up four sen to 39.5 sen, SNS Network rising 1.5 sen to 58.5 sen and Velesto unchanged at 15.5 sen.

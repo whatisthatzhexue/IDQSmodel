@@ -1,0 +1,16 @@
+[TITLE]
+Malaysians will need to obtain ETA for UK travel next year
+
+[METADATA]
+ticker: ETA
+company_name: Annual Report 2020
+publish_date: 2024-09-12
+source_name: The Star
+url: https://www.thestar.com.my/news/nation/2024/09/12/malaysians-will-need-to-obtain-eta-for-uk-travel-next-year
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Malaysians travelling to or transiting through the United Kingdom will be required to have an Electronic Travel Authorisation (ETA) starting from Jan 8 next year. In a statement yesterday, the British High Commission in Kuala Lumpur announced that ETAs will be mandatory for all foreign visitors, including children, who do not currently need a visa for short stays. The ETA requirement, which is not a UK visa but a digital permission to travel to the UK, will also include those who do not already have UK immigration status prior to travelling.
+
+[NEWS_P002] “Malaysians who are going to live in the UK for over six months, either to study or work, are still required to apply for a relevant visa, but individuals with a valid UK visa do not need an ETA. “This is in line with the approach many other countries, like the United States and Australia, have already taken to strengthen border security. “It will contribute towards delivering a more streamlined, digital immigration system that will be quicker and more secure for the millions of people who pass through the UK border each year,” the High Commission said.
+
+[NEWS_P003] It added that each ETA will cost £10 (RM56.64) and allows multiple journeys to the UK for stays of up to six months at a time over two years, or until the holder’s passport expires. Malaysians can begin applying in advance from Nov 27 onwards, either through the “UK ETA app” or through www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta. The High Commission added that ETA applications will be managed by the UK Visas & Immigration Department and not by the High Commission itself.

@@ -1,0 +1,24 @@
+[TITLE]
+Bursa Malaysia closes higher on bargain hunting
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-06-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/06/bursa-malaysia-closes-higher-on-bargain-hunting
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia closed higher on bargain hunting for stocks currently priced lower than usual after yesterday's profit-taking, said an analyst. At 5 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) gained 6.20 points, or 0.39 per cent, to 1,614.73 from yesterday's close of 1,608.53. The benchmark index, which opened 3.29 points higher at 1,611.82, fluctuated between 1,609.34 and 1,617.05 throughout the trading session. On the broader market, gainers outperformed decliners 770 to 475, with 442 counters unchanged, 681 untraded and 10 others suspended.
+
+[NEWS_P002] Turnover rose to 5.35 billion units worth RM4.50 billion from yesterday's 4.28 billion units worth RM3.40 billion. Rakuten Trade Sdn Bhd equity research vice-president Thong Pak Leng said the FBM KLCI ended higher as investors took the opportunity to bargain hunt stocks at lower levels (that are currently priced lower than usual) after yesterday's profit-taking. "We remain cautiously optimistic as we see the local bourse is supported by attractive valuations, an increase in investor confidence gauged from the higher average daily trading volume and improving foreign buying.
+
+[NEWS_P003] "Hence, we anticipate the FBM KLCI to trend within the range of 1,610-1,630 towards the weekend," he told Bernama. Thong said the key regional indices also trended higher following a positive cue from Wall Street yesterday. "The expectation of rate cuts by the European Central Bank, combined with weaker US labour market data, raised hopes that the Fed would cut rates, thereby boosting market sentiment," he added. Among the heavyweights, Tenaga Nasional surged 44.0 sen to RM13.70, CIMB Group climbed 6.0 sen to RM6.95 and IHH Healthcare advanced 6.0 sen to RM6.24.
+
+[NEWS_P004] Meanwhile, Maybank and Public Bank remained flat at RM9.98 and RM4.13. Among the actives, WCT Holdings increased 15.0 sen to 77.5 sen, Kawan Renergy climbed 15.5 sen to 80 sen, and Datasonic Group gained 3.0 sen to 55 sen, JCY International and SNS Network Technology were flat at 61.5 sen and 65 sen respectively. On the index board, the FBM Emas Index jumped 63.71 points to 12,303.69, the FBMT 100 Index expanded 51.96 points to 11,895.77, the FBM Emas Shariah Index jumped 88.76 points to 12,576.18, the FBM 70 Index gained 102.71 points to 17,640.85 while the FBM ACE Index increased 32.33 points to 5,499.94.
+
+[NEWS_P005] Sector-wise, the Financial Services Index strengthened 46.26 points to 17,637.43, the Industrial Products and Services Index rose 0.67 of-a-point to 197.24, while the Telecommunication and Media Index eased 0.40 of-a-point to 612.59, and the Plantation Index fell 24.26 points to 7,112.86. The Main Market volume was higher at 3.15 billion units worth RM3.92 billion from 2.57 billion units worth RM2.98 billion last Friday. Warrant turnover rose to 1.07 billion units valued at RM130.50 million from 912.07 billion units valued at RM110.10 million.
+
+[NEWS_P006] The ACE Market volume expanded to 1.12 billion shares worth RM447.93 million from 802.28 million shares worth RM311.10 million previously. Consumer products and services counters accounted for 357.39 million shares traded on the Main Market, industrial products and services (445.55 million), construction (538.68 million), technology (532.10 million), SPAC (nil), financial services (109.86 million), property (534.16 million), plantation (22.97 million), REITs (25.65 million), closed/fund (28,700), energy (174.16 million), healthcare (128.25 million), telecommunications and media (45.20 million), transportation and logistics (135.52 million), utilities (97.98 million), and business trusts (711,400).
+
+[NEWS_P007] - Bernama

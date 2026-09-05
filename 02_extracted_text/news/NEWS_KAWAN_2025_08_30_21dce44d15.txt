@@ -1,0 +1,18 @@
+[TITLE]
+National Day parade of over 10,000 at Batu Kawan
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-08-30
+source_name: The Star
+url: https://www.thestar.com.my/metro/metro-news/2025/08/30/national-day-parade-of-over-10000-at-batu-kawan
+confidence_tier: low
+
+[NEWS_P001] The 68th National Day state- level parade in Batu Kawan, Penang, will feature nearly 150 contingents and over 10,000 participants. State Assembly Speaker Datuk Seri Law Choo Kiang said the four-hour celebration themed Madani Malaysia: Rakyat Disantuni (Caring for Citizens) will start at 7.30am tomorrow at the Penang State Stadium. The celebration will reflect the government’s vision of strengthening national development through compassion, social well-being and justice, he said.
+
+[NEWS_P002] “The ‘Malaysia Madani’ concept balances material and spiritual progress, encompassing economic growth, integrity in governance and social unity. “‘Rakyat Disantuni’ emphasises the government’s commitment to prioritising the people’s welfare,” Law added in a media statement. Yang di-Pertua Negeri Tun Ramli Ngah Talib, his wife Toh Puan Raja Noora Ashikin Raja Abdullah, Chief Minister Chow Kon Yeow and various state leaders will be attending the celebration.
+
+[NEWS_P003] “This year’s parade will feature 122 marching contingents from various state and federal departments, statutory bodies, government-linked companies (GLCs), non-governmental organisations (NGOs) and 7,533 participants,” said Law. “There will be 22 vehicle contingents comprising 958 participants and 676 vehicles as well. “A total of 10,072 individuals, including organising committees and working personnel, will be involved in the event,” he added. The celebration, expected to be lively, will include an appearance by the SMJK Jit Sin choir, cultural dancers, the Muhibah Drum Ensemble and guard-of-honour unit of the 2nd Battalion of the Royal Malay Regiment.
+
+[NEWS_P004] There will also be 21 state and federal agency exhibition booths and a display of assets by the Fire and Rescue Department, police and the armed forces. An estimated 10,000 visitors are expected at the event aimed at fostering national unity, patriotism and appreciation for the country’s achievements.

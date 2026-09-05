@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Yinson, Iris, MR DIY, ES Sunlogy, Avangaad, Magma, PetChem, VSTECS, Master-Pack, RCE Capital, Eonmetall
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2025-08-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/14/trading-ideas-yinson-iris-mr-diy-es-sunlogy-avangaad-magma-petchem-vstecs-master-pack-rce-capital-eonmetall
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Yinson Holdings Bhd has commenced operations of its largest FPSO, Agogo FPSO, under a 15-year charter worth over US$5bn. Iris Corporation Bhd failed in its appeal against a High Court decision to dismiss its lawsuit against nine former directors over losses from subscribing shares in a UK-based firm. Tenaga Nasional Bhd will maintain its regulated profit margin at 7.3% during the RP4 from 2025 to 2027 and any profits above this rate will be returned to consumers via the Electricity Industry Fund.
+
+[NEWS_P002] MR DIY Group (M) Bhd saw its 2QFY2025 net profit rise 2.2% YoY to RM158.6mn from RM155.2mn, as higher revenue and margin gains offset increased administrative and operating expenses. ES Sunlogy Bhd said its joint development of a 155MWp large-scale solar photovoltaic power plant in Long Lama, Baram, Sarawak, will cost RM488.2mn and the project will be funded 80% via bank borrowings and 20% from internal funds. Avangaad Bhd, formerly EA Technique (M) Bhd, is disposing of its FSO vessel FOIS Nautica Tembikai for US$10.5mn cash.
+
+[NEWS_P003] Magma Group Bhd has completed its RM379.2mn capital reduction exercise to strengthen its balance sheet and enhance financial flexibility for expansion. Petronas Chemicals Group Bhd posted a RM1.08bn net loss in 2QFY2025 versus a RM777mn net profit a year earlier, weighed by lower sales volumes, weaker product prices, asset impairments and unrealised forex losses. Vstecs Bhd ’s 2QFY25 net profit jump to RM20.2mn from RM15.3mn a year ago, driven by higher sales across its ICT distribution, enterprise systems, and ICT services segments.
+
+[NEWS_P004] Master-Pack Bhd posted a 74% YoY drop in 2QFY25 net profit to RM1.6mn from RM6.2mn, due to margin compression from price cuts and a RM130,000 forex loss. RCE Capital Bhd ’s 1QFY26 net profit of RM26.0mn was down 14.3% YoY from RM30.3mn, weighed by higher impairment allowances on receivables. Eonmetall Group Bhd registered a RM4.1mn net loss in 2QFY2025, reversing from a RM702,000 net profit a year earlier, on lower margins, higher raw material usage, and increased factory overheads.

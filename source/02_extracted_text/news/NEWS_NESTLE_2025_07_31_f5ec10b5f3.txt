@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia slips as trade uncertainty weighs on sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/31/bursa-malaysia-slips-as-trade-uncertainty-weighs-on-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia closed lower on Thursday as cautious sentiment ahead of a key trade announcement weighed on investor activity. At close, the 30-stock index fell 11.25 points, or 0.74%, to 1,513.25 — its biggest drop since July 16, when it lost 0.91%. For the month, the index declined 1.28%. The index is on track for its largest weekly decline since the week ended May 30, slipping 1.3% so far. In the broader market, gainers outnumbered decliners 545 to 475, while 483 counters remained unchanged.
+
+[NEWS_P002] Turnover stood at 3.8 billion shares worth RM3.1bil. Dealers said investor sentiment remained cautious ahead of the trade negotiation deadline, with many staying on the sidelines amid ongoing uncertainty over a potential deal. Prime Minister Datuk Seri Anwar Ibrahim said U.S. President Donald Trump has agreed to announce Malaysia’s tariff rate on Friday (Aug 1), following a phone call on Thursday (July 31). “After we spoke, he decided to delay the tariff announcement to tomorrow (Aug 1).
+
+[NEWS_P003] God-willing, this will help us and not burden the economy,” Anwar said when tabling the 13th Malaysian Plan in Parliament today. Among the losers on Bursa Malaysia, Hong Leong Bank slid 30 sen to RM19, Tenaga Nasional fell 26 sen to RM13.02, PETRONAS Chemicals lost 19 sen to RM3.68 and British American Tobacco declined 15 sen to RM5.17. Malaysian Pacific Industries , the top gainer on Bursa Malaysia, jumped 74 sen to RM20.14. Nestle rose 68 sen to RM88.08, Heineken added 20 sen to RM23.92 and Hong Leong Industries gained 16 sen to RM13.06.
+
+[NEWS_P004] According to Bursa Malaysia data, foreign investors and local institutions sold RM34mil and RM9mil worth of equities, respectively, on Wednesday, while retailers bought RM43mil. Meanwhile, the ringgit fell 0.38% to 4.2592 against the US dollar but rose 0.12% to 3.2895 against the Singapore dollar. Asian markets ended mixed today. Japan’s Nikkei 225 rose 1.02%, while South Korea’s Kospi slipped 0.28%. Hong Kong’s Hang Seng fell 1.6%, China’s CSI300 dropped 1.82%, and the Shanghai Composite lost 1.18%.

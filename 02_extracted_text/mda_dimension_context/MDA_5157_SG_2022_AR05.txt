@@ -1,0 +1,144 @@
+document_id: MDA_5157_SG_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 19, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 175.042, "paragraph_count": 19, "paragraph_length_distribution": {"max": 1195, "mean": 935.632, "min": 173}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Introduction
+The summary of the results of SAUDEE and its subsidiaries (“Group”) for the past two (2) financial years ended 31 July 2021 (“FYE 2021”) to
+FYE 2022 as summarised below:-
+FYE 2022
+FYE 2021
+01.08.2021
+to
+31.07.2022
+01.08.2020
+to
+31.07.2021
+KEY RESULTS
+Revenue
+(RM’000)
+96,880
+80,779
+Loss before tax (“LBT”)
+(RM’000)
+(3,960)
+(4,465)
+Loss after tax (“LAT”)
+(RM’000)
+(4,406)
+(4,373)
+Earnings/(Loss) before interest, taxes, depreciation and amortisation (“EBITDA”)
+(RM’000)
+1,262
+1,214
+OTHER KEY DATA
+Total assets
+(RM’000)
+149,579
+141,319
+Total liabilities
+(RM’000)
+12,366
+16,273
+Share capital
+(RM’000)
+162,816
+146,234
+Shareholders’ funds
+(RM’000)
+137,214
+125,046
+FINANCIAL RATIOS
+Return on shareholders’ funds
+(%)
+(0.03)
+(0.01)
+Current ratio
+(Times)
+8.80
+7.20
+Debts to equity ratio
+(Times)
+0.01
+0.01
+Weighted average number of shares
+(‘000)
+902,141
+298,412
+Net loss per Share
+(Sen)
+(0.49)
+(1.47)
+Net assets per Share
+(RM)
+0.15
+0.47
+The purpose of this review is to highlight and provide brief insight on the key financial and operating information at the Group level. This
+review and comparison is for the FYE 2022 against FYE 2021 results.
+[MDA_P005]
+The actual LAT excluded fair value loss on other investments should be a Profit After Tax ("PAT") of RM2.8 million in FY 2022 as
+compared to LAT of RM4.4 million in FY 2021. The adjusted PAT of RM2.8 million recorded is contributed by the effort of the management
+team which continues to implement cost efficiency and reduction programmes and the good strategy by management to concentrate on
+the FPP instead of HORECA in FY 2022. Even though the Group recorded LAT of RM4.4 million during FYE 2022, the Group was still able to repay its payables that is further
+discussed in the analysis on cash flow. Analysis of Expenses
+Our Group’s COGS increased by RM7.6 million or 10.7% from RM71.4 million in FYE 2021 to RM79.1 million in FYE 2022. The reason for
+the decrease in COGS was mainly due increase in revenue by RM16.1million in FYE 2022. Furthermore, the GP margin for FY2022 of
+18.4% improved by 6.8% for as compared to FY2021 of 11.6%. This mainly due to continuing cost reduction and improved in efficiency of
+production year to year implemented by the management.
+[MDA_P010]
+Financial Position Analysis
+FYE 2022
+FYE 2021
+(RM’000)
+(RM’000)
+Inventories
+15,923
+11,265
+Trade and other receivables, and
+amount due from an associate
+32,169
+14,203
+Trade and other payables, and
+amount due to an associate
+8,883
+14,681
+Bank borrowings
+1,763
+Our Group’s inventories was RM15.9 million for FYE 2022 as
+compared to RM11.3 million for FYE 2021. This represents an
+increase in inventories level by 40.7%. This was mainly due to
+purchase of material towards the end of the financial year and
+cater the increase in production capacity in coming quarter for
+FPP products. However, the Management will continue to monitor
+the inventories holding level to and inventories holding period to
+minimized the inventories holding costs and handling cost on this
+inventories. Trade and other receivables increase to RM32.2 million for FY2022
+to RM14.2 million for FY 2021 an increase by RM18.0 million. The
+increase mainly due to prepayment for purchase of machinery
+and investment property. Besides that, The trade receivables also
+increase by RM10.5 million as compared FY 2021. The increase in
+trade receivables due to increase in revenue for the last quarters in
+FY2022.
+[MDA_P015]
+The
+Group is expected to further strengthen its financial performance to maintain or exceed the current momentum based on the strategic
+plans that have been put in place by the Management with the view to further improve on the generating cash flow. The Group will
+continuously improve on production efficiency and to further realise plan to penetrate into a bigger share in FPP segment. SAUDEE GROUP BERHAD 200801036832 (838172-P)
+ANNUAL REPORT 2022
+[MDA_P019]
+The SWG activities are:
+•
+Identifying environmental, economic and social risks and opportunities
+•
+Implement sustainability strategies for managing EES risks within their departments
+•
+Monitor EES performance and provide updates to the Board. BOARD OF DIRECTORS
+Sustainability Working Group
+Members of SWG comprise of Independent Non-Executive Directors, Executive Director, CEO and Heads of Departments
+SAUDEE GROUP BERHAD 200801036832 (838172-P)
+ANNUAL REPORT 2022

@@ -1,0 +1,24 @@
+document_id: MDA_5202_MSM_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 30, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+GROUP FINANCIAL
+[MDA_P005]
+The Group’s revenue increased by 3.4% to RM2.26 billion in FY2021 on the back of improved selling prices across all customer segments. The Wholesale Segment posted a
+[MDA_P012]
+Export Segment’s revenue increased by 8% at RM506 million (RM467 million in FY2020) as a result of increased Premiums. Profit Before Interest, Zakat and Tax (PBIZT) and
+[MDA_P014]
+performance in the future. Profit Before Zakat and Tax (PBZT) The Group’s PBZT from Continuing operations increased 126% to RM81.10 million in FY2021 due to better raw sugar management. Discontinued operations contributed RM88.74 million in PBZT, mainly from gain from disposal of subsidiary, as mentioned above. The Group’s consolidated PBZT of RM169.84 million is a marked improvement from a loss position of RM39.24 million in FY2020. Finance Costs Finance costs increase from RM36.78 million in FY2020 to RM47.05 million in FY2021 is mainly due to a loan modification cost of RM9.75 million recorded in September 2021 from additional repayments made to the Group’s term loans of RM114.26 million. These advanced repayments represented a change in the present value of the term loan which resulted in a loan modification cost to be recorded in FY2021. In contrast,
+[MDA_P016]
+Revenue Contribution (RM million)
+[MDA_P021]
+Outlook The Group performed well in the financial year ended 31 December 2021, buoyed by good raw sugar hedging. We expect the level of sugar consumption to improve in FY2022 as travel restrictions ease domestically. While raw sugar supply shortages will result in raw sugar price increase, the Group has managed to hedge a significant portion of its Wholesale requirement in FY2022 at below market price. Overall, the Group expects the new financial year to continue to be challenging. There is still significant uncertainty on the full impact of the ongoing COVID-19 pandemic and trade tensions at this juncture. Nevertheless, the Group will remain focused towards higher yield and capacity utilisation which will result in lower refining and production costs and stronger financial position which will put the Group in a good position for growth, should prospects and business sentiment
+[MDA_P024]
+RM793.06 million as at 31 December 2021 mainly due to repayment of term loan. Total debt consists of unsecured Bankers’ Acceptance loans and Islamic term loans. Banker’s Acceptance is used for the Group’s raw sugar financing and short term in nature, whilst term loan was drawn mainly for the construction of MSM Johor refinery and is therefore longer term. Gearing ratio decreased from 33% as at 31 December 2020 to 26% as at 31 December 2021 due to lower net debt as at year end coupled with the higher total capital driven by higher profit retained in the Group. Net Debt to EBITDA ratio also declined from 6.54 as at 31 December 2020 to 2.14 as at 31 December 2021. This marked improvement is as a result of additional term loan repayments as well as improved EBITDA from the prior year, as mentioned above. Cash Flow
+[MDA_P026]
+RM277 million in FY2020. The higher revenue and net profit did not translate into an overall increase in working capital due to the tighter working capital management. Despite operating in a challenging environment, the Group ended the year with a healthy cash balance of RM194.78 million which is relatively in line with prior year’s balance of RM195.92 million. Additional information can be found in the Cash Flow Statement on pages 282 to 285. Dividend For FY2021, the Group declared a total dividend of 3.0 sen per share amounting to RM21.09 million which is equivalent to 17% of the FY2021 net profit of RM125.35 million.
+[MDA_P030]
+ADDITIONAL INFORMATION

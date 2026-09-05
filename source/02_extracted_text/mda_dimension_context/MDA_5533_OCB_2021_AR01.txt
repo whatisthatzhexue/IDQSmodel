@@ -1,0 +1,66 @@
+document_id: MDA_5533_OCB_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion and Analysis
+[MDA_P004]
+The date and time are stamped on the purchase orders based on approval, automatic reminder on delivery date
+emailed to supplier, and automatic reminder on overdue delivery emailed to supplier. It has increased efficiency,
+saved time and cost and enabled the Procurement Team to focus on other improvements and cost savings projects. All in all, Year 2021 has been a challenging year for the Division and it foresees that these challenges will persist for
+the first half of 2022 especially, in the areas of commodities inflation and supply chain uncertainties. The Division
+will continue to focus on automation and digitization to be cost-efficient going forward. Bedding Products Division
+The Division has invested in the operations of The KING KOIL Flagship Stores (“Flagship Stores”). Currently, it has
+14 Flagship Stores via a licensing agreement with dealers selling only specific models. In 2021, 1 new Flagship
+Store was opened in Pavilion Bukit Jalil, Kuala Lumpur. As at 31 December 2021, the Division had Flagship Stores in the following locations:
+1. Viva Mall, Kuala Lumpur
+2. Jalan Bangsar, Kuala Lumpur
+3. Sunway Pyramid, Kuala Lumpur
+4. Old Klang Road, Kuala Lumpur
+5.
+[MDA_P008]
+The Division will further develop new sales channels via specialty shops catering mainly to tourists market, online
+sales and pay TV channel. The Division has registered significant growth from online and pay TV channels sales. The Division will also further enhance its online sales by adding new merchandise selection for the customers. The Division will strengthen its business foundations based on strategic marketing plans targeting specific market
+segments (premium market, middle market, and Malay consumer market). As for the export market, the Division will continue to develop its export business potential. It is also strengthening
+the latex export business. There are plans to further develop the KING KOIL retail and export business in new
+markets like Thailand, Vietnam, Myanmar and Cambodia. The Division has successfully made inroads into a number
+of these markets. The Division will continue to improve its customer relationship management system in order to enhance its relationship
+with customers and improve its customers’ service experience. The Division has also planned to continue to enhance the design of its popular models to cater for consumers’
+current trend.
+[MDA_P012]
+Trading profit in general will remain thin. The sales contribution is expected to come from the project and hospital segment, sales generated from new product
+lines and through expansion of the present market coverage. The Division will continue to embark on building its
+house brand, AKRON via advertisement in various media platform, both online and offline. LIQUIDITY AND CAPITAL MANAGEMENT
+The Group maintains a healthy level of cash and cash equivalents and banking facilities from financial institutions to
+fund the Group’s short-term and long-term operation requirements. As at 31 December 2021, the Group’s cash and
+cash equivalents amounted to RM49.4 million (31 December 2020: RM56.7 million), a decrease of RM7.3 million,
+mainly attributable to net cash decreased from operating activities, whereas the Group’s total bank borrowings and
+total lease liabilities were RM84.14 million compared to RM40.41 million as at 31 December 2020. The Group’s gearing ratio was 0.19 times as at 31 December 2021 as compared to (0.09) times as at 31 December
+2020. Management
+Discussion and Analysis
+[MDA_P013]
+ANNUAL REPORT 2021
+CAPITAL EXPENDITURE REQUIREMENTS, CAPITAL STRUCTURE AND CAPITAL RESOURCES
+The Group strives to maintain a prudent financial structure to ensure that it has access to adequate capital and
+financing on terms which are favourable to the Group. The Group invested capital expenditure aggregating RM2.1 million in FYE 2021 (FYE 2020: RM8.1 million) to support
+the growth in production capacity. On another development, the Company’s 80% - owned subsidiary, Enigma
+Sinar Sdn. Bhd. had on 17 August 2020 acquired a piece of vacant freehold industrial land measuring 149,410
+square meters identified as No. PT 84453 held under H.S.(D) 165116, Mukim Kapar, Daerah Klang, Negeri Selangor
+(“Land”) at a cash consideration of RM56,286,745.55 (“Acquisition”) for the purpose of developing logistics facilities
+and/or factories thereon for warehousing/distribution/manufacturing activities. The Acquisition was completed on
+2 December 2021, and it was made in line with the Group’s strategy to expand its core businesses into property
+development which is expected to contribute positively to the Group moving forward.
+[MDA_P014]
+As at 31 December 2021, the Group’s capital commitments contracted but not provided for was Nil (31 December
+2020: RM50.6 million). BUSINESS OUTLOOK for year 2022
+The Malaysian economy is set for a gradual recovery with real gross domestic product projected to accelerate
+between 5.5% and 6.5% in Year 2022, thanks to the impressive Covid-19 vaccine roll-out and swift implementation
+of economic policy support measures. Nevertheless, the recovery would remain uneven. There are physical risks to the outlook for 2022. These arise from
+a weaker than expected global growth, worsening supply chain disruptions, and the emergence of vaccine-resistant
+Covid-19 variants. The recent emergence of the Omicron variant, while posing a less potent threat, could delay
+recovery but not completely derail it. According to the Malaysian Institute of Economic Research (“MIER”), the outlook for the local retail market remains
+uncertain, while consumers are bracing for smaller, or zero income growth at the onset of Year 2022. The first quarter
+of Year 2022 has showed the economy to be below its potential.

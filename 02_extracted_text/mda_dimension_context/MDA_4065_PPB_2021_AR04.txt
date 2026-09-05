@@ -1,0 +1,75 @@
+document_id: MDA_4065_PPB_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 33, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P005]
+Flour Milling
+Animal Feed Milling
+Navigating the Pandemic
+FFM Group’s increased revenue for 2021 was due to the higher
+selling prices and sales volume in both Indonesia and Vietnam. The
+rise in raw materials cost contributed to the increase in selling price
+of flour; a portion of the cost increase being passed to customers. The increase in wheat prices and freight charges has intensified
+market competition, and the price volatility had driven up the
+cost of products. However, we leveraged on our Group’s extensive
+experience in grains procurement, supply chain management and
+technical competency to mitigate the adverse impact of the wheat
+price volatility and supply chain disruption. FFM’s flour milling capacity has increased with the completion of
+its new 500 MT/day wheat flour mill constructed by 51%-owned
+VFM-Wilmar Flour Mills Co Ltd at its existing factory in Quang
+Ninh Province, in northern Vietnam at an estimated cost of
+USD20 million. Looking ahead, the domestic market growth looks more positive
+after the opening of all economic sectors.
+[MDA_P006]
+However, we expect
+the ongoing Russia-Ukraine conflict to add more uncertainty and
+volatility to the commodity market and cause greater disruption
+to the global supply chain. This will continue to be a challenging
+year. Notwithstanding the volatility of raw material prices and other
+rising costs, we do not pass all cost increases to customers. The Animal Feed Milling’s business environment is uncertain due to market segment contraction as many high-volume customers switched
+to home mixing or toll milling to cut costs. Previously, independent farmers had also abandoned the traditional farming model and opted
+for an integrated farming scheme, which has an impact on independent feed millers.
+[MDA_P008]
+To mitigate these adverse effects, the Flour Milling Division had rolled out several strategies such as focusing on the speed of market
+access and upholding our service standards to stay competitive. In the Animal Feed Milling Division, we will continue the cost reduction
+initiatives and support long-standing customers. The Livestock Farming Division looks to improve sales by widening the customer base
+and earlier depopulation of non-profitable flocks. Livestock Farming
+The COVID-19 pandemic affected the Livestock Farming Division,
+due to lower consumer spending, leading to increasing unsold day-
+old-chicks (“DOC”). There was also the risk of a shrinking DOC
+market caused by independent farmers facing losses and halting or
+reducing their DOC intake. Additionally, an increased risk of disease
+outbreaks in poultry farms also affected this Division. The Division implemented several measures to deal with industry
+challenges, such as improving the quality of DOC and eggs,
+implementing more competitive pricing and improving infectious
+disease surveillance and preventive vaccination programmes. Production was also adjusted according to market demand to
+optimise cost.
+[MDA_P011]
+The supply chain disruptions and rising raw material prices have
+driven up distribution costs and put pressure on margins. The
+currency volatility and higher wages also contributed to margin
+compression in this segment. FMSB will continue to strengthen the positioning of its brands
+and launch new products to sustain its long-term growth whilst
+actively pursuing new agencies to grow revenue. This segment will
+continue to work with its business partners to develop products for
+the foodservice sector. The consumer goods sector expects the business environment to
+remain challenging amidst the ongoing pandemic. However, we are
+able to leverage on our strong distribution network, established
+brands and varied in-house products to provide a solid base for
+long term business sustainability. TIB generated slightly higher revenue than the previous year. Although the bread market for FY2021 was relatively stable, the
+entry of prominent new players introduced keen competition in the
+industrial baking scene.
+[MDA_P012]
+The year 2021 saw the introduction of several new products and
+services such as the Massimo Tamper-Evident bread bag packaging,
+Peanut Butter roll, Seeded Multigrain with Barley loaf, Burrosa
+Butter, Burrosa Red Velvet and Burrosa Tiramisu. With new players in the market, we will have to increase our
+efficiency, control our costs, introduce more unique products, and
+aggressively expand distribution points and availability to maintain
+and grow our market share. In 2021, FFM Further Processing Sdn Bhd (“FFP”) started a partnership to produce food items under their in-house brands. This initiative
+aims to optimise capacity utilisation of the factory, reduce operational expenditures per unit and increase resource utilisation efficiency. As
+a result, a 23% higher volume was achieved over 2020. Volatile raw materials cost and rising transportation cost resulted in sharp increases of product costs with limited room to price-in the cost
+increase to customers. This Division also encountered labour shortages due to the challenges in recruitment and restrictions on hiring of
+foreign workers. We have broadened the supply base to acquire raw materials at more competitive prices.

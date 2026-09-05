@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit extends loss as robust US jobs data holds greenback near two-year high
+
+[METADATA]
+ticker: CIHLDG
+company_name: CIHB
+publish_date: 2025-01-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/03/ringgit-extends-loss-as-robust-us-jobs-data-holds-greenback-near-two-year-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit extended its loss to close lower against the US dollar on Friday as robust US jobs data held the greenback at a near two-year high. At 6 pm, the ringgit slid to 4.4975/5030 against the American dollar from Thursday’s close of 4.4760/4810. The US weekly jobless claims last week dropped 9,000 to 211,000 - an eight-month low - as the American labour market showed resilience. UOB Kay Hian Wealth Advisors head of investment research Mohd Sedek Jantan told Bernama that strong US jobs data has heightened expectations that the US Federal Open Market Committee (FOMC) will maintain interest rates during its upcoming Jan 28-29 meeting.
+
+[NEWS_P002] Besides, he said concerns over tariffs and policy directions under the incoming Trump administration have unsettled markets, pushing US Treasury yields nearly 100 basis points higher from their September lows. SPI Asset Management managing partner Stephen Innes noted that the US dollar has kicked off the month strongly, driven largely by trade tariff concerns. "Donald Trump is expected to use his executive powers to impose tariffs independently of Congress, with immediate measures anticipated against China, Mexico, Canada, and possibly Vietnam right from day one.
+
+[NEWS_P003] This action is likely to impact not just the targeted countries but also other regional players like Malaysia, whose currency may come under further strain,” he told Bernama. Therefore, he said local exporters might hold off on selling US dollars, anticipating higher returns as institutional demand for the greenback strengthens ahead of Trump’s inauguration as US president. The ringgit closed mostly higher against other major currencies. It slipped versus the Japanese yen to 2.8606/8643 from Thursday’s close of 2.8546/8580 but rose against the British pound to 5.5800/5869 from 5.5869/5932 previously and strengthened vis-a-vis the euro to 4.6288/6345 from 4.6336/6387.
+
+[NEWS_P004] The local note traded mixed against ASEAN currencies. It dipped against the Thai baht to 13.0540/0753 from 13.0530/0744 at the previous close and was lower vis-a-vis the Indonesian rupiah at 277.6/278.1 compared with 276.2/276.7 previously. The ringgit was strengthened versus the Singapore dollar to 3.2828/2871 from 3.2859/2898 and remained flat versus the Philippine peso at 7.73/7.74 from 7.73/7.75 on Thursday. - Bernama

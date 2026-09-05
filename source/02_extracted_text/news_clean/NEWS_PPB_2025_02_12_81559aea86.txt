@@ -1,0 +1,24 @@
+[TITLE]
+Wilmar’s latest acquisition to bolster earnings
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-02-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/12/wilmars-latest-acquisition-to-bolster-earnings
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: The earnings for Singapore-listed Wilmar International Ltd in the fourth quarter of 2024 (4Q24) may come in below expectations, analysts say. UOB Kay Hian Research (UOBKH Research) said the agribusiness group, which is slated to release its 4Q24 financial results on Feb 20, is expected to report core net profit ranging from US$330mil to US$340mil. This would be below the US$424mil reported for 4Q23. “This would bring full-year core net profit to about US$1.14bil to US$1.15bil, which is 3% to 4% lower than our forecast and 9% to10% lower than consensus expectations.
+
+[NEWS_P002] “Higher crude palm oil (CPO) prices and improved processing margins are positives, while China operations are likely to see greater sales volumes but still thin margins. Meanwhile, the sugar division’s earnings are expected to weaken on harvest delays from bad weather,” the research house said. PPB Group Bhd is a major shareholder in Wilmar International, with an 18.1% stake. Looking ahead, UOBKH Research said India-based fast moving consumer goods company Adani Wilmar Ltd (AWL) is expected to become a subsidiary from by the end of this year as the conditions for the acquisition had been fulfilled.
+
+[NEWS_P003] Last December, Wilmar International announced it had reached an agreement to purchase up to 31.06% of AWL from Adani Commodities LLP (ACL), which held 43.94% of the company. The transaction was contingent upon ACL selling at least 12.88% of its stake to the public through a two-day sale, which took place on Jan 10, 2025 for institutional investors and Jan 13, 2025 for retail investors. This was required to meet Indian securities regulations, which mandate that 25% of a company’s shares must be publicly held within three years of its listing.
+
+[NEWS_P004] Since AWL went public in 2022, the company has to meet this requirement by Feb 8. ACL offered up to 13.5% for sale, with an option to sell an additional 6.5%, the research house said. On the relevant dates, ACL successfully sold 13.51%, meeting both the regulatory requirements and the conditions for the Wilmar agreement. As a result, Wilmar may acquire 30.43% of AWL, totalling 395,550,338 shares, at a maximum price of 305 rupees or about US$3.48 per share.
+
+[NEWS_P005] This brings the total consideration to around US$1.4bil. This will be exercised 12 months from the agreement date. Wilmar’s stake in AWL will rise to 74.37%, making it a wholly owned subsidiary. The acquisition is expected to significantly enhance Wilmar’s profitability next year. The research firm said Wilmar is on the lookout for strategic investors in AWL, who may provide new distribution channels, capabilities or complementary businesses to help access new markets or solidify AWL’s position in the Indian market.
+
+[NEWS_P006] According to the research house , Wilmar International’s frequent share buybacks to date reflect management’s confidence in the company’s outlook. In 4Q24, Wilmar International’s chairman and chief executive Kuok Khoon Hong bought back 8.8 million shares at between S$2.99 and S$3.10 per share. Historically, he has bought back shares at around S$3. “We maintain a ‘hold’ call with a higher target price of S$3.18 from S$3 previously after we increase our price-earnings peg for its food ingredients from 16 times to 17 times as China consumer sentiment is expected to rise modestly this year,” the research house said, adding that the fair value of S$3.18 translates to a blended 2025 PE of 9.8 times.
+
+[NEWS_P007] UOBKH Research said the share price could see some pressure from the upcoming 4Q24 results, but it deems this as an opportunity to accumulate.

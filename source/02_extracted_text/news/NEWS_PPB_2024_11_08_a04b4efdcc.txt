@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit closes stronger against US dollar on market optimism
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-11-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/08/ringgit-closes-stronger-against-us-dollar-on-market-optimism
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit closed stronger against the US dollar today, driven by broad market optimism. At 6 pm, the local note rose to 4.3800/3850 versus the greenback from Thursday’s close of 4.4020/4065. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the US Federal Reserve’s (Fed) decision to cut the Fed Funds Rate (FFR) by 25 basis points played a crucial role in fostering confidence that the Fed is committed to easing its monetary policy.
+
+[NEWS_P002] He said this could narrow the gap between the FFR and Malaysia's Overnight Policy Rate (OPR). "Such a notion was reinforced by the Bank Negara Malaysia’s Monetary Policy Committee decision yesterday to keep the OPR steady at 3.00 per cent and reiterated their assessment of the impact from key policy changes that could result in higher inflation in 2025,” he told Bernama. Mohd Afzanizam also pointed out that such optimism has boosted the ringgit, enabling it to trade higher against some major currencies.
+
+[NEWS_P003] At the close, the ringgit had mostly strengthened against a basket of major currencies. It inched up against the British pound to 5.6765/6830 from Thursday’s close of 5.6821/6879, and improved marginally against the euro to 4.7212/7266 from 4.7317/7365. However, it inched down against the Japanese yen to 2.8763/8798, from 2.8597/8629 yesterday. The local note traded mixed against ASEAN currencies. It improved against the Singapore dollar to 3.3149/3190, from 3.3178/3216 at yesterday’s close, and remained almost flat against the Indonesian rupiah at 279.4/279.9, compared to 279.6/280.0 previously.
+
+[NEWS_P004] However, the ringgit traded lower against the Philippine peso, at 7.51/7.53, from 7.49/7.51, and weakened against the Thai baht to 12.8710/8925, compared with 12.8290/8492 yesterday. - Bernama

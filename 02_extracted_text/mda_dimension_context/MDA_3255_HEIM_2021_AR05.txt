@@ -1,0 +1,111 @@
+document_id: MDA_3255_HEIM_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 73, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 303.592, "paragraph_count": 73, "paragraph_length_distribution": {"max": 2040, "mean": 946.096, "min": 133}, "repetition_ratio": 0.150685, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Navigating
+through the
+storm
+We kept an all hands on
+deck approach by keeping
+the team connected
+and motivated through
+regular communications
+and updates, despite the
+many uncertainties in the
+external environment.
+Building on our experience
+in the previous year, our
+team had adapted to the
+new normal and leveraged
+agile ways of working to
+unlock greater efficiency
+and productivity.
+[MDA_P019]
+We also adhere strictly to the
+HEINEKEN Responsible Marketing Code to ensure that all
+promotional activities are respectful of cultural sensitivities. Illicit Alcohol
+We fully support the Government’s efforts in eradicating
+illicit alcohol, which represents a loss of revenue to
+both Government and Industry. We continue to work
+proactively to raise awareness about the dangers of illicit
+alcohol through engagements with relevant enforcement
+authorities, our trade partners and consumers. Safety & Security
+We continue to increase awareness and practice of the
+HEINEKEN Life Saving Rules amongst our people. 100%
+of our employees and contractors are fully vaccinated
+against COVID-19, and we continue to conduct bi-weekly
+screening tests to minimise risk of workplace transmissions
+and clusters. We also continue practicing strict health and
+safety SOPs that ensure we create a safe workplace. OUR OUTLOOK
+We observed encouraging business
+recovery in the last quarter of 2021 when
+most states moved to Phase 4 of the
+National Recovery Plan and local tourism
+and food & beverage sectors started
+reopening.
+[MDA_P037]
+Edelweiss is brewed with all-natural ingredients and a unique
+blend of mountain herbs, it is easy to drink with a refreshing
+finish and a subtle, fruity aftertaste. It is a smooth wheat beer
+with a distinctive golden cloudiness.
+[MDA_P055]
+Our key projects include:
+• Rehabilitation and conservation
+of Sungai Way, a river that flows
+adjacent to our brewery in Petaling
+Jaya
+• Construction and maintenance of a
+305-metre clay dyke at the Raja Musa
+Forest Reserve
+• Installation and maintenance of
+rainwater harvesting systems for
+communities in Selangor
+• Reforestation of degraded peatland
+at the Raja Musa Forest Reserve
+HEINEKEN Malaysia Target:
+Target Water Balancing 2020 (1.5 x water used in our products)
+Balance Volume (m3) = Water Intake (m3) – Treated Effluent (m3)
+Balancing amount to be more than water used in our products
+1 litres of water per litre produced plus unavoidable losses from evaporation and moisture included in by products like spent
+grains (~0.5 litre per litre)
+Watershed
+supplies water
+to communities
+and industries
+Long term
+watershed
+health
+protection
+100% of wastewater treated
+beyond standards of DoE
+Water that goes to our
+products is replenished
+through water balancing
+programme. 1.5 litres of water is
+replenished for every 1 litre
+used in our products. Water
+consumption
+for production
+activities
+[MDA_P073]
+Sustainability & CSR
+Malaysia Awards 2021
+For the fourth time since 2017,
+HEINEKEN Malaysia was recognised for
+its excellence in social and environmental
+sustainability, winning the Company of
+the Year award in the Manufacturing
+& Beverage Category in recognition
+of efforts towards supporting micro-
+businesses and enterprises during
+the pandemic as well as our water
+stewardship initiatives that enabled us
+to reach reach more than 100% water
+balanced, 10 years ahead of our 2030
+commitment.

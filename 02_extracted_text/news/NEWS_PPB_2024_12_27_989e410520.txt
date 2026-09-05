@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI rises 0.9%, led by TNB in year-end window dressing
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-12-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/27/fbm-klci-rises-09-led-by-tnb-in-year-end-window-dressing
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed 0.9% higher, with select blue chips boosted by window dressing ahead of the year-end. The 30-stock index jumped 14.44 points, or 0.89%, to 1,628.14, its highest level since early November 2024. It reached an intraday high of 1,632.63. The index gained for the fourth consecutive session and rose 2.31% this week. There were 617 gainers against 420 decliners while 540 counters were unchanged. About 2.9 billion shares valued at RM2.1bil, changed hands.
+
+[NEWS_P002] Tenaga Nasional closed up 56 sen, or 3.95% to RM14.74 after hitting an intraday high of RM15.04. The counter single-handedly contributed 4.6759 points to the index. CIMB Group added 11 sen to RM8.15, contributing 1.6952 points to the index, while PETRONAS Chemicals rose 12 sen to RM5.01, nudging the index 1.3789 points higher. Laggards among the KLCI component stocks include Nestle, PETRONAS Dagangan, PPB Group and Maybank. On the broader market, United Plantations jumped 74 sen to RM31.34 and Heineken added 28 sen to RM23.90 while Hong Leong Industries slid 28 sen to RM14.16 and Riverview Rubber Estates declined 14 sen to RM3.06.
+
+[NEWS_P003] Meanwhile, data from Bursa Malaysia showed that foreign investors and local retailers were net sellers, offloading equities worth RM25mil and RM87mil, respectively, on Thursday. Local institutions were net buyers, with a purchase value of RM83mil. On the forex market, the ringgit weakened by 0.2% against the US dollar, settling at 4.4780. It also declined 0.17% against the Singapore dollar, reaching 3.2946. Around the region, MSCI's broadest index of Asia-Pacific shares ex-Japan was down 0.08%.
+
+[NEWS_P004] Japan’s Nikkei 225 rose 1.8% to 40,281.16 while South Korea’s Kospi ended down 1.02% to 2,404.77. Hong Kong’s Hang Seng index was down 0.04% at 20,090.46. China's markets diverged, with the Shanghai Composite index closing 0.06% higher at 3,400.14 points, while the blue-chip CSI300 index ended 0.16% lower at 3,981.03.

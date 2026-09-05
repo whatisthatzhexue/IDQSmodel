@@ -1,0 +1,18 @@
+[TITLE]
+Hap Seng Plantations to benefit from higher FFB
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2025-11-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/14/hap-seng-plantations-to-benefit-from-higher-ffb
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Hap Seng Plantations Holdings Bhd is expected to post a stronger sequential net profit in the third quarter of its financial year 2025 (3Q25), driven by higher fresh fruit bunches (FFB) output and firmer crude palm oil (CPO) prices. The Sabah-based plantation group is scheduled to release its 3Q25 results on Nov 19. CIMB Research said in 3Q25, the group’s FFB output rose 4% quarter-on-quarter (q-o-q) to 150,394 tonnes owing to seasonal factors.
+
+[NEWS_P002] Earnings are also expected to benefit from stronger palm product prices. It noted that the average Malaysian Palm Oil Board CPO price for Sabah rose 5.8% q-o-q to RM4,247 per tonne, while the average palm kernel price increased 4.6% q-o-q to RM3,291 per tonne. “We project Hap Seng Plantations to report a core net profit of around RM38mil to 41mil for 3Q25, compared with RM30mil in 2Q25 and RM44mil in 3Q24,” the research house said in a note to clients.
+
+[NEWS_P003] However, it said FFB output in 3Q25 was 15% lower year-on-year, likely owing to ongoing replanting activities, tree stress and heavier-than-usual rainfall. The research house also expects a smaller fair value (FV) loss on biological assets in 3Q25, supported by a 15.6% month-on-month rise in FFB output in October. To recap, the group recorded FV loss on biological assets of RM10.4mil in 2Q25, bringing cumulative first half of financial year 2025 FV losses to RM27.1mil.
+
+[NEWS_P004] To reflect its recent CPO price upgrades to RM4,330 for 2025 and RM4,200 for 2026, CIMB Research has raised Hap Seng Plantations’ FY25 to FY27 earnings forecasts by 6% to 16%.

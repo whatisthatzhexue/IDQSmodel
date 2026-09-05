@@ -1,0 +1,26 @@
+[TITLE]
+Bursa Malaysia ends firmer as Fed rate cut expectations buoy sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/10/bursa-malaysia-ends-firmer-as-fed-rate-cut-expectations-buoy-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended trading on a positive note today, marking its third consecutive day of gains in line with other major Asian bourses. The regional markets closed higher on optimism that signs of softness in the United States labour market could prompt the US Federal Reserve to deliver at least a quarter-point rate cut next week. At 5 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) gained 3.94 points to 1,590.75 from Tuesday’s close of 1,586.81.
+
+[NEWS_P002] The index had opened 1.23 points firmer at 1,588.04 and moved between 1,585.21 and 1,590.80 throughout today’s trading session. In the broader market, gainers beat decliners 518 to 487, while 506 counters were unchanged, with 1,082 untraded and eight suspended. Turnover, however, trimmed to 2.66 billion units worth RM2.29 billion from 3.01 billion units worth RM2.61 billion yesterday. Rakuten Trade Sdn Bhd vice-president of equity research Thong Pak Leng said the benchmark index has managed to hold above key support levels and continues to display resilience after the August rally.
+
+[NEWS_P003] "This shows that buying interest is still present even though the pace has slowed slightly. The key breakout level to monitor is the 1,600 resistance whereby a decisive close above this level with stronger volume would validate fresh upside momentum and open the path towards the 1,620-1,650 zone,” he told Bernama. He anticipates the FBM KLCI to trend within the range of 1,570-1,600 for the rest of the week. Elsewhere, at the time of writing, Hong Kong’s Hang Seng rose 1.01 per cent to 26,200.26, Singapore Strait Times Index advanced 1.23 per cent to 4,350.62, South Korea’s Kospi added 1.67 per cent to 3,314.53 and Japan’s Nikkei 225 perked up by 0.87 per cent to 43,837.67.
+
+[NEWS_P004] Among the heavyweights, Maybank was down seven sen to RM9.97, Public Bank increased one sen to RM4.30, CIMB gained five sen to RM7.21, Tenaga Nasional was eight sen higher to RM13.18, IHH Healthcare was 16 sen better at RM7.10 and Press Metal was up nine sen to RM5.62. For active stocks, VS Industry erased 10 sen to 54 sen, Classita added one sen to 9.5 sen, Pharmaniaga perked up half-a-sen to 22 sen, Zetrix AI increased one sen to 86.5 sen, Tanco was 1.5 sen better at 80 sen and 99 Speedmart was down three sen to RM2.49.
+
+[NEWS_P005] Top gainers for the day were led by Riverview, earning 20 sen to RM3.00, LPI Capital was 18 sen higher at RM14.46 and Ranhill Utilities improved 13 sen to RM1.90. Nestle and Malaysian Pacific Industries were the top losers, dropping 60 sen and 30 sen to RM95.50 and RM27.70 respectively. On the index board, the FBM Emas Index rose 13.61 points to 11,786.45, the FBMT 100 Index added 13.98 points to 11,551.46, and the FBM Emas Shariah Index improved 23.86 points to 11,769.92.
+
+[NEWS_P006] The FBM 70 Index fell 45.03 points to 16,423.33, while the FBM ACE Index earned 7.26 points to 4,728.10. By sector, the Financial Services Index lost 35.17 points to 18,092.15, the Industrial Products and Services Index edged down 1.15 points to 164.08, the Plantation Index edged up 13.35 points to 7,682.13, while the Energy Index slipped 0.33 of a point to 740.06. The Main Market volume slipped to 1.46 billion units valued at RM2.04 billion from 1.49 billion units valued at RM2.29 billion on Tuesday.
+
+[NEWS_P007] Warrant turnover declined to 945.49 million units worth RM151.63 million from 1.20 billion units worth RM1.99 billion previously. The ACE Market volume dropped to 257.12 million worth RM102.18 million from 317.83 million worth RM123.19 million. Consumer products and services counters accounted for 288.93 million shares traded on the Main Market, industrial products and services (331.55 million), construction (109.01 million), technology (141.3 million), financial services (78.47 million), property (137.03 million), plantation (29.61 million), REITs (25.82 million), closed/fund (24,400), energy (93.46 million), healthcare (102.61 million), telecommunications and media (60.17 million), transportation and logistics (21.49 million), utilities (35.94 million), and business trusts (59,800).
+
+[NEWS_P008] - Bernama

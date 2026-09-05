@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI sees early gains erased on profit-taking
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-12-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/05/fbm-klci-sees-early-gains-erased-on-profit-taking
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysian stock investors endured a volatile morning session with the FBM KLCI starting on a high note, but ending slightly in the red by the lunch break. As trading was halted at midday, the benchmark index was down 0.68 points to 1,613.41 after moving within a seven-point band of 1,610.77 to 1,617.78. The number of losers on the market weighed slightly more heavily against the gainers with 486 stocks in the red compared to 453 bought higher.
+
+[NEWS_P002] The share turnover was 2.14 billion changing hands for RM1.37bil. Asian markets were mostly higher on Thursday on the back of a strong showing in US equities overnight on bets the Federal Reserve will make one more rate cut for the year at their policy meeting this month. Japan's Nikkei rose 0.25% to 39,373 and China's composite index gained 0.16% to 3,370. Hong Kong's Hang Seng slipped 1% to 19,657 while Singapore's Straits Times climbed 1.1% to 3,841.
+
+[NEWS_P003] On Bursa Malaysia's blue-chip index, Genting fell five sen to RM3.57 while Genting Malaysia dropped two sen to RM2.10 ahead of their expected exclusion from the KLCI following the review. Nestle fell 68 sen to RM97.50 and SD Guthrie slipped two sen to RM2.33. Of actives, fertiliser manufacturer Cropmate erased most of its gains after a strong opening on the ACE Market, ending the early session just one sen higher at 21 sen. The counter led investor interest with 184.5 million shares changing hands.
+
+[NEWS_P004] Supermax, meanwhile, rose 10 sen to 98.5 sen with 54.53 million shares done and JCY gained three sen to 51.5 sen after 44.45 million shares crossed.

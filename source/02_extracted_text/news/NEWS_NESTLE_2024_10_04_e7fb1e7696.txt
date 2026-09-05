@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia lower in early trade, tracking weak Wall Street
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/04/bursa-malaysia-lower-in-early-trade-tracking-weak-wall-street
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia turned lower in early trade today, mirroring the weak performance of Wall Street overnight. The FBM KLCI declined 2.82 points, or 0.17% to 1,638.73 at 9.15 am. The benchmark index opened 3.06 points lower at 1,638.49. Overnight, the Dow Jones Industrial Average fell 0.44% to 42,011.59, the S&P 500 lost 0.17% to 5,699.96 and the Nasdaq Composite eased 0.04% to 17,918.48. Among the gainers, Hengyuan Refining rose 24 sen to RM2.59, Harrisons added 21 sen to RM8.55, Hong Leong Financial Group gained 18 sen to RM19.24 and PETRONAS Dagangan added 16 sen to RM18.10.
+
+[NEWS_P002] Conversely, Nestle rose 50 sen to RM104.90, Pertama Digital lost 33.5 sen to 78.5 sen, Carlsberg fell 16 sen to RM19.50 and Heineken declined 18 sen to RM23.24. OCR Group, the most active counter on Bursa Malaysia, slid 22.22%, or one sen to 3.5 sen with 39.27 million shares traded. SC Estate Builder jumped 50%, or 0.5 sen to 1.5 sen with 24.14 million shares done. Inter-Pacific Research said there is no change to the immediate market outlook that will remain affected by the heightened political climate in the Middle East.
+
+[NEWS_P003] The research house said the fluidity of the issue is likely to keep most market players on the sidelines as they await for the situation to ease. In the interim, the selling pressure will likely dominate trades and cause the key index to drift again. Global equity markets also remain unsettled and will still dictate the key index’s performance for now. “Consequently, the 1,640 level would be under threat again and profit-taking could still come to the fore.
+
+[NEWS_P004] If the above level is broken, the supports will be lowered to 1,638 and 1,630 points respectively. “The resistances, meanwhile, are at 1,641-1,643 points, followed by the 1,650 level,” Inter-Pacific said. Apex Research expects the local stock market will remain in a sideways trend following the release of slightly increased jobless claims. Investors are awaiting tonight’s US unemployment data, which will offer additional insights into the US economic outlook.
+
+[NEWS_P005] “Likewise, the lower liners may follow a similar pattern in tandem with the tepid sentiment from the major index. Meanwhile, the lingering negative outlook from Middle East tensions continues to pose downside risks to the market. “Sector-wise, we anticipate the energy sector to outperform others as funds continue rotating into this sector, supported by rising oil prices amid supply concerns driven by the Middle East conflict,” Apex said.

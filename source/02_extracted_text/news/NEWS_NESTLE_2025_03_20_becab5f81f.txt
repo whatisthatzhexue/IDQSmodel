@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI slips into the red as China weighs on region
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/20/fbm-klci-slips-into-the-red-as-china-weighs-on-region
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's stock market headed for another day of losses after a brief rebound at the start of the Thursday the session as Chinese stocks weighed on the regional sentiment. Bursa Malaysia's blue-chip index was down 5.35 points to 1,512.31 despite a strong Wall Street rally overnight. China's lacklustre stock performance was seen as the culprit behind the regional weakness as investors took profit following a sharp rally earlier in the month.
+
+[NEWS_P002] Shanghai's composite index dropped 0.07% to 3,426 while Hong Kong's Hang Seng dove 1.18% to 24,477. Japan's Nikkei was down 0.25% to 27,751. Singapore's Straits Times index bucked the trend, rising 0.56% to 3,930. Despite the FBM KLCI's weak performance, there were more advancing issues on Bursa Malaysia than declining, with a ratio of 1.17-to-1. Volume on the market was 1.92 billion shares for a traded value of RM1.13bil. Among the leading laggards, Nestle dropped RM1.46 to RM62.10, IHH shed 33 sen to RM6.77 and Maybank slid 12 sen to RM10.24.
+
+[NEWS_P003] Notable gainers on the market, however, were LPI Capital jumping 48 sen to RM13.80, Dayang rising 14 sen to RM1.92 and PIE Industrial gaining 13 sen to RM4.06.

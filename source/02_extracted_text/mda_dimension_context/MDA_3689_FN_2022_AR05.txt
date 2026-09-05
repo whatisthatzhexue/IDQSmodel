@@ -1,0 +1,189 @@
+document_id: MDA_3689_FN_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 83, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 223.836, "paragraph_count": 83, "paragraph_length_distribution": {"max": 1661, "mean": 839.831, "min": 48}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Strategic Review
+Market Review
+OUR OPERATING LANDSCAPE
+The year 2022 has been marked by two key
+and opposing factors. Positively, it has seen the
+gradual unravelling of movement and social
+restrictions imposed to contain COVID-19. Yet, rather than herald a significant economic
+recovery, global GDP growth is expected to
+decelerate to about 3.2 per cent after hitting
+a high of 6.1 per cent in 2021. The International
+Monetary Fund (IMF) was prompted to
+downgrade its GDP forecast in July 2022
+because of the Russia-Ukraine war, intermittent
+COVID-19 outbreaks, and a continued slowdown
+in manufacturing and logistics. Starting from a lower base of 3.1 per cent
+growth in 20211 , Malaysia’s GDP is expected
+to expand by 6.4 per cent according to the
+World Bank, supported by domestic demand
+underpinned by enhanced labour market
+conditions2. Growth in Thailand, meanwhile, is
+anticipated at between 2.7 per cent and 3.2 per
+cent3, slightly higher than initially predicted as
+the tourism industry is beginning to pick up. This is from a base of 1.5 per cent growth in
+2021.
+[MDA_P021]
+• Proactive stakeholder engagements including shareholders
+& investors, customers, suppliers, regulators, communities,
+and employees. • Full commitment from our Board of Directors in
+implementing our strategic initiatives as well as
+sustainability priorities. • Policies and procedures are established, supported by
+dedicated resources to implement the framework, and
+uphold the various compliance standards, including Halal
+Governance and Assurance Framework. • Stringent compliance with various compliance standards
+along our entire value chain, from sourcing of raw materials
+to delivery of products. • Close monitoring of news published in the media and
+response procedures are in place to address circumstances
+should it occur. Fraud and Corruption Risks
+The Group could be exposed
+to governance and ethics-
+related risks such as fraud and
+corruption practices involving
+employees and/or external
+stakeholders which eventually
+may result in financial losses
+and reputational repercussions. • Top-level commitments from the Board and Senior
+Management on zero-tolerance towards unethical practices.
+[MDA_P042]
+Management Discussion & Analysis
+Business Performance Review
+Key Initiatives
+Achievements
+STRATEGIC OBJECTIVE 2: ACHIEVE COST EFFICIENCIES & REDUCE CARBON FOOTPRINT
+Logistics
+efficiencies
+• Started operations at RM52 million integrated RDC in Rojana, equipped with an
+Automated Storage and Retrieval System (ASRS), in January 2022. Energy
+efficiencies
+• The solar PV system in Rojana continues to provide savings from the generation
+of clean energy. This was particularly significant in FY2022, when the cost of
+electricity increased significantly. STRATEGIC OBJECTIVE 3: BUILD STRATEGIC RELATIONSHIPS
+Dairy
+Farmers
+• Under this programme, the team has been collaborating with local Thailand-based
+farmers in cooperatives since 2013 to help farmers increase productivity, lower
+cost, improve milk quality, and reduce waste. Hawkers
+• Despite a decline in total number of hawkers during the pandemic, F&B Thailand
+grew back its network of hawkers from 40,000 to 53,000 by being a true
+partner even in challenging times, as the No.1 most visible brand among hawkers
+in Thailand.
+[MDA_P063]
+Management Discussion & Analysis
+A key event for Malaysia’s No. 1 isotonic drink was World
+Hydration Day (Hari Hidrasi Sedunia 100PLUS), a first for
+the country in which Malaysians were reminded of the
+importance of being active and staying hydrated. 100PLUS
+organised a four-day fun-filled carnival held at the Pavilion
+Kuala Lumpur involving brand ambassadors such as Datuk
+Wira Dr. Lee Chong Wei, and celebrities such as Syafiq
+Kyle. The isotonic drink was also distributed to the public
+at LRT stations in the city and at Stadium Sultan Ibrahim,
+Iskandar Johor. In total, over 100,000 Malaysians were kept
+hydrated with 100PLUS during the event. 100PLUS was also distributed at various events organised
+during the holy month of Ramadan, to ensure Muslims
+kept optimally hydrated by including the isotonic drink in
+their iftar as well as sahur. 100PLUS partnered Persatuan
+Seniman Malaysia to distribute 100PLUS at more than
+20 mosques across Klang Valley. It also collaborated
+with media partner, Media Prima OMNiA, to spread the
+100PLUS message through segment sponsorships on
+entertainment news show Melodi TV.
+[MDA_P083]
+Investor Relations
+as at 15 November 2022
+Share Capital
+No. of
+Shareholders
+Total No. of
+Issued Shares
+RM816.8
+million
+7,732
+366,778,501
+Substantial
+Shareholders
+76.235%
+Fraser and
+Neave, Limited
+55.475%
+Employees
+Provident Fund
+Board
+13.242%
+Amanahraya
+Trustees Berhad
+- Amanah Saham
+Bumiputera
+7.518%
+OUR INVESTOR PORTAL
+We communicate with our shareholders and
+general public via our corporate website,
+www.fn.com.my/investors/. This website is also
+a platform where we share our annual reports,
+financial results, financial briefing presentation
+decks, press releases and disclosures to Bursa
+Malaysia.
+OUR INVESTOR CALENDAR
+17 January
+60th Annual General
+Meeting
+28 April
+Half Year Results Briefing
+9 November
+Full Year Results Briefing
+* Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements
+upon shareholders’ approval.
+SHAREHOLDER RETURN (FY2013 - FY2022)
+F&NHB share price (RM)
+Dividend per share (sen)
+Special dividend
+Interim dividend
+Final dividend
+F&NHB share price
+FY
+FY
+FY
+FY
+FY
+FY
+FY
+FY
+FY
+FY
+22.0
+22.0
+27.0
+27.0
+27.0
+27.0
+27.0
+27.0
+27.0
+33.0
+35.5
+30.5
+30.5
+33.0
+30.5
+33.0
+33.0
+33.0*
+10.0
+20.0
+30.0
+Fraser
+& Neave
+Holdings
+Bhd
+Annual
+Report

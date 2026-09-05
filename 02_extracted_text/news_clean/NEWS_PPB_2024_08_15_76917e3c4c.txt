@@ -1,0 +1,24 @@
+[TITLE]
+Softer earnings likely for PPB Group in 1H24
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-08-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/15/softer-earnings-likely-for-ppb-group-in-1h24
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: PPB Group Bhd is likely to report softer earnings for the first half of this year (1H24) in line with the disappointing results from its 19%-owned associate, Wilmar International Ltd. Wilmar’s results came in below expectations, reporting a core net profit of US$606.3mil, up 5% year-on-year (y-o-y) on higher contributions from both the feed and industrial products and food products segments. The result met only 39% of consensus 2024 profit forecast.
+
+[NEWS_P002] In a report, Kenanga Research revealed that it had downgraded its 2024 core earnings estimate for PPB by 10% to reflect Wilmar’s disappointing 1H24 performance, while keeping its 2025 earnings forecast for the company unchanged, citing unchanged fundamental outlook. “PPB’s earnings can be volatile due to associate Wilmar’s commodity exposures as well as its own feed milling operations where input raw material prices such as wheat and corn are subject to cycles and swings,” the research house explained.
+
+[NEWS_P003] “However, the group has attractive agri-food businesses catering to the region’s growing middle-class consumers. “Wilmar is strong in China and India’s edible oil and processed food markets while PPB has its own flour, feed and food businesses in South-East Asia,” it added. Despite the downgrade in earnings estimantes, Kenanga Research maintained its “outperform” call on PPB, with an unchanged price of RM17.50 based on 16 times 2025 price-earnings ratio (PER).
+
+[NEWS_P004] “Trading below both book value and market PER, we believe PPB provides longer-term upside amid some volatility in the nearer term,” it said. On Wilmar, Kenanga Research pointed out that an expected improvement in the second quarter of this year (2Q24) after a soft 1Q24 by Wilmar failed to materialise due to flattish commodity prices. “A better 2H24 is still expected on the back of strong consumer food segment growth, which rose 77% y-o-y in 1H24 on robust demand coupled with continuing flat or softer input raw material costs; improving demand for industrial feed, edible oils and grains along with better margin while palm oil earnings should pick up on higher seasonal fresh fruit bunch output on relatively firm crude palm oil prices,” it said.
+
+[NEWS_P005] It cautioned that weaker sugar prices in 1H24 are expected to stay for the rest of 2024. It added that a stronger ringgit is expected to erode Wilmar’s 2H24 contribution to PPB by 2% to 3% which have been factored into its 2024 revised earnings forecast. Kenanga Research said it remained optimistic about Wilmar’s consumer food segment on improving demand, underpinned by the region’s growing middle class, post-pandemic normalisation in disposal income and spending as well as raw material input cost staying contained.
+
+[NEWS_P006] According to TA Research, Wilmar’s management remained cautiously optimistic about the group’s performance for 2H24, citing refining margins for tropical oils, which are expected to remain challenging. The demand for soybean meal products as well as margins, on the other hand, are anticipated to improve due to lower soybean price “We understand that the crushing margin in China has been negative since mid-June and is currently trading at 477 yuan per tonne.
+
+[NEWS_P007] “The prolonged negative crushing margins are expected to impact the group’s earnings in 2H24 as well,” TA Research pointed out.

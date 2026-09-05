@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI trends higher as market returns from Hari Raya break
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/02/fbm-klci-trends-higher-as-market-returns-from-hari-raya-break4o-mini
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI kicked off with a positive start in early trade on Wednesday, as trading activity resumed following the two-day Hari Raya Aidilfitri break. The FBM KLCI rose 5.68 points, or 0.38% to 1,519.33 at 9.13 am. The index opened 3.49 points higher at 1,517.14. Trading volume is relatively thin at 233.07 million shares, worth RM150.9mil. Among the gainers, PETRONAS Dagangan rose 28 sen to RM18.56, Ajinomoto gained 22 sen to RM14.80, Malaysia Smelting Corp climbed 16 sen to RM2.71 and Teck Guan Perdana added 16 sen to RM1.77.
+
+[NEWS_P002] Conversely, Nestle slid RM1.08, Malaysian Pacific Industries fell 70 sen to RM18.40, F&N lost 48 sen to RM23.82 and Allianz eased 20 sen to RM18.10. Overnight, the S&P 500 gained 0.38%, to 5,633.07 points, while the Nasdaq Composite climbed 0.87%, to 17,449.89. The Dow Jones Industrial Average edged down 0.03%, to 41,989.96. Inter-Pacific Research said market conditions are likely to remain cautious ahead of President Trump’s tariff announcements later today, which could affect Malaysia’s exports to the U.S.
+
+[NEWS_P003] as well as companies with significant export exposure to the U.S. “As such, the recovery among some of the key global stock indices overnight are unlikely to permeate to stocks on Bursa Malaysia with sentiments still affected for the time being. “Market interest is also expected to remain thin due to the lack of domestic leads and many market players are still on the festive break,” it said. The research house added that this means the downside bias persists for now as market players await the tariff announcement, which could cause the FBM KLCI constituents to continue drifting downward.
+
+[NEWS_P004] “On the downside, the supports are at 1,510 points and at the 1,502-1,506 levels. The resistances, on the other hand, are at 1,520 points and 1,525 points respectively,” Inter-Pacific said. Meanwhile, Rakuten Trade believes a swift rebound is in the offing for the FBM KLCI as it needs to trend above the 1,530 level as soon as possible otherwise it will be stuck within a consolidation phase gain. “For today, we expect the index to hover between the 1,515-1,530 range,” it said.

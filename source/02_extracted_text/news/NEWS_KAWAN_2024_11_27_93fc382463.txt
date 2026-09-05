@@ -1,0 +1,22 @@
+[TITLE]
+Trading ideas: IJM, Maxland, Winstar, RichTech, Maybank, Sunway, IOI, YTL, KLK, MAHB, TM, Greatech, LHI, Pharmaniaga, WCT
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-11-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/27/trading-ideas-ijm-maxland-winstar-richtech-maybank-sunway-ioi-ytl-klk-mahb-tm-greatech-lhi-pharmaniaga-wct
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Penang Development Corporation has rejected an RM818mn bid by a tripartite consortium led by IJM Corporation Bhd to develop the Batu Kawan Industrial Park 2 in Penang, Free Malaysia Today reported. Maxland Bhd, formerly known as Priceworth International Bhd , is issuing new shares representing 20% of its current share base to two companies to raise funds for its new ventures into bus assembly and the development of district cooling systems for industrial buildings.
+
+[NEWS_P002] Aluminium products manufacturer Winstar Capital Bhd, en route to a listing on Bursa Malaysia’s Ace Market on Dec 19, 2024, aims to raise RM19.8mn through its initial public offering. Electronic reload and bill payment services provider RichTech Digital Bhd has inked an underwriting agreement with KAF Investment Bank in conjunction with its planned initial public offering exercise on the ACE Market of Bursa Malaysia. Malayan Banking Bhd reported that its net profit rose 7.6% to RM2.5bn for the 3QFY2024, from RM2.4bn a year earlier, as non-interest income growth offset a decline in net interest income.
+
+[NEWS_P003] Sunway Bhd posted a net profit of RM376.1mn for 3QFY2024, up from RM180.3mn a year ago, on stronger operating performance across its core businesses. IOI Corp Bhd ’s net profit jumped 133.8% year-on-year to RM710.7mn in the 1QFY2025 from RM304mn in 1QFY2024, primarily driven by foreign exchange translation gains. YTL Corp Bhd ’s net profit fell by more than a third to RM333.7mn in the 1QFY25 from RM521.7mn a year ago, as contributions from its utilities business, represented by its 55.6% stake in YTL Power International Bhd declined.
+
+[NEWS_P004] Kuala Lumpur Kepong Bhd ’s net profit for the 4QFY2024 fell 94.2% to RM6.8mn from RM116.3mn in 4QFY2023, dragged by non-cash losses and an inventory write-down related to its investment in UK-listed speciality chemicals company. Malaysia Airports Holdings Bhd ’s net profit more than doubled to RM210.4mn in 3QFY2024, from RM94.8mn a year ago, fuelled by higher passenger volumes. Telekom Malaysia Bhd ’s net profit for the 3QFY2024 fell 13.6% year-on-year to RM465mn from RM538.2mn, following last year's recognition of tax credit from prior years’ losses.
+
+[NEWS_P005] Greatech Technology Bhd ’s net profit for 3QFY2024 halved on foreign exchange losses, as it recorded a net profit of RM23mn, down 50.8% from RM46.7mn last year. Leong Hup International Bhd ’s net profit inched up to RM135.0mn in 3QFY2024 from RM133mn a year earlier, as tax expenses fell 67.8% to RM16.2mn from RM50.2mn. Pharmaniaga Bhd saw a turnaround in 3QFY2024 thanks to higher sales and the reversal of penalty charges from the government as it reported a net profit of RM101mn compared to a net loss of RM49.3mn over the same quarter last year.
+
+[NEWS_P006] WCT Bhd recorded a net profit of RM173.2mn for the 3QFY2024, compared with a net loss of RM13.5mn a year earlier, thanks to the remeasurement of interest in a jointly controlled entity amounting to RM184mn.

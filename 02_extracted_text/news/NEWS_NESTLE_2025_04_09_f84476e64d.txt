@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI plunges 2.7% as tariffs come into effect, China hit with eye-watering tax
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/09/fbm-klci-plunges-27-as-china-hit-with-eye-watering-tariffs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the early session at a 21-month low as Trumps' trade tariffs on its trading partners came into effect at noon and hit China with a cumulative 104% tax. Malaysia's benchmark index dove to an intramorning low of 1,404.47, representing a 39.09-point or 2.71% plunge from the previous day's close. The declining issuers on the broader market outnumbered advancers for a negative ratio of 4.66-to-1. Market volume was 2.01 billion shares transacting for a total of RM1.55bil.
+
+[NEWS_P002] The bloodbath, which has spread across global markets, has shown no sign of abating with Wall Street futures pointing towards another session of sharp declines. The S&P 500 mini and Nasdaq mini are each down 2.5% at the time of writing as investors continue to pull out of risky investments amid a potential global recession. Major Asian markets were pummeled with Japan's Nikkei dropping 5.09% to 31,333, and Hong Kong's Hang Seng falling 1.55% to 19.815.
+
+[NEWS_P003] Singapore's Straits Times slid 2.16% to 3,394. Mainland China's markets were mildly positive as state firm pledged their support to bolster the market. The blue-chip CSI300 rose 0.32% to 3,662 while the Shanghai composite index gained 0.24% to 3,152. Some notable gainers on the market included Nestle up 44 sen to RM74.60, Cyberview gainiung 10 sen to RM1.82 and Keing Hing gaining eight sen to RM1.28. Glove makers were also on the rise. Kossan added 10 sen to RM1.83, Supermax rose seven sen to 84.5 sen, Top Glove gained four sen to 86 sen and Hartalega jumped six sen to RM2.04.

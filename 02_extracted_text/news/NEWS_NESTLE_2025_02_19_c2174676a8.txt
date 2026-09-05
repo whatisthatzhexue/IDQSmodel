@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia falls as Trump's new tariff threats weigh on region
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/19/bursa-malaysia-falls-as-trump039s-new-tariff-threats-weigh-on-region
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the morning session in negative territory, weighed down by US President Donald Trump's announcement of tariffs on auto parts, chips and pharmaceuticals. In line with a decline in the regional market, Malaysia's main stock index dropped 3.86 points to 1,580.98. The number of decliners on the broader market outpaced gainers 588 to 266. Turnover was 2.06 billion shares valued at RM1.25bil. Asian shares were on the backfoot on Wednesday after Trump said he would impose tax of 25% or higher on autos, pharmaceuticals and semiconductor chips.
+
+[NEWS_P002] However, the declines were capped on expectations that there will be negotiations between policymakers and a potential compromise before the tariffs are implemented. The region's indices were mostly lower with Japan sliding 0.44% to 39,097 and Hong Kong's Hang Seng shedding 0.28% to 22,911. China's composite index, however, was up 0.54% to 3,342 while Singapore's Straits Times gained 0.11% to 3,929. On Bursa Malaysia, some of the most active counters were glove manufacturers, whose stock were sold down after the release of disappointing results from Hartalega .
+
+[NEWS_P003] Hartalega shed another 14 sen to RM2.47 after plunging 23% in the previous session after its earnings sparked fears that a demand recovery in the glove sector remained a distant hope. Sector rival Top Glove dropped 2.5 sen to 975 sen, while Kossan shed six sen to RM1.91 and Supermax slid two sen to RM1.02. Among the leading blue chips, Nestle dropped 54 sen to RM90 and Maybank lost four sen to RM10.50.

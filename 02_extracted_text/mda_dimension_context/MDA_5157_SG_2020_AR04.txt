@@ -1,0 +1,70 @@
+document_id: MDA_5157_SG_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+Analysis of Revenue (Cont'd)
+The Management will continue to monitor the prospect of secondary Covid-19 outbreak leading the re-imposition of containment
+measures. Therefore, the Management we continue to improve on its production efficiency and to capture a bigger market share in
+the HORECA and OEM segment which higher profit margin while sustain its market share capture for FPP segment during MCO period. Meanwhile, the Management continue to put effort in monitoring its cash flow management and cost reduction programme that
+important in view of the ever-changing business environment amidst the on-going Covid-19 pandemic.
+[MDA_P007]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+Earnings Per Share (“EPS”)
+EARNINGS / (LOSS) PER SHARE (SEN)
+(3.83) (2.64)
+0.34
+(21.96)
+(2.48)
+14 months
+The impact of written off and written down of inventories has
+contributed to an overall loss after tax of RM30.6 million. As such,
+our Group has recorded loss on EPS of 21.96 as compared to EPS of
+0.34 in FYE 2019. Cash Flow Analysis
+FYE 2020
+FYE 2019
+(RM’000)
+(RM’000)
+Operating cash flow before
+working capital change
+2,240
+1,258
+Changes in working capital
+1,535
+7,364
+Tax refund/(paid)
+(333)
+Interest paid
+(1,621)
+(2,120)
+Net cash from operating
+activities
+2,333
+6,169
+Our Group has recorded net cash from operating activities of
+RM2.3 million in FYE 2020 as compared to net cash from operating
+activities of RM6.2 million in FYE 2019 after deduct interest paid
+of RM1.6 million for FYE 2020 and RM2.1 million for FYE 2019
+respectively. The decreased in cash from operating activities was
+due to the longer collection period from customers due to MCO
+and CMCO during the financial year 2020. Even facing the Covid-19
+pandemic challenge, the Group still able to maintain current ratio
+at above one.
+[MDA_P011]
+However, this impact was mitigated by the increase in Share capital via issuance of new shares via ESOS
+subscription amounted to RM1.7 million our Group during the financial year. -
+The abovementioned cause our Group net assets per shares reduce to 21 sen in FYE 2020 as compare to 43 sen in FYE 2019. Key Risk and Mitigation
+After implementing the Distributorship model from a year, the Group able strengthen the credit control and minimised exposure of credit
+risks. However, due to the Covid-19 pandemic during the financial year. The Group have no choice but to do the written off of inventories
+on the expired finished goods and raw material. As such, the Group will continue to put more effort in strengthen the growth if HEROCA
+and OEM products and continue to sustained the increase in demand of FPP during the RMCO time.
+[MDA_P012]
+Trend, outlook, future challenge, strategy and capital expenditure
+The Group will continue to improve its operation efficiency with effective resources planning, practicing lean concept for operation work
+flow as well as empower the employee especially middle management to initiate and execute idea for better production cost control by
+sharing their idea and thinking every day during our daily meeting. Moving forward, the Group intends to further strengthen the financial performance to maintain or exceed the current momentum based
+on the strategic plans that have been put in place by the Management with the view to further improve on the generation of cash flow. The Group will continuously improve on production efficiency and to further realise our plan to penetrate a bigger share in HORECA and
+OEM segment. ANNUAL REPORT 2020

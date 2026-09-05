@@ -1,0 +1,14 @@
+[TITLE]
+SDS unit acquires factories, production lines for RM28mil
+
+[METADATA]
+ticker: SDS
+company_name: SDS Group Berhad
+publish_date: 2025-08-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/15/sds-unit-acquires-factories-production-lines-for-rm28mil
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: SDS Group Bhd has via an indirect subsidiary, SDS Top Baker Sdn Bhd, has entered a deal with Mamee Bakery Sdn Bhd for the acquisition of seven parcels of land with factories in Plentong, Johor Bahru, as well as their entire production lines for RM28mil. The group announced the deal in a stock exchange filing that the production lines, comprising machinery, equipment and tools, will be required for the production and packaging of London/Tora Swiss Roll, layer cakes and bear cakes.
+
+[NEWS_P002] The company will fund the acquisitions via internally generated funds and/or bank borrowings. As at the end of trading, shares in SDS were last done 1.5 sen or 2.29% higher at 67 sen apiece after 126,100 shares changing hands.

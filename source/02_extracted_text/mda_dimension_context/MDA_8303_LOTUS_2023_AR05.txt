@@ -1,0 +1,51 @@
+document_id: MDA_8303_LOTUS_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 23, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 138.21, "paragraph_count": 23, "paragraph_length_distribution": {"max": 1150, "mean": 483.261, "min": 149}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Overview of Business and Operations
+Lotus KFM Berhad (“LKFM”) is principally engaged in flour milling and trading in its related products and is a public listed
+company on the Main Market of Bursa Malaysia Securities Berhad (“Bursa Securities”). The two main sources of revenue comprise of milling of wheat flour and the trading of starch flour. LKFM focus on
+producing consistent and good quality flour with the objective of achieving customer satisfaction and loyalty, also to
+providing services with exceptional value to our customers. Lately, a proposed diversification allows Lotus Group (“the Group”) to enter the forest plantation industry in Malaysia. The
+plantation business is expected to provide a new source of recurring income stream for the Group to mitigate the risk of
+overdependence on its existing business. As part of the diversification plan, the Group has continuously expanded and acquired three subsidiaries in 100% of total
+shares on 11 October 2021, being ASV Jaya Resources Sdn. Bhd., Sam Jaya Plantation Sdn. Bhd. and Hijau Ria Solution
+Sdn. Bhd. for a total consideration of RM5,162,190.
+[MDA_P006]
+The Group recorded a gross profit of RM4.143 million in FYE 2023 compared to RM4.171 million in FYE 2022,
+representing a decrease of 0.67%. However, the gross profit margin increased to 7.08% in FYE 2023 (FYE 2022:
+6.31%). As a result, the cost of commodity raw material had increased which offset the positive impact of a higher
+gross profit margin on the overall gross profit. Consequently, the profit before tax also decreased by 18.92% in FYE
+2023 compared to FYE 2022, which is RM2.515 million and RM3.102 million respectively.
+c)
+Cash Flows and Liquidity
+[MDA_P012]
+The flour milling sector remains competitive among the flour milling operators locally as well as imported wheat
+flour and starch. The Group will continue to develop a new market strategy to capture new markets, particularly in
+less well-served segments, and improve its distribution channels as well as product mix and quality to meet a wider
+range of customers’ needs and requirements. To sustain the margin in this highly competitive market, the Group is
+targeting to continue to expand its new customers' base.
+b)
+Volatility of raw material prices
+[MDA_P018]
+The pressure of inflation is not only happening in local, but it is also a global phenomenon that is experienced in
+others countries around the world. Inflation can have a significant impact on the operating costs of business. The
+operating cost emphases day-by-day necessary expenses for the Group to conduct business operations. The
+maybe directly impacts of inflation on operating costs is the increased cost of inputs such as raw material, energy
+and other resources. As the general price level rises, the cost of acquiring these essential inputs tends materials to
+increase, hence, it maybe directs impacting on the production costs. The Group is regularly reviewing the changing
+to economic conditions and multifaceted approach, which involves cost management and risk mitigation to adapt
+to the economic conditions.
+e)
+Dependency on the performance of user industries
+[MDA_P023]
+Note of Appreciation
+To our shareholders, customers, suppliers and business associates, who have given us valuable support, we wish to
+express our sincere appreciation and thanks to all of your enduring trust and confidence in our business.

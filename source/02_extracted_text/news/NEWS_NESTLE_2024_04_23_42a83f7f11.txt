@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI extends rebound
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-04-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/23/fbm-klci-extends-rebound
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's stock benchmark continued its recovery on Tuesday after four days of gains as investors moved past disappointing US inflation data to focus on the coming corporate earnings period. The FBM KLCI entered the lunch break 5.02 points higher than the reference price at 1,564.61, while the broader market registered 533 gainers to 407 decliners and 432 stocks unchanged. The morning share turnover was 2.35 billion shares valued at RM1.36bil.
+
+[NEWS_P002] IHH Healthcare led gains after surging 12 sen to RM6.27 following analyst reports that affirmed the prospects of Malaysia's healthcare sector. Nestle picked up RM1.70 to RM126.40 following news it was revising the prices of selected products in response to the increase in cocoa prices. Meanwhile, banking heavyweight Maybank rose nine sen to RM9.83 while Public Bank gained four sen to RM4.24, CIMB added four sen to RM6.66 and Hong Leong Bank climbed four sen to RM19.56.
+
+[NEWS_P003] Making its debut on Bursa Malaysia, Topmix gained 12.5 sen to 43.5 sen, off a morning peak of 45.5 sen, but 40.32% higher than its initial public offering price of 31 sen. Malaysia's blue-chip index has risen nearly 30 points or 2% to return to June 2022 highs after shrugging off concerns over military action in the Middle East and a delay in the US Federal Reserve's rate-cutting timeline. US tech giants are scheduled to release their quarterly results later this week, which drove the Nasdaq 1.1% higher overnight, and helped to prop up Asian markets.
+
+[NEWS_P004] Japan's Nikkei rose 0.4% to 37,600, South Korea's Kospi gained 0.15% to 2,633 and Hong Kong's Hang Seng climbed 1.6% to 16,782. The Shanghai composite index, meanwhile, dropped 0.4% to 3,032.10

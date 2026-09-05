@@ -1,0 +1,18 @@
+[TITLE]
+Batu Kawan records higher FY25 net profit of RM467.75mil
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-11-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/26/batu-kawan-records-higher-fy25-net-profit-of-rm46775mil
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Batu Kawan Bhd ’s net profit in the financial year ended Sep 30, 2025 (FY2025) increased to RM467.75 million, compared to RM298.85 million in the previous financial year. In a filing with Bursa Malaysia, the investment holding company’s revenue also rose to RM25.72 billion against RM23.06 billion previously, mainly due to its plantation and property segments. "Plantation’s profit was 40.3 per cent higher at RM2.31 billion, mainly due to higher crude palm oil (CPO) and palm kernel (PK) selling prices, coupled with higher CPO sales volume.
+
+[NEWS_P002] "However, the increase was partially offset by lower fair value gains of RM24.75 million on unharvested fresh fruit bunches valuation and RM447,000 from changes in outstanding derivatives contracts,” it said in a filing with Bursa Malaysia today. Batu Kawan also said that its property development segment profit declined by 10.0 per cent to RM41.81 million, in line with lower revenue of RM182.92 million. For the fourth quarter of FY2025 (4Q FY2025), the company achieved a higher net profit of RM69.34 million, compared with a net loss of RM19.76 million a year ago, while revenue jumped to RM6.48 billion, up from RM5.88 billion previously.
+
+[NEWS_P003] "An interim single-tier dividend of 0.50 sen per share has been authorised by the directors in respect of the financial year ending Sept 30, 2025, and will be paid to the shareholders on Feb 12, 2026. The entitlement date for the dividend shall be Jan 30, 2026,” it said. On prospects, Batu Kawan said the group is cautiously optimistic about better performance in FY2026, based on expectations of continued favourable palm oil prices despite challenging macroeconomic conditions, heightened geopolitical tensions, and volatility in commodity markets.
+
+[NEWS_P004] - Bernama

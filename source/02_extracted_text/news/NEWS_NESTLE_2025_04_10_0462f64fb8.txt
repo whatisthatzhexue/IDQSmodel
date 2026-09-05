@@ -1,0 +1,20 @@
+[TITLE]
+KLCI jumps 4.55%, relief for Bursa Malaysia as US tariffs paused for 90 days
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/10/klci-jumps-455-relief-for-bursa-malaysia-as-us-tariffs-paused-for-90-days
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia's main index gapped up a whopping 4.55% as the pause in US tariffs and resulting surge in US stocks sent global equities higher in a frenzied buying mood. The benchmark FBM KLCI soared 63.71 points to 1,464.3, as investors flocked into beaten-down stocks on the back of the sudden, albeit temporary, reprieve. Overnight, Wall Street mounted a rally that was described as "jaw-dropping" after US President Donald Trump announced an about-turn in trade tariffs.
+
+[NEWS_P002] The S&P 500 shot up 9.52% after it was announced there would be a 90-day pause on some of the tariffs put in place on April 9. The Dow Jones rose 7.87% while the Nasdaq rocketed 12.16%. The FBM KLCI had plunged 7.5% since April 2, when Trump announced the sweeping "Liberation Day" tariffs, to hover just above the psychological 1,400-point level at yesterday's close. However, analysts advise that the return of foreign buying in local equities, while welcomed, should be viewed with caution due to the volatile situation.
+
+[NEWS_P003] ALSO READ: FBM KLCI hits 21-month low as US-China tariff war fuels market decline "We advocate investors to remain vigilant as the tariff situation is still fluid amid Trump’s flip-flopping policy," said Rakuten Trade in its research report. For today, the broker expects the rebound to take the index to the 1,400-1,450 range. Malacca Securities Research reiterated a preference for defensive stocks given the uncertainty. "We continue to favour the domestic-driven and defensive sectors, including construction, REITs, consumer products and services, utilities, and healthcare, particularly hospitals.
+
+[NEWS_P004] "The 125% tariff on China could bode well for our local glove manufacturers, some of which are showing signs of bottoming out," it added in its report. Amid the soaring prices, Nestle rose 80 sen to RM74.52, Hong Leong Bank jumped 64 sen to RM19.14, Tenaga Nasional climbed 48 sen to RM13.30 and PETRONAS Gas added 44 sen to RM15.80. Top most actively traded on the market was SumiSaujana, picking up 0.5 sen to 18.5 sen after a dismal debut yesterday.
+
+[NEWS_P005] Also topping the actives list, Sapura Energy was flat at 4.5 sen while Top Glove rose eight sen to 90 sen and VS Industry leapt 13 sen to 78.5 sen.

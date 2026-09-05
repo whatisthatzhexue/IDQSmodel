@@ -1,0 +1,151 @@
+document_id: MDA_7237_PWROOT_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+cont’d
+[MDA_P002]
+AR 2023
+China and Hong Kong were among the last countries to
+reopen their borders, with China doing so on 1 January
+2023 and Hong Kong in February 2023. There was little
+movement in our activities in these countries for FY 2023
+but we have observed that economic recovery is underway
+and we expect our activities to pick up further in the year
+ahead. PRODUCTION
+Improved production efficiency and capacity, reduce
+downtime, improved supply chain and inventory
+management and better management of labour costs were
+some of the Group’s operational achievements in FY 2023. Production Facilities and Product Management
+We increased the instant powder (IP) production capacity at
+our plant with the commencement of an additional 10-lane
+machine which had its first commercial run in producing
+Alicafé Black Gold (2g pure coffee) in November 2022. This investment resulted in an increase in IP production
+capacity by 6%. Beverage capacity was also increased with an additional
+deionised water station installed for our canning lines.
+[MDA_P004]
+Furthermore, Power Root has enhanced our production
+capability with our own newly-commissioned coffee bean
+roasting plant which will enable us to produce micro ground
+coffee as raw material for our products. This capability gives
+us the option of producing assorted varieties of coffee in
+the future. As a start, we are focusing on the production
+of our own black coffee. Talent Recruitment and Workforce Efficiency
+Such investments and production efficiencies are partially
+the result of successful recruitment of experienced
+personnel with the right skills and knowledge and are able
+to advise on increasing and optimising in output, alleviate
+bottlenecks on the line, and streamline processes and
+workflow. The Group improved its workforce efficiencies this financial
+year with the resumption of foreign worker availability. Previously, closed borders and restrictions had brought
+about increased competition for eligible local workers
+resulting in a low-supply, high-wages labour market. The
+return of foreign workers (principally Nepalese workers)
+has led to better workforce management and will help in
+cost management.
+[MDA_P005]
+Although COVID-19 is no longer the threat it was in the
+past few years, Power Root continues to exercise caution
+with bi-monthly testing requirements and continuing with
+relevant standard operating procedures (SOPs) to minimise
+the potential spread across our operations. FINANCIAL REVIEW
+REVENUE
+LOCAL
+(RM’million)
+EXPORT
+(RM’million)
+TOTAL
+(RM’million)
+FY 2023
+262.7
+193.1
+455.8
+FY 2022
+204.1
+143.8
+347.9
+For the FY 2023, the Group recorded revenue of RM455.8
+million, an increase of approximately 31.0% from the
+revenue of RM347.9 million recorded in FYE 2022. This increase was attributed to multiple factors, including
+higher local sales driven by the market’s recovery, improved
+operational efficiencies across all internal departments and
+revision of the product selling price for our markets. PROFIT AFTER TAX (“PAT”)
+For the FY 2023, the Group recorded a PAT of RM59.5
+million, an increase of 125.9% from the PAT of RM26.3
+million in FYE 2022. The increase in PAT was attributed by the higher sales
+revenue and improved operational efficiencies.
+[MDA_P006]
+STATEMENT OF FINANCIAL STATEMENT
+REVENUE
+FY 2023
+(RM’000)
+FY 2022
+(RM’000)
+Total Assets
+438,153
+386,382
+Equity attributable to the
+owners of the Company
+289,603
+266,618
+Total Liabilities
+147,804
+119,703
+Borrowings
+31,314
+19,922
+Gearing (times)
+0.108
+0.075
+The Total Assets of the Group increased by RM51.8 million
+in FY 2023 mainly due to higher inventories, trade and other
+receivables, and purchase of property, plant and equipment. The Total Liabilities of the Group increased by RM28.1
+million in FY 2023 mainly due to increase in loans and
+borrowings and higher trade and other payables. MANAGEMENT DISCUSSION AND ANALYSIS
+cont’d
+[MDA_P007]
+POWER ROOT BERHAD
+REGISTRATION NUMBER: 200601013517 (733268-U)
+With a low gearing of 0.108 as at 31 March 2023, the
+Group’s financial position remains sound. DIVIDENDS
+Financial
+Year
+Dividend Per Share (“DPS”) (sen)
+11.75
+5.40
+6.50
+12.50
+8.00
+On 12 October 2022, the Group paid a first interim single tier
+dividend of 2.0 sen per ordinary share and a special interim
+single tier dividend of 1.0 sen per ordinary share amounting
+to RM12.5 million in respect of the current financial year. On 5 January 2023, the Group paid a second interim single
+tier dividend of 2.0 sen per ordinary share and a special
+interim single tier dividend of 1.0 sen per ordinary share
+amounting to RM 12.6 million in respect of the current
+financial year. On 7 April 2023, the Group paid a third interim single tier
+dividend of 2.0 sen per ordinary share and a special interim
+single tier dividend of 0.25 sen per ordinary share amounting
+to RM9.6 million in respect of the current financial year.
+[MDA_P008]
+On 3 July 2023, the Group paid a fourth interim single tier
+dividend of 2.0 sen per ordinary share and a special interim
+single tier dividend of 1.5 sen per ordinary share amounting
+to RM15.8 million in respect of the current financial year. The Board did not recommend the payment of any final
+dividend in respect of the FY 2023. As such, the total dividends paid for FY 2023 is 11.75
+sen per ordinary share amounting to RM50.5 million,
+representing a dividend pay-out ratio of approximately
+84.9%. The Group’s dividend policy is to maintain a minimum of
+50% dividend pay-out ratio. Since our listing on Bursa
+Malaysia Securities Berhad in 2007, the Group has paid
+out a total of RM437.0 million in dividends, representing
+a dividend pay-out ratio of approximately 86.4%. It is our
+intention to continue to reward our shareholders for their
+loyalty and participation in our growth. BUSINESS OUTLOOK
+Power Root will continue with our push for excellence in
+performance and business sustainability in the coming
+financial year, with financial and operational discipline being
+a priority.

@@ -1,0 +1,18 @@
+[TITLE]
+High Court grants Leong Hup, PPB’s FFM stay on MyCC penalties
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/02/high-court-grants-leong-hup-ppbs-ffm-stay-on-mycc-penalties
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Leong Hup International Bhd has secured a favourable ruling in its ongoing dispute with the Malaysia Competition Commission (MyCC), after the KL High Court allowed the judicial review application by its subsidiary, Leong Hup Feedmill Malaysia Sdn Bhd (LFM). In a filing to Bursa Malaysia, Leong Hup said the court has awarded RM5,000 in costs to LFM. “The High Court also ordered that the Competition Appeal Tribunal’s (CAT) decision on stay be quashed, and granted a stay of MyCC’s Decision.
+
+[NEWS_P002] “This includes payment of the financial penalty and all consequential actions, proceedings, execution and enforcement of MyCC’s Decision, pending the full and final disposal of LFM’s appeal to the CAT. This latest development follows a December 2024 decision, whereby the CAT has denied a stay of the RM415.5mil fine imposed by the MyCC on five feedmillers. The other feed millers were Malayan Flour Mills Bhd ’s subsidiary Dindings Poultry Development Centre Sdn Bhd, Gold Coin Feedmills (Malaysia) Sdn Bhd as well as PK Agro-Industrial Products (M) Sdn Bhd.
+
+[NEWS_P003] CAT is a tribunal under the Domestic Trade and Cost of Living Ministry. In a separate stock exchange filing, PPB Group Bhd also announced that the High Court has allowed its majority-owned FFM Bhd’s judicial review against CAT’s decision. Costs were also awarded to FFM. “Accordingly, the High Court ordered that the CAT’s decision on refusing stay be quashed, and MyCC’s decision (including payment of the financial penalty of RM42.689mil) and all consequential actions, proceedings, execution and enforcement in relation thereto be stayed pending disposal of FFM’s appeal against the decision before the CAT.
+
+[NEWS_P004] “The CAT has yet to fix a date for the delivery of its decision on FFM's appeal,” it said.

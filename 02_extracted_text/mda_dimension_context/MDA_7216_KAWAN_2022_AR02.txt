@@ -1,0 +1,197 @@
+document_id: MDA_7216_KAWAN_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 30, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_7216_KAWAN_2022", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 116, "num_material_discrepancies": 0, "num_minor_discrepancies": 1, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Dear Shareholders,
+I am proud that Kawan has a team with great
+people who possess strength and resilience
+to overcome the tough challenges over
+the year. Together, we have faced difficult
+periods and emerged stronger. I have full
+confidence that we will continue to rise
+to the occasion and navigate through
+any future obstacles with determination
+and excellence.
+Executive Chairman
+Gan Thiam Chai
+Profit Before Taxation
+RM40.1 Mil
+2021: RM36.7 million
+Profit After Taxation
+2021: RM31.8 million
+RM38.5 Mil
+[MDA_P002]
+KAWANFOOD.COM
+Kawan At A
+Glance
+This is
+Kawan Food Berhad
+Our Strategic
+Review
+Our Commitment To Good
+Corporate Governance
+Financial
+Statements
+Other
+Information
+Management Discussion & Analysis
+These broad events underpinned a year characterised by a
+volatile labour market, an energy crisis and disrupted supply
+chains which subsequently led to inflation rates rising to
+multi-decade highs. The response by central banks to rapidly
+hike interest rates in a bid to cool inflation has dampened
+the economic outlook and consumer sentiment. As a result,
+consumers have been tightening their belts and purchasing
+fewer products due to the cost-of-living crisis which has led
+to an increase in the consumption of cheaper products. While it was certainly a challenging year, we were able to
+navigate the need to balance affordable prices for consumers
+while securing raw materials supply and protecting our
+businesses. We adjusted our prices carefully and responsibly
+to recover our increased costs, doing so without damaging key
+relationships.
+[MDA_P003]
+We also worked closely with our customers and
+suppliers to maintain our service levels, overcoming supply
+chain deficiencies, unprecedented inflation on input costs and
+labour supply challenges. We are grateful for the hard work
+and commitment of our employees and management during
+this challenging period as well as the continued support of
+our customers and suppliers in navigating these headwinds. There is still a lot of work to be done but thanks to the skills and
+work of our people, we are making good progress. In FY2022, our revenue increased by 16.4% to RM293.2 million
+from RM251.8 million in FY2021, primarily driven by higher
+average selling prices. Profit before tax (“PBT”) increased
+from RM36.7 million in FY2021 to RM40.1 million in FY2022. However, the higher input costs put our margins under
+pressure despite efforts to improve internal efficiencies and
+implementing cost saving measures. Consequently, our
+PBT margin decreased slightly to 13.7% in FY2022 from 14.6%
+in FY2021. We have also absorbed high input cost inflation,
+mainly in the prices of raw materials, wages and other key
+costs, but we have nevertheless restricted price increases
+even though it impacts our margin.
+[MDA_P004]
+Going forward, we
+remain committed to restoring our margin levels, given the
+opportunities present in our business. The
+Group’s
+balance
+sheet
+remains in a strong position
+with
+cash
+and
+cash
+equivalents
+of
+RM98.6
+million. Cash will continue
+to be a priority for us
+throughout the year and
+we will continue to manage it
+tightly in FY2023. OVERVIEW
+Year 2022 was marked by significant volatility, as a multitude of global events
+over the year including US-China tensions, the unravelling of loose monetary
+policy and the Ukraine-Russian conflict came together to disrupt the world’s
+recovery from the COVID-19 pandemic. Revenue
+RM293. 2 Mil
+2021: RM251.8 million
+Cash & Cash Equivalents
+RM98.6 Mil
+2021: RM88.6 million
+Net Assets Per Share
+RM1.09
+2021: RM1.03
+Financial Highlights
+200.0
+214.1
+254.7
+251.8
+293.2
+Total Revenue (RM million)
+29.2
+15.4
+32.0
+36.7
+40.1
+Profit Before Tax (RM million)
+[MDA_P005]
+ANNUAL REPORT 2022
+KAWAN FOOD BERHAD
+Management Discussion & Analysis
+OPERATING ENVIRONMENT
+Market Trends
+We remain mindful of the evolving trends that are shaping the
+food and beverage industry. Consumer preferences are changing
+rapidly and we are adapting to meet their needs in a responsible
+and sustainable manner. OUR STRATEGIES
+Kawan remains resilient in
+the face of a challenging
+business environment,
+anchored in our strong
+foundation comprising a
+great team, a broad product
+portfolio, robust customers
+and supplier relationships
+and an unwavering focus on
+delivering quality products. We remain committed to driving growth
+from our market position in Malaysia whilst
+accelerating
+growth
+internationally. Our
+growth
+is
+underpinned
+by
+consistently
+gaining market share in categories, channels
+and customers while maintaining strong
+relationships
+with
+our
+customers
+and
+consumers. Kawan differentiates itself through our people,
+unrelenting
+commitment
+to
+producing
+quality food and continuously improving the
+sustainability of our business to building a
+stronger and responsible company.
+[MDA_P006]
+Convenience
+The demand for convenience food continues to rise as consumers
+seek out quick and easy options such as ready to eat meals,
+snacks and beverages that can be consumed on the go. Health and Wellness
+There is a growing concern among consumers on health and
+wellness. Consumers are increasingly selecting food that are
+healthier and better for them. Cost of Living Crisis
+The current cost of living
+crisis is impacting consumer
+purchasing
+decisions
+with
+value for money becoming an
+influential factor in product or
+brand choice. Sustainability
+Sustainability
+is
+becoming
+an important consideration
+for consumers who prefer
+sustainable
+brands
+and
+products
+that
+are
+both
+environmentally
+friendly
+in
+terms of size and packaging.

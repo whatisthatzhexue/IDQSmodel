@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rebounds on hopes of US tariffs compromise
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-03-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/05/fbm-klci-rebounds-on-hopes-of-us-tariffs-compromise
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: There was a rebound on Bursa Malaysia as it opened for Wednesday trading amid hopes US policymakers will be moving towards a compromise with their North American counterparts in de-escalating a trade war. At 9am, the benchmark FBM KLCI was up 4.9 points to 1,560.56, after a sharp plunge yesterday on the back of additional US tariffs on Canada, Mexico and China. Among the shares seeing strong positive retracement, Tenaga Nasional climbed 16 sen to RM13.76, YTL Power rose eight sne to RM3.03, Public Bank gained eight sen to RM4.61 and PPB jumped 20 sen to RM10.96.
+
+[NEWS_P002] Top actives included NextG flat at 25.5 sen, Jiankun unchanged at 4.5 sen and Ingenieur up 0.5 sen to 3.5 sen. Rakuten Trade said in its market outlook that investors are now in risk-off mode, and unloading their holdings in view of increasing volatility. Nevertheless, the research firm maintained there is a silver lining to the recent sell-off. "Though we are not advocating any aggressive bargain hunting as yet, we see the current scenario as an excellent opportunity for some stock pickings, especially the blue chips and defensive ones with decent dividend yields," it said.
+
+[NEWS_P003] "For today, we expect the index to hover within the 1,550-1,565 range with the hope that foreign funds will look at Asia as the preferred destination soon." Malacca Securities also cautioned investors over the shift to a risk-off mode, reiterating its stance on defensive sectors, including banking, utilities and REITs as they have recently reported stable earnings and offer consistent dividends. "Meanwhile, we also favour KPJ, Itmax and Time dotCom for their resilient business models and healthy chart setups, bucking the trend of the sluggish broader market performance," it said in its morning note.

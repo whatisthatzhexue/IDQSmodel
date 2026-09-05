@@ -1,0 +1,18 @@
+[TITLE]
+Bargain hunting ends four-day losing streak on Bursa Malaysia
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/05/bargain-hunting-ends-four-day-losing-streak-on-bursa-malaysia
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bargain hunting boosted Bursa Malaysia after four days of losses, as investors capitalised on opportunities, mirroring the performance of regional peers. The benchmark FBM KLCI gained 8.76 points, or 0.56%, to close at 1,564.42. It traded within a 9.05-point range, hitting an intraday high of 1,569.61 and a low of 1,560.56. Market sentiment was positive, with 663 gainers outpacing 372 decliners. Trading volume stood at 3.15 billion shares worth RM2.74bil.
+
+[NEWS_P002] Dealers said the local bourse posted gains as bargain hunting emerged following the heavy selloff in the previous session. However, they noted that market sentiment could remain cautious as trade tensions escalate between the world’s largest economies. Stock market data showed that foreign funds were net sellers of local equities at RM189mil, while local institutions and retail investors were net buyers at RM92mil and RM98mil, respectively, on Tuesday.
+
+[NEWS_P003] Among the gainers on Bursa Malaysia, Dutch Lady jumped 70 sen to RM28.30, Guan Chong added 33 sen to RM3.88, F&N rose 32 sen to RM25.36, and Malaysian Pacific Industries climbed 30 sen to RM17.34. Nestle extended its downtrend, plunging RM5.76 or 7.28% to RM73.36. PETRONAS Dagangan lost 56 sen to RM17.90, Panasonic Manufacturing fell 22 sen to RM16.02, and CIMB declined 20 sen to RM7.80. Meanwhile, the ringgit was quoted at 4.4327 against the US dollar, up 0.03%.
+
+[NEWS_P004] It also gained 0.17% against the Singapore dollar to 3.3168.

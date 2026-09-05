@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI gains as ringgit strengthens
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/09/fbm-klci-gains-as-ringgit-strengthens
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI trimmed some of its gains today, but buyers remained dominant, in line with the overall sentiment in regional markets. The benchmark index closed at 1,596.05, up 0.36% or 5.67 points, taking its full-week drop to 0.93%. All sectoral indices closed positive. In the broader market, gainers outnumbered losers 1,103 to 218, with 4.2 billion shares worth RM2.93bil changing hands. Stock market data revealed that foreign funds and retailers were net sellers on Thursday, offloading RM227mil and RM53mil, respectively.
+
+[NEWS_P002] Meanwhile, local institutions purchased RM280mil worth of equities. Top gainers on Bursa Malaysia included Nestle which jumped RM1.60 to RM109.50, Malaysian Pacific Industries which added RM1.10 to RM37.10 and Panasonic Manufacturing which rose 26 sen to RM19.28. Carlsberg, the top loser on Bursa Malaysia, fell 30 sen to RM18.30. Hong Leong Bank declined 26 sen to RM19.14 and PETRONAS Dagangan slid 14 sen to RM17.66. Maybank and Public Bank added two sen each to RM10.16 and RM4.24 respectively.
+
+[NEWS_P003] CIMB closed unchanged at RM7.30 and RHB Bank fell three sen to RM5.65. Meanwhile, the ringgit was quoted at 4.4248, up 1.08% against the US dollar. US West Texas Intermediate crude fell 24 cents to US$75.95 and Brent lost 30 cents to US$78.86 per barrel. Among the key regional markets: Japan’s Nikkei 225 closed up 0.56% to 35,025.00; Hong Kong’s Hang Seng Index rose 1.17% to 17,090.23; China’s Shanghai Composite Index fell 0.27% to 2,862.19; Taiwan’s Taiex added 2.87% to 21,469.00 and South Korea’s Kospi closed up 1.24% to 2,588.43.

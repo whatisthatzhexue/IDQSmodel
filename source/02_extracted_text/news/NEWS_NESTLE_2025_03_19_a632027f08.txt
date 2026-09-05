@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI slips as investors take profit ahead of US rate decision
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/19/fbm-klci-slips-as-investors-take-profit-ahead-of-us-rate-decision
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the early session nearly 10 points underwater as sentiment over equities remained soft amid the geopolitical turmoil. At 12.30pm, the benchmark index was down 9.85 points to 1,517.96, ahead of the US Federal Reserve's monetary policy committee meeting. CIMB recorded a sharp loss of 31 sen to RM6.94, dragging on the financial services index, while Nestle maintained its downward trend, losing 78 sen to RM64.04. Other notable laggards, Gamuda shed nine sen to RM3.99 and Telekom Malaysia lost seven sen to RM6.53.
+
+[NEWS_P002] Underlining the broader market weakness, the declining issues outnumbered advancers for a 1.19-to-1 ratio on Bursa Malaysia. Volume on the market was 1.98 billion shares for a traded value of RM1.36bil. In regional markets, stock trading was cautiously positive following the Bank of Japan's decision to maintain interest rates in light of the uncertain global outlook. China's composite index lost 0,06% to 3,427. Hong Kong's Hang Seng fared better, rising 0.15% to 24,77.
+
+[NEWS_P003] Japan's Nikkei gained 0.l2% to 37,890 and Singapore's Straits Times index climbed 0.51% to 3,914.

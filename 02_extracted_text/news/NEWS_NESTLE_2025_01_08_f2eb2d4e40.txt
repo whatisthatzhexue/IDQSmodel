@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI tracks global equities lower as US interest rate cut hopes fade
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/08/fbm-klci-tracks-global-equities-lower-as-us-interest-rate-cut-hopes-fade
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI slumped following a steep decline in Wall Street overnight as fears over inflation levels in the US threatened to keep interest rates higher for longer. At the midday break, the benchmark index was down 7.26 points to 1,622.53, returning once more below a key psychological support of 1,630 points. The broader market was overwhelmingly lower with 719 decliners dwarfing just 284 gainers. Turnover was 2.23 billion shares valued at RM1.48bil.
+
+[NEWS_P002] Following a higher-than-expected number of US job openings reported for November, investors piled into bets that the US Federal Reserve will pause its rate cuts at the Federal Open Market Committee meeting in January. CME FedWatch Tool currently has a 95.2% probability that the central bank will leave the lending rate unchanged with just 4.8% chance of a 25 basis points reduction. Asian markets tracked the US equities lower with Japan's Nikkei sliding 0.16% to 40,015 and China's composite index dropping 1.46% to 3,182.
+
+[NEWS_P003] Hong Kong's Hang Seng slid 1.59% to 19,137. Singapore's Straits Times, however, bucked the trend, rising 0.64% to 3,852. On Bursa Malaysia, Nestle slid 64 sen to RM95.16, Hartalega fell 19 sen to RM3.69 MISC dropped 22 sen to RM7.33. MPI shed 80 sen to RM25 and Vstecs slid 13 sen to RM3.94. Meanwhile, notable gainers included MAHB rising 10 sen to RM10.74 and Gamuda climbing nine sen to RM5.29. Topping the list of active counters, ACE Market debutant Swift Energy Technology rose 10 sen above its initial public offering price to 38 sen with a volume of 260.58 million shares.

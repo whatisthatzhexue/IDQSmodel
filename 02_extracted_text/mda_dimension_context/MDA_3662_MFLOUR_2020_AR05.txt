@@ -1,0 +1,165 @@
+document_id: MDA_3662_MFLOUR_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 9, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 126.081, "paragraph_count": 9, "paragraph_length_distribution": {"max": 1181, "mean": 732.0, "min": 34}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P003]
+Overall, the sentiment in poultry
+integration segment was dampened due to the
+reduction in demand from the food service channel
+as restaurants were closed for dine-in arising from
+the implementation of Movement Control Order
+(“MCO”) which began in March 2020. The fl our and grains trading segment experienced
+a year-on-year growth of 2.4% to RM2.03 billion
+from RM1.98 billion due to higher sales volume in
+fl our. The grains sales volume was 2% lower than
+previous year due to the lower demand of feed as
+resulted from lower consumption of meat during the
+lockdown period. The Group’s share of profi t from the joint venture
+in Indonesia, PT Bungasari Flour Mills Indonesia
+(“BFMI”) amounted to RM1.0 million as compared to
+a share of profi t of RM14.1 million in the preceding
+year. Whilst demand for fl our remained strong,
+BFMI recorded lower profi t in 2020 mainly due
+to higher depreciation and interest cost due to
+commencement of operations of new manufacturing
+facilities during the year. Amidst positive progress in the fl our and grains
+trading segment, we will continue our efforts to drive
+production effi ciency through better fl our extraction
+and blending process.
+[MDA_P005]
+With the improvements
+on track, we will be able to reduce production costs
+through optimum feed conversion ratio and lower
+mortality rate. With the commissioning of our new
+poultry processing plant in Lumut, processing
+capacity had increased by 3 times to slaughter live
+chickens and further process into higher value-
+added products for a wider industry base, retailers
+and consumers. This would reduce the segment’s
+exposure to the volatile prices in live bird trading
+and generate better profi tability from value-added
+products.
+[MDA_P007]
+Outlook and Prospects for 2021
+As food manufacturing is our core business, we are
+responsible to feed people in the countries in which
+we operate but challenges of uncertain global
+economic environment, volatile commodity prices
+and foreign exchange rates arising from COVID-19
+pandemic will have an impact on the Group’s
+performance. Due to these challenges, the Board will be taking
+proactive and preventive measures to mitigate the
+uncertainties on the Group’s performance in 2021. MANAGEMENT DISCUSSION
+AND ANALYSIS (CONT’D)
+[MDA_P009]
+RM’000
+RM’000
+RM’000
+RM’000
+RM’000
+Revenue
+2,538,686
+2,402,283
+2,423,774
+2,681,563
+2,680,670
+Profi t before tax
+111,319
+96,493
+39,933
+78,295
+36,027
+Tax expense
+(18,359)
+(24,530)
+(12,467)
+(17,693)
+(15,443)
+Profi t for the year
+92,960
+71,963
+27,466
+60,602
+20,584
+Minority interests
+(12,125)
+(3,395)
+(9,690)
+(17,351)
+(15,171)
+Profi t attributable to equity
+holders of the Company
+80,835
+68,568
+17,776
+43,251
+5,413
+Issued share capital (RM’000)
+275,120
+377,501
+377,501
+527,571
+530,665
+Shareholders’ fund (RM’000)
+833,105
+834,616
+819,950
+1,094,312
+1,070,859
+Net assets per share (sen) *
+Basic earnings per share (sen) **
+14.69
+12.46
+3.23
+4.51a
+0.54a
+Gross dividends (%)
+13.00
+9.50
+5.50
+5.72
+3.43
+* Based on number of shares (’000)
+550,239
+550,285
+550,285
+1,004,095
+1,010,282
+** Based on weighted average
+number of shares (’000)
+550,239
+550,270
+550,285
+958,710
+1,007,587
+Note:
+a. As disclosed in Note 22 to the Financial Statements.
+2,539
+2,402
+2,424
+2,682
+2,681
+Revenue
+(RM’Million)
+Basic Earnings Per Share
+(Sen)
+14.69
+12.46
+3.23
+4.51
+0.54
+Proﬁt Before Tax
+(RM’ Million)
+Shareholders’ Fund
+(RM’ Million)
+1,094
+1,071
+GROUP FINANCIAL
+HIGHLIGHTS

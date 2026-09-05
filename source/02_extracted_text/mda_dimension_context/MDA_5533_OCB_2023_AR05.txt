@@ -1,0 +1,58 @@
+document_id: MDA_5533_OCB_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 32, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 114.107, "paragraph_count": 32, "paragraph_length_distribution": {"max": 1199, "mean": 902.656, "min": 175}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+The Board of Directors of OCB Berhad (“OCB” or “the Company”) and the Management are pleased to present
+material non-financial information on OCB and its group of companies (“OCB Group” or “the Group”) to complement
+the detailed information in the Directors’ Report and Financial Statements sections. The Management Discussion
+and Analysis (“MD&A”) will give shareholders and investors an operational commentary of the business of the Group.
+OVERVIEW OF THE GROUP’S BUSINESS AND OPERATIONS
+OCB is an investment holding company. During the financial year ended 31 December (“FYE”) 2023, the Company
+has 4 business operations which are divided into the following divisions:
+[MDA_P009]
+Registration No. 195901000114 (3465-H)
+REVIEW OF THE FINANCIAL RESULTS AND FINANCIAL CONDITIONS (cont’d)
+The Group reported a profit before taxation of RM12.7 million for FYE 2023 as opposed to a loss before taxation
+of RM2.0 million in the FYE 2022 because of higher profit reported from Consumer Foods and Bedding Products
+Divisions. The Consumer Foods Division posted a profit before taxation of RM11.7 million for FYE 2023 as compared to a
+loss before taxation of RM2.2 million in the FYE 2022 mainly due to higher products margin because of increase
+in selling price and stabilization of raw materials cost during the year. The main raw materials price such as flour,
+palm oil and soy bean oil have decreased in the range of 13% to 24% during the year. The Bedding Products Division reported a profit before taxation of RM6.9 million for FYE 2023 as against a profit
+before taxation of RM5.5 million in the FYE 2022 because of reopening of economy after Covid-19 restriction. Domestic projects have seen an uptake in activities after the long lockdown. Project sales has increased to RM18.3
+million in the FYE 2023 as compared to RM13.6 million reported in the immediate preceding year.
+[MDA_P017]
+The Division also resumed participation in more food fairs as the global economy continue to reopen. In 2023, the
+Division participated in a total of 3 exhibitions, namely:
+1. FHA–Food & Beverages, Singapore 2023
+2. THAIFEX–Anuga Asia 2023
+3. FHM–Food & Hotel Malaysia, Kuala Lumpur Convention Centre
+Operationally, the Division performed well for the Year 2023 as raw materials prices stabilized. Overall direct
+materials costs has decrease around 7%. The Division’s profitability was also helped by the increase in products’ selling price between the Years 2022 and 2023. In 2023, the implementation of imbalance cost pass-through (ICPT) saw a significant increase in utility rate from
+RM0.037/kWh to RM0.20/kWh, the Division was exploring the possibility of lowering energy costs by going into
+solar energy. All in all, Year 2023 has been a good year for the Division and we foresee it to perform better in the next financial
+year. The Division will continue to focus on automation and digitalization to be cost-efficient going forward. Bedding Products Division
+The Division has invested in the operations of The KING KOIL Flagship Stores.
+[MDA_P025]
+Women & Children Block, Tengku Ampuan Afzan Hospital, Kuantan, Pahang
+As at 31 December 2023, the Division’s order book stood at RM51.5 million, which showed a 40% increase as
+compared to the Year 2022. In view of the order books on hand and the continued efforts to secure sales volume,
+the Division expects the level of sales and profitability in the FYE 2024 onwards to be optimistic. MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P032]
+Beside the rationalisation
+of subsidy on targeted food products, the high cost of living and inflation risk as well as higher service tax rate for
+some services and the re-introduction of the Goods and Services Tax will dampen domestic demands. The Group recognise these challenges and have plans to tighten up on our expenditures and at the same time
+improve on productivity. It will stay focused on the safe side and away from expanding with new products and
+services that have not gone through the MD&A process. OCB Group plans to review and strengthen the solid
+foundation that it has built over the years and clear the path for more sales volumes. On the corporate side, the
+Group will start looking at being ESG compliant and navigating the ESG reporting complexity with strategies to cut
+through the clutter. Moving forward, the Group works on the digital drive towards sustainability in the process of
+achieving its short-term and long-term objectives. MANAGEMENT DISCUSSION
+AND ANALYSIS

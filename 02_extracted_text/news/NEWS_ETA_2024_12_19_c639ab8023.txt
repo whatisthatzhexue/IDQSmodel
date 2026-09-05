@@ -1,0 +1,18 @@
+[TITLE]
+South Korea exempts Singaporean travellers from ETA requirement until end-2025
+
+[METADATA]
+ticker: ETA
+company_name: Annual Report 2020
+publish_date: 2024-12-19
+source_name: The Star
+url: https://www.thestar.com.my/aseanplus/aseanplus-news/2024/12/19/south-korea-exempts-singaporean-travellers-from-eta-requirement-until-end-2025
+confidence_tier: low
+
+[NEWS_P001] SINGAPORE: South Korea has extended the exemption of nationals from 22 countries and regions, including Singapore, from having to apply for electronic travel authorisation (ETA) for one year until Dec 31, 2025. Known as the Korea Electronic Travel Authorisation, or K-ETA, the advance travel permission is an entry requirement for travellers from visa-free countries and regions such as Australia and Hong Kong. According to a notice dated Dec 11 on the K-ETA website, the last day of the exemption has been pushed back from Dec 31, 2024, to the end of 2025 in order to “stimulate the tourism industry”.
+
+[NEWS_P002] The K-ETA costs 10,000 won (S$9.30) per person and needs to be applied for at least 24 hours before the flight. Earlier in December, South Korean Culture Minister Yu In-chon told Bloomberg Television that there was a slight concern that tourist arrivals may decline in 2025, as he urged people to continue visiting his country, following the political chaos sparked by a short-lived imposition of martial law. The K-ETA is valid for multiple entries over three years using the same passport.
+
+[NEWS_P003] Unlike a visa, an ETA is more for short-term stays and is generally easier to apply for. According to the K-ETA notice, “those who wish to receive benefits from K-ETA approval, such as not having to submit an arrival card, may still apply for it” but they would need to pay the application fee. In October 2023, about 209,000 passengers travelled between Singapore and South Korea, compared with 153,000 in October 2019, said Changi Airport Group in November.
+
+[NEWS_P004] In the first 10 months of 2023, 1.8 million passengers travelled between the two countries, compared with 1.32 million over the same period in 2019. - The Straits Times/ANN

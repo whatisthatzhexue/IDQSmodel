@@ -1,0 +1,192 @@
+document_id: MDA_3689_FN_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 83, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Key factors reigning in a fuller recovery
+are high inflation and muted trade with China,
+which has enforced several lockdowns in
+attempts to maintain zero-COVID. Economic growth discrepancy aside, both
+countries continue to be affected by supply
+chain disruptions and a sharp increase in
+the price of commodities, especially palm
+oil, skimmed milk powder and tin plates – all
+of which are used in F&NHB’s products and
+packaging. Both our key markets have also been
+impacted by the US Government’s monetary
+tightening and interest rate hikes, which have
+resulted in the reverse flow of capital from
+emerging markets back to the US, contributing
+to depreciation in regional currencies. As of the end of September 2022, the Malaysian
+ringgit had weakened to 4.6 against the dollar. However, the Thai Baht was even more affected,
+dipping to 38 against the dollar – marking its
+lowest exchange rate since July 2006. The
+weak Ringgit and Baht further increase the cost
+of already high imported commodity prices.
+[MDA_P003]
+1 According to a Ministry of Finance press release,
+11 Feb 2022
+2 https://www.theedgemarkets.com/article/world-
+bank-ups-2022-gdp-growth-forecast-malaysia
+3 https://www.cnbc.com/2022/08/15/thai-second-
+quarter-gdp-grew-2point5percent-year-on-year-
+below-expectations.html
+KEY MARKET TRENDS
+OUR RESPONSE
+Digitalisation has been a catchphrase for
+a few years and has further accelerated
+throughout
+the
+pandemic. To
+remain
+competitive,
+corporations
+are
+fully
+digitalising their operations to capture
+and analyse data for 1) more informed
+decision-making;
+2)
+more
+effective
+marketing; 3) better customer service, and
+4) more efficient operations. Consumers
+today increasingly rely on technology
+for daily tasks such as banking, working
+and education. Trends towards digital
+channels also mean cyber risk is a global
+focus of organisations and governments. The rising trend in cashless payments has
+positively boosted online shopping, which
+had
+remained
+strong
+post-pandemic,
+indicating that consumers are already
+accustomed
+to
+the
+convenience,
+affordability,
+and
+rewards
+of
+online
+shopping.
+[MDA_P004]
+•
+Business intelligence tools are vital
+enablers in our operations, particularly
+in gathering market insights, including
+consumers’ purchasing behaviour and
+the movement of commodity prices. •
+A robust Cybersecurity Framework
+ensures
+effective
+identification,
+protection, detection, response, and
+recovery of cybersecurity incidents. Cybersecurity training and external
+vulnerability assessment were also
+conducted during the year. •
+We
+continue
+to
+increase
+our
+e-commerce
+presence
+through
+partnering with e-commerce platforms
+like Lazada, Shopee and partners like
+Potboy and JOCOM. At the same, we
+continued to grow our own platform,
+F&N Life, in Malaysia and launched
+F&N Nom-Aroi in Thailand. •
+Our
+Enterprise
+resource
+planning
+system and ASRS at Shah Alam
+warehouse and regional distribution
+centre
+in
+Rojana
+create
+greater
+efficiencies while reducing the risk of
+human injury. Even before the pandemic, there was
+increasing awareness of the importance of
+maintaining a good diet and being physically
+active to optimise one’s well-being. Since
+the pandemic, people are taking their
+health and well-being even more seriously.
+[MDA_P007]
+Fraser
+& Neave
+Holdings
+Bhd
+Annual
+Report
+4 https://focusmalaysia.my/not-so-great-
+resignation-59-of-workers-in-southeast-
+asia-not-quitting-without-job-offers/
+In recent years the clarion call for climate
+action has gained urgency, as the effects
+of an increasing global temperature are
+beginning to be evident. Most governments
+have committed to taking action to limit the
+global temperature increase to 2°C from
+pre-industrial days. Malaysia has set the
+goal to reach carbon neutrality by the year
+2050 through efforts to halter deforestation
+and
+reduce
+methane
+emissions. It
+is
+imperative that corporations, organisations
+and individuals also play their part. Indeed,
+with increasing awareness of the potential
+calamity that unmitigated emissions will
+bring, investors, employees, customers and
+consumers actively seek to support green
+organisations. Companies that do not take
+emissions reduction seriously risk alienating
+their important stakeholders. • We
+embarked
+on
+renewable
+energy
+through
+solar
+PV
+systems
+at
+our
+manufacturing facilities in 2020.
+[MDA_P009]
+As the World Bank puts
+it, poorly managed waste is contaminating the
+world’s oceans, clogging drains, transmitting
+diseases, increasing respiratory problems
+from burning, and unknowingly harming
+animals that consume waste. Among the
+most effective solutions to the problem is to
+increase circularity in the value chain, reduce
+raw materials needed, prioritise renewable
+inputs, and recover/recycle as much as
+possible. Consumers and other stakeholders
+today have high expectations of corporations
+in the fast-moving consumer goods sector to
+demonstrate a commitment to effective and
+sustainable waste management. • Apart from renewable energy, we source
+raw materials that are produced sustainably,
+such as RSPO, VIVE, and BONSUCRO. We
+only use paper carton products certified
+by Forest Stewardship Council (FSC). We
+also aim to achieve 100 per cent physical
+certified palm oil by 2025. • We have increased the use of recycled
+material in our packaging to 25 per cent and
+aim for all beverage and dairy packaging to
+be 100 per cent recyclable by 2025.

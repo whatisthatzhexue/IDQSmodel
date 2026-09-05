@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI on course to sixth straight day of losses
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-05-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/22/fbm-klci-on-course-to-sixth-straight-day-of-losses
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's benchmark index is well into a sixth consecutive session of losses as consolidation pressure set the index back to end-April levels of trading. At midday, the FBM KLCI was down 13.69 points to 1,531.11, putting its losses for the week thus far at 2.5%. Bank shares were seen weighing heavily on the index ahead of their corporate results - scheduled to be released over the coming days. Public Bank, which announced its results yesterday, dropped 11 sen to RM4.32.
+
+[NEWS_P002] Maybank, the country's largest lender, shed nine sen to RM9.91. CIMB fell nine sen to RM6.91, Hong Leong Bank slid 22 sen to RM19.78 and RHB dipped one sen to RM6.70. Other counters weighing on the index included PPB down 18 sen to RM11.60, Sunway shaving seven sen to RM4.82 and Gamuda dropping six sen to RM4.52. Trading on the domestic market remained subdued as investors wait by the sidelines for fresh trading leads. The sell-off on Bursa Malaysia was broad-based, as declining issues outweighed advancing by 3.52-to-1.
+
+[NEWS_P003] Market volume came to 1.83 billion shares transacted for RM962.9mil. The sell-off on Bursa Malaysia tracked the weakness in regional markets as concerns over US budget negotiatons and rising debt levels weighed on sentiment. Japan's Nikkei led key markets lower, falling 1.12% to 36,880. Hong Kong's Hang Seng shed 0.55% to 23,695 while on the Chinese mainland, the composite index was flat at 3,387. Across the causeway, Singapore's Straits Times index slipped 0.33% to 3,869.

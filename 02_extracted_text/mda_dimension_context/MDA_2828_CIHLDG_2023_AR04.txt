@@ -1,0 +1,59 @@
+document_id: MDA_2828_CIHLDG_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P007]
+Liabilities: Trade And Other Payables
+The Group’s trade and other payables decreased 20% to RM229.59 million from RM286.00 million in FY2022. This is in line
+with the lower average commodity prices recorded at the balance sheet date under review. Capital Structure And Capital Resources
+The Group remains prudent in maintaining a sound financial position to enable the execution of strategic objectives in creating
+value over the coming years. The Group’s borrowings increased by 4%, from RM403.90 million to RM420.97 million during the
+year. The Debt/Equity ratio of 123% reported as at 30 June 2022 decreased to 103% as at 30 June 2023. It is important to note
+that while total borrowings are still above shareholders’ fund levels, the debt is mainly for short term financing of no more than 90
+days outstanding to purchase raw materials for sales. REVIEW OF OPERATING ACTIVITIES
+Operating Activities
+Despite these challenging times, the Group is satisfied with the current period’s performance. The Group’s Earnings Before Interest
+and Taxation (“EBIT”) of RM190.14 million achieved a 48% increase from the RM128.90 million recorded in the previous period.
+[MDA_P008]
+This is in line with the increase in sales as a result of better margin traded alongside the lower freight rates. Overall, the Group’s cash conversion cycle has also seen impressive improvements. Total cash conversion cycle days have gone
+from 52.1 days in FY2022 to 44.5 days in FY2023. During the financial year, the Group was awarded Highest Returns to Shareholders Over Three Years under the Consumer Products
+& Services category at The Edge Malaysia Centurion Club Awards 2022. Aside from that, there were no further significant developments in the operating activities during the financial year. The Group takes pride in its commitment to safeguarding employees’ well-being by consistently maintaining full take-home salaries,
+annual bonuses, and timely salary increments throughout the challenging past years. This dedication remains resolute even in
+anticipation of future challenges and uncertainties. MANAGEMENT DISCUSSION AND ANALYSIS
+(continued)
+[MDA_P009]
+ANNUAL REPORT 2023
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)
+ANTICIPATED OR KNOWN RISKS
+Foreign Exchange Risk
+The Group annually exports around 99% of its products worldwide. which increases exposure to currency exchange risk. However, this risk is managed by using forward currency contracts whenever possible. Country Risk
+The financial performance of the Group is significantly influenced by the political, economic, and regulatory conditions in the
+importing countries. Negative developments in these areas could lead to contract defaults, collection issues, bad debts, and
+potential loss of market share. The Group closely monitors the importing countries’ situation on a weekly or daily basis and takes
+proactive measures to mitigate potential risks. FUTURE PROSPECTS, POSSIBLE TRENDS AND OUTLOOK
+EDIBLE OIL DIVISION
+Palm Oil Supply Pressures - Impact of Climate Crisis on Palm Oil
+Extreme weather patterns, including El Nino, excessive rainfall, and flooding, have been a subject of focus in the palm oil
+industry.
+[MDA_P010]
+However, Malaysian Palm Oil Board (MPOB) Chairman Datuk Mohamad Helmy Othman Basha indicates that El Nino’s
+significant impact on palm oil yields in the latter half of 2023 is now unlikely due to slight shifts in weather patterns. The likelihood
+of a major El Nino event has diminished compared to earlier estimates, and the projected production impact may differ from
+initial expectations. While El Nino may not be a major concern this year, the palm oil industry, like other agricultural sectors,
+remains susceptible to ongoing worries related to extreme weather patterns. Excessive rainfall, potentially leading to flooding,
+could affect the yield of fresh fruit bunches, disrupting harvesting and transportation processes. Malaysia’s recent 27% surge in
+production between April and May, the largest rise in over two years, is attributed to enhanced labour conditions resulting in
+more harvesting days. Palm Oil Demand Pressures
+a) Indonesia B40 Biodiesel Programme
+The Indonesian Energy Ministry is planning to implement a new blending regulation that will raise the palm oil content in biodiesel
+to 40%.
+[MDA_P013]
+The newly established European Union (“EU”) regulations banning imports of commodities linked to deforestation are seen as
+blocking market access for palm oil into the EU region. Although the ban may not impact Europe’s import of palm oil, it may have a
+reputational impact on palm oil products as a whole and possibly lead to false impressions on end-users. The Group’s main buyers
+are from Africa, the Middle East, and the Indian Subcontinent. It’s worth noting that the Malaysian Palm Oil Council (“MPOC”) is
+urging the EU to provide clearer guidelines on defining ‘high-risk’ countries under the recently approved Deforestation Regulation. The MPOC emphasises that existing scientific data already supports excluding Malaysia from this list. We are also hopeful that the
+forced labour regulations will not create trade barriers. MANAGEMENT DISCUSSION AND ANALYSIS
+(continued)

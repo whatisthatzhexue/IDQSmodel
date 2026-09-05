@@ -1,0 +1,86 @@
+document_id: MDA_3689_FN_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 89, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 287.905, "paragraph_count": 89, "paragraph_length_distribution": {"max": 2877, "mean": 868.596, "min": 32}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion
+& Analysis
+[MDA_P023]
+•
+Deliver F&N’s brand promise to
+consumers through product excellence
+•
+Retain and increase market share
+through product range expansion and
+portfolio diversity
+•
+Reputational risk and customer claims
+arising from a break in the supply chain
+or compromised packaging outside the
+factory
+•
+Regulatory changes that may affect
+product recipe and/or packaging
+Product & Service Labelling
+Labelling our products and services
+in a responsible and transparent
+way for consumers. •
+Meet regulatory requirements
+•
+Meet consumer expectations relating to
+product and ingredient communication
+•
+Failure to meet stakeholder expectations
+on transparency of product information
+Innovation
+Building competitive advantage
+through innovative products and
+solutions to meet consumer and
+societal needs.
+[MDA_P045]
+Unlocked value through a strategic collaboration with our
+aluminium can supplier that will result in a stable supply and
+lower cost for the Group. Realigned our structure with the business needs and
+opportunities presented by COVID-19 and digital technology to
+become a more efficient, agile and focused organisation. Streamlined systems and processes that improved productivity,
+as well as generated cost savings and better business insights. Leveraging on sukuk programme to fund the acquisition if
+suitable opportunity is available. Create a smart hybrid workplace that facilitates greater
+integration and collaboration when our team are housed under
+one roof in Shah Alam. Continue to review our governance efforts and establish
+strong governance programme to improve operations,
+empower our employees, strengthen stakeholder engagement
+and deliver business value. Management Discussion
+& Analysis
+Fraser & Neave Holdings Bhd Annual Report 2021
+[MDA_P067]
+For the former, TEAPOT SCM Duo Sachets in Original and Chocolate
+ﬂavours were introduced. Made from high quality fresh milk, the twin 25g sachets are
+affordably priced at THB10. The pack size provides the convenience of usage, and at
+the same time maintains the hygiene of product. Hawkers, meanwhile, are now better
+served with the user-friendly and value-for-money 500g stand-up pouch. The pouch
+was promoted online via YouTube and Facebook, in addition to product sampling. Management Discussion
+& Analysis
+Fraser & Neave Holdings Bhd Annual Report 2021
+[MDA_P089]
+F&N ICE MOUNTAIN
+Tapping into increasing demand for
+quality drinking water at home, F&N
+ICE MOUNTAIN Mineral Water
+launched the super-sized 6L bottles in
+Peninsular Malaysia. Initially available
+only on F&N Life, the super-sized
+bottles can now be purchased
+conveniently in retail outlets. To make
+it even easier for consumers at Klang
+Valley to stock up on the 100% natural
+mineral water at home, we launched
+subscription plans for six or 12 months
+with free delivery and complimentary
+electronic water dispensers. Management Discussion
+& Analysis
+Fraser & Neave Holdings Bhd Annual Report 2021

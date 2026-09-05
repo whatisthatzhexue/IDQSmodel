@@ -1,0 +1,98 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 28511.0,
+      "current_value": 28511.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P004]",
+      "metric": "segment revenue",
+      "note": "segment revenue: components sum 28511.00, stated total 67200.00, difference -57.57%, status material_discrepancy.",
+      "previous_value": 67200.0,
+      "source_text": "GRAINS AND AGRIBUSINESS SEGMENT The Grains and Agribusiness segment is the largest contributor to Group revenue. This segment comprises Flour Milling, Feed Milling, Corn Trading and Livestock Farming, contributing 78% of the Group’s revenue and 4% of profit in FY2021. FFM Berhad (“FFM”) Group, an 80",
+      "stated_pct": 0,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": 4061.0,
+      "current_value": 4061.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P016]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 4061.00, stated total 50.00, difference 8022.00%.",
+      "previous_value": 50.0,
+      "source_text": "In September 2021, GSC completed the acquisition of 18 cinema assets from MCAT Box Office Sdn Bhd (“MBO”) and Reel Entertainment Holdings Sdn Bhd, increasing its market share to more than 50%. In December, we also celebrated the first Happy Food Co outlet launch in GSC Southkey, Johor Bahru. Happy F",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 8172.0,
+      "current_value": 8172.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P018]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 8172.00, stated total 2021.00, difference 304.35%.",
+      "previous_value": 2021.0,
+      "source_text": "ENVIRONMENTAL ENGINEERING AND UTILITIES SEGMENT PROPERTY SEGMENT Chemquest Sdn Bhd (“CQ”) Group is a leading provider of innovative solutions, advanced technologies and professional management for the water and sewage industries. In 2021, the CQ Group’s utilities and environmental engineering, and w",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 10055.0,
+      "current_value": 10055.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P023]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 10055.00, stated total 1500.00, difference 570.33%.",
+      "previous_value": 1500.0,
+      "source_text": "GROUP FINANCIAL PERFORMANCE The Group achieved total revenue of RM4.86 billion, 16% higher than FY2020, as all core segments recorded higher revenue. The Group achieved a 5% increase in pre-tax profit to RM1.50 billion. Our main business, Grains and Agribusiness, recorded a decrease in profit by 77%",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 33693.0,
+      "current_value": 33693.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P026]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 33693.00, stated total 2220.00, difference 1417.70%.",
+      "previous_value": 2220.0,
+      "source_text": "MANAGING DIRECTOR’S REVIEW Property Group Financial Position Group Cash and Cash Equivalents Group Bank Borrowings Group Capital Expenditure Segment revenue and profit were higher at RM115 million (FY2020: RM67 million) and RM15 million (FY2020: RM4 million) respectively. The improvement in profit w",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 3160.0,
+      "current_value": 3160.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P027]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 3160.00, stated total 115030.00, difference -97.25%.",
+      "previous_value": 115030.0,
+      "source_text": "81% or RM890 million are foreign currency-denominated working capital loans for the foreign operations of the Grains and Agribusiness segment; these were mainly in United States Dollars, Indonesian Rupiah and Vietnamese Dong. The Group incurred total capital expenditure of RM218 million in the finan",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    }
+  ],
+  "document_id": "MDA_4065_PPB_2021",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "segment revenue: components sum 28511.00, stated total 67200.00, difference -57.57%, status material_discrepancy.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 4061.00, stated total 50.00, difference 8022.00%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 8172.00, stated total 2021.00, difference 304.35%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 10055.00, stated total 1500.00, difference 570.33%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 33693.00, stated total 2220.00, difference 1417.70%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 3160.00, stated total 115030.00, difference -97.25%."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 114,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 5,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

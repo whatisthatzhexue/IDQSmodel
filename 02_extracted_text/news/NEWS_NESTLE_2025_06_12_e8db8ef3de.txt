@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia up in early trade, but trade tensions cap gains
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/12/bursa-malaysia-up-in-early-trade-but-trade-tensions-cap-gains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia extended gains early Thursday, supported by soft US inflation data that eased tariff worries, as traders looked for updates on China-US trade talks. The FBM KLCI rose 2.24 points, or 0.15%, to 1,526.08 as of 9:18 am, after opening 3.87 points higher at 1,527.71. Overnight, the S&P 500 declined 0.27% to end the session at 6,022.24 points. The Nasdaq declined 0.50% to 19,615.88 points, while the Dow Jones Industrial Average ended essentially unchanged at 42,865.77 points.
+
+[NEWS_P002] Inter-Pacific Research noted that while optimism over a potential U.S.-China trade deal remains, tariff concerns persist after President Trump threatened unilateral tariffs on certain countries, ahead of the July end to the 90-day tariff pause — likely keeping market sentiment cautious for longer. The research house said the uncertainties could again drag on market performance, although the FBM KLCI could instead trend within a tight band until there are more developments on the tariff front.
+
+[NEWS_P003] As it is, the selling pressure is milder due to the continuing wait-and-see stance, and this could provide some near-term stability to the key index. “With the latest tariff developments, the key index could surrender some of yesterday’s gains as the 1,525 may remain a major resistance. “Below, the supports are at 1,520 points and 1,516 points, respectively. The resistance, on the other hand, are at 1,530 and 1,535 points respectively,” Inter-Pacific said.
+
+[NEWS_P004] Among the gainers on Bursa Malaysia, PETRONAS Gas rose 26 sen to RM17.96, Petron added 10 sen to RM3.68, Datang gained six sen to RM1.91 and Kelington climbed five sen to RM3.64. Nestle slid 20 sen to RM75.36, Carlsberg lost 10 sen to RM19.36, DKSH fell eight sen to RM5.11 and Hong Leong Bank declined six sen to RM19.46.

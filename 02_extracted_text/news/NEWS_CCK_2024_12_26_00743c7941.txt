@@ -1,0 +1,12 @@
+[TITLE]
+CCK Consolidated declares special dividend of 5.0 sen
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2024-12-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/26/cck-consolidated-declares-special-dividend-of-50-sen
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: CCK Consolidated Holdings Bhd has declared a special interim single-tier dividend of 5.0 sen per share for the financial year ending Dec 31, 2024. In a filing with Bursa Malaysia, CCK said the entitlement and payment dates of the special dividend have been fixed on Jan 10, 2025, and Jan 22, 2025, respectively. CCK posted a net profit of RM64.5mil in the nine months ended Sept 30 on revenue of RM791.8mil.

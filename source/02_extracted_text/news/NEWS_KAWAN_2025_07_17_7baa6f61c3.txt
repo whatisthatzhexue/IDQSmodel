@@ -1,0 +1,14 @@
+[TITLE]
+Kawan Renergy in RM39mil contract win
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-07-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/17/kawan-renergy-in-rm39mil-contract-win
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Kawan Renergy Bhd has accepted a letter of award from Gas Malaysia Energy Advance Sdn Bhd (GMEASB) to undertake the engineering, procurement, construction and commissioning of the gas turbine co-generation system at Port Klang, Selangor for RM38.8mil. In a filing with Bursa Malaysia, the engineering solutions provider said the work will be completed within 20 months from the acceptance of the letter of award or any other date as advised in writing by GMEASB.
+
+[NEWS_P002] “Barring any unforeseen circumstances, the project will have no effect on the issued share capital and substantial shareholdings of the company, as there is no issuance of new ordinary shares in the company. “The project is expected to contribute positively towards the earnings and net assets of the company and its subsidiaries for the duration of the project,” said Kawan Renergy.

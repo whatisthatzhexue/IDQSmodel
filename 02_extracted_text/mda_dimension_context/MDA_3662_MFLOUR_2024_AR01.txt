@@ -1,0 +1,67 @@
+document_id: MDA_3662_MFLOUR_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion
+and Analysis
+[MDA_P002]
+ANNUAL REPORT 2024 | Malayan Flour Mills Berhad 25
+Similarly, in aquaculture, we are committed to continuous innovation and refi nement of our products to
+enhance the quality of our aqua feeds and better meet client specifi cations. Financial Performance Highlights
+During the fi nancial year ended 31 December 2024 (“FY2024”), MFM delivered a commendable performance,
+with the Flour and Grain Trading (“FGT”) segment in Malaysia and Vietnam being the key driver of our strong
+fi nancial results. The FGT segment in Malaysia and Vietnam saw profi t after tax grow by 82.5% to RM126.1 million in FY2024
+from RM69.1 million previously, while maintaining a stable revenue base of RM3.1 billion. The signifi cant
+bottom-line growth was driven by higher sales volume and stable raw material prices. Conversely, 2024 proved to be a challenging year for the poultry segment, which was impacted by consumer
+boycotts arising from the geopolitical confl ict in the Middle East. Additionally, the removal of subsidies and
+higher reversal of deferred tax assets further weakened the segment’s performance.
+[MDA_P003]
+The Group’s PI segment, through the 51% equity stake in DTSB and its subsidiaries, ended FY2024
+with a PAT of RM3.1 million, 93.9% lower than RM50.7 million in the previous year. The lower profi t was
+achieved on a fl at revenue of RM1.1 billion. Likewise, the share of profi t also declined to RM1.6 million from
+RM25.9 million in the prior year. Meanwhile, the Group’s 30% joint venture in Indonesia, PT Bungasari Flour Mills Indonesia (“BFMI”), continued
+to face headwinds due to heightened market competition in the country, coupled with a drop in export sales
+volume. However, BFMI signifi cantly reduced its loss after tax to RM30.0 million from RM66.5 million in the
+prior year, as a result of improved margins and higher sales volume of processed wheat. Revenue remained
+largely the same at RM2.3 billion. At the Group level, the strong performance of the FGT segment in Malaysia and Vietnam more than compensated
+for the weaker results from the PI segment and the underperformance of Indonesia’s operations. In addition,
+the Group recognised a one-off impairment loss of RM42.1 million in FY2024, premised on BFMI incurring
+losses for three consecutive years.
+[MDA_P006]
+ANNUAL REPORT 2024 | Malayan Flour Mills Berhad
+Operations Highlights
+Flour and Grain Trading Segment
+In 2024, global markets for key food commodities, including wheat, remained relatively stable. Favorable
+weather conditions in some regions helped offset uncertainties arising from the existing geopolitical confl icts,
+ensuring a steady supply. While commodity prices experienced fl uctuations, they generally trended toward
+moderation, alleviating cost pressures across the supply chain. Against this backdrop, demand for fl our remained robust, particularly in Malaysia and Vietnam. In Malaysia,
+steady consumption from food manufacturers and households provided a solid foundation for growth. Meanwhile, Vietnam’s expanding bakery and instant noodle industries drive higher fl our consumption,
+refl ecting shifting consumer preferences. Due to stable commodity prices and stronger consumer demand, the FGT segment in Malaysia and Vietnam
+recorded healthy growth. Sales tonnage in Malaysia increased by 5.1% year-on-year in FY2024, while Vietnam
+operations saw an 18.4% rise in quantity sold.
+[MDA_P008]
+Simultaneously, we will maintain a steady supply of
+raw materials and price our end products to align with market needs. Poultry Integration Segment
+Our PI business in FY2024 was affected by the boycott of Western quick service restaurant (“QSR”) chains
+following the Middle East geopolitical confl ict, which led to lower demand and impacted sales. Despite the challenging environment, we continued to increase our broiler production by 6.2% year-on-year
+to more than 50 million birds, mainly attributed to our own farms and contract farms. The achievement was
+largely due to our farming operations using best farming practices and deploying technology that enables
+high yield from the farms. However, throughout the year under review, demand for product segments for the fast food services channel
+was lower than in FY2023, as a result of the boycott. In response, we strategically mitigated the slowdown and
+pivoted our market attention to selling whole birds to food retail channels, which helped optimise utilisation
+in our PI operations.
+[MDA_P010]
+ANNUAL REPORT 2024 | Malayan Flour Mills Berhad 27
+In terms of sales to the market, our retail channel recorded strong year-on-year growth of 60.7%, helping to
+offset weaker demand from the food service and manufacturing segments in FY2024. For the food service
+sales, we saw a gradual recovery towards the end of FY2024, and we remain optimistic that the segment will
+return to normal levels in the near term. The challenges faced in FY2024, which were beyond our control, have underscored the importance of
+diversifying our customer base. We are actively expanding beyond Western QSR brands and exploring new
+growth avenues, including ready-to-eat products, which remain in the early stages of development. MFM
+remains open to strategic opportunities that will drive long-term growth in this segment. Anticipated or Known Risks
+As a food manufacturer, food safety and compliance with industry standards are our top priorities, given the
+widespread consumption of fl our and poultry across diverse cultural, racial, and religious backgrounds. To uphold consumer confi dence, we have implemented Hazard Analysis and Critical Control Points
+(“HACCP”) protocols across all our manufacturing facilities.

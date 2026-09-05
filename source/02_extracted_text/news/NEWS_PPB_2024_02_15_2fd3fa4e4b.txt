@@ -1,0 +1,18 @@
+[TITLE]
+Perdana Petroleum secures new work order
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-02-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/02/15/perdana-petroleum-secures-new-work-order
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: Perdana Petroleum Bhd has announced it has won a work order award and received an extension for an existing award last year. In a filing with Bursa Malaysia, the offshore marine support services provider said the work order award from ROC Oil (Sarawak) Sdn Bhd was won through its wholly-owned subsidiary, Perdana Nautika Sdn Bhd (PNSB). According to the company, the award received on Dec 14, 2023, is for the provision of one unit of anchor handling tug and supply (AHTS) vessel.
+
+[NEWS_P002] “PNSB will provide a unit of AHTS vessel with crew and equipment to perform a continuous 24-hour service for the purpose of assisting and servicing drilling rigs, offshore installations, derrick barges, towing and anchor jobs in the Sarawak region,” it said. The contract is valued at RM8.4mil and began in the first week of January 2024, and is for a duration of up to 120 days with an option to extend for up to 30 days from the commencement date. Additionally, PNSB had also received a work order extension from Saujana Marine Sdn Bhd (SMSB) on Oct 31, 2023 for one unit of accommodation work barge (AWB).
+
+[NEWS_P003] The contract extension is for 220 days beginning Dec 24, 2023 and is valued at RM16.2mil. The company noted PNSB will provide one-unit AWB with crew and equipment to perform a continuous service as per the scope of works agreed to assist SMSB’s project activities. Meanwhile, the extension of this contract related to a letter of award worth RM22.1mil for a duration of up to 240 days with an extension option of up to 30 days that was received on Dec 26, 2023.
+
+[NEWS_P004] This contract commenced on Jan 15, 2024. “The contracts are expected to contribute positively to the earnings and net assets of PPB group for the financial year ending Dec 31, 2024. The contracts will not have an effect on the share capital and shareholding structure of PPB.”

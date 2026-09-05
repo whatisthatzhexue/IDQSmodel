@@ -1,0 +1,88 @@
+document_id: MDA_5202_MSM_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 70, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P050]", "note": "margin: stated 10.00%, calculated 71.43% from profit/revenue, status material_discrepancy.", "source_text": "Africa and Middle East Expand value added product sales into China • Revenue growth of 50% • Total sales volume >1.4 million MT per annum • >10% market share in the Asia-Pacific • Liquidity • Credit rating • Counterparty default Cash Conservation, Cost Savings and Revenue Generation (C2R) initiative", "status": "material_discrepancy"}], "document_id": "MDA_5202_MSM_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 126, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+MSM
+AT A GLANCE
+A PERSPECTIVE FROM
+OUR LEADERSHIP
+OUR APPROACH TO
+VALUE CREATION
+OUR GROUP
+BUSINESS REVIEW
+MSM Malaysia Holdings Berhad
+Sustainable Excellence Through Integration
+GROUP FINANCIAL
+REVIEW
+DR MAZATUL 'AINI SHAHAR
+ABDUL MALEK SHAHAR, FCA
+Chief Financial Officer
+OVERVIEW OF GROUP FINANCIAL PERFORMANCE
+MSM Group has made considerable progress in revitalising the company,
+as demonstrated by the notable enhancement in performance despite
+narrowed losses throughout the fiscal year 2023 compared to the
+preceding year. While the journey has not been without its challenges,
+including heightened input costs, currency fluctuations, and regulatory
+constraints in Malaysia, the Group has successfully managed to navigate
+these hurdles. Despite facing pressures on profit margins and overall financial stability
+due to the aforementioned factors, strategic initiatives and improvements
+in production processes have allowed us to overcome these obstacles and
+chart a path towards a more promising financial future. Regarding the regulatory price ceiling in the Wholesale segment,
+we acknowledge the government’s acknowledgment of the systemic
+anomaly affecting packed sugar prices in Malaysia.
+[MDA_P002]
+The receipt of the
+Joint Sugar Industry incentive in the final quarter of the fiscal year marks
+a significant milestone in our journey. After enduring eight consecutive
+quarters of losses, transitioning to profitability in the final quarter of
+FY2023 signifies a turning point for the Group. This positive outcome is attributed to the benefits realised from various
+initiatives undertaken throughout the year, which include:
+Cost Optimisation Initiatives
+The company has undertaken a series of cost optimisation efforts
+designed to counteract the adverse effects of elevated input
+expenses. Through the refinement of production processes and
+the enhancement of operational efficiency, the company has
+achieved a reduction in refining costs. These advancements
+have been pivotal in bolstering the company's overall margin,
+notwithstanding the challenging market conditions. Improved Margins
+The execution of production enhancements has had a beneficial
+impact on the company’s margins. By rationalising operations
+and maximising resource efficiency, the company has managed
+to produce refined sugar at a reduced cost, thereby elevating
+its profitability.
+[MDA_P003]
+The enhancement in margins acts as a protective
+buffer against the constraints imposed by the regulatory price
+ceilings on sugar sales. Market Dynamics
+In the context of high commodity prices and regulatory price
+ceilings on sugar sales, the company has sustained its market
+presence by leveraging cost efficiency and strategic pricing
+mechanisms. Although the price ceiling constrains the company's
+capacity to adjust prices within the Wholesale segment, the
+emphasis on cost containment ensures competitive advantage
+and margin preservation. Financial Stability
+Confronted with the dual challenges of rising input costs and
+regulatory price ceilings, the company has showcased financial
+resilience by demonstrating flexibility and innovation. The
+investment in production enhancements and cost-reduction
+initiatives is steering the company back towards profitability and
+solidifying its financial standing. Long-term Sustainability
+The company's dedication to production enhancements not only
+bolsters its immediate financial outcomes but also establishes
+a basis for enduring sustainability.
+[MDA_P004]
+Through persistent efforts
+to refine operational efficiencies and diminish expenses, the
+company upholds its resilience amidst market volatilities and
+regulatory limitations. In summary, despite encountering obstacles, the company's
+commitment to executing production optimisation and minimising
+refining costs has played a pivotal role in elevating its financial
+performance. By prioritising operational efficiency, margin
+enhancement, and sustainable growth strategies, the company
+is strategically positioned to tackle the intricacies of the sugar
+industry and propel forward its future expansion.

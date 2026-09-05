@@ -1,0 +1,106 @@
+document_id: MDA_5008_HARISON_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 53, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+Harrisons' income is mainly derived from the marketing, sales, warehousing and distribution of consumer,
+building materials and engineering products, fine wines, agricultural and industrial chemicals, and the
+operation of shipping/logistics, travel agencies and retailing. These businesses are conducted as follows:
+[MDA_P004]
+a. In East Malaysia, Harrisons Sabah Sdn. Bhd. and Harrisons Sarawak Sdn. Bhd. are involved in the
+marketing, sales, warehousing and distribution of fast-moving consumer goods, building materials,
+engineering products and agricultural chemicals as well as the operation of shipping and travel
+agencies; and
+[MDA_P005]
+b. In Peninsular Malaysia, Harrisons Peninsular Sdn. Bhd. and Harrisons Marketing & Services Sdn. Bhd.
+are involved in the marketing, sales, warehousing and distribution of building materials, industrial and
+agricultural chemicals, and import and distribution of fine wines as well as the freight forwarding and
+shipping.
+[MDA_P006]
+Presently, Harrisons has over 400 principals, and distributes approximately 13,000 product items to
+over 15,000 accounts spread all over Malaysia. The Group operates a total network of 27 branches and
+47 warehouses strategically located throughout Malaysia (13 in Peninsular, 9 in Sabah and 5 in
+Sarawak) and is supported by over 1,900 employees.
+[MDA_P009]
+Harrisons’ objective is to focus on its core strength of marketing and distribution, and to maintain its
+position as one of the leading distributors in Malaysia. The Group will continue to expand the sales of the
+Fast-Moving Consumer Goods and Building Materials by securing new agencies of good quality products
+and to grow its customer base in East and West Malaysia.
+[MDA_P011]
+Revenue
+[MDA_P023]
+Revenue increased from RM2.17 billion in FY2022 to RM2.26 billion in FY2023. The increase is mainly due
+to increase in cement sales in the Building Materials and Engineering Products Division. Cement sales was
+driven by tight supplies, rising demands and price increases in Peninsular during FY2023.
+[MDA_P024]
+Sales of our Fast-Moving Consumer Goods declined slightly by 0.34% due to decrease in sales of certain
+agencies and rationalisation of certain products range/agencies of our Fast Moving-Consumer Goods
+products. Sales of our Industrial and Agriculture Chemical products decreased by 10.18% as overall
+demand and selling price soften in FY2023.
+[MDA_P027]
+Sales in the Retailing Segment increased by 8.41% as selling price of the Famous Amos Cookies in
+Singapore increased following increase in ingredient costs.
+[MDA_P028]
+Revenue for the Shipping and Others Segment decreased by 18.45% due to lower commissions earned as
+container handling and freight commissions declined following overall decline in shipping activities in
+Sabah.
+[MDA_P029]
+Gross Profit
+[MDA_P030]
+Gross Profit increased from RM254.15 million in FY2022 to RM263.52 million in FY2023. Gross Profit
+Margin in FY2023 was flat at 11.68% compared to FY2022. Our sales of FMCG was down by 0.3% but our
+Building Materials sales grew by 30%. The Gross Profit Margin of our cement is lower than that of our
+FMCG.
+[MDA_P031]
+Profit Before Taxation
+[MDA_P032]
+The Group Profit Before Taxation for FY2023 of RM89.52 million as compared to RM89.88 million.
+Administrative expenses increased by RM9.22 million for FY2023 as compared to FY2022 as there was a
+reversal of allowance for loss of trade receivables of RM5.4 million in FY2022. Interest expense increased
+by RM1.77 million as Overnight Policy Rate (OPR) increased 0.25% for the year.
+[MDA_P033]
+Profit After Taxation
+[MDA_P034]
+Profit After Taxation increased slightly from RM67.98 million in FY2022 to RM68.80 million in FY2023,
+reflecting an increase of 1.20%.
+[MDA_P036]
+There are 3 main Segments within Harrisons Group:
+1. The Trade and Distribution Segment
+2. Retail Segment
+3. Shipping and Others Segment
+[MDA_P042]
+──────
+──────
+────── ──────
+────
+Total Revenue
+2,202,101
+40,595
+14,381
+2,257,077 100.00
+[MDA_P044]
+Profit Before Interest and Tax
+84,351
+6,210
+3,502
+94,063
+[MDA_P046]
+──────
+──────
+──────
+──────
+Profit before taxation
+[MDA_P050]
+HARRISONS HOLDINGS (MALAYSIA) BERHAD
+ANNUAL REPORT 2023
+MANAGEMENT DISCUSSION AND ANALYSIS (CONTINUED)
+The Trade and Distribution Segment comprise mainly of the Fast-Moving Consumer Products businesses
+in Sabah and Sarawak and Building Materials and Engineering Products in Peninsular. This segment
+continued to perform well in FY2023, exceeding last year’s Profit Before Tax by RM2.1 million (2.71%). The sales of Building Materials and Engineering Products which contributed 19.36% of total revenue
+recorded a growth of 26.31% in FY2023. The significant increase is mainly due to strong demand for
+cement which pushed up selling prices during the year. The Profit Before Tax for the small Retail Segment increased from last year of RM5.48 million to RM6.16
+million this year by RM682,000. Sales of the Famous Amos cookies grew by RM3.9 million or 11.55% for
+FY2023. The Shipping and Others Segment Profit Before Tax is RM3.55 million for FY2023 as compared to RM6.69
+million in FY2022.

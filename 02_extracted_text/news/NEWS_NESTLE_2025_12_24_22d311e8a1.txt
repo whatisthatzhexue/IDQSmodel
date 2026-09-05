@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI dips in early trade despite Wall Street record close
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/24/fbm-klci-dips-in-early-trade-despite-wall-street-record-close
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The local bourse opened slightly lower on Wednesday, despite overnight gains on Wall Street, as investors turned cautious amid overbought technical conditions ahead of the Christmas break. Overnight, Wall Street finished higher, with the S&P 500 closing at a record high after US gross domestic product grew at a stronger-than-expected 4.3%, lifting bond yields and supporting growth stocks. The Dow Jones Industrial Average rose 0.16% to 48,442.41, the S&P 500 gained 0.46% to 6,909.79 and the Nasdaq Composite gained 0.57% to 23,561.84.
+
+[NEWS_P002] The FBM KLCI slipped 1.19 points, or 0.07%, to 1,675.45 at 9.11 am, after opening 0.64 of a point lower at 1,676.00. Among the decliners, Time Dotcom slid eight sen to RM5.48, Maybank fell six sen to RM10.48, FACB Industries lost four sen to RM1.54 and Solarvest declined three sen to RM3.21. On the other hand, Nestle rose 30 sen to RM115.60, KSL added 10 sen to RM3.06, PETRONAS Gas gained 10 sen to RM18.10 and Malaysian Pacific Industries climbed eight sen to RM32.82.
+
+[NEWS_P003] Berjaya Research Sdn Bhd said the FBM KLCI is expected to trade on a firmer yet still measured footing in the near term, underpinned by positive external cues following the better-than-expected US GDP release, which has helped reinforce global risk appetite. However, the research house said the key index is now hovering in overbought territory based on the RSI (relative strength index), suggesting that near-term upside may be increasingly constrained, with a mild pause or consolidation likely to materialise.
+
+[NEWS_P004] Berjaya Research noted that investors may turn more selective as the market digests recent gains, potentially resulting in range-bound trading in the sessions ahead, even as the formation of another bullish candlestick suggests that underlying buying interest remains intact. “Should further upsides prevail, however, the next resistances are located at 1,675-1,680 points. “On the other hand, the near-term supports are pegged at the 1,648-1,638 levels,” Berjaya Research said.
+
+[NEWS_P005] Meanwhile, Rakuten Trade believes the market undertone to remain sturdy ahead of the Christmas break as foreign funds may be looking at domestic stocks as an avenue for their portfolio rebalancing. “The ringgit has strengthened to 4.06 against the US dollar, hence expect the index to hover within the 1,670-1,685 today,” it said.

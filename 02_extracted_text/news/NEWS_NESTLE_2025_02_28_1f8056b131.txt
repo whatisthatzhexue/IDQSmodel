@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia stays in the red at midday on broad-based selling
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/28/bursa-malaysia-stays-in-the-red-at-midday-on-broad-based-selling
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia remained in the red at midday, weighed down by broad-based selling and tracking the overnight decline in global stock markets. The benchmark index dropped by 5.85 points, or 0.37%, to 1,580.75, hitting an intraday low of 1,573.82. Market breadth was negative, with losers outpacing gainers at a ratio of 785 to 188 stocks. Traded volume reached two billion shares, valued at RM1.57 billion. Among the losers on Bursa Malaysia, Nestle tumbled RM3.60 to RM84.40, Dutch Lady slid RM1 to RM29, Malaysian Pacific Industries fell 52 sen to RM18.38, and Ayer lost 50 sen to RM7.
+
+[NEWS_P002] On the other hand, Negri Sembilan Oil Palms added 15 sen to RM4, Yoong Onn rose 14 sen to RM1.79, Country View gained 12 sen to RM1.90, and Eurospan climbed eight sen to RM2.79. Genting Malaysia dropped by 13.98%, or 33 sen, to RM2.03, with 70.22 million shares traded. Meanwhile, Genting declined by 10.46%, or 39 sen, to RM3.34, with 38.83 million shares changing hands. TA Securities said the local market should continue to consolidate ahead of the weekend, given the lack of positive domestic catalysts.
+
+[NEWS_P003] Investors are also expected to closely monitor the US personal consumption expenditures data, due later this week, to assess inflation and the Federal Reserve's future monetary policy path. “Immediate index support remains at 1,550, with stronger supports at the 6/8/24 low of 1,529 and 1,500 psychological level. “Immediate resistance is maintained at 1,605, with next upside hurdles at 1,630, followed by 1648,” TA said.

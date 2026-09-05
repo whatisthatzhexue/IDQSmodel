@@ -1,0 +1,111 @@
+document_id: MDA_7243_MAGMA_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+The Company had changed its financial year end from 31 December to 30 June during the current
+financial period ended 30 June 2020 (“FPE 2020”). The change in the current financial period was made
+to facilitate more time for our External Auditors to assess the Purchase Price Allocation exercise arising
+from the completion of the Corporate Exercise on 21 February 2019. The business combination has
+been accounted for by adopting the reverse acquisition method and hence, the comparative figures
+have been restated retroactively to comply with the requirement of the accounting standards.
+Review of Statement of Comprehensive Income
+The summary of the Statement of Comprehensive Income is as follows:
+(RM ‘000)
+FPE 2020
+(18 Months)
+FYE 2018
+Variance FPE 2020
+vs. FYE 2018
+Revenue
+33,818
+19,278
+75.4%
+Gross Profit (“GP”)
+17,256
+14,725
+17.2%
+Gross Profit Margin (“GPM”)
+51.0%
+76.4%
+Administrative Expenses
+(18,032)
+(10,912)
+65.2%
+Other Cost
+(63,164)
+(5,753)
+>100.0%
+(Loss) Before Tax (“LBT”)
+(63,940)
+(1,940)
+>100.0%
+(Loss) After Tax from Continued
+Operations (1) (“LAT”)
+(62,374)
+(1,350)
+>100.0%
+Note:
+(1)
+Attributable to owner of the Company
+[MDA_P003]
+For the FPE 2020, the Group recorded a total revenue of RM33.82 million, higher compared to FYE
+2018 of RM19.28 million which represents an increase by approximately RM14.54 million or 75.4%.
+The increase was substantially contributed by Impiana Cherating Sdn Bhd (“Impiana Cherating”) on
+the development of Impiana Resort & Residences Cherating (“IRC”). During the FPE 2020, Impiana
+Cherating, a wholly-owned subsidiary of the Company undertook the development and property sale of
+IRC whereby certain blocks of the project will be owned and operated by Impiana Cherating as a resort
+and the remaining blocks will be sold to end customers under the sale and leaseback whereby Impiana
+Cherating will be managing these units on behalf of the owners. There was no such revenue recognised
+in FYE 2018.
+[MDA_P004]
+The GP for the FPE 2020 was RM17.26 million, higher compared to RM14.73 million recorded in FYE
+2018. The increase in the GP however, was not proportionate to the increase in the revenue mainly due
+to the recognition of development cost for IRC project in the current period, hence the dropped in the
+GPM from 76.4% to 51.0%.
+[MDA_P006]
+The Group had incurred a LBT of RM63.94 million for the FPE 2020 as compared to a LBT of RM1.94
+million for FYE 2018. The increased losses was mainly attributable to the impairment loss on goodwill
+arising from the reverse acquisition of RM48.38 million, intangible assets written off of RM3.84 million
+and corporate exercise expenses incurred in relation to the acquisition of Impiana Group assets namely
+the entire equity interest of Impiana Hotels & Resort Management Sdn Bhd, Impiana Cherating Sdn Bhd
+(“Impiana Cherating”), Astaka Mekar Sdn Bhd, Impiana Pangkor Sdn Bhd (“Impiana Pangkor”) as well
+as the remaining 25% equity interest in Intra Magnum Sdn Bhd (“IMSB”), which was duly completed
+on the 21 February 2019 of RM1.90 million. In addition, the Group had also incurred an amortisation of
+intangible assets charge amounting to RM0.95 million.
+[MDA_P007]
+The Group operates primarily in the hospitality industry whereby its source of income is mainly from the
+provision of management and operations services to hotel & resorts and hotel businesses. The global
+disaster known as Covid-19 pandemic has hit the industry that we are in severely and as a result, we
+were not able to maintain profitability from our business operations and this has resulted in an operating
+loss from our operating activities by approximately RM9.8 million. Comparing to FYE 2018, the Group’s
+finance cost was RM6.20 million as compared to RM5.37 million in FYE 2018.
+[MDA_P008]
+The Group’s LAT, was lower compared to its LBT mainly due to reversal of overprovision of income tax in
+prior period and reversal of certain temporary differences net of under provision of deferred tax liability
+in prior year.
+[MDA_P013]
+For FPE 2020, the Group total asset base increased by 16.7% to RM194.72 million from RM166.87
+million recorded in FYE 2018. The notable increase was primarily due to revaluation of lands and building
+which were revalued during the FPE 2020 with net revaluation surplus before tax of RM7.72 million. The
+intangible assets were mainly on the hotel management rights which a subsidiary of the Company has
+the rights over the management of hotels under our Impiana brand name. These rights are reflected in
+the Group’s statement of financial position upon completion of the corporate exercise.
+[MDA_P014]
+On the receivables front, total trade receivables saw an increase from RM6.91 million in FYE 2018 to
+RM19.53 million in FPE 2020 mainly due to the amount owing from buyers of IRC project. The contract
+assets which arose from IRC project refer to the Group’s right to consideration for work completed on
+property development but not yet billed at the reporting date. The Management is not aware of any
+possible non-collection from these trade receivables and contract assets.
+[MDA_P015]
+Total liabilities witnessed a notable increase of 27.3% from RM123.08 million recorded in FYE 2018 to
+RM156.69 million in FPE 2020. The overall increase was mainly due to accrual of sales rebate on units
+sold under IRC projects.
+[MDA_P016]
+Shareholders’ Equity saw an overall decline of 13.1% from RM43.79 million in FYE 2018 to RM38.04
+million in FPE 2020. The decline in Shareholders’ Equity was primarily attributed to the increase in
+accumulated losses of the Group in FPE 2020 which stood at 98.83 million vis-à-vis RM30.52 million for
+FYE 2018. The corresponding rise was due to the LAT recorded in the current period.
+Review of Statement of Cash Flows

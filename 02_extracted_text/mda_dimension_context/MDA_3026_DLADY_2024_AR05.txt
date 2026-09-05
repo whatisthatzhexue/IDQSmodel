@@ -1,0 +1,82 @@
+document_id: MDA_3026_DLADY_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 73, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 156.527, "paragraph_count": 73, "paragraph_length_distribution": {"max": 1200, "mean": 967.096, "min": 7}, "repetition_ratio": 0.013699, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+A HISTORIC MILESTONE & MASSIVE TRANSITION TOWARDS RESPONSIBLE GROWTH
+2024 was history in the making for Dutch Lady Milk Industries Berhad. One notable milestone was bidding farewell to
+our iconic DLMI@PJ manufacturing facility, established in 1966 to produce our first product, sweetened condensed
+milk. Over the years, we continued to innovate with evolving nutritional and consumer needs such as liquid milk and
+powdered children’s formula. DLMI@PJ held great significance for many. For consumers, it was a trusted source of
+dairy for their families. For our employees, suppliers and customers, it was a hub of collaboration and growth. For
+passers-by, it stood as a distinct landmark in Petaling Jaya, featuring the iconic Daisy and Maya cow figurines and the
+Dutch windmill replica. Beyond these, DLMI@PJ’s most enduring contribution was the realisation of our purpose: to build
+a healthier nation by Nourishing Our Planet and People in Every Stage of Life. Secondly, the year marked our complete relocation to our 13-hectare DLMI@Enstek manufacturing facility, which is
+three times larger in land size and twice as large in capacity as our previous DLMI@PJ facility.
+[MDA_P019]
+Topline Revenue: Key Drivers, Challenges, & Measures
+In 2024 DLMI’s revenue showed a modest increase in at 0.2% to RM1,445.1 million from RM1442.8
+million in 2023. Revenue performance remained strong in our core portfolio of liquid milk and IFT
+products as well as our professional range. In the third quarter of 2024, the company successfully completed the planned transition from the
+Petaling Jaya factory to the new facility in Bandar Enstek. This planned transition temporarily affected
+the availability of products for sales to our customers. This had no impact on the availability of our core
+range of products for consumers in stores. As part of the transition DLMI also strategically discontinued
+the production and distribution of some of our non-core Dutch Lady range of products. DLMIs strategic expansion is a pivotal move that not only facilitates DLMI’s continued growth, but it
+also creates new opportunities to solidify our position as the leader in the Malaysian Dairy Industry with
+innovations aligned to changing consumer preferences, such as the Dutch Lady “Sip & Seal” packs which
+were launched in the second half of 2024.
+[MDA_P037]
+In Conclusion: Continued Focus on Nourishing Our
+Nation
+While the operating environment presents challenges, including
+economic uncertainty and input cost pressures, we remain
+committed to our growth trajectory towards 2030. By following
+through on our strategy, DLMI is well-positioned in 2025 to realise
+our potential and maintain our mission of Nourishing Our Nation. Looking ahead, DLMI is optimistic about unlocking new opportunities,
+driving innovation and solidifying its market leadership to achieve
+more milestones in the coming years. 33.8%
+Gross Profit Margin
+2023: 29.7%
+315 Basis Point
+11.8%
+Adjusted Operating
+Profit Margin
+2023: 11.0%
+250 Basis Point
+9.1%
+Operating Profit
+Margin
+2023: 6.9%
+272 Basis Point
+6.7%
+Net Profit Margin
+2023: 5.0%
+156 Basis Point
+Section
+[MDA_P055]
+By aligning its product offerings with
+consumer preferences, enhancing regulatory
+compliance, embracing sustainable packaging and
+supporting Malaysia's self-sufficiency goals, DLMI
+solidified its position as a market leader. These efforts translated into increased consumer trust,
+expanded market share and improved resilience in a
+competitive and evolving industry landscape. Looking
+ahead, we remain well-positioned to leverage these
+trends for sustained growth and value creation. Consumer Dairy Preferences
+Consumer preferences in 2024 reflected a growing
+demand for functional and specialised dairy products. Nutrition-rich and nutrition-balanced dairy items,
+immunity-supporting ingredients, with wellness benefits
+gained substantial traction. In response, we strengthened our portfolio with
+fortified dairy products designed for health-conscious
+consumers, while enhancing our value proposition
+through larger pack sizes and convenient reclosable
+on-the-go packs called Dutch Lady Sip & Seal Packs
+to cater to evolving lifestyle needs.
+[MDA_P073]
+Through strategic planning, innovation, and collaboration, we have navigated these challenges and continue to thrive,
+reinforcing our dedication to delivering excellence to our professional partners. DUTCH LADY MILK INDUSTRIES BERHAD • INTEGRATED ANNUAL REPORT 2024
+OUR PRODUCTS & WINNING BRANDS

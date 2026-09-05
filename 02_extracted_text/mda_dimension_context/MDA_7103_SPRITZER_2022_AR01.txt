@@ -1,0 +1,171 @@
+document_id: MDA_7103_SPRITZER_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+For Financial Year Ended December 31, 2022
+[MDA_P002]
+Annual Report 2022
+Spritzer Bhd 199301010611 (265348-V)
+FINANCIAL REVIEW
+Financial Highlights
+Financial year ended
+Change
+31.12.2022
+31.12.2021
+Amount
+%
+Revenue (RM’000)
+433,300
+331,026
+102,274
+Profit before taxation (RM’000)
+45,200
+30,345
+14,855
+Profit after taxation (RM’000)
+36,965
+24,239
+12,726
+Pre-tax margin (%)
+10.4
+9.2
+1.2
+Net margin (%)
+8.5
+7.3
+1.2
+Basic earnings per share (sen)
+17.6
+11.5
+6.1
+Diluted earnings per share (sen)
+17.0
+11.2
+5.8
+Dividend per share (sen)
+6.25
+4.50
+1.75
+Dividend payout ratio (%)
+(3)
+Current ratio (time)
+2.1
+3.2
+(1.1)
+Quick ratio (time)
+1.6
+2.7
+(1.1)
+Number of shares in issue (less treasury shares) (‘000)
+208,869
+209,969
+(1,100)
+Total equity (RM’000)
+493,480
+462,750
+30,730
+Net debt to equity ratio (%)
+-
+-
+-
+Total assets (RM’000)
+600,954
+557,947
+43,007
+Total liabilities (RM’000)
+107,474
+95,197
+12,277
+Net assets per share (RM)
+2.36
+2.20
+0.16
+Market capitalisation (RM’000)
+463,690
+440,934
+22,756
+Revenue, Results and Dividend
+The Group recorded its highest annual revenue of
+RM433.3 million in the financial year ended December
+31, 2022, a significant increase of 31% from the previous
+year’s revenue of RM331.0 million, mainly due to the
+increase in sales volume and better selling prices.
+[MDA_P003]
+The
+current year revenue is also 16% higher than our pre-
+pandemic annual revenue of RM374.4 million recorded
+in year 2019. The revenue growth is mainly attributed to
+our much higher sales recorded throughout the year after
+movement restrictions were relaxed and the reopening of
+all economic sectors following the Malaysia’s transition to
+endemic phase of COVID-19 in April 2022. Consequent to
+the higher revenue recorded, the profit before tax of the
+Group for the year ended December 31, 2022 was higher
+by 49% at RM45.2 million (2021: RM30.3 million) mainly
+due to economies of scale and better sales mix. Similarly,
+the profit after tax has also increased significantly by 53%
+to RM37.0 million (2021: RM24.2 million). In line with
+the higher earnings, the Group’s earnings per share and
+diluted earnings per share for the year stood at 17.6 sen
+and 17.0 sen (2021: 11.5 sen and 11.2 sen) respectively. The pre-tax profit margin has risen from 9.2% to 10.4%
+mainly due to economies of scale and favourable sales
+mix achieved in the current year. Similarly, the current
+year’s net margin has also risen from 7.3% to 8.5%.
+[MDA_P008]
+As of December 31, 2022, the Company’s market
+capitalisation has increased by 5% to RM463.7 million from RM440.9 million as of December 31, 2021 due to a higher
+market price per share of RM2.22 (2021: RM2.10). Management Discussion and Analysis
+For Financial Year Ended December 31, 2022
+[MDA_P009]
+Annual Report 2022
+Spritzer Bhd 199301010611 (265348-V)
+RISKS
+The Group is sensitive to various risks such as pandemic
+risk, macroeconomic risk, regulatory risk, reputation risk,
+business and operations risk and financial risk. The Group’s
+risk management framework is designed to enable the
+material risks to be identified, analysed, assessed and
+managed in order to prevent or minimise possible losses. Reputation Risk
+Being the leading bottled water company with dominant
+market share, our core brands have high brand equity. To sustain and to enhance the image and reputation
+of the Group and our branded products, we are firmly
+committed to high product quality and cultivate strong
+discipline to improve continuously. We cultivate ethical
+and responsible business behaviour with a strong
+culture to manage and to ensure compliance with the
+applicable standards, internal policies and external rules
+and regulations. We invest in and focus on effective
+communication, image and brand building.
+[MDA_P010]
+Business Operations Risk
+Our significant business operations risks include the risk
+of adequacy and suitability of water supply, supply chain
+risk, business disruption risk, customer/consumer loyalty
+risk, regulatory risk, fraud and corruption risks, flood risk,
+business disruption risk and competition risk. We have
+suitably qualified and experienced personnel to manage
+our business operations and we have established proper
+business processes to ensure the proper mitigation
+and management of our business operations risks. We constantly strive to improve the efficiency and
+effectiveness of our entire value chain. Financial Risk
+Our key financial risks are credit risk and liquidity and
+cash flow risk. We have established proper credit
+evaluation and control processes to manage the credit
+risk of our receivables. We practise prudent liquidity risk
+management to minimise the mismatch of our financial
+assets and financial liabilities and we have adequate
+credit facilities and resources for contingency funding
+requirement. The Group has a healthy balance sheet and
+strong financial capability to manage its financial risk.
+[MDA_P015]
+APPRECIATION
+We thank our employees for their continued hard work
+and dedication and for having to face with the various
+challenges caused by the pandemic during the financial
+year under review. We also thank our consumers, partners, distributors and
+customers for their trust and support to our Group and
+our brands. For Financial Year Ended December 31, 2022

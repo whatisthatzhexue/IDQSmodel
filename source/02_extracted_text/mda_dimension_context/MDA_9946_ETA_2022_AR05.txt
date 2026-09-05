@@ -1,0 +1,76 @@
+document_id: MDA_9946_ETA_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 105.578, "paragraph_count": 21, "paragraph_length_distribution": {"max": 1122, "mean": 398.381, "min": 15}, "repetition_ratio": 0.047619, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Our History and Business
+Rex was incorporated on 26 November 1993 as a private limited company under the Companies Act 1965 by the name of
+Kompetitif Pertama Sdn Bhd. The Company acquired the entire issued and paid-up share capital of Rex Canning Co. Sdn
+Bhd, Rex Trading Sdn Bhd and Rex Foods Sdn Bhd and took on the function as a holding company in conjunction with the
+listing of Rex on Bursa Malaysia Securities Berhad (“Bursa Securities”). The Company changed its name to Rex Industry
+Sdn Bhd on 5 February 1994. It was converted to a public limited company on 16 February 1994 and adopted its present
+name. Rex was listed on the Second Board of Bursa Securities on 29 November 1995. Rex Group is involved in the manufacturing of canned food, beverage and confectionary products. Rex Canning Co. Sdn
+Bhd. a wholly owned subsidiary of Rex was founded in 1965 and has since grown into a leading manufacturer, distributor
+and exporter of halal canned products, frozen food, and beverages in Malaysia.
+[MDA_P006]
+FY 2020
+FY 2021
+FY 2022
+Revenue
+[MDA_P011]
+Paid-up Share Capital
+73,742
+73,742
+73,742
+97,903
+97,903
+Shareholders Funds
+126,422
+113,672
+101,891
+127,404
+129,714
+Borrowings
+29,946
+36,472
+42,209
+28,884
+27,804
+Net Tangible Assets (“NTA”)
+118,533
+106,635
+94,854
+120,367
+122,677
+MANAGEMENT DISCUSSION
+& ANALYSIS
+(Cont’d)
+[MDA_P016]
+Basic (Loss)/Earnings Per Share (Sen)
+(8.05)
+(5.39)
+(3.84)
+0.64
+0.38
+Dividend per share (sen)
+–
+–
+–
+0.2
+–
+Operating Ratio
+[MDA_P021]
+The proceeds raised from the Rights Issue will be utilised firstly in priority to defray the expenses related to the Rights
+Issue, secondly towards business expansion, and lastly towards the working capital required for the day-to day operations
+of the Group. Acknowledgements
+I take this opportunity to extend a warm welcome to our two new Executive Directors, Dato’ Cheah Teng Lim and Mr
+Kajendra Pathmanathan, who have been appointed to our Board on 11 October 2022. Their combined experience and
+expertise will contribute positively to the strategies and direction of the Group. I would also like to thank my fellow Board members, our shareholders, customers and business partners for their continued
+support, trust and unwavering confidence over the past years. To all our dedicated staff and management team, thank you for your commitment and leading the Company forward. DAMENDRAN KUNARETNAM
+Group Managing Director

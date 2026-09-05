@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Gamuda, Kawan Renergy, Pekat, Warisan TC, Tan Chong, Avaland, Greenyield, UUE, CelcomDigi, Solarvest, Camaroe
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-07-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/17/trading-ideas-gamuda-kawan-renergy-pekat-warisan-tc-tan-chong-avaland-greenyield-uue-celcomdigi-solarvest-camaroe
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. The Perak state government has appointed a JV between Gamuda Bhd and Perbadanan Kemajuan Negeri Perak to develop and operate water treatment and distribution infrastructure in Kerian, Northern Perak — a key component of the RM5bn Northern Perak Water Supply Scheme. Kawan Renergy Bhd has secured a RM38.8mn contract from Gas Malaysia Energy Advance Sdn Bhd for the construction of a gas turbine co-generation system in Port Klang.
+
+[NEWS_P002] Pekat Group Bhd plans to raise up to RM84.7mn by issuing 66.2mn new shares, or 10% of its total shares, a move that will boost its market value over RM1bn. Warisan TC Holdings Bhd expects to record a net gain of RM1.9mn from the sale of an industrial property in Selangor to Leisure Event Sdn Bhd, a wholly-owned subsidiary of property developer Avaland Bhd , for RM49mn. Tan Chong Motor Holdings Bhd has been slapped with an unusual market activity query by Bursa Malaysia Securities after the automotive assembler and distributor's share price surged to a near one-year high.
+
+[NEWS_P003] Avaland Bhd announced that Phase 1 of Avalon with a GDV of RM151mn, comprising 166 units of Balinese-inspired double-storey homes located within its Cybersouth township development, is fully taken up. Greenyield Bhd has, via its wholly-owned subsidiary, disposed of a 10,660 sqm parcel of vacant leasehold industrial land in Kuala Langat, Selangor, to Filtermation (MFG) Sdn Bhd for RM8mn. UUE Holdings Bhd has announced a bonus issue on the basis of one new share for every two existing shares held along with plans to diversify into renewable energy facilities development.
+
+[NEWS_P004] CelcomDigi Bhd has launched its new flagship “Life” stores at The Gardens Mall and Sunway Pyramid, marking a new step in its retail journey. Solarvest Holdings Bhd has appointed Daniel Bernd Ruppert as its chief investment officer. Camaroe Bhd, an integrated aquaculture group specialising in the farming and processing of black tiger prawns, has received approval from Bursa Malaysia to be listed on the ACE Market of Bursa Securities.

@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-07-02T04:42:47+00:00",
+  "mda_ready": true,
+  "news_final_dataset_size": 125,
+  "synthetic_count": 0,
+  "empirical_ready": false,
+  "cross_validation_pipeline_ready": true,
+  "cross_validation_empirical_ready": false,
+  "mock_mode": true,
+  "cross_validation_executed": true,
+  "claim_link_count": 316,
+  "eligible_pair_count": 149,
+  "notes": [
+    "cross_validation_empirical_ready=false because claim scoring used deterministic_claim_proxy / mock_mode=true.",
+    "cross_validation_empirical_ready=false because systemic conflict or contradiction gates require manual/qwen review."
+  ],
+  "hashes": {
+    "eligible_pairs.csv": "85376b7df424918da659ca1856965e1446fd0862e737839628738b31e52459c5",
+    "news_claims.csv": "b938a66405c1da2158840b7fd6cd64888542ee4ef85a095c53e268fc149e0b81",
+    "cross_validation_run_metadata.json": "9463a48bb722c51773206031a1657bd358e6dbff3539a4c46bf75295410c7f00",
+    "cross_validation_report.md": "6469abe9db641d7fbcdbf746ada99d1534f02f168a01feb47cea29f179984d3d",
+    "claim_links.csv": "b1f501a8bebf8b369b588b5cc978d94d59f1d1f2963609293cd9eb1e9282c732",
+    "company_year_cross_validation_summary.csv": "d43bbd8b74316e5f5049f4942e3bf660740d911054775a2db6eca432b96c1300",
+    "mda_claims.csv": "fe127346157f535f560bd04719a8f6d5e40974992f0d6b8aec0f3742d4709a93"
+  },
+  "systemic_conflict_flag": true
+}

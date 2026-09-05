@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI dips on lack of buying impetus
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-03-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/06/fbm-klci-dips-on-lack-of-buying-impetus
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI traded lower in early trade Wednesday, weighed by select blue chips as lack of buying impetus kept the index lower. The market bellwether slipped 7.01 points, or 0.46% to 1,529.97 at 9.09. It opened 4.53 points lower at 1,532.45. Inter-Pacific Research said market conditions remained unsettled by the lack of impetuses to continue dictating the market’s near-term performance. At the same time, it noted that the FBM KLCI’s uptrend since the start of the year looks to have run its course and may see the consolidation trend continuing for now.
+
+[NEWS_P002] “The lingering concerns over China’s insipid economic growth prospects in 2024 and U.S. interest rates staying elevated for longer could also weigh on sentiments on Bursa Malaysia. “As a result, the ongoing consolidation is likely to persist with foreign funds becoming net sellers as they continue to lock in their profits. “This could leave the key index to drift with the supports remaining at the 1,530-1,532 levels, followed by the 1,522 level. The immediate hurdle is at 1,540 points, followed by the 1,545 level,” Inter-Pacific said.
+
+[NEWS_P003] The research house said sentiments among the lower liners and broader market shares also look unsettled and their downside bias also looks to continue for the time being. “Most market players are likely to remain on the sidelines due to the lack of leads and these stocks are likely to drift further,” it added. Overnight, the Dow Jones Industrial Average fell 1.04% to 38,585.19. The S&P 500 lost 1.02% to 5,078.65 and the Nasdaq Composite dropped 1.65% to 15,939.59.
+
+[NEWS_P004] Among the losers, AmBank slid 21 sen to RM3.99, Bintulu Port lost 12 sen to RM5.76, Apollo Food fell 11 sen to RM5.31 and Hong Leong Bank eased 10 sen to RM19.32. Nestle jumped 70 sen to RM120.20, Heineken rose 42 sen to RM23.32, F&N gained 32 sen to RM28.94 and United Plantations added 32 sen to RM23.58. Meanwhile, Apex Securities expects the FBM KLCI to remain downbeat that may mirror the negative performance on Wall Street overnight. It said the lower liners are also bracing for more volatility on an extended pullback from their recent high levels.
+
+[NEWS_P005] Renewed volatility on Wall Street is deemed to be healthy which allows recent gains to be digested and valuations may subsequently turn more compelling. “Looking ahead, investors will be keeping a close tab onto US Federal Reserve Chair Jerome Powell testifies to Congress in search for clues over the future interest rate direction. “We favour gold-related stocks after gold prices advanced to hit all-time high levels in anticipation of monetary easing, escalating geopolitical tension and rising risk of equities market pullback amid the lofty valuations,” Apex said.

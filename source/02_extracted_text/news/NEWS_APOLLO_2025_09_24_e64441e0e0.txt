@@ -1,0 +1,26 @@
+[TITLE]
+FBM KLCI ends marginally lower as investors pivot to small cap stocks
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-09-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/24/fbm-klci-ends-marginally-lower-as-investors-pivot-to-small-cap-stocks
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The benchmark FTSE Bursa Malaysia KLCI (FBM KLCI) closed marginally lower on Wednesday as investors shifted their attention to smaller-cap stocks. At 5 pm, the FBM KLCI edged down 3.89 points to close at 1,599.66, compared with yesterday’s close of 1,603.55. The benchmark index opened lower at 1,602.81 and moved between 1,597.80 and 1,602.81 throughout the day. Nevertheless, the market breadth was positive with 585 gainers versus 508 decliners, while 496 counters were unchanged, 1,084 untraded, and 49 suspended.
+
+[NEWS_P002] Turnover improved to 3.62 billion units worth RM2.8 billion from 2.78 billion units worth RM2.27 billion yesterday. Rakuten Trade vice-resident Thong Pak Leng said the encouraging sign was that trading volumes had shown some improvement despite the negative closure today, indicating that investor participation was gradually picking up. "Our positive assessment of Malaysian equities remains intact, supported by strong corporate earnings and improving economic conditions.
+
+[NEWS_P003] As such, we anticipate the FBM KLCI to trend within the range of 1,580-1,620 for the remainder of the week,” he told Bernama. Among heavyweight counters, Tenaga Nasional fell 12 sen to RM13.28, CelcomDigi slid four sen to RM3.68, while Sunway and Maxis shed six sen each to RM5.44 and RM3.61, respectively. QL Resources dipped one sen to RM4.30. In active trade, Magma Group fell 4.5 sen to 31.5 sen, Velesto Energy trimmed half a sen to 23.5 sen, while ACE Market debutant Express Powerr Solutions rose 2.5 sen to 22.5 sen.
+
+[NEWS_P004] Pharmaniaga was higher half-a-sen at 27.5 sen, and SNS Network Technology added 4.5 sen to 69 sen. Among top losers, Apollo Food Holdings slipped 22 sen to RM6.28, Allianz Malaysia lost 20 sen to RM18.72, and Sunway Construction Group declined 15 sen to RM6.12. Kuchai Development slumped 13 sen to 45 sen, and Hong Leong Financial Group went down 12 sen to RM16.82. Top gainers Petronas Dagangan rose by 30 sen to RM22.30, KSL jumped 37 sen to RM3.31, and Malayan Cement increased 19 sen to RM6.50.
+
+[NEWS_P005] Malaysian Pacific Industries jumped 26 sen to RM29.76, and Dutch Lady Milk Industries added 26 sen to RM27.30. On the broader market, the FBM 100 Index lost 10.28 points to 11,676.26, the FBM Emas Shariah Index slipped 11.41 points to 11,986.60, and the FBM Emas Index inched down 1.06 points to 11,941.95. The FBM 70 Index added 63.91 points to 16,865.62, and the FBM ACE Index rose 56.46 points to 5,062.76. By sector, the Financial Services Index fell 1.18 points to 18,082.59, and the Plantation Index declined 12.59 points to 7,714.23, while the Industrial Products and Services Index edged up 1.40 points to 171.46.
+
+[NEWS_P006] The Energy Index gained 4.26 points to 768.75. The Main Market volume advanced to 1.91 billion units, valued at RM2.45 billion, from 1.52 billion units valued at RM2.01 billion yesterday. Warrant turnover expanded to 1.12 billion units, valued at RM163.18 million, from 1.08 billion units valued at RM166.49 million previously. The ACE Market volume strengthened to 574.71 million shares worth RM184.69 million, from 560.33 million shares worth RM182.24 million on Tuesday.
+
+[NEWS_P007] Consumer products and services counters accounted for 479.74 million shares traded on the Main Market, industrial products and services (270.25 million), construction (99.73 million), technology (258.17 million), financial services (92.73 million), property (223.50 million), plantation (21.15 million), REITs (72.22 million), closed/fund (210,000), energy (177.02 million), healthcare (100.80 million), telecommunications and media (36.15 million), transportation and logistics (33.23 million), utilities (49.08 million), and business trusts (105,100).
+
+[NEWS_P008] - Bernama

@@ -1,0 +1,52 @@
+document_id: MDA_2828_CIHLDG_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 135.127, "paragraph_count": 27, "paragraph_length_distribution": {"max": 1193, "mean": 998.815, "min": 34}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P007]
+This is consistent with the more stable currency fluctuation and lower overall volume throughout the year
+under review compared to the previous financial year. Finance costs decreased by 8% from RM17.08 million to RM15.71 million in the reporting period. This is mainly due to lower utilisation
+of trade facilities aimed at funding the necessary working capital to fulfil sales orders. As a result, the finance cost also increased to
+0.4% compared to 0.32% in the previous year due to the lower revenue. Assets: Trade Receivables
+Trade receivables decreased by 46% from RM706.23 million to RM383.62 million, with the average outstanding period shortening
+from 48 days in FY2023 to 36 days in FY2024. The drop in revenue resulted in a RM322 million reduction in receivables. Although this may not be seen as entirely favourable, the receivable turnover days have improved significantly, reducing by 12
+days due to the lower overall receivables from customers compared to the previous reporting period. Assets: Inventories
+There was an increase in inventories by 4%, from RM71.68 million in the previous financial year to RM74.56 million.
+[MDA_P014]
+ANNUAL REPORT 2024
+C.I. HOLDINGS BERHAD
+197801000889 (37918-A)
+ii) Labour
+CPO prices are expected to remain volatile due to ongoing market and weather uncertainties. However, an anticipated increase
+in palm oil production in the coming months could lead to higher inventories, potentially exerting downward pressure on prices. A
+significant factor driving this potential production increase is the easing of labour shortages in the Malaysian palm oil sector. The Malaysian government has made crucial efforts to address these labour shortages, particularly by allowing the hiring of foreign
+workers. With the industry facing a shortfall of around 40,000 workers, the influx of foreign labour is expected to greatly enhance
+productivity, potentially boosting palm oil output by up to one (1) million MTs this year. As labour constraints ease, worker productivity at palm oil estates has already improved, supporting higher levels of harvesting and
+processing, especially in the second half of 2024. Combined with favourable weather conditions, these improvements are likely to
+increase overall production efficiency, contributing to a rise in palm oil output.
+[MDA_P021]
+This regulation will require companies importing
+products made from wood, cattle, cocoa, coffee, palm oil and soy to submit a “due diligence” statement confirming that the goods
+were not sourced from deforested areas or linked to forest degradation. Preparing for Future Opportunities by the Edible Oil Division
+The Edible Oil Division is committed to expanding its customer base across diverse markets while optimising costs and operational
+efficiency. The Group is focused on making critical enhancements and expanding its subsidiaries, Palmtop and CRSB, to support
+anticipated business growth, including increasing in-house production capacities to meet rising demand. Currently, the construction and development of new facilities, as well as the expansion of existing ones, are underway and
+progressing well. These developments are crucial in ensuring that the Group is well-equipped to handle future demand and
+capitalise on growth opportunities. Despite the challenges posed by unpredictable weather patterns and escalating geopolitical tensions, the Group remains optimistic
+about its future prospects, given its position in the nondiscretionary segment of the consumer market.
+[MDA_P027]
+As we move forward, energised by our collective commitment to nurturing long-term value and sustainability, the Group is
+well-positioned to build a stronger, more sustainable future. We eagerly anticipate the next steps on this journey, confident that
+together, we will achieve outcomes that generate shared value for all stakeholders involved in our business. CIH will continue
+to strive towards excellence, growth and sustainability, creating a lasting impact for the communities and markets we serve. Dividend Policy
+The Group does not have a formal dividend policy in place due to the potential future requirements of funds for expansions and
+growth. However, notwithstanding this, the Group has consistently declared dividends annually, reflecting our commitment to
+delivering value to our shareholders. This balanced approach allows CIH to reward its shareholders for their support while also
+retain sufficient capital to reinvest in the business, ensuring that we are well-positioned to capitalise on growth opportunities and
+maintain our competitive edge in the market. By managing our resources prudently, the Group aims to achieve sustainable growth
+and long-term success.

@@ -1,0 +1,83 @@
+document_id: MDA_4707_NESTLE_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+“Through the significant external challenges confronted in 2024, Nestlé Malaysia remained focused on consistently delivering on
+our mission to provide high-quality nutrition, foods and beverages through our vast range of products, all Halal-certified, sold under
+trusted brands, and proudly made in Malaysia, by Malaysians. As we have done throughout our 112 years in Malaysia, we continued
+to adapt, innovate and, above all, stay true to our purpose of being a positive force in the life of the nation, creating shared value for all
+our stakeholders and leading industry action towards building a more sustainable future.“
+Juan Aranols
+Chief Executive Officer
+Business, Financial & Operational Review
+The defining element of the operating environment in 2024 was the unfavourable
+sentiment and hesitancy towards international brands triggered by global
+events. This was compounded by constrained consumer purchasing power and
+persistent volatility in food-related commodity costs, impacting the cost of living
+for many Malaysian families.
+[MDA_P004]
+Nestlé (Malaysia) Berhad
+Overall, while the decline in revenue had an unfavourable impact on short-
+term bottom-line results, the Company’s financial position has remained
+strong, allowing us to deliver another year of solid dividends of RM1.79
+per share. As mentioned earlier, 2024 was a year focused on building operational
+resilience, alongside sharpening our competitive edge in an evolving
+market landscape while ensuring that the key fundamental elements in the
+narrative of our brands and Nestlé as a whole were well explained and
+understood by all Malaysians. We implemented comprehensive measures
+to address and respond to shifting consumer sentiments while enhancing
+our value propositions across different market segments, in order for our
+products to remain highly accessible to Malaysian consumers. Through
+every endeavour, we consistently upheld our commitment to quality,
+nutrition and Halal certification, while continuing to protect the consumer
+taste preferences intrinsically associated with our core brands.
+[MDA_P005]
+Furthermore, brand-building activities were reassessed to enhance
+consumer trust and leverage rising social media channels like TikTok,
+resulting in more efficient marketing investments and optimised returns. Consumers at the Heart of Innovation
+Innovation maintained its value as a core pillar, enabling us to adapt
+our product portfolio to evolving consumer preferences and expand
+our consumer base with new and relevant propositions. Throughout
+the year under review, innovation helped to uphold our market-leading
+positions, expanding penetration into new consumer segments, while
+further reinforcing our mission of delivering high-quality, nutritious and
+great-tasting Halal products, with value propositions that resonate with
+Malaysians. We continued to focus on providing healthier choices in line with our
+global “Good for You” strategy, with Nestlé Malaysia offering the largest
+range of Healthier Choice Logo (HCL) certified products by the Malaysian
+Ministry of Health (MOE).
+[MDA_P006]
+This HCL certification currently encompasses,
+among others, 100% of our MILO powder and mixes range, where we have
+been able to significantly reduce the sugar content while still providing all
+the nutrition and taste that only MILO can deliver. This includes the MILO
+Intense Dark Chocolate launched in 2024, offering an equally nutritious
+option with a richer and more indulgent taste. Local origins were another area of focus with the addition of KIT KAT Dark Borneo, the first product from our Nestlé
+Borneo Cocoa Initiative, in partnership with the Malaysian Cocoa Board, that aims to accelerate the development of
+sustainable cocoa farming in Sabah and Sarawak. This secures a localised supply chain of responsibly-produced raw
+ingredients, while we elevate the living conditions of the rural communities involved. Many other meaningful portfolio additions occurred in 2024. The KIT KAT Chocolate Drink made its debut as a first-
+of-its-kind product created and produced in Malaysia, 100% Halal-certified and made with sustainably sourced cocoa.
+[MDA_P011]
+Some examples of major activities that helped to power up positive sentiments
+toward Nestlé brands were the following:
+•
+The NESTLÉ OMEGA PLUS Walk a Million Miles campaign once again
+encouraged awareness and action for heart health, promoting healthier
+lifestyles. In its fifth edition since the adoption of digitally enabled tools, we
+rallied a record 30,622 Malaysians who collectively achieved over 2.1 million
+miles, doubling the campaign's target. •
+MILO's long-standing efforts in spearheading grassroots sports development
+were further strengthened through our support for Malaysia's Olympic and
+Paralympic athletes. Contributing RM10,000 to each of the 56 national
+athletes representing Malaysia at the 2024 Paris Olympics and Paralympic
+Games, this initiative was aimed at celebrating their dedication and inspiring
+future generations of athletes. •
+The MAGGI Sah Malaysia Carnival brought communities together in 2024
+for yet another year of celebration of Malaysian culinary heritage. Reflecting
+the brand's five-decade legacy, the event attracted over 30,000 attendees
+through interactive experiences and cooking demonstrations, amongst other
+activities.

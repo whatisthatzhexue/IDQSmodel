@@ -1,0 +1,9 @@
+{
+  "filled_rows": 0,
+  "large_difference_ge_2_ratio": "",
+  "mda_human_validation_ready": false,
+  "mean_absolute_difference": "",
+  "sample_rows": 150,
+  "total_score_icc": "",
+  "weighted_kappa_by_dimension": {}
+}

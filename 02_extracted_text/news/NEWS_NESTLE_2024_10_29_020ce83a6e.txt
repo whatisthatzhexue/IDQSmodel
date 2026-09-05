@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia opens on a positive note; OB Holdings gains in market debut
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/29/bursa-malaysia-opens-on-a-positive-note-ob-holdings-gains-in-market-debut
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia opens on a positive note on Tuesday, rising in early trade after six consecutive sessions of decline, tracking Wall Street's overnight gains. The index climbed 3.33 points, or 0.21% to 1,613.93 at 9.13 am. It opened 1.9 points higher at 1,612.37 earlier. Overnight, the S&P 500 gained 0.27% to 5,823.52, while the Nasdaq Composite gained 0.26% to 18,567.19. The Dow Jones Industrial Average rose 0.65% to 42,387.57 Inter-Pacific Research noted that the FBM KLCI’s failure to hold successive technical support levels suggests a bleak near-term outlook, with downbeat conditions likely to continue for now.
+
+[NEWS_P002] The research house said market sentiments remain unsettled due to the uncertainties surrounding the outcome of the U.S. elections and a weak China economy that may still slow Malaysia’s economic prospects. “In addition, the key index’s year-to-date gains have left the valuations of many key index constituents fair, thereby limiting the upside potential as market players await for their earnings to catch up. “Under the prevailing environment, the next key support at the psychological 1,600 level could be tested as there are still few signs of a recovery as yet.
+
+[NEWS_P003] If the level breaks, the other support is at 1,595 points, while the resistances are at the 1,618-1,620 levels, followed by the 1,625 level,” Inter-Pacific said. Meanwhile, Malacca Securities believed buying interest may extend to the local market, particularly in the technology and glove sectors, as US markets turn positive after a period of selling and the US dollar strengthens. “The O&G sector may remain muted due to softer Brent oil prices, but plantation and gold-related stocks could trend positively as CPO and gold remain in an uptrend.
+
+[NEWS_P004] Besides, we favour selected consumer, construction, and property stocks,” it added. Among the gainers, Kuala Lumpur Kepong jumped 24 sen to RM21.78, Amway gained 13 sen to RM7.05, CIMB added eight sen to RM8.10 and Bursa Malaysia climbed 10 sen to RM8.79. Nestle slid 50 sen to RM102.50, Malaysian Pacific Industries lost 14 sen to RM26.08, PIE Industrial fell 12 sen to RM5.14 and Hong Leong Industries declined eight sen to RM13.52. ACE Market debutant, OB Holdings climbed one sen, or 4.17% to 25 sen with 45.15 million shares traded.

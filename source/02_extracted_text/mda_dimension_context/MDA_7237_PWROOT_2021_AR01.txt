@@ -1,0 +1,68 @@
+document_id: MDA_7237_PWROOT_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 25, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+This has been an extraordinary year. We have all had to adjust to living with social and economic uncertainty under new
+circumstances. On the personal front, parents have had to learn to supervise their children’s home-schooling needs,
+employees to master how to work-from-home effectively, and we have become more accustomed to delivery services. On the business front, companies have had to readjust their short-term and long-term strategies. In some cases, these
+have involved major pivots as some industries grounded to a halt. However, amid uncertainly lies opportunities and many
+entrepreneurial efforts have mushroomed in response to the current situation. Like all enterprises, Power Root has had to adapt to these challenging times. As part of the essential food and beverage
+industry, we have been able to continue to operate during 2020 and 2021 with necessary adjustments made across
+production, distribution, sales and marketing, and administrative functions.
+[MDA_P003]
+THE BUSINESS ENVIRONMENT
+The COVID-19 pandemic and subsequent Movement Control Orders (“MCOs”) in Malaysia as well as similar lockdowns
+and restrictions overseas have resulted in economic contraction across the world. This uncertainty was reflected in cautious
+consumer spending throughout 2020 and early 2021. However, as vaccination programmes are ramped up and movement
+restrictions eased, there is increasing confidence for a sustained economic recovery moving forward.
+In its press release in May 2021 titled ‘Economic and Financial Developments in Malaysia in the first quarter of 2021’,
+Bank Negara Malaysia stated that the Malaysian economy remained on track for a recovery in 2021, supported by better
+external and domestic demand. The report further added that the impact on growth was expected to be less severe
+than experienced in 2020, with growth recovery benefitting from better global demand, increased public and private
+sector expenditure as well as continued policy support. However, the growth outlook would continue to be shaped by
+developments surrounding the pandemic.
+[MDA_P004]
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+Annual Report 2021
+DOMESTIC ACTIVITIES
+Operational strategies
+The MCO restrictions imposed in Malaysia required Power Root to adjust its business plans for the financial year under
+review. While consumers were cautious in their spending, demand for our coffee and tea were relatively inelastic as these
+form part of their staple diet. During this financial year, despite the turmoil in the market, Power Root has remained committed to its long-term strategy of
+improving the company’s Return on Investment (“ROI”) and in embedding this as a core principle of the Power Root culture. We continued to leverage on technology to monitor and track our sales, product management and marketing initiatives. Power Root undertook further measures to foster a sustained culture of cost and control-consciousness across our
+operations. Clear guidelines to ensure ROI compliance when investing in new manufacturing facilities and equipment were
+set. Standard operational procedures on inventory management, among others, were revamped to reduce unnecessary
+wastage and to optimise productivity.
+[MDA_P005]
+The latter was also the rationale for the Group instilling stringent human resources
+planning procedures. In addition, we rationalised our production system for better machine utilisation and minimise
+downtime. This included adjustments such as the standardisation of product sachet sizes which improved production
+efficiency as specifications were similar. On the sales front, we rolled out our handheld sales force reporting system which provided real-time updates on our
+distribution network. This system gives us immediate insight into inventory levels at outlets which allowed for better stock
+management to meet customer demands. It also improved the monitoring and hence implementation of our marketing 5Ps
+(place, price, product, promotion and people) strategy. We now have a higher level of capability in assessing the effectiveness and performance of our distribution network with
+greater attention placed on non-sales key performance indicators such as the enhancement of product placement, price
+management and execution of promotional activities and we will continue to enhance the system to meet the ever-changing
+market requirements.
+[MDA_P013]
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+Annual Report 2021
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+cont’d
+We extended our Oligo range with the introduction of Oligo Protein Chocolate Malt in November 2020. This new variant
+contains vitamins B1, B2, B6 and B12 as well as oligofructose and is high in protein. It joins Oligo Calcium as part of our
+Oligo-in-a-can range. Jom Kopi Coffeemix 3 in 1 was launched in January 2021. This blend of micro-ground coffee with date extracts to enhance
+its sweetness gives consumers a differentiated taste to appreciate. EXPORTS
+Amongst others, our global performance was also affected by the COVID-19 pandemic. China, which faced the pandemic
+early on, has shown good economic recovery since June 2020. We have also started to see the positive results from the
+restructuring we had carried out on our supply chain, distribution and online business in the China market in the financial
+year 2019/2020. At the end of 2020, Power Root participated in two separate live broadcasts where we promoted two
+brands in particular.

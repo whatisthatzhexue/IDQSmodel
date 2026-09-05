@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI bucks regional downtrend
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-05-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/02/fbm-klci-bucks-regional-downtrend
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The local bourse bucked the downtrend seen in regional stock markets to stay in positive territory amid the weaker sentiment. At closing, the FBM KLCI was up 4.33 points, or 0.27% to 1,580.30. The market traded within a range of 8.41 points between an intra-day high of 1,582.68 and a low of 1,574.27 during the session. Losers outpaced gainers 620 to 530, while 464 counters were unchanged. Volume stood at 3.81 billion units valued at RM3.05mil.
+
+[NEWS_P002] Among the gainers, Dutch Lady surged 84 sen to RM33.70, Nestle rose 70 sen to RM127.90, Ajinomoto added 32 sen to RM19.74 and Ge-Shen gained 30 sen to RM4.19. Among the decliners, Crescendo fell 13 sen to RM3.47, SHH Resources lost 12 sen to RM1.16, Greatech Technology declined 10 sen to RM4.40 and Hibiscus Petroleum slid 10 sen to RM2.62. Meanwhile, the ringgit strengthened against the US dollar. The ringgit was quoted at 4.7533 against the US dollar, up 0.39%.
+
+[NEWS_P003] The local unit rose 0.1% to 5.9509 against the pound sterling. It fell 0.05% to the Euro at 5.0893 and lost 0.06% to the Singapore dollar at 3.4975. Elsewhere in the region, most Asian stock markets were subdued on Thursday after the U.S. Federal Reserve flagged possible delays to interest rate cuts this year. Japan’s Nikkei 225 closed down 0.09% at 38,236.07 while South Korea’s Kospi fell 0.31% to 2,683.65. Hong Kong’s Hang Seng index rose 2.5% to 18,207.13.
+
+[NEWS_P004] Mainland China markets are closed for holidays from May 1-3. Reuters reported that equities in Jakarta slipped 1.6%, Taiwan stocks slumped nearly 1% while equities in the Philippines slipped 0.6%.

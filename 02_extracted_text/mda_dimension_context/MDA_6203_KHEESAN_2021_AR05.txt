@@ -1,0 +1,63 @@
+document_id: MDA_6203_KHEESAN_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 10, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 158.936, "paragraph_count": 10, "paragraph_length_distribution": {"max": 1159, "mean": 897.1, "min": 114}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS (cont’d)
+Khee San Berhad 
+Annual Report
+Registration No.: 199401018697 (304376-A)
+[MDA_P003]
+Wafer
+The Wafer segment is subdivided into various categories as follows:
+Categories
+Brands
+Wafer Bars
+Torrone, Lovin and Tip-Top
+Wafer Cubes
+Snackie
+The Wafer segment’s Lovin wafer in red waxed paper packaging is one of the oldest and iconic wafer brands in Malaysia having been
+in constant production for the past 40 years remained well known and recognised by consumers. The Group originally operated a single wafer production line and due to strong demand for wafers, it had installed and commission
+the second wafer production line in 2009. However, during the current financial year, due to the financial issues faced by the Group,
+the wafer segment has been temporarily discontinued while the Group restructures its finances. Production Operations
+The Group’s production operations are based at its plant located in Seri Kembangan, Selangor which produces the candy products. The Group is currently experiencing capacity constraint due to rising production level to meet demand, financial constraints and the
+restrictions imposed by the government to combat the global pandemic.
+[MDA_P006]
+Distribution Channels
+The Group sells its products via two distribution channels, through wholesale and modern distribution channels. In an effort to achieve higher sales volume, the Group distributes its products via both the wholesale and modern distribution
+channels in Malaysia. However, for export sales, the distribution channels vary from country to country. For example, in Singapore
+and Hong Kong, only the modern distribution channel will be employed whilst the wholesale channel will be more prevalent in
+Indonesia and Vietnam. 5. BUSINESS RISK OVERVIEW
+The Group faces several risk factors that may affect the Group’s profitability. Those risks include the following:
+Labour shortages and wage fluctuations
+The Group’s production activities are labour intensive in nature, thus it is prone to labour shortages. By that same breadth, it is also
+subject to wage fluctuations as witnessed by the government’s amendments of Levy Payment Structure on foreign workers and the
+increase in minimum wage level in peninsular Malaysia. In an effort to reduce the over-reliance to the labour issues, the Group will
+continue to invest in automating the plants.
+[MDA_P008]
+Fluctuation of foreign currency exchange rate
+Significant fluctuation of foreign currency exchange rate will impact the Group’s cash flow movement and profitability as most of
+its input materials are sourced from abroad. In addition, the Group also relies on its export sales which are also subject to changes
+in currency exchange rates. The Group shall manage currency exchange rate fluctuations by continuing to monitor global currency
+movements and, if necessary, take proactive hedging positions to mitigate such risk. Changes in consumers’ preferences
+The Group is aware of the continuous shift in consumers’ taste preferences. As such it is constantly introducing innovative new
+flavours for its existing product range, as well as new products and product packaging to the market. Product quality
+The Group recognises that it is crucial to ensure its food-base products are high of quality. Deterioration in quality may bring severe
+negative image to the Group’s product brands and create harmful long-term impact to the Group’s reputation.
+[MDA_P010]
+This re-opening of the economy has helped the recovery process of the
+Group, hence the management is optimistic that this would translate to the recovery in the Group’s revenue in time. In so far as the issues surrounding the debts involving the banks, the Group continues to pursue its claims and the cases are now at
+the Appeal stage at the Court of Appeal. Despite this, the Group has continued its efforts to resolve matters with the creditor banks
+and all other creditors. So far in principle all creditors and majority of the creditor banks are agreeable but only one creditor bank
+has refused to accept the offer. The Group is weighing all options and will decide on the best course of action moving forward and will act in the best interest of its
+shareholders. MANAGEMENT DISCUSSION
+& ANALYSIS (cont’d)
+Annual Report 
+Khee San Berhad
+2021 
+Registration No.: 199401018697 (304376-A)

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends week lower amid broad-based selling pressure
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-08-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/29/fbm-klci-ends-week-lower-amid-broad-based-selling-pressure
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed lower on Friday, dragged by broad-based losses across Bursa Malaysia amid persistent selling pressure. The FBM KLCI fell 0.75%, or 11.95 points, to close at 1,575.12, off its intraday low of 1,572.24. The benchmark earlier touched a high of 1,587.30. For the week, the index slipped 1.4%. All indices on Bursa Malaysia, apart from the Bursa Malaysia transportation & logistics Index, were down. Market breadth was negative, with 704 losers outpacing 324 gainers, as more than twice as many stocks declined as advanced, with selling pressure continuing to weigh on the broader market.
+
+[NEWS_P002] About 3.08 billion shares, valued at RM3.2bil, changed hands. Nestle slid 98 sen to RM95.02, PETRONAS Dagangan fell 62 sen to RM21.18, Heineken lost 36 sen to RM20.22 and Hong Leong Financial Group declined 28 sen to RM17.10. Among the gainers, Hong Leong Industries rose 52 sen to RM13.88, Malaysian Pacific Industries added 42 sen to RM26.86, Allianz gained 26 sen to RM18.36 and Kelington Group climbed 16 sen to RM5.16. Meanwhile, the ringgit eased 0.19% to 4.2250 against the US dollar and slipped 0.2% to 3.2899 against the Singapore dollar.
+
+[NEWS_P003] On the external front, regional bourses ended mixed, with most markets higher: Japan’s Nikkei 225 fell 0.26% to 42,718.47; South Korea’s Kospi eased 0.32% to 3,186.01; Taiwan’s Taiex edged down 0.01% to 24,233.10; Hong Kong’s Hang Seng Index gained 0.32% to 25,077.62; China’s CSI300 Index rose 0.74% to 4,496.76 and; Singapore’s Straits Times Index advanced 0.4% to 4,272.64.

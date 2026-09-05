@@ -1,0 +1,35 @@
+{
+  "advisory_warnings": [],
+  "blocking_reasons": [
+    "cross_validation_not_interpretable",
+    "systematic_matching_failure_detected"
+  ],
+  "claim_link_count": 316,
+  "combined_paper_ready": false,
+  "created_at": "2026-07-03T07:20:33+00:00",
+  "cross_validation_empirical_ready": false,
+  "cross_validation_pipeline_ready": true,
+  "cross_validation_ready": false,
+  "deliverable_type": "final_deliverable_clean_blocker_aware",
+  "eligible_company_year_pair_count": 11,
+  "freeze_allowed": true,
+  "mda_final_dataset_size": 149,
+  "mda_human_validation_ready": false,
+  "mda_only_candidate_complete": true,
+  "mda_ready": true,
+  "mda_semantic_ready": false,
+  "mda_structural_ready": true,
+  "mock_mode": true,
+  "news_company_focused_dataset_size": 69,
+  "news_empirical_blocked": false,
+  "news_final_dataset_size": 125,
+  "news_ready": true,
+  "paper_ready": false,
+  "real_news_missing_blocker_exists": false,
+  "recommended_next_actions": [
+    "review cross-validation contradiction/systemic matching outputs before using final empirical conclusions"
+  ],
+  "reproducibility_ready": true,
+  "synthetic_news_count": 0,
+  "systemic_conflict_flag": true
+}

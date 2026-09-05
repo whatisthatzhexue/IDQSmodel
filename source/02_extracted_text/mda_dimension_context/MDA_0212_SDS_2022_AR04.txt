@@ -1,0 +1,65 @@
+document_id: MDA_0212_SDS_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+“
+”
+OVERVIEW & JOURNEY IN THE NEW NORMAL
+From an operational angle, FYE 2022 has been a challenging year as the nation went through different
+Movement Control Order (MCO) phases. The constant adjustment to the Group’s operating procedures
+to ensure compliance with the Government’s Standard Operating Procedures (“SOPs”) was felt heavily
+especially in the retail channel, owing to the fact that the Group has significant Food and Beverage
+("F&B") components offering dine-in experiences for a variety of cuisines. Despite this challenge, the Group has managed to open 2 new outlets in Bandar Seri Putra, Selangor
+and Taman Nusantara, Johor while the wholesale channel set up another distribution centre in Gua
+Musang, Kelantan, bringing the Group’s total to 20 centres in 10 out of the 11 states in Peninsular
+Malaysia. The Group’s journey in FYE 2022 was a continuing story of operating under lockdown conditions,
+particularly in the early part of the financial year under review.
+[MDA_P002]
+Governmental SOPs to close all non-
+essential businesses and services impacted the Group’s operations and potential earnings from the
+retail channel as the retail outlets had to comply with certain SOPs including restricted dine-in, social
+distancing, closure of schools, malls and non-essential sectors had also affected foot traffic. Although
+the bakery section of the Group’s operations was classified as essential goods and was allowed to
+operate, the impact to revenue stream from the café operations was dampened during this period. Part of the Group’s responsibility as a caring corporate citizen was to ensure the wellbeing of its
+employees during this period. The Group participated in the employees’ vaccination program under
+PIKAS to increase its employees’ vaccination rate and ensure the customers’ wellbeing and peace of
+mind through this action. In addition, when market activities resumed, it also ensured that the Group
+was ready to function at normal operational capability in the endemic stage. The Group pivoted its strategy to meet the pandemic challenge by introducing a digital solution to
+meet market demand.
+[MDA_P011]
+KEY BUSINESS OPPORTUNITIES & CHALLENGES
+Among the key business opportunities that have presented itself to the Group include the influx of customers from
+Singapore to the Johor outlets the moment international borders were reopened. The surge in human traffic reflected
+the growth in demand from the F&B retail segment. The gradual easing into the new normal also presents an opportunity
+for the Group to enhance its geographical footprint particularly in the Central Region of Peninsular Malaysia for new retail
+outlets and the Northern Region of Peninsular Malaysia for new distribution centres. In fact, as recent as June 2022, the
+Group has opened a new distribution centre in Alor Setar, Kedah. The R&D arm of the Group continues to introduce new
+F&B offerings to meet the customers’ tastes and expectations. In the meantime, the Group is cognisant of the risks and actively anticipate known business risks to the Group through
+its Risk Management framework, which is discussed in the Statement of Risk Management and Internal Control on page
+046 of this Annual Report.
+[MDA_P012]
+Connecting business risks with its strategy for Sustainability is key in understanding the Group’s
+framework on Sustainability. The Sustainability Statement for the Group can be found on page 019 of this Annual Report. Meanwhile, the Group identifies the main known risks from three main areas, which are People, Marketplace
+and Industry. People
+In any given business, the main challenge has been and will always be the people who turn the wheels of the business. In the case of the Group, we foresee that the flow of talent to a neighbouring country such as Singapore would increase
+as the economy picks up and the borders have reopened. The attraction of talent to Singapore is purely economic due to
+the exchange rates between the two nations’ currencies. The departure of talent has left a vacuum in the employment
+market with many outlets facing severe shortage of front-line staff. In contrast to this, the freeze on hiring foreign labour during the MCO has resulted in manpower shortages for the factory
+production line. During the course of this financial year, the management had to relook into production processes to
+mitigate this issue.
+[MDA_P013]
+Marketplace
+In the space of the return to the new normal, new F&B retail outlets have been growing like mushrooms after the rain. Competition for market share and dominance has now become stiffer than before. Some of the risks in new market
+segments are product dominance as there is a duplicity of products in a highly competitive market. The improvement in logistics in the endemic period has also seen an increase in overseas quality brands which are
+brought in from franchising businesses. The digital nature of e-commerce platforms which were the mainstay during
+the pandemic has also posted new challenges in the shape of online sales on a regular basis to gain a larger foothold
+in the market. In addition to this, individual and standalone businesses have also surged in popularity with their
+homemade products that are marketed on social media. All these contribute to a more dynamic marketplace with
+increased competition for the attention of the man in the street. Industry
+One of the direct impacts of the endemic and global events has brought a new wave of cost-pushed inflation to our
+shores.

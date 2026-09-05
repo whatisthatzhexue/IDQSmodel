@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI erases earlier gains, YTL stocks weigh
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-09-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/05/fbm-klci-erases-earlier-gains-ytl-stocks-weigh
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the early session in the red after spending the majority of the day in positive territory, as investors shed gains in light of recent turmoil in global equities. At 12.30pm, the benchmark index was down 1.4 points to 1,668.84 after having been up about seven points earlier in the day. YTL Power, whose subsidiary has come under investigation by the Malaysian Anti-Corruption Commission, for payment claims over an RM4bil government project, weighed heavily on the index after falling 18 sen to RM3.71.
+
+[NEWS_P002] Its parent company YTL Corp dropped 23 sen to RM2.77. Meanwhile, there were strong gains in QL Resources up 18 sen to RM6.64, PPB rising 12 sen to RM14.38 and PETRONAS Dagangan gaining 24 sen to RM20.46. The small caps and lower liners on Bursa Malaysia fared worse than their blue-chip counterparts as reflected by the broad market pullback underpinned by 664 decliners, as compared to 293 gainers. The sector indices were mostly in the red, with financial services, healthcare and consumer products and services bucking the trend.
+
+[NEWS_P003] Of actives, ACE Market debutant Steel Hawk topped the list with 106.39 million shares, after investors bought up the share by 20 sen to 35 sen. MYEG rose one sen to 91.5 sen after 37.17 million shares traded and MUI Industries dropped 1.5 sen to seven sen with 36.06 million shares done. The overall market trading volume was 1.9 billion changing hands for RM1.63bil. Regionally, markets were mixed in anticipation of the release of more economic data that would shed light on the strength of the US economy.
+
+[NEWS_P004] Hong Kong's Hang Seng dropped 0.46% to 17,376, while Japan's Nikkei fell 1.18% to 36,609. China's composite index was flat at 2,785 and Singapore's Straits Times index gained 0.13% to 3,445.

@@ -1,0 +1,18 @@
+[TITLE]
+Apollo eyes $5 billion investment in Intel, Bloomberg News reports
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-09-23
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2024/09/23/apollo-eyes-5-billion-investment-in-intel-bloomberg-news-reports
+confidence_tier: low
+
+[NEWS_P001] (Reuters) -U.S.-based asset management company Apollo Global Management has offered to make an investment of as much as $5 billion in Intel, Bloomberg News reported on Sunday. Apollo has indicated in recent days it would be willing to make an equity-like investment of billions of dollars in Intel, the report said, citing a person familiar with the matter. The news comes at a moment of weakness for Intel, which was once the most valuable chipmaker in the world, but whose shares have lost nearly 60% of their value since the start of the year.
+
+[NEWS_P002] Intel executives have been weighing Apollo’s proposal, Bloomberg reported, adding that talks regarding the deal are in a preliminary stage and have not been finalized. Bloomberg said that the size of the potential investment in Intel could change and discussions regarding a deal could also fall through. Intel declined to comment on the Bloomberg News report, while Apollo did not respond to a Reuters' request for comment. Earlier this year, Apollo said it will acquire a 49% equity interest in a joint venture related to Intel's new manufacturing facility in Ireland for $11 billion.
+
+[NEWS_P003] The development for an investment in Intel comes soon after Qualcomm has in recent days approached Intel to explore a potential acquisition of the troubled chipmaker in what could be a transformational deal in the sector but faces many hurdles. Qualcomm CEO Cristiano Amon is personally involved in the negotiations to acquire five-decade-old Intel, which are currently in an early stage, Reuters reported on Friday citing a source who was briefed on the matter.
+
+[NEWS_P004] Previously, Qualcomm has also explored acquiring pieces of Intel's chip design business. (Reporting by Mrinmay Dey in Bengaluru; Editing by Lisa Shumaker)

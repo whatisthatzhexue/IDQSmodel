@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI extends losses for fifth straight session
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-21
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/21/fbm-klci-extends-losses-for-fifth-straight-session
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Despite opening higher at the start of the trading day, the FBM KLCI succumbed to selling pressure and extended its downtrend for the fifth consecutive session. The 30-stock index slipped 4.07 points, or 0.26%, to 1,544.80 after moving between an intraday high of 1,553.84 and a low of 1,542.47. In the broader market, decliners outpaced advancers, with 649 stocks ending lower while 342 closed higher. This gave a market breadth of 0.53, signalling that the bears maintained the upper hand.
+
+[NEWS_P002] A total of 3.27 billion shares were traded, with a value of RM2.16bil. Stock market data showed that foreign investors were net sellers on Tuesday, offloading RM81mil. In contrast, local institutions and retailers were net buyers, picking up RM47mil and RM33mil, respectively. Malaysian Pacific Industries , the top loser on Bursa Malaysia, slid RM1.94 to RM18.20. Nestle fell 60 sen to RM79.66, PETRONAS Chemicals lost 30 sen to RM3.42, and Heineken gave up 26 sen to RM27.80.
+
+[NEWS_P003] Among the gainers, F&N surged RM1.20 to RM27.48, United Plantations jumped 64 sen to RM22.66, Sunway Construction rose 27 sen to RM5.15, and Dutch Lady gained 16 sen to RM29.66. Among the banks, Maybank slipped four sen to RM10.00, Public Bank fell nine sen to RM4.34, and CIMB eased four sen to RM7.00. Meanwhile, Hong Leong Bank rose 10 sen to RM20.00, while RHB Bank ended flat at RM6.71. Meanwhile, the ringgit strengthened 0.7% against the US dollar to 4.2680, and gained 0.3% against the Singapore dollar to 3.3075.
+
+[NEWS_P004] On the external front, MSCI’s Asia ex-Japan stock index was 0.82% higher. Japan’s Nikkei 225 fell 0.61%, South Korea’s Kospi closed up 0.91%, Hong Kong’s Hang Seng added 0.62%, and China’s CSI 300 Index gained 0.47%.

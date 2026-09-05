@@ -1,0 +1,148 @@
+document_id: MDA_8303_LOTUS_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Overview of Business and Operations
+Lotus KFM Berhad (“LKFM” or “the Group”) is a public listed company on the Main Market of Bursa Malaysia
+Securities Berhad (“Bursa Securities”) with its’ principal activities engaged in flour milling and trading its related
+products. LKFM focuses on achieving customer satisfaction and loyalty while delivering exceptional value to our
+customers. In financial year ended 30 September 2024 (“FYE 2024”), the Group has been organised into two (2) major source
+of revenue according to their business activities comprising milling of flour and trading its related products; and
+plantation. Lately, LKB Plantation Sdn. Bhd. had also contributed revenue for the Group during the FYE 2024. Other plantation
+business under the other subsidiaries, such as Lotus Plantation Sdn. Bhd., ASV Jaya Sdn. Bhd., Hijau Ria Solutions
+Sdn. Bhd., Sam Jaya Plantation Sdn. Bhd., Ladang Lojing Sdn. Bhd. and Khas Jadi Sdn. Berhad are still in the
+development stage. The Board expects these subsidiaries to provide new sources of recurring income stream for
+the Group and reducing the Group’s reliance of its existing business operations.
+[MDA_P002]
+The Board anticipates that revenue contributions from both the flour milling and trading operations, along with
+future income from plantation and investment subsidiaries, will enhance the Group’s earnings in the coming years. A comprehensive overview of the Group’s overall financial outcomes, business operation, operating segment and
+subsidiaries information can be found in Audited Financial Statement 2024. Corporate Developments
+Details of the regularisation plan can be obtained from the Company’s various announcements with Bursa
+Securities. Group’s Financial Results and Financial Conditions
+The following table is the financial highlights of the Group for the past five (5) financial years:-
+[MDA_P003]
+RM’000
+RM’000
+RM’000
+RM’000
+RM’000
+Revenue
+50,700
+58,508
+66,079
+51,762
+55,098
+Operating (loss)/profit
+(166)
+2,374
+2,989
+2,475
+9,741
+Profit before tax
+2,515
+3,102
+2,831
+10,060
+Profit after tax
+2,662
+2,990
+2,661
+9,927
+Shareholders’ funds
+80,519
+79,096
+76,052
+73,062
+55,765
+Net tangible assets
+80,519
+79,096
+76,052
+73,062
+55,765
+Tangible assets
+102,274
+100,568
+96,026
+86,922
+80,156
+Basic earnings per share (sen)
+0.02
+0.26
+0.29
+0.34
+1.64
+Net assets per share (sen)
+7.78
+7.73
+7.46
+7.17
+7.76
+[MDA_P004]
+ANNUAL REPORT 2024 | LOTUS KFM BERHAD
+Group’s Financial Results and Financial Conditions (CONT'D)
+Performance Review
+a)
+Revenue
+[MDA_P005]
+In FYE 2024, the Group recorded revenue of RM50.700 million, representing a decrease of RM7.808 million
+compared to RM58.508 million in the previous financial year ended 2023 (“FYE 2023”). The decline was
+primarily due to reduce of demand in the operating market, and negatively impacted the sales volume.
+[MDA_P006]
+The Group’s revenue was mainly driven by the flour milling and trading segment, contributing RM50.318
+million in FYE 2024. Additionally, plantation segment had generated RM0.383 million, accounting for 0.75%
+of the Group’s total revenue as a new income source.
+b)
+Operating Profit
+[MDA_P007]
+The Group recorded a gross profit of RM1.936 million in FYE 2024 compared to RM4.143 million in FYE
+2023, representing a decrease of 53.27%. Consequently, the profit before tax also decreases by 94.31% in
+FYE 2024 compare to FYE 2023, which is RM0.143 million and RM2.515 million respectively.
+c)
+Cash Flows and Liquidity
+[MDA_P008]
+The Group’s inventories level for current FYE 2024 has decreased to RM0.291 million (FYE 2023: RM0.836
+million), reflecting the decrease of 65.19%. The reason for maintaining a lower inventory level during FYE
+2024 is to minimize the holding and carrying cost and as part of the Company’s strategy to reduce the risk
+of inventories become slow-moving stock or obsolete inventories.
+[MDA_P013]
+LOTUS KFM BERHAD | ANNUAL REPORT 2024
+Management Discussion and Analysis
+(cont'd)
+Anticipated Business Risks
+The business risks faced by LKFM include market competitions, volatility of imported raw material prices,
+movements of currency exchange rates, pressure of inflation, the performance of user industries and changes in
+economic, political and regulatory conditions.
+a)
+Market competitions
+[MDA_P014]
+The flour milling sector remains competitive among the flour milling operators locally. The Group will continue
+to develop new market strategy in order to capture new market, particularly on less well-served segments,
+then improved its distribution channels as well as product mix and quality to meet a wider range of customers’
+needs and requirements and to sustain the margin in this highly competitive market. The Group is also
+targeting to continue expand new customers’ base.
+b)
+Volatility of raw material prices
+[MDA_P015]
+The volatility of prices on imported raw materials such as wheat and tapioca still remained as the key
+challenge for the Group as the cost of raw materials constitutes a major part of production of wheat flour and
+tapioca starch.
+[MDA_P016]
+Both wheat and tapioca are globally traded commodities, and as a result, their prices may fluctuate from time
+to time. The price of wheat and tapioca are influenced by global macroeconomic factors including, among
+others, the supply and demand of wheat and tapioca, as well as stock levels. Therefore, any fluctuations of
+the commodity prices and the availability of the stock will have a significant impact on the Group’s profitability.
+c)
+Volatility of currency exchange rates
+[MDA_P017]
+As LKFM’s main raw materials such as wheat and tapioca are fully imported from overseas markets and
+traded in USD. Thus, the fluctuations in USD/RM exchanges rates will have a great impact on its raw material
+costs and further affecting the cost of goods sold. The Group is fitting proactive approach and strategic to
+minimize the risk.
+d)
+Pressure of inflation

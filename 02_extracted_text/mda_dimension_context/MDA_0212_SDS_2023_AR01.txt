@@ -1,0 +1,92 @@
+document_id: MDA_0212_SDS_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion
+and Analysis
+The Group’s unique
+proposition of wide-
+ranging product
+offerings and options
+on sales channels
+had allowed SDS to
+continue to meet
+the demands of its
+customers. INDUSTRY OVERVIEW
+With the recent changes taking place in the presence of globalisation, sustainability goals and health consciousness,
+businesses are closely being evaluated based on their operational procedures, adaptability and environmental
+impact. World travels, the internet, purchasing power, awareness on nutrition and fast-paced lifestyle are also
+crucial indicators for the food industry. The multiple big trends marked a significant shift and become the catalysts
+in reshaping the industry in this region. It is thus vital for companies such as SDS Group Berhad and its subsidiaries
+(“SDS” or the “Group”) to seize the opportunities in today’s dynamic market. Whilst activities and the economy have returned to normalcy, SDS has been at the forefront to benefit from
+reopening of dine-in restaurants as well as more sales opportunities from all other revenue streams post pandemic.
+[MDA_P002]
+Nonetheless, our operations for the financial year ended 31 March 2023 (“FY2023”) was disrupted with geopolitical
+issues and inflationary concerns which saw impact on the business’ supply chain, higher ingredient costs as well
+as pricing of its products. In response to the price escalation trend as well as keen competition, SDS leveraged on its own innovation efforts
+to produce creative products to stay competitive and meet consumers’ expectations for a more exciting fare. This
+has also paved the way for the expansion of SDS customer base and strengthening of earnings in recent years. Backed by a strong local market presence and its solid manufacturing and logistic capabilities, SDS focuses on
+production efficiency and cost management and continuously offers quality, value-for-money products. The Group is firm on its journey to unlock the potential of new customers through wider market reach, strategic
+distribution centres as well as accelerating the momentum of online purchases.
+[MDA_P007]
+The driving factor for the higher sales has been the uplifting of movement controls at the country’s borders as well
+as the increased options for value-for-money bakery products given the economic pressure on the customers’
+purchasing power. The Group establishment of distribution centres at the strategic locations in Peninsular Malaysia
+had certainly contributed to the higher revenue recorded in the wholesale segment. On the other hand, its retail
+segment recorded a significant 60.2% increase in revenue as compared to the previous year, due to the dining-out
+trend and higher orders through online platforms. The much-improved revenue had led to a significant increase
+in profit after tax for the Group at RM24.8 million in FY2023 as compared to RM10.6 million in FY2022, recording a
+134.3% increase. Improvement in gross profit margin (31.1% to 31.5% in FY2023), efficient control over administrative
+and selling and distribution expenses have all contributed to the impressive performance for this financial year. In
+addition, the Group’s finance cost has decreased mainly due to advance repayment of term loan and lease liabilities.
+[MDA_P008]
+INDICATOR
+FY2023
+FY2022
+% CHANGE
+BETWEEN
+FY2023 AND
+FY2022
+Revenue (RM’000)
+283,667
+198,283
+43.1%
+Gross Profit (RM’000)
+89,292
+61,596
+45.0%
+Gross Profit Margin (%)
+31.5
+31.1
+1.3%
+Profit before tax (RM’000)
+32,767
+14,103
+132.3%
+Profit after tax attributable to owners of the Company (RM’000)
+24,529
+10,618
+131.0%
+[MDA_P018]
+Total assets recorded an increase by 13.1% to RM161.9 million during FY2023 mainly due to higher capital
+expenditures, trade receivables and cash and bank balances from the increase in revenue and net profit. Total
+borrowings on the other hand have reduced significantly by 72.2% from RM17.4 million to RM4.9 million in FY2023
+mainly due to early repayment of term loan and lease liabilities under hire purchase arrangement.
+[MDA_P028]
+SDS GROUP BERHAD
+ANNUAL REPORT 2023
+Management Discussion
+and Analysis
+KEY BUSINESS OPPORTUNITIES AND RISKS
+Embarking on expansion of its business, performance improvement of fleet and innovation of new product offerings
+have not only improved market share and provided cost savings for SDS but has also brought along potential risks
+and challenges. The Board and Management team have been vigilant and continue to take the necessary measures to
+mitigate the potential threats that may be disrupting the smooth running of the business. SDS employed risk management process of risk identification, impact assessment, profiling matrix and the mitigation plans,
+based on the general principles of the risk management framework. The Group were aware of intensified competition
+and challenging environment given inflationary pressure, high food cost, labour shortage as well as increased awareness
+on carbon footprint. Some of the mitigation action plans included product diversification to keep up with the customers’
+changing preferences and taste. Other measures involved in detailed analysis of products disposals for retail outlets in
+order to reduce cost.

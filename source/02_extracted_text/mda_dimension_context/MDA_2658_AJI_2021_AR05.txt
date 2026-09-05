@@ -1,0 +1,26 @@
+document_id: MDA_2658_AJI_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 73.394, "paragraph_count": 34, "paragraph_length_distribution": {"max": 1128, "mean": 233.176, "min": 21}, "repetition_ratio": 0.382353, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Our Business
+History & Milestone
+Ajinomoto (Malaysia) Berhad (“the Company”) was incorporated sixty years ago in 1961 as a distributor of monosodium
+glutamate (“MSG”) under the brand, AJI-NO-MOTO®, which was imported from its parent company in Japan. In 1965,
+the Company commenced production of MSG and subsequently other food seasoning products at its current factory.
+The Company is one of the very first Japanese companies to be set up in Malaysia and has since established itself as a
+responsible and reputable food manufacturer and distributor for a variety of food seasoning products that is trusted by
+Malaysians for decades. AJI-NO-MOTO® Umami seasoning is an indispensable item in almost every household.
+[MDA_P009]
+* Inhalation or contact with the body may trigger an allergic
+[MDA_P018]
+► Once the bag is opened, use all otherwise tightly seal and
+[MDA_P026]
+* If the symptoms are acute, see a doctor.
+[MDA_P034]
+The Company’s products are well-received by customers in many countries.

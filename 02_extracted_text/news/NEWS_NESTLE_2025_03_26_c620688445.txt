@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI moves higher despite uncertain outlook
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/26/fbm-klci-moves-higher-despite-uncertain-outlook
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's benchmark stock index snuck a little higher at the start of midweek trading, although there remained an air of caution ahead of more developments in the US tariffs front. The FBM KLCI rose 3.01 points to 1,516.61 as it extended its recovery from the previous session, but failed to make any headway past the 14-day simple moving average, suggesting ongoing weakness over the immediate term. TA Securities said the local market's recovery may be weighed down near-term, as investors turn cautious following news of sector-specific tariffs being planned by the Trump administration.
+
+[NEWS_P002] "Immediate index resistance is retained at 1,550, followed by 1,580, with tougher upside hurdle at 1,605. Immediate support is set at 1,500, with stronger key retracement supports seen at 1,472 and 1,450," it said in its market commentary. Rakuten Trade noted that Wall Street stocks ended higher overnight as investors assesses consumer sentiment data and bet on a more flexible trade policy stance from the Trump administration next week. However, the brokerage maintained a guarded outlook due to persistent global uncertainties.
+
+[NEWS_P003] "We foresee buying support for blue-chip counters, keeping the benchmark index within the 1,510–1,520 band," it said in its report. Notable gainers on the blue-chip index included Nestle up 72 sne to MR70, Tenaga Nasional rising four sen to RM13.64 and CIMB ganing five sen to RM7.05. ACE Market debutant Chemlite topped the market's list of active stocks with 24.98 million shares traded as at the time of writing. The share was down 2.5 sen to 22.5 sen.
+
+[NEWS_P004] With an opening of 23 sen and high of 23.5 sen a share, the stock is yet to equal its initial public offering price of 25 sen a share.

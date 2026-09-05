@@ -1,0 +1,56 @@
+document_id: MDA_8303_LOTUS_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 132.414, "paragraph_count": 21, "paragraph_length_distribution": {"max": 1185, "mean": 442.476, "min": 127}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Overview of Business and Operations
+Lotus KFM Berhad (“LKFM” or “the Group”) is a public listed company on the Main Market of Bursa Malaysia
+Securities Berhad (“Bursa Securities”) with its’ principal activities engaged in flour milling and trading its related
+products. LKFM focuses on achieving customer satisfaction and loyalty while delivering exceptional value to our
+customers. In financial year ended 30 September 2024 (“FYE 2024”), the Group has been organised into two (2) major source
+of revenue according to their business activities comprising milling of flour and trading its related products; and
+plantation. Lately, LKB Plantation Sdn. Bhd. had also contributed revenue for the Group during the FYE 2024. Other plantation
+business under the other subsidiaries, such as Lotus Plantation Sdn. Bhd., ASV Jaya Sdn. Bhd., Hijau Ria Solutions
+Sdn. Bhd., Sam Jaya Plantation Sdn. Bhd., Ladang Lojing Sdn. Bhd. and Khas Jadi Sdn. Berhad are still in the
+development stage. The Board expects these subsidiaries to provide new sources of recurring income stream for
+the Group and reducing the Group’s reliance of its existing business operations.
+[MDA_P006]
+The Group’s revenue was mainly driven by the flour milling and trading segment, contributing RM50.318
+million in FYE 2024. Additionally, plantation segment had generated RM0.383 million, accounting for 0.75%
+of the Group’s total revenue as a new income source.
+b)
+Operating Profit
+[MDA_P011]
+The Group’s cash and bank balances placed with financial institutions decreased by 33.70%, which is
+RM11.145 million and RM16.810 million in FYE 2024 and FYE 2023 respectively. However, the fixed deposits
+with licensed bank increased by 22.66%, which recording RM12.404 million and RM10.112 million in FYE
+2024 and FYE 2023 respectively. By considering the challenges of the operating environment, the Board has
+retained adequate fund to meet financial obligation of the Group.
+[MDA_P016]
+Both wheat and tapioca are globally traded commodities, and as a result, their prices may fluctuate from time
+to time. The price of wheat and tapioca are influenced by global macroeconomic factors including, among
+others, the supply and demand of wheat and tapioca, as well as stock levels. Therefore, any fluctuations of
+the commodity prices and the availability of the stock will have a significant impact on the Group’s profitability.
+c)
+Volatility of currency exchange rates
+[MDA_P021]
+ANNUAL REPORT 2024 | LOTUS KFM BERHAD
+Management Discussion and Analysis
+(cont'd)
+Outlook of Industry
+The operating environment is expected to remain highly competitive in 2025 due to inherent uncertainties and
+unforeseen events that may impact the Group. Despite these challenges, the Group is committed to enhancing
+the Group’s operational efficiency and exploring diverse marketing strategies to boost revenue and profitability.
+The Group will continue monitoring and conduct regular review on the market condition to mitigate potential risk.
+We always uphold our mantra of offering excellent customer services and delivering high-quality products to
+our existing customers while actively securing new business opportunities. The Group will remain focused on
+monitoring prevailing market conditions to ensure sustainable growth.
+Note of Appreciation
+To our shareholders, customers, suppliers and business associates, who have given us valuable support, we wish
+to express our sincere appreciation and thanks to all of your enduring trust and confidence in our business.

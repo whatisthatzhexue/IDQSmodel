@@ -1,0 +1,8 @@
+| doc_type | scheme | AR01 | AR02 | AR03 | AR04 | AR05 | N01 | N02 | N03 | N04 | N05 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| mda | W1_baseline | 0.2 | 0.25 | 0.25 | 0.2 | 0.1 |  |  |  |  |  |
+| mda | W2_main_recommended | 0.15 | 0.25 | 0.3 | 0.2 | 0.1 |  |  |  |  |  |
+| mda | W3_conservative_financial | 0.15 | 0.3 | 0.25 | 0.2 | 0.1 |  |  |  |  |  |
+| news | W1_baseline |  |  |  |  |  | 0.3 | 0.2 | 0.2 | 0.15 | 0.15 |
+| news | W2_main_recommended |  |  |  |  |  | 0.3 | 0.25 | 0.15 | 0.2 | 0.1 |
+| news | W3_source_reliability |  |  |  |  |  | 0.3 | 0.3 | 0.15 | 0.15 | 0.1 |

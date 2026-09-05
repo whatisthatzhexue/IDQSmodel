@@ -1,0 +1,104 @@
+[SECTION: Unknown]
+
+[MDA_P001]
+[MDA_P001] Management Discussion and Analysis
+
+[SECTION: Unknown]
+
+[MDA_P002]
+[MDA_P002] REX GROUP
+
+[SECTION: Unknown]
+
+[MDA_P003]
+[MDA_P003] FY 2019 FY 2020 (All in RM’000) Revenue 136,608 149,245 Loss before tax (14,317) (8,396) The Board is committed to continue with prudent measures to improve the Group’s financial performance and deliver satisfactory results taking cognizance of the prevailing business environment. Financial Highlights
+
+[SECTION: Unknown]
+
+[MDA_P004]
+[MDA_P004] 30 Jun 16 30 Jun 17 30 Jun 18 30 Jun 19 30 Jun 20
+
+[SECTION: Unknown]
+
+[MDA_P005]
+[MDA_P005] RM’000 RM’000 RM’000 RM’000 RM’000 Statement of Profit and Loss
+
+[SECTION: Unknown]
+
+[MDA_P006]
+[MDA_P006] Turnover (Continuing operations) 196,182 130,175 130,323 136,608 149,245 Turnover (Discontinued operations) 46,526 9,470 - - - Profit/(Loss) before Tax after Minority Interest (2,404) 2,493 (15,095) (14,317) (8,396) Interest 1,231 1,070 1,539 1,905 2,050
+
+[SECTION: Unknown]
+
+[MDA_P007]
+[MDA_P007] Profit/(Loss) after Tax and Minority Interest (4,788) 3,254 (15,153) (13,297) (9,465) Dividend - (1,233) - - - Statement of Financial Position
+
+[SECTION: Unknown]
+
+[MDA_P008]
+[MDA_P008] Paid-up Share Capital 61,657 73,743 73,743 73,743 73,743 Shareholders Funds 137,852 142,466 126,422 113,672 101,891 Borrowings 14,013 21,888 29,946 36,472 43,451 Net Tangible Assets 129,963 134,577 118,533 106,635 94,854 Management Discussion and Analysis (Continued)
+
+[SECTION: Financial Review]
+
+[MDA_P009]
+[MDA_P010] 30 Jun 16 30 Jun 17 30 Jun 18 30 Jun 19 30 Jun 20
+
+[SECTION: Financial Review]
+
+[MDA_P010]
+[MDA_P011] RM’000 RM’000 RM’000 RM’000 RM’000 Investment Ratio
+
+[SECTION: Financial Review]
+
+[MDA_P011]
+[MDA_P012] NTA per share 2.21 2.11 2.18 0.43 0.38
+
+[SECTION: Financial Review]
+
+[MDA_P012]
+[MDA_P013] Basic Earning/(Loss) Per Share (Sen) 1.38 (8.09) (8.05) (5.39) (3.84) Gross Dividend rate (%) - - 2.00 - - Dividend coverage ratio (times) - - 2.64 - - Operating Ratio
+
+[SECTION: Financial Review]
+
+[MDA_P013]
+[MDA_P014] After tax return on shareholders’ fund (%) (3.47) 2.23 (11.93) (11.70) (8.5) Pre-tax profit margin (%) (0.99) 1.74 (11.53) (10.48) (5.63)
+
+[SECTION: Financial Review]
+
+[MDA_P014]
+[MDA_P016] Gearing (times) 0.102 0.154 0.237 0.321 0.426 Interest Coverage ratio (0.95) 3.20 (8.76) (6.52) (3.10) Liquidity ratio
+
+[SECTION: Financial Review]
+
+[MDA_P015]
+[MDA_P017] Current ratio 3.33 2.45 2.34 1.81 1.32
+
+[SECTION: Financial Review]
+
+[MDA_P016]
+[MDA_P018] Quick ratio 1.91 1.31 1.26 0.99 0.61 Note: 1) The issued ordinary shares of the Company was increased from 61,656,617 to 246,626,468 unit of ordinary shares by way of issuance of 184,969,851 new ordinary shares arising from share split exercise. The share split has been completed following the listing on the Main Market of Bursa Malaysia Securities Berhad on 24 October 2017. 2) Basic Earning/(Loss) per ordinary share for the financial year is calculated by dividing the (loss)/profit after tax attributable to owners of the parent by weighted average number of ordinary shares outstanding during the financial year. Changes in the composition of the Group There were no changes in the composition of the Group for the financial year ended 30 June 2020. Outlook and Prospects It is envisaged that Financial year July 2020 to June 2021 will be an extremely challenging one as the country and the world grapple with the fallout from the Covid-19 Pandemic. Given the unpredictability of future development of this Pandemic, it is challenging to determine the duration of the impact on the business and to gauge the potential impact on the financial statements of the Group.
+
+[SECTION: Financial Review]
+
+[MDA_P017]
+[MDA_P019] Management Discussion and Analysis (Continued)
+
+[SECTION: Financial Review]
+
+[MDA_P018]
+[MDA_P020] Outlook and Prospects (Continued) Experts believe the situation is unlikely to rebound for the first half of 2021 which coincides with the second half of our Financial Year 2021. In the coming months we foresee higher unemployment rates, more frugal consumer spending, downtrading to lower cost products and online selling gaining greater relevance as more consumers are initiated into that platform and adopt it. We further foresee more aggressive competition for a share of a smaller pocket and on boarding of new competitors who are forced to expand into the food business to survive. The overarching result would be increased choices, lower priced products, and pressure on margins for incumbent players to defend and to grow market share. Taking cognizance of the foregoing we shall adopt a proactive approach to meet the forthcoming challenges with an optimised portfolio that is appropriate to the market situation. Cost rationalisation, operational efficiencies, product innovations, and improvement on routes to market will be vigorously pursued. The Group is optimistic that our strategies and plans will enable us to strengthen and grow our market position in this challenging period.
+
+[SECTION: Financial Review]
+
+[MDA_P019]
+[MDA_P021] Significant Events The World Health Organisation had on 11 March 2020 declared the COVID-19 outbreak as a global pandemic. As a measure to contain the outbreak, the Government of Malaysia announced the MCO which is effective from 18 March 2020. Effective 4 May 2020, the MCO has been transitioned into a conditional MCO until 9 June 2020. As announced on 7 June 2020, the conditional MCO has further been transitioned into a recovery MCO (“RMCO”) which had commenced with effect from 10 June 2020 until 31 August 2020. Subsequently vide an announcement on 28 August 2020, the RMCO was further extended from 31 August 2020 until 31 December 2020. Under the RMCO, more economic sectors and businesses will be allowed to be opened subject to adherence with the necessary strict standard operating procedures (“SOP”). As for the Group’s Indonesian operating subsidiary, the Indonesian Government implemented Pembatasan Sosial Berskala Besar (“PSBB) to mitigate the spread of Covid-19 which is equivalent to a partial lockdown from 28 April 2020 to 11 May 2020.
+
+[SECTION: Financial Review]
+
+[MDA_P020]
+[MDA_P022] PSBB was extended twice to 25 May 2020 and subsequently up to 8 June 2020 of which PSBB was uplifted and business were able to operate with strict health protocols. The outbreak of COVID-19 is an event of force majeure that is beyond the control of our Group. There is no assurance that the COVID-19 outbreak and or the RMCO or PSBB will not have a material adverse impact on the market conditions and or the industry in which our Group operates. Further, no assurance can be given that there the COVID-19 outbreak and/ or the RMCO or PSBB will not have any material adverse impact to the supply chain of our Group’s raw materials and the operations of our production facilities. Potential risks arising therefrom may include but not limited to slowdown in customers’ demand, disruption in supply chain of our Group’s raw materials and products, increased operating costs to comply with the SOP and disruptions to the output of our production facilities as a result of a re-enforcement of the MCO or PSBB or a breakout of COVID-19 in proximity to our production facilities, any of which may result in an adverse effect on our Group’s business and financial conditions.
+
+[SECTION: Financial Review]
+
+[MDA_P021]
+[MDA_P023] Acknowledgements I take this opportunity to thank my fellow Board members, our shareholders, customers and business partners for their continued support, trust and unwavering confidence over the past years. To all our dedicated staff and management team, thank you for your commitment and leading the company forward. DARMENDRAN KUNARETNAM Group Managing Director Management Discussion and Analysis (Continued)

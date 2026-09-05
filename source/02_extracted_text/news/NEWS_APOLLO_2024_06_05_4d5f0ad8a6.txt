@@ -1,0 +1,16 @@
+[TITLE]
+Apollo Global to provide $11 billion to Intel for Ireland facility
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-06-05
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2024/06/05/intel-and-apollo-agree-on-jv-related-to-intel039s-manufacturing-facility-in-ireland
+confidence_tier: low
+
+[NEWS_P001] (Reuters) -Buyout firm Apollo Global Management will acquire a 49% equity interest in Intel's manufacturing facility in Ireland for $11 billion, the companies said on Tuesday. Apollo will acquire the stake in the Fab 34 facility in Leixlip, Ireland, the U.S. chipmaker's first high-volume location for its Intel 4 manufacturing process using extreme ultraviolet lithography machines. The deal, expected to close in the second quarter, would allow Intel to redeploy parts of its investment in the project to other parts of its business, the company said.
+
+[NEWS_P002] Intel has invested $18.4 billion in the facility till date. The company announced plans in 2022 to build chip factories in Ireland and France as it seeks to benefit from easier European Commission funding rules and subsidies as the bloc looks to cut its dependence on U.S. and Asian supply. Intel will retain full ownership and operational control of Fab 34 and its assets. "This transaction allows us to share our investment with an established financial partner on attractive terms," Intel Chief Financial Officer David Zinsner said.
+
+[NEWS_P003] Intel forecast second-quarter revenue and profit below market estimates in April as it faces weak demand for its traditional data center and personal computing chips, amid a surging market for AI components. (Reporting by Sourasis Bose in Bengaluru; Editing by Maju Samuel)

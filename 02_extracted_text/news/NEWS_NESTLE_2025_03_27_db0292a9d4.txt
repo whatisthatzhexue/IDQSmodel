@@ -1,0 +1,14 @@
+[TITLE]
+FBM KLCI climbs 12pts as bargain-hunting continues
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/27/fbm-klci-climbed-12pts-as-bargain-hunting-continues
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Buying in selected heavyweight counters sent the FBM KLCI higher in Thursday morning trade, despite investor trepidation over developments in Trump's tariffs war. At 12.30pm, the benchmark index was up 12.77 points to 1,530.82, pulled higher by bargain-hunting in oversold stocks. Nestle jumped RM1.38 to RM73.78, Tenaga Nasional climbed 22 sen to Rm13.54 and Gamuda rose 25 sen to RM4.26. Meanwhile, bank shares scaled higher including Maybank up 18 sen to RM10.36, CIMB gaining nine sen to RM7.13, RHB rising seven sen to RM6.87 and Hong Leong Bank adding 30 sen to RM20.50.
+
+[NEWS_P002] The number of advancing issuers on Bursa Malaysia outpaced decliners at a ratio of 1.08-to-1. Volume of shares transacted was 1.64 billion for a market value of RM1.09bil. There was mixed outcome in Asian market amid the ongoing economic uncertainty. China's composite index rose 0.3% to 3,379 while Hong Kong's Hang Seng gained 1.05% to 23,729. Japan's Nikkei, meanwhile, dipped 0.96% to 37,663. Singapore's Straits Times index climbed 0.4% to 3,979.

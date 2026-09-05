@@ -1,0 +1,123 @@
+document_id: MDA_8303_LOTUS_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 23, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P002]", "note": "segment revenue: components sum 2052.00, stated total 21646200.00, difference -99.99%, status material_discrepancy.", "source_text": "On 31 December 2021, the Group continued to acquire two subsidiaries in 100% of total shares, which are Ladang Lojing Sdn. Bhd. and Khas Jadi Sdn. Berhad for a total consideration of RM21,646,200. The principal activities of all the subsidiaries are disclosed in the Audited Financial Statements Repo", "status": "material_discrepancy"}], "document_id": "MDA_8303_LOTUS_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 40, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Overview of Business and Operations
+Lotus KFM Berhad (“LKFM”) is principally engaged in flour milling and trading in its related products and is a public listed
+company on the Main Market of Bursa Malaysia Securities Berhad (“Bursa Securities”). The two main sources of revenue comprise of milling of wheat flour and the trading of starch flour. LKFM focus on
+producing consistent and good quality flour with the objective of achieving customer satisfaction and loyalty, also to
+providing services with exceptional value to our customers. Lately, a proposed diversification allows Lotus Group (“the Group”) to enter the forest plantation industry in Malaysia. The
+plantation business is expected to provide a new source of recurring income stream for the Group to mitigate the risk of
+overdependence on its existing business. As part of the diversification plan, the Group has continuously expanded and acquired three subsidiaries in 100% of total
+shares on 11 October 2021, being ASV Jaya Resources Sdn. Bhd., Sam Jaya Plantation Sdn. Bhd. and Hijau Ria Solution
+Sdn. Bhd. for a total consideration of RM5,162,190.
+[MDA_P002]
+On 31 December 2021, the Group continued to acquire two subsidiaries in 100% of total shares, which are Ladang
+Lojing Sdn. Bhd. and Khas Jadi Sdn. Berhad for a total consideration of RM21,646,200. The principal activities of all the
+subsidiaries are disclosed in the Audited Financial Statements Report, accompanying note 5 of the financial year ended
+30 September 2023. The Board believes that both revenue contribution from existing flour milling and trading operations and contributions
+from subsidiaries involved in plantation and investment will positively contribute to the Group’s earnings in future. A full description of the Group’s overall financial outcomes, business operation, operating segment and information on the
+subsidiaries can be found in the Audited Financial Statement for the FYE 2023. Corporate Developments
+Details of the regularisation plan can be obtained from the Company’s various announcements with Bursa Securities. Group’s Financial Results and Financial Conditions
+The following table is the financial highlights of the Group for the past five (5) financial years:-
+[MDA_P003]
+RM’000
+Restated
+RM’000
+RM’000
+RM’000
+RM’000
+Revenue
+58,508
+66,079
+51,762
+55,098
+57,893
+Operating profit/(loss)
+2,374
+2,989
+2,475
+9,741
+(3,962)
+Profit/(Loss) before tax
+2,515
+3,102
+2,831
+10,060
+(3,962)
+Profit/(Loss) after tax
+2,662
+2,990
+2,661
+9,927
+(3,962)
+Shareholders’ funds
+79,096
+76,052
+73,062
+55,765
+(29,931)
+Net tangible assets
+79,096
+76,052
+73,062
+55,765
+(29,931)
+Tangible assets
+100,568
+96,026
+86,922
+80,156
+36,338
+Basic earnings/(loss) per share (sen)
+0.26
+0.29
+0.34
+1.64
+(5.81)
+Net assets per share (sen)
+7.73
+7.46
+7.17
+7.76
+(43.87)
+[MDA_P004]
+LOTUS KFM BERHAD 198401007083 (119598-P)
+ANNUAL REPORT 2023
+Group’s Financial Results and Financial Conditions (CONT'D)
+Performance Review
+a)
+Revenue
+[MDA_P005]
+During the financial year ended 30 September 2023 (“FYE 2023”), the Group recorded consolidated revenue of
+RM58.508 million, a decrease of 11.46% compared to the prior financial year ended 2022 (“FYE 2022”) amount
+of RM66.079 million. The group’s revenue is mainly contributed from the flour milling and trading segment. The
+decrease of demand in the operating market affected the sales volume. The total sales volume of flour milling and
+trading decreased from 28,803 metric tonnes to 20,888 metric tonnes, which represents a dropping of 27.48% in
+FYE 2023.
+b)
+Operating Profit
+[MDA_P006]
+The Group recorded a gross profit of RM4.143 million in FYE 2023 compared to RM4.171 million in FYE 2022,
+representing a decrease of 0.67%. However, the gross profit margin increased to 7.08% in FYE 2023 (FYE 2022:
+6.31%). As a result, the cost of commodity raw material had increased which offset the positive impact of a higher
+gross profit margin on the overall gross profit. Consequently, the profit before tax also decreased by 18.92% in FYE
+2023 compared to FYE 2022, which is RM2.515 million and RM3.102 million respectively.
+c)
+Cash Flows and Liquidity
+[MDA_P007]
+The Group’s inventory level for current FYE 2023 has decreased by 43.50% to RM0.836 million (FYE 2022: RM1.480
+million). The reason for maintaining a lower inventory level during FYE 2023 is to minimize the holding and carrying
+costs. In addition, it is the Company’s strategy to reduce the risk of inventories becoming slow-moving stock or
+obsolete inventories.
+[MDA_P008]
+The Group’s trade receivables recorded RM6.357 million in the FYE 2023 compared to the prior year (FYE 2022:
+RM7.725 million), reflecting a decrease of 17.70%. Other receivables slightly increased by 7.58% in FYE 2023,
+which is RM10.087 million (FYE 2022: RM9.376 million).

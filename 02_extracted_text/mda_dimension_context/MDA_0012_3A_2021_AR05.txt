@@ -1,0 +1,94 @@
+document_id: MDA_0012_3A_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 10, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 154.688, "paragraph_count": 10, "paragraph_length_distribution": {"max": 1182, "mean": 875.5, "min": 260}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+REVENUE
+10%
+Malaysia
+Singapore
+Other countries
+Revenue by Geographical Locations for FY2021
+BUSINESS OVERVIEW
+The year 2021 was truly another extraordinary year. For one,
+the COVID-19 pandemic had dramatically changed our way
+of life. Although multiple Movement Control Order (“MCO”)
+were implemented last year, the Group saw a resurgence of
+confidence from our customers. This translated to the Group
+having recorded the best ever annual Revenue and Profits as
+both grew by double digits in year 2021. The commendable
+results are possible owing to our strong business philosophy
+of producing products of exceptional quality at competitive
+prices. Besides, effective marketing strategies and agility in
+meeting new buying trends that were made possible by large
+amount of knowledge and experience accumulated over the
+years were the other ingredients of our achievements. Moving
+ahead, the Group embarks on careful and comprehensive
+investments on production facilities to improve capacity and
+efficiency to scale greater heights.
+[MDA_P003]
+Revenue from
+export of products comprised 43% of the overall revenue of
+the Group in FY2021. During the FY2021, the Group successfully recouped an
+amount of RM0.53 million from impairment losses that
+were provided in the prior years. The Group is pleased to report that cash and bank balances
+of the Group was at RM55.1 million at the end of financial
+year 2021. Meanwhile, total borrowings remain manageable
+at RM8.0 million. Therefore, the Group is confident with
+the availability of sufficient financial resources to continue
+with the implementation of various business plans. THREE-A RESOURCES BERHAD
+199901006659 (481559-M)
+ANNUAL REPORT 2021
+[MDA_P006]
+Hopes are high as countries
+worldwide race to inoculate their populations including
+Malaysia which has achieved high vaccinations among
+adults and also recently approved for children. However,
+THREE-A RESOURCES BERHAD
+199901006659 (481559-M)
+ANNUAL REPORT 2021
+[MDA_P008]
+At the same time,
+the Group is going ahead with numerous projects with
+the aim to achieve improved operational efficiency in our
+manufacturing plants through upgrading and modernisation
+plans. These are long-term multi-pronged plans that should
+enable us to reduce reliance on foreign labour and to enable
+our manufacturing facilities to be more efficient to produce
+more as well as achieve cost savings. The Group is confident that our business strategies would
+be able to realise our vision to be a recognised global leader
+in the food and beverage ingredients industry known with
+products of exceptional quality. DIVIDENDS
+As the Group achieved better results in FY2021, the Board of
+Directors had declared an interim dividend per share of 2.2 sen
+and a special dividend of 0.8 sen per share for FY2021, both
+totalling RM14.7 million and was paid on 15 December 2021. The Board of Directors took many factors into consideration
+before making any decision on payment of dividends to valued
+shareholders. In this regard, cash flow requirements for
+operating and investment activities are among most important
+factors to consider before making decision.
+[MDA_P010]
+PERFORMANCE REVIEW
+MANAGEMENT DISCUSSION
+AND ANALYSIS (CONTINUED)
+conditions. It was indeed a very challenging year with many
+rounds of lockdowns that resulted in tremendous mental stress.
+In facing adversity, our people worked tirelessly to overcome
+all prevailing uncertainties in the business environment while
+keeping safe and healthy.
+We also take this opportunity to express our gratitude to our
+loyal shareholders, customers, vendors, bankers and business
+associates for all the trust and confidence in the Group.
+Lastly, we are thankful to the leadership, guidance and
+commitment from all Board members that made this
+another record breaking year for the Group.
+Thank you.
+THREE-A RESOURCES BERHAD
+199901006659 (481559-M)
+ANNUAL REPORT 2021

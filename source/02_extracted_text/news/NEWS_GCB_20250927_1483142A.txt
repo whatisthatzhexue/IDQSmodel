@@ -1,0 +1,50 @@
+[TITLE]
+AI hologram of Spider-Man creator Stan Lee debuts at L.A. Comic Con
+
+[LEAD]
+LOS ANGELES (Reuters) -Wearing a green sweater and tan pants against a bright blue screen, Marvel comic book superhero creator Stan Lee will return to L.A. Comic Con in holographic form to meet fans of his characters including Spider-Man, Hulk, Iron Man and Thor.
+
+[NEWS_P001]
+LOS ANGELES (Reuters) -Wearing a green sweater and tan pants against a bright blue screen, Marvel comic book superhero creator Stan Lee will return to L.A. Comic Con in holographic form to meet fans of his characters including Spider-Man, Hulk, Iron Man and Thor.
+
+[NEWS_P002]
+Fans can interact with a hologram of Lee, who died in 2018 at the age of 95, in an enclosed booth at the Los Angeles Convention Center.
+
+[NEWS_P003]
+“It was obviously sad for many of us when Stan passed,” said Chris DeMoulin, chief executive of Comikaze Entertainment, which operates Los Angeles Comic Con. “For the last couple of years, we’ve been talking about things we might be able to do to help extend Stan’s legacy."
+
+[NEWS_P004]
+About six months ago, DeMoulin said he came up with the idea of creating an avatar of Lee to serve as an “entry point for fans, old and new, into the Marvel universe.”
+
+[NEWS_P005]
+The project was a collaboration of Proto Hologram, a company whose holographic technology has been used in malls to promote films such as "The Conjuring" and "A Minecraft Movie," and Hyperreal, an artificial intelligence firm that creates realistic-looking digital humans.
+
+[NEWS_P006]
+The hologram was trained on Stan Lee's myriad appearances on red carpets andat fan conventions. Fans who never met Lee in person might recognize him from his cameo appearances in every live-action Marvel movie made during his lifetime.
+
+[NEWS_P007]
+"This avatar will never say something that Stan didn’t say," said DeMoulin. "It will never have a point of view about Marvel or the stories or Stan’s role in them that hasn’t come directly from something Stan has said."
+
+[NEWS_P008]
+Mammoth Vision'sGeorge Johnson said that they used technological guardrails to prevent Lee from saying something out of character.
+
+[NEWS_P009]
+“We take Stan Lee’s words and import them into the model and then we put rails on the side of it," saidJohnson, "So he doesn't go off and talk about things that Stan wouldn’t have said."
+
+[NEWS_P010]
+In a demonstration Friday, holographic Lee talked about his love of fan conventions.
+
+[NEWS_P011]
+“My favorite thing about being at a comic convention is getting to meet all the amazing fans and hearing their stories about how Marvel has impacted their lives,” Lee said in the late actor's voice.
+
+[NEWS_P012]
+Not everyone welcomed Lee's posthumous appearance at theconvention.
+
+[NEWS_P013]
+Some commenters on Reddit criticized the Stan Lee Experience.
+
+[NEWS_P014]
+"Even in death, they won't let the guy rest," wrote one commenter, posting under the name RGCBlade. "It's all pretty dystopian."
+
+[NEWS_P015]
+(Reporting by Danielle Broadway and Sarah Wemy;Editing by Mary Milliken, Dawn Chmielewski and David Gregorio)

@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia ends lower as geopolitical tensions spark risk-off mood
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/13/bursa-malaysia-ends-lower-as-geopolitical-tensions-spark-risk-off-mood
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia closed lower on Friday as investors turned cautious amid growing external uncertainties, with escalating Israel-Iran tensions weighing on sentiment. The FBM KLCI ended 8.51 points, or 0.56%, lower at 1,518.11, recovering slightly from an intraday low of 1,515.10 and snapping a two-day winning streak. Over the week, however, the index still posted a modest gain of 0.09%. In the broader market, selling dominated as 764 stocks fell and only 250 rose, pushing market breadth down to 0.33.
+
+[NEWS_P002] With losers outpacing gainers by over three to one, it was clear that the bears were in control of the market. Among the losers, Nestle tumbled RM2.56 to RM73.82, Malaysian Pacific Industries slid RM1.02 to RM20, Allianz fell 38 sen to RM19.02 and Hong Leong Financial Group lost 28 sen to RM16.36. On the other hand, United Plantations gained 18 sen to RM21.98, PETRONAS Dagangan added 18 sen to RM20.94, Heineken rose 14 sen to RM27.32 and F&N climbed 12 sen to RM28.32.
+
+[NEWS_P003] Refiners posted notable gains as oil prices surged following Israel’s military strike on Iran. Petron Malaysia Refining & Marketing added 14 sen to RM3.88, while Hengyuan Refining Company climbed 13 sen to RM1.85. LEAP Market-listed Ping Edge Technology closed at 35 sen, up 52.17% or 12 sen from its issue price of 23 sen. Meanwhile, the ringgit was quoted at 4.2465 against the US dollar, down 0.63%, and at 3.3100 against the Singapore dollar, a decline of 0.39%.
+
+[NEWS_P004] Among the key regional markets: Japan’s Nikkei 225 closed down 0.89% to 37,834.25; Hong Kong’s Hang Seng Index fell 0.59% to 23,892.56; China’s CSI 300 Index eased 0.72% to 3,864.18; Taiwan’s Taiex declined 0.96% to 22,072.95; South Korea’s Kospi closed down 0.87% to 2,894.62 and; Singapore’s Straits Times Index fell 0.27% to 3,911.42 points.

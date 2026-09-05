@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI's bullish open subsides as investors rush to take profit
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/03/fbm-klci039s-bullish-open-subsides-as-investors-rush-to-take-profit
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: A surge in bullish sentiment saw the FBM KLCI gapping up in opening trade, although the roaring gains would quickly subside into a murmur as profit-taking ensued. The benchmark index started Friday with an impressive 20.93-point leap to 1,658.73 as it entered the sixth day of a rally. However, within minutes of the stellar opening, the index retreated nearly to the flat line on rapid profit-taking, hovering just a fraction of a point above the previous closing price.
+
+[NEWS_P002] As at 9.10am, the FBM KLCI was just 0.19 points ahead at 1,637.88. Rakuten Trade had noted following the previous session's higher close that the rally could be attributed to the return of foreign inflows to the local bourse, coupled with a surge in trading volume above the four billion shares threshold. "If this holds, we are in for an exciting ride over the next three months," the broker said in a note. The FBM KLCI is on track to a weekly gain, putting on about 1.8% over the previous Friday's close as at the time of writing.
+
+[NEWS_P003] The index had closed on a positive note on every trading day of the week thus far, despite expectations that the US government shutdown would hamper investor sentiment. The bullish performance was in line with other Asian markets, which - tracking the rally on Wall Street - shrugged off the US shutdown in light of weak US labour data that bolstered hopes the Federal Reserve will slash interest rates by another two quarters of a point this year. Among individual stocks on the Malaysian blue-chip index, healthcare provider IHH maintained a steady rise, gaining 12 sen to RM8.38.
+
+[NEWS_P004] Hong Leong Bank rose eight sen to RM21.06 and 99 Speed Market gained four sen to RM2.92. Profit-taking, however, was seen in AmBank, falling five sen to RM5.80, CIMB shedding four sen to RM7.56 and Nestle dropping 48 sen to RM96.64. Among actives on the broader market, NexG Bina was flat at 9.5 sen, SCIB rose 5.5 sen to 22 sen and Borneo Oil was unchanged at 0.5 sen.

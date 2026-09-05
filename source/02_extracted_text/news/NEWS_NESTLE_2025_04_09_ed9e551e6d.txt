@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI hits 21-month low as US-China tariff war fuels market decline
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/09/fbm-klci-hits-21-month-low-as-us-china-tariff-war-fuels-market-decline
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia plummeted again on Wednesday, with over 900 stocks in the red, as escalating tariff wars between the U.S. and China—two of the world's biggest economies—fueled concerns, stoked recession fears, and wiped out massive amounts in market value. At closing, the FBM KLCI fell for the sixth day, plunging 42.97 points, or 2.98%, to 1,400.59, its lowest in 21 months since July 2023. The market traded within a range of 52.36 points between an intra-day high of 1,438.99 and a low of 1,386.63 during the session.
+
+[NEWS_P002] All indices ended the day in negative territory. The benchmark index has lost a whopping 125.93 points, or 8.3%, since the announcement of sweeping tariffs by US President Donald Trump on April 2. In the broader market, selling overwhelmed as 919 stocks plunged, while just 224 managed to rise, pushing market breadth down to a dismal 0.24. About 3.77 billion shares, valued at RM3.8bil, changed hands. Dealers expect market sentiment to remain cautious in the face of ongoing uncertainties surrounding the U.S.
+
+[NEWS_P003] tariff war. However, some are also eyeing opportunities to pick up bargains, as stock prices dip, with hopes that the volatility may present chances for selective investments. Among the FBM KLCI constituents, 26 counters closed in the red, while none recorded a gain. CIMB contributed the most to the index decline and had the largest move, decreasing 4.94%, or 33 sen to RM6.35. Hong Leong Bank tumbled 88 sen to RM18.50, Hong Leong Financial Group lost 50 sen to RM16, Hong Leong Industries fell 50 sen to RM12.74 and Nestle declined 44 sen to RM73.72.
+
+[NEWS_P004] Among the gainers, F&N added 10 sen to RM23.30, Country View climbed 10 sen to RM1.82, MBM Resources rose eight sen to RM5.30 and Kossan advanced seven sen to RM1.80. ACE Market debutant SumiSaujana tumbled 25%, or six sen to 18 sen with 103.59 million shares traded. On the forex market, the ringgit weakened by 0.25% against the greenback to 4.5020 and declined by 0.45% against the Singapore dollar to 3.3397. Meanwhile, regional markets closed mixed.
+
+[NEWS_P005] Hong Kong’s Hang Seng delivered a 0.68% gain to settle at 20,264.49, while China’s CSI 300 Index rose 1% to 3,686.79. Japan’s Nikkei 225 tumbled 3.93% to 31,714.03 and South Korea’s Kospi closed down 1.74% at 2,293.70.

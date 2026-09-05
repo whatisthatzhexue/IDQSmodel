@@ -1,0 +1,20 @@
+document_id: MDA_7103_SPRITZER_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P003]
+ECONOMIC OVERVIEW The ongoing COVID-19 pandemic continued to impact the global and domestic economic activities in 2021. The world was slowly adjusting to the new normal and vaccinations became available, the global economy gradually recovered. The Malaysian economy was also gradually recovering in 2021. However, as the local daily COVID-19 cases began to surge in May 2021, the Government had to introduce stricter nationwide containment measures to curb the spread of coronavirus. The swift implementation of the National COVID-19 Immunisation programme enabled more economic sectors to gradually reopen in the third quarter of the year. Strong exports and improved domestic demand provided the support for economic growth in second half of 2021. Malaysia’s full year gross domestic product (“GDP”) recorded a moderate growth of
+[MDA_P005]
+BUSINESS AND OPERATIONS OVERVIEW We are a pioneer and the industry leader in the Malaysian bottled water industry with more than 30 years of manufacturing, distribution and branding excellence. We started the production and sale of bottled water products in year 1989. Listed in September 2000, Spritzer Bhd is the first and only bottled water company listed on Bursa Malaysia Securities Berhad. Our Group is principally involved in the manufacturing, marketing and selling of a comprehensive range of bottled water products. With annual turnover exceeding RM300 million and a market capitalisation of RM441 million as of December 31, 2021 (2020: RM414 million), our Group is the largest and most integrated bottled water producer in Malaysia with a commanding market share of about 40%. Our core brands are Spritzer, Spritzer Sparkling, Spritzer Tinge, Spritzer So
+[MDA_P006]
+Tinge, Cactus, Cactus Sparkling, Desa and Summer which are also the leading brands in their respective market segments in the Malaysian bottled water industry. Our Group has three bottled water plants and one plastic packaging manufacturing plant in Malaysia. Our main mineral water plant is located on a 330-acre site in Taiping, Perak with the second mineral water plant in Yong Peng, Johor and the third drinking water plant in Shah Alam, Selangor. Our plastic packaging manufacturing plant is located in Ipoh, Perak. In 2020, the Group had completed its integrated warehouse with automated storage and retrieval system (“ASRS”) which has a capacity of 15,000 pallets. The commissioning of the ASRS warehouse at our main mineral water plant in Taiping has greatly improved the efficiency and effectiveness of our supply chain
+[MDA_P007]
+management and at the same time minimising the use of forklifts and thus reduces our carbon footprint. The Group has an annual production capacity of about 850 million litres of bottled water as of December 31, 2021.
+[MDA_P009]
+PACKAGING Our operations are primarily in Malaysia and our export sales currently make up of less than 10% of our Group’s
+[MDA_P012]
+100% Recyclable Plant-Based Bottle Tetra Pak Packaging

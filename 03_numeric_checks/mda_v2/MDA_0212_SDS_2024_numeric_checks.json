@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 33.96068,
+      "current_value": 110054.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P007]",
+      "metric": "margin",
+      "note": "margin: stated 14.20%, calculated 33.96% from profit/revenue, status material_discrepancy.",
+      "previous_value": 324063.0,
+      "source_text": "Financial indicators as listed below: INDICATOR FY2024 (RM ’000)* FY2023 (RM ’000)* DIFFERENCE (%) Revenue 324,063 283,667 14.2% Gross Profit 110,054 89,292 23.3% Gross Profit Margin (%) 34.0 31.5 7.9% Profit before tax 43,290 32,767 32.1% Profit after tax attributable to owners of the Company 32,55",
+      "stated_pct": 14.2,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": 713.077194,
+      "current_value": 2023.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P008]",
+      "metric": "margin",
+      "note": "margin: stated 31.50%, calculated 713.08% from profit/revenue, status material_discrepancy.",
+      "previous_value": 283.7,
+      "source_text": "The Group’s healthy revenue is reflected in its growth of 14.2% from RM 283.7 million in FY2023 to RM 324.1 million in FY2024. The increase in profit before tax (“PBT”) is mainly due to the increase in revenue and improvement in gross profit margin, from 31.5% in FY2023 to 34.0% in FY2024. This was ",
+      "stated_pct": 31.5,
+      "status": "material_discrepancy"
+    }
+  ],
+  "document_id": "MDA_0212_SDS_2024",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "margin: stated 14.20%, calculated 33.96% from profit/revenue, status material_discrepancy.",
+    "margin: stated 31.50%, calculated 713.08% from profit/revenue, status material_discrepancy."
+  ],
+  "num_calculable_changes": 2,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 56,
+  "num_material_discrepancies": 2,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI slips at midday as profit-taking halts early gains
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/03/fbm-klci-slips-at-midday-as-profit-taking-halts-early-gains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI gave up its early momentum and turned lower by midday as investors took profits following recent market strength. The market barometer fell 8.94 points, or 0.55%, to 1,621.66, easing off its intramorning low of 1,621.44 on apparent profit-taking after recent gains. In the broader market, decliners outpaced advancers 510 to 425, with 2.23 billion shares worth RM1bil changing hands. Among the decliners, Nestle slid RM2.10 to RM118.10, F&N fell 80 sen to RM35.56, PETRONAS Dagangan lost 32 sen to RM20.34 and KLCC declined 18 sen to RM8.90.
+
+[NEWS_P002] On Bursa Malaysia, Malaysian Pacific Industries emerged as the top gainer, surging 66 sen to RM32. It was followed by Allianz-PA, up 56 sen to RM20.60, Allianz, which advanced 46 sen to RM20.36, and United Plantations, which added 42 sen to RM28.42. Croesus IT, which debuted on the LEAP Market, rose three sen, or 25% to 15 sen. Hong Leong Investment Bank (HLIB) Research said the FBM KLCI may experience bouts of volatility. This comes as investors monitor the upcoming Bank of Japan meeting, where a potential rate hike could strengthen the yen and lift bond yields, increasing carry-trade risks and pressuring risk assets.
+
+[NEWS_P003] Locally, the research house said markets are digesting the post-Sabah election landscape and the prospect of a cabinet reshuffle, which the Prime Minister may use to strengthen Federal–Sabah ties and signal greater inclusivity. “Overall, any dips should find strong support near 1,590–1,600, underpinned by firm fundamentals, undemanding valuations, and favourable seasonality. “This sets the stage for a potential retest of the 1,643–1,659 resistance zone after back-to-back monthly declines in Oct (–2.7 pts) and Nov (–4.7 pts),” HLIB said.
+
+[NEWS_P004] Meanwhile, Malacca Securities expects the local bourse to stay supported by year-end window-dressing activities. It also anticipates Bank Negara Malaysia will maintain the policy rate at 2.75%, which should further support a strengthening ringgit. “Thus, domestic-driven sectors like REITs and Consumer stocks will benefit from a lower input-cost environment. Moreover, we believe the widely expected 25 basis point cut by the Fed should boost Malaysia’s Government Securities, translating to higher fixed income fair value gains.
+
+[NEWS_P005] “We believe this bodes well for banks with significant debt security holdings like CIMB, as about one-third of its total assets are in fixed income,” it said.

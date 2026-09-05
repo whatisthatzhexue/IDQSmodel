@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI remains in negative territory at lunch break amid cautious trade
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/23/fbm-klci-remains-in-negative-territory-at-lunch-break-amid-cautious-trade
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI stayed in negative territory by the lunch break amid cautious trading, as investors remained selective despite supportive near-term fundamentals. At midday, the FBM KLCI declined 1.18 points, or 0.07%, to 1,670.11 after hitting an intramorning high of 1,672.33. Declining stocks outnumbered advancers by about a 1.25-to-1 ratio, with 430 losers versus 344 gainers, as trading volume totalled 1.0 billion shares worth RM739.9 mil.
+
+[NEWS_P002] Apex Securities said Malaysian equities are expected to trade in a cautiously constructive manner in the near term, supported by steady domestic fundamentals but tempered by rising external volatility. “While the FBM KLCI has shown resilience, the softer performance across the broader market suggests investors remain selective,” the brokerage said. It added that investors will be closely watching this week’s 3Q25 US GDP release and initial jobless claims for further guidance on the Federal Reserve’s policy direction.
+
+[NEWS_P003] “Buying interest in Malaysian equities is likely to be supported by year-end institutional rebalancing and selective accumulation in heavyweight and domestically oriented stocks,” Apex said. “We continue to hold a positive view on selective power-ancillary and renewable energy names, underpinned by long-term energy transition trends that support earnings resilience. “In addition, improving global tech sentiment has helped stabilise the AI theme, which could provide a near-term sentiment tailwind for selected local technology and AI-related stocks,” it added.
+
+[NEWS_P004] Meanwhile, Malacca Securities expects the broader market to trade on a firmer footing, tracking Wall Street’s positive performance and anticipated window dressing momentum. The brokerage noted that the banking sector has staged a strong rally over this period and is expected to remain supported through month-end, underpinned by a firmer ringgit and attractive dividend yields. “We remain positive on selected technology stocks such as 3REN and Mclean, following Intel’s recent US$208mil investment in Malaysia and the surging demand for storage driven by the AI boom.
+
+[NEWS_P005] “Also, we favour gold-related stocks as the precious metal continues to trade near its all-time high of US$4,450,” it said. On Bursa Malaysia, BLD Plantation fell 50 sen to RM15.30, United Plantations lost 34 sen to RM29.56, PETRONAS Gas gave up 34 sen to RM17.76 and MISC declined 18 sen to RM7.51. Conversely, Nestle rose 50 sen to RM115.40, PPB Group added 32 sen to RM10.94, Heineken gained 26 sen to RM22.90 and Ajinomoto climbed 16 sen to RM13.80.

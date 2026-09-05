@@ -1,0 +1,406 @@
+{
+  "api_chat_healthy": true,
+  "attempts": [
+    {
+      "endpoint": "/api/chat",
+      "passed": true,
+      "round": 0,
+      "tests": [
+        {
+          "attempt": 1,
+          "http_200": true,
+          "http_status": 200,
+          "json_parse_success": true,
+          "raw_excerpt": "{\"model\":\"qwen3:8b\",\"created_at\":\"2026-06-20T10:16:39.014345Z\",\"message\":{\"role\":\"assistant\",\"content\":\"{\\\"ok\\\": true, \\\"model\\\": \\\"qwen3:8b\\\"}\"},\"done\":true,\"done_reason\":\"stop\",\"total_duration\":523282541,\"load_duration\":109970041,\"prompt_eval_count\":46,\"prompt_eval_duration\":34647000,\"eval_count\":17,\"eval_duration\":377517000}",
+          "schema_success": true
+        },
+        {
+          "attempt": 2,
+          "http_200": true,
+          "http_status": 200,
+          "json_parse_success": true,
+          "raw_excerpt": "{\"model\":\"qwen3:8b\",\"created_at\":\"2026-06-20T10:16:39.495644Z\",\"message\":{\"role\":\"assistant\",\"content\":\"{\\\"ok\\\": true, \\\"model\\\": \\\"qwen3:8b\\\"}\"},\"done\":true,\"done_reason\":\"stop\",\"total_duration\":478105209,\"load_duration\":75799584,\"prompt_eval_count\":46,\"prompt_eval_duration\":24064000,\"eval_count\":17,\"eval_duration\":377159000}",
+          "schema_success": true
+        },
+        {
+          "attempt": 3,
+          "http_200": true,
+          "http_status": 200,
+          "json_parse_success": true,
+          "raw_excerpt": "{\"model\":\"qwen3:8b\",\"created_at\":\"2026-06-20T10:16:39.981472Z\",\"message\":{\"role\":\"assistant\",\"content\":\"{\\\"ok\\\": true, \\\"model\\\": \\\"qwen3:8b\\\"}\"},\"done\":true,\"done_reason\":\"stop\",\"total_duration\":483055416,\"load_duration\":81106250,\"prompt_eval_count\":46,\"prompt_eval_duration\":23738000,\"eval_count\":17,\"eval_duration\":377115000}",
+          "schema_success": true
+        }
+      ]
+    }
+  ],
+  "base_url": "http://127.0.0.1:11434",
+  "blocking_reasons": [],
+  "created_at": "2026-06-20T10:16:38+00:00",
+  "diagnosis": {
+    "api_ps": {
+      "ok": true,
+      "payload": {
+        "models": [
+          {
+            "context_length": 4096,
+            "details": {
+              "families": [
+                "qwen3"
+              ],
+              "family": "qwen3",
+              "format": "gguf",
+              "parameter_size": "8.2B",
+              "parent_model": "",
+              "quantization_level": "Q4_K_M"
+            },
+            "digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+            "expires_at": "2318-09-30T18:02:20.374018807+08:00",
+            "model": "qwen3:8b",
+            "name": "qwen3:8b",
+            "size": 5919872122,
+            "size_vram": 5919872122
+          }
+        ]
+      },
+      "status": 200
+    },
+    "api_tags": {
+      "ok": true,
+      "payload": {
+        "models": [
+          {
+            "capabilities": [
+              "completion",
+              "tools",
+              "thinking"
+            ],
+            "details": {
+              "families": [
+                "gemma4"
+              ],
+              "family": "gemma4",
+              "format": "gguf",
+              "parameter_size": "31.3B",
+              "parent_model": "",
+              "quantization_level": "Q4_K_M"
+            },
+            "digest": "6316f0629137b426c9d9b853ffc4c8209589f30ee39aebede6285096c0ff47e7",
+            "model": "gemma4:31b",
+            "modified_at": "2026-05-20T00:34:05.913495145+08:00",
+            "name": "gemma4:31b",
+            "size": 19868981791
+          },
+          {
+            "capabilities": [
+              "completion",
+              "thinking"
+            ],
+            "details": {
+              "context_length": 131072,
+              "embedding_length": 4096,
+              "families": [
+                "qwen3"
+              ],
+              "family": "qwen3",
+              "format": "gguf",
+              "parameter_size": "8.2B",
+              "parent_model": "",
+              "quantization_level": "Q4_K_M"
+            },
+            "digest": "6995872bfe4c521a67b32da386cd21d5c6e819b6e0d62f79f64ec83be99f5763",
+            "model": "deepseek-r1:8b",
+            "modified_at": "2026-04-11T21:34:38.791899381+08:00",
+            "name": "deepseek-r1:8b",
+            "size": 5225376047
+          },
+          {
+            "capabilities": [
+              "completion",
+              "tools",
+              "thinking"
+            ],
+            "details": {
+              "context_length": 40960,
+              "embedding_length": 4096,
+              "families": [
+                "qwen3"
+              ],
+              "family": "qwen3",
+              "format": "gguf",
+              "parameter_size": "8.2B",
+              "parent_model": "",
+              "quantization_level": "Q4_K_M"
+            },
+            "digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+            "model": "qwen3:8b",
+            "modified_at": "2026-03-18T20:12:49.180105197+08:00",
+            "name": "qwen3:8b",
+            "size": 5225388164
+          },
+          {
+            "capabilities": [
+              "completion",
+              "tools",
+              "thinking"
+            ],
+            "details": {
+              "context_length": 262144,
+              "embedding_length": 2048,
+              "families": [
+                "qwen3moe"
+              ],
+              "family": "qwen3moe",
+              "format": "gguf",
+              "parameter_size": "30.5B",
+              "parent_model": "",
+              "quantization_level": "Q4_K_M"
+            },
+            "digest": "ad815644918f0eaab341c12b67837cc6dd4562342cdaf118f83d5d554cb37226",
+            "model": "qwen3:30b",
+            "modified_at": "2026-03-01T23:31:58.924365203+08:00",
+            "name": "qwen3:30b",
+            "size": 18556699314
+          },
+          {
+            "capabilities": [
+              "vision",
+              "completion",
+              "tools",
+              "thinking"
+            ],
+            "details": {
+              "context_length": 262144,
+              "embedding_length": 2048,
+              "families": [
+                "qwen3vlmoe"
+              ],
+              "family": "qwen3vlmoe",
+              "format": "gguf",
+              "parameter_size": "31.1B",
+              "parent_model": "",
+              "quantization_level": "Q4_K_M"
+            },
+            "digest": "eda0be1008774ea4e575187712b9a3b1201f3e66e7ecff899cc295db1cf00248",
+            "model": "qwen3-vl:30b",
+            "modified_at": "2026-03-01T20:44:10.990661125+08:00",
+            "name": "qwen3-vl:30b",
+            "size": 19595410062
+          },
+          {
+            "capabilities": [
+              "completion"
+            ],
+            "details": {
+              "context_length": 4096,
+              "embedding_length": 5120,
+              "families": [
+                "llama",
+                "llama"
+              ],
+              "family": "llama",
+              "format": "gguf",
+              "parameter_size": "13.0B",
+              "parent_model": "llama2:13b-text-q8_0",
+              "quantization_level": "Q8_0"
+            },
+            "digest": "0bbd88ac4e9265a03288678b26b5963f9257551f0189108d9bfb160c50a2bf91",
+            "model": "finance-helper:latest",
+            "modified_at": "2026-02-28T00:13:32.257879956+08:00",
+            "name": "finance-helper:latest",
+            "size": 13871643304
+          },
+          {
+            "capabilities": [
+              "completion"
+            ],
+            "details": {
+              "context_length": 4096,
+              "embedding_length": 5120,
+              "families": [
+                "llama"
+              ],
+              "family": "llama",
+              "format": "gguf",
+              "parameter_size": "13B",
+              "parent_model": "",
+              "quantization_level": "Q8_0"
+            },
+            "digest": "604d6e23f647fea39be96cc6380c4012ab39c5f68e78beb7f4872341eba9e519",
+            "model": "llama2:13b-text-q8_0",
+            "modified_at": "2026-02-27T18:34:02.637530977+08:00",
+            "name": "llama2:13b-text-q8_0",
+            "size": 13832304932
+          },
+          {
+            "capabilities": [
+              "completion",
+              "tools",
+              "thinking"
+            ],
+            "details": {
+              "context_length": 131072,
+              "embedding_length": 2880,
+              "families": [
+                "gptoss"
+              ],
+              "family": "gptoss",
+              "format": "gguf",
+              "parameter_size": "116.8B",
+              "parent_model": "",
+              "quantization_level": "MXFP4"
+            },
+            "digest": "a951a23b46a1f6093dafee2ea481d634b4e31ac720a8a16f3f91e04f5a40ecd9",
+            "model": "gpt-oss:120b",
+            "modified_at": "2026-02-26T20:15:52.799940215+08:00",
+            "name": "gpt-oss:120b",
+            "size": 65369818941
+          },
+          {
+            "capabilities": [
+              "completion",
+              "tools"
+            ],
+            "details": {
+              "context_length": 262144,
+              "embedding_length": 2048,
+              "families": [
+                "qwen3moe"
+              ],
+              "family": "qwen3moe",
+              "format": "gguf",
+              "parameter_size": "30.5B",
+              "parent_model": "",
+              "quantization_level": "Q4_K_M"
+            },
+            "digest": "06c1097efce0431c2045fe7b2e5108366e43bee1b4603a7aded8f21689e90bca",
+            "model": "qwen3-coder:30b",
+            "modified_at": "2026-02-24T13:07:58.592519983+08:00",
+            "name": "qwen3-coder:30b",
+            "size": 18556700761
+          },
+          {
+            "capabilities": [
+              "completion"
+            ],
+            "details": {
+              "families": [
+                "gemma3"
+              ],
+              "family": "gemma3",
+              "format": "gguf",
+              "parameter_size": "12.2B",
+              "parent_model": "",
+              "quantization_level": "Q4_K_M"
+            },
+            "digest": "f4031aab637d1ffa37b42570452ae0e4fad0314754d17ded67322e4b95836f8a",
+            "model": "gemma3:12b",
+            "modified_at": "2026-02-24T12:12:27.394286221+08:00",
+            "name": "gemma3:12b",
+            "size": 8149190253
+          }
+        ]
+      },
+      "status": 200
+    },
+    "api_version": {
+      "ok": true,
+      "payload": {
+        "version": "0.30.6"
+      },
+      "status": 200
+    },
+    "available_memory": {
+      "cmd": [
+        "vm_stat"
+      ],
+      "ok": true,
+      "returncode": 0,
+      "stderr": "",
+      "stdout": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                4953.\nPages active:                            661914.\nPages inactive:                          661601.\nPages speculative:                         1809.\nPages throttled:                              0.\nPages wired down:                        609563.\nPages purgeable:                          12154.\n\"Translation faults\":                1764663670.\nPages copy-on-write:                  109766871.\nPages zero filled:                   1109075062.\nPages reactivated:                     32227225.\nPages purged:                           9415629.\nFile-backed pages:                       609266.\nAnonymous pages:                         716058.\nPages stored in compressor:             2345280.\nPages occupied by compressor:           1148222.\nDecompressions:                        20125637.\nCompressions:                          31199754.\nPageins:                               40690170.\nPageouts:                                731947.\nSwapins:                                   1209.\nSwapouts:                                144188.\n"
+    },
+    "log_keyword_hits": {
+      "app.log": [
+        "time=2026-06-16T23:24:08.309+08:00 level=WARN source=ui.go:1588 msg=\"failed to check upstream digest\" error=\"Head \\\"https://ollama.com/v2/library/deepseek-r1/manifests/8b\\\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)\" model=deepseek-r1:8b",
+        "time=2026-06-16T23:36:06.850+08:00 level=INFO source=ui.go:242 msg=site.serveHTTP http.method=GET http.path=/api/v1/settings http.pattern=\"GET /api/v1/settings\" http.status=200 http.d=79.584µs request_id=1781624166850233000 version=0.30.6",
+        "time=2026-06-17T01:24:15.416+08:00 level=WARN source=updater.go:107 msg=\"failed to check for update: Get \\\"https://ollama.com/api/update?arch=arm64&id=019c8dbc-49df-713c-9363-c7200699be1d&nonce=4-gc3AZgXZ8CbPd1k9KaiA&os=darwin&ts=1781630645&version=0.30.6\\\": net/http: TLS handshake timeout\"",
+        "time=2026-06-19T14:30:58.268+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: unexpected EOF\"",
+        "time=2026-06-19T15:31:01.033+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: unexpected EOF\"",
+        "time=2026-06-19T16:31:01.084+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: unexpected EOF\"",
+        "time=2026-06-19T17:31:01.747+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: unexpected EOF\"",
+        "time=2026-06-19T18:30:57.361+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: unexpected EOF\"",
+        "time=2026-06-19T19:30:52.067+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: unexpected EOF\"",
+        "time=2026-06-19T20:30:12.683+08:00 level=WARN source=updater.go:107 msg=\"failed to check for update: Get \\\"https://ollama.com/api/update?arch=arm64&id=019c8dbc-49df-713c-9363-c7200699be1d&nonce=vcwYdhr04swRCcHr4HIaxA&os=darwin&ts=1781872202&version=0.30.6\\\": net/http: TLS handshake timeout\"",
+        "time=2026-06-19T21:36:54.366+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: unexpected EOF\"",
+        "time=2026-06-19T22:33:46.796+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: unexpected EOF\"",
+        "time=2026-06-19T23:34:04.829+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: read tcp 172.19.0.0:54805->198.18.0.66:443: read: connection reset by peer\"",
+        "time=2026-06-20T14:45:06.130+08:00 level=ERROR source=updater.go:392 msg=\"failed to download new release\" error=\"failed to read body response: unexpected EOF\""
+      ],
+      "server.log": [
+        "parse: error parsing grammar: unknown escape at \\d\"{3,3} \"]\"?) \"\\\"\" space",
+        "slot update_slots: id  0 | task 63881 | cached n_tokens = 285, memory_seq_rm [285, end)",
+        "slot update_slots: id  0 | task 63881 | cached n_tokens = 797, memory_seq_rm [797, end)",
+        "slot update_slots: id  0 | task 63881 | cached n_tokens = 1309, memory_seq_rm [1309, end)",
+        "parse: error parsing grammar: unknown escape at \\d\"{3,3} \"]\"?) \"\\\"\" space",
+        "slot update_slots: id  0 | task 63918 | cached n_tokens = 174, memory_seq_rm [174, end)",
+        "slot update_slots: id  0 | task 63918 | cached n_tokens = 686, memory_seq_rm [686, end)",
+        "slot update_slots: id  0 | task 63918 | cached n_tokens = 1198, memory_seq_rm [1198, end)",
+        "slot update_slots: id  0 | task 63918 | cached n_tokens = 1710, memory_seq_rm [1710, end)",
+        "slot update_slots: id  0 | task 63959 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 63977 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 63995 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 64013 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 64031 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 64049 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 64067 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 64085 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 64103 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 64121 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 64139 | cached n_tokens = 45, memory_seq_rm [45, end)",
+        "slot update_slots: id  0 | task 64157 | cached n_tokens = 45, memory_seq_rm [45, end)"
+      ]
+    },
+    "machine_architecture": "arm64",
+    "macos_version": {
+      "cmd": [
+        "sw_vers"
+      ],
+      "ok": true,
+      "returncode": 0,
+      "stderr": "",
+      "stdout": "ProductName:\t\tmacOS\nProductVersion:\t\t26.0.1\nBuildVersion:\t\t25A362\n"
+    },
+    "ollama_list": {
+      "cmd": [
+        "ollama",
+        "list"
+      ],
+      "ok": true,
+      "returncode": 0,
+      "stderr": "",
+      "stdout": "NAME                     ID              SIZE      MODIFIED     \ngemma4:31b               6316f0629137    19 GB     4 weeks ago     \ndeepseek-r1:8b           6995872bfe4c    5.2 GB    2 months ago    \nqwen3:8b                 500a1f067a9f    5.2 GB    3 months ago    \nqwen3:30b                ad815644918f    18 GB     3 months ago    \nqwen3-vl:30b             eda0be100877    19 GB     3 months ago    \nfinance-helper:latest    0bbd88ac4e92    13 GB     3 months ago    \nllama2:13b-text-q8_0     604d6e23f647    13 GB     3 months ago    \ngpt-oss:120b             a951a23b46a1    65 GB     3 months ago    \nqwen3-coder:30b          06c1097efce0    18 GB     3 months ago    \ngemma3:12b               f4031aab637d    8.1 GB    3 months ago    \n"
+    },
+    "ollama_ps_command": {
+      "cmd": [
+        "ollama",
+        "ps"
+      ],
+      "ok": true,
+      "returncode": 0,
+      "stderr": "",
+      "stdout": "NAME        ID              SIZE      PROCESSOR    CONTEXT    UNTIL   \nqwen3:8b    500a1f067a9f    5.9 GB    100% GPU     4096       Forever    \n"
+    },
+    "ollama_version_command": {
+      "cmd": [
+        "ollama",
+        "--version"
+      ],
+      "ok": true,
+      "returncode": 0,
+      "stderr": "",
+      "stdout": "ollama version is 0.30.6\n"
+    }
+  },
+  "model": "qwen3:8b",
+  "openai_compatible_healthy": false,
+  "runtime_healthy": true
+}

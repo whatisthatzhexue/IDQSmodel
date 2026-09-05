@@ -1,0 +1,80 @@
+document_id: MDA_6203_KHEESAN_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+ANNUAL REPORT 2024
+[MDA_P002]
+The Group reported revenue of RM52.3 million for the current financial year, marking a decline of RM3.3 million,
+or 6%, as compared to the previous financial year. This decrease is primarily attributed to a reduction in sales
+orders from the local market. The Group achieved a gross profit of RM13.5 million in the current financial year, reflecting a gross profit margin
+of 25.8%. This represents an improvement over the previous financial year's gross profit of RM11.8 million or
+21.2%. The Group's profit after tax for the current financial year was RM0.8 million, marking a decrease of RM0.9 million
+as compared to the previous financial year. There is a decrease in profit after tax as there was a reversal of
+deferred tax liabilities of RM1.3 million that boost the result of the Group in the financial year 2023. Without the
+effect from the reversal of deferred tax liabilities in FYE 2023, result of the Group was consistent as compared
+to FYE 2023 largely due to the Group's higher gross profit margin, stringent cost management, and
+improvements in production efficiency.
+[MDA_P004]
+For FYE 2024, there was a slight increase in total assets as compared to FYE 2023. This increase was driven
+by several factors:
+However, these increases were partially offset by a decrease in property, plant, and equipment. The reduction
+in property, plant and equipment amounted to RM2 million, which was mainly attributable to the depreciation of
+property, plant and equipment. As of 30 June 2024, total liabilities stood at RM148.5 million, reflecting a minor increase of RM0.5 million from
+RM148 million reported in the previous year. There were no significant changes in liabilities as compared to the
+prior year. Correspondingly, Shareholders’ Equity has improved from deficit RM77.4 million to deficit RM76.6 million
+primarily due to the factors mentioned above. The Group’s net cash generated from operating activities improved to RM2.2 million for the current financial
+year, compared to a net cash outflow of RM0.9 million in the previous financial year. In terms of investing activities, the Group used RM0.1 million in net cash, a slight decrease from the RM0.3
+million used in the prior year. This indicates minimal change in investing cash flows compared to the previous
+year.
+[MDA_P006]
+The Group’s revenue performance for FYE 2024 and FYE 2023 on a geographical market segment basis is as follows:
+3. GROUP REVENUE PERFORMANCE OVERVIEW
+RM MILLION
+FYE 2023
+Domestic Market
+Export Market
+Total
+39.8
+15.8
+55.6
+FYE 2024
+33.4
+18.9
+52.3
+In FYE 2024, the Group recorded total sales revenue of RM52.3 million of which the domestic sales accounted for
+64% and the export sales accounted for the balance of 36%. The main sales product category of the Group is Candy. The Candy segment comprises the majority of the Group’s revenue and was the main contributor of the Group. The
+bestselling product was the Fruitplus range of chewy candies whilst Torrone Barley Mint hard candies were an
+iconic product which was easily recognisable as it has been present in the market for over three decades. The
+overall market condition remained strong for the segment with strong demand for the chewy and soft candy
+products. The Group’s production operations are based at its plant located in Seri Kembangan, Selangor which produces
+the candy products. The Group’s operation capacity is sufficient to meet the market demand. The Group is
+currently operating 8 lines of operational production lines.
+[MDA_P008]
+Whilst the Group has established a strong footing in the domestic market, it has made significant headwinds to
+grow its export markets. The Group currently exports to over 20 countries with major destinations being China,
+Hong Kong, Vietnam, Japan, South Africa and other Asia Pacific countries. For the domestic market, the focus
+will be on widening its coverage to all the various retail sales point across both the wholesale and modern
+distribution channels. These sales points can range from 24-hour convenient stores, to the various big
+hypermarket chains. Sales and Marketing
+The Group sells its products via two distribution channels, through wholesale and modern distribution
+channels. In an effort to achieve higher sales volume, the Group distributes its products via both the wholesale and
+modern distribution channels in Malaysia. For export sales, our distribution network extends across countries
+in Asia, Europe, Africa and Middle East. Labour shortages and wage fluctuations
+The Group’s production activities are labour intensive in nature, thus it is prone to labour shortages.
+[MDA_P009]
+By the
+same, it is also subject to wage fluctuations as the increase in minimum wage level in peninsular Malaysia. In
+an effort to reduce the over-reliance to the labour issues, the Group will continue to invest in automating the
+production operation. Fluctuation of raw materials price
+The fluctuation of raw materials’ prices has been an inherent issue for the Group, as well as its competitors in
+the similar industry. As an example, sugar price fluctuations may severely impact the Group as it is a major
+component of the Group’s products. Realising this issue, the Group has taken necessary steps to reduce the
+risk of constant price fluctuations by engaging with its various raw material suppliers to strive for favourable
+longer-term supply arrangements. At the same time, the Group are constantly exploring with new suppliers to
+ensure that it is not overly dependent and reliant on its current key suppliers. The Group shall ensure that these
+initiatives are carried out without compromising its products quality.

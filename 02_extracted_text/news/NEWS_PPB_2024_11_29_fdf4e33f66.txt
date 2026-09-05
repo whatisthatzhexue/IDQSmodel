@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends lower for second straight day
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-11-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/29/fbm-klci-ends-lower-for-second-straight-day
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended lower on Friday as investors remained on the sidelines amid mixed trading across the region. The FBM KLCI ended 3.20 points, or 0.2% lower at 1,594.29 after moving between its intraday high of 1,603.59 and low of 1,586.39. For the week, the benchmark index gained 0.28%. Winners and losers were closely balanced, with 515 gainers against 539 losers and 461 that were flat. Turnover was 3.43 billion shares valued at RM3.18bil.
+
+[NEWS_P002] Stock market data showed that foreign investors sold a net RM718mil on Thursday. Local institutions and retailers were net buyers, with RM676mil and RM43mil, respectively. Among the decliners, Tenaga Nasional slid 32 sen to RM13.66, F&N lost 28 sen to RM27.62, PPB Group fell 16 sen to RM13.12 and MISC declined 15 sen to RM7.25. Nestle jumped 70 sen to RM96.70, Hong Leong Industries added 42 sen to RM15.22, United Plantations rose 30 sen to RM30.30 and Kluang Rubber gained 27 sen to RM5.84.
+
+[NEWS_P003] Newly-listed Supreme Consolidated rose 5.5 sen, or 22% to 30.5 sen with 115.66 million. Meanwhile, the ringgit was quoted at 4.4453, up 0.03% against the US dollar. US West Texas Intermediate crude fell nine cents to US$68.63 and Brent lost 49 cents to US$72.79 per barrel. Elsewhere in the region, Japan’s Nikkei 225 fell 0.37%, Hong Kong’s Hang Seng Index rose 0.3%, South Korea’s Kospi closed down 1.95% and China’s CSI 300 Index added 1.14%.

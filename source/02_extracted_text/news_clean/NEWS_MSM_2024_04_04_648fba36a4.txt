@@ -1,0 +1,24 @@
+[TITLE]
+MSM on track for sweeter bottom line
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-04-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/04/msm-on-track-for-sweeter-bottom-line
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: MIDF Research expects MSM Malaysia Holdings Bhd to register further valuation expansion and earnings growth potential moving forward. The research house believes that the refined-sugar producer stands to benefit from the normalisation of ceiling prices, which is expected to come stages after the implementation of the government plan for targeted subsidies. “Reasonably, Malaysia’s coarse-sugar prices have been irrationally cheap compared with its neighbours such as Singapore (RM6.11-RM6.79 per kg), Kalimantan (RM4.50 per kg), Sumatera (RM4.20-RM4.50 per kg) and southern Philippines (RM8.50–RM9.50 per kg),” MIDF Research said in a note to clients yesterday.
+
+[NEWS_P002] With the expected rollout of targeted subsidies in the second half of 2024, MIDF Research foresees the restructuring of ceiling prices for sugar progressing, paving the way for a “sweet” earnings cycle for MSM. Following rectification work at MSM’s Johor refinery, MIDF Research is also upbeat about the MSM’s turnaround, with the utilisation factor having increased to 30%-35% in the last November-December period. “The continued improvement is expected to enhance the entire group’s utilisation factor by 50%-67%, resulting in a moderation of the cost of production from RM3,024 per tonne to RM2,794 per tonne as well as better blended operating profit per tonne, estimated to be around RM2,919-RM2,794 per tonne over the next three years,” the research house added.
+
+[NEWS_P003] MIDF Research has also tweaked the group’s earnings forecasts slightly higher, consistently above RM262.2mil-RM361.5mil over FY24-FY26, based on normalisation of profit backed by new potential sales volume from the export market. The research house anticipates the group’s revenue to remain exciting, rising at a compounded annual growth rate (CAGR) of 12% over FY24-FY26, to reflect higher contributions from export sales volume, which is expected to grow two-fold to nearly 400,000 tonnes.
+
+[NEWS_P004] “Our sensitivity analysis suggests that a 5% increase from the Johor refinery could add another 50,0000 tonnes to sales volume, translating to an estimated additional RM20.9mil to the bottom line. “Additionally, with the rollout of the Padu database system, the government delivery of financial aid will be refined to better assist eligible recipients for subsidies.” MIDF Research expects support from the government to MSM will gradually decline, moving towards a hybrid mechanism where the incentive and restructuring of the existing sugar ceiling price will come in tandem, at least in FY25.
+
+[NEWS_P005] “This should help the blended average selling price to stay above the RM3,000 per tonne level, providing ample room for MSM to absorb the high cost of production. “Our sensitivity analysis suggests an increase of 10 US cents for sugar’s price in FY25 will increase MSM bottomline to RM304mil or up 16% year-on-year or RM25.4mil on a monthly basis,” the research house said. MIDF Research has a “buy” call on the stock with a new target price of RM4.48.
+
+[NEWS_P006] “At the current level, we view the stock’s 8.8 times price-earnings (PE) ratio based on earnings per share (EPS) of 37.3 sen as attractive, and it is 25% discount to the group’s historical FY14-FY15 average PE of 11.7 times,” noted MIDF Research. The research house also said its valuation is justifiable as MSM is expected to register higher earnings per share, on moderation of raw sugar prices and comparable to levels seen from FY14-FY15. “Excitingly, the worst is over for MSM, given the rectification work in Johor is done.
+
+[NEWS_P007] This allows the group to ramp up activity ahead of growing demand in Asia-Pacific due to supply-gap issues,” it added.

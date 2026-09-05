@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Velesto, GenM, PTT Synergy, Carimin, Mesiniaga, Ge-Shen, GDB, Aeon Credit, UWC, Cypark, Marine & General, Scientex Packaging, Apollo
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-12-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/17/trading-ideas-velesto-genm-ptt-synergy-carimin-mesiniaga-ge-shen-gdb-aeon-credit-uwc-cypark-marine--general-scientex-packaging-apollo
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Velesto Energy Bhd will sell its jack-up rig Naga 3 for USD63mn (RM258.4mn), booking a pro forma gain of RM17.1mn as part of a fleet optimisation exercise. The New York State Gaming Commission unanimously awarded casino licences to Genting Malaysia Bhd , Bally’s Bronx and Hard Rock Metropolitan Park, ending a decade-long process. PTT Synergy Group Bhd has secured a RM35.9mn earthworks and ancillary works contract from Sime Darby Property Bhd for the Bandar Bukit Raja Business Park in Kapar, Klang.
+
+[NEWS_P002] Carimin Petroleum Bhd secured a RM34.0mn contract from Petronas Gas Bhd to replace the gas pipeline linked to the Putra Heights explosion. Mesiniaga Bhd secured a RM19.8mn contract from the Ministry of Education to lease IT equipment for northern Sarawak schools. Ge-Shen Corp Bhd has aborted plans to sell five pieces of freehold land in Johor Bahru, totalling 4.61 acres, after its intended buyer, Plastico Sdn Bhd, failed to secure financing to complete the RM35mn deal.
+
+[NEWS_P003] GDB Holdings Bhd has appointed Andy Lai Wee Young as executive director and acting group managing director, marking a leadership transition aligned with its expansion plans into East Malaysia. Aeon Credit Service (M) Bhd has completed its 11th issuance of Senior Sukuk, raising RM200mn with a five‑year tenure under its RM5bn Sukuk Wakalah Programme. UWC Bhd posted a net profit of RM17.1mn for 1QFY26, more than double last year’s RM6.5mn, as revenue surged 35.1% to a record RM120.8mn on stronger semiconductor orders and subsidiary contributions.
+
+[NEWS_P004] Cypark Resources Bhd posted a 2QFY26 net loss of RM15.5mn versus a RM2.3mn profit a year earlier, due to absence of last year’s one-off gain and weaker construction contributions. Marine & General Bhd posted a stronger 1HFY26, with net profit rising 13% YoY to RM28.4mn from RM25.1mn, supported by higher fleet utilisation and firmer charter rates in the upstream division. Scientex Packaging (Ayer Keroh) Bhd posted a higher net profit of RM9.3mn for 1QFY26, compared to RM2.9mn in the year-ago quarter, backed by improved operational efficiency and a more favourable sales mix.
+
+[NEWS_P005] Apollo Food Holdings Bhd posted its second straight earnings decline, with 2QFY26 net profit down 30% YoY to RM7.5mn on weaker sales and higher costs.

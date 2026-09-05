@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI hits 16-month peak, ringgit at five-year high
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/23/fbm-klci-hits-16-month-peak-ringgit-at-five-year-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed at its intraday high in late trade to hit a 16-month peak, while the ringgit hovered near a five-year high, providing additional support to overall market sentiment. The 30-stock index rose 5.35 points, or 0.32% to 1,676.64, its intraday high and also its highest in about 16 months. The 16-month high was last seen at 1,678.80 on Aug 25, 2024. Winners and losers were closely balanced, with 460 gainers against 486 losers and 608 that were flat.
+
+[NEWS_P002] About 1.97 billion shares, valued at RM1.81bil, changed hands. Dealers said the late-session buying interest in selected heavyweights helped underpin the market’s upward momentum despite broadly mixed market breadth. They added that trading activity remained selective, with investors favouring defensive stocks while maintaining a cautious stance on the broader market. Among the gainers, Fraser & Neave jumped 54 sen to RM36.54, Nestle rose 40 sen to RM115.30, PPB Group added 38 sen to RM11, while PETRONAS Dagangan gained 24 sen to RM19.76.
+
+[NEWS_P003] On the downside, United Plantations slid 50 sen to RM29.40, BLD Plantation lost 50 sen to RM15.30, Negri Sembilan Oil Palms fell 12 sen to RM5.63, and PETRONAS Gas declined 10 sen to RM18. On the forex market, the ringgit strengthened 0.35% against the US dollar to 4.0642, its highest in five years. It has appreciated 10% so far this year. The local currency inched down 0.05% against the Singapore dollar to 3.1619. In terms of fund flows, foreign investors emerged as net sellers, offloading RM106mil worth of equities on Monday.
+
+[NEWS_P004] This was offset by local institutions, which turned net buyers with RM168mil, while local retail investors pared exposure, posting a net outflow of RM62mil. Elsewhere in the region, Japan’s Nikkei 225 edged up 0.02%, South Korea’s Kospi rose 0.28% and China’s CSI300 gained 0.2%, while Hong Kong’s Hang Seng Index slipped 0.11% and the Shanghai Composite Index added 0.07%.

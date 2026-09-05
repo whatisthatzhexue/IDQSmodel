@@ -1,0 +1,58 @@
+document_id: MDA_3662_MFLOUR_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 115.042, "paragraph_count": 14, "paragraph_length_distribution": {"max": 1200, "mean": 843.214, "min": 34}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion
+and Analysis
+[MDA_P004]
+As a result, the Group posted a profi t after tax and minority interest of
+RM58.1 million, or basic earnings per share (“EPS”) of 4.74 sen, marking a turnaround from a loss after tax
+and minority interest of RM6.7 million and a basic loss per share of 0.65 sen in the previous year. Excluding the impact of a one-off impairment loss of RM42.1 million in FY2024 and the remeasurement
+of contingent consideration receivable of RM71.1 million in FY2023, the adjusted EPS stood at 8.17 sen,
+compared to 6.30 sen previously. On our Group’s balance sheet as at 31 December 2024, our total assets and total equity attributable to
+ordinary shareholders maintained at a similar level at RM2.6 billion and RM1.3 billion, respectively. Fixed
+deposits, cash and cash equivalents declined moderately to RM406.0 million (FY2023: RM420.1 million),
+whilst total borrowings including lease liabilities stood at RM1,003.3 million (FY2023: RM997.2 million). On net-of-cash basis, the Group’s gearing increased minimally to 0.42x, versus 0.40x previously.
+[MDA_P008]
+Simultaneously, we will maintain a steady supply of
+raw materials and price our end products to align with market needs. Poultry Integration Segment
+Our PI business in FY2024 was affected by the boycott of Western quick service restaurant (“QSR”) chains
+following the Middle East geopolitical confl ict, which led to lower demand and impacted sales. Despite the challenging environment, we continued to increase our broiler production by 6.2% year-on-year
+to more than 50 million birds, mainly attributed to our own farms and contract farms. The achievement was
+largely due to our farming operations using best farming practices and deploying technology that enables
+high yield from the farms. However, throughout the year under review, demand for product segments for the fast food services channel
+was lower than in FY2023, as a result of the boycott. In response, we strategically mitigated the slowdown and
+pivoted our market attention to selling whole birds to food retail channels, which helped optimise utilisation
+in our PI operations.
+[MDA_P011]
+Besides, all our products are halal-certifi ed by
+the Department of Islamic Development Malaysia (“JAKIM”) and undergo rigorous annual compliance audits
+to ensure adherence to the highest standards. The fl our industry remains highly sensitive to fl uctuations in global wheat prices. To ensure a steady supply and
+maintain sustainable profi tability, we continuously monitor market trends and adjust procurement strategies
+accordingly. Meanwhile in the poultry industry, managing the risk of Highly Pathogenic Avian Infl uenza (“HPAI”) outbreaks
+is crucial. We maintain strict biosecurity measures across our farms to safeguard animal health and ensure
+product safety. Notably, our farms in Segari and Batu Undan, Lumut, Perak, are the fi rst in Malaysia to receive World
+Organisation for Animal Health (“WOAH”) certifi cation from the Department of Veterinary Services (“DVS”) for
+HPAI-free compartment status. This recognition highlights our commitment to stringent biosecurity protocols
+and disease prevention, further strengthening our poultry operations.
+[MDA_P014]
+ANNUAL REPORT 2024 | Malayan Flour Mills Berhad
+Poultry Industry
+The poultry industry remains vulnerable to global macroeconomic and geopolitical uncertainties, along with
+challenges such as disease outbreaks and disruptions in the supply of parent stock and day-old broiler
+chicks.
+Nevertheless, domestic broiler demand is expected to remain stable, supported by an improving economic
+outlook and our strategic partnership with Tyson. With ample processing capacity, we are well-positioned to
+meet any increase in demand for our poultry products.
+Poultry remains the preferred protein in Malaysia, and we will continue leveraging on this demand. In addition,
+with the Malaysian government’s aim to achieve a self-suffi ciency level of 140% by 2030, we remain optimistic
+about growth opportunities in upstream farming, particularly with modern farming technologies that our joint
+venture partner, Tyson, can offer. We envision that in the near future, our primary processing plant will have an
+uninterrupted supply of broilers for the local market, with potential for export.
+Management Discussion
+and Analysis (cont’d)

@@ -1,0 +1,40 @@
+document_id: MDA_5533_OCB_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+MIFB Trade Fair, Kuala Lumpur Convention Centre, Kuala Lumpur
+4. TLM Food Expo, Penang
+Operationally, the Division performed well in 2024, benefiting from the stabilization of raw material prices. Overall,
+direct material costs decreased by approximately 3%, with significant reductions in key ingredients, i.e. soybeans
+and flour. The price of soybeans decreased by 1%, while flour prices saw a more substantial decline of 10%. These
+cost savings contributed to improved profitability, as the Division was able to optimize its production costs without
+compromising product quality. The implementation of imbalanced cost pass-through (ICPT) in 2023 saw a significant increase in utility rate from
+RM0.037/kWh to RM0.20/kWh. In response to this significant hike in energy costs, the Division initiated a solar
+project in November 2024 as part of its strategy to reduce energy expenses. By investing in renewable energy, the
+Division aims to lower operational costs in the long term as well as enhance its sustainability efforts. All in all, Year 2024 has been a good year for the Division and we foresee it to perform better in the next financial
+year.
+[MDA_P014]
+ANNUAL REPORT 2024
+BUSINESS OUTLOOK 2025
+In 2025, Malaysia’s business landscape is expected to be characterized by steady economic growth, strategic
+policy initiatives, and a strong focus on technological advancement. The Malaysian economy is projected to
+expand at a rate of 4.5% to 5.5%, following a growth of 5.1% in 2024. This projection aligns with forecasts from
+the Government and Bank Negara Malaysia, reflecting sustained domestic demand and manageable inflation. Despite external uncertainties, Bank Negara Malaysia’s forecast of 4.5% to 5.5% growth for 2025 remains positive. Key business trends in Malaysia for 2025 include the adoption of artificial intelligence, sustainability initiatives,
+innovations in online retail, the expansion of business process outsourcing, growth in the halal economy, and
+significant infrastructure developments, including the creation of smart cities. These trends are supported by
+government incentives and policies aimed at driving economic transformation. Malaysia’s business outlook for 2025 remains positive, underpinned by strategic initiatives in tourism, technology,
+fiscal policy, and foreign investment.
+[MDA_P015]
+While challenges such as global economic uncertainties persist, the country’s
+focus on innovation and sustainable growth positions it for continued development. As OCB Group enters 2025, the Group is strategically positioning itself for growth and resilience in a dynamic
+economic environment. In December 2024, OCB Berhad agreed to sell its wholly-owned subsidiary, Agrow
+Malaysia Sdn Bhd. This move marks OCB Group’s strategic exit from the building materials sector, enabling the
+Group to focus on its core competencies. The Malaysian instant noodles market, a key sector for OCB Group, was valued at RM2.0 billion in 2020 and is
+projected to grow at a compound annual growth rate (CAGR) of over 4% from 2021 to 2025. This growth presents
+significant opportunities for OCB Group to expand its market share and capitalize on increasing consumer
+demands. In 2025, OCB Group plans to prioritize risk management, enhance asset quality, and drive digital transformation
+initiatives. These efforts aim to improve operational efficiency and customer engagement, positioning the company
+for sustainable growth.

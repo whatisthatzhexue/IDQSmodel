@@ -1,0 +1,18 @@
+[TITLE]
+Bleeding continues on Bursa Malaysia pending more clarity from Trump's policies
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/17/bleeding-continues-on-bursa-malaysia-pending-more-clarity-from-trump039s-policies
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The bleeding on the domestic market is expected to continue until there is more clarity over US President-elect Donald Trump's policies moving forward, said Rakuten Trade in its latest market report. The research firm, which had been bullish over a rebound on the market, noted the FBM KLCI had closed lower for yet another session yesterday after failing to sustain its strong opening amid selling pressure. "The unrelenting selling predominantly from foreign funds remains high with a net outflow of RM1.45bil since the start of 2025.
+
+[NEWS_P002] "We suspect the unloading could be attributed to the uncertainty of Trump’s return hence we may see similar pattern over the next few days hence expect the index to hover within the 1,550-1,560 today," it said. The FBM KLCI looked set for another negative performance on Friday, opening 1.11 points lower at 1,553.43, and is poised to end the week on a five-day losing streak. The index is currently trading at a fresh six-month low. Gamuda led the morning decline, falling 28 sen to RM3.98, while Nestle shaved 46 sen to RM92.02.
+
+[NEWS_P003] YTL Power fell nine sen to RM3.71, PETRONAS Gas lost 16 sen to RM17.28 and Hong Leong Bank dipped eight sen to RM20. Malacca Securities Research said the local bourse is poised to see bargain-hunting as stocks have been beaten down to oversold levels. Following the previous session's close, which saw the FBM KLCI break below the moving averages, the research firm said the MACD histogram continued to expand negatively, while RSI approached the oversold level, indicating negative momentum at the current juncture.
+
+[NEWS_P004] "Resistance is anticipated around 1,570-1,575, while support is set at 1,535-1,540," it said in a note.

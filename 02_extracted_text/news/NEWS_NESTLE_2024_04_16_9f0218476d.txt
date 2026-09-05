@@ -1,0 +1,12 @@
+[TITLE]
+Time-saving pastries make for good snacks
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2024-04-16
+source_name: The Star
+url: https://www.thestar.com.my/food/food-news/2024/04/16/time-saving-pastries-make-for-good-snacks
+confidence_tier: high
+
+[NEWS_P001] IN RESPONSE to a growing trend towards plant-protein foods, Nestle Malaysia has expanded its Harvest Gourmet product range with the launch of Puff Pastries. The puffs are a fusion of plant-protein goodness with pastry, perfect for those looking to indulge in a savoury snack without compromising on flavour.

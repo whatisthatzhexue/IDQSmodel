@@ -1,0 +1,18 @@
+[TITLE]
+MSM Malaysia aims to increase export volumes
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-06-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/20/msm-malaysia-aims-to-increase-export-volumes
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: MSM Malaysia Holdings Bhd is targeting a significant jump in export volumes of value-added products like liquid sugar and premixes from MSM Johor this year. The group aims to ramp up exports to 360,000 tonnes in 2025, up from 240,000 tonnes last year, leveraging enhanced production capacity from its Johor refinery (MSM Sugar Refinery Johor Sdn Bhd) and strategic partnerships, said its group chief executive officer Syed Feizal Syed Mohammad.
+
+[NEWS_P002] He added that MSM Malaysia seeks to penetrate deeper into China’s high-potential market while consolidating its position in Asean, as part of its strategic move to expand its export footprint. “We are not venturing into a new market, as China has been an established market. “But, with increased capacity and better efficiency at our Johor refinery, MSM now has more room to produce additional volumes beyond domestic needs, making it logical to scale up exports,” he said after the company’s AGM here yesterday.
+
+[NEWS_P003] He said MSM Malaysia is banking on its premium quality sugar and existing ties with China Oil and Foodstuffs Corp, which is one of China’s largest state-owned agribusiness (agricultural business) conglomerates and food importer, to expand sales of both refined sugar and value-added products. “Our wide range of sugar products exports currently comprises about 15% to 20% of MSM Malaysia’s overall sales portfolio, while more than 60% of the group’s exports are already destined for Asean markets.
+
+[NEWS_P004] “With South Korean companies importing our sugar and China sourcing from players like South Korea, we believe we can compete meaningfully. — Bernama

@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI up in early trade, tracking Wall Street gains
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-12-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/24/fbm-klci-up-in-early-trade-tracking-wall-street-gains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI rose in early trade on Christmas Eve, tracking the positive overnight gains from Wall Street, as investors reacted to the upbeat mood ahead of the holiday. The S&P 500 gained 0.73% to 5,974.07 points overnight, while the Nasdaq Composite rose 0.98% to 19,764.89. The Dow Jones Industrial Average climbed 0.16% to 42,906.95. The FBM KLCI rose 3.20 points, or 0.2%, to 1,599.40 at 9.19 am The index had earlier opened 0.44 points higher at 1,596.64.
+
+[NEWS_P002] Dealers said that while market activity may be quieter due to the holiday season, the index’s early gains reflected optimism. Malaysian Pacific Industries rose 14 sen to RM25.88, Ajinomoto added 12 sen to RM17.66, PETRONAS Gas gained 12 sen to RM17.66, and Genetec Technology climbed 9 sen to RM1.33. Among the decliners, Hong Leong Bank slid 12 sen to RM20.22, MBM Resources fell 11 sen to RM5.90, Warisan TC dropped 9 sen to RM1.33, and Hong Leong Industries declined 6 sen to RM14.08.
+
+[NEWS_P003] Inter-Pacific Research sees the key index continuing to drift amid the low participation rate ahead of the Christmas break tomorrow. Market conditions remain directionless due to the lack of leads and are expected to stay that way until the start of 2025, given the ongoing holiday season. At the same time, traded volumes are expected to remain low. “Nevertheless, there could still be bouts of window dressing by domestic funds, which should help keep the key index near the psychological 1,600 level as it looks to close the year around that mark,” said Inter-Pacific.
+
+[NEWS_P004] “Above the 1,600 resistance, the next levels are at 1,605 and 1,610 points. Immediate support is at the 1,595 level, followed by 1,590.” The research house also noted that the lower liners are expected to stay directionless due to the ongoing year-end holidays, with market participation remaining on the low side for the time being.

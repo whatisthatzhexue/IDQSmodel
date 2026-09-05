@@ -1,0 +1,121 @@
+document_id: MDA_7237_PWROOT_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+(cont’d)
+meet their demand for high quality beverages. We also
+know that it is crucial for us to be agile and to adapt
+in a competitive beverage market with unpredictable
+consumer behaviour. Constant change is required, be it
+in ways we engage customers, target consumers, create
+marketing interest, or provide increased product choices. The Group’s strategies will continue to evolve as we seek
+continued business growth. THE BUSINESS ENVIRONMENT
+Economic uncertainty, exacerbated by a weak Ringgit,
+global conflicts and moderate domestic demand in
+household spending, contributed to slower growth this
+financial year. Consumers in Malaysia are struggling
+with increasing costs of living, particularly in urban
+areas. Such uneasiness was reflected by weak
+consumer sentiments as the public tightened their
+spending in response to near-term concerns, as well
+as in anticipation of on-going government economic
+restructuring aimed at long-term growth.
+[MDA_P002]
+Power Root is mindful of the delicate balance between
+maintaining our market position and ﬁne margins even
+as our business costs, including foreign exchange
+pressures, commodities pricing, and operational
+expenses have been increasing. The Group’s growth strategy will focus on continuous
+improvement on operational efﬁciencies by tapping on
+technology to streamline processes and increase agility
+while managing costs and resources across all areas. At the same time, we are actively seeking opportunities
+to grow existing markets while penetrating new
+markets. As such, the Group is excited to have signed
+up distribution agreements with two major partners
+in Thailand and KSA in FY 2024 which facilitate our
+overseas expansion. DOMESTIC ACTIVITIES
+MARKETING AND BRANDING
+Marketing is an integral component of Power Root’s
+activities, especially in a competitive market with
+abundant consumer choices and wavering brand loyalty. Power Root’s marketing campaigns are product-driven
+as we have very distinct customer segments. The Group
+invests heavily in building our product brands through
+marketing campaigns across a spectrum of activities.
+[MDA_P003]
+To
+reach out to consumers, we use traditional and digital
+media platforms, in-store activities and promotions, and
+run campaigns which attract attention to our brands. We
+participate in joint events where we are able to promote
+brand awareness and strengthen brand associations. Our campaigns are ﬁt for purpose with some aimed at
+building general awareness and visibility for our brands,
+and others more targeted to reach a selected audience. Brand ambassadors are chosen in the ﬁrm belief that
+they will add value and eyeballs to Power Root products. As we move to attract younger consumers, we are
+increasingly promoting our products where Generation Z
+(those born in the 1990s and 2000s) are active, including
+social media channels and inﬂuencer space, with an
+emphasis on fun, excitement and edginess. It is about engaging customers, and the Group’s
+marketing strategy will continue to evolve as we focus on
+connecting with our customers. NEW PRODUCT DEVELOPMENT
+The proliferation of cafés and coffee chains, particularly
+in cities and larger towns, has given rise to connoisseurs
+who are more discerning when it comes to the coffee and
+tea they indulge in.
+[MDA_P004]
+This is true especially among younger
+consumers with more adventurous palates. On-going
+product development will continue to be vital in attracting
+such consumers in a ﬂourishing beverage market. For
+FY 2024, Power Root introduced a variety of additional
+choices to our family of products across different brands. In Malaysia, we extended our Frenché Roast can drinks
+variant by launching Frenché Roast Double Mocha and
+Frenché Roast Nutty Hazelnut flavours. Per’l Kacip
+Fatimah Kolagen Café Hazelnut (in both can and instant
+powder forms) is now available under our Per’l range,
+while Ah Huat Gao Siew Dai (31g instant powder pack)
+caters to those who love their coffee rich but a little less
+sweet. This product was launched predominantly for the
+Singaporean market. Other new instant powder lines include Alicafé TAG Hazel
+Nut (36g) which was introduced in Malaysia, while Alicafé
+Indulgence Originale (18g) and Alicafé Indulgence Salted
+Caramel (18g) became available in our export market. For tea lovers in Malaysia, there is now Jom Teh (18g),
+a 3-in-1 premix made with 100% Ceylonese tea, which
+is positioned to entice teh tarik drinkers.
+[MDA_P005]
+Meanwhile,
+chocolate malt lovers now have the option of picking up
+Oligo Choco Malt Calcium (200ml) in sleeve packs from
+the shelves. EXPORT ACTIVITIES
+MENA
+Power Root undertook a major internal restructuring
+exercise for our MENA sales and distribution operations
+in FY 2024 aimed at building up our brand presence and
+[MDA_P006]
+ANNUAL REPORT 2024
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+(cont’d)
+market share in the region. This was achieved through a
+three-pronged approach across personnel, processes and
+systems to improve exports and efﬁciencies in the region. Our main priority was to ensure that we have a good
+experienced team in place with renewed emphasis
+on talent recruitment and management. The regional
+leadership team was reshufﬂed in Q4 FY 2024 (January-
+March 2024) and new talent recruited to revitalise and
+contribute new ideas in driving innovation. As part of
+the restructuring exercise, changes were made to our
+trade marketing, sales and development, and KSA
+sales leadership team. This included the recruitment
+of additional sales leaders to manage our expanded
+business in Egypt and North Africa. The second prong was implementing the first stage
+of a new customer relationship management system -
+NeoCRM (Customer Resource Management System)
+- to replace our old CRM-IVY system. This new system
+provides greater flexibility with better customisation
+features with the completion of implementation slated by
+Q2 FY 2025.

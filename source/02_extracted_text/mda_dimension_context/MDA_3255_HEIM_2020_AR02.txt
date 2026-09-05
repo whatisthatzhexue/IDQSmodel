@@ -1,0 +1,112 @@
+document_id: MDA_3255_HEIM_2020
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 77, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_3255_HEIM_2020", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 65, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P002]
+ANNUAL REPORT 2020 | HEINEKEN MALAYSIA BERHAD
+Management Discussion & Analysis
+2020 was a difficult year. The Covid-19 global pandemic brought the
+economy to a standstill. Faced with the immediate need to bring the
+contagion under control, the Malaysian Government introduced the
+Movement Control Order (MCO) in March 2020, allowing only essential
+sectors of the economy to continue operating, whilst putting strict
+restrictions on all other activities, including social activities. Looking back at the 46 consecutive days from 18 March to 3
+May 2020, it can be said that those were the darkest days of our
+Company’s history in Malaysia as we had to suspend operations
+at our Sungei Way Brewery during this period to comply with
+the MCO. The cover of our Annual Report 2020 is symbolic of
+our organisation’s collective sentiment during the difficult time,
+it represents our team spirit to keep the lights shining in the
+darkness, and it reflects our commitment as One Strong Winning
+Team to stay true to our purpose: Brewing a Sustainable Future
+for our People, Business and Planet.
+[MDA_P003]
+We are the leading brewer in the country, with a portfolio of
+iconic international and local brands that are supported by
+consumers who share the same Passion for Quality that is a
+key HEINEKEN value. In 2020, we had to respond to the drastic
+changes in the external environment caused by the global
+pandemic and nationwide lockdown, which had a significant
+impact on our industry and business. In navigating the crisis, our
+key priorities were (1) safeguarding the health and safety of our
+people, (2) adapting the business to the new landscape, and (3)
+prudent cost control to preserve cash. Our Key Priorities
+safeguarding the
+health and safety
+of our people
+adapting the
+business to the
+new landscape
+prudent cost
+control to
+preserve cash
+PROTECTING THE HEALTH & SAFETY OF OUR PEOPLE
+To ensure the health and safety of our employees, we
+instructed all staff to work from home immediately upon the
+commencement of the MCO. When we were allowed to resume
+operations on 3 May 2020, only essential employees were asked
+to return to our brewery whilst non-essential staff continued
+working from home.
+[MDA_P004]
+From July to October 2020, during the
+Recovery MCO phase, we transitioned all employees to return to
+the office on a split team arrangement. However, when the rate of new infections increased again in
+September 2020, the Government then re-introduced stricter
+Standard Operating Procedures (SOPs) and brought back
+restrictions on various social activities to stem the new wave of
+infections. The Government also introduced a 30% limit on office
+workers whilst allowing most sectors of the economy to continue
+operating. In the interest of minimising risks on our people’s
+health, we made the decision to allow all non-essential office
+based employees to work from home fully and this practice
+continued for the rest of 2020. At the work place, we introduced new rules and practices with
+an aim to prevent infection. For example, we have put in place
+guidelines on social distancing, strict segregation of staff
+between production and non-production workers, wearing of
+face masks, as well as setting up hand sanitisation stations to
+encourage all employees to clean their hands regularly.
+[MDA_P005]
+We also
+tightened entry requirements to our brewery, with all employees
+and visitors being required to check in daily via MySejahtera
+(the Government’s Covid-19 mobile application that aids with
+contact tracing), have their body temperature taken, and submit
+a health declaration. As a further proactive step, we have also introduced the Covid-19
+screening requirement for all production workers, contractors
+and vendors who need to enter the Sungei Way Brewery. We
+are pleased that so far, no workplace cluster has been detected
+in our organisation. This clearly demonstrates the effectiveness
+[MDA_P006]
+Who We Are
+Our Strategies
+Performance
+Review
+Growing
+Our People
+Protecting
+Our Planet
+How We Are
+Governed
+Our Numbers
+And Others
+HEINEKEN MALAYSIA BERHAD | ANNUAL REPORT 2020
+of the proactive interventions that we have undertaken. As
+such, we aim to continue maintaining a high level of discipline
+in enforcing the health-related SOPs and continually remind
+employees about the necessary health and safety precautions. STAYING CONNECTED WITH CUSTOMERS & CONSUMERS
+We started 2020 with the Chinese New Year festive campaign
+led by Tiger Beer, Malaysia’s No. 1 Beer. The year of the rat
+coincided with Tiger’s 88th anniversary and we went all out
+to give consumers an exciting festive season. Aptly named
+‘Double The Huat’ in honour of the double celebration, we ran
+a successful series of promotions, contests and activations on
+a grander scale than ever before across all channels, including
+restaurants, coffee shops, supermarkets, convenience stores and
+e-Commerce. However, due to the pandemic and nationwide lockdown,
+most of the commercial plans for the rest of the year were
+affected. For example, the annual Guinness St. Patrick’s
+celebration in March had to be canceled.

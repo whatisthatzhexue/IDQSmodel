@@ -1,0 +1,85 @@
+document_id: MDA_7167_ABLEGLOB_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 51, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+AGB is an investment holding company with its subsidiaries involved in Tin Manufacturing (“Tin Cans”)
+segment and the Food and Beverage (“F&B”) segment. The Tin Cans segment involves manufacturing
+of various tins, cans and other containers and providing tinplate printing services. The F&B segment
+involves manufacturing and selling of milk and other related dairy products, as well as packing and
+trading of all types of dairy products.
+[MDA_P004]
+For Tin Cans segment, most of the customers are locally based, with minor market share in Singapore.
+The customer base consists of various industries mainly in biscuit, paint and chemical, edible oil
+and food processing industries. As for the tinplate printing services, most of the printing services are
+exported within South-East Asia market as well as local market.
+[MDA_P005]
+Whilst for F&B segment, approximately 80% of the dairy products are exported, mainly to West
+Africa, South-East Asia Region and American Continent. The dairy products comprise of sweetened
+condensed milk, evaporated milk as well as milk powder packed in both bulk and consumer packs.
+2.
+REVIEW OF FINANCIAL RESULTS AND FINANCIAL CONDITION
+[MDA_P006]
+In year 2021, the Group’s business operations continue to be disrupted by the COVID-19 pandemic with Full
+Movement Control Order (“FMCO”) in June 2021 and various restrictions and regulations to curb the spread
+of COVID-19. During this period, output was reduced due to the limitation of production workforce to 60%
+in accordance to the Government guidelines and factory operations stoppages due to COVID-19 pandemic,
+thus limiting our sales to the group of companies.
+[MDA_P007]
+For FYE 2021, the Group achieved revenue of RM499.86 million as compared to RM502.26 million in the
+previous financial year, a decreased of RM2.4 million. Profit before tax decreased by RM1.79 million to
+RM51.43 million as compared to RM53.22 million in the previous financial year.
+[MDA_P008]
+For Tin Cans segment, the revenue increased by RM12.13 million to RM127.51 million from RM115.38 million
+as a result of higher sales and the effect from the selling prices adjustment to tin cans during FYE 2021.
+[MDA_P009]
+As for the F&B segment, the revenue decreased by RM14.53 million to RM372.35 million from RM386.88
+million mainly due to the decrease in production output from the lockdown imposed by the government and
+factory operations stoppages due to Covid-19.
+[MDA_P010]
+Profit before tax of Tin Cans segment increased by RM11.86 million to RM25.00 million from RM13.14 million.
+The adjustment in selling prices to Tin Cans customers in the FYE 2021 contributed to the normalisation
+of the profit margin and therefore, a higher profit as compared to the exceptionally low profit in previous
+financial year. The exceptionally lower profit before tax in previous financial year was mainly due to lower
+revenue resulted from the lower demand across all industries caused by the initial outbreak of COVID-19
+pandemic and the increase in costs during MCO1.0 period.
+[MDA_P013]
+For F&B segment, the profit before tax decreased by RM13.17 million to RM28.09 million from RM41.80
+million is in line with the decrease in revenue and due to the increase in cost of goods sold in FYE 2021.
+Furthermore, the F&B segment shared the losses of equity accounted joint ventures amount to RM3.86
+million in FYE 2021 as both joint ventures commenced the operations in Quarter 3 of FYE 2021.
+[MDA_P014]
+The Group’s total assets in FYE 2021 increased by RM61.03 million to RM531.40 million from RM470.37
+million in the previous financial year. The increase in total assets was mainly arose from the higher inventories
+value in FYE 2021 due to an increase in the raw material cost. The Group also plan for higher stock level
+to ensure sufficient stock and prevent disruption to the business operation during the COVID-19 pandemic
+period.
+[MDA_P015]
+In FYE 2021, the total borrowings increased by RM45.25 million to RM87.86 million from RM42.61 million
+mainly due to short-term trade financings through trust receipts and revolving credits for the purchase of raw
+materials. As a result, the gearing ratio increased by 11.15% to 23.07% from 11.92%.
+[MDA_P016]
+On the investor’s perspective, the return on equity decreased by 1.31% to 9.83% from 11.14% mainly due
+to lower revenue and increase in cost of goods sold in FYE 2021. The return on total assets decreased
+by 1.42% to 7.05% from 8.47% mainly due to lower production output and limitation of workforce in the
+production during the FMCO period resulted in lower revenue.
+[MDA_P017]
+Lower interest coverage ratio of approximately 110 times in FYE 2021 as compared to 48 times in the
+previous financial year, which reflected the Group’s ability to pay off its debts against the current year’s profit.
+[MDA_P018]
+As for share information, the Earnings per share (“EPS”) is 12.00 sen for the FYE 2021 as compared to 12.84
+sen in the previous financial year. The net assets per share (“NAPS”) increased by 8 sen to RM1.24 for FYE
+2021 against RM1.16 in the previous financial year. The price earnings (“PE”) ratio is 13.42 for FYE 2021 as
+compared to 15.65 in the previous financial year. The share price in FYE 2021 and in the previous financial
+year was at RM1.61 and RM2.01 respectively.
+[MDA_P020]
+The main factors that affected the operating activities in the Tin Cans segment are shortage of labour and
+increased in raw materials prices.
+[MDA_P021]
+Due to the COVID-19 pandemic, the country’s international border was closed to foreign worker which has
+resulted to the shortage of labour. Furthermore, the Government’s guideline on limitation of 60% production
+workforce has also become challenges to the subsidiaries of Tin Cans segment in completing customer’s
+order in time. Nonetheless, the subsidiaries of Tin Cans Segment manage to recruit and retain local workforce
+and to cope with the sales demand for the time being.

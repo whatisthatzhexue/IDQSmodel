@@ -1,0 +1,18 @@
+[TITLE]
+SupportLine
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-06-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/20/supportline
+confidence_tier: high
+
+[NEWS_P001] Apollo Food Holdings Bhd , which embarked on a rally at the start of the week, is staring overhead at the 200-day simple moving average (SMA) line. The share price recovery has gained robust momentum over recent days but remains below overbought conditions, which suggests it still has legs. Looking at the technical indices, the slow-stochastic has hit 76 points and the 14-day relative strength index is rising at 69 points, both strong levels of momentum.
+
+[NEWS_P002] The daily moving average convergence/divergence (MACD) histogram is showing an uptrend with rising positive bands, affirming the continued share price increase. Resistance for the share can be found at RM6.80 and RM7 while support is pegged to RM6 and RM5.72. QL Resources Bhd remains on a recovery trend as it seeks to reclaim a historical high of RM4.90. The share is facing a hurdle in the form of the 50 and 100-day SMA lines, which in crossing should see the share gain a boost of momentum towards its price target.
+
+[NEWS_P003] The technical indicators are healthy with the slow-stochastic resting at a strong 72 points and the relative strength index (RSI) also bullish at 55 points. The MACD histogram meanwhile, has been on the rise over the last two weeks to suggest strong growing momentum. Support is found at RM4.48 and RM4.28 KPJ Healthcare Bhd could be hitting bottom and resuming a long-term uptrend as soon as it rights itself from current corrective pressures. The share appears to have found support at the RM2.65 mark, which meets the 100-day SMA line.
+
+[NEWS_P004] A rebound could be in the offing as it retraces higher on growing momentum towards a historical high of RM3.05. The slow-stochastic has fallen into oversold conditions, while the RSI is weak at 35 points. The MACD histogram continues to fall but, indicating an ongoing downtrend. The comments above do not represent a recommendation to buy or sell.

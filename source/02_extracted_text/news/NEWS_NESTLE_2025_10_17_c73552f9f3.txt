@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI rises in early trade as investors await key GDP, trade data
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/17/fbm-klci-rises-in-early-trade-as-investors-await-key-gdp-trade-data
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI opened higher on Friday, bucking the weaker overnight performance on Wall Street, as investors turned their attention to Malaysia’s upcoming advance GDP estimate and trade data. Bloomberg estimates 3Q GDP growth at between 3.4% and 4% year-on-year (y-o-y), while UOB Global Economics & Markets Research projects growth of 3.6%. The FBM KLCI rose 2.9 points, or 0.18%, to 1,615.19 at 9.18 a.m. The index had earlier opened 1.4 points higher at 1,613.69.
+
+[NEWS_P002] Among the gainers, Nestle rose 40 sen to RM105.10, Hong Leong Bank added 18 sen to RM20.96, Tomei gained 12 sen to RM2.10, and PGF Capital climbed nine sen to RM1.84. Conversely, PETRONAS Gas slid 26 sen to RM18.74, United Malacca fell eight sen to RM5.80, Carlsberg lost eight sen to RM16.16, and LTKM declined eight sen to RM1.50. Berjaya Research Sdn Bhd expects the FBM KLCI to extend its positive momentum in the day ahead, supported by selective buying in blue-chip stocks and a strengthening risk appetite across regional markets.
+
+[NEWS_P003] However, the research house noted that the upside potential may remain modest, as investors shift their focus to Malaysia’s upcoming trade data and the advance estimate of its third-quarter 2025 GDP — both of which could influence near-term market sentiment. “Technically, the FBM KLCI formed a bullish candle to extend its consolidation pattern. We continue to advocate for a potential rebound with the 1,622 points serving as the immediate resistance, followed by 1,635 points and 1,657 points, respectively.
+
+[NEWS_P004] “Meanwhile, the supports remain pegged at 1,611 points and 1,600 points respectively,” Berjaya Research said. Rakuten Trade noted that the local bourse appears well supported at current levels. As such, the FBM KLCI is expected to hover within the 1,610–1,620 range today ahead of the long weekend. Overnight, Wall Street ended broadly lower amid renewed concerns over the health of regional banks. Fears of rising bad loans also raised the spectre of a potential banking crisis.
+
+[NEWS_P005] The S&P 500 declined 0.63% to end the session at 6,629.07 points. The Nasdaq declined 0.47% to 22,562.54 points, while the Dow Jones Industrial Average declined 0.65% to 45,952.24 points.

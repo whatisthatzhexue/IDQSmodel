@@ -1,0 +1,16 @@
+[TITLE]
+Johari: Palm oil industry players need to increase FFB yields
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2024-03-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/14/johari-palm-oil-industry-players-need-to-increase-ffb-yields
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Industry players and smallholders need to increase the production of fresh fruit bunches (FFB) and crude palm oil (CPO) to maintain the relevance of the Malaysian palm industry, said Plantation and Commodities Minister Datuk Seri Johari Abdul Ghani. He said the government would not open new plantation areas but instead would focus on efforts to increase the yields. "If we can achieve an FFB yield of 18 tonnes per hectare, this industry can produce 20.5 million metric tonnes of CPO, an increase of two million metric tonnes from 18.5 million metric tonnes last year,” he said in winding up the debate on the Motion of Thanks on the Royal Address for his ministry in the Dewan Rakyat today.
+
+[NEWS_P002] Johari said among the driving factors towards this achievement were the right replanting schedule at the recommended rate of four to five per cent, sufficient manpower and optimal farm management. In addition to the use of proven quality palm seeds, scheduled fertilisation as well as disciplined, continuous replanting, he said optimal farm management also involves the appropriate specialisation. The ministry also encourages mechanisation for tasks such as arranging fronds and FFB, collecting loose fruits and moving FFB to the roadside.
+
+[NEWS_P003] "For every 100 plantation workers, 50 are harvesters. Therefore, we must ensure that every oil palm plantation has sufficient harvesters to operate at optimum capacity," he added. - Bernama

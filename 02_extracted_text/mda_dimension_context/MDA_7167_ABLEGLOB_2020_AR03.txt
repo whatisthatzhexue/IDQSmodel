@@ -1,0 +1,86 @@
+document_id: MDA_7167_ABLEGLOB_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 204, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+JTB is an investment holding company with its subsidiaries involved in Tin Cans Manufacturing
+(“Tin Cans”) segment and the Food and Beverage (“F&B”) segment. The Tin Cans segment involves
+manufacturing of various tins, cans and other containers and providing tinplates printing services. The
+F&B segment involves manufacturing and selling of milk and other related dairy products, as well as
+packing and trading of all types of dairy products.
+[MDA_P004]
+For Tin Cans segment, most of the customers are locally based, with minor market share in Singapore.
+The customer base consists of various industries mainly in biscuit, paint and chemical, edible oil and
+food processing industries. As for the tinplates printing services, most of the printing services are
+exported within South-East Asia market as well as local market.
+[MDA_P005]
+Whilst for F&B segment, approximately 80% of the dairy products are exported, mainly to West
+Africa, South-East Asia Region and American Continent. The dairy products comprise of sweetened
+condensed milk, evaporated milk as well as milk powder packed in both bulk and consumer packs.
+2.
+REVIEW OF FINANCIAL RESULTS AND FINANCIAL CONDITION
+[MDA_P006]
+For the year 2020, the Group’s performance was affected by the global COVID-19 pandemic and the first
+Movement Control Order (MCO 1.0) from 18 March 2020 till 3 May 2020. During this period, output was
+reduced due to the limitation of production workforce to 50% in accordance to the government guidelines
+and some local customers which are not in the essential sector were not allowed to operate, thus limiting our
+sales to this group of companies.
+[MDA_P007]
+For the FYE 2020, the Group achieved revenue of RM502.26 million as compared to RM579.79 million in the
+previous financial year, a decreased of RM77.53 million. Profit before tax decreased by RM7.30 million to
+RM53.22 million as compared to RM60.52 million in the previous financial year.
+[MDA_P008]
+For Tin Cans segment, the revenue decreased by RM15.73 million to RM115.38 million from RM131.11
+million as a result of lower sales from edible oil tin cans and lower local demand directly caused by the
+COVID-19 restrictions.
+[MDA_P009]
+As for the F&B segment, the revenue decreased by RM61.80 million to RM386.88 million from RM448.68
+million mainly due to lower sales caused by the global COVID-19 pandemic and export shipments delay
+caused by the shortage of containers globally in 4th quarter of 2020.
+[MDA_P010]
+Profit before tax of Tin Cans segment decreased by RM3.97 million to RM13.14 million from RM17.11 million,
+mainly due to lower sales and the burden of higher production overhead costs of full wages paid for workers
+who did not work during the lockdown period and the increase of raw materials costs in 4th quarter of 2020.
+[MDA_P011]
+For F&B segment, the profit before tax decreased by RM3.99 million to RM41.80 million from 45.79 million
+mainly due to lower revenue.
+STATEMENT ON
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P014]
+For the FYE 2020, the total borrowings decreased by RM2.36 million to RM42.61 million from RM47.35
+million mainly due to lower short-term trade financings through revolving credits and reducing in term loan
+interest. As a result, the gearing ratio decreased by 1.95% to 11.92% from 13.87%.
+[MDA_P015]
+On the investor’s perspective, the return on equity decreased by 2.97% to 11.14% from 14.11% mainly due
+to lower revenue in the FYE 2020. The return on total assets decreased by 2.16% to 8.47% from 10.63%
+mainly due to lower production output and limitation of workforce in the production during the MCO period
+implemented by the government, resulted in lower revenue.
+[MDA_P016]
+Lower interest coverage ratio of approximately 48 times in the FYE 2020 as compared to 32 times in the
+previous financial year, which reflecting the Group’s ability to pay off its debts against current year’s profit.
+[MDA_P017]
+As for share information, the Earnings per share (“EPS”) is 12.84 sen for the FYE 2020 as compared to 15.29
+sen in the previous financial year. The net assets per share (“NAPS”) increased by 6 sen to RM1.16 for the
+FYE 2020 against RM1.10 in the previous financial year. The price earnings (“PE”) ratio is 15.65 for the FYE
+2020 as compared to 11.31 in the previous financial year. The share price in the FYE 2020 and in the previous
+financial year was at RM2.01 and RM1.73 respectively.
+[MDA_P019]
+The main factors that affected the operating activities in the Tin Cans segment are higher production overhead
+costs and increased in raw materials prices.
+[MDA_P020]
+The COVID-19 pandemic first hit Malaysia in 2020 and the government subsequently implemented MCO to
+curb the outbreak of COVID-19, by instructing the closure of non-essential sectors and the workforce was
+limited by 50% in the production. On the other hand, the labour cost increased due to full wages that were
+paid to workers who did not work during the lockdown period and the fixed overhead costs incurred which
+was not fully absorbed due to the lower production output.
+[MDA_P021]
+The increased in global steel prices lead to our raw materials costs increase in the 4th quarter 2020 but the
+price adjustments to our customers will only be reflected in the later months. Furthermore, the weakening
+of Ringgit Malaysia (“RM”) against United States Dollar (“USD”) has brought about an increase in the
+manufacturing costs from imported raw materials. The Management is always vigilant in monitoring the cost
+of manufacturing to stay competitive in the industry.
+[MDA_P022]
+As for F&B segment, the main factors that affected the operating activities were volatility in raw materials
+prices and higher freight costs coupled with tight availability of shipping containers.

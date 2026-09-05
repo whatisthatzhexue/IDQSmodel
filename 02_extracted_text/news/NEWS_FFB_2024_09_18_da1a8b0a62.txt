@@ -1,0 +1,22 @@
+[TITLE]
+Kim Loong targets earnings growth on higher FFB production
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2024-09-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/18/kim-loong-targets-earnings-growth-on-higher-ffb-production
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Kim Loong Resources Bhd is focusing on earnings recovery in its financial year 2025 (FY25), with the group expecting a 5% growth in fresh fruit bunch (FFB) production and exploring new revenue streams such as coconut plantations. These key takeaways were from a recent virtual meeting between TA Research and Kim Loong’s management. According to the research house, Kim Loong’s primary goal is to return the company to growth trajectory.
+
+[NEWS_P002] For FY25, Kim Loong’s capital expenditure is projected at RM60mil, primarily for upgrading mill equipment and replanting efforts. An additional US$80mil has been earmarked for a new mill in Sarawak over the next two to three years, the brokerage firm said in a report. TA Research has maintained an annual replanting rate of about 1,000ha over the next five years. This year, the group aims to increase the production to 350,000 tonnes from an estimated 330,000 tonnes in FY24.
+
+[NEWS_P003] Despite recent volatility in crude palm oil prices, the group remains optimistic that prices will eventually stabilise in FY25, with an average forecast of RM4,000 per tonne, said TA Research. The group has also successfully established a new revenue stream from selling palm shells to third parties. “This additional income source, coupled with revenue generated from its solvent extraction plants, has helped counterbalance increased expenses,” the research house noted.
+
+[NEWS_P004] TA Research said Kim Loong is continually looking to expand its land bank but faces challenges due to high land prices, and environmental, social and governance (ESG) restrictions. The group is also exploring coconut plantations, which is in the experimental stage, and evaluating the carbon credit market. “Carbon credits could provide an additional revenue stream as ESG considerations have become an important business practice globally, in our view,” the brokerage added.
+
+[NEWS_P005] Kim Loong has also invested in three biogas plants, which generate excess power sold to the grid for additional revenue. TA Research noted that Kim Loong has signed a power purchase agreement with Tenaga Nasional Bhd to supply electricity from its biogas plants at fixed rates of 46.9 sen per kilowatt-hour for the first two mills and 39 sen for the third. TA Research has maintained its earnings forecast for Kim Loong with a target price of RM2.50. However, the research house has downgraded the stock to a “hold” from a “buy” due to limited upside potential.
+
+[NEWS_P006] In the face of a rising cost environment, which has caused tremendous challenges to maintaining cost-efficiency, the group has implemented effective strategies to mitigate these impacts.

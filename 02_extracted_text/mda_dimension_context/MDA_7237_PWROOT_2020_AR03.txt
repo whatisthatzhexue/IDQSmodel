@@ -1,0 +1,60 @@
+document_id: MDA_7237_PWROOT_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 22, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Power Root Berhad Registration Number: 200601013517 (733268-U) I Annual Report 2020
+THE BUSINESS ENVIRONMENT
+Demanding economic conditions resulted in cautious consumer spending during the year, even prior to the introduction
+of Malaysia’s Movement Control Order (MCO) in March 2020. As part of the essential food and beverage industry,
+Power Root was allowed to operate throughout the MCO period. With ongoing production and sufficient stock levels,
+we were able to meet both local and overseas demand. We also took extra measures in ensuring a safe and hygienic
+work environment for employee and product safety. In the preceding financial year, the Group had made Return on Investment (ROI) a core area of focus. As we enter the
+next phase of our transformation, Power Root has moved to instil a ROI-focused culture within our organisation, and
+combined it with the streamlining of our sales and distribution activities as well as on-going extension of our brand
+equity as key levers in our business strategy. The results of these measures can be seen in the company’s financial and
+operational performances as expanded on below.
+[MDA_P003]
+In the wider global context, the Group benefited from favourable market movements this past year. The lower price of
+raw materials, coffee in particular, contributed to an improvement in margins. At the same time, the strengthening of
+the US dollar (USD) against the Ringgit (MYR) boosted our export-led sales earnings.
+[MDA_P004]
+DOMESTIC ACTIVITIES
+Operational strategies
+Power Root’s ROI-focused strategy involves building a culture which accentuates cost control-consciousness within
+our organisation. To this end, we have revamped our Standard Operating Procedure (SOP) and inventory management
+to reduce unnecessary wastages while optimising productivity. Clear guidelines to ensure that plant and machinery
+investments adhere to ROI requirements were set. In addition, we have made stringent management of human resources
+an integral part of this culture with a strong emphasis on planning and execution. On the human resources front, the Group engaged high-level managers with the know-how to help us advance to the
+next stage of growth. Our new factory operations General Manager and Factory Manager, whose multinational corporation
+(MNC) food and beverage experience would prove pivotal in our operations advancement initiatives, including in reducing
+wastage, optimising machine usage, and enhancing manpower efficiency on the factory floor.
+[MDA_P005]
+These managers are already
+playing major roles in the implementation of our work culture and will continue to review our manufacturing footprint in
+terms of processes, efficiency and machine optimality. The new market environment resulting from the pandemic has required agility in meeting new buying patterns. Power Root
+is stepping up our online presence by increasing our social media activities and improving our online brand alignment. Alongside the significant jump in consumer online purchasing activities during the MCO as well as favourable online
+merchanting terms, we are accelerating our e-commerce plans. Sales and distribution
+Another area where we have made significant headway is in the development of our sales and distribution network. To
+better manage product movements, Power Root leveraged on technology in rolling out our handheld sales force reporting
+system. This provides real-time information updates from our distribution network - on outlet stock keeping unit (SKU)
+levels and product positioning, for example - allowing us to monitor the results of our marketing 5Ps (product, price,
+promotion, place and people) implementation.
+[MDA_P006]
+Quick access to information has given us the ability to better gauge performances and areas for improvement. This
+includes setting distribution-related key performance indicators (KPI), reviewing client credit capabilities, and introducing
+SOPs for targeted advertising and promotion (A&P) spending to ensure maximum impact on increasing our long term
+sales and market share. In recent months we have also changed distributors in key markets to new distributors who
+are better equipped with more comprehensive teams and network. Management Discussion And Analysis
+Cont’d
+[MDA_P007]
+Power Root Berhad Registration Number: 200601013517 (733268-U) I Annual Report 2020
+Extending brand equity
+While Power Root will always serve the needs of our existing consumers, we are equally sensitive to ongoing changes
+in tastes and preferences. As such, we are constantly developing new products as well as taste improvements and
+product line extensions to keep our Brands relevant and appealing. This past year, we repositioned our extensive Brand Portfolio with three major changes. The first was to group the herbal range under the “Tongkat Ali and Ginseng” and “Kacip Fatimah and Collagen” portfolios
+respectively. Within “Tongkat Ali & Ginseng”, Power Root’s largest product line, we have the Alicafé (coffee), Alitéa (tea) and Extra
+Power Root (energy drink) brands, while the “Kacip Fatimah and Collagen” line comprises Per’l (coffee and chocolate)
+and Per’l Xlim Brands (coffee and chocolate slimming beverage). We took the opportunity to clearly delineate between our herbal and non-herbal ranges by creating the “Warung” line. Warung provides the typical 3-in-1 or 2-in-1 coffee and tea beverage under the Alicafé and Alitéa brands.

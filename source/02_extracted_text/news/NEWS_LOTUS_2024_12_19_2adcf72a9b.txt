@@ -1,0 +1,20 @@
+[TITLE]
+Lotus Circular to acquire Earthwise Resources, Expert Resource for RM100mil
+
+[METADATA]
+ticker: LOTUS
+company_name: Lotus KFM Berhad
+publish_date: 2024-12-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/19/lotus-circular-to-acquire-earthwise-resources-expert-resource-for-rm100mil
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Lotus Circular Bhd (LCB) has proposed to acquire the entire equity interest in Earthwise Resources Sdn Bhd and the entire equity interest in Expert Resource Management Sdn Bhd for a total purchase consideration of RM100 million. In a filing with Bursa Malaysia today, it said the proposed acquisitions are to be satisfied via a combination of cash consideration of RM35.01 million and the issuance of 156.60 million new ordinary shares in LCB at an issue price of RM0.415 per share.
+
+[NEWS_P002] "In connection with the proposed acquisitions, current shareholders of LCB, or those who will hold shares following the issuance of the consideration shares, intend to seek an exemption from the Securities Commission Malaysia from the obligation to make a mandatory takeover offer for the remaining ordinary shares in LCB that they do not already own, upon issuance of the consideration shares,” it said. LCB will also be procuring its shareholders’ mandate for recurrent related party transactions (RRPT) expected to be entered into by Earthwise and Expert, following the completion of the proposed acquisitions.
+
+[NEWS_P003] "The company will seek the approval of its shareholders for the new RRPTs, at the forthcoming extraordinary general meeting of the company,” it said. Regarding the rationale of the proposals, LCB said the proposed acquisitions present a strategic opportunity for the LCB Group to expand its footprint within the waste recycling business. "This aligns with the Group’s long-term strategy to deepen its penetration into the recycling business, thereby increasing revenue contributions from this business segment and reducing reliance on its retail business.
+
+[NEWS_P004] "Moreover, the proposed acquisitions are expected to enhance the LCB Group’s market share within the recycling business industry,” it said. Earthwise is principally engaged in the sales and purchases of recycling material. As of Nov 20, 2024, the latest practicable date before the announcement, Earthwise has an issued share capital of RM1.30 million comprising 1.30 million ordinary shares. Expert is principally engaged in the remediation activities and other waste management services.
+
+[NEWS_P005] As of the announcement, Expert has an issued share capital of RM1 million comprising one million ordinary shares. KAF Investment Bank Bhd has been appointed as the adviser to the company for the proposals. - Bernama

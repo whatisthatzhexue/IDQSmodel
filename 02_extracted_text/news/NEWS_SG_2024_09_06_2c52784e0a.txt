@@ -1,0 +1,16 @@
+[TITLE]
+Chemical waste found dumped at banks of Sg Plentong tributary in Johor
+
+[METADATA]
+ticker: SG
+company_name: Saudee Group Berhad
+publish_date: 2024-09-06
+source_name: The Star
+url: https://www.thestar.com.my/news/nation/2024/09/06/chemical-waste-found-dumped-at-banks-of-sg-plentong-tributary-in-johor
+confidence_tier: low
+
+[NEWS_P001] JOHOR BARU: The Environment Department (DOE) and the state Fire and Rescue Department have discovered suspicious chemicals dumped along the banks of the Sungai Plentong tributary in the Desa Tropika Industrial Area, Johor Jaya, Friday (Sept 6). State health and environment committee chairman, Ling Tian Soon, said that the chemicals were found at around 3.15pm following complaints about a strong chemical odour. ALSO READ: Odour pollution at Sg Pandan under control, says Dr Dzul "The chemical smell was detected in the area during the inspection at around noon, prompting authorities to continue searching along the river until they found the suspicious chemicals," he shared in a Facebook post Friday.
+
+[NEWS_P002] He noted that there was an oil spill on the river's surface, and samples were taken while part of the spill was cleared using absorbent pads. Ling also emphasised that the state government and authorities strongly condemn such illegal chemical waste disposals, and urged the public to immediately contact the DOE if they have any information on the pollution. ALSO READ: Unusual objects found dumped during Sg Pandan pollution check Meanwhile, he said the authorities are still awaiting the test results of the chemicals found dumped along the banks of Sungai Pandan.
+
+[NEWS_P003] On Tuesday (Sept 3), a foul odour was reported in Taman Daya, Taman Mount Austin, Taman Istimewa, and Kampung Melayu Pandan. It was reported that the Johor DOE detected ammonia gas levels exceeding normal thresholds in the Sungai Pandan area in Kampung Melayu Pandan. Unidentified packages were also discovered dumped along the banks of the Sungai Pandan tributary near Taman Daya two days ago. - Bernama

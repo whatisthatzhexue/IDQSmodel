@@ -1,0 +1,95 @@
+document_id: MDA_0212_SDS_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+“
+”
+OVERVIEW & JOURNEY IN THE NEW NORMAL
+From an operational angle, FYE 2022 has been a challenging year as the nation went through different
+Movement Control Order (MCO) phases. The constant adjustment to the Group’s operating procedures
+to ensure compliance with the Government’s Standard Operating Procedures (“SOPs”) was felt heavily
+especially in the retail channel, owing to the fact that the Group has significant Food and Beverage
+("F&B") components offering dine-in experiences for a variety of cuisines. Despite this challenge, the Group has managed to open 2 new outlets in Bandar Seri Putra, Selangor
+and Taman Nusantara, Johor while the wholesale channel set up another distribution centre in Gua
+Musang, Kelantan, bringing the Group’s total to 20 centres in 10 out of the 11 states in Peninsular
+Malaysia. The Group’s journey in FYE 2022 was a continuing story of operating under lockdown conditions,
+particularly in the early part of the financial year under review.
+[MDA_P006]
+In FYE 2022, the Group experienced slower operations, especially in malls, when they were closed temporarily under the
+Government’s lockdown rules. However, the Group’s key strategic pivot towards the enhancement of food ordering and
+delivery experience for its customers was realised through the improvement in delivery services and collaboration with
+externally established food delivery service providers. In line with this, the Group’s R&D introduced changes to the café
+menu for better product variety and experience for customers as well as launching a ready-to-eat series of products to
+cater to the ever-changing palate of customers’ preference. All of these activities added to the Group’s previous innovation of having its own contactless payment system through
+the SDS mobile application, which includes an e-Wallet feature, customer hotline service that facilitates pre-ordering,
+collection or delivery of products and a rejigged marketing strategy of selling festive items on third-party online platforms
+has helped the Group reached out to its customers during the pandemic and also adapt to the new norms of consumer
+behaviour. ANNUAL REPORT 2022 | 015
+SDS GROUP BERHAD
+[MDA_P007]
+Financial Indicators
+FY2022
+RM’000
+FY2021
+RM’000
+Difference
+(%)
+Revenue
+198,283
+173,778
+14.1%
+Gross Profit
+61,596
+52,988
+16.2%
+Gross Profit Margin
+31.1%
+30.5%
+1.9%
+Profit Before Tax
+14,103
+9,589
+47.1%
+Profit After Tax Attributable to
+Owners of the Company ("PAT")
+10,618
+7,271
+46.0%
+Net profit margin
+5.4%
+4.2%
+28.0%
+Wholesale Channel
+As mentioned in the overview, the wholesale channel’s market penetration grew with the addition of the Gua Musang
+distribution centre, however the first half of FYE 2022 required a relook into the Group’s distribution network as closures
+of non-essential sectors had a knock-on effect on the Group’s order book. Among some of the actions taken by the Group
+included cost control over the replanning of sales distribution routes and streamlining the operating and manufacturing
+processes. On the customer end of operations, the Group improved its variety of products and offered it to customers at
+reasonable and competitive prices. The accessibility to customers became the Group’s main innovation for this channel
+as it ensured that coverage and customer base of the distribution network was improved.
+[MDA_P008]
+FINANCIAL PERFORMANCE & KEY CORPORATE HIGHLIGHTS
+The Group’s year-on-year trend shows strong performance with a healthy revenue growth of 14.1% from RM173.78 million
+in FYE 2021 to RM198.28 million in FYE 2022. This has in turn reflected on the Group’s PAT of RM10.62million in FYE 2022
+as compared to RM7.27 million in FYE 2021, representing an improvement of 46.0%. All in all, the Group’s financial performance is mainly attributable to a variety of internal and external factors, chief of
+which was the gradual easing of lockdown and increase of economic activities through FYE 2022. The return to a new
+normal saw the increase of footfall in the retail channel and the reopening of schools, factory canteens and interstate
+borders all helped bolster the Group’s order book and increased the demand for wholesale channel. The Group’s recognition of the higher profit is in line with its realisation of higher revenue. Along with the Group’s
+effective cost management in controlling the challenges from the pandemic, its sales planning allowed the Group to
+reduce the goods returned rate. All these translates to more accurate profit realisation from its sales channels. 016 | ANNUAL REPORT 2022
+[MDA_P010]
+In addition to the key financial highlights above, the Group has been managing its liquidity and borrowings
+prudently. In the year under review, the Group has seen an increase in cashflow from operating activities grow by
+33.26% or RM8.11 million mainly due to the increase in operating profit. To expand the business’ capacity, the Group
+has invested in activities such as the opening of new retail outlets, acquisition of new delivery lorries, and plant and
+machinery amounting to RM8.99 million over the course of the financial year. In FYE 2022, the Group has increased
+its commitment to pare down borrowings which contributed to the net cash flow for financing activities of RM20.57
+million, shaving off the Group’s gearing ratio from 0.60 in the previous year to 0.35 in FYE 2022. The IPO proceeds have also been fully utilised by the Group in the fourth quarter of FYE 2022. With a healthier cash
+position and lowered gearing ratio, the Group is more agile to pursue various modes of expansion when the right
+opportunity presents itself. ANNUAL REPORT 2022 | 017
+SDS GROUP BERHAD

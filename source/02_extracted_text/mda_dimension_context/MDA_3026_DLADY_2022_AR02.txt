@@ -1,0 +1,100 @@
+document_id: MDA_3026_DLADY_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 67, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P032]", "note": "margin: stated 35.00%, calculated 0.02% from profit/revenue, status material_discrepancy.", "source_text": "After reconciliation, DLMI paid to its shareholders a total of RM32 million in interim dividends consisting of two standards dividends of RM0.25 each. This represents a distribution of 69% of the profits attributable to shareholders. ANALYSIS OF INCOME Our reported Revenue increased 18% versus the p", "status": "material_discrepancy"}], "document_id": "MDA_3026_DLADY_2022", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 2, "num_consistent_checks": 1, "num_financial_mentions": 136, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P005]
+Management Discussion & Analysis
+During the year, we continued to focus on fulfilling the nutritional
+needs of Malaysians, while striving to build resilient communities
+and business. With our undivided focus on efficiency and equity
+principles, our mid- to long-term goal has been to build a sustainable
+ecosystem. 2022 was all about creating positive value for both
+our shareholders and critical stakeholders. With these agile ways of work, our dairy leadership in
+Malaysia since 1963 is supported by our brand loyalists
+across generations. In 2022, we retained our market
+position as No.1 dairy producer and remained the largest
+purchaser of local fresh milk. absorbing
+the
+inflationary
+costs
+through optimisation measures to
+ensure the burden of price increase
+is
+only
+partially
+transferred
+to
+consumers. tapping the potential of our critical
+mass of over 400 local farms and
+FrieslandCampina’s
+regional
+and
+global network to ensure supply of raw
+materials to meet the demand. CRITICAL CHALLENGE & COLLABORATION
+During the year, we saw the transition of physical
+environment to digital solutions.
+[MDA_P006]
+This meant, more
+active consumers in e-commerce space, more
+technologically empowered and adept systems
+and processes, and of course, more analytics and
+digitalisation at play for building a robust business. At DLMI, in 2022, digitalisation was and will remain
+one of our priority challenges to tackle. The journey
+would require us to shift to alternative retail formats
+and tap new growth from acceleration of digital
+adoption. During the year, we also focused on
+deploying IR4.0 (fourth industrial revolution) digital
+transformation strategies of our manufacturing at
+our new greenfield factory in Bandar Enstek, which is
+scheduled to be completed by 2024. The upgraded technology will bring new skills and
+opportunity for growth in terms of innovation,
+improved efficiencies, and overall, sustainability. In
+developing
+our
+state-of-the-art
+green-field
+production facility, we are working with experts in
+the field to improve dairy processing capabilities and
+energy as well as water efficiencies. For instance,
+when we fully transition to the new facility, we will be
+able to reduce water use per litre of milk by 42% and
+energy by 19% by 2030.
+[MDA_P007]
+MANAGING DIRECTOR’S REPORT
+At Dutch Lady Milk Industries Berhad (DLMI), we faced the
+dual dilemma. First was to keep our products accessible
+and affordable even with an increase in the price points,
+mainly due to the unprecedented inflation rate that stood
+at 8.9% (Euromonitor 2022) globally and 3.3% (Dept. of Statistics Malaysia, FY2022) in Malaysia. Second
+was related to our survival and winning profitably amid
+supply chain disruptions and while meeting the consumer
+demand. We successfully addressed these by:
+In 2022, we retained our
+market position as
+no.1 dairy producer
+and remained the
+largest purchaser
+of local fresh milk
+#1
+[MDA_P008]
+DUTCH LADY MILK INDUSTRIES BERHAD | INTEGRATED ANNUAL REPORT 2022
+OUR PURPOSE, PEOPLE, PERFORMANCE & POTENTIAL
+MANAGING DIRECTOR’S REPORT
+Nourishing Our Planet and People in Every Stage of Life. This purpose
+defines our reason for being. It guides our actions and behaviour. This
+means we aspire to keep our total portfolio nutritious, helping Malaysia
+and Malaysians meet their nutritional needs whilst also nourishing our
+employees, suppliers, and rakyat who are critical in driving growth and
+positioning DLMI as a responsible manufacturing hub in the region. In 2022, we saw a step change in our defined and operational approach to
+sustainability that is closer to our purpose. We examined efficiency and
+equity as two principles which will steer our EES&G performance. We also
+adopted the Thriving Framework (Wayne Visser 2020) to examine the
+systemic issues in our value chain and how our sustainability strategies
+are positioned to address them in the near to medium to long-term. This
+is a key milestone that will help us define our planet and people ambitions
+over the next one year, with clear measurable Board and Management KPIs
+and a robust business case.

@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia rebounds for second day as tariff tensions ease
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/06/bursa-malaysia-rebounds-for-second-day-as-tariff-tensions-ease
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The rebound on Bursa Malaysia is expected to continue for a second day following a recovery rally on Wall Street as equities bounced back on hopes the US will extend further reprieve to trade tariffs. At Thursday's open, the benchmark FBM KLCI rose 4.53 points to 1,568.95, further paring the losses registered earlier this week when US President Donald Trump's tariffs sparked the start of a trade war. Nestle bounced back by 84 sen to RM74.20 after days of losses brought its share price to an eight-year low.
+
+[NEWS_P002] Maybank rose six sen to RM10.64 while PETRONAS Dagangan gained 30 sne ot RM17.74 and Sime Darby gained five sen to RM2.10. Of actives, NexG, formerly known as Datasonic, was flat at 26 sen, G3 unchanged at one sen and SFPTech also unoved at 28.5 sen. There is a fresh positive catalyst for Malaysia's semiconductor industry, according to analysts, following the signing of a US$250mil partnerhsip deal between the government and Arm Holdings. The deal represents a "second wave" for the Malaysian semiconductor industry, according to Prime Minister Datuk Seri Anwar Ibrahim as its transitions from chip assembly and testing to local chip design capabilities.
+
+[NEWS_P003] "This may create trading opportunities within the technology sector, particularly semiconductor counters," said Malacca Securities Research in a note. Meanwhile, Rakuten Trade said the announcement of “a first of its kind”collaboration with Arm Holdings to fast-track Malaysia’s tech sector up the value chain may be a catalyst for the sector as this will benefit existing playerssignificantly. On the performance of the market today, Rakuten Trade said the flight of foreign funds may have started, going by the positive regional performance, and expects the index to hover within the 1,565-1,575 range.

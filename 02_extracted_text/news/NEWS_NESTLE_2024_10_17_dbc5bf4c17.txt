@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rises 0.54% ahead of Budget 2025, bucking regional trend
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/17/fbm-klci-rises-054-ahead-of-budget-2025-bucking-regional-trend
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI bucked the downtrend seen in regional stock markets to end higher ahead of the Budget 2025 announcement tomorrow. The 30-stock index closed up 8.81 points, or 0.54% at 1,641.44 after moving between its intraday high of 1,642.93 and low of 1,633.72. The market’s breadth was positive, with more stocks finishing higher. Specifically, 634 counters ended higher, while 391 declined. The trading volume was 2.7 billion shares, valued at RM2.45bil.
+
+[NEWS_P002] Among the gainers, Malaysian Pacific Industries jumped RM1.06 to RM27.08, BLD Plantation rose 58 sen to RM11.50, FCW Holdings gained 22 sen to RM1.25 and Kuala Lumpur Kepong added 20 sen to RM21.24. Conversely, Nestle tumbled RM1.50 to RM104.50, Heineken slid RM1.20 to RM23.24, Carlsberg fell 60 sen to RM19.98 and Mega First declined 17 sen to RM4.30. On the forex market, the ringgit, the region's best-performing currency this year, fell 0.4% to 4.3140 against the US dollar.
+
+[NEWS_P003] The local currency depreciated by 0.13% against the pound sterling, now at 5.6002, and traded flat against the Singapore dollar at 3.2822. On the external front, Japan’s Nikkei 225 fell 0.69%, Hong Kong’s Hang Seng Index closed down 1.02% and South Korea’s Kospi declined 0.04%. China’s CSI300 Index closed down 1.13% while Shanghai Composite Index lost 1.05%.

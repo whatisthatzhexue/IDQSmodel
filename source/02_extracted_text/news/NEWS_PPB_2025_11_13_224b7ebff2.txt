@@ -1,0 +1,22 @@
+[TITLE]
+Bursa Malaysia mixed at midday as sentiment turns cautious
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-11-13
+source_name: The Star
+url: https://www.thestar.com.my/business/2025/11/13/bursa-malaysia-mixed-at-midday-as-sentiment-turns-cautious
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Shares on Bursa Malaysia closed the morning session mixed, tracking regional trends as investors digested the US Senate’s passage of a government funding bill ending the nation’s longest shutdown. The local bourse continued to see broad-based support, led by the banking, construction and property sectors. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) edged up 0.88 of a point, or 0.05 per cent, to 1,632.49, from Wednesday’s close of 1,631.61.
+
+[NEWS_P002] The benchmark opened 2.18 points higher at 1,633.79 and fluctuated between 1,631.29 and 1,635.27 during the morning session. Decliners outnumbered gainers 460 to 402, while 548 counters were unchanged, 1,329 untraded and 10 suspended. Turnover totalled 2.46 billion units, valued at RM1.27 billion. Rakuten Trade Sdn Bhd vice-president of equity research Thong Pak Leng said sentiment was lifted by the imminent re-opening of the US government, coupled with the Federal Reserve’s December rate adjustments.
+
+[NEWS_P003] News reports said US President Donald Trump signed into law a funding agreement through the end of January, ending the historic shutdown. "On the domestic front, the FBM KLCI remained above the 1,630 mark as the market undergoes minor consolidation. The undertone is now more stable, and we expect the index to hover within the 1,630-1,640 range today,” he said. Among heavyweights, Maybank, Public Bank and CIMB rose two sen to RM9.96, RM4.29 and RM7.61, respectively.
+
+[NEWS_P004] Tenaga Nasional added four sen to RM13.44, while IHH Healthcare gained one sen to RM8.25. On the most active list, TWL was flat at 2.5 sen, Genting Malaysia increased one sen to RM2.36, VS Industry rose four sen to 51 sen, and Tanco and Zetrix AI added half-a-sen each to 94.5 sen and 85.5 sen, respectively. Top gainers included Fraser & Neave, up 96 sen to RM32.00; Dutch Lady , up 52 sen to RM27.80; and VSTecs, up 27 sen to RM4.49. Malayan Cement and Aeon Credit each rose 17 sen to RM6.70 and RM5.40.
+
+[NEWS_P005] Among the top losers, Nestle fell 40 sen to RM112.50, Malaysian Pacific lost 30 sen to RM30.70, United Plantations dropped 24 sen to RM26.00, while PPB and Petronas Dagangan declined 22 sen each to RM11.68 and RM22.44. On the index board, the FBMT 100 Index gained 13.95 points to 11,880.69, the FBM Emas Index rose 14.89 points to 12,120.63, the FBM Emas Shariah Index advanced 13.93 points to 12,136.66, the FBM ACE Index added 1.30 points to 5,065.97, and the FBM Mid 70 Index climbed 52.47 points to 17,007.94.
+
+[NEWS_P006] Sector-wise, the Plantation Index edged down 11.16 points to 8,162.32, the Financial Services Index strengthened 48.05 points to 18,475.91, the Industrial Products and Services Index rose 0.98 of a point to 168.71, while the Energy Index inched up 2.50 points to 760.59. - Bernama

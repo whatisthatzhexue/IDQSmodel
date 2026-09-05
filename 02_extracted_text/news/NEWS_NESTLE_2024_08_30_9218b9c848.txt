@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rebounds on strong US economic forecast
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/30/fbm-klci-rebounds-on-strong-us-economic-forecast
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The market recouped some of the previous day's losses following the release of a US economic projection that showed faster-than-expected growth. The benchmark FBM KLCI started Friday 4.93 points higher at 1,658.48, tracking the performance of the Dow Jones Industrial Average, which notched another record high overnight. US markets were lifted as the Commerce Department's Bureau of Economic Analysis said in its second estimate that US gross domestic product increased at a 3% annualised rate last quarter, an upward revision from 2.8% reported earlier.
+
+[NEWS_P002] Investors have now turned to watching the core personal consumption expenditures (PCE) report scheduled for release tonight. Malacca Securities Research said it expects the decline in Nvidia's share price overnight to weigh on the overall technology sector, especially given the stronger ringgit environment. "However, the stronger ringgit could benefit the consumer sector, as evidenced by FFB and Spritzer's improved performance this quarter. "Additionally, during the corporate earnings season, several property, construction, and selected O&G stocks showed growth in their results," it said in a note.
+
+[NEWS_P003] On the FBM KLCI, foreign interest in banks remained robust with CIMB rising three sne to RM8.03, Maybank gaining four sen to RM10.72 and Public Bank adding one sen to RM4.71. Tenaga Nasional rose 24 sen to MR14.18, PPB climbed 16 sen to RM14.50 and Nestle gained 40 sen to RM101. Among actives, Luster added 0.5 sen to 7.5 sen, Barakaha rose one sen to eight sen and Velesto rose gained one sen to 22 sen.

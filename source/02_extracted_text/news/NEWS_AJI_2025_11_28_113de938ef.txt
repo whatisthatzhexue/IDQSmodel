@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia in a sea of red as over 800 counters tumble
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-11-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/28/bursa-malaysia-in-a-sea-of-red-as-over-800-counters-tumble
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia closed in a sea of red on Friday, with more than 800 counters falling amid broad-based selling. The FBM KLCI slid 12.99 points, or 0.8%, to 1,604.47 after moving between an intraday high of 1,617.26 and a low of 1,597.68. For the week, the index was down 0.8%, and it has fallen 0.3% so far this month, while year-to-date, the benchmark index has declined 2.3%. Market breadth turned negative, with losers outnumbering gainers by 815 to 353, giving a breadth ratio that effectively meant about two stocks fell for every one that rose.
+
+[NEWS_P002] With more than twice as many counters declining, bearish sentiment persisted as selling pressure weighed on the broader market. Dealers said market breadth stayed negative as investors remained selective, with the latest batch of corporate earnings showing a mix of hits and misses and offering few fresh catalysts. They added that sentiment stayed cautious on this final trading day of the month as participants assessed whether the market’s recent weakness would persist amid ongoing external uncertainties.
+
+[NEWS_P003] In today’s session, KLCI-component stocks were overwhelmingly negative, with 23 decliners and four risers, while the remainder closed unchanged. YTL Power registered the biggest drop, declining 8.43%, or 30 sen, to RM3.26, while CIMB provided the biggest lift to the index, rising 2.27%, or 17 sen, to RM7.65. Other decliners included Nestlé, which slid RM2.10 to RM106.90, Malaysian Pacific Industries , which lost RM1.08 to RM31.92, United Plantations, which fell 40 sen to RM28.22, and Petronas Gas, which declined 34 sen to RM17.52.
+
+[NEWS_P004] Among the gainers, BLD Plantation jumped 90 sen to RM15.80, Allianz added 30 sen to RM18.98, Allianz-PA rose 20 sen to RM19.40, and Ajinomoto gained 18 sen to RM13.66. On the forex market, the ringgit firmed 0.08% against the US dollar to 4.1293 and edged up 0.09% against the Singapore dollar to 3.1810. MSCI’s broadest index of Asia-Pacific shares outside Japan slipped 0.5%, with regional markets ending mixed. Japan’s Nikkei 225 rose 0.17% to 50,253.91, while South Korea’s Kospi fell 1.51% to 3,926.59 and Hong Kong’s Hang Seng eased 0.34% to 25,858.89.
+
+[NEWS_P005] China’s blue-chip CSI300 Index gained 0.25% to 4,526.66, while the Shanghai Composite Index added 0.34% to close at 3,888.60.

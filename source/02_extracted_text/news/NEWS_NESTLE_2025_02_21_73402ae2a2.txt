@@ -1,0 +1,16 @@
+[TITLE]
+Bargain-hunting to begin on Bursa Malaysia
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-21
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/21/bargain-hunting-to-begin-on-bursa-malaysia
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI bounced slightly higher in early morning trade following three successive days of losses. The benchmark index was up 2.25 points to 1,579.92, with investors awaiting the release of corporate results, which are expected for today and over the ensuing week. Overnight, Wall Street stocks declined following a weak forecast by retail giant Walmart, which weighed down sentiment over the US economy. Additionally, sentiment was also affected by the hawkish commentsfrom the Federal Reserve on interest rates amid a challenging economic environment.
+
+[NEWS_P002] However, Rakuten Trade expects the FBM KLCI to bounce back on bargain-hunting opportunities as the index experienced consecutive declines over the past week from the 1,600 mark. "For today, we expect the index to trend within the 1,575-1,585 range," it said. Notable gainers on the market included Nestle up 14 sen to RM89.88, United Plantations rising 52 sne to RM31.76 and PETRONAS Dagangan adding 82 sne to RM20.08. Sunway Construction climbed 16 sen to RM4.28.
+
+[NEWS_P003] Of actives, Ingenieur was flat at 5.5 sen, TWL rose 0.5 sen to 2.5 sen and Aimflex dropped 0.5 sen to 11 sen.

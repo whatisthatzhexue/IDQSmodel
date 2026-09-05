@@ -1,0 +1,32 @@
+document_id: MDA_7237_PWROOT_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 22, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+In the wider global context, the Group benefited from favourable market movements this past year. The lower price of
+raw materials, coffee in particular, contributed to an improvement in margins. At the same time, the strengthening of
+the US dollar (USD) against the Ringgit (MYR) boosted our export-led sales earnings.
+[MDA_P015]
+Fairuz, a P. Ramlee look-alike who also sounds like the
+legendary actor-singer, helped us recreate and relive the happy memories and taste of yesteryears which is what the
+Warung brand stands for. EXPORTS
+The Group’s export sales increased from RM173.5 million to RM208.7 million in the past year. This rise was led by
+distribution channel improvements and sales force efficiency and effectiveness. In keeping with changes made in our local operations, the Group also took measures to improve on our operations abroad. In China, Power Root has restructured our online business by setting up a dedicated and experienced online sales team
+to further penetrate China’s fast-growing e-commerce sector. In addition, we have repositioned each individual online
+channel for more robust growth. We set up two subsidiaries - Power Root HK-China Company Limited and Power Root
+(Shanghai) Food Trading Co., Ltd - to improve the supply chain management of our goods. Additionally, we engaged a
+third-party logistic partner to allow for better control in the supply of goods to our customers. Management Discussion And Analysis
+Cont’d
+[MDA_P021]
+Power Root Berhad Registration Number: 200601013517 (733268-U) I Annual Report 2020
+As such, the total dividends paid for FYE 2020 is 12.5 sen per share amounting to RM50.9 million, representing a
+dividend payout ratio of approximately 99.0%. The Group’s dividend policy is to maintain a minimum of 50% dividend payout ratio in appreciation of shareholders’
+loyalty and participation in our growth journey. BUSINESS OUTLOOK
+As we take our first steps into the uncertain economic and social environment post-MCO, the Group expects weak
+consumer sentiment to continue and we believe that the beverage industry will remain competitive and challenging. Going forward, we are adapting our sales strategy to different consumer behaviours in a post-MCO world. We will
+increase our focus on reaching potential customers online, while evaluating traditional marketing and promotional
+activities for the time being. Given that coffee typically enjoys inelastic demand, we are also maintaining new product
+launch plans for the year. Furthermore, we will continue to improve on our production and cost efficiencies as well as increase the focus and
+engagement with our sales force and distributors.

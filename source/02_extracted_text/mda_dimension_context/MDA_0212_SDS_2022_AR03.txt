@@ -1,0 +1,95 @@
+document_id: MDA_0212_SDS_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Governmental SOPs to close all non-
+essential businesses and services impacted the Group’s operations and potential earnings from the
+retail channel as the retail outlets had to comply with certain SOPs including restricted dine-in, social
+distancing, closure of schools, malls and non-essential sectors had also affected foot traffic. Although
+the bakery section of the Group’s operations was classified as essential goods and was allowed to
+operate, the impact to revenue stream from the café operations was dampened during this period. Part of the Group’s responsibility as a caring corporate citizen was to ensure the wellbeing of its
+employees during this period. The Group participated in the employees’ vaccination program under
+PIKAS to increase its employees’ vaccination rate and ensure the customers’ wellbeing and peace of
+mind through this action. In addition, when market activities resumed, it also ensured that the Group
+was ready to function at normal operational capability in the endemic stage. The Group pivoted its strategy to meet the pandemic challenge by introducing a digital solution to
+meet market demand.
+[MDA_P004]
+During this quiet period, which lasted up till the middle of FYE 2022, the Group intensified its F&B’s research and
+development ("R&D") programs, swinging into full roll out once the Government announced the easing of pandemic
+restrictions. Its refinement of products and offerings, along with a new café menu was incubated during this period. On the operation front, the business development team looked into new potential locations for expansion, while
+simultaneously renegotiating existing tenancy agreements with malls and landlords for rebates and rental relief during
+this period. The wholesale channel was also affected by the COVID-19 restrictions as there was lower demand for wholesale bakery
+products from customers due to the closure of hotels, schools, factory canteens and others. This knock-on effect to the
+Group’s order book allowed for some corresponding strategies including:
+a. The review of distribution networks and reorganisation of sales distribution routes of affected delivery vehicles;
+b. Expansion of coverage area by sourcing new customers;
+c. Promotional marketing campaigns at local and regional retail chains to boost sales; and
+d.
+[MDA_P005]
+Expansion of customers base through collaboration with more local and regional retail chains. Thankfully, as the vaccination rate of the nation rose and the country entered the endemic phase, there was a relaxation
+of SOPs by the third quarter of FYE 2022. This meant that the economy and interstate borders were fully reopened. With
+the easing of SOPs, all F&B outlets were reopened for normal operation hour and dine-in with social distancing observed
+became the new norm. The Group’s R&D during the quieter period of the pandemic paid off. Customers walked in again
+and the Group experienced a recovery in sales figures from the café operations. Meanwhile, the wholesale orders began
+to flow in once again as the economy regained strength. REVIEW OF OPERATIONS
+Retail Channel
+The chief success of the retail segment over the years has been the Group’s fundamentals in providing excellent service,
+affordable and delicious food with nutritious and healthy qualities. The diversity of offering and variety in the menu is
+also what caters to the customers’ tastebuds. On the financial side, the Group exercises prudent spending and balances
+its R&D activities with the scalability of roll out.
+[MDA_P006]
+In FYE 2022, the Group experienced slower operations, especially in malls, when they were closed temporarily under the
+Government’s lockdown rules. However, the Group’s key strategic pivot towards the enhancement of food ordering and
+delivery experience for its customers was realised through the improvement in delivery services and collaboration with
+externally established food delivery service providers. In line with this, the Group’s R&D introduced changes to the café
+menu for better product variety and experience for customers as well as launching a ready-to-eat series of products to
+cater to the ever-changing palate of customers’ preference. All of these activities added to the Group’s previous innovation of having its own contactless payment system through
+the SDS mobile application, which includes an e-Wallet feature, customer hotline service that facilitates pre-ordering,
+collection or delivery of products and a rejigged marketing strategy of selling festive items on third-party online platforms
+has helped the Group reached out to its customers during the pandemic and also adapt to the new norms of consumer
+behaviour. ANNUAL REPORT 2022 | 015
+SDS GROUP BERHAD
+[MDA_P007]
+Financial Indicators
+FY2022
+RM’000
+FY2021
+RM’000
+Difference
+(%)
+Revenue
+198,283
+173,778
+14.1%
+Gross Profit
+61,596
+52,988
+16.2%
+Gross Profit Margin
+31.1%
+30.5%
+1.9%
+Profit Before Tax
+14,103
+9,589
+47.1%
+Profit After Tax Attributable to
+Owners of the Company ("PAT")
+10,618
+7,271
+46.0%
+Net profit margin
+5.4%
+4.2%
+28.0%
+Wholesale Channel
+As mentioned in the overview, the wholesale channel’s market penetration grew with the addition of the Gua Musang
+distribution centre, however the first half of FYE 2022 required a relook into the Group’s distribution network as closures
+of non-essential sectors had a knock-on effect on the Group’s order book. Among some of the actions taken by the Group
+included cost control over the replanning of sales distribution routes and streamlining the operating and manufacturing
+processes. On the customer end of operations, the Group improved its variety of products and offered it to customers at
+reasonable and competitive prices. The accessibility to customers became the Group’s main innovation for this channel
+as it ensured that coverage and customer base of the distribution network was improved.

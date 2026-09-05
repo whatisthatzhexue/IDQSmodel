@@ -1,0 +1,94 @@
+document_id: MDA_7035_CCK_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 104.154, "paragraph_count": 43, "paragraph_length_distribution": {"max": 1196, "mean": 797.977, "min": 81}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+Profit Before Tax
+RM 112.03
+million
+Current Ratio
+3.91
+times
+Earnings Per Share
+11.51
+sen
+Revenue
+RM 1,057.65
+million
+Profit After Tax
+RM 71.58
+million
+Total Assets
+RM 767.96
+million
+Total Liabilities
+RM 155.11
+million
+[MDA_P011]
+CCK CONSOLIDATED HOLDINGS BERHAD
+8 |
+MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d)
+REVIEW OF OPERATIONS
+[MDA_P022]
+CCK CONSOLIDATED HOLDINGS BERHAD
+10 |
+In December 2024, CCK successfully
+completed the disposal of a stake in
+PT Adilmart to Astrantia. Having grown
+our Indonesian manufacturing business
+at double-digit rates since our venture
+more than a decade ago, we are excited
+to welcome Astrantia as a partner as we
+work hand-in-hand to take this business
+to the next level. This transaction
+marks a significant step in enhancing
+our value-creation potential, as we
+leverage our partnership with Astrantia
+to unlock new growth opportunities
+through combined expertise. Following
+the first closing date of the transaction
+(23 December 2024), Astrantia now
+owns 37.7% of PT Adilmart. Looking ahead, we are optimistic that
+this strategic alignment will add a new
+dimension to our growth strategies
+and accelerate our pace of expansion. Beyond
+unlocking
+operational
+efficiencies, Astrantia will also support
+the expansion of production capacity,
+the opening of new sales channels, and
+brand building. With this partnership, we
+are well-positioned to drive long-term,
+MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d)
+sustainable growth for PT Adilmart.
+[MDA_P033]
+CCK CONSOLIDATED HOLDINGS BERHAD
+14 |
+Ling Ting Leong @
+Ling Chong Seng
+Senior Independent Director
+AGE | 73
+NATIONALITY | MALAYSIAN
+GENDER | MALE
+Mr. Ling Ting Leong @ Ling Chong Seng is a member of Audit Committee. He joined
+CCK Consolidated Holdings Berhad (“CCK”) Group in 1983 and was responsible for
+the finance and corporate secretarial matters of CCK Group. He was appointed as
+Executive Director to the Board of CCK on 15 July 1997, and was re-designated as Non-
+Independent Non-Executive Director on 1 July 2013. He was subsequently re-designated
+as Independent Director on 13 April 2020 and appointed as Senior Independent Director
+on 1 June 2023. Mr. Ling is a businessman with a wealth of experience. He also sits on the boards of
+various private limited companies. From 1971 to 1982, Mr. Ling gained his experience in accounting and auditing. He
+is a Certified Company Secretary and is a member of the Malaysian Association of
+Company Secretaries (“MACS”) since 2001. He was appointed as Sarawak Liaison
+Co-Chairman of MACS since 11 October 2011. He was then appointed as Sarawak
+Region Committee Deputy Chairman of MACS since 29 December 2015. Mr.
+[MDA_P043]
+CCK CONSOLIDATED HOLDINGS BERHAD
+18 |
+Job Analysis Workshop
+Participation in Kuching Festival

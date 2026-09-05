@@ -1,0 +1,16 @@
+[TITLE]
+Investors on Bursa Malaysia take pause as 13MP set to be tabled
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-07-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/31/investors-on-bursa-malaysia-take-pause-as-13mp-set-to-be-tabled
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia continued to be range-bound as investors awaited the tabling of the 13th Malaysia Plan, which would map out the country's development over the next five years. Investors are also digesting the overnight decision by the Federal Reserve to maintain the interest rate, as well as the latest US economic report that showed above-expected growth. Further compounding investor anxiety, The Aug 1 deadline for the implementation of a US tariff is tomorrow, keeping investors on edge as they hope for news of a lowered levy on Malaysian goods.
+
+[NEWS_P002] At 9am, the FBM KLCI was a half-point lower at 1,525.6, as investors kept to a holding position. "Blue chips are expected to consolidate with a downward bias, as investors await policy signals from the 13th Malaysia Plan amid lingering uncertainty over U.S. tariffs as the August 1 deadline nears," said TA Securities in its daily market commentary. On the market, Nestle slipped 10 sen to RM87.30, Tenaga Nasional dropped six sen ot RM13.22 and Press Metal shaved five sen to RM5.41.
+
+[NEWS_P003] Gainers included Itmax jumping 13 sen to RM4.08, PPB gaining 13 sen to RM9.44 and Heineken adding 12 sen to RM23.84. Of actives, Pharmaniada lost 0.5 sen ot 15.5 sen, Zetrix gained two sen to 86.5 sen and TWL was unchanged at 2.5 sen.

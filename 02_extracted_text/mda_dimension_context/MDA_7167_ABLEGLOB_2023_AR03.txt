@@ -1,0 +1,92 @@
+document_id: MDA_7167_ABLEGLOB_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 65, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+AGB is an investment holding company with its subsidiaries engaging in Tin Cans Manufacturing (“Tin
+Cans”) and the Food and Beverage (“F&B”) segments. The Tin Cans segment involves manufacturing
+of various tins, cans and other containers and providing tinplates printing services. The F&B segment
+involves manufacturing and selling of milk and other related dairy products, as well as packing and
+trading of all types of dairy products.
+[MDA_P005]
+For Tin Cans segment, most of the customers are locally based, with minor market share in Singapore.
+The customer base consists of various industries mainly in biscuit, paint and chemical, edible oil and
+food processing industries. As for the tinplates printing services, most of the printing services are
+exported within South-East Asia market as well as local market.
+[MDA_P006]
+Whilst for F&B segment, approximately 80% of the dairy products are exported, mainly to West
+Africa, South-East Asia Region and American Continent. The dairy products comprise of sweetened
+condensed milk, evaporated milk, UHT full cream plus flavoured milk as well as milk powder packed in
+both bulk and consumer packs.
+2.
+REVIEW OF FINANCIAL RESULTS AND FINANCIAL CONDITION
+[MDA_P007]
+For FYE 2023, the Group achieved revenue of RM648.09 million as compared to RM549.82 million in the
+previous financial year, an increase of RM98.27 million. Profit before tax increased by RM26.39 million to
+RM69.19 million as compared to RM42.80 million in the previous financial year.
+[MDA_P008]
+For Tin Cans segment, the revenue decreased by RM6.95 million to RM117.18 million from RM124.13 million
+mainly due to lower sales demand in current year.
+[MDA_P009]
+As for the F&B segment, the revenue increased by RM105.21 million to RM530.91 million from RM425.70
+million mainly due to the increase in the sales demand from the customers.
+[MDA_P010]
+Profit before tax of Tin Cans segment decreased by RM7.79 million to RM18.59 million from RM26.38 million
+is in line with the decrease in revenue and increase in cost of production in current year.
+[MDA_P011]
+For F&B segment, the profit before tax increased by RM33.42 million to RM51.88 million from RM18.46
+million mainly due to the increase in sales demand in the current year.
+[MDA_P014]
+In FYE 2023, the total borrowings increased by RM15.99 million to RM269.95 million from RM253.96 million
+mainly due to short term trade financings through trust receipts for the purchase of raw materials. Despite
+the increase in total borrowings, the gearing ratio decreased by 2.05% to 61.00% from 63.05% due to the
+increase in shareholders’ equity.
+[MDA_P015]
+On the investors’ perspective, the return on equity increased by 3.48% to 11.82% from 8.34%. The return
+on total assets increased by 1.86% to 6.52% from 4.66%. Both the increases of the returns are due to the
+increase in profitability in FYE 2023.
+[MDA_P016]
+Interest coverage ratio is approximately 14 times in FYE 2023 as compared to 23 times in the previous
+financial year, which reflects the Group’s ability to pay off its debts against current year’s profit.
+[MDA_P017]
+As for share information, the earnings per share (“EPS”) is 16.86 sen for the FYE 2023 as compared to 10.85
+sen in the previous financial year. The net assets per share (“NAPS”) increased by 13 sen to RM1.44 for FYE
+2023 against RM1.31 in the previous financial year. The price earnings (“PE”) ratio is 8.90 for FYE 2023 as
+compared to 12.44 in the previous financial year. The share price in FYE 2023 and in the previous financial
+year was at RM1.50 and RM1.35 respectively.
+[MDA_P019]
+The main factors that affected the operating activities in the Tin Cans segment are fluctuation in raw materials
+prices and machineries maintenance.
+[MDA_P020]
+Raw material prices directly affect the profitability of the Group. To remain competitive, we have always
+strived to provide the most competitive prices to our customers. The Management is actively monitoring the
+raw materials cost and engages with the customers on the selling price adjustments. The Management is
+always vigilant in monitoring the cost of manufacturing to stay competitive in the industry and ensure that
+this segment maintains its profitability.
+[MDA_P022]
+For F&B segment, the main factor that affected the operating activities was volatility in raw materials prices.
+[MDA_P026]
+The Group’s revenue and operating results could be adversely affected by many factors which include,
+amongst others, the costs of raw materials, costs of labour as well as maintenance costs of equipment
+and machineries.
+[MDA_P027]
+The Group attempts to mitigate these risks by continuously monitoring the prices of key raw materials,
+expanding the pool of suppliers and customers whilst continuing to establish long-term business
+relationship with the existing suppliers and customers, expanding the existing business by enhancing
+the Group’s strength and developing new products. However, we cannot provide any assurance that
+the above-mentioned measures will be successful in mitigating the adverse effect of business risks
+mentioned on the materiality of the financial position and performance of the Group.
+B.
+Political, Economic and Regulatory Considerations
+[MDA_P031]
+The Group faces competition from both new entrants and existing players which offer similar products.
+High product quality, manufacturing efficiency, marketing, reasonable pricing and ranges of products
+are critical factors towards ensuring the success and sustainability of the business.
+[MDA_P032]
+The Group will continue to take strategic measures and continuous review of the operational efficiency
+to move ahead of competition by addressing the factors above. Whereas for the F&B segment, the
+barriers to entry are mainly the relative high capital investment to set up the manufacturing facilities,
+established distribution channels, compliance with stringent safety standards and strong research and
+development capabilities.

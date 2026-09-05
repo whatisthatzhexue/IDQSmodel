@@ -1,0 +1,102 @@
+document_id: MDA_3255_HEIM_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 77, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 166.796, "paragraph_count": 77, "paragraph_length_distribution": {"max": 1195, "mean": 870.87, "min": 29}, "repetition_ratio": 0.051948, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+“The cover of our Annual
+Report 2020 is symbolic of our
+organisation’s collective sentiment
+during the difficult time, it
+represents our team spirit to keep
+the lights shining in the
+darkness, and it reflects
+our commitment as One
+Strong Winning Team to
+stay true to our purpose:
+Brewing a Sustainable
+Future for Our People,
+Business and Planet.”
+Roland Bala
+Managing Director
+One Strong
+Winning Team
+[MDA_P020]
+ANNUAL REPORT 2020 | HEINEKEN MALAYSIA BERHAD
+OUR OUTLOOK
+On outlook, the Covid-19 pandemic and perpetual lockdowns
+with restrictions on social activities are expected to continue
+impacting the business. We expect that continued uncertainties
+due to the Covid-19 pandemic which will impact the speed of
+our business recovery. On 16 February 2021, the Government
+launched its National Covid-19 Immunisation Programme which
+is aimed to help the population achieve herd immunity by 2022. We are in support of this initiative and have encouraged our
+employees to register for the programme. We will navigate the crisis while building for our future, with
+a strategy aimed at delivering superior growth in a fast-
+changing world, placing consumers and customers at the core,
+accelerating our digital route to consumer, as well as raising
+the bar on our sustainability and people agenda. We will also
+front load our agenda to implement continuous productivity
+improvements to drive efficiency in 2021. At the same time,
+we will continue to prioritise the health and wellbeing of our
+employees, trade partners, and consumers. The overall business environment is expected to remain
+challenging.
+[MDA_P039]
+ANNUAL REPORT 2020 | HEINEKEN MALAYSIA BERHAD
+Growing Our People
+TALENT DEVELOPMENT
+Asia Pacific Graduate Programme
+Since 2016, we have sought to attract the best talent through
+the Asia Pacific Graduate Programme (APGP). Fresh graduates
+hired at the end of a comprehensive selection process undergo a
+two-year cross-functional training programme that involves four
+six-month rotations, two of which take place in other HEINEKEN
+operating companies in the Asia Pacific (APAC) region outside
+of Malaysia. Throughout the programme the participants are
+mentored by senior leaders across the business. In 2020, we received 1,008 applicants for the APGP compared
+to 850 the year before. After a competitive and stringent
+assessment process, we hired one new recruit in 2020 compared
+to three in 2019. 1,008
+APGP
+APPLICANTS IN 2020
+RECRUIT HIRED
+IN 2020
+ETHICS & INTEGRITY
+We are built on a strong foundation of ethics. By applying those
+same ideals to every element of our business, HEINEKEN has
+crafted a unique success story that spans more than 150 years
+globally. The same values that guided the Company through
+its initial years continue to be shared with our employees
+and partners.
+[MDA_P058]
+To navigate the challenges of the Covid-19 pandemic,
+we leveraged our existing network of partnerships with
+local communities and NGOs to provide the necessary
+support to vulnerable families faced with the loss of
+income during the lockdown. Many of these families in
+the B40 (bottom 40% of income group) communities
+relied on jobs that paid daily wages and could not
+perform their jobs nor have alternative sources of
+income during the crisis. HEINEKEN Malaysia partnered
+with an NGO – MyKasih Foundation to identify those
+most in need and channeled funds directly into
+the National Identity Cards of each beneficiary to
+enable them to purchase basic food items during the
+lockdown. In total, our efforts enabled 3,120 families
+to prepare 80,000 meals. Many of the recipients who
+live in neighboring communities to our brewery were
+extremely grateful for the fast and effective way help
+was channeled to them.
+h Tiger Sin Chew Chinese Education Charity Concert
+[MDA_P077]
+Organised by CSR Malaysia publication and Corporate
+Sustainability and Responsibility Malaysia Welfare Society,
+winners were selected based on the clear purpose and goals
+of the corporate responsibility initiatives, effectiveness,
+impact as well as the frequency of the projects. HEINEKEN Malaysia was recognised for its initiatives in the environment particularly in protecting water resources through its
+W.A.T.E.R Project and also the Company’s initiatives in supporting education particularly through the Tiger Sin Chew Chinese
+Education Charity Concert and English Enrichment Training Programme.

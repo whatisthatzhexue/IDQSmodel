@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI edges up on cautious optimism despite external uncertainties
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-07-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/02/fbm-klci-edges-up-on-cautious-optimism-despite-external-uncertainties
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended the morning session on a firmer note, as improved sentiment and selective buying supported the broader market despite lingering external uncertainties. At 12.30 pm, the FBM KLCI rose 6.81 points, or 0.44%, to 1,548.34, just shy of its intraday morning high of 1,549.78. There were 397 gainers, 430 decliners, while 469 stocks remained unchanged. The traded volume stood at 2.1 billion shares worth RM1.2bil. TA Securities noted that local market sentiment is likely to turn cautious, as investors await further clarity on ongoing trade negotiations.
+
+[NEWS_P002] It added that a looming deadline next week could see the Trump administration reimpose sweeping tariffs. “Immediate index support remains at 1,490, with stronger supports found at 1,465, followed by 1,444. “Immediate resistance stays at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead,” TA said. Malacca Securities maintains a positive stance on data centre (DC) and renewable energy (RE) related stocks, given the recent agreement signed by Gamuda with a renewable energy developer.
+
+[NEWS_P003] “Also, with Tenaga Nasional’s capex extending into 2H25, we believe this will benefit power infrastructure specialists as well as cable manufacturers. “On the construction front, we expect the sector to trade on a firmer footing, on the back of higher project billings and anticipation of the final alignment announcement for the ART system in Johor, with an estimated value of RM6bil to RM7bil,” it said. Malaysian Pacific Industries rose 28 sen to RM21.68, PETRONAS Dagangan added 20 sen to RM21.46, Panasonic Manufacturing gained 16 sen to RM11.80 and MISC climbed 15 sen to RM7.70.
+
+[NEWS_P004] Meanwhile, consumer stocks were among the top losers on Bursa Malaysia. Dutch Lady dropped 50 sen to RM29.24, F&N fell 28 sen to RM28.80, Ajinomoto eased 10 sen to RM12.80, and Amway declined eight sen to RM5.02. ACE Market debutant, ASM Automation, fell 0.5 sen to 16.5 sen with 45.15 million shares traded.

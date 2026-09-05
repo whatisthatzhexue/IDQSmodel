@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI extends gains at midday amid broad market strength
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/12/fbm-klci-extends-gains-at-midday-amid-broad-market-strength
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI continued its upward momentum at midday, supported by broad-based gains across Bursa Malaysia. At lunch break, the 30-stock index settled 11.11 points, or 0.67%, higher at 1,636.23, just a tad below its intramorning high of 1,636.50. All Bursa Malaysia indices closed in positive territory. Trading sentiment was positive, with 576 gainers, 367 losers and 503 unchanged. Turnover stood at 1.72 billion shares worth RM1.07bil. Gainers included PETRONAS Gas, which rose 34 sen to RM17.62, Tenaga Nasional, which added 20 sen to RM12.94, Hong Leong Bank, which climbed 20 sen to RM21.80, and Bintulu Port, which advanced 14 sen to RM5.49.
+
+[NEWS_P002] Among the decliners, Nestle slid 60 sen to RM113.60, Dutch Lady fell 50 sen to RM29.60, Batu Kawan lost 14 sen to RM19.22, and F&N declined 12 sen to RM34.80. Malacca Securities expects the FBM KLCI to end the week on a positive note following the Fed’s interest rate cut. “Given the stronger ringgit environment and the dovish-inclined Fed, we believe banks will continue to outperform, potentially leading the FBM KLCI higher for a December rally,” it said.
+
+[NEWS_P003] Meanwhile, TA Securities said stocks are expected to rise further, with bargain-hunting interest in selected blue-chip heavyweights likely to emerge following recent corrections. “Immediate resistance remains intact at the December 2024 high of 1,644, with the highs of 1,684 and 1,695 acting as tougher upside hurdles. “Immediate support is capped at the 61.8% Fibonacci Retracement (FR) at 1,564, with stronger supports seen at the 50% FR at 1,527, followed by the 38.2% FR at 1,490,” it added.

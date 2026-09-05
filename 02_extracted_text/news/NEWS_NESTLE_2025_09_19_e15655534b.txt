@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI retreats after flat open, tracking cautious sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/19/fbm-klci-retreats-after-flat-open-tracking-cautious-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI opened nearly flat on Friday before slipping into the red, despite Wall Street’s record-high closes overnight after the US Federal Reserve cut interest rates by 25 basis points. Overnight, Wall Street’s main indices closed at record highs on Thursday, a day after the US Federal Reserve delivered a quarter-point interest rate cut. The Dow Jones Industrial Average rose 124.10 points, or 0.27%, to 46,142.42. The S&P 500 gained 31.61 points, or 0.48%, to 6,631.96, while the Nasdaq Composite added 209.40 points, or 0.94%, to 22,470.73.
+
+[NEWS_P002] Back home, the FBM KLCI slipped 2.11 points, or 0.13%, to 1,596.77 at 9.22 am. The benchmark opened nearly flat at 1,598.99, edging down just 0.06 points. Among the decliners, PETRONAS Dagangan slid 46 sen to RM22.48, Sunway Construction fell nine sen to RM6.26, Kotra Industries lost eight sen to RM4.17 and Gamuda declined seven sen to RM5.51. In contrast, Malaysian Pacific Industries jumped 54 sen to RM29.08, Nestle added 42 sen to RM95.42, Allianz-PA rose 34 sen to RM17.84 and UWC climbed 20 sen to RM3.53.
+
+[NEWS_P003] Rakuten Trade said it was surprised by the sell-down yesterday, as it had expected the local bourse to remain fairly well supported. “Nonetheless, we believe this as a brief correction and that bargain hunters will be back anytime soon. As such, we anticipate the index to trend within the 1,600-1,610 range today,” it said. Meanwhile, Berjaya Research Sdn Bhd said the FBM KLCI is likely to trade with a cautious bias going forward, as global uncertainties continue to weigh on investor sentiment.
+
+[NEWS_P004] It said while the pullback below the 1,600 level signals near-term profit-taking, downside risks may be cushioned by expectations of sustained domestic consumption and ongoing macro policy support. “Still, foreign fund flows will remain a key swing factor, with investors closely monitoring shifts in global risk appetite. Economy-wise, investors will be keeping a close tab on Malaysia’s trade data later today,” Berjaya Research said. Technically, the research house noted that the key index posted a gap down and a bearish candle, closing just below the 1,600 psychological level.
+
+[NEWS_P005] The near-term support at 1,585 may be retested, and if it fails to hold, the next support is seen at 1,580. “Conversely, the FBM KLCI needs to reclaim the 1,600 level in a bid to charge towards the resistances at 1,617 points, which is followed by 1,620 points,” it added.

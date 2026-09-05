@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI maintains slight lead on final day of results period
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-02-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/02/29/fbm-klci-maintains-slight-lead-on-final-day-of-results-period
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The local benchmark stock index managed to keep slightly ahead at midday after a volatile session in which early gains were mostly erased in the latter half of the morning. The sentiment on the local bourse has been capped by uncertainty over the impending release of the US personal consumption expenditures report, which is expected to serve up a big clue as to the direction of the Federal Reserve's next rate decision. Investors are also taking stock of the latest corporate announcements as Bursa Malaysia moves closer to wrapping up the fourth quarter results period.
+
+[NEWS_P002] At 12.30pm, the FBM KLCI was up 2.86 points to 1,548.45 as blue-chip counters bounced back from the previous day's sell-off. The lower liners, however, remained subdued with 678 counters on the decline compared to 263 gainers and 416 unchanged. Over the early session, total trading volume was 2.37 billion shares valued at RM1.54bil. Stocks that drove the FBM KLCI higher included PETRONAS Chemicals, gaining 11 se ot RM6.96, Tenaga Nasional rising 24 sen to RM11.20, Kuala Lumpur Kepong climbing 28 sen to RM22.46 and PPB adding 28 sen to RM15.60.
+
+[NEWS_P003] Hong Leong Bank added 20 sen to RM19.82 while parent Hong Leong Financial Group rose 22 sen to RM16.90. YTL Power, however, slumped for a second day after losing 18 sen to RM3.83, while YTL Corp dropped 11 sen to RM2.53. Of actives on the broader market, Hong Seng was unchanged at 1.5 sen, HM rose one sen to 15.5 sen and Velesto was up one sen to 29 sen. Meanwhile, key Asian markets were lower in anticipation of US inflation data. Japan's Nikkei slid 0.3% to 39,060 while South Korea's Kospi gained 0.2% to 2,646.
+
+[NEWS_P004] China's composite index bounced back 0.7% to 2,979 following the previous day's rout, as did Hong Kong's Hang Seng, up 0.15% to 16,561.

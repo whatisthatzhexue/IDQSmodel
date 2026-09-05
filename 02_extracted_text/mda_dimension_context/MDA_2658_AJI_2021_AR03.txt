@@ -1,0 +1,160 @@
+document_id: MDA_2658_AJI_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W) | ANNUAL REPORT 2021
+Our Policy
+As an established and trusted food seasoning company in Malaysia, it is the Company’s policy to consistently develop
+and distribute high quality and safe food products that meet customers’ needs and satisfaction, and at the same time
+comply with international and local laws and regulations for food manufacturing. This is the Company’s contribution to
+the joyful and healthy living of the community and society. The Company is committed to being an exemplary corporate citizen. We remain steadfast in our effort to conserve the
+environment, an integral component of the business ecosystem. As a responsible employer, the Company is committed
+to providing a safe and healthy working environment for all its employees. Product Range
+Consumer Products
+From distributing a single product, namely, AJI-NO-MOTO® Umami seasoning in 1961, the Company today manufactures
+and distributes a wide range of seasoning and food products. This includes chicken stock, all-in-one seasoning, menu
+seasoning, pepper, sweetener and flavoured drink with amino acids.
+[MDA_P003]
+The Company will continue to expand and improve
+its product range with innovative, high quality and convenient products to meet changing consumer behaviour and
+needs. In July 2021, the Company launched 2 new variants of its seasoned flour, namely, Seri-Aji® Fried Fritter (Tepung
+Goreng Cucur) and Seri-Aji® Banana Fritter (Tepung Goreng Pisang). Seri-Aji® seasoned flour has gained high acceptance
+for its quality ingredient and good taste among households. These two new seasoned flour allows the consumer to enjoy
+the crispy and delicious fritters with fast and convenient preparation.
+[MDA_P004]
+Industrial and Food Service Products
+The Company manufactures a wide range of taste and flavour enhancing products as well as binders and texture
+improvers for the food manufacturing and food industries, which are marketed under the names - TENCHO and ACTIVA®.
+These products are widely used in various processed food such as instant noodle, soup, snack, sauce, dairy product,
+processed meat and seafood.
+[MDA_P005]
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d.)
+M-2000
+1kg
+PROD DATE
+EXP DATE
+LOT NO. :
+:
+:
+07/05/2018
+06/05/2019
+JT8222
+S/N : 00001
+MS1500:2009
+1092-02/2004
+Cautions : Hygroscopic product. Please store in cool dry place,
+away from direct sunlight and aromatic materials. Manufactured by:
+AJINOMOTO (MALAYSIA) BERHAD (4295-W)
+Lot 5710, Jalan Kuchai Lama, Petaling, 58200 Kuala Lumpur, Malaysia. Tel: +603-7980 6958 Fax: +603-7980 6817 URL: http://www.ajinomoto.com.my
+M-CHICKEN FB
+1kg
+PROD DATE
+EXP DATE
+LOT NO. :
+:
+:
+07/05/2018
+06/05/2019
+JT8222
+S/N : 00001
+MS1500:2009
+1092-02/2004
+Cautions : Hygroscopic product. Please store in cool dry place,
+away from direct sunlight and aromatic materials. Manufactured by:
+AJINOMOTO (MALAYSIA) BERHAD (4295-W)
+Lot 5710, Jalan Kuchai Lama, Petaling, 58200 Kuala Lumpur, Malaysia. Tel: +603-7980 6958 Fax: +603-7980 6817 URL: http://www.ajinomoto.com.my
+M-SUPER P
+1kg
+PROD DATE
+EXP DATE
+LOT NO. :
+:
+:
+07/05/2018
+06/05/2019
+JT8222
+S/N : 00001
+Cautions : Hygroscopic product. Please store in cool dry place,
+away from direct sunlight and aromatic materials.
+[MDA_P006]
+Manufactured by:
+AJINOMOTO (MALAYSIA) BERHAD (4295-W)
+Lot 5710, Jalan Kuchai Lama, Petaling, 58200 Kuala Lumpur, Malaysia. Tel: +603-7980 6958 Fax: +603-7980 6817 URL: http://www.ajinomoto.com.my
+MS1500:2009
+1092-02/2004
+M-SUPER KMI
+1kg
+PROD DATE
+EXP DATE
+LOT NO. :
+:
+:
+07/05/2018
+06/05/2019
+JT8222
+S/N : 00001
+Cautions : Hygroscopic product. Please store in cool dry place,
+away from direct sunlight and aromatic materials. Manufactured by:
+AJINOMOTO (MALAYSIA) BERHAD (4295-W)
+Lot 5710, Jalan Kuchai Lama, Petaling, 58200 Kuala Lumpur, Malaysia. Tel: +603-7980 6958 Fax: +603-7980 6817 URL: http://www.ajinomoto.com.my
+MS1500:2009
+1092-02/2004
+TG-SR-MH
+1kg
+07/05/2018
+06/05/2019
+JT8222
+S/N : 00001
+Cautions: * Avoid direct contact with eyes or skin through splashing.
+[MDA_P014]
+* Product is unstable against oxygen and high temperatures,
+[MDA_P027]
+* Product is unstable against oxygen and high temperatures,
+[MDA_P033]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W) | ANNUAL REPORT 2021
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d.)
+India
+OVERSEAS MARKET
+Countries where we export our products to
+China
+Taiwan
+Indonesia
+Singapore
+Brunei
+New Zealand
+MauriƟus
+Maldives
+Sri Lanka
+Hong
+Kong
+Phillippines
+Guatemala
+Brazil
+Peru
+Colombia
+Cambodia
+Myanmar
+Jordan
+Kuwait
+Qatar
+United
+Arab
+Oman
+Yemen
+Bahrain
+Saudi Arabia
+Thailand
+Vietnam
+South Africa
+Ghana
+Nigeria
+Australia
+Japan
+South Korea
+Sales Branches & Overseas Market
+The Company has 10 branches in Malaysia and 1 sales office in Saudi Arabia.

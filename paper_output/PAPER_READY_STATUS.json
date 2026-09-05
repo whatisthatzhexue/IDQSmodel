@@ -1,0 +1,38 @@
+{
+  "advisory_warnings": [
+    "missing input: 11_stability_analysis/reports/statistical_stability_report.md"
+  ],
+  "blocking_reasons": [
+    "mda_stability_success_rate",
+    "cross_validation_not_interpretable",
+    "cross_validation_run_complete",
+    "reproducibility_package_incomplete",
+    "statistical_stability_validation_exists"
+  ],
+  "claim_link_count": 0,
+  "cross_validation_empirical_ready": false,
+  "cross_validation_pipeline_ready": true,
+  "cross_validation_ready": false,
+  "eligible_company_year_pair_count": 11,
+  "freeze_allowed": false,
+  "mda_final_dataset_size": 149,
+  "mda_human_validation_ready": false,
+  "mda_ready": false,
+  "mda_semantic_ready": false,
+  "mda_stability_success_rate": 0.0,
+  "mda_structural_ready": false,
+  "mock_mode": false,
+  "news_company_focused_dataset_size": 0,
+  "news_final_dataset_size": 125,
+  "news_ready": true,
+  "paper_ready": false,
+  "recommended_next_actions": [
+    "repair MD&A JSON/schema/stability failures without changing dimensions or weights",
+    "rerun cross-validation after real News scoring/text are available",
+    "build reproducibility package and rerun readiness check"
+  ],
+  "reproducibility_ready": false,
+  "synthetic_news_count": 0,
+  "system_level_error_rate": 0.0,
+  "systemic_conflict_flag": false
+}

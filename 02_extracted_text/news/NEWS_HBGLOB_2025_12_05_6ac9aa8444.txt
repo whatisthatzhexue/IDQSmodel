@@ -1,0 +1,22 @@
+[TITLE]
+Trading ideas: DRB-Hicom, Al-Aqar, Haily, Pharmaniaga, Gagasan Nadi, Paragon, Orkim, BMS, VS Industry, APB, Destini, MSC, Only World, HB Global, Jetson
+
+[METADATA]
+ticker: HBGLOB
+company_name: HB Global Limited
+publish_date: 2025-12-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/05/trading-ideas-drb-hicom-al-aqar-haily-pharmaniaga-gagasan-nadi-paragon-orkim-bms-vs-industry-apb-destini-msc-only-world-hb-global-jetson
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. DRB-Hicom Bhd has revised its acquisition price for Spirit Aerosystems Malaysia to US$110.6mn, higher than the earlier estimate due to additional cash adjustments. Al-Aqar REIT is disposing of its Bukit Mertajam property for RM12mn, below market valuation and original cost, as part of its capital recycling strategy to divest underperforming assets and strengthen its balance sheet.
+
+[NEWS_P002] Haily Group Bhd has secured a RM42.9mn contract to build 187 terraced houses and a substation in Kulai, Johor with works running from Dec 15 to March 2027. Pharmaniaga Bhd is acquiring a RM26mn industrial facility in Kota Kinabalu to expand its logistics capacity under its concession obligations and support future growth. Gagasan Nadi Cergas Bhd has received shareholder approval to acquire a 69.4% stake in student hostel concessionaire Konsortium PAE Sepakat Sdn Bhd for RM127.3mn, funded partly through a Sukuk Wakalah facility of up to RM330mn.
+
+[NEWS_P003] Paragon Globe Bhd , via PGB Landmark Sdn Bhd is selling a 5.45-hectare freehold land in Tanjung Kupang, Johor, to GSP Automotive Malaysia Sdn Bhd for RM64.5mn. Orkim Bhd posted a third-quarter net profit of RM13.3mn on RM72.9mn revenue, with performance supported by improving fleet utilisation following completion of environmental compliance upgrades. BMS Holdings Bhd , set to list on the ACE Market on Dec 8, posted a first-quarter net profit of RM5.4mn on RM84.8mn revenue, and remains cautiously optimistic on continued sector growth supported by resilient demand and government housing initiatives.
+
+[NEWS_P004] VS Industry Bhd returned to profitability in 1QFY2026 with a RM30.6mn net profit, driven by seasonally stronger sales, impairment reversals and improving order flow including new model launches and a new customer. APB Resources Bhd , its subsidiary AMC has filed an arbitration claim against BASF PETRONAS Chemicals seeking €1.9mn in unpaid contract sums and €439,482 for additional works related to a steam boiler and turbine project completed in 2019.
+
+[NEWS_P005] Destini Bhd has appointed former MRT Corp CEO Datuk Seri Dr Shahril Mokhtar as executive director and added two independent non-executive directors namely Datuk Syed Haizam Hishamuddin Putra Jamalullail and Datuk Wilfred Yong Chen Leong. Malaysia Smelting Corporation Bhd has resumed mining operations at its 80%-owned subsidiary, Rahman Hydraulic Tin Sdn Bhd, effective Dec 4, 2025, following a temporary suspension due to a regulatory probe into river discolouration.
+
+[NEWS_P006] Only World Group Holdings Bhd announced that its wholly-owned subsidiary, Magnificent Empire Sdn. Bhd., has been served a Writ of Summons and Statement of Claim by Global Built Sdn. Bhd. over an alleged default on a 2019 settlement agreement related to the KOMTAR revitalisation project. HB Global Limited proposes a private placement of up to 78.2mn new shares, representing 10% of its issued share capital, to independent third-party investors. Kumpulan Jetson Berhad proposes a private placement of up to 41.68mn new shares, representing 10% of its issued share capital.

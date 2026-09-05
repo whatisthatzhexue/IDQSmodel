@@ -1,0 +1,14 @@
+document_id: MDA_4065_PPB_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+6. Supply chain disruption risk Disruptive worldwide events such as climate change and geopolitical tensions expose the Group to supply chain
+[MDA_P005]
+disruption risks. The Group recognises the need for our supply chains to be resilient. To mitigate the impact, actions being taken include close monitoring of global supply and demand, strategic procurement of raw materials, diversification of supply sources and optimisation of operational efficiencies through our Group’s extensive procurement experience and technical competency.
+[MDA_P006]
+Group Outlook and Prospects for 2025 Looking to 2025, while the global environment continue to pose
+[MDA_P007]
+challenges with some possible downside risks from slowdown of trading partners and business restrictions, growth of the Malaysian economy will continue to be bolstered by robust expansion in investment activity, resilient household spending and expansion in exports supported by Malaysia’s strong economic fundamentals. Inflation is also expected to remain manageable. The economy will benefit from these cascading effects. In light of these projections, the Group will remain steadfast in executing our strategic business plans, capitalising on emerging opportunities while proactively addressing potential challenges. With deep market insights into our various business segments, we are well-positioned to navigate the evolving market landscape and align our efforts accordingly to drive sustainable growth. Despite ongoing challenges in the global grain market,

@@ -1,0 +1,15 @@
+document_id: MDA_9946_ETA_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P009]
+Outlook and Prospects
+The Group’s business will remain challenging and volatile due to the uncertainty caused by Covid-19 pandemic. We are,
+however, encouraged by our performance in the last quarter of FYE 2021. We are cautiously confident of building on this
+positive momentum into FYE 2022. With the aggressive rate of vaccination programs being rolled out in Malaysia, along with a streamlined product portfolio, our
+proven strategies and plans and great teamwork, the group remains optimistic on further strengthening our market position. Covid-19 has resulted in more frugal consumers and a shift in purchase sites and habits. At-home consumption, e-commerce,
+modern trade and budget RM2.00 shops are gaining firmer traction. Budget RM2.00 shops will see greater relevance going
+forward but while it offers a good avenue to expand our business into, eroding margins may pose a challenge. The group sees improvements for its margins going forward as we continue to improve our production efficiency, product
+mix and grow our topline.

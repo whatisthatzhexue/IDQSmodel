@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends on a flat note
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-08-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/15/fbm-klci-ends-on-a-flat-note
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI swung between gains and losses on Thursday before ending the day marginally higher. The market barometer added 0.59-of-a point, or 0.04% to 1,612.94. The market traded within a range of nine points between an intra-day high of 1,614.69 and a low of 1,605.69 during the session. All indices on Bursa Malaysia ended lower, except for the Bursa Malaysia Financial Services and Healthcare. There were 285 gainers, 768 losers and 482 counters traded unchanged on the Bursa Malaysia.
+
+[NEWS_P002] About 3.6 billion shares, valued at RM2.8bil, changed hands. Panasonic Manufacturing , the top gainer on Bursa Malaysia, rose 24 sen to RM19.66. CIMB added 12 sen to RM7.53, Heineken gained 12 sen to RM23.62 and Batu Kawan climbed 10 sen to RM19.50. Nestle tumbled RM1.80 to RM106.10, PETRONAS Dagangan slid 50 sen to RM18.98, F&N lost 32 sen to RM29.18 and S P Setia declined 23 sen to RM1.29. Meanwhile, stock market data showed that foreign investors bought a net RM41mil on Wednesday.
+
+[NEWS_P003] Local institutions and retailers were net sellers, offloading RM333mil and RM8mil worth of equities, respectively. On the forex market, the ringgit was down 0.25% against the greenback to 4.4313. Elsewhere in the region, Japan’s Nikkei 225 rose 0.78%, Hong Kong’s Hang Seng Index closed down 0.025%, South Korea’s Kospi advanced 0.88% and China’s CSI300 index gained 0.99%,

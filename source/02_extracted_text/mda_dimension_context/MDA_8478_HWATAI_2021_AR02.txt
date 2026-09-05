@@ -1,0 +1,76 @@
+document_id: MDA_8478_HWATAI_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_8478_HWATAI_2021", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 44, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+FINANCIAL AND OPERATIONS REVIEWS (CONTINUED)
+The breakdown of revenue of the Group in FYE2021 and FYE2020:
+FYE2021
+RM’000
+%
+FYE2020
+RM’000
+%
+Export sales
+12,505
+12,094
+Local sales-
+Hwa Tai & OEM Products
+60,873
+62,856
+Total
+73,378
+74,950
+The Group had registered a revenue of RM73.38 million in the current financial year ended 31 December 2021
+(“FYE2021”), a marginal 2% drop from RM74.95 million achieved in the previous financial year ended 31 December
+2020 (“FYE2020”). It attributed decrease of revenue in FYE2021 to reduced sales from local markets in Peninsular and East Malaysia
+in general trade segment, partially offset by higher sales recorded from International Sales market and E-commerce
+business. Our international market accounted to about 17% of the Group’s revenue in FYE 2021 as compared with 16% in
+FYE2020. The remainder was from the domestic market of 83% and 84% in FYE2021 and FYE2020 respectively. As our biscuits are part of essential food, our export market was not adversely affected in FYE2021 and its export
+sales was on par as compared with previous year.
+[MDA_P002]
+Certain countries like Thailand, Indonesia and Philippines, saw
+an increase in demand in our biscuits in FYE 2021 but was partially offset by the decline of sales due to lockdown
+in certain countries especially in Middle East due to Covid-19 pandemic. The performance of international market
+would have been better but was affected mainly by the exorbitant freight charges that have gone up few folds. While our export market has room for growth, we may face challenges with more competition as the market is
+getting crowded with more low quality producers surfacing from various other countries, the spread of Covid-19
+pandemic, increase in price of commodities, as well as pushing up the cost of freight horrendously. The higher domestic sales registered in FYE2020 was due to the outbreak of Covid-19 pandemic, Movement
+Control Order (“MCO”) was imposed by the Malaysia Government starting from 18 March 2020 to curb its spread. Malaysians were forced to stay at home for long periods following the imposition of MCO.
+[MDA_P003]
+Social distancing and
+other restrictions imposed due to Covid -19 have meant people are not dining out as much as before and caused
+the increase in spending on groceries including our biscuits for home consumptions. FYE 2021, domestic sales fell 3.15% to RM60.87 million from RM62.86 million a year ago, mainly due to the easing
+of various MCO, Malaysian started to dine out and spent less on groceries for home consumptions. To remain competitive in both international and domestic markets, distribution channel improvement, sales force
+efficiency and effectiveness, continuous spending on advertising and promotional activities such as, among others,
+on-going social media interactions, on-ground events & activities, roadshows, price rebates, engaging promoters,
+gondola ends, block displays, mailer supports, prize contests etc. are carried out for our products to be more
+attractive and competitive to consumers. The Group reported a loss of RM1.91 million in FYE2021 as compared to a profit of RM1.09 million, a year ago in
+FYE2020.
+[MDA_P004]
+> HWA TAI INDUSTRIES BERHAD : Annual Report 2021
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+FINANCIAL AND OPERATIONS REVIEWS (CONTINUED)
+The loss reported in FYE2021 was mainly attributed to the Group recording a lower revenue, very much higher
+operating cost mainly caused by rising price of raw materials and packing materials due to continuous increase in
+price of commodities which are major cost components for our products. The Company had on 10 November 2021
+received a notice from the Ministry of Health, Malaysia to temporarily close its factory located at Batu Pahat, Johor,
+Malaysia from 11 November 2021 to 20 November 2021 to curb the spread of the coronavirus Covid-19 infection at
+the said premise. The temporary suspension had further severely dampened the performance of the Group due to
+the delay in delivery of products for both domestic and international sales order.
+[MDA_P005]
+The Group had incurred total expenses of RM21.08 million in FYE2021, a marginal 1.76% decrease from RM21.45
+million in FYE2020. The expenses were mainly from advertising and promotional expenses, staff cost, depreciation
+on property, plant and equipment and impairment loss on trade receivable. These expenses were also formed partly
+from selling and distribution expenses, administration expenses and other expenses. Other income of RM0.23 million in FYE2021 and RM0.50 million in FYE2020 was primarily derived from interests
+earned on deposits placed at financial institutions for both of the financial years and reversal of impairment loss for
+investment in associate for FYE2020. The Group had fully provided the impairment loss on the remaining cost of investment in our China associated
+company, Shan Dong Yingerle Hwa Tai Food Industry Co. Ltd in financial year ended 31 December 2018 (“FYE2018”). The impairment loss arose from prolonged decline in value of investment and significant financial difficulty in the
+associated company. Thus, there will be no material impact on the Group’s results irrespective of the performance
+of the associate neither in FYE2021 or coming years.

@@ -1,0 +1,18 @@
+[TITLE]
+Wilmar’s Indonesia unit charged for sugar import
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/22/wilmars-indonesia-unit-charged-for-sugar-import
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: The Indonesian subsidiary of PPB Group Bhd ’s 18.8%-owned associate, Wilmar International Ltd, has been charged by the Indonesian Public Prosecutor for carrying out unlawful acts relating to the import of raw sugar, which allegedly caused losses amounting to 578 billion rupiah (approximately US$36mil) to Indonesia. In a filing with Bursa Malaysia through PPB, Wilmar said the company’s Indonesian subsidiary, PT Duta Sugar International (DSI), along with representatives of eight other refined sugar producers in Indonesia, has been charged for the aforementioned offence.
+
+[NEWS_P002] Together, these nine sugar producers account for the majority of the refineries processing imported raw sugar into refined sugar in Indonesia. The nine sugar producers were required to place a security deposit totalling 565.34 billion rupiah (approximately US$35mil) with the Indonesia Attorney General (AG). DSI’s share of this deposit was 41.23 billion rupiah (approximately US$2.5mil). Wilmar said the financial impact of the US$2.5mil deposit paid by DSI, if forfeited, will not be material to it.
+
+[NEWS_P003] The position of the nine sugar producers in relation to these charges has always been that they were acting in accordance with a directive by the then-trade minister Thomas Trikasih Lembong, to partner with the state-owned trading company, PT Perusahaan Perdagangan Indonesia, in importing raw sugar and distributing refined white sugar for the purpose of addressing the domestic sugar shortage problem in Indonesia in 2016. The said former trade minister was arrested in October 2024 and subsequently charged by the AG for violating the relevant trade regulation.
+
+[NEWS_P004] In approving the issue of import permits to the nine sugar producers, the AG claimed that the former minister had helped to enrich the nine sugar producers and that his actions had allegedly caused 578 billion rupiah in state losses (of which 7.8% or 45 billion rupiah was DSI’s alleged share) as the profit made by the nine sugar producers should have gone to the state-owned company.

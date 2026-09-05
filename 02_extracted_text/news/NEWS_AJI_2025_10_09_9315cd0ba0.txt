@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI edges higher on bargain hunting, upbeat regional sentiment
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-10-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/09/fbm-klci-edges-higher-on-bargain-hunting-upbeat-regional-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bargain hunting and optimism ahead of Budget 2026 helped the FBM KLCI end slightly higher in tandem with positive regional markets. At closing, the FBM KLCI rose 2.17 points, or 0.13% to 1,629.67 after hitting an intraday high of 1,632.53 and a low of 1,626.67. In the broader market, gainers outpaced decliners, with 743 stocks ending higher while 391 closed lower, giving a market breadth of 1.90, signalling that the bulls maintained the upper hand.
+
+[NEWS_P002] Turnover came to 4.74 billion shares valued at RM3.62bil. Dealers said the local bourse recorded modest gains on the back of bargain-hunting activities following recent losses in previous sessions. Among the gainers, Ajinomoto jumped 34 sen to RM13.90, Malaysian Pacific Industries rose 34 sen to RM31.16, Malayan Cement added 30 sen to RM7.08, while Hong Leong Industries climbed 26 sen to RM14.28. On the downside, Heineken slid 32 sen to RM20.70, Bintulu Port lost 30 sen to RM5.50, PETRONAS Dagangan fell 30 sen to RM22.70, and F&N eased 28 sen to RM28.10.
+
+[NEWS_P003] Top Glove jumped 15.52%, or nine sen to 67 sen, with 112.23 million shares. The glove maker posted a net profit of RM38.56mil in the fourth quarter from a net loss of RM6.64mil in the year-ago quarter. Quarterly revenue rose to RM889.62mil from RM833.74mil in 4QFY24. On the external front, most Asian markets ended higher, with Japan’s Nikkei 225 rising 1.77% and South Korea’s Kospi gaining 2.7%. Hong Kong’s Hang Seng Index slipped 0.28%, while China’s CSI 300 advanced 1.48% and the Shanghai Composite added 1.32%.

@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia extends losses to close lower
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-03-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/20/bursa-malaysia-extends-losses-to-close-lower
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Share prices on Bursa Malaysia closed lower on Wednesday on lack of follow-through support with profit-taking seen in selected counters. The bellwether FBM KLCI closed down 9.17 points, or 0.59% at 1,535.79. The market traded within a range of 10.23 points between an intra-day high of 1,546.00 and a low of 1,535.77 during the session. Winners and losers were balanced, with 509 gainers against 509 losers and 485 that were flat. About 3.81 billion shares, valued at RM2.65bil, changed hands.
+
+[NEWS_P002] Dealers said there was profit-taking in selected index-linked counters and a lack of follow-through buying today. Among the losers, Nestle fell 60 sen to RM118.90, Ideal Capital lost 30 sen to RM3.30, F&N slid 14 sen to RM29.50 and CIMB declined 13 sen to RM6.48. Ajinomoto jumped 42 sen to RM18.76, Apollo Food added 39 sen to RM7.39, Ge-Shen rose 36 sen to RM4.15 and Malaysian Pacific Industries advanced 30 sen to RM29.80. Among the banks, CIMB slid 13 sen to RM6.48, Hong Leong Bank fell 12 sen to RM19.32, Maybank lost eight sen to RM9.57 and RHB Bank declined three sen to RM5.64.
+
+[NEWS_P003] AmBank and Public Bank fell four sen each to RM4.08 and RM4.24 respectively. Asian markets were mostly higher. Hong Kong’s Hang Seng rose 0.08% to 16,543.07, China’s CSI 300 index gained 0.22% to 3,585.38 while Shanghai Composite Index added 0.55% to 3,079.69. South Korea’s Kospi closed up 1.28% to 2,690.14. Tokyo's Nikkei is closed for a holiday in Japan.

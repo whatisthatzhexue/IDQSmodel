@@ -1,0 +1,132 @@
+document_id: MDA_2836_CARLSBG_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 68, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P005]
+Carlsberg paid tribute to and honoured the beautiful arts and culture, amazing wildlife and
+natural wonders of the Borneo islands by launching six limited-edition festive cans featuring
+the orangutan, majestic mountains and rafflesia of Sabah, as well as the longhouse, hornbill
+and sape of Sarawak. The six-month-long campaign received overwhelming response. Local
+consumers were proud to see an international brand promoting local icons and thus, many
+purchased our beverages as collectible and celebration brews.
+•
+Carlsberg’s 30-year partnership with Liverpool FC anniversary campaign
+[MDA_P013]
+WHO WE ARE
+SAILING
+FORWARD
+PRIORITIES
+AND COMMITMENTS
+FINANCIAL STATEMENTS
+OTHER INFORMATION
+CARLSBERG BREWERY MALAYSIA BERHAD [196901000792 (9210-K)]
+LEADERSHIP
+CREATING
+SUSTAINABLE VALUE
+In 2022, we started planning for the
+implementation of a new industry-leading
+end-to-end supply chain system, OnePlan,
+which connects all aspects of supply chain
+planning including demand, supply, inventory,
+production and materials planning. This will
+help us to optimise our processes and reduce
+manual work, while achieving better integration
+in our planning processes. Challenges Faced
+We met the challenges of disruptive sales forecasts and uncertainties
+in the trade as on-trade outlets reopened. We managed to overcome
+these challenges by improving our data and analytic processes in
+order to seize opportunities for greater efficiencies and effectiveness
+in supply planning and distribution. Sailing Forward
+As we transition to SAIL’27, we will keep improving our FIT execution
+and leverage the use of a new business-to-business online ordering
+system - Carl’s Shop - to drive portfolio mix and premiumisation.
+[MDA_P014]
+Fund the Journey by delivering efficiencies and building
+growth capabilities
+Our Fund the Journey culture drives efficiencies in our businesses
+and helps us to reduce costs in the long run by prioritising the
+reinvestment of our financial capital into our commercial growth
+agenda. This strategic priority has been well integrated since its
+introduction in 2016 as part of SAIL’22. It has since matured to
+a point where we are leveraging value management to build
+growth capabilities, accelerating cost optimisation initiatives and
+delivering higher supply chain efficiency. A key milestone in 2022 was the decision to channel RM108
+million of capital expenditure into replacing two bottling lines
+with a state-of-the-art glass bottling line. This will not only
+deliver higher production efficiency, but also enable greater
+flexibility in packaging options and improve our sustainability
+performance in terms of energy usage and waste management. This was a huge facility upgrade that saw the dismantling of the
+old lines and which took many skilled workers and engineers
+approximately 40 weeks to complete.
+[MDA_P015]
+Challenges Faced
+As with any other project of such scale and complexity,
+especially amid the global supply chain disruption and labour
+shortages, we experienced delays in installation and faced a
+slower rate of production initially. However, we overcame this challenge by conducting rigorous
+testing-and-commissioning to resolve technical glitches. We
+also deployed risk mitigation measures and interventions with
+additional technical experts and increased production hours to
+meet the year-end festive and Chinese New Year peak seasons. Sailing Forward
+As we enter the first year of SAIL’27, our Malaysia operations
+will be operationalising the OnePlan programme by the
+second half of 2023 to reduce complexity in demand and
+supply planning. This single, harmonised way of planning will
+transform our ways of working in the commercial, procurement
+and finance areas and enable us to identify capacity constraints
+quicker than today and respond faster to demand. MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P016]
+WHO WE ARE
+SAILING
+FORWARD
+PRIORITIES
+AND COMMITMENTS
+FINANCIAL STATEMENTS
+OTHER INFORMATION
+Integrated Annual Report 2022
+LEADERSHIP
+CREATING
+SUSTAINABLE VALUE
+in collaboration with French artist Michaël Cailloux. Finally, we
+capped off the year with the month-long #GoodTasteWithATwist
+Rue 1664 campaign that transported our guests to a Parisian
+street for an immersive drinking experience. Connor’s Stout Porter outperformed its competition in terms
+of growth with a 71% increase in total volume in Malaysia and
+Singapore from 2021 to 2022. In 2022, we also launched new Connor’s glassware that was
+designed to deliver a smooth, roasty, creamy and well-bodied
+drinking experience. The new and sleek glassware was very well
+received by consumers and customers alike as evidenced by an
+uptick in sales in Malaysia and Singapore. Leveraging the reopening
+of on-trade outlets, we also conducted a nationwide sampling of
+Connor’s-in-cans packaging as consumers enjoyed the premium
+draught-like drinking experience in traditional on-trade.
+[MDA_P021]
+WHO WE ARE
+SAILING
+FORWARD
+PRIORITIES
+AND COMMITMENTS
+FINANCIAL STATEMENTS
+OTHER INFORMATION
+CARLSBERG BREWERY MALAYSIA BERHAD [196901000792 (9210-K)]
+LEADERSHIP
+CREATING
+SUSTAINABLE VALUE
+Build New Revenue Streams with Alcohol-Free Brews
+and e-Commerce
+When SAIL’22 was first introduced in 2016, we recognised
+that the preference for craft beers was a rapidly evolving
+and growing trend in Europe, North America and parts of
+Asia. Hence, in 2017, our Malaysia and Singapore operations
+imported the award-winning craft beer Brooklyn from the
+United States. In 2021, our Singapore operations launched
+Asian craft beer Jing-A, which was well received and saw its
+volume almost doubling in 2022. Craft beers in Malaysia are perceived as niche and lacking
+in availability due to their super-premium pricing, unlike in
+Singapore, where craft beers have gained momentum in
+on-trade and e-commerce. This source of new revenue has,
+however, failed to take off in a big way due to the pandemic
+that took a toll on modern on-trade consumption and stock
+management as a result of global supply chain disruptions.

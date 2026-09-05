@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI continues upward trend, closing higher on Wednesday
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/05/fbm-klci-continues-upward-trend-closing-higher-on-wednesday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed higher on Wednesday, maintaining its steady upward momentum, as bargain hunting continued to fuel investor optimism. The 30-stock index closed up 9.95 points, or 0.64% to 1,574.51. It has risen to an intraday high of 1,576.45. The market's breadth was positive, with 622 counters on Bursa Malaysia closing higher, while 345 declined. The overall turnover reached 2.86 billion shares, with a value of RM2.33bil. Among the gainers on Bursa Malaysia, Nestle jumped RM1.16 to RM89.38, LPI Capital added 54 sen to RM13.36, F&N gained 38 sen to RM25.88 and Kuala Lumpur Kepong climbed 36 sen to RM20.20.
+
+[NEWS_P002] Heineken, the top loser on Bursa Malaysia, slid 34 sen to RM24.04. Kluang fell 14 sen to RM5.98, Silver Ridge declined 11 sen to 48.5 sen and Can-One gave up 10 sen to RM2.30. Meanwhile, foreign investors and local institutions were net sellers on Tuesday, offloading equities worth RM18mil and RM10mil, respectively. Local retailers purchased RM28mil worth of equities. On the forex market, the ringgit was up 0.46% against the US dollar to 4.4242. The local currency has weakened by 0.37% against the pound sterling, now at 5.5421, and by 0.07% against the Singapore dollar, at 3.2793.
+
+[NEWS_P003] On the external front, MSCI’s Asia ex-Japan stock index was higher by 0.48%. Japan’s Nikkei 225 gained 0.08%, South Korea’s Kospi rose 1.11%, Hong Kong’s Hang Seng Index closed 0.93% lower, and China’s CSI 300 dropped 0.58%.

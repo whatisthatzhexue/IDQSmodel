@@ -1,0 +1,51 @@
+document_id: MDA_5533_OCB_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+The plant continuously launched new ranges of
+sauces, which has further broadened our range offerings for both the Food Service and Retail channels. Operationally, the challenge for year 2020 was the increase in wages and cost of raw materials such as soybean
+oil, palm olein and wheat flour. With the increase of the minimum wage to RM1,200 per month per worker, the
+manpower cost was also increased. The Management will continue to automate more production processes to
+reduce dependency on manpower. Spices & Seasonings Specialities Sdn. Bhd. (“Spices”) has implemented barcoding system to improve the accuracy
+and efficiency of its production, delivery and stock management. This helps to automate the traceability process
+from receipt of raw materials through production and delivery of goods to customers. MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P006]
+Sofiya Residensi, Desa ParkCity, Kuala Lumpur
+The retail distribution business remains active but dealers are buying with lesser volume. The Division will spare
+more efforts to promote AKRON and SOX (in-house brands) for year 2021. Its healthcare & public segment has
+intensified its promotional and sales activities since March 2020. The Division had conducted field test for AERUS,
+the air purifier, in a food processing plant and received encouraging result. Year 2021 will remain challenging due to the uncertainties caused by the Covid-19 pandemic. There is lack of
+high-end housing development in the market and this has caused the drop in purchase order value. The recent increase in product and importation costs due to the shortages of shipping containers, port congestion
+and shortages of raw materials will have a negative impact on the Division’s profitability. Coupled with competition
+from direct importers of China products, trading profit in general will remain thin. The Division is setting up a new showroom in Penang. Renovation work had commenced in March 2021 and is
+expected to be completed within 2 months. The Division is projecting to record improvement in revenue in 2021.
+[MDA_P010]
+Going forward, the Division will
+continue to leverage on new sales channel via specialty shops catering mainly to tourists market, online sales and
+pay TV channel. The Division has registered significant growth from online and pay TV channels sales. The Division
+will also further enhance its online sales by adding new merchandise for customer selection. For 2021, the Division will launch new Roll Pack Mattress and re-develop new collection series such as Luxury Hotel
+Collection, Extended Life Collection and Natural Response. Going forward, the Division will continue to leverage on
+digital marketing such as digital billboard, online sales, and Google Ads to enhance the brand awareness among
+the general public. MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P012]
+The Group’s capital commitments was contracted through its 80%-owned subsidiary, Enigma Sinar Sdn. Bhd. which had on 17 August 2020 entered into a Sale and Purchase Agreement to purchase a freehold vacant land at
+Jalan Akob, Kapar, Klang, Selangor, at a cash consideration of RM56.3 million. The purchase was in line with the Group’s strategy to expand into warehousing and distribution to cater to the
+Group’s needs. The Group’s capital commitments contracted but not provided for as at 31 December 2020 were
+RM50.6 million (31 December 2019: Nil). BUSINESS OUTLOOK
+Malaysia’s economy is expected to return to positive growth in 2021. Initial economic recovery is encouraging, but
+unlikely to return to pre-pandemic levels. Sustained progress in vaccine roll-outs can be a positive factor in 2021,
+leading to a strong recovery and demand, as well as boosting trade and commodity prices. Potential government
+support could come via financial stimulus packages targeting the sectors most affected by Covid-19 pandemic.
+[MDA_P013]
+The International Monetary Fund (“IMF”) is projecting Malaysia’s economy to rebound by 7%, while the World
+Bank is forecasting Malaysia’s economy to grow by 6.0% after contracting 5.6% in 2020. Bank Negara Malaysia
+estimated a Gross Domestic Product (“GDP”) growth of 6.5% to 7.5%. The downside risk to the positive forecast would depend on how effective the Government responds to the new
+Covid-19 surge and the impact of the vaccination program. Growth progress can be jeopardized by an unexpected
+delay in the vaccine roll-out, an ineffective MCO containment, an elevated number of vulnerable households and
+domestic political uncertainties. Several economists slashed their 2021 growth forecasts for Malaysia after the Government announced stricter
+measures to contain the surge in Covid-19 cases. The Malaysian Government imposed an inter-state travel
+ban nationwide and a lockdown on 6 states. Malaysia’s continuous MCOs are likely to hit the economy hard. The 6 states and territories under MCO included the capital city, Kuala Lumpur and Malaysia’s richest state,
+Selangor which together accounted for 57% of the population and 65% of gross domestic product.

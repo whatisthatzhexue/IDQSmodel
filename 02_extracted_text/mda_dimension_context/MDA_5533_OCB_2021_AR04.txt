@@ -1,0 +1,65 @@
+document_id: MDA_5533_OCB_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Registration No. 195901000114 (3465-H)
+REVIEW OF THE OPERATING ACTIVITIES (cont’d)
+Consumer Foods Division (cont’d)
+Spices & Seasonings Specialities Sdn. Bhd. received the FSSC 22000 certification in August 2021. With this
+certification which is a program under the Global Food Safety Initiative (“GFSI”) and equivalent to ISO 22000,
+demonstrated that the quality standard and food safety control systems are well run and aligned with international
+standards. With this system in place, we would be able to maintain the highest standard of quality and leverage on
+it to expand our customer base particularly, for OEM projects. Operationally, one of the major challenges for Year 2021 was the unprecedented increase in cost of raw materials
+such as soybean oil, palm olein, wheat flour and a host of other ingredients. These inflationary pressures were
+brought about by a combination of factors such as spike in ocean freight, shortage of vessels and containers, delays
+from port shutdowns, poor yield of crops, and shortage of manpower amongst others.
+[MDA_P003]
+This directly impacted the
+Division’s cost of materials and operations which necessitated the increase in consumer selling price across the
+full range of our Noodles and Salad Dressing products. The other main focus of the Plants’ Management was the prevention, control and management of Covid-19 at the
+Plants. Apart from the setting up of the Covid-19 Response Team in 2020, the Plants also practiced social distancing,
+work from home arrangements, virtual meetings, wearing of PPEs, frequent sanitising, temperature monitoring and
+bi-weekly RTK testing. In total, the Plants reported 56 Covid-19 positive cases in 2021. Another change during the year was the shifting of all foreign workers to a hostel in Mantin, Negeri Sembilan in
+compliance with Act 446, Workers’ Minimum Standards of Housing and Amenities Act 1990. Continuing on the digitization plan, the Division also kicked off the e-Purchase Order project which went live in
+August 2021. With this system in place, the system automatically ensures thresholds for approval are adhered to.
+[MDA_P004]
+The date and time are stamped on the purchase orders based on approval, automatic reminder on delivery date
+emailed to supplier, and automatic reminder on overdue delivery emailed to supplier. It has increased efficiency,
+saved time and cost and enabled the Procurement Team to focus on other improvements and cost savings projects. All in all, Year 2021 has been a challenging year for the Division and it foresees that these challenges will persist for
+the first half of 2022 especially, in the areas of commodities inflation and supply chain uncertainties. The Division
+will continue to focus on automation and digitization to be cost-efficient going forward. Bedding Products Division
+The Division has invested in the operations of The KING KOIL Flagship Stores (“Flagship Stores”). Currently, it has
+14 Flagship Stores via a licensing agreement with dealers selling only specific models. In 2021, 1 new Flagship
+Store was opened in Pavilion Bukit Jalil, Kuala Lumpur. As at 31 December 2021, the Division had Flagship Stores in the following locations:
+1. Viva Mall, Kuala Lumpur
+2. Jalan Bangsar, Kuala Lumpur
+3. Sunway Pyramid, Kuala Lumpur
+4. Old Klang Road, Kuala Lumpur
+5.
+[MDA_P010]
+Registration No. 195901000114 (3465-H)
+REVIEW OF THE OPERATING ACTIVITIES (cont’d)
+Bedding Products Division (cont’d)
+During the financial year under review, the rise in the cost of raw materials such as foam, latex, wire and other
+components had directly impacted the Division’s profitability. In order to partially mitigate the impact of rising cost,
+the Division had increased selling price of its products in mid-December 2021. Building Materials Division
+The industry remains clouded with the Covid-19 pandemic. The Division would have performed better if it was not
+for the deferment of delivery of goods to various key projects due to delay in work progress at the construction sites. The Division resumed a good momentum from Year 2020 and started Year 2021 strongly for the January to February
+period registering growth in sales performance. However, as like in 2020, the Division took a hit when the Government
+announced the FMCO 3.0 in June 2021. Some of the key projects that the Division secured in 2021 included:
+1. Pendang Hospital, Kedah
+2. Golden Wave Hotel, Kota Kinabalu, Sabah
+3. EM Hub 2, Selangor
+4. Aetas Tropicana, Selangor
+5.
+[MDA_P011]
+R4 Condominiun OUG, Kuala Lumpur
+The Division completed its first project which subscribed to its Agrow Assurance Program in 2021. Unfortunately, due
+to the FMCO 3.0 in June 2021, the project owner, BCB Berhad could not invite us to meet individual house buyers. In April 2021, the Division reactivated Agrow Healthtech Sdn. Bhd., a wholly-owned subsidiary of Agrow Corporation
+Sdn. Bhd. This was followed by the restructuring of Agrow Corporation Sdn. Bhd. where some staff and healthcare
+related product lines were transferred to Agrow Healthtech Sdn. Bhd. The Division recorded 1 fatality caused by Covid-19 despite having a perfect 100% double dose vaccination for its
+entire staff in 2021. 27.3% of the Divison’s staff had taken the booster vaccination as at the end of 2021. Year 2022 will remain challenging for the Division due to the uncertainties caused by the Covid-19 pandemic. Development of high-end housing in the market is still lacking and this has caused the drop in purchase order value. Costs of raw materials, shipping and logistic remain high and they show no signs of decreasing. This will have a
+negative impact on the Division’s profitability.

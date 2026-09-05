@@ -1,0 +1,113 @@
+document_id: MDA_5306_FFB_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 41, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 523.762, "paragraph_count": 41, "paragraph_length_distribution": {"max": 2875, "mean": 976.39, "min": 53}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+OUR VALUE CREATING BUSINESS MODEL
+[MDA_P011]
+DESCRIPTION
+Digital technology is transforming how goods are
+produced, marketed and consumed and, with the
+pace of innovation only increasing, will continue to
+disrupt the FMCG and dairy sectors in the years
+and decades to come. At the farm level, automation is reducing the reliance
+on human labour, driving time- and cost-efficiencies
+which can be seen in the bottom line. Furthermore,
+LINK TO
+DIGITALISATION & INDUSTRY 4.0
+with the widespread adoption of data and analytics
+in farm operations, owners are now better able to
+make accurate predictions regarding weather, crop
+conditions, animal health and other key areas,
+enabling better decision making. Looking further downstream, FMCG companies have
+widely adopted digital sales and marketing channels,
+minimising distribution costs and engaging a new
+generation of consumers. The emphasis placed on
+digital channels only increased in the wake of the
+COVID-19 pandemic, as daily life transitioned online,
+and will continue to be a major area of growth
+moving forward.
+[MDA_P021]
+Therefore,
+significant fluctuations in the
+exchange rate between AUD
+and MYR may negatively
+impact our profitability. In the competitive dairy and
+plant-based markets, new
+players may enter with
+advanced technology which
+provides an advantage –
+whether in terms of quality,
+cost or production capacity –
+thereby eroding our market
+share. Cybersecurity forms another
+part of the technological risk
+facing our business, as our
+i n c r e a s i n g l y d i g i t a l i s e d
+production systems and sales
+channels may be subject to
+cyber-attacks if not adequately
+protected. Our farms are a space shared
+by up to thousands of our cows
+at once, and any infection that
+is not properly contained has
+the potential to severely deplete
+our resources and affect
+product quality and safety. In
+turn, this can have a devastating
+impact on our bottom line and
+our reputation. Fluctuations in Foreign
+Currency Exchange Rates
+Link to Material Matters:
+Link to Capitals:
+Technological Risk
+Link to Material Matters:
+Link to Capitals:
+Biosecurity
+Link to Material Matters:
+Link to Capitals:
+| 01 | 02 | Section 03 Management Discussion and Analysis | 04 | 05 | 06 | 07 | 08 |
+[MDA_P031]
+Maintaining
+and growing this pool of talent
+will be crucial as we seek to
+expand our capabilities, offer
+new products and access new
+markets. HOW WE ADDRESS IT
+WHY IT MATTERS
+Corporate environmental
+responsibility and climate
+a c t i o n a r e i n c r e a s i n g l y
+becoming key determinants in
+consumer choice and investor
+support. Furthermore, we have
+a responsibility to minimise the
+negative impact of our farms
+and processing facilities on
+local communities. LINK TO
+Stakeholders:
+Capitals:
+LINK TO
+Stakeholders:
+Capitals:
+· Install a solar PV facility at our Taiping farm
+· Install biogas plants at our Taiping and Muadzam Shah farms
+for renewable energy generation, which will make use of animal
+waste as its key input
+· Reduce our carbon footprint in line with internally-set Scope 1
+and Scope 2 targets
+· Increase our proportion of products sold in sustainably sourced,
+recyclable packaging
+· Set specific sustainability-linked criteria for supplier evaluation
+and selection
+Future Plans:
+| 01 | 02 | Section 03 Management Discussion and Analysis | 04 | 05 | 06 | 07 | 08 |
+[MDA_P041]
+* The Board of Directors has recommended a single-tier final dividend of 1.07 sen per ordinary share amounting to RM20.0
+million in respect of FY2022 subject to shareholders’ approval at the forthcoming Annual General Meeting of the Company. @ Calculated using Normalised PAT. 5-YEAR FINANCIAL SUMMARY
+| 01 | 02 | Section 03 Management Discussion and Analysis | 04 | 05 | 06 | 07 | 08 |

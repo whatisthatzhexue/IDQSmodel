@@ -1,0 +1,104 @@
+document_id: MDA_7243_MAGMA_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 26, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+FPE 2022
+Revenue
+14,458
+26,725
+(45.9%)
+Gross Profit (“GP”)
+16,543
+15,153
+9.2%
+Gross Profit Margin (“GPM”)
+114.4%
+56.7%
+Administrative Expenses
+(12,420)
+(13,051)
+4.8%
+Other Cost
+(17,141)
+(15,928)
+(7.6%)
+(Loss) Before Tax (“LBT”)
+(13,018)
+(13,826)
+5.8%
+(Loss) After Tax from Continued Operations (1) (“LAT”)
+(13,100)
+(14,307)
+8.4%
+Note:
+(1)
+Attributable to owner of the Company
+For the fiscal year concluded on 31 December 2023 (“FYE2023”), Magma Group Berhad (“Magma” or the “Group”)
+faced a year filled with considerable challenges and pivotal strategic shifts. The Group’s revenue for FYE2023
+reached RM14.46 million, a decrease from the RM26.73 million reported in FPE2022. This change reflects the Group’s
+adaptation to market fluctuations and its dedicated efforts towards refining operational efficiency across its business
+segments. Despite these endeavours, the Group encountered a Loss After Tax (“LAT”) of RM13.10 million for FYE2023,
+an improvement from the LAT of RM14.31 million in the preceding year, indicating the effectiveness of the Group’s
+strategic realignments and cost management initiatives in a turbulent economic environment.
+[MDA_P005]
+The summary of the Statement of Segmented Revenue is as follows:
+(RM ’000)
+FYE 2023
+FPE 2022
+(18 Months)
+Variance FYE
+2023 vs. FPE 2022
+Hotel Operation
+12,077
+13,556
+(10.9%)
+Hotel Management
+4,832
+5,147
+(6.1%)
+Property Development
+(2,451)
+8,022
+(>100%)
+Total Revenue
+14,458
+26,725
+(46.2%)
+In FYE2023, Magma Group Berhad navigated through a period of recalibration and strategic refinement across its
+business segments. The Hotel Operation segment emerged as a significant contributor, generating RM12.08 million,
+which constituted a substantial portion of the Group’s total revenue. This performance underscores the segment’s
+recovery and resilience, buoyed by increased occupancy rates and Average Room Rates (“ARR”), reflecting a rebound
+in the hospitality sector, particularly with the influx of travellers from China. The Hotel Management segment also demonstrated notable performance, contributing RM4.83 million to the revenue. This improvement is indicative of the effective management strategies and operational efficiencies implemented
+within the segment.
+[MDA_P006]
+However, the Property Development sector registered a negative revenue that was mainly due to
+rescission and a new purchaser with net effect of the revenue and operating profit. Despite the positive momentum in the hotel-related segments, the Group encountered a LAT of RM13.10 million. The
+breakdown of LAT reveals varied performance across the segments: a remarkable Profit After Tax (“PAT”) of RM2.66
+million from Hotel Operation, contrasting with LAT in Hotel Management of RM2.40 million and RM2.00 million in
+Property Development, further compounded by Corporate Expenses amounting to RM10.79 million. Comparatively, FPE2022 witnessed a different financial landscape, with total revenue at RM26.73 million. The Hotel
+Operation and Hotel Management segments generated RM13.56 million and RM5.15 million respectively, while the
+Property Development segment contributed RM8.02 million to the revenue pool. However, the financial year also saw
+losses across all segments, contributing to an overall LAT of RM14.31 million. The shift in leadership during FYE2023 and the ensuing cost rationalisation as part of the restructuring exercise played
+a pivotal role in shaping the financial outcomes.
+[MDA_P009]
+Meanwhile, intangible assets saw a considerable reduction to RM1.92 million from RM5.31 million as at 31 Dec
+2022, indicative of changes in the valuation of hotel management rights or potential amortisation effects. Current assets also saw a rise to RM93.80 million, up from RM66.42 million in the previous year, with a notable
+increase in inventories and trade receivables, which may reflect an uptick in business activity and improved revenue
+collection processes. On the liabilities side, the Group witnessed the total liabilities increase to RM140.60 million from RM156.13 million in
+the previous year. Equity saw a considerable rise, with total equity increasing to RM104.61 million from RM65.69 million. This increase in
+equity boosts the Group’s financial robustness and ability to finance future growth. These financial dynamics showcase a year where Magma Group Berhad leveraged market opportunities, enhanced
+operational capabilities, and navigated the economic uncertainties to strengthen its asset base and financial stability.
+[MDA_P012]
+A critical aspect of the year’s cash flow was the significant net cash generated from financing activities, amounting
+to RM45.49 million, a notable increase from FPE2022. This was largely due to the proceeds from the issuance of
+Redeemable Convertible Notes (“RCN”) and shares via a private placement, signalling the Group’s successful efforts in
+raising funds to enhance its financial strength and support strategic initiatives. The net increase in cash and cash equivalents for the year was RM18.12 million. This positive increase in cash
+positions the Group advantageously as it moves into the next financial period, with an end-of-year cash and cash
+equivalents balance of RM18.12 million. The ability to raise funds effectively through financial markets, despite the
+operating cash outflows, underscores Magma Group Berhad’s strong financial management and investor confidence. Dividend
+For the fiscal year ended 31 December 2023, Magma Group Berhad did not declare a dividend, in line with the
+Group’s cautious approach towards capital management amidst the year’s economic fluctuations and strategic
+realignments.

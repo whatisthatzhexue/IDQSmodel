@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI ends higher, bucking regional downtrend
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-09-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/03/fbm-klci-ends-higher-bucking-regional-downtrend
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI finished higher on Wednesday, bucking the trend of its regional peers, as investors awaited Bank Negara's expected decision to keep the overnight policy rate (OPR) unchanged. The 30-stock index rose for the second straight session, rising 1.82 points, or 0.12%, to close at 1,578.52. The market traded within a range of 8.39 points, hitting an intraday high of 1,582.34 and a low of 1,573.95 during the session. In the broader market, gainers outpaced decliners, with 604 stocks ending higher while 409 closed lower.
+
+[NEWS_P002] Turnover stood at 2.7 billion shares valued at RM2.81bil. Consumer stocks were among the top gainers on Bursa Malaysia, with Heineken leading the pack, rising 52 sen to RM21.14. F&N gained 48 sen to RM27.60, PPB Group added 36 sen to RM9.40, and Carlsberg climbed 32 sen to RM16.80. Among the decliners, Ayer dropped 58 sen to RM6.70, United Plantations fell 22 sen to RM22.58, Tenaga Nasional slipped 14 sen to RM13.10, and Alliance Bank lost 13 sen to RM4.38.
+
+[NEWS_P003] According to dealers, market sentiment and the broader outlook will continue to be influenced by global drivers, particularly the direction of U.S. interest rates, China's economic recovery momentum, and fund flows. Data from Bursa Malaysia shows foreign investors continued selling local stocks on Tuesday, offloading RM251mil in equities. Meanwhile, local institutions and retailers acquired RM228mil and RM23mil worth of equities. The ringgit was quoted at 4.2303 against the greenback on the forex market, showing a 0.02% appreciation.
+
+[NEWS_P004] It also edged up 0.05% against the Singapore dollar to 3.2823. Conversely, the local currency was down 0.03% against the euro at 4.9258 and rose 0.23% against the pound sterling at 5.6555. On the external front, MSCI's broadest index of Asia-Pacific shares outside Japan fell 0.31%. Regional markets closed lower today, with Japan’s Nikkei 225 dropping 0.88% to 41,938.89 and Hong Kong’s Hang Seng falling 0.6% to 25,343.43. China's CSI300 index decreased by 0.68% to 4,459.83, and the Shanghai Composite Index declined by 1.16% to 3,813.56.
+
+[NEWS_P005] In contrast, South Korea’s Kospi gained 0.38% to 3,184.42.

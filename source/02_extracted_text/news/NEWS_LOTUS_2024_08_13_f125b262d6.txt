@@ -1,0 +1,18 @@
+[TITLE]
+Lotus’s Malaysia to discontinue Scan&Shop app, upsetting shoppers
+
+[METADATA]
+ticker: LOTUS
+company_name: Lotus KFM Berhad
+publish_date: 2024-08-13
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2024/08/13/lotuss-malaysia-to-discontinue-scanshop-app-upsetting-shoppers
+confidence_tier: low
+
+[NEWS_P001] Lotus’s Malaysia has officially announced that it will be retiring its Scan&Shop mobile application. In a post on X yesterday (Aug 12), Lotus’s Malaysia said that with a heavy heart, the Scan&Shop app will “retire early (pencen awal)”. It used a meme from the movie Titanic asking shoppers to ‘let the app go’. The app, first introduced in Malaysia in 2021, has garnered over 500,000 downloads on Google Play Store. At selected Lotus’s stores, shoppers can use the app to scan the barcodes of the items they wish to purchase.
+
+[NEWS_P002] Once done shopping, they can then generate a QR code for payment. This QR code can be used at self-checkout stations or traditional checkout counters, removing the need for cashiers to manually scan each item. When contacted by LifestyleTech, Lotus’s Malaysia said the decision to discontinue the app was “only made after careful consideration as there had been cases of misuse”. The company added that as of now, “there are no plans to replace the application”.
+
+[NEWS_P003] According to a June report by local daily Harian Metro, Lotus’s Malaysia experienced losses because some shoppers left the store without scanning all their items using the app. As the app only generates a QR code for payment of scanned items, any unscanned items were thus not paid for by the shopper. On X, Lotus’s Malaysia’s announcement has received over 42,000 views, with users gushing about the convenience of not having to wait in long lines at checkout counters when using the app.
+
+[NEWS_P004] Users lamented that they will now have to go back to queuing, and expect to spend more time in stores just to complete the payment process. On Facebook, some users also expressed disappointment as they were no longer able to use the app since July. While the app is still available for download on Google Play Store, users in recent reviews said it is no longer applicable in Malaysia as a Thailand-based phone number is required to proceed with registration or to perform any other transaction.

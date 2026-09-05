@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit retreats against us dollar ahead of US inflation data
+
+[METADATA]
+ticker: CARLSBG
+company_name: CARLSBERG BREWERY AR REPORT 2020 Part 1
+publish_date: 2024-10-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/10/ringgit-retreats-against-us-dollar-ahead-of-us-inflation-data
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit retreated to close lower against the US dollar today as traders awaited key United States (US) inflation data that may influence the pace of Federal Reserve (Fed) interest rate cuts. At 6 pm, the local note went down to 4.2910/2940 versus the greenback compared to yesterday’s close of 4.2800/2830. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the Federal Open Market Committee meeting minutes show that the Fed has shifted its monetary stance towards easing.
+
+[NEWS_P002] "It is a question of the degree of monetary easing that was debated among the committee members -- whether it’s a 25-basis point or 50-basis point cut. That was the main debate. "On that note, we know that the gap between the Overnight Policy Rate and Federal Funds Rate would be narrowed further going forward. Therefore, the case for a ringgit appreciation is still intact,” he opined. At the close, the ringgit traded mostly lower against a basket of major currencies.
+
+[NEWS_P003] It strengthened versus the euro to 4.6918/6951 from 4.6939/6972 at yesterday’s close, but weakened against the Japanese yen to 2.8820/8842 from 2.8792/8815 previously and edged down vis-a-vis the British pound to 5.6122/6161 from 5.6012/6052. Meanwhile, the local note performed better versus ASEAN currencies. It appreciated against the Thai baht to 12.7724/7866 from 12.8010/8157 at Wednesday’s close and increased vis-a-vis the Singapore dollar to 3.2811/2836 from 3.2822/2848 previously.
+
+[NEWS_P004] The ringgit also rose versus the Philippine peso to 7.48/7.50 from yesterday’s close of 7.50/7.52 and firmed against the Indonesian rupiah to 273.6/274.0 from 273.8/274.1. - Bernama

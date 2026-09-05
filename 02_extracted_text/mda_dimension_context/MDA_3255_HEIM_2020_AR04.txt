@@ -1,0 +1,102 @@
+document_id: MDA_3255_HEIM_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 77, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+“The cover of our Annual
+Report 2020 is symbolic of our
+organisation’s collective sentiment
+during the difficult time, it
+represents our team spirit to keep
+the lights shining in the
+darkness, and it reflects
+our commitment as One
+Strong Winning Team to
+stay true to our purpose:
+Brewing a Sustainable
+Future for Our People,
+Business and Planet.”
+Roland Bala
+Managing Director
+One Strong
+Winning Team
+[MDA_P002]
+ANNUAL REPORT 2020 | HEINEKEN MALAYSIA BERHAD
+Management Discussion & Analysis
+2020 was a difficult year. The Covid-19 global pandemic brought the
+economy to a standstill. Faced with the immediate need to bring the
+contagion under control, the Malaysian Government introduced the
+Movement Control Order (MCO) in March 2020, allowing only essential
+sectors of the economy to continue operating, whilst putting strict
+restrictions on all other activities, including social activities. Looking back at the 46 consecutive days from 18 March to 3
+May 2020, it can be said that those were the darkest days of our
+Company’s history in Malaysia as we had to suspend operations
+at our Sungei Way Brewery during this period to comply with
+the MCO. The cover of our Annual Report 2020 is symbolic of
+our organisation’s collective sentiment during the difficult time,
+it represents our team spirit to keep the lights shining in the
+darkness, and it reflects our commitment as One Strong Winning
+Team to stay true to our purpose: Brewing a Sustainable Future
+for our People, Business and Planet.
+[MDA_P007]
+Meanwhile, we had
+to adapt to the new realities that Covid-19 had forced upon
+society. Consumption drivers such as dining out and having
+social gatherings at restaurants, pubs and bars were curtailed
+significantly by various restrictions. Indeed, certain outlets
+with liquor licenses such as pubs and entertainment outlets
+were prohibited from operating. Unfortunately, the perpetual
+restrictions have significantly impacted the economy and
+consumer sentiment. Local businesses who depend on beer as a
+source of revenue have struggled to survive. The Confederation
+of Malaysian Brewers Berhad estimates that around 3,800 of
+these outlets have remain closed during the year with some
+38,000 jobs at risk. During this challenging year, it was important to remain
+connected with our customers and consumers. We leveraged the
+power of our brands to help re-connect consumers to businesses. Through our Tiger Save Our Street Food campaign, we channeled
+RM1.5 million to help restaurants, food courts and street food
+vendors who were affected directly by the lockdown. During the
+campaign, supporters could purchase a voucher for a big bottle
+of Tiger or Tiger Crystal.
+[MDA_P012]
+Based on our FY2020 results, the Board has proposed a first
+and final single tier dividend of 51 sen per stock unit. Subject to
+approval of the shareholders at the forthcoming Annual General
+Meeting, the single tier dividend will be paid on 28 July 2021 to
+shareholders registered at the closing of business on 30 June
+2021. The dividend payout ratio for the year is approximately
+100% of the Group’s profit after tax. PEOPLE & PLANET
+Despite the challenges, the results of our performance was
+attributed to the hard work and commitment of our employees. During the year, we kept people connected through regular
+internal communications including Town Halls and Virtual
+Drinks. Employee engagement initiatives were supported with
+the use of digital platforms such as Workplace and Microsoft
+Teams, enabling productivity whilst ensuring our people stayed
+connected while being apart. Our response to the Covid-19
+crisis and actions taken to safeguard the health of our people
+was positively received. 88% of employees surveyed rated these
+initiatives favourably. In 2020, HEINEKEN Malaysia’s employee
+engagement score improved to 82% whilst performance
+enablement improved to 78%.
+[MDA_P016]
+As part of these programmes, consumers are
+educated on the importance of moderation and are encouraged
+to use alternative modes of transportation including e-hailing to
+go home safely. The Heineken® brand has also activated the “When You Drive,
+Never Drink” platform in Malaysia, investing more than RM2
+million since it was launched in 2016. Leveraging on the global
+partnership with F1®, Heineken® has been amplifying the simple
+but clear message urging consumers not to drive when they have
+consumed any amount of alcohol. Heineken® has communicated
+the message through various brand communications and
+Type of Risk
+Actions to Mitigate Risk
+Regulatory & Tax
+We continue to engage the Government on key issues affecting the industry, in support of the
+country’s growth ambition as well as recovery from the significant economic impact attributed to the
+ongoing global pandemic. Illicit Alcohol
+We fully support the Government’s efforts in eradicating illicit alcohol, which represents a loss of
+revenue to both Government and Industry.

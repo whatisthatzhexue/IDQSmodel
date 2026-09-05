@@ -1,0 +1,18 @@
+[TITLE]
+Profit-taking activities resume on Bursa Malaysia
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/29/profit-taking-activities-resume-on-bursa-malaysia
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI's opening rally was short-lived as investors turned to profit-taking activities ahead of the Federal Reserve's rate decision. The decline on the domestic market bucks a wider positive regional trend as the smart money is on the US central bank lowering the lending rate, which is expected to further fuel equities prices. At 12.30pm, the FBM KLCI was down 4.82 points or a third of a percent to 1,608.74, with plantations and PETRONAS-related counters among the biggest losers.
+
+[NEWS_P002] Kuala Lumpur Kepong dropped 22 sen to RM20.64 and SD Guthrie slid six sen to RM5.29. PETRONAS Dagangan lost 32 sen to RM22.14, PETRONAS Gas slid 10 sen to RM18.50 and MISC fell six sen to RM3.78. Nestle jumped RM2.60 to RM109.70 on the back of its positive earnings announcement to lead gains on the blue-chip index. The lower liners were not spared the outflow, as declining issues outnumbered advancers 542 to 300 on Bursa Malaysia. Volume was 1.61 billion shares valued at RM1.12bil.
+
+[NEWS_P003] By sector, healthcare, plantations and financial services were the biggest decliners. Utilities, telcos and industrial services, were the only three sectors that showed price increases. Menawhile, key Asian markets stayed optimistic in anticipation of a dovish Fed announcement. In China, the Shanghai composite index rose 0.37% to 4,002 and the blue-chip CSI300 gained 0.48% to 4,714. Hong Kong's stock exchange was closed for a national holiday. Japan's Nikkei was flat at 29,652.
+
+[NEWS_P004] In South Korea, the Kospi gained 1.33% to 4,063.

@@ -1,0 +1,22 @@
+[TITLE]
+Bursa Malaysia extends upward momentum at midday
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/19/bursa-malaysia-extends-upward-momentum-at-midday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia extended its upward momentum at midday today as continued buying activities in selected heavyweights -- led by financial counters -- further supported market sentiment, coupled with the firmer performance of regional peers. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) rose 11.90 points, or 0.72 per cent, to 1,658.80 from Thursday’s close of 1,646.90. The index had opened 1.15 points higher at 1,648.05, and moved between 1,647.60 and 1,659.53 throughout the session.
+
+[NEWS_P002] Market breadth was positive with gainers beating decliners 539 to 386, while 512 counters were unchanged, 1,341 untraded, and 16 suspended. Turnover reached 1.64 billion units valued at RM1.03 billion. Regionally, Hong Kong’s Hang Seng Index gained 0.65 per cent to 25,663.41, Japan's Nikkei 225 Index increased 1.14 per cent to 49,559.22, South Korea’s Kospi Index edged up 1.04 per cent to 4,035.91, and Singapore’s Straits Times Index was 0.13 per cent higher at 4,576.63.
+
+[NEWS_P003] In a note, Malacca Securities Sdn Bhd said the positive spillover effects and ongoing window-dressing activities are expected to keep the benchmark index on a firmer footing today. Meanwhile, Malaysia’s trade performance improved further in November 2025, with total trade rising 11.1 per cent year-on-year to RM263.8 billion from RM237 billion in November 2024. Among the heavyweights, Maybank gained 12 sen to RM10.42, Public Bank rose five sen to RM4.46, CIMB increased 17 sen to RM8.05, Tenaga Nasional added four sen to RM13.34, and IHH Healthcare advanced two sen to RM8.52.
+
+[NEWS_P004] On the most active list, Borneo Oil inched up half-a-sen to one sen, Tanco and Magma were flat at RM1.13 and 36 sen, respectively, while V.S Industry and Zetrix AI both slipped half-a-sen to 49 sen and 81.5 sen, respectively. Of the top gainers, Nestle climbed 90 sen to RM116.80, Fraser and Neave bagged 38 sen to RM35.98, Malaysian Pacific Industries soared to 34 sen to RM32.34, PPB was up 32 sen to RM10.62 and Kuala Lumpur Kepong jumped 30 sen to RM20.
+
+[NEWS_P005] As for the top losers, Hong Leong Industries slipped 20 sen to RM16.10, Sunway Construction dipped 15 sen to RM5.51 and United Plantations fell 12 sen to RM29.60, while Press Metal Aluminium and Master-Pack erased one sen each to RM6.90 and RM1.90, respectively. On the index board, the FBM Emas Index jumped 71.88 points to 12,189.37, the FBMT 100 Index gained 75.08 points to 11,984.74, the FBM ACE Index garnered 43.07 points to 4,822.06, the FBM Emas Shariah Index strengthened 31.25 points to 12,008.49, and the FBM 70 Index increased 56.83 points to 16,772.48.
+
+[NEWS_P006] Sector-wise, the Plantation Index expanded 67.88 points to 8,302.79, and the Financial Services Index perked up 248.45 points to 19,403.50, while the Energy Index shed 0.59 of a point to 764.28, and the Industrial Products and Services Index edged down 0.95 of a point to 169.96. - Bernama

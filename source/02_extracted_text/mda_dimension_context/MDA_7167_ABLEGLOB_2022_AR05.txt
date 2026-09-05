@@ -1,0 +1,86 @@
+document_id: MDA_7167_ABLEGLOB_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 83, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 147.53, "paragraph_count": 83, "paragraph_length_distribution": {"max": 1185, "mean": 334.723, "min": 7}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+The Statement on Management Discussion and Analysis (“MD&A”) provides an insight of
+the financial performance of Able Global Berhad (“AGB”) and its subsidiaries (“the Group”)
+for the financial year ended 31 December 2022 (“FYE 2022”). This MD&A also contains
+information on the Group’s overview of business and operations, current financial position,
+reviewing of operating activities, assessing the operational risks faced by the Group and
+discussing the future prospect of the Group.
+1.
+OVERVIEW OF BUSINESS AND OPERATIONS
+A.
+Business and Operations
+[MDA_P021]
+The prices of dairy and sugar remain volatiles and it will affect the manufacturing costs significantly. This
+posed a challenge to the Management in inventory control and procurement management. As such, the
+management is in constant contacts and dialogues with the suppliers and traders to gauge the situation of
+the market in order to make the procurement decisions.
+[MDA_P042]
+For Tin Cans segment, demand is expected to grow marginally in this matured and stable industry but will
+remain challenging in the short-term. Raw material costs are less volatile but still at a high level. With raw
+materials cost at such high levels, it is creating a challenging business environment and will put additional
+pressure on the profit margin in the short term.
+[MDA_P063]
+Property Developer as General
+[MDA_P083]
+> ABLE GLOBAL BERHAD : Annual Report 2022
+Profile of Key Senior Management
+(Cont’d)
+Foo Chee Ming
+Group Finance Manager
+Nationality
+Age/Gender
+Date of Appointment
+: Malaysian
+: 33 / Male
+: 5 December 2022
+Qualification
+• Bachelor of Commence Accounting
+(Hons) from Universiti Tunku Abdul
+Rahman (2012)
+• Member of the Malaysian Institute
+of Accountants (“MIA”)
+• Member of the Association of
+Chartered Certified Accountants
+(“ACCA”)
+Working experience and
+occupation
+• Started his career as an Audit
+Associate in KPMG PLT (2012 –
+2016) after completed his degree
+from university and was
+subsequently promoted to Audit
+Manager. He was involved in the
+audit of public listed companies in
+the manufacturing sector and was
+seconded to KPMG Japan, Tokyo
+office for 2 years before promoted
+to Audit Senior Manager (2021 –
+2022).
+Member of board
+committees
+• Risk Management Committee
+(Member)
+Other directorship in public
+companies and listed
+issuers
+: No
+Family relationship with
+any director and/or major
+shareholder of AGB
+: No
+Conflict of interests with
+AGB
+: No
+Conviction for offences
+within the past 5 years,
+other than traffic offences
+: No

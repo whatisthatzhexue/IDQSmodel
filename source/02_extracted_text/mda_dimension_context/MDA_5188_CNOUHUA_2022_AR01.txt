@@ -1,0 +1,35 @@
+document_id: MDA_5188_CNOUHUA_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 5, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+CHINA OUHUA WINERY HOLDINGS LIMITED
+Overview of Performance
+Prospects
+[MDA_P003]
+b) Profit(Loss) after Taxation
+Loss for FY 2022 was RMB 25.940 million as compared with FY 2021's loss of RMB 4.263 million.The higher loss
+figure in FY 2022 was mainly due to Inventories written down, which amount to RMB15.396 million, and
+Impairment for PPE of RMB6.388 million also contributed to the higher loss figure. Eliminate the
+aforementioned factor the operating loss in FY2022 was comparable to FY 2021, Both year's operating result
+was badly affected by the prolonged impact of the COVID-19 pandemic
+a) Revenue
+For FY 2022, China Ouhua, which is principally involved in importing and sales of grape wines with its sole
+manufacturing plant located in Yantai City, Shandong Province, China recorded a decline in revenue of
+7.01% or RMB 1.102 million from RMB 15.721 million in FY 2021 to RMB 14.619 million in current financial
+year. Principal target market of China Ouhua's wine products is throughout China. For FY 2022, the sales
+recorded was solely through sales of red wine. Given that the wine market in China remains highly competitive
+and due to the prolonged impact of the COVID-19 pandemic, Management had made many efforts with the
+objective to improve the sales revenue.
+[MDA_P005]
+c) Liquidity and Capital Resources
+As at FY 2022, China Ouhua had cash and cash equivalent amounting to RMB 10.611 million with no external
+borrowing. Total current assets was RMB 148.373 million and total current liability was RMB5.174 million.
+Therefore, China Ouhua is confident that its existing financial standing is sufficient to finance its working capital
+requirements for the next 24 months.
+Moving forward, in the next financial year, the Management will continue to work hard to improve the sales
+revenue. The Management of the Company is confident to lead the Company to a new era by diversifying
+into importation of overseas wine to market in new areas and online business.

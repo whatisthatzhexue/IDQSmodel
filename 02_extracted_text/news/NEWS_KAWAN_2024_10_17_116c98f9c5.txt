@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: AirAsia X, LFE, Crescendo, Fajarbaru, Infoline, Econpile, Aizo, Radiant, Kawan, LBS
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-10-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/17/trading-ideas-airasia-x-lfe-crescendo-fajarbaru-infoline-econpile-aizo-radiant-kawan-lbs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. AirAsia X Bhd shareholders and proxies have voted 99.08% in favour of the proposed RM6.8bn acquisition of AirAsia’s aviation business — AirAsia Bhd and AirAsia Aviation Group Ltd — from its sister company Capital A Bhd . LFE Corp Bhd has won a RM38.8mn subcontract from Gamuda Engineering Sdn Bhd for a hyperscale data centre in Elmina Business Park, Sungai Buloh.
+
+[NEWS_P002] Crescendo Corp Bhd is buying SGR Land Development Sdn Bhd and taking on its six land purchase obligations in Johor for RM168.9mn. Fajarbaru Builder Group Bhd , which secured a contract in April for the first phase of WCT Holdings Bhd 's AdisonWest project in Johor Bahru, has been awarded a second contract valued at RM246.1mn. Infoline Tec Group Bhd and Pappajack Bhd have received approval from the Securities Commission Malaysia to transfer their listings from the ACE Market to the Main Market of Bursa Malaysia.
+
+[NEWS_P003] Econpile Holdings Bhd has secured a RM35.1mn contract to perform bored piling, earthworks, and sub-structure works for an apartment project in Kuala Lumpur. Aizo Group Bhd, formerly known as Minetech Resources Bhd, has signed an MOU with NetRunner Sdn Bhd to jointly establish a Tier 4 data centre hub in Sarawak. Radiant Globaltech Bhd has secured a RM25mn contract from an unnamed utility company for a hardware technical refresh project. Kawan Food Bhd announced on Wednesday the redesignation of its independent non-executive director Lim Hun Soon @ David Lim, as its non-independent and non-executive chairman, effective immediately.
+
+[NEWS_P004] Securities in Pan Malaysia Holdings Bhd will be traded and quoted under its new name, Exsim Hospitality Bhd, effective 9am on Friday, Oct 18, 2024. LBS Bina Group Bhd officially launched its latest RM9.5bn GDV 315-acre township development named Rimbawan in Genting Highlands, Pahang on Tuesday.

@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI slips in line with region as Public Bank leads decline
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/11/fbm-klci-slips-in-line-with-region-as-public-bank-leads-decline
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed sharply lower on Friday, pulled down by losses, particularly from Public Bank, amid declines across the region. The 30-stock closed at 1,633.55, down 0.45% or 7.39 points, taking its full-week gains to 0.22%. Gainers trailed losers by 420 to 546, while 526 counters traded unchanged. Volume was 2.3 billion shares valued at RM2.7bil. According to dealers, today’s decline is mostly driven by investors selling at a high, as well as offloading shares of Public Bank.
+
+[NEWS_P002] Public Bank lost 26 sen to RM4.31, single-handedly dragging 7.3160 points off the FBM KLCI. This is the largest full-day retreat since Nov 30, 2020. RHB Research and JP Morgan have downgraded the stock. LPI Capital, the biggest loser on Bursa Malaysia slid 40 sen to RM12.60. Heineken fell 30 sen to RM22.92, Carlsberg lost 22 sen to RM19.46 and Hong Leong Financial Group declined 20 sen to RM19.04. Among the gainers, Nestle jumped 90 sen to RM104.60, F&N added 38 sen to RM31, AmBank rose 19 sen to RM5.20 and Hup Seng Industries gained 17 sen to RM1.20.
+
+[NEWS_P003] In terms of fund flows, foreigners emerged as net buyers with total purchases valued at RM54mil on Thursday. Local institutions and retailers were net sellers, offloading equities worth RM34mil and RM20mil, respectively. Meanwhile, the ringgit was quoted at 4.2835, up 0.21% against the US dollar. The local currency is flat against the Singapore dollar at 3.2823 and has appreciated by 0.19% against the pound sterling to 5.6027. Elsewhere in the region, MSCI's Asia ex-Japan stock index was higher by 0.2%.
+
+[NEWS_P004] Japan’s Nikkei 225 rose 0.57% to 39,605.80 while South Korea’s Kospi closed down 0.08% at 2,596.91. China’s CSI 300 Index was down 2.77% to 3,887.17 and the Shanghai Composite index closed down 2.55% at 3,217.74.

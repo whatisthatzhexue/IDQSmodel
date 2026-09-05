@@ -1,0 +1,18 @@
+[TITLE]
+PPB risk premium higher amid legal case in Indonesia
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-06-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/19/ppb-risk-premium-higher-amid-legal-case-in-indonesia
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Investors will likely demand a higher risk premium for PPB Group Bhd after its associate company, Wilmar International Ltd, revealed that its subsidiaries were charged by the Attorney General’s Office (AGO) of Indonesia. Wilmar, which denied any wrongdoing over the alleged corruption conspiracy, had placed a security deposit of US$729mil with the AGO pending a Supreme Court decision. Kenanga Research, in a report, said: “We believe this development is likely to raise the risk premium for PPB group, and could pose an overhang so long as it is not resolved, given that Indonesia accounts for about 10% of its business.” Wilmar is PPB’s main asset and profit contributor, the research house noted.
+
+[NEWS_P002] While the research house is maintaining PPB’s financial year 2025 (FY25) and FY26 earnings, it said: “We are downgrading our target price for PPB to RM10.50 from RM15.” Kenanga Research has also cut the stock to a “market perform” call from an “outperform” previously, as the matter would be submitted to the Supreme Court. The risks to its recommendation include weather impact on commodity supply and prices, regulatory changes affecting prices of essential goods and production cost inflation.
+
+[NEWS_P003] In June 2023, Indonesia’s AGO named three palm oil companies involved in corruption for conspiring with top Indonesian trade office to skirt palm oil export restrictions in 2022. Wilmar was one of the three companies and, at the time, it indicated that no official charges had been made against any companies in the group and it was seeking more details over the press reports. In March, all three parties were acquitted by the Central Jakarta Court but a month later, four judges and two lawyers were arrested by the Indonesian AGO.
+
+[NEWS_P004] An employee of Wilmar was also reported to have been arrested.

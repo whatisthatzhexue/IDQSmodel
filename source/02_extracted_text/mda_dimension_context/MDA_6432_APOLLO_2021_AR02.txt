@@ -1,0 +1,71 @@
+document_id: MDA_6432_APOLLO_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_6432_APOLLO_2021", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 22, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P010]
+FINANCIAL PERFORMANCE
+[MDA_P011]
+Revenue
+[MDA_P012]
+The Group registered a turnover of RM190.39 million for the financial year ended 30 April 2021, an increase of 8.84%
+as compared to RM174.93 million in previous financial year ended 30 April 2020. 75.96% of the turnover was
+contributed by local market and there were no material changes on the sales proportion from previous financial
+year. During the financial year, the increase of sales demand in local market has improved the overall turnover of
+the Group.
+[MDA_P013]
+Profit for the Financial Year
+[MDA_P014]
+The profit after taxation had increased by 21.77% to RM17.34 million from RM14.24 million as recorded in the
+previous financial year. The increase in profit after taxation during the financial year was mainly due to reversal of
+impairment loss on Property, Plant and Equipment and fair value gain on other investments.
+[MDA_P015]
+Consequently, the Group’s earnings per share had increased from 17.81 sen to 21.67 sen over the financial year.
+[MDA_P016]
+APOLLO FOOD HOLDINGS BERHAD 199401005792 (291471-M)
+ANNUAL
+REPORT
+[MDA_P019]
+Financial Position
+[MDA_P020]
+Total assets had decreased from RM263.55 million as at last financial year end to RM260.61 million as at current
+financial year end mainly due to higher dividend paid during the financial year.
+[MDA_P021]
+Total liabilities had increased by RM3.72 million while the Group’s equity had decreased by RM6.66 million from
+previous financial year end. Net asset per share had reduced from RM3.04 to RM2.96 as at current financial year
+end.
+[MDA_P022]
+RISK OVERVIEW
+[MDA_P026]
+(ii) Fluctuation of Foreign Currency Exchange Rate
+[MDA_P027]
+Significant fluctuation of foreign currency exchange rate will impact the Group’s cash flow movement and
+profitability. The movement of the foreign currency exchange rate is closely monitored by the Group’s management.
+[MDA_P028]
+(iii) Changes in Consumer’s Preferences
+[MDA_P039]
+In view of inflation on key raw materials’ prices and the volatility of Ringgit Malaysia against foreign currencies, raw
+materials’ prices are expected to be unstable in the forthcoming year. Coupled with the uncertainties in the global
+economy due to the Covid-19 pandemic, the Group expects that the forthcoming year will continue to be
+challenging. In order to maintain its profitability, the Group will focus its efforts to closely monitor the prices of raw
+materials and to review its business strategies when deem necessary.
+[MDA_P040]
+The Board expects a challenging year for the Group and will adopt a vigilant and prudent stance. The Group will
+strive to ensure that it continues to achieve satisfactory results by implementing prudent measures and improving
+operational efficiency so as to sustain the current profit margin without compromising the products’ quality. To
+improve its stream of revenue, the Group will put more efforts in focusing and enhancing its brands recognition and
+products’ varieties for new business opportunities.
+[MDA_P041]
+DIVIDEND POLICY
+[MDA_P042]
+The Company has not formalised a dividend policy. During the financial year, the Board of Directors approved a First
+Interim Dividend of 10 sen per ordinary share under the single tier system (tax exempt) for the financial year ending
+30 April 2021 that was paid on 8 January 2021.
+[MDA_P043]
+The Board of Directors are pleased to recommend a Final Dividend of 25 sen under the single tier system (tax
+exempt) for the financial year ended 30 April 2021. The dividend rate will subject to the shareholders’ approval at
+the forthcoming Annual General Meeting to be held on 28 October 2021. The dividend will be paid on 12 January
+2022 once it is approved.

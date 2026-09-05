@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia rebounds, but market breadth stays negative
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/22/bursa-malaysia-rebounds-but-market-breadth-stays-negative
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia closed higher today as bargain hunting picked up, though caution prevailed in line with regional market trends. At 5pm, the 30-stock index closed 6.34 points, or 0.39% higher at 1,641.66 after hitting an intraday high of 1,642.14. Market breadth was negative with losers thumping gainers 616 to 446, while 497 counters were unchanged. Turnover stood at 3.7 billion shares valued at RM3.08bil. Dealers see the market's undertone as stable, with investors concentrating on the ongoing corporate earnings reports.
+
+[NEWS_P002] Top gainers on Bursa Malaysia included PETRONAS Dagangan which jumped 60 sen to RM20.34, Kuala Lumpur Kepong which rose 56 sen to RM21.22 and YTL Power which added 45 sen to RM4.20. Nestle, the top loser on Bursa Malaysia, slid 90 sen to RM103. Dutch Lady fell 82 sen to RM31.20 and Heineken lost 62 sen to RM22.66. Among the banks, Maybank and Hong Leong Bank fell eight sen each to RM10.44 and RM20.18 respectively while Public Bank lost four sen to RM4.59.
+
+[NEWS_P003] RHB Bank added two sen to RM5.92 and CIMB traded unchanged at RM7.89. ACE Market debutant Elridge Energy jumped 37.93%, or 11 sen to 40 sen with 319.05 million shares traded. Meanwhile, the ringgit was quoted at 4.3785, up 0.01% against the US dollar. The local currency was down 0.24% against the euro at 4.7700. It declined 0.67% against the pound sterling at 5.7433 and fell 0.02% against the Singapore dollar at 3.3495. Elsewhere in the region, Japan’s Nikkei 225 added 0.68%, South Korea’s Kospi rose 0.24%, China’s Shanghai Composite Index fell 0.27% and Hong Kong’s Hang Seng Index closed up 1.44%.

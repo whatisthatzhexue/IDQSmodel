@@ -1,0 +1,145 @@
+document_id: MDA_2836_CARLSBG_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 47, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 197.09, "paragraph_count": 47, "paragraph_length_distribution": {"max": 1651, "mean": 924.681, "min": 140}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+DEAR SHAREHOLDERS,
+HELLO EVERYONE. I HOPE THIS NOTE FINDS ALL OF YOU
+IN GOOD STEAD AND EXCELLENT HEALTH. STEFANO CLINI
+Managing Director of Carlsberg Malaysia Group
+The year 2020, long anticipated as a
+historic milestone for Malaysia and a
+personally significant one for me as
+my first full year leading the Carlsberg
+Malaysia Group, suffered an unforeseen
+reverse due to COVID-19, which as we
+know is now a pandemic that engulfed
+the entire world. Our company was not spared the fallout. With
+the
+first
+confirmed
+COVID-19
+confirmed case reported in Singapore on
+23 January 2020, we set in motion our
+commercial and operational plans for
+business continuity amid highly uncertain
+prospects. Pre-emptively, we began with
+tightening our health and safety practices
+to safeguard against what was already
+becoming a huge threat here and abroad. Two months later, the World Health
+Organisation (WHO) declared a global
+pandemic, with governments responding
+by sending a third of the world’s
+population into lockdown. In Malaysia, the
+Movement Control Order (MCO) began
+on 18 March 2020 while in Singapore, a
+‘circuit breaker’ (CB) was implemented on
+7 April 2020.
+[MDA_P012]
+We kicked off 2020 in spectacular fashion
+with our “Double Cheers, Double Winnings”
+CNY consumer promotion, which ran from
+16 Dec 2019 to 9 Feb 2020. Beer lovers won unique and collectible
+prizes like a limited-edition gigantic three-
+litre Carlsberg bottle, a 3-in-1 Carlsberg
+Smart Mini Bar with built-in fridge, speaker
+and charger, premium-designed stem glass
+and many more prizes, showing once again
+that all good things come in pairs. In June, we celebrated a momentous
+occasion for all lovers of football and
+Probably the Best Beer when Liverpool FC,
+sponsored by Carlsberg since 1992, were
+crowned champions for the first time in the
+premiership era with a massive seven games
+to spare. As an extraordinary tribute to the new
+champions of England, we in both Malaysia
+and Singapore celebrated by launching
+a limited-edition ‘Champions’ packaging
+across all Carlsberg Danish Pilsner cans and
+bottles, switching Carlsberg's iconic green
+colour to Liverpool FC’s equally iconic red,
+featuring Liverpool FC’s crest, name, and
+13 personal signatures of manager Jurgen
+Klopp and the team’s star players.
+[MDA_P024]
+New Ways of Working with
+Technology
+Physical meetings and interstate travel
+became a thing of the past, overtaken
+by
+virtual
+platforms
+like
+Microsoft
+Teams swiftly implemented via internal
+training and usage, enabling us to remain
+productive while staying safely socially
+distant. We deployed a number of digital
+measures to ensure our people remained
+in constant contact while management
+issued frequent, detailed and informative
+company-wide updates to keep us all
+abreast
+of
+company
+developments
+throughout the movement control in
+Malaysia and circuit breaker in Singapore. This included simple Group-wide chat
+app updates, productivity suites and
+e-learning and knowledge sharing and
+crisis management portals to cater to
+diverse audiences and business objectives. Our strategic priority of ‘Build New Revenue
+Streams’, which had a focus on innovation,
+has been distilled further to ‘Innovate
+with Digital’ in 2020 in recognition of the
+growing role digitalisation plays in our
+commercial efforts. Somersby Hard Seltzer is an alcoholic
+sparkling water that contains 4.5 per
+cent alcohol by volume (ABV) content.
+[MDA_P036]
+ZERO
+WATER
+WASTE
+ZERO
+CARBON
+FOOTPRINT
+ZERO
+ACCIDENTS
+CULTURE
+ZERO
+IRRESPONSIBLE
+DRINKING
+Our Sustainability journey via our Together Towards ZERO agenda
+continues, consisting of four ambitions underpinned by individual and
+measurable targets leading up to 2022 and 2030:
+To cope with the unprecedented stress and pressures of a year
+devastated by COVID-19, we remained true to our purpose of Brewing
+for a Better Today and Tomorrow, despite the word “today” having its
+disproportionate share of challenges. Recognising that while times were difficult for us, many within our
+wider community were much less fortunate. We stepped up to help in
+the darkest hours of lockdown to benefit customers, consumers and
+our community under a collective effort named “Safer Together” in
+Malaysia. There were four initiatives in total, in direct response to the
+looming threat of COVID-19 in our society:
+[MDA_P047]
+We will
+continue to optimise our costs aggressively,
+reallocate our investments on e-commerce
+and off-trade, while still supporting our
+business partners. In addition, we will constantly review our
+business to ensure that our structures,
+processes and costs are suited to a post-
+COVID-19 reality. With these in place, we
+remain hopeful of sustaining an acceptable
+performance
+until
+the
+pandemic
+is
+overcome and businesses can resume full
+operations.

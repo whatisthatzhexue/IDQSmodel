@@ -1,0 +1,153 @@
+document_id: MDA_4065_PPB_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 108.281, "paragraph_count": 43, "paragraph_length_distribution": {"max": 1191, "mean": 677.256, "min": 6}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Managing director’s review
+Managing director’s review
+NAVIGATING THE YEAR AND BEYOND
+PPB Group Berhad remained resilient and committed
+to sustainable growth to navigate the challenging year. As a conglomerate engaged in diverse business activities,
+we leveraged on the talents and capabilities within the Group
+to drive business momentum despite market uncertainties. Moving forward, we will continue to align our efforts with our
+corporate mission and vision to steer the Group towards
+sustained growth and success. We will explore opportunities
+beyond the norm to improve performance and enhance
+operational efficiency. Dear Shareholders,
+In
+2023,
+Malaysia
+achieved
+economic
+growth of 3.7% amidst a challenging
+global
+landscape
+marked
+by
+weak
+demand. Domestic trade contracted by
+7.3% while the manufacturing sector saw
+modest growth of 0.8%. A slowing down of
+domestic consumer spending was notable,
+driven by concerns over the escalating
+cost of living. Local businesses faced
+major headwinds, including heightened
+competition, disruptions in the supply
+chain, rising costs and labour shortages in
+certain sectors.
+[MDA_P011]
+FILM EXHIBITION & DISTRIBUTION SEGMENT
+The Group owns Golden Screen Cinemas Sdn Bhd ("GSC"),
+the leading cinema exhibitor in Malaysia. GSC operates
+55 cinema locations with 520 screens in Malaysia and our
+40% associate, Galaxy Studio Joint Stock Company,
+operates 20 cinemas with 117 screens in Vietnam. The Film Exhibition & Distribution segment which contributed
+10% to the Group revenue, attained a higher revenue of
+11% in FY2023 compared to the previous year. This was
+attributed to an increase in admissions by 11%, net box
+office collection by 10% and concession sales by 8%. The opening of five new cinemas in Malaysia with an
+additional 41 screens in FY2023 also contributed to the
+revenue increase. In Vietnam, two new cinemas were
+opened, one of which was the first hybrid cinema concept
+and was well-received. The segment reported a loss of RM120 million for FY2023
+compared to a loss of RM17 million in FY2022 due to
+impairments of the Vietnam cinema operations and the
+Malaysia cinema assets. These impairments were due
+to the slower-than-expected recovery of the cinema
+business post-pandemic.
+[MDA_P022]
+The PPB Group has an 18.8%-stake in Wilmar.
+For FY2023, it relied to a large extent on contributions
+from Wilmar to meet one of our key objectives,
+which is to reward shareholders with sustainable and
+consistent dividends. The Group, therefore, invests
+in and expands our other business segments both
+domestically and overseas, while continually seeking
+investment opportunities to diversify our portfolio and
+income stream.
+2.
+Compliance with regulatory requirements
+[MDA_P033]
+1,421
+2,220
+(36.0)
+Profit attributable to owners of the parent
+[MDA_P043]
+9,966
+9,108
+9,199
+9,080
+8,989
+* Including discontinued operations
+5-Year Group Financial Statistics
+5-Year Group Financial Statistics
+Revenue
+(RM’Billion)
+Profit before
+Taxation
+(RM’Million)
+4.7
+4.2
+4.9
+6.3*
+5.7
+Total Borrowings
+(RM’Billion)
+0.4
+0.5
+1.1
+1.3
+0.4
+Equity
+Attributable
+to Owners of
+the Parents
+(RM’Billion)
+21.4
+22.8
+24.4
+25.8
+27.1
+Total Assets
+(RM’Billion)
+23.6
+24.9
+27.4
+28.9
+29.4
+Dividend
+per Share
+(Sen)
+31.0
+46.0
+35.0
+40.0
+42.0
+1,272
+1,421
+1,498
+2,250*
+1,488
+Earnings
+per Share
+(Sen)
+81.0
+92.6
+105.2
+154.4
+98.0
+Net Assets
+per Share
+(RM)
+15.1
+16.0
+17.2
+18.2
+19.1
+* Including discontinued operations
+PPB GROUp BERHAD
+ANNUAL REpORT 2023

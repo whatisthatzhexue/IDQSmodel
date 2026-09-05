@@ -1,0 +1,14 @@
+[TITLE]
+Kawan Renergy bags RM38.81mil EPCC contract in Port Klang
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-07-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/16/kawan-renergy-bags-rm3881mil-epcc-contract-in-port-klang
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Kawan Renergy Bhd 's wholly-owned subsidiary Kawan Green Energy Sdn Bhd has accepted a RM38.81mil contract from Gas Malaysia Energy Advance Sdn Bhd to undertake the engineering, procurement, construction and commissioning of a gas turbine co-generation system (GT-CGS) at Pandamaran Industrial Estate in Port Klang, Selangor. The group said in stock exchange filing the project shall commence upon notice to proceed by Gas Malaysia Energy Advance, and is required to be completed 20 months from the acceptance of the letter of award.
+
+[NEWS_P002] The project is expected to contribute positively towards the earnings and net assets of the company and its subsidiaries for the duration of the project.

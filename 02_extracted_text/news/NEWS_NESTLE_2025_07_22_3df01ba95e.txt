@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI falls for second day on cautious sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/22/fbm-klci-falls-for-second-day-on-cautious-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI gave up early gains to end lower for the second straight day on Tuesday, weighed down by cautious sentiment and the absence of fresh catalysts. The market barometer fell 5.19 points or 0.34% to close at 1,519.40, after recovering from an intraday low of 1,518.75. It had opened 1.7 points higher at 1,526.29. Stocks that fell outnumbered those that rose 412 to 591, with another 472 counters unchanged. A total of 2.82 billion shares changed hands, worth RM2.05bil.
+
+[NEWS_P002] Dealers said the local bourse remains directionless as investors await clarity on tariff developments, with recent pullbacks and a lack of catalysts adding to rising volatility. They added that sentiment is likely to stay cautious in the near term as investors look for stronger leads to drive market direction. Kuala Lumpur Kepong dropped 48 sen to RM18.86, Dutch Lady fell 30 sen to RM27.10, Heineken eased 30 sen to RM23.50, and PETRONAS Gas lost 26 sen to RM17.56.
+
+[NEWS_P003] Among the gainers, Nestle jumped 88 sen to RM75.96, United Plantations added 48 sen to RM22, FACB Industries gained 14 sen to RM1.60 and F&N rose 14 sen to RM28.44. On the currency market, the ringgit rose 0.09% to 4.2305 against the US dollar. However, it slipped 0.02% against the Singapore dollar to 3.3012, fell 0.38% against the euro to 4.9495, and eased 0.18% against the pound sterling to 5.7092. On the external front, Japan’s Nikkei 225 slipped 0.11% to 39,774.92, while South Korea’s Kospi fell 1.27% to 3,169.94.
+
+[NEWS_P004] Hong Kong’s Hang Seng Index rose 0.54% to 25,130.03. China’s CSI300 Index gained 0.82% to 4,118.96, while the Shanghai Composite added 0.62% to 3,581.86.

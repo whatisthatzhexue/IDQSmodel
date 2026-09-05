@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Rexit, Nestle, DXN, AWC, ViTrox, AAX, Pavilion-REIT
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/25/trading-ideas-rexit-nestle-dxn-awc-vitrox-aax-pavilion-reit
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Rexit Bhd , Nestle (M) Bhd , DXN Holdings Bhd , AWC Bhd , Vitrox Corp Bhd , AirAsia X Bhd (AAX) and Pavilion Real Estate Investment Trust (Pavilion-REIT) are among the stocks to watch on Friday. Two major shareholders of Rexit, Datuk Seow Gim Shen, 42, and Kong Chien Hoi, 39, were sentenced to jail by a Singaporean court for conspiring with an alleged Chinese cybercriminal to obtain the personal data of over 9,300 individuals illegally.
+
+[NEWS_P002] On October 24, Kong and Seow were each sentenced to 14 weeks in jail. Nestle posted a net profit of RM85.4mil in the third quarter ended September 30, a decrease of 36.1% compared to RM133.7mil in the corresponding quarter of the previous year. Its revenue fell 18.4% to RM1.45bil against RM1.77bil last year. In the first nine months ended Sept 30, Nestle’s turnover decreased by 11.4% to RM4.75bil from a historic high number of RM5.37bil in the same period last year.
+
+[NEWS_P003] DXN’s posted a lower net profit of RM65.97mil in the second quarter of the financial year 2025 (2Q25) ended Aug 31, 2024, from RM76.02mil amid higher foreign exchange losses as well as elevated costs for employee benefit and shipping rates. Its revenue is higher at RM488.43mil from RM458.31mil. AWC’s wholly-owned subsidiary, Ambang Wira Facilities Sdn Bhd (AWFSB) has secured a RM9.43mil contract from Melaka’s Public Works Department (JKRM). ViTrox’s net profit fell 32.5% year-on-year (YoY) to RM22.5mil in the third quarter ended Sept 30, while revenue also slipped 2.2% to RM146.7mil.
+
+[NEWS_P004] AAX achieved a passenger load factor (PLF) of 84% in the third quarter of 2024 (3Q24), an increase of four percentage points from the previous year. Pavilion-REIT’s net property income (NPI) rose 8.65% to RM131.8mil for the third quarter ended Sept 30, 2024, from RM121.3mil a year ago. Revenue rose 4% to RM207.26mil from RM199.2mil, mainly contributed by higher rental income and income from marketing events and the exhibition centre at Pavilion Bukit Jalil.
+
+[NEWS_P005] Overnight, the Dow Jones Industrial Average fell 0.33% to 42,374.36, the S&P 500 gained 0.21% to 5,809.86 and the Nasdaq Composite gained 0.76% to 18,415.49.

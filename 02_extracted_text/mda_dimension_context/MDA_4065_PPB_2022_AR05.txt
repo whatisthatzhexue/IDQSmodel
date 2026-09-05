@@ -1,0 +1,170 @@
+document_id: MDA_4065_PPB_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 32, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 136.618, "paragraph_count": 32, "paragraph_length_distribution": {"max": 1195, "mean": 911.562, "min": 285}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+PPB Group Berhad | Annual Report 2022
+PPB Group Berhad | Annual Report 2022
+MESSAGES FROM OUR LEADERS
+Managing director’s
+review
+Dear Shareholders,
+In 2022, Malaysia’s economy strengthened with the
+reopening of international borders and the transition
+to the endemic phase of COVID-19. This had positively
+impacted various industries, trade and investment-
+related services. However, world economic activities
+were adversely affected by monetary policy tightening,
+surging inflation, fiscal restraints, and the continuing
+Russian-Ukraine war. Despite the global and domestic economic challenges, the PPB Group had achieved
+a commendable performance in 2022. All key segments contributed positively to the
+increase in revenue and profitability of the Group, coupled with a higher contribution
+from Wilmar International Limited. Economic
+and
+Operating
+Environment in 2022
+Overall,
+the
+Malaysian
+economy
+expanded by 8.7% in 2022. Private
+sector
+activity
+remained
+the
+key
+driver of growth, supported by private
+consumption, investments and improving
+labour market conditions.
+[MDA_P009]
+The bread market during the year
+remained stable. However, the market is expected to face
+increased competition in 2023, with
+more participants including expansion
+of artisan bakeries. TIB plans to meet
+this challenge by further increasing
+efficiency, controlling costs, introducing
+more unique products, and expanding
+distribution channels. Food Processing
+The Food Processing division faced
+similar challenges as the Consumer
+Products Distribution division namely,
+labour shortage, inflation, higher interest
+rates and supply instability. Going into 2023, FFP will continue to
+innovate and add new products to its
+portfolio in meeting food service, and
+retail demand. We expect a challenging
+year in 2023, marked by cost pressures
+and
+tight
+operational
+margins
+but
+with prudent cost management and
+production optimisation, we can stay
+efficient and competitive. Transition to COVID-19 Endemicity
+The
+Consumer
+Products
+segment
+continued to face higher operational
+costs
+as
+we
+maintained
+stringent
+health and safety measures such as
+sanitisation, medical screenings and
+equipping the workplace with adequate
+hygiene facilities.
+[MDA_P017]
+Pre-tax profit increased by 50% to RM2.25 billion. Our main business, Grains and Agribusiness, recorded an increase in profit by 21%
+to RM74 million; whilst Film Exhibition and Distribution recorded a lower loss of RM17 million. Contribution from our 18.8%-owned
+associate, Wilmar International Ltd (“Wilmar”) increased by 40% to RM2.10 billion. Profit attributable to shareholders amounted to
+RM2.20 billion, with earnings per share at RM1.54, a 46.8% increase from the previous financial year. Financial Performance by Business Segments
+Grains and Agribusiness
+RM’000
+RM’000
+Segment revenue
+4,655,906
+3,688,799
+Segment profit
+74,329
+61,522
+Segment revenue was higher at RM4.66 billion, up 26% from the previous financial year. The segment recorded an increase in profit
+by 21% to RM74 million. The improved performance was largely due to a more stable grain commodity market.  Megah Rise Residensi in Taman Megah, Petaling Jaya
+ The Whiteaways Arcade in Georgetown,
+Penang
+[MDA_P025]
+The fluctuation of the Ringgit has
+presented challenges to the PPB
+Group as most of the raw materials for
+the grains and agribusiness segment,
+film rights purchases and overseas
+investments
+are
+denominated
+in
+foreign
+currencies.
+The
+Group
+monitors currency fluctuations closely
+and hedges part of its exposure.
+5. Fluctuation of commodity prices
+[MDA_P032]
+9,108
+9,199
+9,080
+8,989
+9,025
+revenue
+(RM’Billion)
+Earnings per share
+(Sen)
+6.3*
+154.4
+4.9*
+105.2
+4.2
+92.6
+4.7
+81.0
+4.5
+75.6
+5-Year Statistics highlights
+Profit before taxation
+(RM’Million)
+2,250*
+1,498*
+1,421
+1,272
+1,168
+Equity attributable to
+owners of the parent
+(RM’Billion)
+25.8
+24.4
+22.8
+21.4
+21.0
+Dividend per share
+(Sen)
+40.0
+35.0
+46.0
+31.0
+28.0
+Net assets per share
+(RM)
+18.2
+17.2
+16.0
+15.1
+14.8
+* Including discontinued operations
+* Including discontinued operations

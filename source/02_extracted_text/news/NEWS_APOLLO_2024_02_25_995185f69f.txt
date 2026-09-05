@@ -1,0 +1,16 @@
+[TITLE]
+Review: 'Apollo Justice' – Be the lawyer of this courtroom drama
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-02-25
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2024/02/25/review-039apollo-justice039---be-the-lawyer-of-this-courtroom-drama
+confidence_tier: low
+
+[NEWS_P001] BERLIN: The visual novel adventure Apollo Justice: Ace Attorney Trilogy offers unusual material for a video game: criminal defence in court. Players take on the role of the young lawyer Apollo Justice who has to help various clients out of trouble. Luckily, you don’t need a law degree in the Ace Attorney Trilogy. Talent as a detective is what counts most here. Court files, evidence and crime scenes must be examined meticulously. Orca trainer Sasha Buckler (left) stands by killer whale Orla (right) in court, who denies having bitten an employee of the local aquarium to death.
+
+[NEWS_P002] In court, you intervene at the right moments, take advantage of witnesses' embarrassment during interrogation, and make seemingly watertight alibis fail. If someone doesn't play according to the rules, you yourself get to shout "objection!" The game isn't graphically stunning, but the versions originally released for the Nintendo DS back in 2008 have been well adjusted for modern consoles and the cases themselves offer timeless excitement. If you haven't played the Apollo Justice originals yet and feel called to the courtroom to become a criminal defence lawyer, then this is your chance.
+
+[NEWS_P003] The game is is available for PCs, PlayStation, Xbox and Nintendo Switch and costs around €50/US$50 (RM234 in Malaysia). – dpa

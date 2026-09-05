@@ -1,0 +1,18 @@
+[TITLE]
+Flat start on Bursa Malaysia as global turmoil continues
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2025-06-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/18/flat-start-on-bursa-malaysia-as-global-turmoil-continues
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia maintained a horizontal trajectory as a tumultuous investment landscape left little to entice investors to return to the equities market. Hopes the Israel-Iran conflict would resolve itself quickly were dashed yesterday by US President Donald Trump's call for an evacuation of Tehran - leading to a weaker Wall Street performance over the subsequent session. The FBM KLCI opened flat on Wednesday at 1,511.89, a marginal 0.25 points increase over the previous session.
+
+[NEWS_P002] However, even this nominal lead is expected to dissipate over the coming session given the ongoing weakness in the domestic market. External pressures notwithstanding, there are also domestic worries, including the scheduled implementation of the sales and service tax in July, which business associations say could slow investment and spending. According to Rakuten Trade in its daily outlook, investors are reluctant to take long positions due to the heightened global uncertainties and market volatility, coupled with the ongoing foreign fund outflow.
+
+[NEWS_P003] Meanwhile, TA Securities expects investors to stay sidelined as they await the US Federal Reserve's interest rate decision while assessing ongoing developments around the Israel-Iran conflict. "Immediate index support is kept at 1,490, while stronger supports can be found at 1,465 and 1,444. Immediate resistance stays at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead," it said in its market commentary. Stocks seen slipping on Wednesday included MPI down 30 sen to RM19.50, Nestle falling 22 sen to RM71.48 and Sunway Construction shedding eight sen to RM6.02.
+
+[NEWS_P004] Hibiscus Petroleum gained six sen to RM1.73 and Hengyuan Refining rose four sen to RM1.89 amid the increase in crude oil prices. Top actives were NexG down one sen to 35 sen, Magma up 2.5 sen to 45.5 sen and Key Asic flat at four sen.

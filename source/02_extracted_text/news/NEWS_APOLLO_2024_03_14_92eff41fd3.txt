@@ -1,0 +1,16 @@
+[TITLE]
+Last minute buying lifts Bursa Malaysia at close
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-03-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/14/last-minute-buying-lifts-bursa-malaysia-at-close
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Last-minute buying interest pushed the FBM KLCI to end on its intraday high, on continued buying in index-linked stocks. The FBM KLCI rose 5.62 points, or 0.37% to 1,543.75, its intraday high. On the broader market, there were 513 stocks advancing against 478 stocks declining while 494 counters unchanged. About 4.3 billion shares, valued at RM2.76bil, changed hands. According to Bursa Malaysia data, foreign investors and retailers were net sellers at RM104mil and RM10mil respectively on Wednesday.
+
+[NEWS_P002] Local institutions acquired RM114mil worth of equities. Malaysia Airports was the top gainer, rising 35 sen to RM9, followed by Apollo Food , which climbed 27 sen to RM5.75 and Hong Leong Industries rose 24 sen to RM10.64. The top loser today was HeiTech Padu that fell 43 sen to RM2.43. Nestle lost 20 sen to RM119.80, Amway slid 18 sen to RM7.11 and Malayan Cement gained 15 sen to RM4.98. Meanwhile, US West Texas Intermediate crude rose 34 cents to US$80.06 and Brent gained 35 cents to US$84.38 per barrel.
+
+[NEWS_P003] Around the region, MSCI's Asia ex-Japan stock index was firmer by 0.1%. Japan’s Nikkei 225 ended up 0.29% at 38,807.38, while South Korea’s Kospi ended 0.94% higher at 2,718.76. Hong Kong’s Hang Seng index closed down 0.71% at 16,961.66. China’s blue-chip CSI300 index lost 0.28% at 3,562.22, while the Shanghai Composite Index fell 0.18% to 3,038.23.

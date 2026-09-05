@@ -1,0 +1,12 @@
+[TITLE]
+Apollo, KKR and Stonepeak to invest in JV to fund Intel's Ireland facility, Bloomberg reports
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-04-27
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2024/04/27/apollo-kkr-and-stonepeak-to-invest-in-jv-to-fund-intel039s-ireland-facility-bloomberg-reports
+confidence_tier: low
+
+[NEWS_P001] (Reuters) - Apollo Global Management, KKR & Co and Stonepeak may invest billions in a joint venture to help fund Intel's semiconductor fabrication facility in Ireland, Bloomberg News reported on Friday. (Reporting by Arsheeya Bajwa in Bengaluru; Editing by Shailesh Kuber)

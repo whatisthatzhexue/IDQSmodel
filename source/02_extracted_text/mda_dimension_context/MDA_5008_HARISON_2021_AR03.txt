@@ -1,0 +1,25 @@
+document_id: MDA_5008_HARISON_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 9, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+6) Managing Sustainability
+ECONOMIC
+Financial Performance
+We are committed to achieving economic sustainability growth for our shareholders. We conduct our
+business in compliance with applicable laws and regulations and in accordance with high ethical business
+practices and good corporate governance. As part of Harrisons’ journey to incorporate a sustainable business practices in the long term, the Group is
+committed to a holistic approach to business management. Harrisons believes that focusing on financial
+sustainability is critical. The Group’s financial review and outlook are elaborated in the Management Discussion and Analysis
+section of this Annual Report. Managing Expectations of Principals
+Managing expectations of principals was identified as one of the most important material issues across the
+Group. Presently, Harrisons has over 200 principals, and distributes approximately 11,000 product items to
+over 10,000 accounts spread across Malaysia. Harrisons’ objective is to focus on its distribution business and aims to maintain its position as a leading
+distributor.
+[MDA_P006]
+While meeting our customers’ satisfaction and requirements, the Group is also mindful that an equilibrium
+needs to be achieved with the appropriate strategies in sustaining our business. In managing our
+customers, the Group has implemented policies to ensure that credit sales of products and services are
+made to customers with an appropriate credit standing or with an appropriate credit history.

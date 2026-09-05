@@ -1,0 +1,98 @@
+document_id: MDA_3026_DLADY_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 73, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+This transition, a well-
+orchestrated plan over the past five years, culminated in 2024 with the critical milestone of moving to our Halal IR4.0-
+enabled production centre. This move will accelerate our strategy to scale operations and innovations, reinforcing our
+position as Malaysia’s leading dairy brand. Our transformation over six decades in Malaysia has been recognised by our many partners and stakeholders, who
+trusted us and supported us in our commitment to Nourishing Our Nation. REPORT
+DIRECTOR’S
+MANAGING
+The Yang Di-Pertuan Besar of Negeri Sembilan,
+Tuanku Muhriz Tuanku Munawir (centre), was joined
+by (from left) FrieslandCampina Chief Executive
+Officer Jan Derck van Karnebeek, Dutch Lady Milk
+Industries Bhd (DLMI) Managing Director Ramjeet
+Kaur Virik, Senior State Executive Councillor YB
+Datuk Seri Jalaluddin bin Alias, and ambassador to
+the Kingdom of the Netherlands to Malaysia, H.E. Jacques Werner at the inauguration of DLMI@Enstek
+on 30 May, 2024. This symbolic date also marked
+the 61st Anniversary of DLMI’s incorporation, originally
+known as Pacific Milk Industries (Malaya) Limited. DUTCH LADY MILK INDUSTRIES BERHAD • INTEGRATED ANNUAL REPORT 2024
+[MDA_P003]
+RAMJEET KAUR VIRIK
+Managing Director
+2024 was a historic milestone and a
+year of massive transition for DLMI
+as we fully moved to our new Halal
+manufacturing facility DLMI@
+Enstek, with double the capacity
+and IR4.0 capabilities. The year
+signalled our strong commitment
+to Nourishing Our Nation with
+improved nutritional content,
+responsible business practices and
+meaningful growth, championed
+by our committed employees and
+supportive stakeholders. Despite
+the challenging operational
+environment and the planned
+transition, our focus on internal
+cost optimisation, fit-for-purpose
+organisation and governance,
+helped us deliver positive
+results in FY2024. As we move
+forward, we remain steadfast
+in our aspiration to produce
+healthy, Halal dairy nutrition
+in balance with the planet,
+continuing to drive our purpose
+of Nourishing Our Planet and
+People in Every Stage of Life.
+Section
+[MDA_P004]
+We are well-positioned to achieve our ambitions for 2030 and beyond, as we work to unlock the full potential of our
+new state-of-the-art, IR4.0-enabled manufacturing facility. DLMI@Enstek will play a crucial role in strengthening our
+commitment to: 1) Fostering long-term public-private partnerships to enhance Malaysia’s dairy sector, particularly in raw
+milk production, and 2) Addressing the triple burden of malnutrition in Malaysia, especially among children under 12 years
+old. Our strategic investment in DLMI@Enstek exemplifies our dedication to driving profits with a purpose. CHALLENGES THAT CONTINUE DUE TO EXTERNAL PRESSURES
+We continued to experience volatility in both global and local markets, with fluctuating prices of dairy raw materials and
+foreign exchange rates. This has increased the cost of doing business in an already challenging operating environment,
+compounded by ever-evolving regulations and policies. Businesses locally and regionally continued to find opportunities
+to innovate their business models, strengthen governance, build resilience and future-proof people and product solutions.
+[MDA_P005]
+At DLMI, our core strategy for managing external pressures is to prioritise prudence in managing our financial and resource
+investments. This approach ensures we achieve adequate cost savings, explore alternative revenue-boosting measures,
+and most importantly, maintain a motivated workforce. We continued to play a pivotal role in industry coalitions
+such as MAREA and CAN, where we demonstrated
+leadership in driving their respective agendas effectively. DLMI assumed the chair for MAREA and catalysed the
+launch of Malaysia’s first DEI Guidelines in CAN. We will
+continue to actively participate and collaborate with our
+industry peers to shape future best practices and even
+policies to raise the bar on sustainability performance. In line with our purpose of Nourishing Our Nation, DLMI has
+partnered with the Petaling Jaya Parliamentary Office to
+support a social enterprise project, the “Healthy Eating and
+Nutrition Programme for Children” (Program Pemakanan
+Sihat dan Nutrisi Kanak-Kanak).
+[MDA_P006]
+Supported by Allegra
+Technologies Sdn Bhd, the initiative aims to benefit 100
+children aged one to six at PPR Block 5 and 6 in Desa
+Mentari Petaling Jaya by promoting healthy eating habits and
+supporting growth and nutrition. The programme will utilise
+artificial intelligence-powered vending machines to provide
+daily Dutch Lady milk, ensuring consistent access to essential
+nutrients and fostering better health outcomes. Initiatives like
+this reinforce our commitment to delivering accessible,
+affordable, safe, Halal and nutritious dairy to the nation. For more information on how we are aligning our performance
+with our purpose, please refer to Sustainability Statement
+on pages 60-108 of this Integrated Annual Report. With our seven key focus areas and sustainability roadmaps,
+2024 saw us focus much of our efforts on building our
+capabilities. Our differentiated approach integrates
+sustainability into every function of the business, reflecting
+our belief that sustainability is an essential part of our
+operations.

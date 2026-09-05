@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI extends gains, consumer stocks in focus
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-04-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/02/fbm-klci-extends-gains-consumer-stocks-in-focus
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia climbed higher on Tuesday with consumer stocks leading the top gainer’s list. At closing, the benchmark FBM KLCI climbed 3.97 points, or 0.26% to 1,547.99, buoyed by gains in plantation and banking stocks. Gainers trounced losers by 597 to 516, while 462 counters traded unchanged. Trading volume was brisk at 4.53 billion shares valued at RM2.82bil. Among the KLCI component stocks, 18 counters closed higher while seven counters fell.
+
+[NEWS_P002] According to data on Bursa Malaysia, foreign investors and retailers sold RM99mil and RM45mil of local equities respectively yesterday. Local institutions acquired RM145mil worth of equities. Consumer stocks dominated the gainers’ list on Bursa Malaysia. Dutch Lady and Nestle jumped RM1 each to RM33.50 and RM119.10 respectively. Panasonic Manufacturing rose 98 sen to RM19.08, F&N added 72 sen to RM30.10 and Ajinomoto gained 56 sen to RM19.34. Among the losers, PETRONAS Gas slid 42 sen to RM17.84, United Plantations fell 34 sen to RM23.64, Heineken lost 20 sen to RM23.50 and SAM Engineering declined 16 sen to 63.5 sen.
+
+[NEWS_P003] On the forex market, the ringgit was down 0.46% against the greenback to 4.7523. The local currency is up 0.01% against the pound sterling to 5.9696, down 0.21% against the Singapore dollar to 3.5146 and 0.05% lower against the Euro at 5.0999. Meanwhile, Brent crude rose 93 cents to US$88.35 a barrel while US West Texas Intermediate crude was at US$84.69 per barrel, up 98 cents. Among the key regional markets: Japan’s Nikkei 225 rose 0.09% to 39,838.91; Hong Kong’s Hang Seng Index closed up 2.36% to 16,931.52; China’s CSI300 Index declined 0.42% to 3,580.68; Taiwan’s Taiex ended up 1.21% to 20,466.57; South Korea’s Kospi advanced 0.19% to 2,753.16 and; Singapore’s Straits Times Index rose 0.33% to 3,245.67 points.

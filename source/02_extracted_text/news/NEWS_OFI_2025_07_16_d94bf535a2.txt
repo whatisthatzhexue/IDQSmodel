@@ -1,0 +1,20 @@
+[TITLE]
+Ringgit closes slightly lower vs US$, stays defensive despite Fed concerns
+
+[METADATA]
+ticker: OFI
+company_name: Oriental Food Industries Holdings Berhad
+publish_date: 2025-07-16
+source_name: The Star
+url: https://www.thestar.com.my/business/2025/07/16/ringgit-closes-slightly-lower-vs-us-stays-defensive-despite-fed-concerns
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit slipped 0.01 per cent against the US dollar at the close, as the local note continued trading on the defensive today, which offered some technical comfort for the ringgit. At 6 pm, the local note was traded at 4.2400/2490 from 4.2395/2440 at Wednesday’s close. SPI Asset Management managing partner Stephen Innes said the ringgit is under pressure mainly because of concerns that the United States (US) Federal Reserve (Fed) might keep interest rates higher for longer, as markets reassess the inflation outlook.
+
+[NEWS_P002] He added that the US dollar has strengthened recently as investors are becoming less certain that the Fed will cut rates in September. Innes also said that the dollar’s recent bid reflected a subtle but growing shift in sentiment, which markets are slowly walking back their conviction that the Fed will cut the interest rate in September. "Sticky core inflation, fueled in part by service-sector dynamics and the slow-burn impact of tariffs, is keeping the Fed in a wait-and-see mode.
+
+[NEWS_P003] "The ringgit remains vulnerable to a temporary widening in the US-Malaysia exchange rate spread. This does not necessarily break the broader 4.20-4.30 range, and we are still inside expected bands for now, but it does create a bias for further weakness,” he added. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said that the ringgit weakened against the US dollar in the early morning session to 4.2575 in response to the US Consumer Price Index, which continued to increase in June to 2.7 per cent from 2.4 per cent previously.
+
+[NEWS_P004] "The latest CPI print appears to give the impression that the Fed may not be inclined to cut the Fed Fund Rate in the upcoming meeting in July. "In a nutshell, the ringgit maintained its narrow-range trade in light of the ongoing uncertainties over the US tariffs,” Mohd Afzanizam said. At the close, the ringgit was traded higher against a basket of major currencies. It strengthened against the British pound to 5.6786/6907 from yesterday’s close of 5.7047/7107, improved against the Japanese yen to 2.8508/8569 compared with 2.8702/8734, and was up versus the euro at 4.9248/9352 versus 4.9539/9591.
+
+[NEWS_P005] The local note also trended higher against ASEAN currencies. It traded higher vis-a-vis the Singapore dollar at 3.2999/3071 from 3.3095/3133 yesterday, inched up against the Indonesian rupiah to 260.3/260.9 from 260.6/261.0, and strengthened versus the Philippine peso to 7.43/7.45 from 7.47/7.49. It also gained against the Thai baht to 13.0301/0630 from 13.0784/0988. - Bernama

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI consolidates ahead of US jobs report
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-12-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/06/fbm-klci-consolidates-ahead-of-us-jobs-report
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the early session slightly lower as the index showed signs of consolidating amid an absence of fresh trading leads. The benchmark index lost 2.71 points to 1,612.93 after moving within a six-point trading band of 1,611.25 to 1,617.57 amid an overall weaker market regional sentiment was dampened by political turmoil in South Korea and investors stayed to the sidelines ahead of a key US jobs report. On Bursa Malaysia, there were 451 decliners compared to 411 gainers after 1.89 billion shares changed hands for RM1.21bil.
+
+[NEWS_P002] Stocks on the downside included Nestle down RM1 to RM96.62, LPI Capital falling 34 sen to RM12.64 and F&N shedding 30 sen to RM27.86. Among the most heavily traded counters was Supermax, jumping 7. 5 sen to RM1.06 on news of the US Centres for Medicare and Medicaid Services’ proposal to include US-produced domestic nitrile gloves under its payment adjustment scheme from Jan 1, 2026. Top Glove rose two sen to RM1.27 while Kossan gained two sen to RM2.60.
+
+[NEWS_P003] Meanwhile, key Asian markets drifted lower ahead of the US non-farm payrolls report, which would help to determine if the Federal Reserve will proceed with another rate cut later this month. Japan's Nikkei lost 1.11% to 38,967, and Singapore's Straits Time lost 0.35% to 3,809. China's composite index rose 1.23% to 3,410 while Hong Kong's Hang Seng added 1.39% to 19,831.

@@ -1,0 +1,16 @@
+[TITLE]
+Santa Claus rally extends on Bursa Malaysia
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-12-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/26/santa-claus-rally-extends-on-bursa-malaysia
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia extended its gains from the Santa Claus rally, with the FBM KLCI closing higher for the fourth consecutive session. The Santa Claus rally refers to a stock market phenomenon where stock prices tend to rise during the final week of December, often leading into the new year. The FBM KLCI gained 10.71 points, or 0.67%, closing at 1,613.70. The market traded within a range of 12.49 points, reaching an intra-day high of 1,615.28 and a low of 1,602.79.
+
+[NEWS_P002] In the broader market, gainers outnumbered losers with 692 stocks ending higher and 295 stocks finishing lower. About 2.5 billion shares, valued at RM1.86bil, changed hands. United Plantations jumped 60 sen to RM30.60, Malaysian Pacific Industries rose 48 sen to RM25.96, Scientex added 34 sen to RM4.57 and Hong Leong Industries advanced 26 sen to RM14.44. Among the decliners, Nestle slid 26 sen to RM97.54, Ayer fell 25 sen to RM7.25, Batu Kawan lost 10 sen to RM20.02 and Carlsberg declined 10 sen to RM20.6.
+
+[NEWS_P003] Meanwhile, the ringgit, the only Asian currency to gain value this year, rose 0.4% to 4.4688 against the US dollar. US West Texas Intermediate crude rose 28 cents to US$70.38 per barrel while Brent added 29 cents to RM73.87 a barrel. Elsewhere in the region, Japan’s Nikkei 225 rose 1.12% and South Korea's Kospi declined 0.44%. China’s CSI 300 Index closed up 0.05% and the Shanghai Composite Index added 0.14%.

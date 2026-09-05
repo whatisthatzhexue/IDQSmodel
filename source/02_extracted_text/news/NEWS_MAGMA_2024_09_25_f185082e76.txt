@@ -1,0 +1,14 @@
+[TITLE]
+Magma acquires RM80mil Dutamas land from Skyload
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2024-09-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/25/magma-acquires-rm80mil-dutamas-land-from-skyload
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Datuk Lee Chong Wei’s 45%-owned Skyload Express Sdn Bhd will dispose of a 2.26-acre leasehold land in Persiaran Dutamas, Kuala Lumpur to Main Market-listed Magma Group Bhd for RM80mil. The land, located about eight kms from the Kuala Lumpur city centre, has received approval for two 34-storey towers consisting of service apartments and commercial spaces. The remaining 55% of Skyload is owned by Empire Solaris Sdn Bhd, which in turn is 80% controlled by Magma’s major shareholder and deputy executive chairman, Datuk Seri Lee Hock Seng.
+
+[NEWS_P002] Magma will pay for the land via RM8mil in cash and the issuance of 120 million new ordinary shares to Skyload, along with 47.71 million redeemable non-convertible preference shares (RPS). The 120 million shares will be issued at 20.24 sen apiece, while the RPS will be issued at RM1 per share.

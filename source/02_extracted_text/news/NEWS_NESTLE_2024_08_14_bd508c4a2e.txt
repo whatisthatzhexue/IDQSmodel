@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia bounces back into positive territory
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/14/bursa-malaysia-bounces-back-into-positive-territory
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Gains in PETRONAS Dagangan and YTL-linked counters helped Bursa Malaysia rebound into positive territory today. At the close, the FBM KLCI rose 2.83 points or 0.18% to 1,612.35, recovering from an intraday low of 1,606.49. There were 574 gainers, 439 losers and 531 counters traded unchanged on the Bursa Malaysia. Turnover stood at 3.6 billion shares valued at RM2.5bil. The top gainer on Bursa Malaysia was PETRONAS Dagangan, which jumped RM1.14, or 6.22% to RM19.48.
+
+[NEWS_P002] F&N rose 40 sen to RM29.50, United Plantations added 30 sen to RM25.70 and Kuala Lumpur Kepong gained 26 sen to RM21.04. Nestle, the biggest loser on Bursa Malaysia tumbled RM1.10 to RM107.90. Dutch Lady slid 48 sen to RM30.52, Edaran declined 42 sen to RM2.13 and PETRONAS Gas fell 28 sen to RM17.92. On the forex market, the ringgit was up 0.56% against the greenback to 4.4225. The local currency appreciated 0.13% against the pound sterling at 5.6814, and up 0.02% against the Singapore dollar at 3.3611.
+
+[NEWS_P003] Around the region, MSCI's Asia ex-Japan stock index was firmer by 0.52%. Japan’s Nikkei 225 closed up 0.58% at 36,442.43 while South Korea’s Kospi advanced 0.88% to 2,644.50. Hong Kong's Hang Seng Index was down 0.36% at 17,111.43. China's CSI 300 Index closed down 0.8%, touching the lowest level since February. The Shanghai Composite Index lost 0.6% to 2,850.65.

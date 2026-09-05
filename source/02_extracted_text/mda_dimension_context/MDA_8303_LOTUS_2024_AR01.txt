@@ -1,0 +1,86 @@
+document_id: MDA_8303_LOTUS_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Overview of Business and Operations
+Lotus KFM Berhad (“LKFM” or “the Group”) is a public listed company on the Main Market of Bursa Malaysia
+Securities Berhad (“Bursa Securities”) with its’ principal activities engaged in flour milling and trading its related
+products. LKFM focuses on achieving customer satisfaction and loyalty while delivering exceptional value to our
+customers. In financial year ended 30 September 2024 (“FYE 2024”), the Group has been organised into two (2) major source
+of revenue according to their business activities comprising milling of flour and trading its related products; and
+plantation. Lately, LKB Plantation Sdn. Bhd. had also contributed revenue for the Group during the FYE 2024. Other plantation
+business under the other subsidiaries, such as Lotus Plantation Sdn. Bhd., ASV Jaya Sdn. Bhd., Hijau Ria Solutions
+Sdn. Bhd., Sam Jaya Plantation Sdn. Bhd., Ladang Lojing Sdn. Bhd. and Khas Jadi Sdn. Berhad are still in the
+development stage. The Board expects these subsidiaries to provide new sources of recurring income stream for
+the Group and reducing the Group’s reliance of its existing business operations.
+[MDA_P002]
+The Board anticipates that revenue contributions from both the flour milling and trading operations, along with
+future income from plantation and investment subsidiaries, will enhance the Group’s earnings in the coming years. A comprehensive overview of the Group’s overall financial outcomes, business operation, operating segment and
+subsidiaries information can be found in Audited Financial Statement 2024. Corporate Developments
+Details of the regularisation plan can be obtained from the Company’s various announcements with Bursa
+Securities. Group’s Financial Results and Financial Conditions
+The following table is the financial highlights of the Group for the past five (5) financial years:-
+[MDA_P005]
+In FYE 2024, the Group recorded revenue of RM50.700 million, representing a decrease of RM7.808 million
+compared to RM58.508 million in the previous financial year ended 2023 (“FYE 2023”). The decline was
+primarily due to reduce of demand in the operating market, and negatively impacted the sales volume.
+[MDA_P006]
+The Group’s revenue was mainly driven by the flour milling and trading segment, contributing RM50.318
+million in FYE 2024. Additionally, plantation segment had generated RM0.383 million, accounting for 0.75%
+of the Group’s total revenue as a new income source.
+b)
+Operating Profit
+[MDA_P007]
+The Group recorded a gross profit of RM1.936 million in FYE 2024 compared to RM4.143 million in FYE
+2023, representing a decrease of 53.27%. Consequently, the profit before tax also decreases by 94.31% in
+FYE 2024 compare to FYE 2023, which is RM0.143 million and RM2.515 million respectively.
+c)
+Cash Flows and Liquidity
+[MDA_P011]
+The Group’s cash and bank balances placed with financial institutions decreased by 33.70%, which is
+RM11.145 million and RM16.810 million in FYE 2024 and FYE 2023 respectively. However, the fixed deposits
+with licensed bank increased by 22.66%, which recording RM12.404 million and RM10.112 million in FYE
+2024 and FYE 2023 respectively. By considering the challenges of the operating environment, the Board has
+retained adequate fund to meet financial obligation of the Group.
+[MDA_P017]
+As LKFM’s main raw materials such as wheat and tapioca are fully imported from overseas markets and
+traded in USD. Thus, the fluctuations in USD/RM exchanges rates will have a great impact on its raw material
+costs and further affecting the cost of goods sold. The Group is fitting proactive approach and strategic to
+minimize the risk.
+d)
+Pressure of inflation
+[MDA_P018]
+The pressure of the inflation is not only happening in local, but it is also the global phenomenon that
+experienced in others countries. Inflation has significantly impacted the operating costs for LKFM business.
+The operating cost emphases day-by-day necessary expenses for the Group to conduct business operations.
+The most direct impacts on inflation on operating costs is the increased cost of inputs such as raw material,
+energy and other resources. As the general price level rises, the cost of acquiring these essential inputs tend
+to increase, hence, it maybe directs impacting on the production costs. The Group is regularly reviewing the
+changing of the economic conditions and multifaceted approach, which involve cost management ad risk
+mitigation to adapt the economic conditions.
+e)
+Changes in economic, political and regulatory conditions
+[MDA_P020]
+Similarly, any changes in geopolitical may bring unfavorable future prospects to the business. The Group
+may take a prudent approach to manage these risks internally in the event it arises. However, these risks are
+still beyond the control of the Group.
+[MDA_P021]
+ANNUAL REPORT 2024 | LOTUS KFM BERHAD
+Management Discussion and Analysis
+(cont'd)
+Outlook of Industry
+The operating environment is expected to remain highly competitive in 2025 due to inherent uncertainties and
+unforeseen events that may impact the Group. Despite these challenges, the Group is committed to enhancing
+the Group’s operational efficiency and exploring diverse marketing strategies to boost revenue and profitability.
+The Group will continue monitoring and conduct regular review on the market condition to mitigate potential risk.
+We always uphold our mantra of offering excellent customer services and delivering high-quality products to
+our existing customers while actively securing new business opportunities. The Group will remain focused on
+monitoring prevailing market conditions to ensure sustainable growth.
+Note of Appreciation
+To our shareholders, customers, suppliers and business associates, who have given us valuable support, we wish
+to express our sincere appreciation and thanks to all of your enduring trust and confidence in our business.

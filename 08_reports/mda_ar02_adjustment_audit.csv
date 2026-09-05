@@ -1,0 +1,1 @@
+rating_id,document_id,dimension_code,original_model_raw_score,adjusted_raw_score,adjustment_applied,adjustment_rule,adjustment_reason,numeric_checker_result,raw_output_path,numeric_check_path,comment_short

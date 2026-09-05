@@ -1,0 +1,22 @@
+[TITLE]
+FBM KLCI higher at midday, boosted by bargain hunting
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/30/fbm-klci-higher-at-midday-boosted-by-bargain-hunting
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia maintained its uptrend at midday as investors continued to engage in bargain-hunting, particularly in counters within the consumers products, financial and utilities sectors. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) improved 2.34 points, or 0.15 per cent, to 1,613.88 from Wednesday’s close of 1,611.54. The benchmark opened 2.62 points higher at 1,614.16, and moved between 1,611.83 and 1,615.18 throughout the morning trading session.
+
+[NEWS_P002] However, market breadth was negative with 546 losers outpacing 318 gainers. A total of 474 counters were unchanged, 1,372 untraded, and 101 suspended. Turnover reached 2.35 billion shares, valued at RM1.17 billion. In a note, Malacca Securities Sdn Bhd said the FBM KLCI is expected to trade on a firmer footing after the conclusion of the meeting between United States President Donald Trump and Chinese President Xi Jinping today. The brokerage firm also said better-than-expected post-market earnings from Google may lift sentiment in the technology sector, and foresees the REIT and consumer sectors to outperform ahead of Visit Malaysia 2026, supported by the RM700 million allocation for tourism under Budget 2026.
+
+[NEWS_P003] Among heavyweights, Maybank and IHH Healthcare advanced one sen each to RM9.88 and RM8.26, respectively, and Public Bank added two sen to RM4.21, while CIMB Group and Tenaga Nasional were unchanged at RM7.38 and RM13.30, respectively. On the most active list, TWL Holdings and Borneo Oil were flat at 2.5 sen and half-a-sen, respectively, while Perak Transit slipped two sen to 36.5 sen, Zetrix AI eased half-a-sen to 81 sen, and Top Glove declined 2.5 sen to 62 sen.
+
+[NEWS_P004] Among the top gainers, Nestle jumped RM1.90 to RM111.10, LEAP Market debutant LPC Group surged 40 sen to 50 sen, United Plantations appreciated 36 sen to RM24.64, Chin Teck Plantations climbed 24 sen to RM11.56, and Petronas Dagangan put on 22 sen to RM22.52. As for the top losers, Malaysian Pacific tumbled 84 sen to RM30.28 and Allianz Malaysia slid 18 sen to RM17.88, while Heitech Padu, Southern Cable Group and Sunway shed eight sen each to RM1.92, RM2.04 and RM5.40, respectively.
+
+[NEWS_P005] On the index board, the FBM Emas Index eased 6.31 points to 12,047.39, the FBMT 100 Index slipped 2.57 points to 11,789.98, the FBM Emas Shariah Index declined 21.14 points to 12,118.43, the FBM 70 Index dropped 89.14 points to 17,072.85, and the FBM ACE Index weakened 40.96 points to 5,184.60. Sector-wise, the Financial Services Index rose 28.56 points to 18,198.16, and the Plantation Index added 27.67 points to 7,989.66, while the Energy Index fell 6.55 points to 768.47 and the Industrial Products and Services Index slipped 0.84 of-a-point to 171.33.
+
+[NEWS_P006] - Bernama

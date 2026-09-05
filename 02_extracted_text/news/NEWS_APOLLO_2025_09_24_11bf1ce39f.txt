@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Advancecon, Chin Hin, Hextar, TXCD, JF tech, OM, Kuchai, Solarvest, Edelteq, Southern Cable, Apollo
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-09-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/24/trading-ideas-advancecon-chin-hin-hextar-txcd-jf-tech-om-kuchai-solarvest-edelteq-southern-cable-apollo
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Advancecon Holdings Bhd has formed a long-term partnership with startup SurplusLoop to improve surplus asset management through artificial intelligence and automation. Chin Hin Group Property Bhd is disposing of two freehold industrial plots in Kampung Kangkar Tebrau, Johor Bahru for RM19.3mn cash to Miroad Rubber Industries Sdn Bhd. Hextar Global Bhd and Hextar Industries Bhd have, via their subsidiaries, signed agreements with China's Inspur Enterprise Cloud Technology (Shandong) Co Ltd to collaborate on sustainable solutions in green building and agriculture industries.
+
+[NEWS_P002] TXCD Bhd, formerly Ageson Bhd , has secured a RM75.9mn contract in Sepang after mutually terminating an earlier deal with Mateen Group. JF Technology Bhd 's 75%-owned indirect subsidiary, ATS Technology Services Sdn Bhd, has entered into a shareholders' agreement to acquire a 13% stake in California-based ATS Technology Services Inc for US$1.3mn. OM Holdings Ltd , dual-listed in Australia and Malaysia, has closed the sale of a 60.0% stake in its Chinese smelting unit, OM Materials (Qinzhou) Co Ltd, to Shaanxi Sinian Metal & Mining Co Ltd for about RM70.8mn.
+
+[NEWS_P003] Kuchai Development Bhd has proposed a special dividend of 44.8 sen per share, to be followed by the company's voluntary withdrawal from Bursa Malaysia. Solarvest Holdings Bhd has partnered with Brookfield CTF Asia Holdings Pte Ltd, a wholly-owned unit of Canada’s Brookfield Asset Management, to develop at least 1.5 GW of utility-scale solar and battery energy storage projects in Malaysia over the next three to five years. Edelteq Holdings Bhd plans to raise up to RM19.7mn through a private placement of up to 10.0% of its shares, to be used for working capital and to repay bank borrowings.
+
+[NEWS_P004] Southern Cable Group Bhd ’s non-independent non-executive director Fawiza Faiz has ceased to be a substantial shareholder of the company after reducing the stake to 4.2% from 5.8%. Apollo Food Holdings Bhd reported a 34.3% decline to RM6.4mn in net profit for 1QFY25 on lower export sales and higher operating costs.

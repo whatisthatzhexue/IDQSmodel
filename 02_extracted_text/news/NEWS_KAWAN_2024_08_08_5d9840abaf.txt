@@ -1,0 +1,14 @@
+[TITLE]
+Kawan Renergy bags RM58mil contract
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-08-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/08/kawan-renergy-bags-rm58mil-contract
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Kawan Renergy Bhd has won a RM58mil contract from Kinergy Advancement Bhd to provide mechanical and firefighting works as well as electrical works for a 52MW power plant in Sipitang, Sabah. Kawan Engineering Sdn Bhd (KESB), a unit of Kawan Renergy, entered into an agreement with KAB Energy Holdings Sdn Bhd on Aug 7 to finalise KESB’s appointment as the subcontractor. KAB Energy, wholly-owned by Kinergy Advancement, is the engineering, procurement, construction and commissioning contractor for the project.
+
+[NEWS_P002] In 2023, Kinergy Advancement announced that it has joined hands with Petronas Gas Bhd ’s subsidiary Sipitang Utilities Sdn Bhd to build the country’s largest gas engine power plant with a capacity of 52MW.

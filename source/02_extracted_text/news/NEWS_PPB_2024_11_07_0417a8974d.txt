@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit marginally lower against US dollar at the close
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-11-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/07/ringgit-marginally-lower-against-us-dollar-at-the-close
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit continued its downward momentum against the US dollar on Thursday, albeit marginally, weighed by a decline in Malaysia's international reserves, said an economist. At 6 pm, the local note dipped to 4.4020/4065 versus the greenback from Wednesday’s close of 4.4000/4070. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said Malaysia's international reserves dropped to US$117.6 billion (US$1 = RM4.40) as of Oct 30, 2024, compared to US$119.6 billion on Oct 15, 2024, suggesting an outflow of funds, which resulted in a weaker ringgit.
+
+[NEWS_P002] Bank Negara Malaysia (BNM) said today the country’s latest reserves position was sufficient to finance 4.8 months of imports of goods and services and was 0.9 times the total short-term external debt. Commenting on the ringgit’s retreat, Afzanizam told Bernama that "perhaps, foreign investors were cautious about the prospects for US rate cuts as the American economy is still robust which does not necessitate an aggressive rate reduction.” He said the immediate focus now is on events post the US election, especially comments on policy-related matters by US President-elect Donald Trump.
+
+[NEWS_P003] "But tonight, the focus is on the US Federal Open Market Committee meeting where the consensus is for a 25 basis points cut in the Fed funds rate. Hence, the ringgit will remain rangebound in the immediate term,” he added. At the close, the ringgit was lower against a basket of major currencies. It fell vis-a-vis the British pound to 5.6821/6879 from Wednesday’s close of 5.6751/6841, inched down versus the Japanese yen to 2.8597/8629 from 2.8558/8606 yesterday, and dipped against the euro to 4.7317/7365 from 4.7313/7388.
+
+[NEWS_P004] The local note traded mixed versus ASEAN currencies. It weakened vis-a-vis the Singapore dollar to 3.3178/3216 from 3.3073/3128 at yesterday’s close and went down against the Indonesian rupiah to 279.6/280.0 from 277.8/278.4 previously. However, the ringgit rose versus the Philippine peso to 7.49/7.51 from 7.50/7.51 and climbed against the Thai baht to 12.8290/8492 from 12.8768/9048 yesterday. - Bernama

@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia closes in the red, nearly 1,000 counters decline
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/17/bursa-malaysia-closes-in-the-red-nearly-1000-counters-decline
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia closed deeper into the red on Friday, with almost 1,000 counters declining, tracking losses in key Asian markets despite upbeat local economic data. The market barometer, the FBM KLCI, fell 5.11 points or 0.32% to 1,607.18, after touching an intraday low of 1,604.72. For the week, the index declined 0.93%. All indices on Bursa Malaysia ended in the red, except for the Bursa Malaysia Real Estate Investment Trust (REIT) Index.
+
+[NEWS_P002] In the broader market, decliners outnumbered advancers, with 985 stocks down and 292 up, giving a market breadth ratio of 0.53, indicating that sellers remained dominant. Among the gainers, Nestle rose 30 sen to RM105, IHH Healthcare added 26 sen to RM8.30, Hong Leong Bank advanced 18 sen to RM20.96, while Seremban Engineering gained 8.5 sen to 65 sen. Malaysian Pacific Industries was the top loser on Bursa Malaysia, dropping 68 sen to RM28.92. Ajinomoto declined 30 sen to RM13.50, PETRONAS Gas eased 30 sen to RM18.70, and Kelington Group slipped 28 sen to RM5.52.
+
+[NEWS_P003] Among the banks, Maybank slipped three sen to RM9.89, Public Bank eased two sen to RM4.20, and RHB Bank lost two sen to RM6.73, while CIMB and AmBank were unchanged at RM7.34 and RM5.74 respectively. In terms of fund flows, foreign investors and retailers were net sellers on Thursday, offloading RM11mil and RM59mil worth of equities, respectively. Local institutions remained net buyers with total purchases amounting to RM70mil. Malaysia’s economy grew 5.2% in the third quarter of 2025, improving from 4.4% in the previous quarter, according to advance estimates by the Department of Statistics Malaysia (DOSM).
+
+[NEWS_P004] Separately, trade increased 9.8% year-on-year in September to RM257.51bil, supported by broad-based export growth and marking the 65th straight month of surplus. On the forex market, the ringgit was flat at 4.2290 against the US dollar but fell 0.1% to 3.2675 against the Singapore dollar. On the external front, regional markets mostly ended lower, with only South Korea and Singapore posting modest gains: Japan’s Nikkei 225 fell 1.44% to 47,582.15; Hong Kong’s Hang Seng Index lost 2.48% to 25,247.10; China’s CSI300 Index closed down 2.26% at 4,514.23; Taiwan’s Taiex declined 1.25% to 27,302.37; South Korea’s Kospi advanced 0.01% to 3,748.89 and; Singapore’s Straits Times Index fell 0.97% to 4,314.11 points.

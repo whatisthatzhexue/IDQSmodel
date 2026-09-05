@@ -1,0 +1,123 @@
+document_id: MDA_2836_CARLSBG_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 68, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+CORPORATE
+STRATEGY: SAIL’22
+OUR TWO
+ENABLERS
+OUR SEVEN
+STRATEGIC PRIORITIES
+OUR THREE
+STRATEGIC LEVERS
+CREATE A
+WINNING
+CULTURE
+STRENGTHEN
+THE CORE
+‘Grow in Mainstream’ with
+Carlsberg Danish Pilsner and
+Carlsberg Smooth Draught
+‘Win in Each Store’
+with better in-store
+execution
+‘Fund the Journey’ by
+delivering efficiencies and
+building growth capabilities
+POSITION
+FOR GROWTH
+‘Go Big in Premium’ with 1664, Somersby
+Cider, Connor’s Stout Porter and Asahi
+‘Build New Revenue Streams’ with
+Alcohol-Free Brews and e-Commerce
+DELIVER
+VALUE FOR
+SHAREHOLDERS
+Achieve ‘Growth in Net Profit’
+Deliver stable dividend yield for
+shareholders
+DEFEND
+OUR
+LICENCE
+TO
+OPERATE
+ABOUT SAIL’22
+SAIL’22 was a seven-year (2016-2022) corporate strategy launched
+by the Carlsberg Group, building upon our purpose of Brewing for a
+Better Today and Tomorrow. SAIL’22 was spearheaded by the three strategic levers of Strengthen
+the Core, Position for Growth and Deliver Value for Shareholders. Two enablers underpinned these three levers – Create a Winning
+Culture throughout our organisation, and Defend Our Licence to
+Operate for business sustainability.
+[MDA_P002]
+2022 marked the final year of the SAIL’22 strategy and the transition
+to SAIL’27, which will see us through the next five years. HIGHLIGHTS OF SAIL’22
+SAIL’22 guided us as we navigated through the COVID-19 storm. We
+deployed strategies to adapt while ensuring that the priorities of
+SAIL’22 remained intact. Key to this was our strong focus on driving efficiencies and reinvesting
+our resources into innovation for our brands during the pandemic. This
+helped us capture growth as we emerged from the pandemic, and we
+are now a stronger, more resilient and more sustainable brewer. Our mainstream brands, Carlsberg Danish Pilsner and Carlsberg
+Smooth Draught, continue to be the preferred choice of consumers
+while our premium brands achieved even greater traction, supported
+by our strong commitment to driving product innovation. We managed to set historic highs for profits and revenue in 2022,
+exceeding our pre-pandemic achievements. We also delivered
+consistent returns to shareholders’ funds, i.e. 181.1% in 2022 as
+compared to 64.1% in 2016. This was alongside the meaningful
+progress that we made on our sustainability agenda.
+[MDA_P007]
+After a two-year hiatus, we resumed the country’s biggest and longest-running golf tournament
+– the Carlsberg Golf Classic. Over 3,800 avid golfers from 32 participating clubs took part in
+the tournament nationwide. It was complemented with an inaugural golf festival with special
+golf-and-beer-drinking activities to expand our consumer base among golfing enthusiasts. THE STRATEGIC LEVERS OF SAIL’22
+STRENGTHEN THE CORE
+We have come a long way since the first Carlsberg
+beer was brewed in Denmark 175 years ago. We
+are now one of the world’s top three brewers, and
+we export to over 140 countries globally. As we sail forward, it is our top priority to strengthen
+our core business by constantly introducing
+innovations to our flagship brands, the Carlsberg
+Danish Pilsner and the Carlsberg Smooth Draught,
+while we continue to pursue excellence in execution
+and reinvest resources gained from cost efficiencies
+under our Funding the Journey programme.
+[MDA_P010]
+WHO WE ARE
+SAILING
+FORWARD
+PRIORITIES
+AND COMMITMENTS
+FINANCIAL STATEMENTS
+OTHER INFORMATION
+Integrated Annual Report 2022
+LEADERSHIP
+CREATING
+SUSTAINABLE VALUE
+MANAGEMENT DISCUSSION AND ANALYSIS
+Challenges Faced
+Despite intensive marketing and promotional activities, sales did
+not recover to pre-pandemic levels as our mainstream brands
+were affected by the slower-than-anticipated reopening of
+on-trade businesses, some of which were permanently closed.
+Sailing Forward
+[MDA_P011]
+Going forward, we will focus on driving larger campaigns through the
+amplification of our key activation platforms to attract and retain
+consumers who respond better to experiential-based marketing
+campaigns. This is aligned with the growth ambition of Carlsberg
+to strengthen its brand equity through consumer engagement and
+digital marketing as outlined in the SAIL’27 strategy. Win in Each Store with better in-store execution
+Excellence in execution of distribution and in-store sales is a
+fundamental component of strengthening our core. This is how
+we deliver portfolio growth – by stepping up and continuously
+improving our execution capabilities, aiming to excel at point of
+purchase and to master digital, data and processes. In 2022, we enhanced our point-of-purchase execution by
+increasing the efficiencies in our sales execution and by
+offering winning portfolios in both Malaysia and Singapore. We continued the rigorous implementation of FIT (Focus,
+Implement, Track) to ensure that our product availability,
+pricing, promotion executions, placement and perfect serve
+were delivered on time and accurately across all on- and off-
+trade channels.

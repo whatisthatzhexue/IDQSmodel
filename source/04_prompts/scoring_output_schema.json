@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "document_id",
+    "doc_type",
+    "scoring_basis",
+    "scorebook_version",
+    "evidence_limitation",
+    "dimension_scores",
+    "flags",
+    "overall_comment",
+    "needs_review",
+    "review_reasons"
+  ],
+  "properties": {
+    "document_id": {"type": "string", "minLength": 1},
+    "doc_type": {"type": "string", "enum": ["mda", "news"]},
+    "scoring_basis": {"type": "string", "minLength": 1},
+    "scorebook_version": {"type": "string", "minLength": 1},
+    "evidence_limitation": {"type": "string", "minLength": 1},
+    "dimension_scores": {
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": [
+          "dimension_code",
+          "dimension_name",
+          "raw_score",
+          "reason",
+          "evidence_locator",
+          "evidence_text_short",
+          "confidence_level",
+          "missing_type",
+          "comment_short"
+        ],
+        "properties": {
+          "dimension_code": {"type": "string", "minLength": 1},
+          "dimension_name": {"type": "string", "minLength": 1},
+          "raw_score": {"type": "integer", "enum": [1, 2, 3, 4, 5]},
+          "reason": {"type": "string", "minLength": 1},
+          "evidence_locator": {"type": "string", "minLength": 1},
+          "evidence_text_short": {"type": "string", "minLength": 1},
+          "confidence_level": {"type": "string", "enum": ["high", "medium", "low"]},
+          "missing_type": {"type": "string", "enum": ["none", "structural_missing", "operational_missing"]},
+          "comment_short": {"type": "string", "minLength": 1}
+        },
+        "additionalProperties": false
+      }
+    },
+    "flags": {
+      "type": "object",
+      "required": [
+        "flag_unverified_key_number",
+        "flag_excessive_promotional_tone",
+        "flag_nonstandard_audit",
+        "flag_disclosure_replacement",
+        "flag_retraction_or_correction_needed"
+      ],
+      "properties": {
+        "flag_unverified_key_number": {"type": "integer", "enum": [0, 1]},
+        "flag_excessive_promotional_tone": {"type": "integer", "enum": [0, 1]},
+        "flag_nonstandard_audit": {"type": "integer", "enum": [0, 1]},
+        "flag_disclosure_replacement": {"type": "integer", "enum": [0, 1]},
+        "flag_retraction_or_correction_needed": {"type": "integer", "enum": [0, 1]}
+      },
+      "additionalProperties": false
+    },
+    "overall_comment": {"type": "string", "minLength": 1},
+    "needs_review": {"type": "boolean"},
+    "review_reasons": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": false
+}

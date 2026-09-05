@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI dips 1% as Asian markets slump amid Trump’s tariff turmoil
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/04/fbm-klci-dips-1-as-asian-markets-slump-amid-trumps-tariff-turmoil
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI plunged 1% on Friday, extending its losses as investors adopted a risk-off stance amid a sea of red across Asia following U.S. President Donald Trump's sweeping tariffs. Asian equity markets continued the global slide, with recession fears intensifying as unexpectedly severe tariffs spooked investors, even with markets in China, Hong Kong, and Taiwan closed for a holiday. Japanese shares were among the largest losers, with the Nikkei 225 set for an eye-watering weekly decline of 9%, the sharpest drop in more than five years, Reuters reported.
+
+[NEWS_P002] South Korea’s Kospi fell 0.86%, while Singapore’s Straits Times Index closed down 2.95%. Reuters also reported that Thailand's benchmark index dropped 2.8% to a five-year low, bringing its year-to-date losses to 19.4%. Vietnam stocks plunged 5.8%, hitting a 15-month low after Thursday's nearly 7% drop. Back home, the FBM KLCI dropped 14.77 points, or 0.97%, to 1,504.14, recovering from its intraday low of 1,500.90. The index was down 0.63%, or 9.51 points on week.
+
+[NEWS_P003] In the broader market, losers outnumbered gainers with 777 stocks ending lower and 185 stocks finishing higher, resulting in a market breadth of 0.24, indicating the bears were in better control. About 1.81 billion shares, valued at RM1.89bil, changed hands. All indices on Bursa Malaysia, apart from the Bursa Malaysia Real Estate Investment Trust (REIT) Index, were down. Among the 30 FBM KLCI constituents, 22 stocks were lower, six recorded gains, and two traded flat.
+
+[NEWS_P004] Petronas Chemicals contributed the most to the index decline and had the largest move, decreasing 5.75%, or 20 sen to RM3.28. Nestle provided the biggest boost to the index and had the largest gain, advancing 4.14%, or RM2.90 to RM73. On the broader market, United Plantations slid 50 sen to RM21.42, Malaysian Pacific Industries fell 36 sen to RM17.16 while Heineken added 14 sen to RM26.50 and KLCC climbed 12 sen to RM8.64. On the forex market, the ringgit gained 0.09% against the US dollar, reaching 4.4388.
+
+[NEWS_P005] It also appreciated by 1.51% against the pound sterling, now at 5.7618, and by 0.19% against the Singapore dollar, trading at 3.3182

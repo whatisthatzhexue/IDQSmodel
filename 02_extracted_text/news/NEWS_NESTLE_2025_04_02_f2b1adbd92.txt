@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI edges up amid cautious market ahead of U.S. tariffs
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/02/fbm-klci-edges-up-amid-cautious-market-ahead-of-us-tariffs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI edged up at midday, while the overall market remained cautious as investors awaited U.S. President Donald Trump's new reciprocal tariffs on global trading partners. At midday, the FBM KLCI gained 7.67 points, or 0.51%, to 1,521.32, just below its intraday high of 1,523.07. There were 603 losers, 205 gainers and 370 counters traded unchanged on the Bursa Malaysia. Turnover was relatively low at 1.5 billion shares valued at RM834.26mil.
+
+[NEWS_P002] TA Securities said that following last Friday's selloff, the daily technical momentum indicators for the FBM KLCI are weakening. This suggests further near-term downside. Investors are likely to remain cautious due to the U.S. tariffs set to take effect this week. They are also anticipating retaliatory measures from key trading partners. “Looking ahead, however, the weekly indicators remain positive, showing early signs of a potential reversal of the current downtrend.
+
+[NEWS_P003] “As for the index, immediate support remains at the 1,500 psychological level, followed by 1,472, which represents the 38.2% Fibonacci retracement of the selloff from the 1,896 peaks (April 2018) to the 1,207 troughs (March 2020), with stronger support maintained at 1,450.” “Meanwhile, immediate resistance is maintained at 1,550, followed by 1,580, with a tougher upside hurdle at 1,605,” TA said. Tenaga Nasional, the top gainer on Bursa Malaysia, rose 36 sen to RM13.74.
+
+[NEWS_P004] Hong Leong Bank gained 32 sen to RM20.46, Petronas Dagangan climbed 28 sen to RM18.56 and Malaysia Smelting Corp added 15 sen to RM2.70. Among the decliners, Nestle tumbled RM1.80 to RM72.50, Malaysian Pacific Industries slid 94 sen to RM18.16, United Plantations fell 36 sen to RM22.04 and Batu Kawan eased 22 sen to RM19.38. Meanwhile, Petronas Gas fell 12 sen to RM16.76 with 355,400 shares traded following the fire incident at its pipeline in Putra Heights, Selangor, on April 1.
+
+[NEWS_P005] It said that at this juncture, the financial and operational impact of the incident is still being assessed.

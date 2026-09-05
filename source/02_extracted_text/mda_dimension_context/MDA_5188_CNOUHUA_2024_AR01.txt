@@ -1,0 +1,36 @@
+document_id: MDA_5188_CNOUHUA_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 5, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+CHINA OUHUA WINERY HOLDINGS LIMITED
+Overview of Performance
+Prospects
+[MDA_P003]
+a) Revenue
+For FY 2024, China Ouhua, which is principally involved in importing and sales of grape wines with its sole
+manufacturing plant located in Yantai City, Shandong Province, China recorded a decrease in revenue of
+8.40% or RMB 1.311 million from RMB 15.604 million in FY 2023 to RMB 14.293 million in current financial
+year. Principal target market of China Ouhua's wine products is throughout China. For FY 2024, the sales
+recorded was solely through sales of red wine. Given that the wine market in China remains highly competitive
+and none of red wine and white wine was favoured by the consumers as before , Management had made
+many efforts with the objective to improve the sales revenue. The Company has enhanced the sales of
+imported wine, and the total sales revenue dropped slightly
+.
+[MDA_P004]
+Moving forward, in the next financial year, the Management will continue to work hard to improve the sales
+revenue. The Management of the Company is confident to lead the Company to a new era by diversifying
+c) Liquidity and Capital Resources
+As at FY 2024, China Ouhua had cash and cash equivalent amounting to RMB 17.698 million with no external
+borrowing. The total current assets was RMB 19.493 million and total current liability was RMB4.378 million. Therefore, China Ouhua is confident that its existing financial standing is sufficient to finance its working capital
+b) Profit(Loss) after Taxation
+Loss for FY 2024 was RMB 49.089 million as compared with FY 2023's loss of RMB 7.403 million.The higher loss
+figure in FY 2024 was mainly due to impairment loss on PPE of RMB43.38 million, which was caused by drop in
+market property prices. Eliminate the aforementioned factor the operating loss in FY2024 was comparable to
+FY 2023, Both year's operating result was badly affected by stagnant Chinese wine market,None of red wine
+and white wine was favoured by the consumers as before. requirements for the next 24 months.
+[MDA_P005]
+into importation of overseas wine to market in new areas and online business.

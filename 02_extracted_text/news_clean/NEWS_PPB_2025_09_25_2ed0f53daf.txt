@@ -1,0 +1,20 @@
+[TITLE]
+PPB valuations remain attractive
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-09-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/25/ppb-valuations-remain-attractive
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: Analysts remain positive on diversified group PPB Group Bhd ’s second half of financial year 2025 (2H25) earnings, with the company’s core operations expected to continue to perform well. UOB Kay Hian (UOBKH) Research said this will be driven by its agribusiness and film segments while associate income contribution is also likely to hold steady, due to stabilising crude palm oil prices. It said the group’s agribusiness has benefitted from lower commodity price volatility while flour milling margins have been on the rise thanks to excess supply of wheat – amid favourable weather conditions – which kept feedstock prices down.
+
+[NEWS_P002] The film segment’s positive momentum is expected to be sustained – where 1H25 contribution improved sharply on higher cinema footfall and concession income – supported by an anticipated strong line-up of local and international movie releases in 2H25, the research house added. UOBKH Research noted that the group’s management also expects the impact of the expanded sales and service tax (SST) in Malaysia to be manageable, at around RM30mil per year, of which RM10mil is attributed to higher cinema rental expenses while the rest is mostly tied to an increase in minor raw material prices (key raw materials such as corn and wheat remain SST-exempted).
+
+[NEWS_P003] The research house also said that PPB remains confident that its ongoing legal case in Indonesia involving its associate Wilmar International Ltd will not affect the group’s dividend payouts going forward, having declared a similar 12 sen dividend per share for 1H25. While the potential fine to Wilmar of up to US$729mil could amount to around RM600mil for PPB, management nonetheless highlighted its strong net cash balance would be more than enough to sustain the group’s dividend payouts, it said.
+
+[NEWS_P004] The research house maintained its “buy” call on the company with a new target price of RM14.10 per share, from RM15.80 previously. At last look, PPB’s shares were trading at RM10.22. “This comes as we roll forward our valuation horizon to 2026 while maintaining our 2025 to 2026 earnings estimates,” it said. “The changes to our valuation are largely due to our expectation of the agribusiness contribution normalising in 2026, coupled with stronger ringgit assumptions affecting the valuation of Wilmar’s associate stake.
+
+[NEWS_P005] “We remain positive on the stock for its appealing valuations – still trading at 10 times forward price earnings – despite the minor rebound following its MSCI index exclusion,” the research house added. UOBKH Research said most of the negatives, such as the potential Wilmar penalty, SST impact and PPB’s possible exclusion from the FBM KLCI, had already been priced in.

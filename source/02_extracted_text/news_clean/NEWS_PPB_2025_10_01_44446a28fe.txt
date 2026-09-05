@@ -1,0 +1,22 @@
+[TITLE]
+PPB outlook brightens after Wilmar verdict
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/01/ppb-outlook-brightens-after-wilmar-verdict
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: Conglomerate PPB Group Bhd ’s outlook is clearer following the conclusion of the case against 18.8%-owned associate Wilmar International Ltd, a Singapore-listed company involved in oil palm cultivation. On Sept 25, the Indonesian supreme court overturned a ruling from a 2021 graft case brought against Wilmar involving cooking oil export permits. The supreme court ordered that Wilmar transfer the equivalent of RM3.1bil to Indonesia’s state treasury.
+
+[NEWS_P002] MBSB Research has upgraded PPB’s stock to a “buy” call from “neutral” and revised the target price to RM11.02 from RM9.01 based on the rollover valuation year of the financial year ending Dec 31, 2026 (FY26) earnings per share of 95.8 sen pegged to a price-to-earnings ratio of 11.5 times. “Post-litigation, the long-term outlook for FY26 to FY27 remains decent, as short-term risks appear largely priced in following the recognition of the US$708mil legal compensation.
+
+[NEWS_P003] “As such, we believe the stock to be undervalued at the current juncture.” PPB shared in a stock exchange filing this week that the compensation would turn Wilmar’s upcoming third quarter ending Sept 30, 2025 (3Q25) results into a net loss. Wilmar’s quarterly earnings forecast ranges from US$300mil to US$400mil for FY26 to FY27. “Following the latest verdict, we revise Wilmar’s FY25 earnings lower by 49.3% year-on-year (y-o-y) to US$730.2mil or RM579.3mil, factoring in weaker contributions in the second half of FY25,” the research house said.
+
+[NEWS_P004] It added that earnings at the PPB level have been cut by 38.1% to RM778.4mil while the dividend per share forecast is 25 sen (from 35 sen), which implies a dividend yield of 2.5%. “We believe most short-term risks are largely priced in, while the long-term outlook remains supported by a rebound in Wilmar’s earnings contribution, driven by improvements across most business segments except plantation and sugar milling. “Notably, wheat prices continued to consolidate, averaging US$219.4 per tonne in 2Q25 (minus 6.2% quarter-on-quarter, minus 7.5% y-o-y) versus US$237.2 per tonne in the prior year,” it said.
+
+[NEWS_P005] The research house said moderation in wheat prices, along with prudent feedstock procurement, should help normalise crushing margins within the grains and agribusiness main division. “Overall core business is expected to sustain operating profit well above RM360mil annually over the next three years,” it said. PPB had booked a 9.4% drop in 2Q25 net profit to RM279.84mil compared with the same quarter a year ago largely due to weaker contribution from Wilmar.
+
+[NEWS_P006] Revenue was up 3.1% to RM1.359bil due to contributions across all business segments. In a filing on its latest financial performance, the company said it will continue to prioritise strategic grain sourcing, enhance operational efficiency and maintain its commitment to producing high-quality products. “We expect the grains and agribusiness segment to perform satisfactorily for the rest of the year.” Despite the competitive environment, PPB said its consumer products segment will continue to broaden its product portfolio and strengthen market presence to enhance distribution efficiency.

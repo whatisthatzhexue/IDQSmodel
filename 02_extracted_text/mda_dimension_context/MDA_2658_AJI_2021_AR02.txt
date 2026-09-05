@@ -1,0 +1,92 @@
+document_id: MDA_2658_AJI_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_2658_AJI_2021", "has_cost_discussion": false, "has_margin_discussion": false, "has_profit_discussion": false, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 2, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P032]
+store in low temperature.
+MS1500:2009
+1092-02/2004
+PROD DATE
+EXP DATE
+LOT NO.
+:
+:
+:
+Manufactured by:
+AJINOMOTO (MALAYSIA) BERHAD (4295-W)
+Lot 5710, Jalan Kuchai Lama, Petaling, 58200 Kuala Lumpur, Malaysia.
+Tel: +603-7980 6958 Fax: +603-7980 6817 URL: http://www.ajinomoto.com.my
+Storage Method : Avoid high temperatures, high humidity and direct sunlight.
+CERTIFIED TO MS1500:2019
+REF. NO.: 1092-02/2004
+Malaysian Standard on Halal Food
+General Requirements
+CERTIFIED TO ISO 9001:2015
+CERT. NO.: QMS 00504
+Quality Management Systems
+(“QMS”)
+CERTIFIED TO ISO 14001:2015
+CERT. NO.: EMS 00368
+Environmental Management Systems
+(“EMS”)
+CERTIFIED TO ISO 45001:2018
+CERT. NO.: OHS 00302
+Occupational Health And Safety
+Management Systems
+(“OHS”)
+CERTIFIED TO MS 1480:2019
+CERT. NO.: 53-A4-01757
+Food Safety according to Hazard
+Analysis and Critical Control Points
+System
+(“HACCP”)
+[MDA_P033]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W) | ANNUAL REPORT 2021
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d.)
+India
+OVERSEAS MARKET
+Countries where we export our products to
+China
+Taiwan
+Indonesia
+Singapore
+Brunei
+New Zealand
+MauriƟus
+Maldives
+Sri Lanka
+Hong
+Kong
+Phillippines
+Guatemala
+Brazil
+Peru
+Colombia
+Cambodia
+Myanmar
+Jordan
+Kuwait
+Qatar
+United
+Arab
+Oman
+Yemen
+Bahrain
+Saudi Arabia
+Thailand
+Vietnam
+South Africa
+Ghana
+Nigeria
+Australia
+Japan
+South Korea
+Sales Branches & Overseas Market
+The Company has 10 branches in Malaysia and 1 sales office in Saudi Arabia.
+[MDA_P034]
+The Company’s products are well-received by customers in many countries.

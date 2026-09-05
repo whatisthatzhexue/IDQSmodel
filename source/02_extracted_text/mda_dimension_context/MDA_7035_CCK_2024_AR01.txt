@@ -1,0 +1,130 @@
+document_id: MDA_7035_CCK_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+Profit Before Tax
+RM 112.03
+million
+Current Ratio
+3.91
+times
+Earnings Per Share
+11.51
+sen
+Revenue
+RM 1,057.65
+million
+Profit After Tax
+RM 71.58
+million
+Total Assets
+RM 767.96
+million
+Total Liabilities
+RM 155.11
+million
+[MDA_P002]
+ANNUAL REPORT | 5
+NUMBER OF RETAIL STORES &
+SUPERMARKETS (UNITS)
+MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d)
+1,200,000
+1,000,000
+800,000
+600,000
+400,000
+200,000
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+PROFIT BEFORE TAX
+RM’000
+REVENUE
+RM’000
+EBITDA
+RM’000
+PROFIT ATTRIBUTABLE TO OWNERS
+OF THE COMPANY
+RM’000
+150,000
+120,000
+90,000
+60,000
+30,000
+100,000
+80,000
+60,000
+40,000
+20,000
+5-YEARS FINANCIAL SUMMARY (CONT’D)
+EPS
+Dividend per share
+5.98
+2.00
+1.25
+3.50
+4.25
+3.50
+3.91
+10.12
+13.35
+11.51
+Retail stores
+Supermarkets
+[MDA_P004]
+CCK Fresh Mart retail stores cater to both businesses and households, carrying a smaller range of strategically
+selected stock keeping units (“SKU”) which are specifically targeted to certain locations and buyer demographics. CCK Fresh Mart retail stores are typically smaller format stores located in both urban and rural areas. CCKLocal supermarkets typically occupy a larger footprint and offer households a wide range of SKUs ranging from
+local and imported food items to general household items. CCK’s wide-reaching retail network is supported by a fully
+integrated supply chain consisting of a feedmill, layer farming, poultry farming and processing, prawn farming and
+processing, and the manufacturing of house-brand food products. As Sarawak’s largest integrated poultry supplier, CCK’s wide-reaching retail network benefits from being vertically
+integrated with the poultry segment. Much like the retail network, CCK’s farm operations and processing facilities
+are also located in Sarawak and Sabah. On a blended basis, fresh dressed chicken and chicken parts make up
+approximately 15% of CCK Fresh Mart retail stores’ SKU.
+[MDA_P006]
+Growth was
+driven by more matured contributions from our established retail network, higher sales volumes from both the retail
+and wholesale channels, and strong demand for our in-house manufactured processed products in Indonesia. Notably, our Indonesian manufacturing operations was able to cater to the strong demand due to the additional
+production capacity that came on stream in January 2021. Revenue from our Indonesian manufacturing operations
+(Pontianak and Jakarta) amounted to RM212.6 million, accounting for 20.0% of total Group revenue for FY2024. MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d)
+[MDA_P007]
+ANNUAL REPORT | 7
+MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d)
+The poultry segment reported a total segment revenue of RM374.9 million for FY2024, an increase of 11.4% from the
+same period last year. The better performance was mainly driven by an increasing demand for poultry products with
+sales from both institutional clients and our own retail stores (intersegment sales). The prawn segment’s revenue amounted to RM91.3 million in FY2024, declined marginally by 2.3% from
+RM93.5 million in FY2023. The segment’s performance continued to be driven by the contributions from PT Bonanza,
+which continued to drive overall segment export volumes, particularly to Japan and Taiwan. Sales via our own retail
+channels also remained stable despite some moderation, contributing positively to overall segment performance. The food service segment reported revenue of RM20.8 million, declined from RM24.1 million in FY2023. This was
+mainly due to lower sales volume and demand from the government schools in Sarawak covered under our supply
+contracts. The Group recorded a profit before tax (“PBT”) of RM112.0 million for FY2024, increased 4.3% from RM107.4 million
+in FY2023.
+[MDA_P012]
+In FY2024, we expanded our retail network as follows –
+- Two (2) CCK Fresh Mart retail stores; one (1) in Beaufort, Sabah, and one (1) in Kanowit, Sarawak. Meanwhile, the Group closed one (1) CCK Fresh Mart retail store in Mukah, Sarawak. To recap, the acquisition of PT Bonanza was completed in July 2022, during FY2022. Established for the past
+22 years, PT Bonanza operates out of Tarakan and is engaged in the processing of shrimp for local and export
+markets. PT Bonanza’s key products are frozen raw shrimp, frozen cooked shrimp and frozen Nobashi Ebi shrimp. As evidenced by the performance of the prawn segment in FY2024, the acquisition has augmented our seafood
+business and increased the size and scale of our export-oriented prawn products. Specifically, the prawn segment
+benefitted from a full year of contribution from PT Bonanza which boosted export volumes to Japan and Taiwan. Our manufacturing operations in Indonesia continued to benefit from an overall increase in production capacity due
+to the addition of Pontianak’s facility that was commissioned in January 2021.
+[MDA_P017]
+ANNUAL REPORT | 9
+MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d)
+d.
+Competition Risk
+[MDA_P020]
+We cater to diverse consumer needs with
+a wide range of offerings – including poultry, fresh produce, seafood, and both house-brand and third-party frozen
+goods. While our key business segments are closely tied to consumer sentiment and demand, the inherent resilience
+of these staple products reinforces our position in the market. Employing a vertically integrated business model, this allows us to exert greater control over our supply chain and
+operations. This integrated approach, coupled with the nature of our product offerings, gives us the ability to be agile
+whilst developing a commendable resilience to market fluctuations and challenges. That said, we continue to operate in a high inflationary environment, exerting pressure on costs throughout the supply
+chain. This inflationary trend compounds the challenges posed by fluctuating currency exchange rates and rising
+input costs, further straining our cost structures. Specifically, the volatility of the US dollar against the Malaysian Ringgit remains a concern as it leads to fluctuations in
+prices of corn and soy.

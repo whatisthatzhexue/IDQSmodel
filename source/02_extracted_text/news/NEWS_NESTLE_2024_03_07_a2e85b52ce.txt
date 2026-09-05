@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia rebounds as buying interest returns
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-03-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/07/bursa-malaysia-rebounds-as-buying-interest-returns
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia rebounded from two straight days of declines, buoyed by bargain-hunting activities amid the recent market sell-off. Earlier, Bank Negara kept its overnight policy rate (OPR) unchanged at 3%, a move widely expected by economists. “At the current OPR level, the monetary policy stance remains supportive of the economy and is consistent with the current assessment of the inflation and growth prospects. “The monetary policy committee (MPC) remains vigilant to ongoing developments to inform the assessment on the outlook of domestic inflation and growth.
+
+[NEWS_P002] The MPC will ensure that the monetary policy stance remains conducive to sustainable economic growth amid price stability,” Bank Negara said in a statement. At closing, the FBM KLCI advanced 4.32 points, or 0.28% to 1,535.83. The index hit an intraday high of 1,539.60. In the broader market, gainers outnumbered losers with 546 stocks ending higher and 452 stocks finishing lower. Volume was 3.55 billion shares valued at RM2.6bil. Daily gainers for FBM KLCI constituents at 17 counters outweigh the losers at seven counters, while six remained unchanged.
+
+[NEWS_P003] Among the gainers on Bursa Malaysia, Nestle rose RM1.30 to RM122.30, Heineken added 50 sen to RM23.42, Ta Ann gained 30 sen to RM4.09 and Ajinomoto climbed 28 sen to RM18.94. On the other hand, LPI fell 10 sen to RM12.68, Kotra lost nine sen to RM4.89, PETRONAS Gas slid eight sen to RM17.80 and KESM declined eight sen to RM6.40. Meanwhile, the ringgit was quoted at 4.6982, up 0.72% against the US dollar. Brent crude fell 22 cents to US$82.74 a barrel while US West Texas Intermediate crude was at US$78.94 per barrel, down 19 cents.
+
+[NEWS_P004] Among the key regional markets: Japan’s Nikkei 225 closed down 1.23% to 39,598.71; Hong Kong’s Hang Seng Index fell 1.27% to 16,229.78; Shanghai Composite Index declined 0.41% to 3,027.40; Taiwan’s Taiex rose 1% to 19,693.52; South Korea’s Kospi closed up 0.23% to 2,647.62 and; Singapore’s Straits Times Index fell 0.08% to 3,133.49 points.

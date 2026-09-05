@@ -1,0 +1,14 @@
+[TITLE]
+Perdana Petroleum secures RM11.6mil vessel charter contract
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-07-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/31/perdana-petroleum-secures-rm116mil-vessel-charter-contract
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: Perdana Petroleum Bhd ’s (PPB) wholly-owned subsidiary, Perdana Nautika Sdn Bhd (PNSB) has secured a RM11.6mil contract from DESB Marine Services Sdn Bhd, a wholly-owned subsidiary of Dayang Enterprise Holdings Bhd . In a filing with Bursa Malaysia, PPB said the contract is for the provision of one accommodation work barge (AWB) to DESB Marine. The vessel charter is scheduled to begin on June 16, 2025, with a firm contract period of 130 days and an optional extension of up to 60 days.
+
+[NEWS_P002] PNSB shall provide the AWB with crews and equipment to perform 24-hour services for assisting and/or servicing drilling rigs, offshore installation, derrick barges, towing and anchor jobs. PPB said the vessel charter is part of the strategic alliance between Dayang Group and PPB Group where the utilisation of its vessel can be maximised and qualified to bid for more offshore maintenance works.

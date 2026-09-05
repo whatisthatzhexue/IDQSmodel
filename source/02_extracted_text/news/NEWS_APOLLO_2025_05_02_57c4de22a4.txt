@@ -1,0 +1,20 @@
+[TITLE]
+Apollo, Carlyle acquire first loan-linked private debt
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-05-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/02/apollo-carlyle-acquire-first-loan-linked-private-debt
+confidence_tier: low
+
+[NEWS_P001] TOKYO: Apollo Global Management Inc and other investors have bought the first known bonds that offload risk from bank loans extended to private credit funds known as business development companies. Japan’s Sumitomo Mitsui Banking Corp (SMBC) sold securities known as significant risk transfers earlier this year to shed risk from at least US$3bil of credit lines it had provided to Business Development Companies (BDCs), a popular fund structure among direct lenders, according to sources.
+
+[NEWS_P002] Carlyle Group Inc and Ares Management Corp also bought slices of the first-of-its-kind US$375mil security, said the source. The deal marries two of Wall Street’s hottest markets: The amount of loans globally underlying Significant Risk Transfers (SRTs) is expected to jump as much as 15% this year to US$320bil, according to estimates from Bloomberg Intelligence, as banks deploy so-called capital relief trades in an effort to offload some of their exposure and free up resources for additional lending or investor payouts.
+
+[NEWS_P003] Private credit, meanwhile, has ballooned into a US$1.6 trillion industry, with BDCs raising a record US$24bil from the US bond market last year to help fund deal financings. Representatives for Apollo, SMBC, Carlyle and Ares declined to comment. SRTs, also known as synthetic risk transfers, are effectively a sort of credit default insurance that banks take out from institutional investors by bundling parts of a loan portfolio into a security. The deals lower the amount of regulatory capital the bank is required to hold as a backstop for the loans, while investors, including pensions, sovereign wealth funds and hedge funds, get returns that are frequently in the low double digits.
+
+[NEWS_P004] The market, which has expanded rapidly over the past two years, has largely focused on offloading risk from loans made to highly leveraged companies or, sometimes, financing to private funds known as subscription lines of credit. But now banks are finding investors more willing to assume the risk from a wider variety of assets. SRTs tied to investment-grade BDC credit facilities may increasingly appeal to money managers already familiar with the sector following a record year of bond-market borrowing in 2024, according to Bloomberg Intelligence analyst David Havens.
+
+[NEWS_P005] “They’ve got a deeper understanding of the segment,” Havens said in an interview. The SMBC SRT is tied to a mix of tapped and untapped revolving credit facilities, the people familiar said. — Bloomberg

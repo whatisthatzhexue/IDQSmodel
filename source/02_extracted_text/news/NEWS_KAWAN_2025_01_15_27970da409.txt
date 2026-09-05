@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Yinson, Mah Sing, YTL Power, Kawan, Theta, Target I, AYS, Atlan, Sunway Property, CapitaLand, Oriental Kopi
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-01-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/15/trading-ideas-yinson-mah-sing-ytl-power-kawan-theta-target-i-ays-atlan-sunway-property-capitaland-oriental-kopi
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Yinson Production, an indirect subsidiary of Yinson Holdings Bhd, has secured USD1.0bn worth of funding from a consortium of international investors, led by a wholly owned subsidiary of Abu Dhabi Investment Authority, for expansion. Mah Sing Group Bhd said it is confident that its data centre projects will pass through the proposed US restrictions on the export of artificial intelligence chips.
+
+[NEWS_P002] The digital bank jointly-owned by YTL Power International Bhd and Singapore-based Sea Ltd has received approval from the Ministry of Finance to commence operations, effective Dec 20, 2024. Kawan Food Bhd ’s plan to set up an information technology equipment joint venture with several individuals, including its founder cum major shareholder, and current chairman, has fallen through. Theta Edge Bhd said its subsidiary’s JV deal with iStream360 Sdn Bhd, a data science company, to develop artificial intelligence and blockchain solutions has been terminated.
+
+[NEWS_P003] Target 1 Sdn Bhd announced that the Securities Commission Malaysia has given another seven days' extension for the company to deliver the mandatory takeover offer documentation to South Malaysia Industries Bhd ’s shareholders. Chiew Ho (L) Foundation has emerged as a substantial shareholder in AYS Ventures Bhd , acquiring 239.6mn shares, or 57.3% stake, in the company. Atlan Holdings Bhd is paying an interim dividend of eight sen per share after its 3QFY25 net profit jumped over four-fold to RM29.9mn, lifted by proceeds from the compulsory disposal of a subsidiary's land in Kedah to the Malaysian government.
+
+[NEWS_P004] Sunway Property, the property arm of Sunway Bhd , announced the appointment of Chung Soo Kiong as its new managing director. Capitaland Malaysia Trust has appointed Yong Su-Lin as its new chief executive officer, effective Feb 1. Oriental Kopi Holdings Bhd’s initial public offering was oversubscribed by 59.96 times ahead of its upcoming listing on the ACE Market of Bursa Malaysia, slated for Jan 23.

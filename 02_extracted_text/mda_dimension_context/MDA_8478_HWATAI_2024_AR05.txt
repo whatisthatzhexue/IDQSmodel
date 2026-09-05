@@ -1,0 +1,76 @@
+document_id: MDA_8478_HWATAI_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 9, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 116.121, "paragraph_count": 9, "paragraph_length_distribution": {"max": 1115, "mean": 804.333, "min": 45}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+STATEMENT OF MANAGEMENT
+DISCUSSION & ANALYSIS
+[MDA_P003]
+FINANCIAL POSITION
+The table below provides an overview of the Group’s financial position in FYE2024 and FYE2023:
+FYE2024
+RM’000
+FYE2023
+RM’000
+Total assets
+104,896
+96,847
+Total liabilities
+76,917
+70,163
+Shareholders’ equity
+27,960
+26,665
+Total borrowings
+(Secured lease liabilities were excluded)
+29,502
+29,859
+Cash, bank balances and short-term deposits
+7,945
+7,607
+Net assets per share (sen)
+37.36
+35.63
+Profit / (Loss) per share (sen)
+1.73
+(9.49)
+In FYE2024, Hwa Tai demonstrated a notable improvement in its financial position. Total assets grew to RM104.90
+million, driven primarily by an increase in trade and other receivables as well as inventories. A slight reduction in
+total borrowings, combined with higher cash reserves, reflects enhanced operational efficiency. The net assets per
+share rose to 37.36 cents, signalling that improved profitability has added value to the company. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+[MDA_P005]
+Be leveraging e-commerce, we aim to capitalize on
+consumer trends, improve accessibility, and deliver a seamless shopping experience. 4. Operational Efficiency: To sustain competitiveness, we are continuously upgrading factory facilities, investing
+in advanced machinery, and adopting automation to enhance production efficiency, reduce costs, and ensure
+consistent product quality. 5. Brand Recognition and Marketing: Strengthening brand recognition is integral to our strategy. Through
+targeted marketing campaigns, social media engagement, and promotional activities, we aim to foster
+customer and enhance our brand’s visibility in both traditional and digital markets. SWOT Analysis
+Hwa Tai’s strategic position is shaped by its internal strengths and weaknesses, along with external opportunities
+and threats. Strengths: Hwa Tai has a diverse range of certified food products, strong market expansion strategies, effective
+e-commerce initiatives, operational efficiency, and a well-recognized brand presence.
+[MDA_P007]
+annual report 2024
+HWA TAI INDUSTRIES BERHAD
+BUSINESS STRATEGICS AND RISK FACTORS (continued)
+Risk Factors:
+1. Market Competition: A highly competitive landscape, driven by evolving consumer preferences and new
+market entrants, poses challenges to profitability and market share. 2. Raw Material Price Volatility: Fluctuating costs of key inputs, such as wheat and sugar, impact production
+costs and profit margins. Strategic procurement and cost control are vital to mitigate these risks. 3. Supply Chain Disruptions: Disruptions caused by natural disasters, geopolitical events, or logistical issues
+could impact production schedules and order fulfilment. 4. Consumer Demand Shifts: Changes in dietary trends or economic conditions may affect product demand. Adapting to these shifts is essential to sustain growth. 5. Regulatory Compliance: Adherence to food safety and quality standards is critical. Non-compliance could
+lead to penalties and damage consumer trust. 6. Economic and Geopolitical Risks: Uncertainties in global trade, exchange rates and regulations can affect our
+operations and market access. 7.
+[MDA_P009]
+Digital Transformation: Leveraging e-commerce platforms, digital marketing, and data analytics to optimize
+customer engagement and operational efficiency.
+Marketing Expansion: Exploring opportunities in emerging markets with rising demand for biscuits and confectionery.
+Strategic Partnerships: Building alliances with the food industry to enhance market reach and operational
+capabilities.
+Hwa Tai remains committed to continuous improvement, fostering innovation, and managing risks to ensure long
+term success and deliver value to stakeholders.
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)

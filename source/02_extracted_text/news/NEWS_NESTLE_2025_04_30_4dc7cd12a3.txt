@@ -1,0 +1,22 @@
+[TITLE]
+Strong domestic sales to bolster Nestle Malaysia
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2025-04-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/30/strong-domestic-sales-to-bolster-nestle-malaysia
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Given the steady demand for Nestle (M) Bhd ’s core products like Maggi instant noodles, Nescafe coffee, and Milo chocolate-flavoured drink, the group’s performance in Malaysia is expected to gradually improve over the year supported by recovering consumer sentiment. TA Research said that cocoa and sugar prices had moderated from their peaks, dropping by approximately 4.4% and 11.8% year-to-date, respectively. “With the pricing adjustments implemented in July 2024 and the easing of input costs for certain commodities, we believe Nestle will be better positioned to manage its costs, leading to potential earnings before interest and taxes margin of 10.5% this year.
+
+[NEWS_P002] “We maintain a ‘buy’ rating with an unchanged target price of RM100.28 per share, based on dividend discount model (DDM) valuation,” TA Research said in a report yesterday. Nestle posted a core net profit of RM161.2mil in the first quarter of the year (1Q25), which accounted for 34% of both TA’s and consensus full-year estimates. The research house said the results were within expectations as 1Q earnings are seasonally high due to the Chinese New Year festival and early Hari Raya sales.
+
+[NEWS_P003] Prior to the Covid-19 pandemic, 1Q typically contributed 33% to 37% of full-year earnings, the research house said. The consumer group’s revenue rose by 20.1% quarter-on-quarter (q-o-q) to RM1.8bil in 1Q25, supported by stronger sales during the Chinese New Year and Hari Raya festivities plus an increase in export sales. Meanwhile, core net profit rose more than four fold q-o-q, mainly attributed to higher revenue and improved cost management, which led to a 4.2 percentage point q-o-q expansion in gross profit margin to 31% in 1Q25.
+
+[NEWS_P004] However, on a year-on-year (y-o-y) basis, 1Q25 core earnings declined by 22.8% despite stable revenue of RM1.8bil. No dividend was declared for the quarter under review. Despite the challenges of commodity-price volatility and softening consumer demand if geopolitical tensions are prolonged, CIMB Research said it anticipates a gradual recovery in domestic sales, supported by the easing impact of boycotts and new product launches. The research house estimated that domestic sales made up about 80% of total 1Q25 sales.
+
+[NEWS_P005] “Meanwhile, export sales are also expected to grow, leveraging Nestle’s role as a global halal manufacturing and export hub for the group. While higher commodity prices – particularly for coffee beans and cocoa – could exert pressure on margins, we believe Nestle can mitigate these headwinds via price adjustments, improved sales mix and cost-efficiency initiatives,” CIMB Research said. Underpinned by potentially stronger domestic and export sales, the research house forecasts Nestle’s core net profit this year to grow by 23.6% y-o-y, supported by a 7.9% increase in revenue.
+
+[NEWS_P006] CIMB Research maintained a “hold” call on the stock, while lowering its DDM-based target price to RM86.20 from RM92 before. Meanwhile, Hong Leong Investment Bank Research upgraded the stock to “hold” from “sell”, with an unchanged RM78 target price as it believes the valuation is now “more palatable” with the share price having depreciated by one-third since the firm’s “sell” rating downgrade last July.

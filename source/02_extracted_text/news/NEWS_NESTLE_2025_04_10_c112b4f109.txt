@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI keeps gains at midday as funds flow into heavyweights
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/10/fbm-klci-keeps-gains-at-midday-as-funds-flow-into-heavyweights
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI held on to its massive gains at midday after the domestic market surged on the news of a 90-day pause on US tariffs. At 12.30pm, the index halted for the lunch break at 1,453.13 points, a 64.41-point or 4.6% jump from the previous day's close. Leading stocks in the heavyweight index included Nestle, surging RM5.58 to RM79.30, PETRONAS Dagangan adding RM1.14 to RM19.18, Maybank climbing 47 sen to RM9.97 and CIMB jumping 54 sen to RM6.89.
+
+[NEWS_P002] While domestic blue chips were the target of foreign buying interest, the broader market also rose in tandem with an advancing issuer ratio of 5.96-to-1. Market volume was elevated to 2.85 billion shares valued at RM2.14bil at the end of the first half of trading. Of actives, MYEG rose 7.5 sen to 83 sen, Top Glove gained 8.5 sen to 90.5 sen and Sapura Energy was flat at 4.5 sen. The upward move in the domestic market tracked the sterling recovery in US markets overnight as well as Asia's subsequent rally; Japan's Nikkei led gains with a 8.29% jump to 34,344 while while Singapore's Straits Times index leapt 5.53% to 3,581.
+
+[NEWS_P003] Other countries in Southeast Asia were also similarly buoyed. Vietnam's index climbed 6.67% to 1,167 and Indonesia's composite index rose 4.94% to 6,264.

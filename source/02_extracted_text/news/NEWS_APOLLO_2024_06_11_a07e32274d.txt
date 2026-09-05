@@ -1,0 +1,18 @@
+[TITLE]
+Exclusive-Apollo, Kyndryl in bid for DXC Technology, sources say
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-06-11
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2024/06/11/exclusive-apollo-kyndryl-in-bid-for-dxc-technology-sources-say
+confidence_tier: low
+
+[NEWS_P001] (Reuters) -Buyout firm Apollo Global and Kyndryl Holdings, the information technology services provider that was spun out of IBM, are in talks about a joint bid for DXC Technology, people familiar with the matter said on Monday. Apollo and Kyndryl have discussed an acquisition offer for DXC of between $22 and $25 per share, one of the sources said. DXC shares jumped on the news and ended trading in New York on Monday up 11% at $18.45, giving the company a market value of $3.3 billion.
+
+[NEWS_P002] DXC, which is also an IT services vendor, is separately soliciting bids to sell its insurance software business for more than $2 billion and may opt to remain an independent company under Raul Fernandez, who was appointed chief executive in February, the sources added. The sources requested anonymity because the matter is confidential. DXC and Apollo declined to comment. Kyndryl did not immediately respond to a request for comment. DXC's business offerings include analytics and engineering that help companies manage their operations, as well as cyber security, cloud infrastructure and outsourcing.
+
+[NEWS_P003] The company's revenue has taken a hit over the last year, as high interest rates and fears about an economic slowdown have prompted many of its corporate customers to curb spending. Its shares lost more than a third of their value in the last 12 months. DXC has responded to the slowdown through a series of cost cuts and restructuring initiatives. The Ashburn, Virginia-based company has said it last held talks to sell itself last year, and that it ended these discussions after a private equity suitor failed to raise the necessary financing.
+
+[NEWS_P004] Kyndryl, which specializes in infrastructure IT services, has a market value of $6 billion. Apollo, with $671 billion of assets under management, is one of the world's biggest investors in private equity and corporate credit assets. (Reporting by Greg Roumeliotis and Milana Vinn in New York; Editing by Jonathan Oatis and Lisa Shumaker)

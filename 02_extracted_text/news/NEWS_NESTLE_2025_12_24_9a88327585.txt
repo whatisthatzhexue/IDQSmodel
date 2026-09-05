@@ -1,0 +1,22 @@
+[TITLE]
+FBM KLCI extends rally on Christmas Eve; ringgit at five-year high
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/24/fbm-klci-extends-rally-on-christmas-eve-ringgit-at-five-year-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI rose for a fifth straight session on Christmas Eve to a fresh 16-month high, lifted by year-end window dressing and Santa Claus rally optimism as the ringgit strengthened. The market barometer settled 1.67 points, or 0.1% higher, at 1,678.31 after moving between an intraday high of 1,678.85 and a low of 1,673.64, marking a fresh 16-month high. The index was last at a similar level of 1,678.80 on Aug 25, 2024. There were 500 gainers, 483 losers and 585 counters traded unchanged on the Bursa Malaysia.
+
+[NEWS_P002] Turnover stood at 2.04 billion shares valued at RM1.7bil. Among the gainers, United Plantations rose 46 sen to RM29.86, PETRONAS Gas added 28 sen to RM18.28, Hong Leong Financial Group gained 22 sen to RM18.98, while Heineken Malaysia climbed 16 sen to RM23.02. On the downside, F&N slid 54 sen to RM36.00, Malaysian Pacific Industries lost 32 sen to RM32.42, Allianz Malaysia fell 30 sen to RM20.20, and Nestle Malaysia declined 20 sen to RM115.10. Among the banks, Malayan Banking Bhd declined six sen to RM10.48, CIMB Group Holdings fell seven sen to RM8.11, while AmBank Group rose two sen to RM6.43.
+
+[NEWS_P003] Public Bank, RHB Bank and Hong Leong Bank closed unchanged at RM4.52, RM7.74 and RM22.24, respectively. Meanwhile, the ringgit extended gains, rising 0.41% to touch 4.0475 per dollar — its strongest level since March 2021. Kenanga Research said its end-2025 US dollar-ringgit projection of 4.08 remains intact, reflecting steady trading conditions and year-end positioning, while its end-2026 target of 3.95 reflects a constructive medium-term view. “The ringgit’s firm profile is underpinned by sustained foreign inflows into Malaysian bonds as investors seek higher-yielding, creditable emerging-market assets,” the research house said.
+
+[NEWS_P004] Foreign currency deposits, which surged to a record high of RM300.9bil in September before easing to RM288.9bil in October, reflecting sustained exporters’ repatriation and providing an additional layer of support to the ringgit. “Based on our estimates, a 10.0% reduction in these deposits could lift the ringgit by roughly 3.0% against the US dollar,” Kenanga said. According to data on Bursa Malaysia, foreign investors continued to sell local stocks on Tuesday, offloading RM99mil worth of equities.
+
+[NEWS_P005] Local institutions acquired equities worth RM160mil, while local retailers offloaded RM61mil worth of equities. Around the region, the MSCI Asia ex-Japan Index rose 0.31%, as gains in China and Hong Kong offset losses in Japan and South Korea. Japan’s Nikkei 225 closed down 0.14% at 50,344.10 while South Korea’s Kospi fell 0.21% to 4,108.62. China’s blue-chip CSI300 Index climbed 0.29% to 4,634.06, while the Shanghai Composite Index rose 0.53% to 3,940.95, marking its sixth straight gain — the longest winning streak since July.
+
+[NEWS_P006] Hong Kong’s Hang Seng Index rose 0.17% to 25,818.93. The market was closed for the afternoon session on Christmas Eve and will remain shut on Thursday and Friday for the Christmas holidays.

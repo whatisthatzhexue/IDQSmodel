@@ -1,0 +1,22 @@
+[TITLE]
+FFB growth, land expansion to drive KLK earnings
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2025-03-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/20/ffb-growth-land-expansion-to-drive-klk-earnings
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: RHB Research has raised its earnings forecast for Kuala Lumpur Kepong Bhd (KLK) for the financial year ending Sept 30, 2025 (FY25), citing lower production costs and a recovery in fresh fruit bunch (FFB) production in Indonesia as key drivers. Following an engagement with KLK’s management, the research firm said it remains “upbeat” on the company’s outlook despite challenges in its refining segment. “FY25 should bring stronger earnings as FFB output from Indonesia is set to recover, while costs will likely moderate further.
+
+[NEWS_P002] However, negative refining margins remain a sore point,” it noted. RHB Research highlighted that KLK’s FFB growth for the first four months of FY25, up to January 2025, declined by 1% year-on-year (y-o-y), mainly due to heavy rainfall across all regions. The research firm noted that adverse weather conditions persisted in February, leading to negative month-on-month growth. “However, KLK remains hopeful of positive FFB growth for FY25 once the weather normalises, albeit lower than its budgeted 10% to 12% growth target,” it said, adding that optimism is largely driven by Indonesia, where production surged nearly 100% quarter-on-quarter in the first financial quarter ended Dec 31, 2024 (1Q25).
+
+[NEWS_P003] As a result, RHB Research has revised its FFB growth assumptions for FY25 to FY27 to 4% to 7%, down from 6% to 8%, citing a slower-than-expected recovery. Meanwhile, on production costs, RHB Research said KLK’s cost per tonne in 1Q25 stood at RM1,962, marking a 4.3% y-o-y decline. “KLK expects costs for FY25 to remain below RM2,000 per tonne, on the back of lower fertiliser costs,” it noted. The research firm highlighted that KLK had secured its fertiliser requirements for the first half of FY25 at prices that are 15% to 20% lower y-o-y and has cut its cost assumptions accordingly.
+
+[NEWS_P004] “Management expects labour costs to slightly increase, from the minimum wage hike and the 2% Employees Provident Fund contribution for foreign workers – although, together, this will only have an impact of less than 2% on KLK’s bottom line,” it added. On KLK’s downstream segment, RHB Research noted that it remained under pressure in 1Q25, as margins narrowed to negative 0.4%, primarily due to losses in its refinery sub-segment. “Moving forward, management noted that there may not be a significant recovery for the refinery sub-segment in FY25, given the intensely competitive environment,” it said.
+
+[NEWS_P005] However, the research firm highlighted that KLK’s oleochemical unit is expected to support overall downstream performance, benefiting from stronger margins and a recovery in sales volume, particularly in Europe. “We moderate our downstream margin assumptions accordingly,” it added. On the property segment, RHB Research sees KLK’s expansion efforts gaining momentum. The company’s 2,500 acres of land in Kulai, Johor, has been earmarked for an industrial park development and discussions with potential joint venture (JV) partners are underway.
+
+[NEWS_P006] “KLK would be able to benefit from land sale gains and property development profits once this JV is formed,” RHB Research noted. Meanwhile, it said KLK’s Bandar Seri Coalfields Retail Mall is 40% complete and set to be fully ready by 2Q26, with a net lettable area of 337,000 sq ft.

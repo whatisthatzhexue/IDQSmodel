@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: LCTitan, CelcomDigi, Axiata, MMHE, Capital A, Sapura Energy, Euro, Cahya Mata, Nylex, SDS, Chemlite
+
+[METADATA]
+ticker: SDS
+company_name: SDS Group Berhad
+publish_date: 2025-03-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/07/trading-ideas-lctitan-celcomdigi-axiata-mmhe-capital-a-sapura-energy-euro-cahya-mata-nylex-sds-chemlite
+confidence_tier: low
+
+[NEWS_P001] Lotte Chemical Titan Holding Bhd ’s parent company, Lotte Chemical Corporation, is selling a 25% stake in PT Lotte Chemical Indonesia, which will lower its direct interest in the Lotte Chemical Indonesia New Ethylene Project to 24% from 49%. CelcomDigi Bhd has signed two memorandums of understanding with Huawei Technologies (M) Sdn Bhd and ZTE (M) Corp Sdn Bhd to enhance the country's future digital network. Axiata Group Bhd ’s 63%-owned Edotco Malaysia Sdn Bhd has announced a series of collaborations aimed at accelerating 5G telecommunications infrastructure in Malaysia, including being selected as U Mobile Sdn Bhd’s 5G in-building coverage infrastructure partner.
+
+[NEWS_P002] Malaysia Marine and Heavy Engineering Holdings Bhd 's wholly-owned subsidiary Malaysia Marine and Heavy Engineering Sdn Bhd has signed a joint development agreement with FuelCell Energy Inc., a United States firm. Capital A Bhd 's low-cost airline unit AirAsia Malaysia will relocate its flights to Sabah and Sarawak from Subang Airport to Kuala Lumpur International Airport Terminal 2 starting April 7. Sapura Energy Bhd said the Kuala Lumpur High Court has granted an order approving its debt restructuring plan, which will take effect once a copy of the court order is lodged with the Companies Commission Malaysia.
+
+[NEWS_P003] Euro Holdings Bhd has proposed a slew of corporate exercises, which will see its former group managing director and major shareholder Datuk Seri Steven Lim Teck Boon’s stake expanding to 46.99% from 38.5% currently. Cahya Mata Sarawak Bhd ’s deputy chairman Datuk Seri Mahmud Abu Bekir Taib has filed a lawsuit against the group to inspect its accounts. Practice Note 17 company Nylex (M) Bhd is slated to be delisted from the Main Market of Bursa Malaysia on March 11 after its bid for a further extension to submit its regularisation plan was dismissed by the bourse regulator.
+
+[NEWS_P004] SDS Group Bhd has proposed to undertake a bonus share exercise on a one-for-three basis, one bonus share for every three existing shares held, to reward shareholders and improve trading liquidity of its shares. ACE-Market bound engineering support services provider Chemlite Innovation Bhd aims to raise RM30mn through its IPO.

@@ -1,0 +1,78 @@
+document_id: MDA_7216_KAWAN_2020
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_7216_KAWAN_2020", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 119, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+(cont’d)
+The Food and Beverage (“F&B”) industry in which we operate experienced unprecedented supply and demand
+volatility in FY2020. Movement restrictions impacted supply chain and operational efficiencies industry-wide, resulting
+in growth of frozen food sales at grocers and retailers while, foodservice outlets experienced a dramatic reduction in
+customer footfall for much of the year. Changes in customers’ purchasing and consumption behaviour are summarised
+below:
+F&B
+Market Trends
+and Consumer
+Behaviour
+Shift in food consumption behaviour from eating out to dining in
+due to movement strictions and safety concerns
+Rise of online shopping and food delivery services as shoppers
+prioritised safety and convenience
+Demand for home cooking and frozen products soared in place
+of dining out
+Consumers preferred convenient and healthier food options
+Mainstream groceries and retailers gained market share from
+the drop in food service demand
+Despite facing a succession of challenges, our team rose to the occasion.
+[MDA_P002]
+They demonstrated tremendous energy and
+commitment to calmly navigate an uncertain environment, collaborating and supporting each other while we adapted
+to the new operating conditions. The Group rallied together and successfully turned in a commendable performance
+for FY2020. Kawan At A Glance
+Kawan Food Berhad is an investment holding company based in Malaysia, operating in the food processing industry. Our Company’s principal activities involve the manufacturing, sale, trading and distribution of frozen food products. With over 40 years of heritage dating back to the 1960s, we have grown to become one of Malaysia’s leading exporter
+and largest manufacturer of frozen Asian food delicacies worldwide. We operate two manufacturing plants, one located in Pulau Indah, Selangor, and another in Nantong, China.
+[MDA_P003]
+With staff
+strength numbering 660, we produce a range of food products including paratha, spring roll, pastry, frozen vegetable,
+chapati, finger food, bakery and desserts that are sold under five brands:
+Our products are exported to 37 territories and counting, utilising a range of distribution channels such as distributorship,
+direct sales to key account customers, e-Commerce, and sales to retailers and wholesalers. Strategic Response
+Given our reputation as a frozen food manufacturer, the pandemic-driven market trends worked in our favour as our
+product ranges primarily service the home-dining segment, providing convenient, easy-to-prepare food products and
+frozen-ready-meals for ease of consumption. The trend towards convenient and healthier food options is also aligned
+with the Group’s growth strategy, while the e-Commerce collaborations established in previous years have prepared
+us to meet the surge in digital sales. Our products are also widely available at grocers, retailers and convenience
+stores where consumers are diverting their spending in place of foodservice.
+[MDA_P004]
+KAWAN FOOD BERHAD • ANNUAL REPORT 2020
+Management Discussion and Analysis
+(cont’d)
+Against this backdrop, Kawan was well positioned to take advantage of these shifts in demand. We were mindful to
+ensure that our manufacturing arm could continue production amid the pandemic to keep up with demand growth
+while safeguarding the health of our operations staff. Our aim was not just to recover from the pandemic setbacks but
+to drive growth in all business segments. To power our business through this global crisis, we implemented a range of mitigating measures throughout the year
+to manage cashflow while focusing on maintaining liquidity and preserving the strong financial position of the Group
+to capitalise on opportunities emerging in the landscape of the ‘new normal’. Ensuring Business Continuity
+As a food manufacturing company, Kawan operates in the essential services sector. As such, we were able to continue
+operating our manufacturing facilities for most of the year within the 50% workforce limit set during MCO while
+observing social distancing and with other pandemic prevention measures in place.
+[MDA_P005]
+Our leadership team streamlined our production and product ranges in order to protect margins while maintaining
+supply and availability. As the conditions began to progressively stabilise, we quickly rebuilt the mix elements of our
+product ranges to continue to broaden our consumer choices. We leveraged on our insights in consumer behaviour
+patterns in decision making. We activated our business continuity management processes in the early days of the pandemic, allowing non-
+essential personnel to work off-site and utilised a range of traditional and digital channels of communication to
+maintain operational efficiency. Pandemic prevention measures were put in place at our manufacturing facilities to
+ensure that production can continue safely, while we leveraged the strong supply chain partnerships we built over the
+years to ensure a steady supply of raw materials throughout the outbreak. This allowed us to sustain our production
+and minimise supply disruption to our customers, who appreciated the high level of service provided during this
+challenging period, and our ability to deliver orders on time.
+[MDA_P013]
+Introduced Frozen-Ready-Meals range of convenience
+food products with dishes such as Ayam Masak Lemak
+Cili Api, BBQ Chicken Wings, Chicken Curry, Chicken
+Curry Kapitan, Chicken Rendang and Mutton Curry.

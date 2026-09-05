@@ -1,0 +1,116 @@
+document_id: MDA_0212_SDS_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P005]
+With the rising trend of contactless
+payment to reduce the risk of transmission
+of COVID-19 through physical interaction,
+the Group has enhanced its very own
+SDS mobile application to include
+E-wallet feature. This E-wallet feature
+allows consumers to complete their
+transactions using contactless payments
+at any of its outlets. The Group continues
+to offer innovative solutions to provide
+greater consumer convenience and
+addressing the ever-changing consumers’
+preferences. The Group has expanded its business
+operations beyond Johor Bahru to the
+Central Region of Peninsula Malaysia
+during the financial year. Despite the
+COVID-19 pandemic, the Group continues
+to explore opportunities for growth and
+has successfully set up two new outlets
+at Nilai, Negeri Sembilan and Bangi,
+Selangor. Wholesale Channel
+The Group has launched a series of new
+products such as banana slice cakes,
+pandan chiffon cake and danish bread
+with chocolate chips during the financial
+year.
+[MDA_P006]
+RM2 concept stores has been
+gaining prominence and popularity from
+consumers in Malaysia in recent years,
+this is especially so during the pandemic
+period when the current economic outlook
+is uncertain and consumers are more
+conscious in their spending. The Group
+has collaborated with these chain stores
+and developed a range of products which
+are sold in their stores. The Group further penetrated the market
+in the Northern Region by establishing a
+new distribution centre at Sungai Petani,
+Kedah. With this expansion, the Group
+wholesale distribution network is covering
+10 states out of the 11 states in Peninsula
+Malaysia. The Group aims to continue
+its effort to expand its product range
+and distribution network geographically,
+enabling it to reach out for a wider
+consumer base. ANNUAL REPORT 2021
+[MDA_P028]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+KEY RISK FACTORS
+The Group is cognisant of the importance that the investors and shareholders need to understand the types of risks that it is exposed
+to and how these risks may impact the Group’s business and its operating performance during this pandemic period. The Management is consistently identifying anticipated or known risks that the Group is exposed to in which these risks will have a
+material effect on the Group’s operations, performance, financial condition and liquidity. The Group’s risk management framework
+covers risk identification, assessment and control activities such as monitoring, analysis, communication, internal control, action and
+strategies. A continuous discussion of the plans or strategies is in place to make sure actions are taken to mitigate such risks.
+[MDA_P029]
+The
+Group’s risks mitigation action plans include the following:
+a)
+performing due diligence on the nature, scope and complexity of the activities to identify key risk areas and risk mitigation
+strategies;
+b)
+conducting review of its nature, current scope and activities to identify new risks which may arise; and
+c)
+analysing the impact of the activities on the overall risk profile of the Group, and whether there are adequate measures and
+resources in place to mitigate the risks identified. Anticipated and Known Risk Profiles
+Risks Description
+Mitigating Measures
+Food contamination
+Being in the food manufacturing industry,
+the Group is exposed to the risk of food
+contamination as its food products
+undergo numerous manufacturing
+processes during its production. The
+food ingredients are generally perishable
+and are vulnerable to contamination if not
+properly handled, stored or packed. The Group is taking the following steps to mitigate the food contamination risks:
+1) All production staffs must undergo food handling classes.
+[MDA_P030]
+2) The internal quality assurance department are tasked to review and inspect our
+storage facilities to ensure that the place and raw materials are kept in a clean and
+acceptable condition. 3) The Group will monitor the quality of raw materials received from the suppliers. Any
+sub-standard raw material discovered will be returned to the supplier promptly and
+will not be used in the production process. 4) The Group entities have obtained third parties food safety certification which requires
+periodic audit to be performed to ensure compliance with the food safety standards
+and quality of the manufacturing process. ANNUAL REPORT 2021
+[MDA_P031]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Anticipated and Known Risk Profiles (Cont’d)
+Risks Description
+Mitigating Measures
+Disruption in the operations and
+unplanned shutdowns
+As most of our products are produced
+by the Group internal manufacturing
+facilities, any disruption in the operations
+or unplanned shutdown would affect the
+Group’s ability to generate revenue. Force majeure events such as the
+COVID-19 pandemic can cause
+disruption in operation due to unforeseen
+factory shutdowns and mandatory
+working-from-home arrangement will
+require employees to work from home. The Group has taken up insurance policies to provide coverage against the risk of fire,
+theft and personal accident for our workers. As our manufacturing plants are located at two different locations, in the case when one
+location cannot operate, the other location can function as a backup manufacturing
+facility for those affected products. By having this immediate relief, it will help to lessen
+the impact as a result of disruption of operation in one location.

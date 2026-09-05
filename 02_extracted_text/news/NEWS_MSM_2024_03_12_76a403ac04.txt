@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends higher for fourth straight session
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-03-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/12/fbm-klci-ends-higher-for-fourth-straight-session
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Continuous buying by funds and gains on heavyweights helped push the benchmark FBM KLCI index higher for the fourth straight session on Tuesday. At closing, the 30-stock index rose 9.85 points to 1,554.56, with 20 of the KLCI constituents ending higher while five closed lower. The index hit an intraday high of 1,556.71 and a low of 1,541.36. All indices on Bursa Malaysia, apart from Bursa Malaysia Technology Index, were up. In the broader market, gainers outnumbered decliners 505 to 484, while 479 counters remained unchanged.
+
+[NEWS_P002] Turnover stood at 4.3 billion shares worth RM2.93bil. Stock market data showed foreign funds and retailers were net sellers on Monday disposing of equities worth RM92mil and RM35mil respectively. Local institutions emerged as net buyers with total purchases valued at RM127mil. On Bursa Malaysia, F&N was the top gainer, jumping 44 sen to RM29.66, followed by Nestle, which climbed 40 sen to RM121, PPB, which rose 24 sen to RM15.50 and Tenaga, which climbed 24 sen to RM11.48.
+
+[NEWS_P003] Among the losers, CTOS lost 20 sen to RM1.25, Microlink fell 16 sen to 37 sen, Ge-Shen slid 16 sen to RM3.28 and MSM declined 12 sen to RM2.64. On the forex market, the ringgit was quoted at 4.6792, up 0.06% against the US dollar. The local unit rose 0.14% against the Singapore dollar at 3.5160 and up 0.5% against the pound sterling to 5.9827. It also gained 0.13% against the euro to 5.1126. Among the key regional markets: Japan’s Nikkei 225 closed down 0.06% to 38,797.51; Hong Kong’s Hang Seng Index jumps 3.05% to 17,093.50; Shanghai Composite Index edged down 0.41% to 3,055.94; Taiwan’s Taiex rose 0.96% to 19,914.55; South Korea’s Kospi advanced 0.83% to 2,681.81 and; Singapore’s Straits Times Index rose 0.13% to 3,142.43 points.

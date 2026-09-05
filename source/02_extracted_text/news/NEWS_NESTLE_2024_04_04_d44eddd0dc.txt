@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI jumps on improved global growth outlook
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-04-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/04/fbm-klci-jumps-on-improved-global-growth-outlook
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Investors ramped up the buying of blue chips on Bursa Malaysia as recent inflation data coming out of the eurozone helped to refresh optimism over potential rate cuts, while robust manufacturing data led confidence in global growth. Entering the lunch break, the FBM KLCI was up 14.31 points to 1,551.32, its highest level in over two weeks. The broader market turned decisively higher with the number of rising stocks nearly twice the number of decliners, 569 to 296.
+
+[NEWS_P002] Share turnover was 1.83 billion shares valued at RM1.24bil. While there was some decline in technology stocks, all other sectors on the market were improved. Leading consumer stocks were seen rallying, including Dutch Lady up 80 sen to RM33.44, F&N rising 52 sen to RM30.82 and Nestle gaining 40 sen to RM120.40. In banks, CIMB rose nine sen to RM6.65, Maybank gained seven sen to RM9.69, Public Bank added five sen to RM4.21 and Hong Leong Bank climbed 14 sen to RM 19.46.
+
+[NEWS_P003] Of actives, TWL was unchanged at three sen, Zantat gained six sen to 54.5 sen and Fitters was up 0.5 sen to six sen. Regionally, Japan's Nikkei rose 1.6% to 40,091 to return above the 40,000 psychological level. China's composite index slid 0.2% to 3,069 while South Korea's Kospi gained 1% to 2,732. Hong Kong's stock exchange was closed for the Ching Ming festival.

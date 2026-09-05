@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI flat at midday after seesaw trade
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/19/fbm-klci-flat-at-midday-after-seesaw-trade
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI see-sawed between gains and losses before ending the morning session almost flat. The benchmark index was flat at midday, edging down 0.2 of a point, or 0.01%, to 1,598.73 after recovering from an intraday low of 1,595.68. Winners and losers were closely balanced, with 429 gainers against 435 losers and 466 that were flat. About 1.9 billion shares, valued at RM1.2bil, changed hands. Among the decliners, PETRONAS Dagangan fell 72 sen to RM22.22, Sunway Construction eased 14 sen to RM6.21, Kuala Lumpur Kepong slipped 12 sen to RM20.08 and Concrete Engineering Products shed 10 sen to RM1.07.
+
+[NEWS_P002] On the other hand, Nestle jumped 68 sen to RM95.68, Heineken added 42 sen to RM21.30, Malaysian Pacific Industries rose 36 sen to RM28.90 and UWC gained 33 sen to RM3.66. TA Securities said that while the prospect of further US Federal Reserve rate cuts this year may support local market sentiment, the benchmark’s upside remains limited until more meaningful domestic catalysts emerge. “Immediate resistance is kept at the December 2024 high of 1,644, followed by tougher upside hurdles at the highs of 1,684, and 1,695,” it said.
+
+[NEWS_P003] It noted that immediate support is at the 61.8% Fibonacci retracement level of 1,564, with stronger supports at the 50% retracement (1,527) and 38.2% retracement (1,490). Meanwhile, Malacca Securities said that in view of Wall Street’s positive lead, the FBM KLCI is expected to trade on a firmer note, underpinned by the US interest rate downcycle, which may further improve liquidity in emerging markets. It added that the upbeat sentiment for technology in the US could also spur buying interest in local technology stocks in the near term.
+
+[NEWS_P004] “However, we expect less appetite for export-oriented companies due to the tariff environment and the weakness in the US dollar. “On the data centre front, we believe the theme is here to stay, with the Chinese operator Zdata reportedly seeking a US$500mil private loan recently,” Malacca Securities said.

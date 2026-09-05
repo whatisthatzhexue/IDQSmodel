@@ -1,0 +1,18 @@
+[TITLE]
+Nestle posts RM85mil net profit in 3Q, declares 35 sen dividend
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/24/nestle-posts-rm85mil-net-profit-in-3q-declares-35-sen-dividend
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Nestle (M) Bhd anticipates a return to healthy growth by the first half of 2025, despite expectations of challenging market conditions that are progressively improving in the near term. “We remain confident in our fundamental strength as the leading FMCG player across the multiple categories where we compete. We will continue to build trust in our brands through our responsible corporate actions and by offering Malaysians the best range of great tasting Halal products that meet their health, nutrition and lifestyle expectations under brands they trust,” Nestle said in the notes accompanying its financial results.
+
+[NEWS_P002] “As we have done through our 112 years of presence in the Nation, we will continue to invest in Malaysia for the long run, creating jobs and development opportunities for Malaysians and contributing to the betterment of communities and the planet,” it added. The consumer group reported a net profit of RM85.4mil in the third quarter ended September 30, a decrease of 36.1% compared to RM133.7mil in the corresponding quarter of the previous year. Earnings per share for the period dipped to 36.42 sen from 57.02 sen a year ago.
+
+[NEWS_P003] Its revenue fell 18.4% to RM1.45bil against RM1.77bil last year. This decline was chiefly attributed to the reduction in domestic sales, which is impacted by consumer hesitancy amidst cautious spending and affordability concerns. In the first nine months ended Sept 30, Nestle’s turnover decreased by 11.4% to RM4.75bil from a historic high number of RM5.37bil in the same period last year. Nestle said consumer hesitancy and cautious spending remain the key factor for the decrease with some signs of progressive improvement in the later part of the quarter.
+
+[NEWS_P004] It posted a lower net profit of RM374.5mil in the first nine months against RM511.8mil previously. Nestle declared a second interim dividend of RM0.35 per share for the financial year ending Dec 31, 2024.

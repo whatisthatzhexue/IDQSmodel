@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia remains lower at midday due to profit-taking
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-11-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/12/bursa-malaysia-remains-lower-at-midday-due-to-profit-taking
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia remained easier at midday today as profit-taking continued, especially in plantation and healthcare stocks. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) slipped 3.49 points, or 0.21 per cent, to 1,631.34, from Tuesday’s close of 1,634.83. The benchmark index opened 1.91 points firmer at 1,636.74 and fluctuated between 1,630.19 and 1,641.27 during the morning session. Market breadth was negative with 583 losers versus 367 gainers, while 514 counters were unchanged, 1,255 untraded, and 10 suspended.
+
+[NEWS_P002] Total turnover stood at 2.17 billion shares worth RM1.18 billion. Rakuten Trade Sdn Bhd vice-president of equity research, Thong Pak Leng said that Wall Street was mixed as traders rotated funds out of tech stocks and into those with lower valuations. "Back home, we expect the index to hover between 1,630 and 1,640 today, supported by a stronger ringgit against the US dollar,” he said. Among heavyweights, Maybank was flat at RM9.91, Public Bank fell one sen to RM4.29, CIMB declined 11 sen to RM7.54 and IHH Healthcare lost five sen to RM8.25, while Tenaga Nasional added four sen to RM13.42.
+
+[NEWS_P003] On the most active list, MMAG and Farmiera slid half-a-sen to 8.5 sen and 24.5 sen, respectively. Tanco gained one sen to 94 sen, while Perak Transit and TWL were flat at 27.5 sen and 2.5 sen, respectively. Among the top gainers, Nestle increased RM1 to RM113.0, Fraser & Neave rose 82 sen to RM31.02, United Plantations went up 24 sen to RM26.04, PJBumi appreciated 20 sen to RM1.78 and Westports jumped 20 sen to RM1.78. As for the top losers, Malaysian Pacific declined 62 sen to RM30.78, Petronas Dagangan shed 22 sen to RM22.70, Batu Kawan dropped 20 sen to RM19.0, and Chin Teck Plantations was 16 sen weaker at RM10.70.
+
+[NEWS_P004] On the index board, the FBMT 100 Index contracted 13.0 points to 11,859.36, the FBM Emas Index reduced 16.52 points to 12,097.79, the FBM Emas Shariah Index weakened 4.92 points to 12,127.91 and the FBM ACE Index dipped 32.14 points to 5,043.58, while the FBM Mid 70 Index leapt 35.49 points to 16,921.22. Sector-wise, the Plantation Index edged down 12.41 points to 8,163.99, the Financial Services Index erased 52.69 points to 18,391.20 and the Industrial Products and Services Index gave up 0.18 of-a-point to 168.10, while the Energy Index inched up 0.40 of a point to 759.74.
+
+[NEWS_P005] - Bernama

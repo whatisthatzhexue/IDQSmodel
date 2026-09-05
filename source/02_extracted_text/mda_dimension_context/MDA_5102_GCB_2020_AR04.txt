@@ -1,0 +1,55 @@
+document_id: MDA_5102_GCB_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+OPERATIONAL HIGHLIGHTS
+Production Highlights
+FY2020 was marked by the challenging landscape for our business operations, stemming from several market and supply
+chain issues posed by the effects of the COVID-19 pandemic. For one, our operations in Malaysia were disrupted by the lockdown imposed by the Malaysian Government from mid-March
+till end-April 2020. While we were granted approvals to maintain operations due to our essential goods category, various
+other hurdles arose such as disruptions to trucking and supply activities, and slower response times across other supply
+chain participants. In spite of that, we still managed to sustain our grinding level to near maximum capacity of 250,000 MT in Pasir Gudang
+and Batam, as we continued to ensure that our cocoa ingredients are readily available to be distributed to meet our clients’
+demand. We also managed to register healthy sales of cocoa ingredients in FY2020, albeit at a slightly lower volume from a year
+ago. The lower demand for chocolate was a result of closure of travel borders and global lockdowns imposed by numerous
+often-travelled-to countries in Europe.
+[MDA_P008]
+Inventories, which largely consist of raw materials, rose 25.8% to RM1.3 billion on higher levels of cocoa ingredients and
+consolidation of inventories from SCHOKINAG, compared to RM1.0 billion previously. Trade and other receivables as at
+31 December 2020 increased to RM509.1 million, from RM412.3 million a year ago in line with the Group’s larger revenue
+base. In addition to that, trade and other payables increased to RM364.2 million, from RM325.2 million, largely due to the
+consolidation of trade and other payables from SCHOKINAG. At the same time, GCB’s cash and bank balances improved to RM78.2 million, compared to RM46.8 million in the prior year. Shareholders’ equity as at 31 December 2020 increased to RM1.2 billion, from RM0.9 billion due to increase in retained
+earnings and exercise of warrants. The Group’s total borrowings increased to RM1.1 billion from RM0.7 billion previously as it aimed to undertake expansion
+plans overseas. The increased borrowings in FY2020 was mainly from the first tranche of Islamic Medium Term Notes
+issuance of RM300 million.
+[MDA_P009]
+Of total borrowings, Shariah-compliant loans made up RM354.7 million from RM237.3 million
+prior, as the Group looks to maintain its Shariah-compliant status. Due to the higher borrowings, the Group’s net gearing increased to 0.9 times, from 0.7 times in FY2019. DIVIDEND
+The Group continued to reward shareholders during the year by declaring total dividends of 3.5 sen per share in respect of
+FY2020. This comprised two interim dividends of 1.5 and 1.0 sen per share, along with a proposed final dividend for 1.0
+sen per share, subject to shareholders’ approval at the Annual General Meeting. Combined, the total dividend payout will be RM36.0 million, which represents 16.1% of FY2020 net profit attributable to
+shareholders. RISKS
+Competition
+As a medium-sized cocoa player in the market, we face the risk of heightened competition against major multinational
+companies with wider presence in the market, larger capacities, and better bargaining power. These players tend to have
+an end-to-end value chain, from producing and trading of cocoa ingredients to branding and distribution of chocolate and
+cocoa-based products.
+[MDA_P010]
+Despite that, we are constantly enhancing our competitiveness in this industry. By improving operational efficiency, as well
+as delivering products of exceptional quality and services to our clientele, we are able to stand out against our peers to
+gain additional market share. In addition, the expected completion of our grinding facility in Cote D’Ivoire in the first quarter
+of 2022 would allow us to source directly from one of the key origins of premium cocoa beans, and better position us to
+ride the recovery trend of chocolate demand, as well as support the production requirements of our Europe expansions. Supply Risk
+With majority of cocoa beans plantations located around the equator, primarily in South America and Africa, climate change
+is a key risk. Reduced rainfall or prolonged droughts would affect the yield of cocoa beans, resulting in lower supply of
+cocoa beans. Furthermore, the long shipment duration of cocoa beans from these regions and cost of delivery may affect our
+competitiveness in the market.
+[MDA_P011]
+Cocoa bean supply from Southeast Asia has also been on a downtrend over the last few
+years, thus requiring us to diversify our bean sources to other countries in Africa and South America. To manage this risk, we have planned to establish our foothold into Cote D’Ivoire, the largest cocoa bean producing country,
+via setting up a new cocoa grinding facility there. Site works for the new facility commenced in 2019 and is progressing
+smoothly. It is targeted for completion by the first quarter of 2022, and upon completion, the plant will enable easier access
+to a sizeable raw material source and allow us to meet the increasing demand from customers.

@@ -1,0 +1,26 @@
+[TITLE]
+Apollo boosting hybrid credit, equity business
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-12-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/12/apollo-boosting-hybrid-credit-equity-business
+confidence_tier: low
+
+[NEWS_P001] NEW YORK: Apollo Global Management Inc is expanding two hybrid strategies, which supply financing that sits between credit and private equity, as it ramps up alternatives to buyouts. Alternative asset managers are trying to entice investors into new funds such as these after years of poor private equity distributions. Many institutional investors only commit to new vehicles if firms release their capital in old funds. Some investors said they’ve exceeded the amount they can allot to private equity.
+
+[NEWS_P002] However, certain investors can allocate to hybrid equity from other buckets, creating an opening for firms such as Apollo. “We’re seeing investors allocate capital from their private equity or special situations budgets,” David Sambur, Apollo’s co-head of equity, said in an interview. Hybrid strategies offer “credit-like” yields and equity upside, while getting more protections than would otherwise be found in those funds, he added. Apollo declined to comment on specific funds.
+
+[NEWS_P003] The firm’s hybrid strategies offer debt and structured-equity capital to firms whose founders want to transform their businesses without relinquishing control. Apollo’s hybrid product has a shorter hold period than typical private equity, but a longer one than private credit. The firm said it aimed to provide “value-add solutions” with a less hands-on approach than a typical buyout. Apollo is set to debut its third vintage fund under its Hybrid Value strategy with a roughly US$6bil target next year.
+
+[NEWS_P004] Meanwhile, Apollo Aligned Alternatives (AAA), a fund for wealthy individuals, is on track to hit US$20bil by the end of this year from about US$18bil in November, the firm said on its most recent earnings call. Apollo sees its hybrid equity business, which houses AAA and Hybrid Value strategies, as a potential replacement for public equities in pension funds, and has touted low-double-digit rates of return. The firm already manages about US$70bil in hybrid strategies.
+
+[NEWS_P005] Many in private markets including Apollo chief executive officer Marc Rowan have been promoting the need for more private equity, illiquid products in everyday investors’ retirement plans, and said daily access to funds isn’t necessary in these long-term investments. The hybrid model can be particularly appealing as many startups remain private for longer, and as private equity firms look for ways to spend the trillions of dollars of dry powder that has accumulated during the deal rut in the past couple of years.
+
+[NEWS_P006] “The private markets sorely need this,” Sambur said. “We are seeing more and larger deal opportunities.” In recent years, Apollo has diversified away from its private equity roots. During its earnings call in November, Apollo said it’s expecting to double the assets it manages to US$1.5 trillion over the next five years, with credit and hybrid equity being key drivers of growth. Other alternative asset managers such as Ares Management Corp are also marketing hybrid strategies, capitalising on demand for credit products from top players.
+
+[NEWS_P007] Los Angeles-based Ares is looking to raise about US$7bil for a strategy recently renamed Opportunistic Credit, according to a person familiar with the matter. Earlier this year the firm moved the product from its private equity business to its credit unit. Ares declined to comment. Some institutional investors will likely be loath to invest in a fund that doesn’t fit into a single category. “A hybrid equity product is not consistent with our investment beliefs,” Jonathan Grabel, chief investment officer of the Los Angeles County Employees Retirement Association, said in an interview.
+
+[NEWS_P008] “We are strategic about our asset allocation – is this a debt or an equity product?” — Bloomberg

@@ -1,0 +1,75 @@
+document_id: MDA_7237_PWROOT_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 22, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION
+AND ANALYSIS
+[MDA_P003]
+In the wider global context, the Group benefited from favourable market movements this past year. The lower price of
+raw materials, coffee in particular, contributed to an improvement in margins. At the same time, the strengthening of
+the US dollar (USD) against the Ringgit (MYR) boosted our export-led sales earnings.
+[MDA_P012]
+Power Root Berhad Registration Number: 200601013517 (733268-U) I Annual Report 2020
+Our new brand, “Warung” by Alicafé and Alitéa won the ‘Best Breakthrough Advertiser’ award for our television commercial
+which resonated with the Malaysian audience. The commercial titled “Macam Dolu-Dolu” revived memories of yesteryears
+with an original soundtrack and scenes inspired by national legend P.Ramlee’s famous works. Alicafé Tongkat Ali and Ginseng (TAG) relaunch campaign
+We launched a new television commercial featuring three ambassadors who personified the strong, spirited TAG
+benefits - fireman-cum-singer Syafiq Farhain, renowned skateboard veteran Pa’din Musa and multitalented actor, host
+and singer, Alif Satar. From March to May 2019, 45 billboards featuring Alicafé TAG were prominently displayed along both sides of the North-
+South Expressway, from Johor in the south through to Kedah in the north. In addition, 6 giant billboards featuring Alicafé
+TAG were taken up in key city and town areas to promote awareness of Alicafé TAG’s ‘Lebih Padu Untuk Segalanya’
+campaign. Ah Huat promotions
+As one of Power Root’s main brands, Ah Huat promotions spanned a spectrum of events.
+[MDA_P015]
+Fairuz, a P. Ramlee look-alike who also sounds like the
+legendary actor-singer, helped us recreate and relive the happy memories and taste of yesteryears which is what the
+Warung brand stands for. EXPORTS
+The Group’s export sales increased from RM173.5 million to RM208.7 million in the past year. This rise was led by
+distribution channel improvements and sales force efficiency and effectiveness. In keeping with changes made in our local operations, the Group also took measures to improve on our operations abroad. In China, Power Root has restructured our online business by setting up a dedicated and experienced online sales team
+to further penetrate China’s fast-growing e-commerce sector. In addition, we have repositioned each individual online
+channel for more robust growth. We set up two subsidiaries - Power Root HK-China Company Limited and Power Root
+(Shanghai) Food Trading Co., Ltd - to improve the supply chain management of our goods. Additionally, we engaged a
+third-party logistic partner to allow for better control in the supply of goods to our customers. Management Discussion And Analysis
+Cont’d
+[MDA_P017]
+PRODUCTION
+Over the past year, we have reviewed our manufacturing footprint and added in two new filling machines to raise our
+annual output to 2.7 million cartons. We are also in the process of replacing some of our old filling machines to improve
+production efficiency. FINANCIAL REVIEW
+Revenue and Profit After Tax (“PAT”)
+For the fiscal year end (FYE) 2020, we recorded profit after tax (PAT) of RM51.7million, an increase of 84.0% from the
+PAT of RM28.1 million in FYE 2019. This is the highest-ever net profit we have achieved in our corporate history, and demonstrates the first fruits of the
+ongoing Business Transformation Programme. The PAT increase was a result of higher sales, a favourable sales mix, as well as a reversal of the impairment loss on
+trade receivables – RM4.8 million this year against an impairment loss on trade receivables of RM6.5 million in prior year. For FYE 2020, the Group recorded revenue of RM386.1 million, an increase of approximately 14.2% from the revenue of
+RM338.0 million recorded in the previous FYE 2019. This increase was due to higher sales locally and through exports. Export earnings were mainly derived from sales in the GCC countries within MENA.
+[MDA_P019]
+Power Root Berhad Registration Number: 200601013517 (733268-U) I Annual Report 2020
+Statement of financial position
+FYE 2020
+(RM’000)
+FYE 2019
+(RM’000)
+Total Assets
+376,573
+332,155
+Equity attributable to owners of the Company
+253,261
+218,812
+Total Liabilities
+122,835
+112,965
+Borrowings
+8,447
+18,610
+Gearing (times)
+0.03
+0.09
+The Total Assets of the Group increased by RM44.4 million, mainly a result of an increase in cash and cash equivalents. The Total Liabilities of the Group increased by RM9.9 million; this was mainly due to increases in trade and other payables,
+offset by lower short term borrowings. With a low gearing of 0.03 as at 31 March 2020, the Group’s financial position is sound. DIVIDENDS
+For FYE 2020, the Group announced dividends as follows:
+On 1 October 2019, the Group paid a first interim single tier dividend of 2.0 sen per ordinary share amounting to RM7.9
+million in respect of FYE 2020.

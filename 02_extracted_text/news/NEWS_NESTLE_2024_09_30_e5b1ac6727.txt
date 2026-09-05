@@ -1,0 +1,16 @@
+[TITLE]
+Company pitches in with food aid for flood victims
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2024-09-30
+source_name: The Star
+url: https://www.thestar.com.my/metro/metro-news/2024/09/30/company-pitches-in-with-food-aid-for-flood-victims
+confidence_tier: low
+
+[NEWS_P001] WITH thousands at relief centres due to severe flooding in Kedah, Nestle Malaysia stepped up its aid efforts. Joining hands with Malaysian Red Crescent Society (MRCS) to support flood relief efforts, Nestle staff packed and distributed food aid alongside MRCS volunteers on the ground. Products such as Milo, Maggi, Koko Krunch and Nestle Omega Plus were included in boxes given to flood victims putting up at temporary evacuation centres (PPS). The company had so far contributed RM2mil to MRCS for flood preparedness measures during the monsoon season, said Nestle Malaysia chief executive officer Juan Aranols.
+
+[NEWS_P002] He credited the company’s strong partnership with MRCS for enabling their swift response. “Starting with Kedah, we stand ready to extend support where it is needed, reinforcing our commitment to being a force for good and uplifting Malaysians, especially during challenging times.” MRCS chairman Tan Sri Tunku Puteri Intan Safinaz Sultan Abdul Halim Mu’adzam Shah described the joint effort as crucial. “The strength of our collaboration with Nestle Malaysia has been invaluable in our mission to provide relief to those affected.
+
+[NEWS_P003] “Our efforts demonstrate how this enhances our capacity to provide timely, effective aid during critical periods. “As we face the potential for wider flood impacts, this continued support is crucial in our efforts to assist affected communities throughout Malaysia,” she said.

@@ -1,0 +1,69 @@
+document_id: MDA_7035_CCK_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 19, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+FINANCIAL REVIEW (CONT’D)
+Revenue for the financial year ended 31 December 2021 (“FY2021”) increased by 4.5% to RM685.5 million against
+the corresponding period last year (“FY2020”), a record high for the Group.
+[MDA_P002]
+Our retail network expanded in FY2021 to 63 CCK Fresh Mart retail stores, 2 CCKLocal supermarkets and 6 wholesale
+stores giving us 71 touchpoints, up from 67 in FY2020.
+Revenue growth in FY2021 was largely driven by a 9.2% increase in retail segment revenue. The strong performance
+of the retail segment was brought about by a full year of contributions from the new CCKLocal supermarkets and new
+facilities in Pontianak, Indonesia.
+Revenue contribution from the Group’s Indonesian operations (which are classified under the retail segment)
+increased to 20.2% in FY2021 from 17.7% in FY2020. This was brought about by an overall increase in production
+and sales volumes of our own in-house brands of sausages, nuggets and other processed products. Additionally,
+operations benefitted from increased production capacity due to Pontianak’s new facility that was commissioned in
+January 2021.
+[MDA_P003]
+The poultry segment was affected by overall lower volumes and declined to RM83.7 million in FY2021. Poultry sales
+via our own retail stores (intersegment sales) remained robust, tracking the performance of the retail segment. The prawn segment revenue grew by 10.8% in FY2021. This was largely due to the acquisition of new customers in
+Korea in addition to our traditional markets in Australia and Japan. Sales to local customers through our CCK retail
+network in Sarawak also improved. The food service segment reported a revenue of RM5.9 million in FY2021. The segment was hampered by the closure
+of boarding schools in Sarawak. This is reflected in the minimal contribution to Group revenue during the year. The Group’s profit before tax (“PBT”) for FY2021 declined by 34.9% to RM31.2 million. Gross profit margin declined to
+17.40% from 19.44% in FY2020. The decline in profitability and margin compression was largely due to a significant
+increase in feed prices affecting the poultry segment and an overall increase in operating expenses due to the
+expansion of our Malaysian retail network and Indonesian operations.
+[MDA_P004]
+The hike in feed prices resulting from the increase in prices of soy and corn had a direct negative impact on the poultry
+segment, which reported a loss of RM6.0 million in FY2021. Other operating expenses increased by 9.0% due to the costs associated with the commissioning of the new Pontianak
+facilities in January 2021 and flowthrough effects from the opening of two (2) CCKLocal supermarkets and four (4)
+CCK Fresh Mart retail outlets in FY2021. Share of results in our associate company, Gold Coin Sarawak Sdn Bhd, declined by 14.41% to RM5.5 million from
+RM6.5 million in FY2020. This was due to the sharp increase in prices of raw materials such as soy and corn, resulting
+in lower margins. Finance costs for the year decreased marginally by 3.2% to RM2.0 million as Bank Negara Malaysia kept the OPR
+rate at 1.75% throughout FY2021. Total borrowings stood at RM40.3 million against shareholders’ funds of RM314.2
+million as at end FY2021, translating into a gearing ratio of 0.13x. The Group remained in a net cash position as deposits with licensed banks and cash and bank balances stood at
+RM57.8 million.
+[MDA_P008]
+Despite the on-going depressed pricing (below pre-pandemic levels) of prawns on the international market, the prawn
+segment benefitted from an increase in export volume. This was largely due to the acquisition of new customers in
+Korea in addition to our traditional markets in Australia and Japan. Sales to local customers through our CCK retail
+network in Sarawak also improved. Our operations in Indonesia were not affected by the pandemic as, unlike Malaysia, no nationwide lockdowns and
+movement controls were declared by the Indonesian authorities. This allowed operations to proceed and there was
+no disruption to our manufacturing facilities in Jakarta and Pontianak. Operations benefitted from increased production capacity due to Pontianak’s new facility that was commissioned in
+January 2021. This paved the way for an overall increase in production and sales volumes of our own in-house brands
+of sausages, nuggets and other processed products. Sausages continue to be the Group’s best seller in Indonesia whilst the sales of nuggets continues to gain momentum.
+[MDA_P012]
+The Group imports frozen products for the network of retail stores where the purchases are denominated in US
+dollars. As such, the Group is exposed to currency fluctuation risk. Any adverse fluctuation in the MYR/USD
+rate may affect the profitability of the Group. In addition, fluctuations in the MYR/USD will likely affect the cost
+of feed for the poultry segment.
+c.
+Liquidity Risk
+[MDA_P015]
+Concerns regarding disease and biosecurity at our chicken farms are constantly high on the agenda. The
+economic impact of a disease outbreak in any farm can be catastrophic on CCK’s bottom line. Constant
+monitoring is a compulsory standard operating procedure across all our operations even as we continuously
+innovate and update our biosecurity measures. DIVIDENDS
+CCK has an internal dividend policy of paying up to 30% of the profit after taxation and minority interests whilst taking
+into consideration the level of available funds, the amount of retained earnings, capital expenditure commitments and
+other investment planning requirements. In line with our continued focus on shareholder returns, the Board is pleased to announce a first and final single-tier
+dividend of 1.25 sen per share for the financial year ended 31 December 2021. PROSPECTS
+Looking back at 2021, more than a year since the emergence of Covid-19; Malaysia continued to experience a tough
+and disruptive operating environment due to the extension of the Movement Control Order (“MCO”) and multiple
+lockdowns.

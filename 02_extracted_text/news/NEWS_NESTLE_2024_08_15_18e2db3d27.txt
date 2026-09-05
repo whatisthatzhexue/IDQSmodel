@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI stumbles in morning trade, bucks regional trend
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/15/fbm-klci-stumbles-in-morning-trade-bucks-regional-trend
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The domestic market fell shortly after its opening, defying expectations of a rally following the release of positive US inflation data overnight. The FBM KLCI started the day 2.28 points higher at 1,614.63, but descended shortly thereafter. By 9.45am, it was registering a decline of 5.64 points at 1,606.71. Apex Securities Research said in its pre-market open report it expected the key index to march higher, attempting to build on its recovery after stabilising above 1,600 pts recently.
+
+[NEWS_P002] "Meanwhile, the lower liners are also turning more favourable, supported by the positive market breadth as bargain hunting activities remain in place," it said in a note. The research firm said it favours the construction sector, riding on improving prospects and fundamentals while export-related players may be impacted by the weakening of US$ against a basket of currencies, including the ringgit, which stands at its strongest in 16 months. Among the FBM KLCI counters, PETRONAS Dagangan dropped 62 sen to RM18.86, Press Metal slid seven sen to RM4.96 and Maybank fell four sen to RM10.16.
+
+[NEWS_P003] There were few blue chips in positive territory, with the exception of Nestle up 40 sen to RM108.30, Hong Leong Bank gaining six sen to RM19.56, RHB adding one sen to RM5.70 and Kuala Lumpur Kepong rising two sen to RM21.05. Leading gainers on the broader market included PMB Technology up 11 sen to RM2.08, Plenitude gaining six sen to RM1.53 and Padini rising six sen to RM3.31. Top actives included SP Setia, which dove 16 sen to RM1.36 following the release of its results yesterday, Sime Property down 11 sen to RM1.38 and AHB falling 0.5 sen to 4.5 sen.

@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia slips at open amid global market jitters over US tariffs
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/04/bursa-malaysia-slips-at-open-amid-global-market-jitters-over-us-tariffs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia opened lower as investor sentiment weakened following Wall Street’s overnight losses and a selloff sparked by US President Donald Trump’s reciprocal tariff announcement. Overnight, the S&P 500 lost 274.45 points, or 4.84%, at 5,396.52 points, while the Nasdaq Composite dropped 1,050.44 points, or 5.97%, to 16,550.61. The Dow Jones Industrial Average fell 1,679.39 points, or 3.98%, to 40,545.93. The FBM KLCI fell 6.32 points, or 0.43% to 1,512.32 at 9.20 am.
+
+[NEWS_P002] It opened 9.9 points lower at 1,518.91. There were 444 losers compared to 77 gainers, while 232 stocks traded unchanged. Turnover amounted to 241.9 million shares, valued at RM147.5mil. On Bursa Malaysia, F&N slid 30 sen to RM23.60, PETRONAS Dagangan fell 26 sen to RM18.26, Carlsberg lost 20 sen to RM18.74 and Hong Leong Industries declined 20 sen to RM13.80. Nestle rose RM1 to RM71.10, Kuala Lumpur Kepong added 28 sen to RM20.74, Panasonic Manufacturing gained 22 sen to RM13.88 and IHH Healthcare climbed five sen to RM6.80.
+
+[NEWS_P003] Inter-Pacific Research said that near-term market conditions were likely to remain unsettled, with a downward bias still in place as the effects of the tariffs were digested. “As it is, stock markets around the world are still coming to terms with the hefty tariffs with the slump in key global equity markets overnight to reverberate to Malaysian equities for the time being,” the research house said,” it said, adding that this would sustain the market's volatility, and the key index was likely to close the week on a sombre note once again.
+
+[NEWS_P004] Nevertheless, Inter-Pacific said the downsides could again be measured as the direct impact on the Malaysian economy could be limited as exports to the U.S. amount to about 10% of the country’s total exports. “At the same time, the FBM KLCI’s year-to-date losses have partly reflected the tariffs and with undemanding valuations, the selling could be limited. “The FBM KLCI’s supports are now at 1,510-1,513 levels, followed by the 1,505 points, while the resistances are at the 1,526 and 1,531 levels respectively,” it said.
+
+[NEWS_P005] Meanwhile, Rakuten Trade expects the index to hover between the 1,510-1,525 range. “We believe Trump’s latest move has placed the global economy prospects up in the air overcast by inflation and deflation. Overall, we see the US may end up as the biggest loser on its Liberation Day,” it added.

@@ -1,0 +1,28 @@
+[TITLE]
+Bursa Malaysia ends at intraday high
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-09-17
+source_name: The Star
+url: https://www.thestar.com.my/business/2025/09/17/bursa-malaysia-ends-at-intraday-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR, Sept 17 (Bernama) -- Continued buying momentum in financial services heavyweights pushed Bursa Malaysia to close at its intraday high today, with the key index strengthening its position above the 1,600 psychological level. At 5 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) rose 11.57 points to 1,611.70 from last Friday’s close of 1,600.13. The index opened 2.09 points higher at 1,602.22, and subsequently hit its lowest level of 1,599.61 in early trade.
+
+[NEWS_P002] On the broader market, gainers led decliners 739 to 409, while 501 counters were unchanged, with 969 untraded and seven suspended. Turnover widened to 3.13 billion units worth RM3.16 billion from 2.23 billion units worth RM2.10 billion last Friday. Bursa Malaysia was closed on Sept 15 (Monday), which is an additional public holiday in conjunction with Malaysia Day on Sept 16 (Tuesday). Rakuten Trade Sdn Bhd vice-president of equity research Thong Pak Leng said the FBM KLCI finished higher with broad-based buying, which is also in line with the encouraging regional performance.
+
+[NEWS_P003] He said the key regional indices ended mostly higher with strong buying in China and Hong Kong on tech stocks driven by technology sector strength, fueled by positive sentiment around US artificial intelligence (AI) developments. "As for the local bourse, the benchmark index has regained momentum, with the latest move above the key 1,600 psychological level, strengthening the case for an advance toward the next resistance zone of 1,620-1,650. "This healthier base formation suggests the latest breakout attempt has greater durability, potentially setting the stage for a more sustained uptrend if buying interest persists,” he told Bernama.
+
+[NEWS_P004] Meanwhile, Berjaya Research Sdn Bhd head of research Kenneth Leong said the positive bias on the local bourse is expected to sustain, underpinned by a widely anticipated US Federal Reserve (Fed) move to trim interest rates by 25 basis points later tonight. "A more accommodative monetary stance by the Fed would likely improve global liquidity conditions, bolster risk appetite, and potentially channel renewed foreign fund inflows into emerging equities, with Malaysia set to benefit from its relatively attractive valuations and stable earnings outlook,” he said.
+
+[NEWS_P005] Leong added that technically, the FBM KLCI has formed a bullish trend and might head towards the near-term resistance located at 1,620 points, while the support level is pegged at 1,580 points. Among heavyweights, Maybank rose seven sen to RM9.94, Public Bank gained five sen to RM4.30, CIMB advanced 15 sen to RM7.52, Tenaga gained six sen to RM13.44, and IHH jumped 11 sen to RM7.36. In active trade, Pharmaniaga increased 2.5 sen to 27.5 sen, Zetrix Ai and Tanco added 1.5 sen each to 87.5 sen and 84 sen, respectively, while VS Industry and Bumi Armada were one sen higher at 55.5 sen and 35 sen, respectively.
+
+[NEWS_P006] Top gainers for the day were led by Petronas Dagangan, which soared RM1.24 to RM22.98. Allianz gained 42 sen to RM18.50, PPB Group rose by 33 sen to RM10.26, Ajinomoto edged up 24 sen to RM1.83, and Sam Engineering was 23 sen higher at RM3.93. Telekom Malaysia was the top loser, falling 60 sen to RM7.00, Fraser and Neave dropping 26 sen to RM26.80, United Plantations falling 12 sen to RM22.80, Riverview Rubber decreasing 11 sen to RM2.89 and Gamuda trimming nine sen to RM5.55.
+
+[NEWS_P007] On the index board, the FBM 70 Index advanced 75.52 points to 16,620.10, while the FBM ACE Index earned 47.76 points to 4,850.03 and the FBM Emas Shariah Index garnered 46.11 points to 11,936.40. The FBM Emas Index surged 81.27 points to 11,943.99, and the FBMT 100 Index climbed 76.47 points to 11,700.24. By sector, the Industrial Products and Services Index edged up 2.27 points to 167.55, the Plantation Index gained 34.66 points to 7,734.20, while the Financial Services Index widened 173.72 points to 18,242.14, and the Energy Index advanced 7.84 points to 750.74.
+
+[NEWS_P008] The Main Market volume increased to 1.92 billion units, valued at RM2.89 billion, from 1.34 billion units, valued at RM1.87 billion, last Friday. Warrant turnover increased to 860.43 million units, valued at RM137.02 million, from 519.23 million units worth RM83.64 million previously. The ACE Market volume fell to 343.55 million, worth RM133.36 million, from 369.5 million, valued at RM143.0 million. Consumer products and services counters accounted for 26.52 million shares traded on the Main Market, industrial products and services (340.87 million), construction (146.12 million), technology (290.82 million), financial services (111.10 million), property (204.89 million), plantation (22.95 million), REITs (44.95 million), closed/fund (426,700), energy (159.12 million), healthcare (194.05 million), telecommunications and media (42.44 million), transportation and logistics (31.25 million), utilities (74.55 million), and business trusts (33,900).
+
+[NEWS_P009] - Bernama

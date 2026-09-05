@@ -1,0 +1,16 @@
+[TITLE]
+Orgabio optimistic on instant beverage market growth
+
+[METADATA]
+ticker: ORGABIO
+company_name: Orgabio Holdings Berhad
+publish_date: 2025-05-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/22/orgabio-optimistic-on-instant-beverage-market-growth
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Orgabio Holdings Bhd remains optimistic, supported by the instant beverage market’s growth from US$61.64bil in 2023 to US$103.75bil by 2031, at a compound annual growth rate (CAGR) of 6.94%. “Malaysia’s premix market is also expected to grow from US$521.65mil in 2022 to US$835.85mil by 2029 (CAGR: 6.97%). Backed by this positive trajectory, the group will continue to pursue growth opportunities while managing costs prudently and strengthening its competitive positioning,” the instant beverage premix manufacturer said in a statement.
+
+[NEWS_P002] In the third quarter ended March 31, Orgabio’s net profit halved to RM1.09mil, or earnings per share of 0.44 sen, compared with RM2.12mil, or 0.85 sen, in the year-ago quarter. Revenue, however, climbed to RM28mil against RM22.4mil previously. For the nine months ended March 31, it posted a 9.4% increase in net profit to RM3.4mil, supported by a 44.3% rise in revenue to RM76.8mil. “We are encouraged by the consistent growth in revenue, particularly from the domestic market.
+
+[NEWS_P003] While profitability was impacted by temporary cost pressures and currency volatility, we remain focused on delivering sustainable performance and maintaining operational discipline,” chief executive officer and executive director Ean Yong Hien Voon said. “With our newly completed factory commencing operations in April 2025, we are well-positioned to ramp up capacity progressively. This facility enhances our ability to serve a broader client base with a more diversified product portfolio and supports our entry into new markets.”

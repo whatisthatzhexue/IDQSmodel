@@ -1,0 +1,89 @@
+document_id: MDA_7035_CCK_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 10, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 138.353, "paragraph_count": 10, "paragraph_length_distribution": {"max": 1174, "mean": 725.2, "min": 41}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+[MDA_P003]
+-
+1 CCK Fresh Mart retail store
+in Sabah in Kota Marudu;
+3 CCK Fresh Mart retail stores
+in Sarawak in Simunjan,
+Asajaya and Song;
+1 CCKLocal supermarket
+in Kuching, Sarawak; and
+1 CCKLocal supermarket
+in Kota Kinabalu, Sabah.
+The Group’s deposits with licensed banks and cash and bank balances increased by 88.1% and 27.5%,
+respectively, in line with the increase in revenue of the Group.
+Dividends paid out during the year were as follows –
+•
+An interim single-tier dividend of 1.25 sen per share on 30 June 2020; and
+•
+A final single-tier dividend of 0.5 sen per share on 22 September 2020.
+Bintulu
+2 Outlets
+Kuching
+32 Outlets plus 1 Supermarket
+Miri
+9 Outlets
+Kota Kinabalu
+10 Outlets
+plus 1
+Supermarket
+Sibu
+9 Outlets
+Sandakan
+2 Outlets
+Mukah, Kapit,
+Sarikei, Labuan
+1 Outlet Each
+CCK Group Retail Network
+The prawn segment was adversely affected by
+weak global pricing of prawns and demand,
+hence affecting our exports, particularly to our
+traditional markets of Japan and Australia.
+Malaysia
+Japan
+containers
+in 2019
+containers
+in 2020
+Australia
+containers
+in 2019
+containers
+in 2020
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+[MDA_P006]
+The Management not only focuses on pricing of products but also in evolving business
+models which improve the customers’ shopping experience. BIOSECURITY AND DISEASE RISK
+Concerns regarding disease and biosecurity at our chicken farms are constantly high on the agenda. The
+economic impact of a disease outbreak in any farm can be catastrophic on CCK’s bottom line. Constant
+monitoring is a compulsory standard operating procedure across all our operations even as we
+continuously innovate and update our biosecurity measures. A. B. C. D. E.
+[MDA_P008]
+CCK CONSOLIDATED HOLDINGS BERHAD
+DIVIDENDS
+CCK has an internal dividend policy of paying up to 30% of the profit after taxation and minority interests whilst
+taking into consideration the level of available funds, the amount of retained earnings, capital expenditure
+commitments and other investment planning requirements. In line with our continued focus on shareholder returns, the Board is pleased to announce a first and final
+single-tier dividend of 2 sen per share for the financial year ended 31 December 2020. FORWARD LOOKING STATEMENT
+With the ongoing pandemic affecting global economies, Malaysian’s economic growth was not spared. Overall,
+GDP shrank by 5.6 per cent, the biggest contraction since the 1998 Asian Financial Crisis. In line with expected
+global economic recovery, Bank Negara Malaysia has projected the nation’s GDP to return to positive growth in
+2021 at rates ranging between 6% - 7.5% on sustained progress of vaccine roll-outs. With the relaxation of restrictions affecting movement controls across the country, CCK expects our retail
+segment to gradually improve in-line with the pace of state-wide vaccine roll-outs.
+[MDA_P010]
+APPRECIATION
+I would like to record my profound appreciation to my fellow directors on the Board, the management teams and
+the staff of the CCK Group of Companies for all their hard work and dedication. Their commitment and their
+tireless work have made CCK the success it is today. I would also like to acknowledge the support of our
+shareholders, business partners, suppliers and customers and thank you for your continued belief in CCK. TIONG CHIONG HIIUNG
+GROUP MANAGING DIRECTOR
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)

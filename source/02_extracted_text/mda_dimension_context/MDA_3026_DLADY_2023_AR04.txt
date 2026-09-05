@@ -1,0 +1,121 @@
+document_id: MDA_3026_DLADY_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 70, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Our priority during the year
+was on implementation of
+our strategic priorities, while
+operating with resilience”
+RESPONSIBLE BUSINESS
+DLMI is committed to strong corporate governance, robust
+risk management practices, and a conducive culture,
+enabling us to operate a profitable and sustainable business
+over the long run. As Chairperson, I am dedicated to
+upholding sound principles of governance and an efficient
+Board. Our responsibilities include driving difficult
+conversations to help prudent business and people
+decisions, maintaining transparent communication with
+stakeholders, and ensuring timely information flow. We
+consistently review and update policies, with a particular
+focus on enhancing practices related to risk management. In 2023, we enhanced our Compass Toolkits to include
+Cybersecurity policies for our production location as well
+as the policy on ‘Doing Honest Business’’ which safeguards
+us against the risks of corruption. We also documented
+and secured Board approval for Sustainability Policy and
+Guidelines (for roll-out in early 2024), which is focused on
+DLMI’s local approach to managing economic, environmental,
+social, and governance (EES&G) priorities.
+[MDA_P004]
+Meanwhile, sustainability KPIs are part of
+Managing Director and Management Team’s annual targets. Our three-year journey towards transition and adoption of
+Integrated Reporting principles, which commenced from
+the reporting cycle of 2022, is currently ongoing. The
+intent is to take a more interconnected approach to
+reporting performance. This means, we are committed to a
+four-year journey starting 2024 to align with the Taskforce
+on Climate-Related Financial Disclosures (TCFD) in line
+with Bursa’s sustainability reporting requirements and the
+new IFRS S1 and S2. SHAREHOLDER AND STAKEHOLDER VALUE
+DLMI strives to maximise value for both shareholders and
+stakeholders through a dedicated and balanced approach
+to risk and performance. Our emphasis is also on
+engagement and fostering valuable relationships with our
+employees, consumers, suppliers, industry and the
+government. Shareholders: We remain committed to delivering shareholder
+returns and to creating value for all stakeholders. On the back
+of a 7.7% revenue growth, DLMI generated an adjusted
+operating profit of RM159.1 million (excluding accelerated
+depreciation and one-offs).
+[MDA_P010]
+The
+scope of MoC includes the exchanging and sharing of
+resources, facilities, data, knowledge, and skills to further
+mutual interest and agenda; and increasing knowledge and
+skills of local dairy farmers through a flagship programme. Our bespoke Farmer2Farmer programme, for one, aims at
+improving the quality and quantity of raw milk of dairy cows
+by equipping farmers with sustainable farming practices. 2024 OUTLOOK & ACKNOWLEDGEMENTS
+The 2024 economic outlook is mixed, marked by slower
+growth, monetary policy impacts, and concerns about
+inflation and geopolitical tensions. Against this backdrop,
+Malaysia’s milk market is projected to experience robust
+growth, with an anticipated expansion of +5.1% in 2024. As
+we transition to our new manufacturing facility DLMI@Enstek,
+which will be fully operational within 2024, we remain positive
+and confident of our ability to meet the growing nutritional
+dairy needs of Malaysians. Meanwhile, on behalf of the Board of Directors, I wish to
+express our sincere appreciation to the Management Team,
+employees and business partners for their demonstrated
+resilience and strong support throughout FY2023.
+[MDA_P012]
+Dear Shareholders and Stakeholders,
+MANAGING
+DIRECTOR’S
+R e p o r t
+60 YEARS OF BUILDING TRUST
+& DAIRY LEADERSHIP
+2023 marked our 60 years of strong dairy
+leadership in Malaysia. For generations, we have
+delivered our promise of quality, healthy, Halal,
+accessible and affordable nutrition. Over the
+years, we earned the trust of our consumers,
+customers, regulators as well as the government. We partnered with them to shape the dairy
+industry landscape in the country and we
+continue to support the national agenda of
+developing Malaysia’s capacity and capability in
+sustainable dairy. I take great pride in my association with
+Dutch Lady Milk Industries Berhad (DLMI),
+which I see as a Malaysian company, with
+international roots; committed to local
+nutritional needs through global nutritional
+standards; working to create local impact
+through cross-market best practices and
+global sustainable development goals. STAYING STRONG TO
+EXTERNAL HEADWINDS
+Market recovery in the post-COVID era, even
+in 2023, has been uneven. Exasperated
+by the turmoil in the global markets due to
+geo-political tensions, war and social chaos,
+markets were plagued by uncertainty.
+[MDA_P013]
+This
+includes the highly volatile monetary regime in
+Europe and other parts of the world while
+foreign exchange exposure remained high,
+which affected the costs of sourcing dairy raw
+materials. This in turn meant higher consumer
+prices and reduced margins. Growing emphasis
+on ESG integration efforts, especially from
+critical shareholders, regulators and investors,
+put additional pressure on limited and
+constrained resources. Shifting power and
+positions in local politics has had its own
+impact on the overall business ecosystem and
+its continuing performance as well as future
+prospects. While navigating these challenges,
+DLMI remained well on track with our current
+performance and future growth plans. Most
+importantly, as a business, we remained strong
+in responding to the external headwinds. DUTCH LADY MILK INDUSTRIES BERHAD • INTEGRATED ANNUAL REPORT 2023

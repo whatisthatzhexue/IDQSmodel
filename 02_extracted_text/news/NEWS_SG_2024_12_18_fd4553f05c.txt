@@ -1,0 +1,18 @@
+[TITLE]
+MRCB withdraws from KL-SG HSR consortium
+
+[METADATA]
+ticker: SG
+company_name: Saudee Group Berhad
+publish_date: 2024-12-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/18/mrcb-withdraws-from-kl-sg-hsr-consortium
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Malaysian Resources Corp Bhd (MRCB) has withdrawn from a consortium that is bidding for the proposed Kuala Lumpur-Singapore high-speed rail (KL-SG HSR) project. In a statement, Berjaya Group, which is a part of the consortium via Berjaya Land Bhd , said MRCB has decided to withdraw from the consortium to pursue other strategic opportunities and hence, would no longer be part of the KL-SG HSR Consortium. Commenting on the Berjaya-led consortium, Berjaya Corp Bhd founder and advisor Tan Sri Vincent Tan said: “We remain steadfast in our mission to deliver a world-class HSR system that will transform regional connectivity and economic development for Malaysia and to help the nation’s successful transition towards green mobility in the form of the high-speed rail." In January, Berjaya Land announced that its 70%-owned subsidiary, Berjaya Rail Sdn Bhd, had formed a consortium with IJM Construction Sdn Bhd, MRCB and Keretapi Tanah Melayu Bhd to bid for the KL-SG HSR project.
+
+[NEWS_P002] Berjaya Corp said the consortium and its technical partners such as Deutsche Bahn, Hitachi Rail and Hyundai Rotem will be further strengthened and better aligned with the evolving needs of the project and to meet the expectations of the Government. “The consortium and its technical partners are recognised leaders in infrastructure development, engineering, and transportation management, and collectively, they bring decades of proven expertise in delivering large-scale infrastructure projects,” it said.
+
+[NEWS_P003] The HSR project was formally agreed between Malaysia and Singapore in February 2013 and was initially slated for completion by 2026. The 350km rail line was designed to link several key stations, namely Kuala Lumpur, Putrajaya, Negeri Sembilan, Melaka and Johor. However, following the change in government in 2018, the project was criticised over its high costs and financial impact. Work on the project was put on hold in September 2018. In 2021, the project was formally terminated after both countries failed to reach an agreement on the proposed changes.
+
+[NEWS_P004] Malaysia was required to compensate Singapore S$102.8mil for incurred costs. Earlier this week, it was reported that the Malaysian government will make a decision on the revival of the KL-SG HSR project by the end of this month or early January.

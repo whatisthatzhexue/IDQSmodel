@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rises as corporate results flow in
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-11-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/28/fbm-klci-rises-as-corporate-results-flow-in
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI rose at the start of Thursday trading, as investors continued to pick up stocks amid the raft of corporate result announcements. At 9am, the benchmark index was up 2.07 points higher at 1,606.32, as it attempted to put some distance to the 200-day simple moving average. Wall Street indices were negative overnight as data showed consumer spending increased in October, suggesting the Federal Reserve may still have to contend with inflation risks.
+
+[NEWS_P002] The S&P 500 lost 0.38%, to end at 5,998.74 points, while the Nasdaq Composite lost 0.6%, to 19,060.48. The Dow Jones Industrial Average fell 0.31% to 44,722.06. Meanwhile, on the local market, Malacca Securities Research said there are trading opportunities in the utilities sectors following the bullish momentum in YTL-related counters. Similarly, it said the spike in Genetec coupled with several technology companies results, may lift the sentiment for semiconductor-related counters.
+
+[NEWS_P003] "Lastly, we remain positive on the aviation, hospitality, and consumer sectors, given the recent stronger earnings from MAHB and the upcoming holiday and festive seasons," the research firm added. Among the early gainers, Nestle rose 50 sen to RM95.50, Kotra added 18 sen to RM4.50 and BAT gained 12 sen to RM7.69. Spritzer climbed eight sne to RM2.93 while Guan Chong added eight sne to RM3.09.

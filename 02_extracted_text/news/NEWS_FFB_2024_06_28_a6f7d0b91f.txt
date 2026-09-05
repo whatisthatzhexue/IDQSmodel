@@ -1,0 +1,14 @@
+[TITLE]
+Kim Loong aiming for higher FFB production
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2024-06-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/28/kim-loong-aiming-for-higher-ffb-production
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Kim Loong Resources Bhd aims to achieve at least 5% higher fresh fruit bunch (FFB) production for the current financial year ending Jan 31, 2025 (FY25). In a filing with Bursa Malaysia yesterday, the plantation group noted this was after taking into account the better age profile of its young palms productive area and ongoing replanting programme. Kim Loong targets to replant about 1,000ha in FY25. Year-to-date, the company has carried out replanting of 210ha.
+
+[NEWS_P002] For the first quarter ended April 30, 2024 of FY25 (1Q25), its net profit rose by 57% year-on-year (y-o-y) to RM49.5mil or an earnings per share of 5.08 sen while revenue increased by 19% y-o-y to RM388.4mil. Kim Loong said the improved performance in 1Q25 was mainly due to higher FFB and crude palm oil or CPO production by 6% and 13%, respectively. Overall, the group expects to perform satisfactorily for FY25.

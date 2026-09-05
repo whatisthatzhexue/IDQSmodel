@@ -1,0 +1,3 @@
+original_document_id,current_filter_news_id,ticker,title,relevance_status,review_reason,main_model_include_flag,needs_manual_review,scope_violation_flag,recheck_note
+NEWS_NESTLE_2024_04_23_d01039ff1f,NEWS_CANDIDATE_058323_6bc9cd5a,NESTLE,Home repairs for Orang Asli,low_confidence_company_news,csr_sponsorship_lifestyle_review,No,Yes,No,Old extracted-text id maps to current Filter-news candidate id; reviewed specifically because the article text contains the phrase scope of home repairs.
+NEWS_PPB_2024_02_15_2fd3fa4e4b,NEWS_CANDIDATE_071089_d5d99487,PPB,Perdana Petroleum secures new work order,wrong_company,wrong_company,No,Yes,No,Old extracted-text id maps to current Filter-news candidate id; reviewed specifically for Perdana Petroleum vs PPB Group Berhad confusion.

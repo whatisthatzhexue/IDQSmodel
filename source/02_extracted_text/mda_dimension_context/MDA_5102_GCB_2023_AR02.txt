@@ -1,0 +1,178 @@
+document_id: MDA_5102_GCB_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 82, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_5102_GCB_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 1, "num_financial_mentions": 141, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION &
+ANALYSIS
+Strategic Review
+Market Overview
+Outlook
+Our Value Creation Story
+Value Creation Business Model
+Key Stakeholder Engagement
+Material Matters
+Key Risks & Mitigation Actions
+Growth Strategies
+Financial Review
+Financial Review
+Operational Performance Review
+Operational Performance Review
+[MDA_P002]
+GUAN CHONG BERHAD
+MANAGEMENT DISCUSSION & ANALYSIS
+Operational Performance Review
+Financial Review
+Strategic Review
+Supply & Demand Dynamics
+The cocoa industry grappled with a persistent supply deficit
+in the 2022/23 crop year, following a similar deficit in the
+previous 2021/22 crop year. This trend primarily stemmed
+from reduced cocoa production in origin countries affected
+by adverse weather and diseases, leading to a decline in
+global cocoa grinding by 4.0% compared to the preceding
+crop year. However, there has been increased planting of
+cocoa seedlings in Indonesia and certain regions of South
+America, which may improve future cocoa bean supplies. Price Volatility
+The New York and London cocoa futures markets
+experienced considerable volatility in 2023, reaching
+35-year and 46-year highs of more than USD4,200 and
+GBP3,500 per MT. Both prices have continued to rise
+and reach new historical highs in 2024. This price surge
+has presented a challenge for cocoa grinders, who face
+increased input costs for raw materials. Under pressure
+to ensure their profit margins, they may actively explore
+ways to pass on the increased cost to customers along
+the value chain.
+[MDA_P003]
+This will place upward pressure on prices
+across the cocoa industry, with market players grappling
+with the dilemma of raising prices or absorbing costs to
+maintain competitiveness. Economic Challenges
+The prevailing global inflationary pressures have prompted
+an uptick in interest rates, a trend that is likely to persist
+due to the ongoing uncertainty surrounding the global
+economic outlook. Concurrently, this gloomy economic
+outlook may impact discretionary spending, primarily
+due to the burden of high household debt-servicing costs
+limiting customers' disposable income. As we navigate through the strategic landscape of our operations, it is essential to gain a comprehensive understanding of
+the prevailing conditions in the cocoa market, such as supply and demand dynamics, price fluctuations, economic challenges
+and sustainability milestones, all of which shape our strategic approach in the ever-evolving cocoa industry. Economic Recession Concerns
+The looming possibility of an economic recession poses
+further challenges. The combination of inflation, higher
+interest rates and escalating commodity prices could
+result in a global economic slowdown.
+[MDA_P006]
+To address the impact of rising
+prices, we have adjusted our product
+pricing structure, aiming to pass on
+the increased costs to our customers.
+Simultaneously,
+we
+are
+actively
+managing our collection processes to
+guarantee timely customer payments.
+Our vigilant approach also includes
+meticulous
+monitoring
+of
+supply
+dynamics in origin countries, ensuring a
+steady influx of cocoa beans to sustain
+our production lines.
+[MDA_P007]
+Additionally, we maintain proactive
+communication
+with
+our
+banking
+facilities, securing ample trade and
+working capital lines. Amidst prevailing
+market uncertainties, our steadfast
+commitment
+remains
+focused
+on
+sustaining the quality of our products
+and navigating these challenges with
+resilience. Côte d'Ivoire Presence Brings Us
+"Close to Source" & "Close to Market"
+Our expansion into Côte d'Ivoire, the
+world's largest cocoa bean supplying
+country, has brought us closer to
+the source of cocoa beans, allowing
+us to initiate sustainability projects
+from the very beginning of the cocoa
+bean
+procurement
+process. This
+strategic
+expansion
+enhances
+our
+cost-effectiveness,
+enabling
+us
+to
+better
+reach
+chocolate-consuming
+countries in Europe and the UK, where
+most of our customers are located. Our growing presence in Côte d'Ivoire
+will undeniably strengthen our long-
+term position as a global player in the
+chocolate supply chain. Prepared to Mitigate Recession
+Impacts & Rising Costs
+High interest rates and inflation have
+begun to impact household spending
+power.
+[MDA_P008]
+While we anticipate a stable
+demand for cocoa and chocolate
+products in the short term, we are
+prepared for the challenges ahead,
+given the potential risks of a global
+economic
+recession. Although
+chocolate
+is
+relatively
+recession-
+resistant,
+a
+decline
+in
+consumer
+purchasing power may affect demand. To address these and other future
+challenges, we continue to focus
+on
+our
+fundamental
+strategies,
+including operational objectives such
+as maintaining high utilisation of our
+cocoa grinding facilities, optimising cost
+efficiency, adapting and responding
+agilely to changes in the cocoa
+landscape, and adopting forward-
+thinking
+strategic
+planning
+while
+upholding ethical and responsible
+business practices. We actively monitor and manage
+operating costs and potential risks
+to
+maintain
+our
+competitiveness
+and enhance stability and efficiency
+within our supply chain, which will
+be vital in navigating an uncertain
+future economic climate.

@@ -1,0 +1,22 @@
+[TITLE]
+Bursa Malaysia ends morning session lower
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/31/bursa-malaysia-ends-morning-session-lower
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended the morning session lower on Thursday, tracking losses in regional markets as investors stayed on the sidelines ahead of the United States (US)-Malaysia trade updates. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) slipped 6.47 points to 1,518.03 from Wednesday’s close of 1,524.50. The benchmark index had opened 0.51 of a point firmer at 1,523.99 and moved between 1,516.99 and 1,524.05 throughout the morning session.
+
+[NEWS_P002] Market breadth was negative, with 413 decliners outpacing 405 gainers. Another 441 counters were unchanged, 1,236 untraded and 53 suspended. Turnover stood at 2.03 billion securities worth RM964.43 million. Regionally, Bursa Malaysia mirrored the negative tone across Asian markets. Hong Kong’s Hang Seng Index slipped 1.07 per cent to 24,906.39. Singapore’s Straits Times Index edged down 0.57 per cent to 4,195.34. South Korea’s Kospi dipped 0.49 per cent to 3,238.63 while Japan’s Nikkei 225 inched up 0.92 per cent to 41,029.23.
+
+[NEWS_P003] In a note today, Malacca Securities Sdn Bhd expects the FBM KLCI upward move to be limited as it is nearing the Aug 1 trade deal deadline. "Nevertheless, traders may focus on energy stocks given the recent spike in Brent oil prices,” it said in a note today. Among the heavyweights, Maybank lost three sen to RM9.42, Public Bank and Tenaga Nasional fell eight sen each to RM4.21 and RM13.20, respectively. CIMB was flat at RM6.55 while IHH Healthcare gained three sen to RM6.66.
+
+[NEWS_P004] In active trade, Pharmaniaga rose one sen to 17 sen, EA remained unchanged at half-a-sen, Tanco and NexG went up half-a-sen each to 84 sen and 53.5 sen, respectively. Zetrix AI added two sen to 86.5 sen. Top gainers included Malaysian Pacific Industries , which bagged 66 sen to RM20.06, Nestle garnered 38 sen to RM87.78, and Sam Engineering and Equipment was up by 14 sen to RM4.20. Among the top losers, Hong Leong Bank and Petronas Chemicals lost 14 sen each to RM19.16 and RM3.93, respectively.
+
+[NEWS_P005] Kluang Rubber dipped 12 sen to RM5.30. Across the broader market, the FBM Emas Index shed 12.18 points to 11,423.35, the FBMT 100 Index eased 15.61 points to 11,183.09, while the FBM ACE Index went up 19.40 points to 4,613.28. The FBM Emas Shariah Index edged up 18.55 points to 11,492.57, and the FBM 70 Index surged 116.81 points to 16,606.51. By sector, the Industrial Products and Services Index was down 1.18 points at 159.71, and the Plantation Index ticked down 5.14 points to 7,402.37, the Financial Services Index declined 107.32 points to 17,190.41, while the Energy Index climbed 4.75 points to 748.46.
+
+[NEWS_P006] - Bernama

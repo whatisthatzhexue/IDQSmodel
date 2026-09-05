@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI edges lower as investors stay cautious despite stronger GDP and trade data
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-10-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/17/fbm-klci-edges-lower-as-investors-stay-cautious-despite-stronger-gdp-and-trade-data
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI edged lower at midday as investors remained cautious despite upbeat economic data, tracking mixed global cues and choppy sentiment on Wall Street. Malaysia’s economy expanded 5.2% in the third quarter of 2025, up from 4.4% in the previous quarter, according to advance estimates from the Department of Statistics Malaysia (DOSM). Separately, Malaysia’s trade rose 9.8% year-on-year in September 2025 to RM257.51bil, driven by broad-based export growth and marking the 65th consecutive monthly trade surplus.
+
+[NEWS_P002] At 12.30pm, the FBM KLCI slipped 4.08 points, or 0.25%, to 1,608.21, staying above its intramorning low of 1,607.86 but below the session’s high of 1,616.36. Market breadth was negative, with 689 decliners outpacing 314 gainers. The broader market remained under pressure as selling activity reinforced the prevailing bearish sentiment. Traded volumes stood at 2.1 billion shares worth RM1.32bil. Among the losers, Dutch Lady slid 20 sen to RM26.50, Ajinomoto lost 18 sen to RM13.62, PETRONAS Gas fell 18 sen to RM18.82 and Pentamaster declined 18 sen to RM4.
+
+[NEWS_P003] Nestle rose 40 sen to RM105.10, IHH Healthcare gained 20 sen to RM8.24, Malaysian Pacific Industries added 18 sen to RM29.78 and Hong Leong Bank climbed 12 sen to RM20.90. Apex Securities expects the FBM KLCI to trade range-bound today as investors digest mixed global cues, with Wall Street remaining volatile despite signs of potential Fed rate cuts and strong earnings from major US banks. “With limited economic data due to the US government shutdown, markets are turning their focus toward bank earnings and management guidance for macro cues.
+
+[NEWS_P004] “Renewed US–China trade tensions and lingering credit concerns among regional banks may cap gains, though resilience in tech and steady corporate results could lend selective support,” it said. Apex Securities remains positive on selected power ancillary and renewable energy stocks, supported by accelerating data centre investments and policy initiatives driving growth in the power sector. Meanwhile, TA Securities said the subdued trading sentiment is likely to persist as investors hold back from major commitments amid a lack of clear direction in the local market.
+
+[NEWS_P005] “Immediate resistance stays at the December 2024 high of 1,644, followed by tougher upside hurdles at the highs of 1,684, and 1,695.

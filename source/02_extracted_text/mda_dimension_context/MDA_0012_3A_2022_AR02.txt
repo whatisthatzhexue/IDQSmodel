@@ -1,0 +1,165 @@
+document_id: MDA_0012_3A_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 23, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_0012_3A_2022", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 48, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+INDUSTRY OVERVIEW
+As we reflected on the unparalleled pace
+of change from the domino impact of
+COVID-19, companies need to evolve to
+overcome challenges in order to achieve
+their business objectives and to shape a
+better world for all. 3A Group continues to
+forge ahead on production efficiency and
+cost management with a focused mission
+of fulfilling the pent-up demand of our
+value chain partners and customers. The
+disruptions brought about by COVID-19
+brought realisation that our team need to
+focus on plant modernisation and automation
+and more importantly align the operations
+and people in the quest of protecting the
+planet. According to Malaysia’s Economy Report
+2022/2023 released by Bank Negara
+Malaysia in February 2023, Malaysia’s
+domestic economy is seen to be driven by
+steady domestic demand, a vibrant service
+sector, implementation of new and ongoing
+high-multiplier infrastructure projects, and
+sustained exports.
+[MDA_P002]
+Nevertheless, the pace
+of economic recovery is also dependent
+on other factors, including the efforts in
+mitigating the downside risks, such as
+geopolitical uncertainties, global inflation
+as well as tightening financial conditions,
+as stated in the report. These factors have
+been driving food and oil prices to new highs. Some immediate short-term measures have
+been taken by governments around the world
+which include imposing price controls and
+trade restrictions. As for consumers, the price
+surge has certainly resulted in cutting back
+consumption including changing behaviour
+on food consumption. The market and consumer data provider
+Statista has reported that revenue in the
+global food market amounted to US$46.78
+billion (RM206.77 billion) in 2022 and is
+expected to grow annually by 8.2%
+(compound annual growth rate [CAGR] in
+2022 to 2027). The market’s largest segment
+is confectionery and snacks with a volume
+of US$9.2 billion in 2022. These statistics
+augurs well for companies such as 3A which
+depends on the transformation of consumer
+behaviour on F&B consumption.
+[MDA_P003]
+Given the price escalation trend as well
+as keen competition, food ingredient
+manufacturers have a lot more role to play. When partnering with food manufacturers
+and providers, 3A Group leverages on our
+own R&D to produce tailor-made products
+for specific customers. This has paved the
+way for the expansion of 3A’s customer
+base and strengthening earnings in recent
+years. Backed by a strong local market
+presence, our Group is confident of our ability
+to support the growth of the region, with our
+solid manufacturing capabilities and a proven
+reputation for product quality. The Group is
+firm on its journey to unlock the potential
+of new customers through a customised
+Profit Before Tax
+(PBT)
+RM47.8
+million
+Profit After Tax
+(PAT)
+RM35.1
+million
+[MDA_P004]
+THREE-A RESOURCES BERHAD 199901006659 (481559-M) 
+PERFORMANCE REVIEW
+INDUSTRY OVERVIEW (CONTINUED)
+portfolio, deployment of resources, effective
+communication, enhanced visibility, and
+building consumer connect. 3A’s ongoing
+investment in improving production efficiency
+is a confirmation of our confidence and
+key presence in Malaysia and throughout
+the region. 2022 BUSINESS AND OPERATIONAL
+PERFORMANCE
+(I)
+PERFORMANCE OVERVIEW
+3A Group is established to be widely
+known as one of the country’s leading
+food and beverage ingredients
+manufacturing company. Our products
+have a strong presence locally and
+are sold to many parts of the world. It
+is imperative that the Group ensures
+continued supply of these essential
+products to the Malaysian society and
+abroad through detailed strategies and
+planning as well as to adapt with agility
+to the fast-changing environment. Our company has delivered a resilient
+performance across our product range
+for Financial Year 2022 (“FY 2022”). This is a strong indication to our
+financial discipline and flexibility in the
+face of challenging market conditions.
+[MDA_P005]
+The Group recorded close to 28%
+increase in revenue of RM658.702
+million in FY2022 as compared to
+MANAGEMENT DISCUSSION
+AND ANALYSIS (CONTINUED)
+RM515.615 million in FY2021. This
+is the highest revenue achieved thus
+far in 3A Group’s history, contributed
+predominantly by the higher Average
+Selling Prices (ASP) and increase in
+quantities of products sold across
+the board. Three (3) products namely
+Caramel, Maltodextrin and Glucose
+represented more than 80% of the
+Group’s sales for FY2022. Total
+Sales and Domestic Sales for the
+year increased by 28% and 30%
+respectively. Growth in domestic
+and export sales was largely driven
+by higher ASP, higher volumes sold
+and across all products. (II) EXPORTS
+[MDA_P006]
+Revenue from export of products
+comprised 42% of the overall revenue
+of the Group in FY2022.
+[MDA_P007]
+During FY 2022, exports of our products
+remained stable with an overall increase
+of 25% mainly due to the following:
+[MDA_P008]
+• continuous focus on the development
+of new markets
+• new launch of tailored made products
+for selected customers
+• continue to explore new markets
+for other categories
+Revenue By Geographical Location
+(RM’000)
+SINGAPORE
+RM63,983
+10%
+MALAYSIA
+RM379,950
+58%
+OTHERS
+RM214,769
+32%
+[MDA_P009]
+PERFORMANCE REVIEW

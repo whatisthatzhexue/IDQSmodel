@@ -1,0 +1,43 @@
+document_id: MDA_7107_OFI_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 29, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 36.895, "paragraph_count": 29, "paragraph_length_distribution": {"max": 1154, "mean": 147.138, "min": 5}, "repetition_ratio": 0.034483, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+OVERVIEW OF THE GROUPS’ BUSINESS AND OPERATIONS
+Oriental Food Industries Holdings Berhad ("the Company” or “the Group”) has made its mark in the snack food and
+confectionery manufacturing industry today as one of the companies holding the leading position in the said industry
+in Malaysia.
+The Group remains focused on placing the needs and interests of its customers first by manufacturing an assortment
+of snack food and confectionery products that focuses on quality. Generally, these products can be divided into four
+(5) broad categories, which are snack food, wafer, biscuits, potato snacks and bakery products.
+The Group has various product brand names, most of which are commercially strong and generating the required
+sales and profit both locally and oversea. Super Ring, Jacker, Rota and Oriental are currently well-known household
+brand names in Malaysia.
+FINANCIAL RESULTS AND FINANCIAL CONDITION
+Despite undergoing a challenging year in 2019, the Group has managed to secure continued growth in revenue as
+seen in the financial year ended 31 March 2020 (“FY 2020”) results as reflected in the table below:
+[MDA_P008]
+1,061
+20.4%
+Profit After Tax (“PAT”)
+[MDA_P015]
+4.17
+5.92
+[MDA_P022]
+Malaysia
+[MDA_P029]
+DIVIDEND
+The Group continuously declares a dividend payout for every quarter for the past years. The total dividend declared
+during the financial year 2020 was 1.5 sen (2019: 2.2 sen) per share. GROUP’s PROSPECTS
+The Group is in its final stage of expansion and currently pending for some minor machine acquisition to complete
+its new production lines. These new lines are expected to contribute positively to the growth and profitability of
+the Group. The management views the current year contraction in revenue is just a temporary setback due to the
+pandemic and slowdown in the global economy. The Group still expects a positive contribution from the investment
+in various product lines in years to come from the new and existing market segment due to the active promotional
+activities taken. The Board expects that the performance of the Group will be satisfactory for the next financial year ending 31 March
+2021, despite facing various challenges of competitive markets.

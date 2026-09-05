@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: TNB, Southern Cable, MYMBN, CCK, YTL Power, Lebtech, Teck Guan
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2024-12-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/27/trading-ideas-tnb-southern-cable-mymbn-cck-ytl-power-lebtech-teck-guan
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Tenaga Nasional Bhd (TNB), Southern Cable Group Bhd , Mymbn Bhd , CCK Consolidated Holdings Bhd , YTL Power International Bhd , Lebtech Bhd and Teck Guan Perdana Bhd are among the stocks to watch on Friday. TNB announced that starting in July 2025, the base electricity tariff in Peninsular Malaysia will be raised by 14.2% to 45.62 sen per kilowatt-hour (kWh), along with a new tariff schedule. The change will take place under the three-year Regulatory Period 4 (RP4) that will be effective from Jan 2025 to Dec 2027.
+
+[NEWS_P002] Under the RP3 2022-2024, base tariff was set at 39.95 sen/kWh. Separately, TNB received a letter of notification as a shortlisted bidder from the Energy Commission (EC) to develop a 500 megawatt alternating current large scale solar photovoltaic plant at Kuala Muda, Kedah. Southern Cable's wholly-owned subsidiary, Southern Cable Sdn Bhd, has secured a RM172.57mil contract for the supply and delivery of cables and conductors in East Malaysia. MYMBN announced a temporary suspension of its bird’s nest exports to China, effective December 25, 2024, following a notice from Malaysia's Department of Veterinary Services (DVS).
+
+[NEWS_P003] CCK Consolidated has declared a special interim single-tier dividend of 5.0 sen per share for the financial year ending Dec 31, 2024. The Employees Provident Fund (EPF) is no longer a substantial shareholder of YTL Power after disposing of 14.93 million shares on Dec 20, 2024. Lebtech's wholly-owned subsidiary, Lebtech Construction Sdn Bhd (LCSB), has been selected to collaborate on various waterworks projects in Selangor, valued at RM10.8mil. Teck Guan’s net profit for the third quarter ended Oct 31, 2024, dipped to RM2.39mil, down from RM3.64mil in the same period last year, while revenue also decreased to RM68.37mil from RM91.25mil a year earlier.
+
+[NEWS_P004] Overnight, the S&P 500 slipped 0.04% to 6,037.59 points, while the Nasdaq Composite lost 0.05% to 20,020.36. The Dow Jones Industrial Average rose 0.07% to 43,325.80.

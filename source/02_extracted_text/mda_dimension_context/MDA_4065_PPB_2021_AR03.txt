@@ -1,0 +1,73 @@
+document_id: MDA_4065_PPB_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 33, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+MANAGING DIRECTOR’S REVIEW
+Dear Shareholders,
+The PPB Group performed satisfactorily in 2021 despite the continuing COVID-19 pandemic. Notwithstanding the difficulties faced by our businesses, the Group results remained stable, due
+largely to the contribution from Wilmar International Limited (“Wilmar”). Group revenue was 16% higher at RM4.86 billion (2020: RM4.19 billion), with revenue increase
+in all business segments. Group pre-tax profit was also higher, with a 5% increase to RM1.50
+billion (2020: RM1.42 billion), mainly due to a higher share of results of Wilmar of RM1.50
+billion (2020: RM1.24 billion). “
+“
+Economic and Operating Environment in 2021
+The Malaysian economy registered positive growth of 3.6% in the fourth quarter of 2021. This was supported mainly by improved domestic
+demand as economic activities recovered following the easing of containment measures under the National Recovery Plan (“NRP”). The Group performance improved gradually with our business segments adapting to the new normalcy in line with the NRP. The Grains
+and Agribusiness segment recorded a small profit despite challenging business conditions.
+[MDA_P003]
+Notably, our Film Exhibition and Distribution
+segment had a strong close in the fourth quarter of the year, as the relaxation of COVID-19 standard operating procedures (“SOP”) and
+strong movie title releases mitigated the segment loss. The Group will continue optimising and managing costs, focusing on operational excellence and new business initiatives for additional
+revenue streams. Lim Soon Huat
+Managing Director
+MESSAGES FROM OUR LEADERS
+2021 Annual Repor t
+RISE ABOVE ADVERSIT Y
+FFM Grains and Mills’ flour mill in Pasir Gudang
+[MDA_P004]
+GRAINS AND AGRIBUSINESS SEGMENT
+The Grains and Agribusiness segment is the largest contributor to Group revenue. This segment comprises Flour Milling, Feed Milling, Corn
+Trading and Livestock Farming, contributing 78% of the Group’s revenue and 4% of profit in FY2021. FFM Berhad (“FFM”) Group, an 80% subsidiary of PPB, owns and operates nine flour mills, of which five are located in Malaysia, two in
+Vietnam and one each in Indonesia and Thailand, with a total flour milling capacity of 7,540 MT/day. FFM also has 20% interest in eight
+associates in China, which have a combined flour milling capacity of 18,950 MT/day. FFM also owns and operates five feed mills across Malaysia, with a total milling capacity amounting to 67,200 MT/month. The livestock farming operations comprise a layer farm in Trong, Perak and two breeder farms in Sua Betong, Negeri Sembilan and Gurun,
+Kedah. The production capacity of the Trong layer farm is estimated at 21 million eggs per month, while the breeder farms have a combined
+production capacity of about 3 million chicks per month.
+[MDA_P005]
+Flour Milling
+Animal Feed Milling
+Navigating the Pandemic
+FFM Group’s increased revenue for 2021 was due to the higher
+selling prices and sales volume in both Indonesia and Vietnam. The
+rise in raw materials cost contributed to the increase in selling price
+of flour; a portion of the cost increase being passed to customers. The increase in wheat prices and freight charges has intensified
+market competition, and the price volatility had driven up the
+cost of products. However, we leveraged on our Group’s extensive
+experience in grains procurement, supply chain management and
+technical competency to mitigate the adverse impact of the wheat
+price volatility and supply chain disruption. FFM’s flour milling capacity has increased with the completion of
+its new 500 MT/day wheat flour mill constructed by 51%-owned
+VFM-Wilmar Flour Mills Co Ltd at its existing factory in Quang
+Ninh Province, in northern Vietnam at an estimated cost of
+USD20 million. Looking ahead, the domestic market growth looks more positive
+after the opening of all economic sectors.
+[MDA_P006]
+However, we expect
+the ongoing Russia-Ukraine conflict to add more uncertainty and
+volatility to the commodity market and cause greater disruption
+to the global supply chain. This will continue to be a challenging
+year. Notwithstanding the volatility of raw material prices and other
+rising costs, we do not pass all cost increases to customers. The Animal Feed Milling’s business environment is uncertain due to market segment contraction as many high-volume customers switched
+to home mixing or toll milling to cut costs. Previously, independent farmers had also abandoned the traditional farming model and opted
+for an integrated farming scheme, which has an impact on independent feed millers.
+[MDA_P007]
+The Division has introduced a few measures to mitigate these challenges, such as increasing procurement efficiency and effectiveness,
+improving and maintaining high-quality feed, adjusting the pricing to be more competitive and widening the customer base to avoid
+dependence on a few key customers. While poultry farming continues to be pressured, the Division will continue to explore means of diversifying the feed ranges to other
+segments such as ruminant feed, and also expansion of our customer base to cushion the impact of poultry integration. The Grains and Agribusiness segment saw lower sales in all business sectors due to various constraints caused by the
+pandemic. Factory shutdown and labour shortages affected the production and sales of the Flour Milling Division. In the Animal Feed
+Milling Division, the lower sales were attributable to the closure or lower sales volume of restaurants and food service outlets. Sales in
+the Livestock Farming Division were affected by lower demand for DOC and table eggs; which was due to reduced or halted intake from
+broiler farmers and reduction in egg production due to disease outbreaks.

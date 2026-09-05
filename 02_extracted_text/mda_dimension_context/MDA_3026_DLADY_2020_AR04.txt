@@ -1,0 +1,151 @@
+document_id: MDA_3026_DLADY_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 24, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+obesity and stunting, especially amongst
+children. Beyond
+providing
+innovative
+products to better suit the dietary needs of
+Malaysians, DLMI has raised the awareness of
+the dual burden issues via multiple platforms
+leveraging on platforms such as the World Milk
+Day, online programmes. This is in addition to
+our periodic engagements with the Ministry of
+Health to encourage developments of policies
+that include milk products into Government
+driven programmes to ensure a healthy
+generation of Malaysians in the future. Performance
+The year 2020 began with great plans and
+ambitions. However, the COVID-19 pandemic
+changed the course of the year’s plans. As
+an organisation that is rooted in providing
+Nutrition and Nourishing Malaysians as our
+core purpose, we stood strong in facing this
+challenge and stood firm in our commercial
+strategy. In fact, we stayed agile in our
+approach to adapt to the new normal and
+focused on our core priorities, our commercial
+performance and emerged strong with overall
+volume increase of +7% vs 2019 as a total
+company. Zooming into our Consumer Dairy portfolio,
+we are happy to share that we hit all our
+commercial KPIs for 2020!
+[MDA_P004]
+Purpose: activation of our purpose
+in unprecedented times
+In line with DLMI’s purpose to Nourish our
+nation from Grass to Glass, the business
+successfully overcame multiple challenges
+throughout 2020, coming about the impact
+of COVID-19 and the public health measures
+imposed by the Government in the form of the
+Movement Control Order (MCO). DLMI, under the essential sector category
+successfully obtained the approval from the
+Ministry of International Trade and Industry’s
+to operate during the MCO period and supported
+its ecosystem to obtain similar approval. This enabled the business to protect the
+livelihoods and jobs of employees throughout
+our ecosystem (i.e. supply chain and logistics)
+and ensured continuous production of our
+nutritious milk products and supply to the
+market. During this uncertain period DLMI
+worked very closely with its trade partners to
+ensure availability of our nourishing products,
+so that we could keep the Malaysians nourished
+– our single-minded purpose.
+[MDA_P010]
+Learn more about our sustainability roadmap below:
+Manifesto
+to
+Drive goodness of
+milk education for a
+healthy nation
+To provide healthy
+and sustainable
+nutrition to all people,
+at all ages, now and in
+the future
+&
+To reduce hunger
+in the world and
+promote good health
+and well-being
+To drive dairy farming
+which focuses
+on sustainability
+for animals and
+ecosystem while
+minimising carbon
+footprint
+To have a production
+process that reduces
+water and energy
+consumption, circular
+and CO2 neutral
+Deliver reduction
+targets at current and
+new plant
+Drive sustainable
+actions at farm level
+including production
+NUTRITION
+(Glass)
+FARM
+(Grass)
+CARBON
+FOOTPRINT
+(Grass to Glass)
+POST
+CONSUMPTION
+(Glass)
+To have our entire
+packaging portfolio
+reusable, recyclable
+or both by 2025
+Promote recycling
+via education and
+recyclable and
+circular packaging
+DLMI has further improved on the water- and energy consumption of our operations by investing and applying better
+technology, improvement in monitoring systems and creating more awareness with employees to prevent unnecessary
+spillage.
+[MDA_P011]
+In 2020, DLMI had organised the Ramadan Healthy
+Charity called (“Jariah Susu”) to provide much
+needed nutrition to the underprivileged community
+by partnering non-governmental and charitable
+organisations. Through this initiative, we partnered
+Yayasan Basmi Kemiskinan (which looks after
+underprivileged (B40) families both covered and
+uncovered by the Welfare Department or ZAKAT in
+Selangor), Yayasan Salam Malaysia (which covers
+underprivileged (B40) families in the Chow Kit area),
+and Masjid Tun Abdul Aziz (which covers the Petaling
+Jaya area – underprivileged families, frontliners,
+orphanages, old folks home) to help those impacted
+by the lockdown. Despite the COVID-19 outbreak, DLMI continues to
+uphold our license to operate as a Halal-certified
+organisation, with smooth application processes to
+ensure timely route to market for our halal dairy
+products. We adapted to new Halal certification
+procedures and policy norms, specified by JAKIM during
+the first phase of the MCO. In addition, DLMI continued
+sustaining our position on the Fast Track List and we
+remained fully committed towards the Malaysian Halal
+certification conditions and requirements.
+[MDA_P012]
+DLMI has
+continued to develop, practice, and maintain the Halal
+Assurance System effectively over the years. DLMI will continue to partner various Halal authorities
+and agencies to facilitate the development of our
+Halal system and standards in preparation for the new
+facility at Bandar Enstek (Techpark@Enstek), Negeri
+Sembilan. We remained committed to reinforcing our
+role as a Halal dairy producer since 1963 as well as
+a JAKIM White List holder since 2017 – to uphold the
+standards of Halal and in preserving our customer’s
+confidence in DLMI products. Halal

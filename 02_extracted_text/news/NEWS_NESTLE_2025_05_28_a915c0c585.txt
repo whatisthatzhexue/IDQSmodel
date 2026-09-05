@@ -1,0 +1,16 @@
+[TITLE]
+Last-minute selling pushes FBM KLCI to intraday low
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/28/last-minute-selling-pushes-fbm-klci-to-intraday-low
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Last-minute selling pushed the FBM KLCI lower on Wednesday, after spending the day vacillating between gains and losses. At 5pm, the benchmark index closed down 2.68 points, or 0.18% to 1,523.48, its intraday low. There were 435 gainers against 474 decliners while 499 counters unchanged. About 2.5 billion shares, valued at RM2.04bil, changed hands. Dealers said the spate of lacklustre corporate results has dampened market sentiment, causing more investors to stay on the sidelines.
+
+[NEWS_P002] They added that this cautious mood is likely to persist, limiting market momentum. Among the decliners, Nestle fell 50 sen to RM81, Kuala Lumpur Kepong lost 46 sen to RM19.90, Dutch Lady eased 30 sen to RM29 and MBM Resources declined 20 sen to RM5.36. Sunway Construction rose 49 sen to RM5.95, PETRONAS Dagangan added 40 sen to RM20.20, Hong Leong Industries climbed 22 sen to RM14 and Carlsberg gained 20 sen to RM19.50. Among the banks, Maybank declined one sen to RM9.84, CIMB eased three sen to RM6.87, Public Bank fell five sen to RM4.33, RHB Bank lost 18 sen to RM6.67, while Hong Leong Bank rose two sen to RM19.90.
+
+[NEWS_P003] According to Bursa Malaysia data, foreign investors continued to sell local equities, disposing of RM170mil on Tuesday, while local institutions and retailers bought equities worth RM120mil and RM50mil, respectively. Meanwhile, the local currency rose 0.17% against the US dollar to 4.2315, gained 0.23% versus the Singapore dollar at 3.2853, and strengthened 0.54% against the pound sterling to 5.7110. Asian bourses closed mixed today, with Japan’s Nikkei 225 down 0.004%, South Korea’s Kospi up 1.25%, Hong Kong’s Hang Seng down 0.53%, and China’s CSI 300 Index falling 0.08%.

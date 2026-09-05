@@ -1,0 +1,86 @@
+document_id: MDA_3026_DLADY_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 67, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 141.787, "paragraph_count": 67, "paragraph_length_distribution": {"max": 1190, "mean": 646.388, "min": 9}, "repetition_ratio": 0.029851, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+[MDA_P017]
+One
+of
+the
+many
+triggers
+of
+product
+performance is competition, which we welcome.
+We believe, the more the competition, the more
+we can collectively create greater awareness
+on issues such as malnutrition and obesity
+in Malaysia. In short, our performance on the
+mission to Nourish our Nation is catalysed by
+competition and accelerated by our continuous
+efforts to improve the nutritional content as
+well as formats of our products.
+[MDA_P034]
+Operating Profit declined by 80.3% from RM286.5 million
+to RM56.4 million. This decline is largely attributable to
+the gain of RM155 million in 2021 related to the disposal
+of manufacturing land and buildings and lease-back of our
+current Production Facility @ Petaling Jaya. In 2022 one-
+off restructuring costs related to the discontinuation of milk
+powder operations in Petaling Jaya in 2023 and other lines
+in 2024 of RM17.9 million were incurred. In addition, the first
+Bilateral Advanced Pricing Arrangement (“BAPA”) between
+the competent authorities of Malaysia and The Netherlands
+with regards to certain related party transactions was
+finalised in 2022. This arrangement covers the years 2018
+to 2022. Hence, in 2022, DLMI has booked the impact from
+2018 to 2021 which amounts to RM24.9 million. Additionally,
+accelerated depreciation was implemented in 2021 for assets
+in our Production Facility @ Petaling Jaya not transferring
+to the new Production Facility @ Bander Enstek. A limited
+amount of OPEX costs have also been made related to the
+construction project.
+[MDA_P051]
+The Department of Veterinary
+Services Malaysia (DVS) is representing the Government to achieve
+this target to expand and improve milk production in the country in
+collaboration with DLMI to train local dairy farmers in order to increase
+the volume and quality of milk. OVERVIEW
+Malaysia is aiming for a
+100% self-
+sufficiency
+level (SSL)
+in local fresh milk
+production by 2025. In 2021, fresh milk
+self-sufficiency
+ratio was 56.7%
+(Department of Statistics
+Malaysia, Sept 2022)
+Department of Veterinary
+Services Malaysia (DVS) is
+representing the
+government to achieve
+this target to expand and
+improve milk production
+in the country in
+collaboration
+with DLMI to train
+local dairy farmers
+to increase the volume and
+quality of milk. KEY
+HIGHLIGHTS
+[MDA_P067]
+The
+multiple activities integrated across mediums, channels
+and departments have brought the growth such as the
+‘Grow Stronger for the Tiger Year’ festive campaign, Friso
+Gold Global Symposium with face-to-face interaction with
+healthcare professionals and global speakers, and our
+support in-store from our Nutri Advisors. *
+Nielsen Retail Audit Dec 2022
+** Kantar Worldpanel Malaysia – Household Panel, MAT P13 2022

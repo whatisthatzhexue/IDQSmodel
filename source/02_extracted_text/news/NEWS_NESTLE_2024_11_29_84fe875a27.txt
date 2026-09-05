@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI settles flat at midday; Supreme Consolidated surges 34% on debut
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-11-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/29/fbm-klci-settles-flat-at-midday-supreme-consolidated-surges-34-on-debut
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI managed to recover some of its earlier losses by midday, with the index trading down by a negligible 0.01%. The benchmark FBM KLCI was 0.14 points, or 0.01%, lower at 1,597.35 at midday, after reaching an intra-morning high of 1,597.73. Gainers trailed losers by 414 to 486, while 428 counters traded unchanged. Volume was 1.84 billion shares valued at RM1.25bil. Tenaga Nasional, the top loser on Bursa Malaysia tumbled 48 sen, or 3.43% to RM13.50.
+
+[NEWS_P002] AirAsia X fell 10 sen to RM1.94, LPI Capital lost 10 sen to RM13.26 and Harrisons declined nine sen to RM8.28. Meanwhile, the top gainer was Nestle, which surged RM1.50 to RM97.50. Malaysian Pacific Industries jumped 40 sen to RM24.02, Hong Leong Industries added 36 sen to RM15.16 and PETRONAS Dagangan gained 30 sen to RM19.76. ACE Market debutant Supreme Consolidated jumped 34%, or 8.5 sen to 33.5 sen with 95.38 million shares traded. TA Securities said the local market should trend sideways ahead of the weekend, as the lack of local buying catalysts and US markets being closed for the Thanksgiving holiday will keep investors sidelined.
+
+[NEWS_P003] “Immediate index support remains at 1,588, which is the 38.2% Fibonacci retracement of the 1,529 low (Aug 6) to the 1,684 high (Aug 29) rally,” it said. It added that the stronger key supports are found at 1,565, the 23.6% Fibonacci level, followed by 1,550. “Immediate resistance remains at 1,630, next at 1,648, followed by the September peak of 1,675,” TA said.

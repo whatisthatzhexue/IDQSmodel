@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rises for second day on Fed rate cut optimism
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-07-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/10/fbm-klci-rises-for-second-day-on-fed-rate-cut-optimism
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI finished higher for the second straight day, buoyed by investor optimism about potential US rate cuts. According to the CME FedWatch tool, markets are now pricing in over a 70% chance of a Fed cut in September, up from a near-even chance a month ago, Reuters reported. The FBM KLCI settled the day up 3.96 points, or 0.25% to 1,618.38 points. This was on volume of 4.76 billion shares valued at RM3.71bil. Winners and losers were closely balanced, with 569 gainers against 549 losers and 518 that were flat.
+
+[NEWS_P002] Gainers on Bursa Malaysia include Nestle, which rose 30 sen to RM122.70, Malayan Cement, which gained 27 sen to RM5.55, Batu Kawan, which added 20 sen to RM19.80 and Gamuda, which climbed 19 sen to RM7.52. Among the losers, Dutch Lady slid 74 sen to RM33.60, Malaysian Pacific Industries lost 26 sen to RM40, F&N fell 24 sen to RM31.14 and Ann Joo declined 17 sen to RM1.17. On the forex market, the ringgit was up 0.05% against the greenback to 4.7045%.
+
+[NEWS_P003] It is up 0.13% against the pound sterling at 6.0209 and flat against the Singapore dollar at 3.4857. Around the region, MSCI's Asia ex-Japan stock index was lower by 0.19%. Japan’s Nikkei 225 ended up 0.61% at 41,831.99, while South Korea’s Kospi finished 0.21% higher at 2,867.99. Hong Kong’s Hang Seng index closed down 0.29% at 17,471.67. China’s blue-chip CSI300 index ended down 0.32% at 3,428.97 while the Shanghai Composite Index lost 0.68% to 2,939.36.

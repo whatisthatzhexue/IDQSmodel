@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Magma, Globetronics, APB, HE, Chin Hin, L&G, Press Metal, Dataprep, Zantat, KTI, Itmax, SDC
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2024-09-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/11/trading-ideas-magma-globetronics-apb-he-chin-hin-lg-press-metal-dataprep-zantat-kti-itmax-sdc
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Magma Group Bhd has received the green light from shareholders at its extraordinary general meeting for its proposed issuance of redeemable convertible notes aimed at raising up to RM100mn. Globetronics Technology Bhd experienced a 32.5% drop in share value, or 26 sen, following the voluntary resignation of its external auditor, KPMG PLT, which also led to the suspension of intraday short-selling.
+
+[NEWS_P002] APB Resources Bhd , a new major shareholder with a 10.36% stake in Globetronics, saw its share price decline by 4.41%, facing a RM102mn paper loss on its investment in the semiconductor contract manufacturer. HE Group Bhd has secured a RM30.6mn contract to construct a 132kV power station for a semiconductor plant in the Ulu Klang Free Trade Zone. Chin Hin Group Property Bhd is collaborating with Atlan Holdings Bhd on a high-rise project in Johor Bahru, with an estimated gross development value of RM478.42mn.
+
+[NEWS_P003] Property developer, Land & General Bhd plans to launch U10 Aria Rimba, a new township project in Shah Alam with a total gross development value of approximately RM2.4bn next year. Press Metal Aluminium Holdings Bhd reported a fire incident at its Phase 3 smelter in the Samalaju Industrial Park on Sept 9, which affected 9% of its total smelting capacity. The company anticipates it will take approximately four months to restore operations. Dataprep Holdings Bhd has inked a partnership with Neoreka Asia Sdn Bhd, a subsidiary of Tokyo-listed NeoJapan Inc.
+
+[NEWS_P004] to work in an ICT-related field including its appointment as an authorised reseller of DESKNET's NEO, a web-based groupware platform designed to serve as the information-sharing foundation for enterprises. Zantat Holdings Bhd, a calcium carbonate producer, aims to raise RM14mn through a special issue of up to 40mn new shares to Bumiputera investors, following its RM18.2mn IPO in March. Sabah-based property developer KTI Landmark Bhd's Taman Seri Lemawang landed residential development in Tuaran, Sabah, has received a Special Award of Excellence in Construction under the Construction Industry Development Board's Sabah Qlassic Programme 2023.
+
+[NEWS_P005] Datin Afinaliza Zainal Abidin, non-independent executive director at ITMax System Bhd , sold 61.9mn shares through her private entity, Ganda Sensasi Sdn Bhd, for RM201.1mn. Solar District Cooling Group Bhd, set to debut on the ACE Market on Sept 19, has seen its initial public offering oversubscribed by 144.08 times.

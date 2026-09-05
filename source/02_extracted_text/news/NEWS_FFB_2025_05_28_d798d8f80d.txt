@@ -1,0 +1,24 @@
+[TITLE]
+FGV's 1Q earnings bolstered by higher FFB yields, price
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2025-05-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/28/fgv039s-1q-earnings-bolstered-by-higher-ffb-yields-price
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: FGV Holdings Bhd 's performance in the first quarter of 2025 (1QFY25) was buoyed by the contribution of its plantations division, which benefited from increases in fresh fruit bunch (FFB) yield and price. "We are encouraged by the improved 1Q FY2025 results, particularly the consistent performance of our plantation division. "A steady growth compared to same quarter last year, reflects the resilience of our operations and the positive impacts of our ongoing agronomic improvements," said group CEO Fakhrunniam Othman in a statement.
+
+[NEWS_P002] In 1QFY25, FGV's bottomline turned positive with a net profit of RM36.48mil as compared to a net loss of RM13.49mil in the year-ago quarter. The group posted an earnings per share of one sen as compared to a loss per share of 0.37 sen in the comparative quarter. Revenue during the quarter under review rose to RM5.04bil from RM4.54bil previously. According to FGV, the plantations division posted a strong turnaround during the quarter, with a profit of RM50.67mil compared to a loss of RM62.14mil in the same quarter in 2024.
+
+[NEWS_P003] The improvement was driven by a 5% increase in FFB production to 770,000 tonnes (MT), resulting in a higher FFB yield of 3.05MT per hectare. There was also a 24% increase in FFB price, which reached RM974 per MT, although the oil extraction rate declined to 19.94% from 20.59% in the same quarter in 2024. The division’s performance was further supported by stronger contributions from the R&D segment, particularly the fertiliser business, which recorded stronger margins and higher sales volume.
+
+[NEWS_P004] However, these gains were partially offset by a higher fair value charge on the land lease agreement, which increased to RM115.91mil from RM86.04mil in the same period last year. The group's other divisions did not fare as well during the quarter. The oils and fats division reported a loss of RM11.57mil due a lower margin in the bulk commodities segment and reduced processed palm oil (PPO) delivery volumes. In the logistics and support division, there was a slightly lower net profit of RM32.47mil, driven by lower tonnage handled in the logistics segment, although this was partially offset by higher profit in the IT segment.
+
+[NEWS_P005] The sugar division posted a lower profit of RM11.46mil against RM67.17mil in the same quarter last year due to reduced margin, lower sales volume and decreased capacity utilisation, despite a reduction in production costs The consumer products division narrowed its losses to RM6.09mil from RM8.75mil in the corresponding quarter of the previous year, supported by better margins in the consumer products segment and lower losses in the integrated farming and dairy segments.
+
+[NEWS_P006] Moving forward, FGV said CPO prices are expected to ease from RM4,700 per MT to about RM4,000 per MT in the coming months as supply improves with favourable weather, seasonally higher cropping cycles, and the absence of festive-related demand. The group said it will continue enhancing yields, extracting greater value from existing assets and expanding its footprint in the domestic consumer market. Over the longer term, FGV is advancing portfolio diversification through high-value fast-moving consumer goods (FMCG) and international market penetration.
+
+[NEWS_P007] "Our core priority is to deliver sustainable shareholder value while navigating a complex external environment. Global headwinds including rising trade tensions, the introduction of new tariffs, and slower-than-expected biodiesel demand may weigh on commodity sentiment. "However, FGV’s diversified operations, strong plantation fundamentals and commitment to integrated value creation position us well to withstand volatility and unlock long-term growth," said Fakhrunniam.

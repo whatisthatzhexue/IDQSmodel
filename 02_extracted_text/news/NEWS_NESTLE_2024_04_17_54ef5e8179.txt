@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI's rebound fizzles
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-04-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/17/fbm-klci039s-rebound-fizzles
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's stock benchmark struggled to gain any ground on Wednesday, closing the early session with a negative result as the expected delay in US interest rate cuts weighed on investors' risk appetite. The FBM KLCI entered the lunch break 1.24 points lower at 1,533.76, en route to a fifth consecutive day of losses unless investors ramp up bargain-hunting activities in the later session. Lower liners on Bursa Malaysia, however, received more buying interest with 512 stocks bouncing higher after the market was seen wallowing in a sea of red in the previous day.
+
+[NEWS_P002] In comparison, there were 344 decliners and 461 stocks unchanged on the domestic market. Share turnover was 1.85 billion shares valued at RM1.8bil. Investors are reversing bets over US interest rate cuts this year as Federal Reserve chair Jerome Powell signalled the central bank could push back the timeline for easing measures given recent hot inflation data. Asian markets, which have been in selling mode over the last three sessions, were mixed following Powell's comments.
+
+[NEWS_P003] Japan's Nikkei dropped 0.2% to 38,379 and Hong Kong's Hang Seng slid 0.1% to 16,238. Meanwhile, the Shanghai Composite index rose 1.2% to 3,044, fuelled by strong economic growth data and expectations Beijing will roll out more stimulus measures to support the economy. On Bursa Malaysia, the plantations sector was a leading laggard, with blue-chip plays such as IOI falling eight sen to RM3.95, Kuala Lumpur Kepong sliding 38 sen to RM22.52, and Sime Darby Plantation shedding five sen to RM4.40.
+
+[NEWS_P004] Consumer counters were among the most improved including Dutch Lady up 74 sen to RM32.30, F&N rising 32 sen to RM31.28, Nestle gaining 30 sen to RM121.90 and Heineken adding 40 sen to RM22.90. Of actives, Ingenieur Gudang rose 0.5 sen to 15 sen, Alpha was flat at 33.5 sen and Bina Puri was unchanged at eight sen.

@@ -1,0 +1,16 @@
+[TITLE]
+Buying support for Bursa Malaysia after Dow's record performance
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-10-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/17/buying-support-for-bursa-malaysia-after-dow039s-record-performance
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia continued to move sideways in the lead-up to Budget 2025 on Friday although there was some buying support following Wall Street's leap to fresh record highs overnight. After a sharp decline on the back of European tech giant ASML's weaker outlook, the US market rebounded, buoyed by stronger-than-expected earnings from Morgan Stanley. The Dow Jones closed at an all-time high, with sectors such as financials, utilities, materials and industrials posting record highs.
+
+[NEWS_P002] At the start of trading, the FBM KLCI rose 1.84 points to 1,634.37 as investors picked up bargains following the previous day's decline. Tenaga Nasional rose eight sen to RM14.54, PPB gained 18 sne to RM14.38 and Hong Leong Bank climbed 14 sen to RM21.34. Press Metal added two sen to RM4.48 and Sunway rose four sen to RM4.43. Meanwhile, top actives on the market included Aizo up one sen to 15.5 sen, TWL unchanged at 2.5 sen and Datasonic gaining 0.5 sen to 44 sen.
+
+[NEWS_P003] Malacca Securities Research said investor attention will turn to export-oriented stocks such as globes and technology as the US dollar strengthened further against the ringgit. "Additionally, investors may want to consider sectors expected to benefit from Budget 2025, such as construction, property, building materials, and utilities. "We also see potential in selected Plantation, O&G, and finance stocks offering attractive dividend yields," said the research firm in a note.

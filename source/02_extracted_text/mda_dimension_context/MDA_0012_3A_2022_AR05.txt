@@ -1,0 +1,90 @@
+document_id: MDA_0012_3A_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 23, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 152.127, "paragraph_count": 23, "paragraph_length_distribution": {"max": 1182, "mean": 698.348, "min": 18}, "repetition_ratio": 0.043478, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+INDUSTRY OVERVIEW
+As we reflected on the unparalleled pace
+of change from the domino impact of
+COVID-19, companies need to evolve to
+overcome challenges in order to achieve
+their business objectives and to shape a
+better world for all. 3A Group continues to
+forge ahead on production efficiency and
+cost management with a focused mission
+of fulfilling the pent-up demand of our
+value chain partners and customers. The
+disruptions brought about by COVID-19
+brought realisation that our team need to
+focus on plant modernisation and automation
+and more importantly align the operations
+and people in the quest of protecting the
+planet. According to Malaysia’s Economy Report
+2022/2023 released by Bank Negara
+Malaysia in February 2023, Malaysia’s
+domestic economy is seen to be driven by
+steady domestic demand, a vibrant service
+sector, implementation of new and ongoing
+high-multiplier infrastructure projects, and
+sustained exports.
+[MDA_P006]
+Revenue from export of products
+comprised 42% of the overall revenue
+of the Group in FY2022.
+[MDA_P012]
+(VI) MARKETING AND CUSTOMER BASE
+EXPANSION
+In ensuring that 3A is ahead of its
+competitive edge, we are working
+closely with our existing customers and
+potential new customers to strengthen
+the business relationship for both short
+and long terms. More significantly,
+(V) PRODUCTION
+Throughout the years, plant expansions,
+upgrading and modernisation
+continued to be undertaken as part
+of the long-term operational efficiency
+initiatives. The Group had acquired
+more advanced product packing
+machines, monitoring apparatus to
+improve efficiency such as flow meter
+and hydro heater. Plant expansion
+was also an important undertaking
+to achieve economies of scale. The
+outcome of ongoing improvements
+will increase automation which will
+enable us to reduce the dependence on
+foreign labour as well as enhance plant
+we are striving to gain loyalty with our
+customers through deep understanding
+and hands-on information sharing
+regarding key matters such as varieties
+of business, food safety, formulas and
+batches, regulatory compliance, sales
+and profitability and critical success
+factors.
+[MDA_P018]
+Our target is to
+approach those market which are still new
+or have low penetration and identify new
+customers and/or new agents/distributors in
+the new market. This will allow us to diversify
+our market and also help us to develop
+our brand in different parts of the world. MANAGEMENT DISCUSSION
+AND ANALYSIS (CONTINUED)
+[MDA_P023]
+Finally, we are truly grateful to our Chairman
+and directors for their great wisdom and
+foresight in leading the Group through our
+boldest endeavours. With your full support
+and faith in us, the team in 3A look forward to
+transforming the Group to be more resilient
+and agile towards achieving sustainable
+success.

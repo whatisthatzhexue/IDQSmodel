@@ -1,0 +1,150 @@
+document_id,num_financial_mentions,num_calculable_changes,num_consistent_checks,num_minor_discrepancies,num_material_discrepancies,num_severe_direction_conflicts,num_not_calculable,has_revenue_discussion,has_profit_discussion,has_cost_discussion,has_segment_discussion,has_margin_discussion,overall_numeric_consistency,internal_check_notes
+MDA_0012_3A_2020,27,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_0012_3A_2021,27,2,2,0,0,0,0,True,True,True,False,False,strong,"revenue: stated 18.00%, calculated 18.22%, status consistent. | revenue: stated 18.00%, calculated 18.22%, status consistent."
+MDA_0012_3A_2022,48,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_0012_3A_2023,45,0,0,0,0,0,1,True,True,True,True,False,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 4054.60, stated total 38.46, difference 10442.38%."
+MDA_0012_3A_2024,35,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_0212_SDS_2020,51,2,1,0,1,0,0,True,True,True,True,True,weak,"margin: stated 29.90%, calculated 29.86% from profit/revenue, status consistent. | margin: stated 46.30%, calculated 0.46% from profit/revenue, status material_discrepancy."
+MDA_0212_SDS_2021,44,1,1,0,0,0,0,True,True,True,False,True,moderate,"margin: stated 30.50%, calculated 30.49% from profit/revenue, status consistent."
+MDA_0212_SDS_2022,43,1,0,0,1,0,0,True,True,True,True,True,weak,"margin: stated 14.10%, calculated 31.06% from profit/revenue, status material_discrepancy."
+MDA_0212_SDS_2023,64,2,1,0,1,0,2,True,True,True,True,True,weak,"borrowings: stated -72.20%, calculated -71.84%, status consistent. | margin: stated 134.30%, calculated 8157.26% from profit/revenue, status material_discrepancy. | margin: not calculable because revenue is zero. | segment revenue: possible table extraction or multi-year pairing issue; components sum 4055.00, stated total 36.00, difference 11163.89%."
+MDA_0212_SDS_2024,56,2,0,0,2,0,0,True,True,True,True,True,weak,"margin: stated 14.20%, calculated 33.96% from profit/revenue, status material_discrepancy. | margin: stated 31.50%, calculated 713.08% from profit/revenue, status material_discrepancy."
+MDA_2658_AJI_2020,1,0,0,0,0,0,0,True,False,False,False,False,not_enough_numbers,
+MDA_2658_AJI_2021,2,0,0,0,0,0,0,True,False,False,False,False,not_enough_numbers,
+MDA_2658_AJI_2022,1,0,0,0,0,0,0,True,True,False,False,False,not_enough_numbers,
+MDA_2658_AJI_2023,21,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_2658_AJI_2024,57,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_2828_CIHLDG_2020,51,4,4,0,0,0,0,True,True,True,False,True,strong,"Revenue: stated 13.00%, calculated 13.04%, status consistent. | Assets: stated 55.00%, calculated 55.05%, status consistent. | Assets: stated 38.00%, calculated 37.50%, status consistent. | borrowings: stated 86.00%, calculated 85.64%, status consistent."
+MDA_2828_CIHLDG_2021,53,2,2,0,0,0,0,True,True,True,True,True,strong,"Assets: stated 13.00%, calculated 13.23%, status consistent. | borrowings: stated -20.00%, calculated -19.98%, status consistent."
+MDA_2828_CIHLDG_2022,58,3,3,0,0,0,0,True,True,True,False,True,strong,"Assets: stated 36.00%, calculated 36.39%, status consistent. | Assets: stated 29.00%, calculated 29.13%, status consistent. | borrowings: stated 35.00%, calculated 34.55%, status consistent."
+MDA_2828_CIHLDG_2023,59,3,3,0,0,0,0,True,True,True,True,True,strong,"Assets: stated 16.00%, calculated 15.98%, status consistent. | Assets: stated 4.00%, calculated 3.58%, status consistent. | borrowings: stated 4.00%, calculated 4.23%, status consistent."
+MDA_2828_CIHLDG_2024,61,4,3,0,1,0,0,True,True,True,True,True,weak,"Assets: stated -46.00%, calculated -45.68%, status consistent. | Assets: stated 47.00%, calculated 47.09%, status consistent. | borrowings: stated -24.35%, calculated -24.35%, status consistent. | margin: stated 3.01%, calculated 70.37% from profit/revenue, status material_discrepancy."
+MDA_2836_CARLSBG_2020,141,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_2836_CARLSBG_2021,219,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_2836_CARLSBG_2022,104,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_2836_CARLSBG_2023,0,0,0,0,0,0,0,False,False,True,True,False,not_enough_numbers,
+MDA_2836_CARLSBG_2024,2,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_3026_DLADY_2020,42,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_3026_DLADY_2021,43,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_3026_DLADY_2022,136,2,1,0,1,0,0,True,True,True,True,True,weak,"Operating Profit: stated -80.30%, calculated -80.31%, status consistent. | margin: stated 35.00%, calculated 0.02% from profit/revenue, status material_discrepancy."
+MDA_3026_DLADY_2023,167,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_3026_DLADY_2024,162,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_3255_HEIM_2020,65,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_3255_HEIM_2021,97,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_3255_HEIM_2022,28,0,0,0,0,0,0,True,False,True,False,False,not_enough_numbers,
+MDA_3255_HEIM_2023,55,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_3255_HEIM_2024,40,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_3662_MFLOUR_2020,15,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 4089.40, stated total 2580.00, difference 58.50%."
+MDA_3662_MFLOUR_2021,10,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 8632.05, stated total 2730.00, difference 216.19%."
+MDA_3662_MFLOUR_2022,36,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_3662_MFLOUR_2023,59,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_3662_MFLOUR_2024,33,0,0,0,0,0,0,True,False,True,True,True,not_enough_numbers,
+MDA_3689_FN_2020,83,2,2,0,0,0,1,True,True,True,True,False,strong,"Operating profit: stated -10.00%, calculated -10.06%, status consistent. | Revenue: stated 1.80%, calculated 1.57%, status consistent. | segment revenue: possible table extraction or multi-year pairing issue; components sum 4054.00, stated total 1.00, difference 405300.00%."
+MDA_3689_FN_2021,30,0,0,0,0,0,2,True,True,True,True,False,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 418391.60, stated total 90.00, difference 464779.56%. | segment revenue: possible table extraction or multi-year pairing issue; components sum -1948.00, stated total 2016.00, difference -196.63%."
+MDA_3689_FN_2022,177,1,0,0,1,0,2,True,True,True,True,False,weak,"segment revenue: possible table extraction or multi-year pairing issue; components sum 132.00, stated total 1.00, difference 13100.00%. | segment revenue: components sum 40032.50, stated total 53000.00, difference -24.47%, status material_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 201.00, stated total 100000.00, difference -99.80%."
+MDA_3689_FN_2023,35,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_4065_PPB_2020,94,0,0,0,0,0,3,True,True,True,True,False,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 11571217.00, stated total 2019.00, difference 573016.25%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 784296.70, stated total 1340.00, difference 58429.60%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 51252791.11, stated total 2020.00, difference 2537166.89%."
+MDA_4065_PPB_2021,114,1,0,0,1,0,5,True,True,True,True,True,weak,"segment revenue: components sum 28511.00, stated total 67200.00, difference -57.57%, status material_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 4061.00, stated total 50.00, difference 8022.00%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 8172.00, stated total 2021.00, difference 304.35%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 10055.00, stated total 1500.00, difference 570.33%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 33693.00, stated total 2220.00, difference 1417.70%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 3160.00, stated total 115030.00, difference -97.25%."
+MDA_4065_PPB_2022,113,0,0,0,0,0,4,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 2615.00, stated total 111.00, difference 2255.86%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 18558514.60, stated total 6260.00, difference 296361.89%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 111513491.33, stated total 2360.00, difference 4725047.94%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 15812.16, stated total 167.00, difference 9368.36%."
+MDA_4065_PPB_2023,131,0,0,0,0,0,3,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 19314081.44, stated total 2022.00, difference 955096.91%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 115618495.23, stated total 1600.00, difference 7226055.95%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 10894.00, stated total 197.00, difference 5429.95%."
+MDA_4065_PPB_2024,7,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_4707_NESTLE_2020,21,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_4707_NESTLE_2021,23,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_4707_NESTLE_2022,19,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_4707_NESTLE_2023,6,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_4707_NESTLE_2024,14,0,0,0,0,0,0,True,False,True,True,True,not_enough_numbers,
+MDA_5008_HARISON_2021,2,0,0,0,0,0,0,True,False,False,False,False,not_enough_numbers,
+MDA_5008_HARISON_2022,46,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5008_HARISON_2023,62,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 2025.10, stated total 2023.00, difference 0.10%."
+MDA_5008_HARISON_2024,68,1,0,0,1,0,0,True,True,True,True,True,weak,"segment revenue: components sum 4233.30, stated total 2024.00, difference 109.16%, status material_discrepancy."
+MDA_5102_GCB_2020,33,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_5102_GCB_2021,203,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5102_GCB_2022,129,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5102_GCB_2023,141,1,1,0,0,0,0,True,True,True,True,True,moderate,"revenue: stated 20.40%, calculated 20.39%, status consistent."
+MDA_5102_GCB_2024,5,0,0,0,0,0,0,False,True,True,False,True,not_enough_numbers,
+MDA_5157_SG_2020,33,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5157_SG_2021,35,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5157_SG_2022,43,1,0,1,0,0,1,True,True,True,True,True,moderate,"margin: stated 18.40%, calculated 17.39% from profit/revenue, status minor_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 539042.00, stated total 96.90, difference 556186.89%."
+MDA_5157_SG_2023,38,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 589747.16, stated total 1.30, difference 45365066.15%."
+MDA_5157_SG_2024,27,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5187_HBGLOB_2020,17,1,0,0,1,0,0,True,True,True,True,True,weak,"margin: stated 28.50%, calculated 75.17% from profit/revenue, status material_discrepancy."
+MDA_5187_HBGLOB_2021,8,0,0,0,0,0,0,True,False,True,True,True,not_enough_numbers,
+MDA_5187_HBGLOB_2022,25,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5187_HBGLOB_2023,19,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_5187_HBGLOB_2024,40,2,0,0,2,0,0,True,True,True,False,True,weak,"margin: stated 19.00%, calculated 2508.05% from profit/revenue, status material_discrepancy. | margin: stated 1.30%, calculated 18.96% from profit/revenue, status material_discrepancy."
+MDA_5188_CNOUHUA_2020,15,0,0,0,0,0,0,True,True,False,False,False,not_enough_numbers,
+MDA_5188_CNOUHUA_2021,16,0,0,0,0,0,0,True,True,False,False,False,not_enough_numbers,
+MDA_5188_CNOUHUA_2022,15,0,0,0,0,0,0,True,True,False,False,False,not_enough_numbers,
+MDA_5188_CNOUHUA_2023,16,0,0,0,0,0,0,True,True,False,False,False,not_enough_numbers,
+MDA_5188_CNOUHUA_2024,15,0,0,0,0,0,0,True,True,False,False,False,not_enough_numbers,
+MDA_5202_MSM_2020,229,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5202_MSM_2021,46,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_5202_MSM_2022,54,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5202_MSM_2023,126,1,0,0,1,0,1,True,True,True,True,True,weak,"margin: stated 10.00%, calculated 71.43% from profit/revenue, status material_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 8059.00, stated total 2023.00, difference 298.37%."
+MDA_5202_MSM_2024,0,0,0,0,0,0,0,False,False,False,False,False,not_enough_numbers,
+MDA_5306_FFB_2022,42,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5306_FFB_2023,139,2,1,0,1,0,0,True,True,True,True,True,weak,"REVENUE: stated -20.60%, calculated -20.55%, status consistent. | margin: stated 3.40%, calculated 27.16% from profit/revenue, status material_discrepancy."
+MDA_5306_FFB_2024,14,0,0,0,0,0,1,True,False,False,True,False,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 1098113.00, stated total 2024.00, difference 54154.59%."
+MDA_5533_OCB_2020,35,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_5533_OCB_2021,17,0,0,0,0,0,1,True,True,True,True,False,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 4216.40, stated total 84.14, difference 4911.17%."
+MDA_5533_OCB_2022,113,0,0,0,0,0,2,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 195901015777.10, stated total 2022.00, difference 9688477435.96%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 4203.80, stated total 85.00, difference 4845.65%."
+MDA_5533_OCB_2023,116,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_5533_OCB_2024,34,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_6203_KHEESAN_2021,11,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_6203_KHEESAN_2022,18,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_6203_KHEESAN_2023,62,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 4192.20, stated total 33.00, difference 12603.64%."
+MDA_6203_KHEESAN_2024,57,1,1,0,0,0,1,True,True,True,True,True,moderate,"margin: stated 25.80%, calculated 25.81% from profit/revenue, status consistent. | segment revenue: possible table extraction or multi-year pairing issue; components sum 10336.80, stated total 52.30, difference 19664.44%."
+MDA_6432_APOLLO_2020,22,1,0,0,1,0,0,True,True,True,False,True,weak,"profit: stated 1.46%, calculated 5.89%, status material_discrepancy."
+MDA_6432_APOLLO_2021,22,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_6432_APOLLO_2022,20,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_6432_APOLLO_2023,23,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_6432_APOLLO_2024,27,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_7035_CCK_2020,20,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_7035_CCK_2021,45,1,0,0,1,0,1,True,True,True,True,True,weak,"margin: stated 34.90%, calculated 99.95% from profit/revenue, status material_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 10118.00, stated total 40.30, difference 25006.70%."
+MDA_7035_CCK_2022,70,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 10585.40, stated total 192.20, difference 5407.49%."
+MDA_7035_CCK_2023,63,1,0,0,1,0,1,True,True,True,True,True,weak,"margin: stated 20.20%, calculated 601.01% from profit/revenue, status material_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 6973.70, stated total -75.00, difference 9398.27%."
+MDA_7035_CCK_2024,66,2,0,0,2,0,3,True,True,True,True,True,weak,"margin: stated 2.30%, calculated 29.87% from profit/revenue, status material_discrepancy. | segment revenue: components sum 4081.00, stated total 2986.00, difference 36.67%, status material_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 7049.60, stated total -76.00, difference 9375.79%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 381.90, stated total 2024.00, difference -81.13%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 12176.90, stated total 49.00, difference 24750.82%."
+MDA_7103_SPRITZER_2020,8,0,0,0,0,0,0,True,False,False,True,False,not_enough_numbers,
+MDA_7103_SPRITZER_2021,9,0,0,0,0,0,0,True,False,False,True,False,not_enough_numbers,
+MDA_7103_SPRITZER_2022,69,1,1,0,0,0,0,True,True,True,False,True,moderate,"margin: stated 9.20%, calculated 8.28% from profit/revenue, status consistent."
+MDA_7103_SPRITZER_2023,87,1,0,0,1,0,0,True,True,True,True,True,weak,"margin: stated 10.40%, calculated 6.32% from profit/revenue, status material_discrepancy."
+MDA_7103_SPRITZER_2024,97,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 14437.20, stated total 1.80, difference 801966.67%."
+MDA_7107_OFI_2020,52,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_7107_OFI_2021,52,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_7107_OFI_2022,51,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_7107_OFI_2023,51,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_7167_ABLEGLOB_2020,62,1,0,0,1,0,0,True,True,True,True,True,weak,"Dividend: stated -1.01%, calculated -27.03%, status material_discrepancy."
+MDA_7167_ABLEGLOB_2021,48,1,0,0,1,0,0,True,True,True,True,True,weak,"Dividend: stated 0.41%, calculated 15.19%, status material_discrepancy."
+MDA_7167_ABLEGLOB_2022,50,1,0,0,1,0,0,True,True,True,True,True,weak,"Dividend: stated -0.15%, calculated -4.82%, status material_discrepancy."
+MDA_7167_ABLEGLOB_2023,53,1,0,0,1,0,0,True,True,True,True,True,weak,"Dividend: stated 1.37%, calculated 46.28%, status material_discrepancy."
+MDA_7167_ABLEGLOB_2024,22,0,0,0,0,0,0,True,True,True,True,False,not_enough_numbers,
+MDA_7216_KAWAN_2020,119,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 2015.00, stated total -5.00, difference 40400.00%."
+MDA_7216_KAWAN_2021,3,0,0,0,0,0,0,False,True,True,False,True,not_enough_numbers,
+MDA_7216_KAWAN_2022,116,1,0,1,0,0,0,True,True,True,True,True,moderate,"margin: stated 13.70%, calculated 12.52% from profit/revenue, status minor_discrepancy."
+MDA_7216_KAWAN_2023,95,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_7216_KAWAN_2024,63,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_7237_PWROOT_2020,53,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_7237_PWROOT_2021,47,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_7237_PWROOT_2022,53,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_7237_PWROOT_2023,39,0,0,0,0,0,0,True,True,True,False,False,not_enough_numbers,
+MDA_7237_PWROOT_2024,43,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_7243_MAGMA_2020,70,1,0,0,1,0,0,True,True,True,False,True,weak,"margin: stated 75.40%, calculated 51.03% from profit/revenue, status material_discrepancy."
+MDA_7243_MAGMA_2021,61,2,1,0,1,0,0,True,True,True,True,True,weak,"liabilities: stated 4.00%, calculated 3.60%, status consistent. | margin: stated 42.00%, calculated 31.76% from profit/revenue, status material_discrepancy."
+MDA_7243_MAGMA_2022,61,1,0,0,1,0,1,True,True,True,True,True,weak,"margin: stated 37.10%, calculated 56.70% from profit/revenue, status material_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 4069.72, stated total 19.50, difference 20770.36%."
+MDA_7243_MAGMA_2023,73,1,0,0,1,0,2,True,True,True,True,True,weak,"margin: stated 45.90%, calculated 114.42% from profit/revenue, status material_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 90474.00, stated total 2023.00, difference 4372.27%. | segment revenue: possible table extraction or multi-year pairing issue; components sum 2052.95, stated total 26.73, difference 7580.32%."
+MDA_7243_MAGMA_2024,88,2,1,0,1,0,1,True,True,True,True,True,weak,"Assets: stated 1.50%, calculated 1.45%, status consistent. | margin: stated 3.20%, calculated 109.81% from profit/revenue, status material_discrepancy. | segment revenue: possible table extraction or multi-year pairing issue; components sum 42072.64, stated total -2451.00, difference 1816.55%."
+MDA_8303_LOTUS_2020,36,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_8303_LOTUS_2021,33,0,0,0,0,0,0,True,True,True,True,True,not_enough_numbers,
+MDA_8303_LOTUS_2022,31,1,0,0,1,0,0,True,True,True,True,True,weak,"margin: stated 2.66%, calculated 6.31% from profit/revenue, status material_discrepancy."
+MDA_8303_LOTUS_2023,40,1,0,0,1,0,0,True,True,True,True,True,weak,"segment revenue: components sum 2052.00, stated total 21646200.00, difference -99.99%, status material_discrepancy."
+MDA_8303_LOTUS_2024,30,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 2074.32, stated total 0.38, difference 541497.39%."
+MDA_8478_HWATAI_2020,22,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_8478_HWATAI_2021,44,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 229788.00, stated total 74950.00, difference 206.59%."
+MDA_8478_HWATAI_2022,39,0,0,0,0,0,1,True,True,True,True,True,moderate,"segment revenue: possible table extraction or multi-year pairing issue; components sum 233976.00, stated total 73378.00, difference 218.86%."
+MDA_8478_HWATAI_2023,18,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_8478_HWATAI_2024,21,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_9946_ETA_2020,14,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_9946_ETA_2021,8,0,0,0,0,0,0,False,True,True,True,True,not_enough_numbers,
+MDA_9946_ETA_2022,26,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_9946_ETA_2023,19,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,
+MDA_9946_ETA_2024,21,0,0,0,0,0,0,True,True,True,False,True,not_enough_numbers,

@@ -1,0 +1,30 @@
+[TITLE]
+‘Form Six, not a last resort’
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2025-07-06
+source_name: The Star
+url: https://www.thestar.com.my/news/education/2025/07/06/form-six-not-a-last-resort
+confidence_tier: low
+
+[NEWS_P001] A TOTAL of 14 Form Six centres across three categories - Form Six Colleges, Mod Two and Mod Three Centres - have been awarded RM80,000 in incentives. This was in recognition of their top performance in the Sijil Tinggi Persekolahan Malaysia (STPM) 2024 examinations. Education Minister Fadhlina Sidek said the selection was based on the centres’ average grade point achievements in the examinations. “What’s most important to highlight is that these are regular national schools - not premium schools - but they have shown outstanding improvements in their STPM results.
+
+[NEWS_P002] “Despite limited resources and repeated challenges, their spirit and performance are what we must celebrate,” she said during an award presentation ceremony for STPM 2024 top scorers in Selayang, Selangor, on June 24. The Education Ministry, said Fadhlina, is stepping up efforts to ensure that Form Six is no longer seen as a last resort, but as a strategic path to higher education. “This is part of our broader commitment to strengthening the Form Six pathway for all students, and to ensure it continues to be a primary choice after the Sijil Pelajaran Malaysia (SPM),” she explained.
+
+[NEWS_P003] To drive this push, Fadhlina said the ministry is implementing several initiatives (see infographic) to revitalise Form Six - not only to enrich the academic experience but also to offer financial aid and leadership development opportunities. She said that to strengthen instruction, the ministry will work with the Malaysian Examinations Council (MPM) to provide corporate social responsibility (CSR)-based teacher training. “We are conducting CSR-based training for Form Six teachers to improve the quality of teaching and learning, so that content delivery becomes more effective.
+
+[NEWS_P004] “This initiative will involve cooperation among divisions in the Education Ministry, particularly the Daily School Management Division and MPM, to ensure that everyone involved - students and teachers – receives attention,” she said. Regarding financial aid, Fadhlina said a RM100 monthly scholarship from Farm Fresh Berhad is being offered to 500 selected B40 students across 10 states, running until December this year. She added that to ease the financial burden on parents and motivate students, Form Six students are eligible to receive the RM150 Early Schooling Aid (BAP), previously limited to students from Year One to Form Five.
+
+[NEWS_P005] “The first phase of distribution was completed in February, involving nearly RM7mil,” she said, adding that the next phase will begin on Aug 1, with an estimated allocation of RM7.8mil. Immersive learning Fadhlina expressed the ministry’s hope to expand the pilot programme placing Form Six students in public universities and to encourage more universities to participate. Currently, the programme is run at Universiti Kebangsaan Malaysia (UKM) and Universiti Sains Malaysia (USM).
+
+[NEWS_P006] “Students live on campus, access all facilities, join campus programmes, and benefit from digital and technological resources. “Although they will still sit for the STPM examinations as usual, the advantage is that they are placed inside these universities,” she said. Fadhlina also announced the formation of the Form Six Madani generation representative council under her purview. “We are streamlining the Form Six council, where all student associations will operate under its umbrella,” she said.
+
+[NEWS_P007] Fadhlina added that through this effort, the ministry aims to build a Form Six leadership team, particularly to nurture the next generation of national leaders. “These students will be given the opportunity to be with me and experience the leadership process through an internship programme we call ‘Sanggar Bitara’,” she said. Post-STPM options Fadhlina said Form Six graduates are eligible to apply for the Bachelor of Education Programme (PISMP) at the Institute of Teacher Education Malaysia (IPGM), a path previously limited to SPM leavers.
+
+[NEWS_P008] Additionally, 300 scholarships are available for outstanding STPM graduates to pursue education degrees at local universities. “I hope STPM graduates will apply and look into this offer to further their studies in the field of education,” she said. The MPM will also allow students to retake or “patch” selected STPM papers within the same academic year to improve results and university admission prospects, she added. Key initiatives Pilot programme at public universities A pilot Form Six programme has been launched at UKM and USM.
+
+[NEWS_P009] Opportunity to pursue studies at IPGM From 2024, Form Six leavers are eligible to enrol in PISMP at IPGM. Scholarships for students 300 top-performing STPM students will receive scholarships to pursue education degrees. In partnership with Farm Fresh, selected B40 students will receive RM100 monthly until December this year. ‘Patching’ STPM results MPM will allow students to retake or ‘patch’ specific STPM subjects within the same academic year to improve results.
+
+[NEWS_P010] BAP for students All Form Six students will receive RM150 in BAP, starting this year. Incentive for Form Six centres Starting this year, the ministry will award performance-based incentives to selected Form Six centres to recognise student, teacher and school commitment. Training for teachers The ministry and MPM will conduct targeted training programmes to enhance the quality of teaching and learning. Source: Education Ministry

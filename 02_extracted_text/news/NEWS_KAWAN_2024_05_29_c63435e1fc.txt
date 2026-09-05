@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia slumps as US inflation report stokes rate fears
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-05-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/29/bursa-malaysia-slumps-as-us-inflation-report-stokes-rate-fears
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The selling on Bursa Malaysia accelerated alongside declines across global markets as US consumer data sparked a surge in Treasury yields. Entering the lunch break, the FBM KLC was down 6.89 points to 1,608.93 on the back of 26 lagging counters. The lower liners were also broadly sold down as the market registered 838 decliners compared to 272 gainers and 410 unchanged. Of the 13 market sectors, only utilities put in a positive performance, with the worst being plantations and financial services.
+
+[NEWS_P002] The share turnover was 2.96 billion valued at RM1.86bil. According to observers, investor sentiment soured following the release of a gauge of US consumer confidence in May, which outperformed expectations. The Conference Board, a business research group, said its consumer confidence index rose in May to 102 from 97.5 in April despite analyst expectations of a fourth consecutive month of decline. Malaysian technology counters fared better than most on the broader market but remained mixed following a record performance on the Nasdaq overnight.
+
+[NEWS_P003] The Bursa Malaysia Technology Index was down a marginal 0.04% to 73.58. MPI rose 48 sen to RM39.36, Notion Vtech gained nine sen to RM1.29 and Genetec added seven sen to RM2.25. Meanwhile, blue chips seeing the biggest losses included Kuala Lumpur Kepong down 32 sen to RM21.66, Tenaga Nasional falling 18 sen to RM13.08, MISC shedding nine sen to RM8.28 and Axiata sliding six sen to RM2.78. YTL Power was an outperformer, surging 23 sen to RM5.23 following the announcement of its unit, SIPP Power, raising its stake in Ranhill Utilities.
+
+[NEWS_P004] Of actives, ACE Market debutant Kawan Energy was the leading stock, surging 16.5 sen to 46.5 sen, followed by Epicon dropping 12 sen to 28 sen and Revenue sliding one sen to 22.5 sen. Key regional markets were a sea of red, led lower by Hong Kong's Hang Seng dropping 1.54% to 18,531. Japan's Nikkei dropped 0.41% to 38,697 and Singapore's Straits Times index slipped 0.1% to 3,327. China's composite index was a rare sight, rising 0.33%.

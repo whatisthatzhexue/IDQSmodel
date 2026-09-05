@@ -1,0 +1,28 @@
+[TITLE]
+Bursa Malaysia's index ends lower, broader market positive, ahead of Fed decision
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/10/bursa-malaysia039s-index-ends-lower-broader-market-positive-ahead-of-fed-decision
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia’s key index ended lower today, in line with most regional markets, amid mixed signals from Wall Street as investors turned cautious ahead of the highly anticipated United States Federal Reserve’s (Fed) policy announcement later tonight. The US Federal Open Market Committee (FOMC) began its two-day policy meeting on Tuesday and will conclude it today. At 5 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) eased 3.17 points, or 0.20 per cent, to 1,611.00 from Tuesday’s close of 1,614.17.
+
+[NEWS_P002] The benchmark index opened 3.13 points lower at 1,611.04 and slipped to its lowest point of 1,606.11 during the morning session, before gradually recovering and reaching its intraday high of 1,612.50 in late trading. The broader market was positive, with gainers leading decliners 515 to 472. A total of 608 counters were unchanged, 1,154 were untraded and 12 suspended. Turnover increased to 3.86 billion units worth RM2.21 billion from 2.66 billion units worth RM2.09 billion on Tuesday.
+
+[NEWS_P003] Rakuten Trade Sdn Bhd vice-president of equity research Thong Pak Leng said the FBM KLCI closed mildly lower as investors continued to look for value opportunities, particularly among small-cap counters. "The benchmark index hovered around its first support level at around 1,610, reflecting a cautious tone among investors. "Despite the short-term softness, the market’s medium-term outlook remains intact, as the 1,600-1,610 levels continue to act as an important support that often attracts bargain hunters,” he told Bernama.
+
+[NEWS_P004] Thong said that if buying interest re-emerges near that level, the index could stabilise and attempt to recover once broader market sentiment improves. "While the market may remain subdued in the immediate term, its underlying structure suggests room for resilience over the coming weeks. Hence, we maintain our weekly FBM KLCI target at between 1,600 and 1,630,” he added. Among heavyweights, Maybank inched up two sen to RM10.12, Public Bank was unchanged at RM4.37, CIMB Group dipped three sen to RM7.82, IHH Healthcare slipped 13 sen to RM8.40, while Tenaga Nasional added four sen to RM12.74.
+
+[NEWS_P005] On the most active list, Borneo Oil was unchanged at half-a-sen, Zetrix AI improved 2.5 sen to 83 sen, Velesto Energy added 1.5 sen to 27 sen, Tanco Holdings added two sen to RM1.16, while Main Market debutant Lac Med gained 1.5 sen to 76.5 sen. Top gainers included Nestle which advanced RM3.30 to RM115.00, DKSH climbed 63 sen to RM5.90, Malaysian Pacific Industries added 30 sen to RM32.18, Allianz Malaysia improved 30 sen to RM19.96, and Dutch Lady rose 28 sen to RM30.28.
+
+[NEWS_P006] Among the top losers, Hong Leong Industries dropped 28 sen to RM15.72, United Plantations shed 24 sen to RM28.60, Far East Holdings declined 20 sen to RM4.15, Fraser & Neave eased 20 sen to RM35.00, and ITMAX slipped 11 sen to RM4.53. On the index board, the FBM Emas Index slipped 16.29 points to 11,916.91, the FBM Emas Shariah Index eased 5.79 points to 11,788.88, the FBMT 100 Index declined 19.71 points to 11,701.27, the FBM 70 Index fell 13.43 points to 16,651.07, and the FBM ACE Index dropped 23.31 points to 4,730.98.
+
+[NEWS_P007] Sector-wise, the Plantation Index slipped 18.75 points to 8,062.83, and the Financial Services Index shed 11.77 points to 18,918.40, while the Industrial Products and Services Index ticked up 0.51 of-a-point to 166.99, and the Energy Index improved 5.50 points to 757.43. The Main Market volume expanded to 1.63 billion units worth RM1.81 billion from 1.14 billion units worth RM1.85 billion on Tuesday. Warrants turnover rose to 1.89 billion units worth RM268.63 million against 1.21 billion units worth RM141.42 million previously.
+
+[NEWS_P008] The ACE Market volume increased to 336.40 million units valued at RM125.36 million versus 299.51 million units valued at RM96.30 million yesterday. Consumer products and services counters accounted for 179.60 million shares traded on the Main Market, industrial products and services (431.42 million), construction (89.23 million), technology (255.78 million), financial services (42.25 million), property (185.10 million), plantation (39.38 million), real estate investment trusts (14.56 million), closed-end fund (3,500), energy (203.25 million), healthcare (121.30 million), telecommunications and media (23.69 million), transportation and logistics (31.88 million), utilities (21.65 million), and business trusts (5,100).
+
+[NEWS_P009] - Bernama

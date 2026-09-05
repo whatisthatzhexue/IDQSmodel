@@ -1,0 +1,22 @@
+[TITLE]
+Trading ideas: Binastra, Catcha, IJM, Vanzo, JFTech, BHIC, Affin, LGMS, Paramount, AMB, PetGas, Kerjaya, Inari, FGV
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2024-11-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/28/trading-ideas-binastra-catcha-ijm-vanzo-jftech-bhic-affin-lgms-paramount-amb-petgas-kerjaya-inari-fgv
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Binastra Corporation Bhd's unit Binastra Builders Sdn Bhd has secured a RM67.6mn contract to redevelop a sewage treatment plant in Taman Bukit Cheras, Kuala Lumpur. Catcha Digital Bhd said that it will continue to focus on organic expansion and strategic mergers and acquisitions to sustain its earnings growth. IJM Land Bhd, through its subsidiary RMS (England) Ltd, held a groundbreaking ceremony for the second phase of Royal Mint Gardens in London.
+
+[NEWS_P002] Air fragrance maker Vanzo Holdings Bhd has launched the prospectus for its ACE Market IPO that may raise up to RM21mn to expand retail presence and marketing activities. JF Technology Bhd plans to raise RM46.35mn via a private placement to fund its new investment and ongoing business expansion. Boustead Heavy Industries Corp is selling its 51% stake in Contraves Advanced Devices Sdn Bhd to its joint venture partner in the firm, German arms maker Rheinmetall AG for RM54mn cash.
+
+[NEWS_P003] Sarawak’s state government has become the largest shareholder of banking group Affin Bank Bhd, after the completion of a deal with Lembaga Tabung Angkatan Tentera for the acquisition of 165.05mn shares or 6.87% in the bank. LGMS Bhd , bolstered by the rising demand for cybersecurity services and solutions, has increased its workforce substantially and plans to more than double its number of skilled professionals by mid-2025. Paramount Corp Bhd expects its performance in the current financial year to be satisfactory as sales traction in the property segment continues on the back of launches of properties of RM2bn GDV.
+
+[NEWS_P004] AMMB Holdings Bhd sharply raised its dividend payout after reporting a 7% YoY rise to RM500.57mn in 2QFY25 net profit on interest income growth. Petronas Gas Bhd said that its net profit rose 5.4% YoY to RM493.67mn in the 3QFY24, as higher offtake and reservation charges lifted revenue, and boosted by currency gains. Kerjaya Prospek Group Bhd posted a net profit of RM46.09mn in 3QFY24, up from RM35.57mn in the year-ago quarter. Inari Amertron Bhd reported a 71.6% YoY drop to RM24.12mn in net profit for 1QFY25 following a steep drop in the US dollar against the ringgit.
+
+[NEWS_P005] TIME Dotcom Bhd has reported a 44.93% decline in third-quarter net profit to RM58.71mn, from RM106.60mn a year earlier, due mainly to a foreign exchange loss. IJM Corp Bhd ’s net profit for the 2QFY25 fell 20.8% to RM74.21mn from RM93.69mn a year earlier, due to higher unrealised forex losses. FGV Holdings Bhd 's recorded a net profit of RM87.16mn in 3QFY24, up from RM31.98mn in the year-ago quarter, boosted by plantations division with improvements in FFB production and yield.
+
+[NEWS_P006] Malaysian Resources Corp Bhd recorded a net profit of RM8.86mn in 3QFY24, up from RM1.46mn in the year-ago quarter and said it continues to prioritise enhancing its cash low by monetising its unsold completed stock of RM352.8mn GDV in Malaysia. Media Prima Bhd has recorded a revenue of RM194.9mn and a net profit of RM1.4mn in the 1QFY25, demonstrating resilience in a challenging market environment. Hengyuan Refining Co Bhd incurred a net loss of RM165.1mn for 3QFY2024, as opposed to a net profit of RM2.1mn for 3QFY2023, due to weakening of its cracking or refining margin and high stockholding losses.

@@ -1,0 +1,16 @@
+[TITLE]
+Soccer-US fund Apollo in talks to invest in Atletico Madrid, sources say
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-07-16
+source_name: The Star
+url: https://www.thestar.com.my/sport/football/2025/07/16/soccer-apollo-in-talks-to-take-stake-in-atletico-madrid-report-says
+confidence_tier: low
+
+[NEWS_P001] MADRID (Reuters) -U.S.-based buyout fund Apollo Global Management is in talks with the lead shareholder of Atletico Madrid about a possible deal to invest in the Spanish top-flight side, two people familiar with the matter told Reuters. Spanish newspaper Expansion first reported the news on Wednesday. The club has embarked on an 800 million euro ($929 million) sport and leisure project around its Metropolitano Stadium in Madrid. Some 200 million euros for the project will come from the club, the rest is expected to come from private investors, according to Expansion.
+
+[NEWS_P002] While talks between the club and Apollo started off focusing on financing for Atletico Madrid's building project, the U.S. fund is now interested in a stake in Atletico Holdco, which owns the majority of the club, one of the sources said, speaking on condition of anonymity because the talks are private. There is no concrete offer on the table and other funds are interested in a stake in Atletico Holdco, this person said, adding that a deal could value the club at up to 3 billion euros.
+
+[NEWS_P003] Apollo would get its stake via a capital increase of Atletico Holdco, according to Expansion. Apollo declined to comment on the report. Club CEO Miguel Ángel Gil Marin is the main shareholder in Atletico Holdco, with a stake of more than 50%. Investment fund Ares Management and Enrique Cerezo are also investors in the company that owns more than 70% of the club. ($1 = 0.8606 euros) (Reporting by Pietro Lombardi and Andres Gonzales; Editing by Peter Rutherford, Anousha Sakoui and Keith Weir)

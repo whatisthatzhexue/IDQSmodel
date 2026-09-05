@@ -1,0 +1,52 @@
+document_id: MDA_6432_APOLLO_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P011]
+Revenue
+[MDA_P012]
+The Group registered a turnover of RM190.39 million for the financial year ended 30 April 2021, an increase of 8.84%
+as compared to RM174.93 million in previous financial year ended 30 April 2020. 75.96% of the turnover was
+contributed by local market and there were no material changes on the sales proportion from previous financial
+year. During the financial year, the increase of sales demand in local market has improved the overall turnover of
+the Group.
+[MDA_P013]
+Profit for the Financial Year
+[MDA_P014]
+The profit after taxation had increased by 21.77% to RM17.34 million from RM14.24 million as recorded in the
+previous financial year. The increase in profit after taxation during the financial year was mainly due to reversal of
+impairment loss on Property, Plant and Equipment and fair value gain on other investments.
+[MDA_P020]
+Total assets had decreased from RM263.55 million as at last financial year end to RM260.61 million as at current
+financial year end mainly due to higher dividend paid during the financial year.
+[MDA_P024]
+(i) Fluctuation of Raw Material Prices
+[MDA_P025]
+The fluctuation of raw materials’ prices will have an impact on the Group’s profitability. The Group has taken steps
+in reducing the risk of price fluctuation by negotiating better terms with suppliers. Under the supervision of the
+Directors, Procurement Department monitors the prices closely and assures that the quality of raw materials is not
+compromised in line with lower purchase price.
+[MDA_P031]
+Deterioration in quality of the product would bring negative impact to the Group’s public image and reputation. To
+prevent this from happening, the Group has implemented quality management systems and quality assurance
+procedures via HALAL and ISO accreditation. The Group also purchases top quality raw materials from reputable and
+reliable suppliers.
+[MDA_P036]
+Due to the evolving situation of Covid-19 pandemic, the Group is mindful and will defer any major capital
+commitment to avoid any adverse effect on the financial situation of the Group and to safeguard the interest of the
+Group. However, the Group will monitor the situation closely and make the necessary decisions as and when the
+situation is conducive.
+[MDA_P039]
+In view of inflation on key raw materials’ prices and the volatility of Ringgit Malaysia against foreign currencies, raw
+materials’ prices are expected to be unstable in the forthcoming year. Coupled with the uncertainties in the global
+economy due to the Covid-19 pandemic, the Group expects that the forthcoming year will continue to be
+challenging. In order to maintain its profitability, the Group will focus its efforts to closely monitor the prices of raw
+materials and to review its business strategies when deem necessary.
+[MDA_P040]
+The Board expects a challenging year for the Group and will adopt a vigilant and prudent stance. The Group will
+strive to ensure that it continues to achieve satisfactory results by implementing prudent measures and improving
+operational efficiency so as to sustain the current profit margin without compromising the products’ quality. To
+improve its stream of revenue, the Group will put more efforts in focusing and enhancing its brands recognition and
+products’ varieties for new business opportunities.

@@ -1,0 +1,138 @@
+document_id: MDA_5157_SG_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 19, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Analysis of Revenue
+FYE 2022
+FYE 2021
+(RM’000)
+(RM’000)
+Manufacturing-further process
+products (“FPP”)
+64,219
+49,432
+Food Service (HORECA and OEM)
+16,709
+13,013
+Trading products
+15,952
+18,334
+96,880
+80,779
+96,880
+80,779
+Our Group’s total revenue for FYE 2022 stands at RM96.9 million an increase by RM16.1 million as compared to RM80.8 million in FYE 2021
+due to the following reasons:
+i)
+Improved FPP sales during the 2nd half of the FYE 2022 sales increase in FPP segment by RM14.8 million and Food service segment
+of RM3.7 million. This was mainly due to the continued trends of consumer behavior for frozen FPP products as it can be kept for
+longer period, and
+ii)
+However, this improvement has been set off against the slow demand in trading activities of RM2.4 million. As the demand for
+trading products is reducing as a result of uncertainty in beef and chicken pricing in Malaysia . SAUDEE GROUP BERHAD 200801036832 (838172-P)
+ANNUAL REPORT 2022
+[MDA_P003]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+Analysis of Revenue (Cont'd)
+The Management will continue to improve its production efficiency and increase its production capacity to capture a bigger market
+share in the FPP segment which has catered more sales and increase the market for East Malaysia, i.e. Sabah and Sarawak. As during the
+financial under review, the Company investing into expand its production capacity that able to produce more in FPP products and meet
+the demand of local and East Malaysia market. The Management continued to put effort in monitoring its cash flow management and
+cost reduction programme that is important in view of the ever-changing business environment after Covid-19 impact and in future years.
+[MDA_P007]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+Losses Per Share (“LPS”)
+The impact of fair value loss in other investments had contributed
+to an overall loss after tax of RM4.4 million. As such, our Group has
+recorded loss per share of 0.49 sen for FYE 2022 as compared to loss
+per share of 1.47 sen in FYE 2021. Cash Flow Analysis
+FYE 2022
+FYE 2021
+(RM’000)
+(RM’000)
+Operating cash flow before
+working capital change
+5,990
+2, 831
+Changes in working capital
+(27,605)
+(2,513)
+Tax paid
+(49)
+(542)
+Interest paid
+(64)
+(1,286)
+Net cash used in operating
+activities
+(21,728)
+(1,510)
+Our Group has recorded net cash used in operating activities
+of RM21.7 million in FYE 2022 as compared to net cash used in
+operating activities of RM1.5 million in FYE 2021 after deducting
+interest paid of RM0.1 million for FYE 2022 and RM1.3 million
+for FYE 2021 respectively. The decrease in cash from operating
+activities was due to the repayment of supplier and also payment
+of machinery for expansion of production area and also cold
+storage space to cater future increase in demand from West
+and East Malaysia during the year under review.
+[MDA_P008]
+Even facing the
+uncertainty on post Covid-19 pandemic challenge on global and
+local in material price and forex, the Group was still able to improve
+its current ratio at 8.8 times for FYE 2022 as compared to 7.2 times
+For FYE 2021. During the financial year under review, the Group raised funds of
+RM15.9 million through ESOS and placement of shares. The cash
+generated were used to purchase of additional machinery and
+expansion of production and cold storage space. This will able
+to increase the Company production capacity by at least 30% in
+coming year. Cash and cash equivalent stood at RM8.0 million as
+at 31 July 2022. During FYE 2021, the Group also reduced bank
+borrowing by RM24.6 million. FYE 2022
+FYE 2021
+(RM’000)
+(RM’000)
+Net cash used in investing
+activities
+(36,092)
+(22, 418)
+Net cash generated from
+financing activities
+15,399
+75,749
+Net (decrease)/increase in cash
+and cash equivalent
+(42,421)
+51, 821
+The Group has in process to increase its production capacity by
+investing in new machineries and equipment in current financial
+year under reviews with the proceeds raised pursuant to the rights
+issue and placement of shares.
+[MDA_P009]
+In FYE 2022, the Group has invested
+RM21.5 million in FYE2022 as compared to RM2.1 million in FYE
+2021 on the acquisition of plant and machineries. The spending was mainly in the acquisition of new production
+machinery and increase in production and cold storage space that
+will improve the production capacity in order to cater existing
+customers demand and demand from Easy Malaysia customers
+in the near future. Even with the tough time during the financial
+year under review, the management re-strategised the direction
+decided that it was a strategic time for expansion and reinvestment
+to replace old machines with more automated machines in the
+short and middle term. Therefore, the Group raised funds for
+expansion of production and reinvesting into new machinery to
+increase the production capacity of the Group in coming years,
+even during this challenging time i.e. post Covid-19 pandemic.
+[MDA_P013]
+-
+The abovementioned cause our Group’s net assets per share reduced from 45 sen in FY 2021 to 15 sen in FY 2022. This mainly due
+to increase in number of ordinary shares. Key Risk and Mitigation
+After implementing the distributorship model two (2) years ago, the Group was able to strengthen its credit control and minimised
+exposure of credit risks. However, due to the Covid-19 pandemic and uncertainty in global economy during the financial year, the Group
+had continued monitoring the situation in Malaysia and globally. The additional cost such as labour costs on the imposition of minimum
+wages from RM1,200 per month to RM1,500 per month. This additional cost has contributed to the negative result during the financial year
+under review. As such, the Group will continue to put more effort in strengthen the growth distributorship channel on FPP segment and
+increase production capacity to cater the increase in demand of FPP in the coming year.

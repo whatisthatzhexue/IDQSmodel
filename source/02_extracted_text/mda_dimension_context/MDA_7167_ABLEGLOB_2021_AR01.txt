@@ -1,0 +1,72 @@
+document_id: MDA_7167_ABLEGLOB_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 51, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Statement on Management Discussion and Analysis (“MD&A”) provides an insight of the financial performance
+of Able Global Berhad (“AGB”) (Formerly known as Johore Tin Berhad) and its subsidiaries (“the Group”) for
+the financial year ended 31 December 2021 (“FYE 2021”). This MD&A also contains information on the Group’s
+overview of business and operations, current financial position, reviewing of operating activities, assessing the
+operational risks faced by the Group and discussing the future prospect of the Group.
+1.
+OVERVIEW OF BUSINESS AND OPERATIONS
+A.
+Business and Operations
+[MDA_P004]
+For Tin Cans segment, most of the customers are locally based, with minor market share in Singapore.
+The customer base consists of various industries mainly in biscuit, paint and chemical, edible oil
+and food processing industries. As for the tinplate printing services, most of the printing services are
+exported within South-East Asia market as well as local market.
+[MDA_P007]
+For FYE 2021, the Group achieved revenue of RM499.86 million as compared to RM502.26 million in the
+previous financial year, a decreased of RM2.4 million. Profit before tax decreased by RM1.79 million to
+RM51.43 million as compared to RM53.22 million in the previous financial year.
+[MDA_P009]
+As for the F&B segment, the revenue decreased by RM14.53 million to RM372.35 million from RM386.88
+million mainly due to the decrease in production output from the lockdown imposed by the government and
+factory operations stoppages due to Covid-19.
+[MDA_P010]
+Profit before tax of Tin Cans segment increased by RM11.86 million to RM25.00 million from RM13.14 million.
+The adjustment in selling prices to Tin Cans customers in the FYE 2021 contributed to the normalisation
+of the profit margin and therefore, a higher profit as compared to the exceptionally low profit in previous
+financial year. The exceptionally lower profit before tax in previous financial year was mainly due to lower
+revenue resulted from the lower demand across all industries caused by the initial outbreak of COVID-19
+pandemic and the increase in costs during MCO1.0 period.
+[MDA_P024]
+The prices of dairy and sugar remain volatile and it will affect the manufacturing costs significantly. This
+posed a challenge to the Management in inventory control and procurement management. As such, the
+management is in constant contacts and dialogues with the suppliers and traders to gauge the situation of
+the market in order to make the procurement decisions.
+Statement on Management Discussion and Analysis
+(Cont’d)
+[MDA_P026]
+Another factor that affects the operating activities of F&B segment is freight cost. The ongoing pandemic-
+related delays and closures of ports lead to higher freight costs and transit time volatile. The subsidiaries
+of F&B segment experience higher freight cost and delay in shipments. As there is no certainty when this
+situation is expected to normalise, the subsidiaries in F&B segment are trying to cope with the situation by
+engaging multiple shipping agents in order to get the best quote and the earliest possible delivery date to
+suit the customer’s requirement.
+4.
+REVIEW OF OPERATIONAL RISKS
+[MDA_P027]
+The following are the main factors that may affect the operational risks of the Group:
+A.
+Business Risk
+[MDA_P044]
+On the other hand, the demand for F&B segment remains strong although the market is highly competitive.
+The continued volatility of dairy products prices and the higher priced local sugar compared to international
+prices creates a challenging environment especially for sweetened condensed milk export to outside
+Malaysia. However, the Group believes that this business segment will still be able to sustain its profitability.
+[MDA_P047]
+Barring any unforeseen circumstances, the Board believes that the overall prospects and future financial
+performance of the Group is expected to be favourable in the mid-term.
+[MDA_P051]
+This forward-looking statement is based on current expectations and assumptions made by the Board
+through the analysis of historical information and trends. The Board is under no obligation to and expressly
+disclaims any obligation to, update or alter its forward-looking statements, whether as a result of new
+information, subsequent events or otherwise.
+This statement is made in accordance with a Board resolution dated 15 April 2022.
+Statement on Management Discussion and Analysis
+(Cont’d)

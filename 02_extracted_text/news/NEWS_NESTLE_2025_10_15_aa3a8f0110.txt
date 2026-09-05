@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI edges higher amid mixed market sentiments
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/15/fbm-klci-edges-higher-amid-mixed-market-sentiments
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI edged higher at midday, supported by broad gains amid lingering external uncertainties. At midday, the market barometer rose 2.68 points, or 0.17% to 1,614.14 after hitting an intramorning high of 1,619.58. There were 584 gainers, 383 losers and 471 counters traded unchanged on the Bursa Malaysia. Turnover stood at 2.46 billion shares valued at RM1.56bil. Malacca Securities said the FBM KLCI is expected to continue trading cautiously amid worsening US-China trade relations.
+
+[NEWS_P002] “We are optimistic about AuMas Resources securing the renewal of its Bukit Mantri gold mine licence in Tawau, Sabah—the only large-scale gold mine in the state—which could support its share price rebound alongside elevated gold prices above US$4,000,” it said. Malacca Securities continues to favour 99 Speed Mart and MR DIY, as the RM15bil cash aid allocation under Budget 2026’s STR and SARA programmes is expected to lift consumer spending. Meanwhile, TA Research said stocks are likely to remain range-bound as lingering external uncertainties and the absence of market-boosting measures in Budget 2026 keep investors on the sidelines.
+
+[NEWS_P003] “Immediate support remains the 61.8% Fibonacci Retracement (FR) at 1,564, with stronger supports seen at the 50% FR (1,527) followed by the 38.2% FR (1,490). “Immediate resistance stays at the December 2024 high of 1,644, followed by tougher upside hurdles at the highs of 1,684, and 1,695,” TA said. Genting stocks continue to draw trading interest, with Genting rising 34 sen to RM3.35 on 53.17 million shares traded, while Genting Malaysia gained two sen to RM2.34 with 58.77 million shares changing hands.
+
+[NEWS_P004] Among the gainers, Nestle rose RM1.10 to RM103.20, Spritzer added 27 sen to RM2.38, United Malacca gained 18 sen to RM5.95 and Frontken climbed 15 sen to RM4.54. Consumer stocks slipped on Bursa Malaysia, with Carlsberg down 46 sen to RM16.12, F&N falling 46 sen to RM27.46, and Heineken dropping 18 sen to RM20.16.

@@ -1,0 +1,65 @@
+document_id: MDA_7035_CCK_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 116.836, "paragraph_count": 27, "paragraph_length_distribution": {"max": 1198, "mean": 618.556, "min": 93}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Revenue
+RM885.7
+million
+Profit After Tax
+RM63.1
+million
+Profit Before Tax
+RM81.4
+million
+Total Assets
+RM505.3
+million
+Total Liabilities
+RM143.1
+million
+Earnings Per Share
+10.12
+sen
+Current Ratio
+2.3
+times
+[MDA_P007]
+ANNUAL REPORT 7
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+INTRODUCTION (CONT’D)
+During the current financial year, CCK completed the acquisition of PT Bonanza. PT Bonanza operates out of Tarakan,
+Indonesia and processes shrimp for local and export sales. Principal products include frozen raw shrimp, frozen
+cooked shrimp and frozen Nobashi Ebi shrimp. The synergistic acquisition has complemented the Group’s export-
+oriented prawn products and added size and scale to the prawn segment.
+REVIEW OF FINANCIAL PERFORMANCE
+Revenue for FY2022 increased by 29.2% to RM885.7 million from last year (“FY2021”). The record revenue achieved
+during the year was due to a significant improvement in performance from all business segments. Notably, a general
+recovery in consumer demand due to the upliftment of movement controls in Sarawak led to an outperformance in the
+retail segment and an improvement in the poultry segment.
+The food service segment benefited from the re-opening of schools in Sarawak whilst the prawn segment was boosted
+by a recovery in export volume, growth in domestic sales, and the contribution from the newly acquired PT Bonanza
+in Q3FY2022 and Q4FY2022.
+[MDA_P014]
+This was funded by a combination of bank borrowings and internally generated funds. REVIEW OF OPERATIONS
+[MDA_P021]
+CCK retail stores face increasing risks from existing and new competitors who offer similar products and compete
+on the basis of pricing. To mitigate this, we are continuously looking at means to improve our competitive edge.
+The Management not only focuses on pricing of products but also in evolving business models which improve
+the customers’ shopping experience.
+e.
+Biosecurity And Disease Risk
+[MDA_P027]
+Taking into account the above, the Board is cautiously optimistic with regards to the coming financial year.
+APPRECIATION
+I would like to record my profound appreciation to my fellow directors on the Board, the management teams and the
+staff of the CCK Group of Companies for all their hard work and dedication. Their commitment and their tireless work
+have made CCK the success it is today. I would also like to acknowledge the support of our shareholders, business
+partners, suppliers and customers and thank you for your continued belief in CCK as we navigate this period together.
+TIONG CHIONG HIIUNG
+GROUP MANAGING DIRECTOR

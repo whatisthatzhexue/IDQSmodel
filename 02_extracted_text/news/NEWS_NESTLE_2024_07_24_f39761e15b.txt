@@ -1,0 +1,18 @@
+[TITLE]
+Cautious market sentiment drags Bursa Malaysia lower
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-07-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/24/cautious-market-sentiment-drags-bursa-malaysia-lower
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia finished lower on Wednesday as cautious sentiment weighed on buying patterns in line with the performance of its regional peers. The FBM KLCI settled the day down 8.54 points, or 0.52% to 1,621.14. The market traded within a range of 11.6 points between an intra-day high of 1,631.31 and a low of 1,619.71 during the session. Much of the losses were due to the selling pressure in Press Metal , YTL Power, IHH Healthcare and banking counters.
+
+[NEWS_P002] On the broader market, stocks that fell outnumbered those that rose 773 to 341, with another 487 counters unchanged. A total of 4.39 billion shares changed hands, worth RM2.8bil in all. Stock market data showed foreign investors acquired a net RM151mil worth of equities yesterday. Local institutions and retailers were net sellers, offloading equities worth RM65mil and RM82mil respectively. The top decliner was Heineken, losing 38 sen to RM22.86. Dutch Lady fell 30 sen to RM32.30, Carlsberg lost 20 sen to RM18.70 and Malayan Cement declined 18 sen to RM5.55.
+
+[NEWS_P003] Among the gainers on Bursa Malaysia, Allianz rose 20 sen to RM22, Nestle added 20 sen to RM121.80, Edaran gained 15 sen to RM1.69 and SKB Shutters advanced 13 sen to RM1.13. Press Metal dropped 21 sen to RM5.20, dragging the index down by 2.4789 points. PETRONAS Chemicals fell 11 sen to RM6.02, lowering the index by 1.2607 points, while YTL Power declined 10 sen to RM4.79, reducing the index by 1.1830 points. On the forex market, the ringgit was up 0.01% against the greenback to 4.6728.
+
+[NEWS_P004] The local currency advanced 0.12% against the Singapore dollar at 3.4738 and rose 0.12% against the pound sterling at 6.0267. Elsewhere in the region, MSCI's Asia ex-Japan stock index was lower by 1.95%. Japan’s Nikkei 225 closed down 1.11% to 39,154.85 while South Korea’s Kospi closed down 0.56% to 2,758.71. Hong Kong’s Hang Seng Index fell 0.91% to 17,311.05, China’s CSI 300 index lost 0.63% to 3,418.17 and Shanghai Composite Index declined 0.46% to 2,901.95.

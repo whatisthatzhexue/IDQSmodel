@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI gives up early gains, slips into the red
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-09-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/12/fbm-klci-gives-up-early-gains-slips-into-the-red
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI gave up its early gains and fell into the red by the close, reflecting a shift in market sentiment despite a broadly higher regional market. The market barometer lost 1.49 points, or 0.09% to 1,638.31 on Thursday after moving between its intraday high of 1,649.87 and low of 1,637.91. In the wider market, gainers outnumbered losers 669 to 353, with 2.6 billion shares worth RM2.94bil changing hands. The top decliner on Bursa Malaysia was Nestle, which fell by 50 sen to RM100.
+
+[NEWS_P002] Hong Leong Bank lost 30 sen to RM21.20, Paragon slid 26 sen to RM3.10 and Arka declined 14 sen to RM1.91. Meanwhile, the top gainer was Malaysian Pacific Industries , which added 54 sen to RM27.36. United Plantations rose 48 sen to RM27.50, ViTrox gained 25 sen to RM3.35 and Ajinomoto climbed 24 sen to RM14.94. Stock market data showed that foreign investors sold a net RM130mil on Wednesday. Local institutions and retailers were net buyers, with RM113mil and RM17mil, respectively.
+
+[NEWS_P003] The ringgit was quoted at 4.3355, down 0.13% against the US dollar. It was up 0.08% against the Singapore dollar at 3.3222 and up 0.09% to 4.7764 against the euro. Around the region, MSCI's Asia ex-Japan stock index was higher by 1.5%. Japan’s Nikkei 225 stock index was up 3.41% to 36,833.27 while South Korea’s Kospi advanced 2.34% to 2,572.09. Hong Kong’s Hang Seng Index rose 0.77% to 17,240.39, China's blue-chip CSI300 index fell 0.43% to 3,172.47 and the Shanghai Composite index was down 0.17% at 2,717.12.
+
+[NEWS_P004] Earlier, Reuters reported that Singapore equities reached a more-than-six-year high, driven by increased foreign buying and economists raising the city-state's annual growth forecasts.

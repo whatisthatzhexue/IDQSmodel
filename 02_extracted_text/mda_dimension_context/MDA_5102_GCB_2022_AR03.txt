@@ -1,0 +1,110 @@
+document_id: MDA_5102_GCB_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 67, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+MARKET OVERVIEW
+Despite global concerns about the economic
+impact of the Russia-Ukraine conflict, the
+global demand for chocolate remained
+strong, as demonstrated by the increase in
+grinding worldwide. According to regional
+cocoa associations, total grinding in FY2022
+rose to 3.5 million MT from 3.4 million MT in
+the previous year. The reopening of global borders, increased air travel,
+and tourism also contributed to the growth in chocolate
+consumption in FY2022. The chocolate market is expected
+to continue its growth trend, with Euromonitor International
+forecasting it to reach a global retail sales value of $128
+billion by the end of 2023, with a cumulative average
+growth rate of 1.9% in volume over the next three years to
+2025. There are, however, various macroeconomic factors that
+created a challenging market environment for GCB in
+2022. The European and UK region has experienced rising
+energy costs, which caused by the energy crisis as a result
+of Russia-Ukraine conflict. Global inflationary pressure have been causing interest
+rate hike. The company foresees that interest rates may
+continue to rise due to the uncertain economic outlook.
+[MDA_P002]
+Simultaneously, the gloomy global outlook may weigh on
+discretionary spending as high household debt-servicing
+costs restrict the disposable income of customers. Moreover, the expected economic recession poses other
+significant challenges. The combination of inflation, higher
+interest rates, and rising commodity prices is likely to result
+in a slowdown of the global economy. While chocolate is considered a recession-resistant industry
+as people tend to indulge in small affordable luxuries while
+cutting back on other spending, demand will ultimately
+still depend on the overall economic environment and
+the extent of broader cost-of-living pressures such as
+increasing food prices and housing costs. GUAN CHONG BERHAD
+MANAGEMENT DISCUSSION & ANALYSIS
+Integrated Annual Report 2022
+Strategic Review
+[MDA_P003]
+Management Discussion & Analysis
+GUAN CHONG BERHAD
+MANAGEMENT DISCUSSION & ANALYSIS
+Integrated Annual Report 2022
+OUTLOOK
+While the Group cannot control external factors, we
+will strive to navigate through the headwinds to ensure
+that our operations remain focused on seizing business
+opportunities, meeting customer demand, and generating
+sustainable profits to support our growth objectives. Côte d'Ivoire presence brings us ‘close to source’ and
+‘close to market’
+GCB's expansion into Côte d'Ivoire, the world's largest
+cocoa bean supplying country, has brought us closer to
+the source of cocoa beans and enables us to implement
+sustainability projects commencing from the procurement
+of cocoa beans. This expansion into a strategic location
+will improved our cost-effectiveness in reaching out to
+key chocolate-consuming countries in Europe and the UK,
+where most of our customers are based. The new facility in
+Côte d'Ivoire will be a boost for the Group's earnings and
+will catapult our strength as a global player in the chocolate
+supply chain.
+[MDA_P004]
+Relying on our established fundamental to meet
+stakeholder expectations
+To ensure we continue to meet and surpass the expectations
+of all our various stakeholders, we have identified the key
+focus areas of profitability, reliability, business stability, and
+market share in which we will seek progress. For our cocoa
+processing operations in key grinding countries, we intend
+to increase our production capacity and the quality of our
+products. We will also strive to improve the sustainability of
+cocoa and fortify our commitment to ESG considerations
+across our operations to address growing interest within
+our customer base. We have a lot of potential for capacity driven growth and
+our expansion into new regions such as Côte d'Ivoire,
+Germany and the UK since 2019 is a prime reflection of
+our ambitious plans for long term growth. At the same
+time, our global expansion has unlocked opportunities that
+can complement and add value to our core business of
+producing cocoa-derived food ingredients. A prime example of this is the integration of our business
+into industrial chocolate production.
+[MDA_P005]
+Our utilization of
+internally produced cocoa-derived food ingredients to
+produce industrial chocolate at our Germany production
+facility has enabled us to form a complete internal supply
+chain and benefit from cost efficiencies. We can now also
+leverage upon our presence and production facility in
+Europe to begin marking our products as "Made in Europe",
+which will boost our ability to penetrate new markets with
+high demand for European chocolate in future. Taken together, the abovementioned strategies enable us
+to not only meet our key customers' requirements but has
+also empowered us to cohesively address their expectations
+on four primary fronts, namely building a global supply
+chain presence, enhancing cost-effectiveness, increasing
+ESG considerations, and adopting greater sustainability
+practices. Ready to combat the challenges of recession and rising
+costs
+High interest rates and inflation are impacting household
+spending power. While we anticipate a stable demand
+for cocoa and chocolate products in the short term, we
+are braced for a challenging year ahead due to potential
+recession risks in major global economies.

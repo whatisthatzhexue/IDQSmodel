@@ -1,0 +1,138 @@
+document_id: MDA_9946_ETA_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+PT
+Rex Canning Indonesia (“PT Rex”) began commercial operations in August 1992; with principal activities in
+manufacturing and exporting of canned processed seafood. PT Rex operates under stringent standards set by
+the Ministry of Marine Affairs and Fisheries of Indonesia. Most of the PT Rex’s canned seafood is exported to the
+US and EU. Our strength lies in providing quality products that cater to the taste preferences and budgets of our growing
+population. Our Policy
+Towards producing trusted products for all consumers, food safety best practices are core to our business. They
+are implemented throughout the chain from sourcing to manufacturing and delivery, to ensure compliance
+with local and international food safety standards and manufacturing best practices. Financial Performance
+For the financial year ended (“FYE”) 30 June 2024, the Group recorded a revenue of RM130.52 million which
+represents a reduction of approximately RM31.89 million when compared to the preceding financial year of
+RM162.41 million. The decline in revenue was mainly due to weaker demand from both local and overseas
+market.
+[MDA_P003]
+The Group recorded a loss before tax of RM4.18 million for FYE 30 June 2024 when compared to preceding
+financial year’s loss of RM43.41 million. The huge loss in the preceding financial year was due to additional cost
+incurred in relation to the decommissioning of Bukit Minyak facility for one-off impairment of the plants’ fixed
+assets, provision allowance of inventories obsolescence and staff retrenchment cost. The lower loss in this financial year was mainly attributed to cost control initiatives instituted and better operational
+efficiencies from the business rationalisation plan. REX GROUP
+[MDA_P004]
+FY 2022
+FY 2023
+FY 2024
+(All in RM’000)
+Revenue
+[MDA_P005]
+161,111
+162,408
+130,522
+(Loss)/Profit before tax
+[MDA_P010]
+RM’000
+RM’000
+RM’000
+RM’000
+RM’000
+Statement of Profit and Loss
+Revenue
+149,245
+160,539
+161,111
+162,408
+130,522
+[MDA_P011]
+(Loss)/Profit before Tax after
+Minority Interest
+(8,396)
+3,912
+2,934
+(43,414)
+(4,181)
+[MDA_P012]
+Interest expense
+2,050
+1,531
+1,171
+1,617
+1,707
+(Loss)/Profit after Tax and
+Minority Interest
+(9,465)
+2,603
+2,027
+(44,399)
+(4,167)
+Dividend declared
+–
+(987)
+–
+–
+–
+[MDA_P016]
+After tax return on
+shareholders’ fund (%)
+(9.29)
+2.04
+1.56 (42.87) (4.32)
+Pre-tax profit margin (%)
+(5.63)
+2.44
+1.82 (26.73)
+(3.20)
+Financial Ratio
+[MDA_P018]
+Liquidity ratio
+Current ratio
+1.32
+1.87
+1.79
+1.67
+2.04
+Quick ratio
+0.61
+0.93
+0.83
+0.77
+1.08
+Note:
+1)
+Basic (Loss)/Earning per ordinary share for the financial year is calculated by dividing the (loss)/profit after tax
+attributable to owners of the parent by weighted average number of ordinary shares outstanding during the financial
+year.
+MANAGEMENT DISCUSSION
+& ANALYSIS
+(Cont’d)
+[MDA_P019]
+Annual Report 2024
+MANAGEMENT DISCUSSION
+& ANALYSIS
+(Cont’d)
+Changes in the composition of the Group
+There were no changes in the composition of the Group for the financial year ended 30 June 2024. CORPORATE EXERCISE
+The Company’s wholly owned subsidiary, Rex Canning Co. Sdn. Bhd. has completed the disposal of the land
+and buildings bearing the address plot 125 & 126, Jalan Perindustrian Bukit Minyak 5, Taman Perindustrian Bukit
+Minyak, 14100 Simpang Ampat, Seberang Perai, Pulau Pinang for a disposal consideration of RM41.80 million
+on 30 September 2024. The proceeds from the disposal will be utilised firstly to repay bank borrowings, secondly for working capital
+required on day-to day operations of the Group and lastly to defray expenses related to the disposal. Outlook and Prospects
+The Group expects the business environment in the remaining year to remain challenging due to uncertainties
+that pose risks to business including the on-going global geopolitical tensions, inflationary pressures and rising
+costs of raw materials, packaging materials together with uncertainities in logistic cost and availability.
+[MDA_P020]
+The Group will continue to focus on improving our performance through product innovation, new product
+launches, improving operational efficiency, adopting cost saving measures and broadening the distribution
+network to grow the Group’s revenue and profitability. Acknowledgements
+On behalf of the Board, I take this opportunity to extend a warm welcome to our new Chairman of the Board of
+Directors, Mr Hong Kok Cheong and new Chairman of the Audit and Risk Management Committee, Mr Tam Kok
+Meng, who have been appointed to the Board on 13 March 2024. Their combined experiences and expertise
+will contribute positively to the strategies and direction of the Group. I would like to record our appreciation to previous members of the Board, Tan Sri Dato’ Mohd Ibrahim and Mr Tai
+Keat Chai for their invaluable contributions to the Company during their tenures as Directors of the Company. I would also like to thank my fellow Board members, our shareholders, customers and business partners for their
+continued support, trust, and unwavering confidence over the past years. To all our staff and management team, thank you for your dedication and commitment in driving the Company
+to greater heights.

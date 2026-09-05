@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia rallies, FBM KLCI up 18.72 points
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-06-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/04/bursa-malaysia-rallies-fbm-klci-up-1872-points
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia staged a strong rally on Tuesday thanks to improved risk appetite amid mixed regional markets. The FBM KLCI surged 18.72 points, or 1.17% to 1,615.40 after hitting an intraday high of 1,617.41. On the broader market, gainers outnumbered losers by 666 to 545 while 467 counters unchanged. Trading volume stood at 4.45 billion units worth RM3.94bil. In today’s session, 23 of the KLCI-component stocks closed higher while three counters ended lower.
+
+[NEWS_P002] Sime Darby Plantation contributed the most to the index gain and had the largest move, rising 4.71%. The counter added 20 sen to RM4.45. PETRONAS Dagangan was the biggest drag on the index and had the biggest drop, declining 2.22%. It fell 44 sen to RM19.36. Among the gainers on Bursa Malaysia, Dutch Lady surged RM1 to RM37, Malaysian Pacific Industries rose 86 sen to RM37.70, Panasonic Manufacturing added 36 sen to RM20.56 and Kuala Lumpur Kepong advanced 34 sen to RM21.20.
+
+[NEWS_P003] Carlsberg fell 54 sen to RM19.26, PETRONAS Dagangan lost 44 sen to RM19.36, Ajinomoto declined 40 sen to RM15.94 and British American Tobacco slid 35 sen to RM8.55. Among the banks, Maybank rose 13 sen to RM10.06, Public Bank climbed five sen to RM4.15, CIMB gained 15 sen to RM6.99 and Hong Leong Bank added 22 sen to RM19.48. RHB Bank and AmBank rose two sen each to RM5.51 and RM4.27 respectively. On the forex market, the ringgit was up 0.13% against the greenback to 4.7002.
+
+[NEWS_P004] It fell 0.27% against the Singapore dollar to 3.4909 and declined 0.29% to 6.0061 against the pound sterling. Meanwhile, Reuters reported that oil prices fell more than US$1 on Tuesday, extending losses from a four-month low in the previous session. US West Texas Intermediate crude fell US%1.07 to US$73.15 and Brent lost 96 cents to US$77.40 per barrel. Elsewhere in the region, Japan’s Nikkei 225 fell 0.22%, Hong Kong’s Hang Seng Index closed up 0.22%, South Korea’s Kospi lost 0.76% and China’s CSI300 Index gained 0.75%.

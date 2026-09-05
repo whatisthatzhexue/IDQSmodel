@@ -1,0 +1,116 @@
+document_id: MDA_4707_NESTLE_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 20, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion & Analysis
+FINANCIAL REVIEW
+At the very onset of the pandemic, we quickly realigned our
+priorities significantly to ramp up safety, health and preventive
+measures for our people and to preserve operational
+continuity. We focused increasingly on the pressing needs of
+communities, whether it be through providing nourishment
+with our high-quality products, or via outreach and support
+programmes. As a result of our efforts to sustain business growth while
+meeting the needs of Malaysians, we recorded a turnover
+of RM5.4 billion for the financial year. This result balanced
+the severe impact to out-of-home channels, with an
+acceleration of in-home consumption. The Group’s core F&B
+businesses grew by 2.3% on the back of solid sales execution
+and effective marketing and communication campaigns. The Group registered a resilient profit after tax of RM552.7
+million and a profit before tax of RM724.8 million, with strong
+cash flow results preserving the solid financial position of the
+Company in a difficult year.
+[MDA_P002]
+OPERATIONAL & BUSINESS REVIEW
+Every challenge also brings new opportunities, and our teams
+remained focused, proactive and entrepreneurial to tap into
+each potential opportunity. Nestlé Malaysia
+continued to
+demonstrate resilience
+throughout the year,
+weathering through
+a global pandemic to
+turn in another stable
+performance for 2020. Juan Aranols
+Chief Executive Officer
+[MDA_P003]
+15. Annua l Revie w
+Our business focus continued to build on the pillars of
+previous years, namely:
+1. Driving sustainable and profitable growth momentum;
+2. Continue nurturing the love and trust in our brands;
+3. Enhancing core fundamentals and capabilities for the
+future; and
+4. Leading the industry’s way into a greener future. 1. Driving sustainable and profitable growth momentum
+As more people stayed at home due to movement restrictions,
+we found new ways to engage consumers via digital tools and
+explored innovative approaches to help deliver our products
+to consumers. Underpinning this was our manufacturing
+and supply chain resilience which allowed us to maintain
+operational continuity, coupled with excellence in sales
+execution supported by our best-in-class sales force to ensure
+on-shelf availability. Driving digital engagement and e-commerce
+Throughout the year, we continued to engage our consumers
+digitally and further ramped up our online activations. We explored new models such as live streaming and shifted
+from traditional product launches to online events, offering
+consumers an interactive online shopping experience and
+successfully increasing our reach.
+[MDA_P005]
+Our Ready-to-Drink (RTD) business also further expanded
+their presence online – making a wider range of Nestlé
+products available for online purchase, as well as rolling out a
+new home delivery option for RTD products such as MILO and
+NESCAFÉ Original cans. Supporting out-of-home operators
+Conscious of the profound impact to out-of-home channels,
+the NESTLÉ PROFESSIONAL team focused on supporting
+local F&B operators impacted by COVID-19. Through the
+Bangkit Bersama Nestlé campaign, we rolled out trade
+assistance programmes and provided cash contributions to
+help support coffee shops, mamak shops and other eateries
+and restaurants. This saw us channelling a total of RM5 million
+to more than 15,000 local F&B operators to help keep their
+businesses afloat. In addition, we reached out to professional chefs nationwide
+via an online cooking competition, MAGGI Wok Bersamamu,
+with cash prizes up for grabs. Chefs were able to take part
+by uploading videos of themselves cooking creative dishes
+utilising MAGGI professional products and demonstrating
+their culinary skills.
+[MDA_P006]
+Manufacturing and supply chain excellence
+Throughout the pandemic, we upheld our commitment
+to ensure continued production and delivery of our foods
+and beverages to consumers. Our manufacturing, supply
+chain and distribution operations demonstrated remarkable
+resilience and agility, allowing us to provide Malaysians with
+a stable supply of essential products across our brands such
+as MILO, MAGGI and NESCAFÉ, whilst strictly adhering to the
+safety requirements set by the Government. Best-in-class sales execution
+Serving a wide spectrum of customers and consumers
+throughout the nation with diverse preferences and
+requirements, our extensive sales network continued to play
+a core role in driving performance and ensuring continuous
+availability of products for all Malaysians during the pandemic. Our sales force plays a decisive contribution to revenue growth. Working as a cohesive unit together with other functions,
+brands and geographies in Malaysia, this enables our sales
+team to keep a pulse on evolving needs of the retail ecosystem.
+[MDA_P011]
+17. Annua l Revie w
+3. Enhancing core fundamentals and capabilities for
+the future
+To future-proof the business, it is vital to reinforce our
+foundation and build the necessary capabilities to keep us
+competitive and ahead of the game. Harnessing digital technology to enhance operations
+We constantly seek out opportunities to increase efficiency
+in our operations and to tap on to digital transformation to
+facilitate continuous improvement. During the year, we were one of the first Nestlé markets to
+adopt a new technology to enhance the efficiency of land
+transportation of products from our distribution centre. Optimising logistical routes by utilising data analytics and
+digital tools, this allows us to reduce our carbon footprint
+and logistics costs, proving that environmental and cost
+efficiencies can be achieved together. Diversity and gender balance
+As part of our commitment to cultivate a fair and equitable
+organisational culture, we continued to promote diversity
+and gender balance across the Group.

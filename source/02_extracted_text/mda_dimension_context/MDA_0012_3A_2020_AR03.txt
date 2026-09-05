@@ -1,0 +1,173 @@
+document_id: MDA_0012_3A_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION AND ANALYSIS
+OUR PRODUCT PORTFOLIO
+•
+ Liquid Caramel, Caramel Colour
+•
+ Vinegar
+•
+ Glucose Syrup, High Maltose Syrup
+•
+Soya Protein Sauce (“HVP”)
+•
+ Hydrolysed Vegetable Protein (“HVP”) Powder
+•
+ Maltodextrin
+The Group serves businesses of all sizes across a broad
+spectrum of industries and sectors. Our versatile range of
+ingredients have different functional properties and unique
+characteristics that can be tailored to customer needs. All
+ingredients are Halal and Kosher certified. The Group offers diverse range of packaging options to
+accommodate customer needs. There are various package
+sizes ranging from bulk road tanker to small packing such
+as jerrycan and carton box. Customised packaging can be
+arranged to accommodate customer requirements.
+[MDA_P002]
+OUR ACCREDITATION & RECOGNITION
+FSSC 22000 Certification by Intertek Certification International
+Sdn Bhd
+HACCP Certification by Ministry of Health Malaysia (“MOH”)
+HALAL Certification by Islamic Development Department of Malaysia
+(“JAKIM”)
+KOSHER Certification by Orthodox Union
+Rgn : 402283
+ABOUT US
+Three-A Resources Berhad (“3A”) is an investment
+holding company which was listed since 2002 and
+transferred to the Main Market of Bursa Malaysia in
+2008. Its wholly owned subsidiary San Soon Seng
+Food Industries Sdn Bhd (“SSSFI”) is one of the
+leading food and beverage ingredient manufacturing
+company, started as a caramel producer in 1977 and
+expanded its product portfolio that have made strong
+footprints in many parts of the world. 3A and SSSFI
+(“the Group”) remained focused in its core strength
+of manufacturing food and beverage ingredients. The Group ﬁrmly believes in producing products of
+the highest quality and has successfully expanded
+beyond Asian horizons and making its mark in the
+international market. ABOUT US
+LEADERSHIP
+SUSTAINABILITY
+CORPORATE
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+ADDITIONAL
+INFORMATION
+PERFORMANCE
+REVIEW
+[MDA_P003]
+MANAGEMENT
+DISCUSSION AND ANALYSIS (CONTINUED)
+investments on production facilities to
+improve capacity and efficiency. These
+business plans were carried out after
+the Group had carefully conducted
+comprehensive evaluation and planning
+involving suitable marketing strategies
+for our products and also investment
+decisions. FINANCIAL REVIEW
+The Group recorded slightly better
+revenue of RM436.16 million in FY2020
+as compared to RM436.06 million in
+FY2019. Meanwhile, profit before tax
+and profit after tax were slightly better at
+RM40.7 million and RM30.1 million
+respectively in FY2020 as compared
+with RM40.2 million and RM29.4 million
+respectively in FY2019. Albeit the uncertain economic conditions,
+the Group recorded better financial
+performance that was attributed to
+relatively stable raw materials costs and
+effective products sales mix in FY2020. From the positive results of our marketing
+efforts, export revenue of the Group in
+FY2020 continued to grow to 48% of our
+total revenue as compared with 39% in
+FY2019.
+[MDA_P004]
+Revenue by Geographical Locations for
+FY2020
+Other Foreign
+Countries
+Singapore
+Malaysia
+39%
+9%
+52%
+During the FY2020, the Group registered
+impairment losses on trade receivables
+amounting to RM0.57 million but the
+Group successfully made recoveries of
+RM0.29 million from impairment losses
+during the year. The Group continued with its carefully
+crafted business strategies to research
+and develop good quality products in
+order to meet as well as exceed the
+expectations of our valued customers. Besides, the Group also continued with
+initiatives to achieve improved operational
+efficiency in our manufacturing plants
+from upgrading and modernization plans
+which were carried out in FY2020. These
+long-term plans are also meant to enable
+us to reduce reliance on foreign labor and
+to improve our manufacturing facilities in
+order to be more efficient to produce
+more as well as achieve cost savings. THE YEAR 2020
+During the year 2020, the COVID-19
+pandemic had brought dramatic changes
+to the lives of the people and businesses
+all over the world. With the introduction
+of the Movement Control Order (“MCO”)
+to fight the pandemic, local consumers
+were cautious in spending during the
+year.
+[MDA_P005]
+Although the Group was allowed
+to operate during the MCO period, we
+were also impacted as we witnessed
+lower revenue from local customers
+in the country. However, our export
+revenue to overseas markets were able
+to offset such weaknesses through our
+mix of marketing strategies and agility in
+meeting new buying trends. The Group stays true to our strong
+business philosophy of producing
+products of exceptional quality at
+competitive prices and also continuous
+THREE-A RESOURCES BERHAD 199901006659 (481559-M)
+Annual Report 2020
+[MDA_P007]
+Moreover, the Group expects the utilisation
+to continue to increase in 2021 with
+encouraging interests from a few major
+customers. Maltodextrin plant no. 3 was
+designed to produce certain grades
+of maltodextrin, thereby the intention
+is to capture customers with specific
+applications. The upgrading of Maltodextrin plant
+2 to increase its plant efficiency is still
+on-going. In view of increasing demand
+for maltodextrin products, the Group had
+deferred earlier plans to convert our first-
+generation maltodextrin plant 1 to produce
+caramel powder products and other
+powder products to a later stage. In addition, the expansion and upgrading
+of the latest glucose production plant
+was completed in year 2019 and has yet
+to achieve optimum utilisation as at the
+end of year 2020. In view thereof, the
+Group decided to defer initial plans for
+construction of another glucose production
+plant to a later stage. Moreover, the
+production plant capacity expansion plans
+for HVP and Caramel products together
+with the relocation of Vinegar production
+plant that were launched in 2019 had been
+delayed in light of the COVID-19 pandemic.

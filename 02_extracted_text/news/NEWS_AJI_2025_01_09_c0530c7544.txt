@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia ends in the red as 900 stocks decline
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-01-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/09/bursa-malaysia-ends-in-the-red-as-900-stocks-decline
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: It was a sea of red on Bursa Malaysia on Thursday, as losers outpaced gainers by nearly four-to-one, reflecting the weak sentiment in the market. The FBM KLCI was down for the second straight day, falling 14.02 points, or 0.87%, to close at 1,600.81, slightly above its intraday low of 1,600.75. It hit an intraday high of 1,618.17. All indices ended the day in negative territory. In the broader market, losers outnumbered gainers with 900 stocks ending lower and 231 stocks finishing higher.
+
+[NEWS_P002] Traded volume stood at 3.5 billion shares valued at RM2.93bil. Losers among the FBM KLCI constituents totalled 21 counters, outweighing the gainers at eight counters, while one counter remained unchanged. Dealers noted growing concerns over the pace of US rate cuts, as the Federal Reserve remains cautious about the inflationary impact of President-elect Donald Trump's proposed tariffs. Malaysian Pacific Industries , the top loser on Bursa Malaysia slid 42 sen to RM24.66.
+
+[NEWS_P003] Nationgate fell 33 sen to RM2.62, YTL Power lost 1 sen to RM4.20, PIE Industrial declined 31 sen to RM5.99 and Ajinomoto gave up 26 sen to RM15. Among the gainers, PTT Synergy rose 11 sen to RM1.32, Can-One added nine sen to RM2.38, Malaysia Airports climbed eight sen to RM10.86 and PPB Group increased six sen to RM12.40. On the forex market, the ringgit weakened by 0.1% against the greenback to 4.5072 but strengthened by 0.09% against the Singapore dollar to 3.915.
+
+[NEWS_P004] Around the region, MSCI's Asia ex-Japan stock index was weaker by 0.55%. Japan’s Nikkei 225 ended down 0.94% at 39,605.09, while South Korea’s Kospi rose 0.03% to 2,521.90. Hong Kong’s Hang Seng index closed down 0.2% at 19,240.89. China’s CSI300 index fell 0.25% to 3,779.88 and the Shanghai Composite Index lost 0.58% to 3,211.39.

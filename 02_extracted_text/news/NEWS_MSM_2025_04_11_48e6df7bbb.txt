@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Chin Hin, MYEG, MSM, HeiTech Padu, YNH Property, Reservoir Link, SCIB, Sapura Resources, Toyo Ventures, West River
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-04-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/11/trading-ideas-chin-hin-myeg-msm-heitech-padu-ynh-property-reservoir-link-scib-sapura-resources-toyo-ventures-west-river
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Bursa Malaysia. AmBank Group has granted RM307.0mn in financing facilities to Chin Hin Group Bhd ’s subsidiaries, Aricia Sdn Bhd and Makna Setia Sdn Bhd, to support several new property and infrastructure developments in the Klang Valley and Sabah and Sarawak. My E.G. Services Bhd has entered into a memorandum of agreement with Guangxi Beitou IT Innovation Technology Investment Group Co., Ltd with the intent of establishing an Artificial Intelligence Innovation Cooperation Centre.
+
+[NEWS_P002] MSM Malaysia Holdings Bhd has been sued by Ranhill Water Technologies Sdn Bhd, a subsidiary of Ranhill Utilities Bhd , over a failed industrial effluent treatment project in Tanjung Langsat, Johor. Heitech Padu Bhd has signed 2 memorandum of understanding to form strategic partnerships in artificial intelligence computing power cloud services. YNH Property Bhd 's independent review of RM1.1bn worth of joint ventures and turnkey contracts revealed that overlapping directors and shareholdings created an interconnected network, influencing business decisions.
+
+[NEWS_P003] Reservoir Link Energy Bhd is acquiring 545,044 shares (or a 30.0%) stake in Propel Maxflo Sdn Bhd from Propel Oilfield Services Sdn Bhd for RM7.4mn. Sarawak Consolidated Industries Berhad has obtained an interlocutory injunction order against Awana JV Suria Saga Sdn Bhd in relation to the ongoing material litigation involving its wholly-owned subsidiary, SCIB Properties Sdn Bhd. Sapura Resources Bhd and its subsidiaries have initiated legal action against its former managing director and director Datuk Shahriman Shamsuddin and 3 others, alleging breaches of fiduciary, statutory and contractual duties, as well as conspiracy to injure the companies.
+
+[NEWS_P004] Toyo Ventures Holdings Bhd announced that its discussions with the Vietnamese government regarding the termination of the Song Hau 2 thermal power plant project will extend beyond the initial 45-day period. West River Bhd, a provider of mechanical and electrical engineering services, has launched its prospectus in conjunction with its IPO on the ACE market of Bursa Malaysia scheduled on 5 May 2025.

@@ -1,0 +1,21 @@
+{
+  "action_counts": {
+    "exclude_from_comparison_as_not_comparable": 1,
+    "fix_numeric_checker": 11,
+    "manual_review": 5,
+    "repair_json_only": 22,
+    "rerun_failed_dimension_only": 55
+  },
+  "action_status_counts": {
+    "blocked_ollama_unavailable": 55,
+    "excluded_from_stability_comparison_only": 1,
+    "manual_required": 38
+  },
+  "case_count": 94,
+  "number_of_cases_repaired": 0,
+  "number_of_cases_still_failed": 93,
+  "remaining_blockers": [
+    "blocked_ollama_unavailable",
+    "manual_required"
+  ]
+}

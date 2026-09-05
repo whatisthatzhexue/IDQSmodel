@@ -1,0 +1,20 @@
+[TITLE]
+Ringgit advances against US$ after OPR maintained at 3%
+
+[METADATA]
+ticker: CIHLDG
+company_name: CIHB
+publish_date: 2025-01-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/23/ringgit-advances-against-us-after-opr-maintained-at-3
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit opened higher against the US dollar and other major currencies, buoyed by Bank Negara Malaysia's (BNM) Monetary Policy Committee’s (MPC) announcement on the Overnight Policy Rate (OPR). At 8 am, the ringgit stood at 4.4335/4500 against the US dollar compared to yesterday’s closing rate of 4.4340/4400. The central bank maintained the OPR at 3.0 per cent during its meeting yesterday. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the prevailing monetary policy stance is supportive towards the country’s growth.
+
+[NEWS_P002] "Judging from the BNM statement, it appears that the central bank is not in a hurry to make any adjustment to OPR compared to its counterparts in the Asian region where monetary easing had already begun,” he told Bernama. Mohd Afzanizam also noted that Malaysia’s inflation rate continues to decelerate to 1.7 per cent in December 2024 from a high of 2.0 per cent in July 2024, suggesting the monetary policy had been effective in containing the country’s inflation.
+
+[NEWS_P003] On that note, he foresees that BNM is likely to keep the OPR steady throughout 2025 and it is expected to improve the value of the ringgit. "As such, the ringgit should remain well supported in the near term but intermittently, some profit-taking activities would occur given the ringgit's steep appreciation against the US dollar since Jan 13, 2025 where the ringgit has appreciated by 1.7 per cent,” he noted. Meanwhile, the US Dollar Index (DXY) inched up to 108.219 points from 108.062 points previously as the market continues to focus on US President Donald Trump’s policy announcement.
+
+[NEWS_P004] "The most recent one was the announcement of Project Stargate which is the private sector-led project that focuses on investing in the artificial intelligence (AI) infrastructure. "Technology related stocks as represented by Nasdaq jumped 1.3 per cent last night to 20,009.3 points, while the 10-year US Treasury yielded three basis points higher to 4.60 per cent,” he added. At the opening, the ringgit traded higher against major currencies. It rose against the euro to 4.6144/6316 from Wednesday’s close of 4.6313/6376, advanced against the British pound to 5.4590/4793 from 5.4822/4896, and edged higher against the Japanese yen to 2.8336/8445 from 2.8480/8522.
+
+[NEWS_P005] The local note traded mixed against ASEAN currencies. It strengthened against the Thai baht to 13.0689/1249 from 13.1106/1345, and inched up against the Singapore dollar at 3.2710/2836 from 3.2781/2828. However, the local note traded almost flat against the Indonesian rupiah at 272.3/273.4 compared to 272.3/272.8, and against the Philippine peso at 7.58/7.61 versus Wednesday’s 7.58/7.59. - Bernama

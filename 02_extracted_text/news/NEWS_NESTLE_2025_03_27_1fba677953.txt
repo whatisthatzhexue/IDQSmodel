@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI stays range-bound as Trump announces new auto tariffs
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/27/fbm-klci-stays-range-bound-as-trump-announces-new-auto-tariffs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Investors have hit pause on bargain-hunting activities on Bursa Malaysia following the announcement of new tariffs on auto imports to the US. Wall Street equities took a dive overnight on US President Donald Trump's additional 25% import tax on cars and car parts entering the US, which is expected to escalate the global trade conflict and impact car prices in the world's largest economy. In Malaysia, the domestic market stayed relatively resilient with the benchmark index falling 4.97 points to 1,513.08.
+
+[NEWS_P002] Rakuten Trade said, short of a breakout, the index could stay range-bound until the emergence of fresh catalysts. "We expect the FBM KLCI to trend within the range of 1,510-1,530 for today," it said in a note. TA Securities noted that bargain-hunting interest is likely to extend gains in local blue chips, but US consumer confidence plunging to their lowest level in more than four years may renew concerns about the health of the world's largest economy.
+
+[NEWS_P003] "Immediate index resistance is retained at 1,550, followed by 1,580, with tougher upside hurdle at 1,605. Immediate support is set at 1,500, with stronger key retracement supports seen at 1,472 and 1,450," said the research firm in its market commentary. Among individual stocks, PETRONAS Dagangan slipped 32 sen to RM18.58, YTL Power dropped six sne to RM3.34 and Telekom Malaysia shed four sen to RM6.56. Nestle is continuing its recovery, gaining 58 sen to RM72.98 while IHH gained nine sen to RM6.90 and Gamuda climbed 15 sne to RM4.16.
+
+[NEWS_P004] Of actives NexG was flat at 25.5 sen, MBSB dropped 1.5 sen to 70.5 sen and Ingenieur was unchanged at three sen.

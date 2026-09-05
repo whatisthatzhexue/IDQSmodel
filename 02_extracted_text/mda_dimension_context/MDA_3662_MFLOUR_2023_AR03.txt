@@ -1,0 +1,66 @@
+document_id: MDA_3662_MFLOUR_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Annual Report 2023 | Malayan Flour Mills Berhad 23
+Financial Performance Highlights
+To begin with, the operating activities that contribute to MFM’s consolidated revenue are from the Flour and
+Grain Trading (“FGT”) and aquafeed businesses. The other businesses, namely the Poultry Integration (“PI”)
+and the Indonesia flour milling operations, contribute only at share of profit/loss of equity-accounted entity
+level. During the financial year ended 31 December 2023 (“FY2023”), MFM saw the FGT and aquafeed operations
+contribute to group revenue of RM3.15 billion, 8.0% higher than RM2.92 billion in the previous year. The FGT segment still faced volatility, albeit moderated, in its Malaysia and Vietnam operations during the
+year under review. That was after a turbulent year in 2022, caused by pressures from inflation and rising
+interest rates, geopolitical conflict in Europe cum the associated supply chains disruption, and the high
+commodity prices of our main raw materials of wheat and grain.
+[MDA_P003]
+The scenario resulted in our operations
+carrying inventories that were of high costs in the beginning of 2023, even as the commodity prices were
+already easing off and demand for our flour products was recovering. The continued recovery in demand for flour products in Malaysia and Vietnam throughout the year not only
+resulted in the volume-spurred revenue growth of 8.0% but also helped in the improved performance at
+the pre-tax level during the second half of 2023, finishing FY2023 with a pre-tax profit of RM96.9 million,
+compared to RM100.6 million previously. The Group’s PI segment, through the 51% equity stake in DTSB and the subsidiaries, contributed to a profit
+after tax of RM50.7 million in FY2023, 66.4% lower than that of FY2022. The lower profit was achieved on a
+flat revenue of RM1.14 billion, versus RM1.11 billion previously. A number of factors were attributed to the weaker profit margin for the poultry business, namely sales mix
+of lower margin, reduced subsidy income, lower demand arising from boycott of western quick service
+restaurant (“QSR”) chains and lower recognition of deferred tax assets.
+[MDA_P004]
+Correspondingly, the share of profit from the PI segment amounted to RM25.9 million in FY2023, compared
+to a share of profit of RM77.0 million in the previous year. Following the weaker financial performance of the PI segment in FY2023, the financial targets of profitability
+and net cash level set in the joint venture agreement with Tyson were consequently not met. The circumstances
+necessitated MFM to recognise a loss on remeasurement of contingent consideration receivable of RM71.1
+million due from Tyson. Compounding the above factors related to the PI segment, our Indonesia flour milling operations under the
+Group’s 30% associate company, PT Bungasari Flour Mills Indonesia (“BFMI”), contributed to an even bigger
+share of loss of RM19.9 million during the year, versus a share of loss of RM7.0 million in the previous financial
+year of 2022, notwithstanding the 22.6% rise in revenue to RM2.22 billion during the year. The negative
+performance was largely due to intense competition, high costs of inventories, weak Rupiah, and high finance
+costs.
+[MDA_P005]
+Correspondingly, the Group recorded a loss after tax and minority interest amounting to RM6.7 million or
+basic loss per share (“LPS”) of 0.65 sen, compared to a profit after tax and minority interest of RM145.0
+million or basic earnings per share (“EPS”) of 14.22 sen previously. Excluding the effect of remeasurement
+of contingent consideration receivable, the adjusted EPS is 6.30 sen, as compared to 13.36 sen previously.
+[MDA_P006]
+Annual Report 2023 | Malayan Flour Mills Berhad
+On our Group’s balance sheet as at 31 December 2023, our total assets reduced some 5.5% to RM2.58 billion,
+from RM2.73 billion previously, attributable mainly to the reduced inventories level and loss on remeasurement
+of contingent consideration receivable from Tyson. Equity attributable to ordinary shareholders decreased
+marginally to RM1.34 billion from RM1.36 billion, as a result of the loss for the year and dividends paid in
+respect of FY2023. Fixed deposits, cash and cash equivalents rose significantly to RM420.0 million (FY2022:
+RM243.9 million), whilst total borrowings including lease liabilities and RCULS liabilities stood at RM999.9
+million (FY2022: RM1.13 billion). On net-of-cash basis, the Group’s gearing improved to 0.40x, versus 0.60x previously. The improved net gearing was largely attributable to the lower working capital needs as raw materials costs
+eased off, and receipt of first earnout of RM120.0 million from Tyson. As at end of FY2023, our inventories
+reduced to RM523.9 million, compared to RM627.8 as at 31 December 2022.
+[MDA_P007]
+Operations Highlights
+Flour and Grain Trading Segment
+The food industry, especially the flour milling sector, in 2023 was reeling from the after-effects of the Russian-
+Ukraine conflict. While Russian and Ukraine were amongst the top five exporters of wheat in the world before
+the war, both combined contribute to more than 14% of the world production of wheat. At that level, any
+export disruption would certainly be a global tragedy, both economically and socially. Indeed, the conflict and the subsequent sanction on Russia have disrupted the supply of wheat, causing
+supply-demand imbalance of many food-related commodities in the world and escalating prices of our raw
+materials for our operations in Malaysia, Vietnam, and Indonesia. Fearing of shortage, our operations had to buy ahead to have enough of raw materials for our mills in the
+countries that we operate in, even when prices were increasing significantly. MFM has been in the flour milling business for the last five decades, and we have the social responsibility to
+play the role of providing uninterrupted supply of these staple foods to millions of households in the region.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI edges down at open as consolidation pressures remain
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-12-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/18/fbm-klci-edges-down-at-open-as-consolidation-pressures-remain
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI edged lower on Thursday as investors sought for direction headed after Wall Street's tech-driven sell-off. TA Securities said the local market is expected to remain in consolidation mode as investors await the release of crucial US economic data later this week for greater clarity on the outlook in the US. At 9am, the benchmark FBM KLCI was down 1.21 points, with investors reluctant to cash out gains made during the recent rally.
+
+[NEWS_P002] Rakuten Trade is optimistic over a continued bullish performance as it said the profit-taking in the previous session was owing to the robust rally over recent days. "In fact, the index has already attained our 2025 target circa. 1,650 and we believe the index will continue to surpass expectations as we usher in 2026. "Therefore, we expect the index to hover within the 1,640-1,650 range today, it said in a note. Among the laggards, PETRONAS Dagangan fell 20 sen to RM19.14, PPB slipped nine sen to RM9.97 and Sunway Construction shed seven sen to RM5.73.
+
+[NEWS_P003] Of actives, Top Glove was seeing buying interest after an improved quarterly results announced yesterday. The glove maker rose 2.5 sen to 67.5 sen. Sector peer Hartalega also rallied on the industry optimism, gaining three sen to RM1.04. Other actives included MR DIY down two sen to RM1.47 and BMS unchanged at 20 sen.

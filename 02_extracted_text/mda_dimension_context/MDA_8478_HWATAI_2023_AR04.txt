@@ -1,0 +1,72 @@
+document_id: MDA_8478_HWATAI_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+FINANCIAL AND OPERATIONS REVIEWS (continued)
+In the financial year ended 31 December 2023 (“FYE2023”), Hwa Tai reported a marginal revenue increase to
+RM80.68 million, marking a 5.80% rise from FYE2022. This growth was primarily driven by increased sales in
+local markets across Peninsular Malaysia, East Malaysia, and e-commerce platforms. Despite facing logistical
+challenges such as fluctuating currency exchange rates and supply chain disruptions, our export sales remained
+resilient, maintaining parity with the previous year’s performance. Operating in an increasingly competitive market, the Group faced higher operating costs in FYE2023, primarily
+attributed to escalating raw material and labor expenses. Total expenses increased marginally to RM25.74 million,
+reflecting investments in advertising, promotions, staff, and depreciation. Other income remained steady, derived
+from interests earned and proceeds from asset disposals. Despite efforts to mitigate losses, Hwa Tai reported a loss of RM7.10 million in FYE2023, compared to RM5.83
+million in FYE2022. This loss was primarily driven by increased operating costs and challenges in international
+markets.
+[MDA_P004]
+HWA TAI
+INDUSTRIES
+BERHAD
+annual
+report
+p a g e
+BUSINESS STRATEGICS AND RISK FACTORS
+Hwa Tai remains committed to innovation, customer expansion, and operational excellence. Our Research and
+Development division continues to focus on product innovation and market research to meet evolving consumer
+preferences. Expansion into new markets, product diversification, and e-commerce initiatives are key strategies to
+drive growth. Operational improvements, including factory upgrades and machinery investments, aim to enhance efficiency
+and product quality while mitigating risks associated with labor shortages and fluctuating raw material prices. Comprehensive quality control measures ensure product safety and compliance with industry standards. Business Strategies:
+1. Innovation and Product Development: Hwa Tai’s Research and Development division remains dedicated
+to continuous innovation and product development. We prioritize creating healthier product options and
+enhancing our existing product portfolio to align with evolving consumer preferences. 2. Market Expansion: To drive growth, we are actively expanding our customer base both locally and
+internationally.
+[MDA_P006]
+Strengths: Internal factors that give Hwa Tai a competitive advantage, such as innovation, market expansion,
+e-commerce initiatives, operational efficiency, and brand recognition. Weaknesses: Internal factors that may hinder Hwa Tai’s performance or competitive position, such as dependency
+on R&D, risks associated with market expansion, challenges in e-commerce implementation, operational complexity,
+and competitive pressure. Opportunities: External factors that Hwa Tai could capitalize on to achieve growth and success, such as health and
+wellness trends, global market expansion, digital transformation, strategic partnerships, and brand differentiation. Threats: External factors that pose risks or challenges to Hwa Tai’s business, such as market saturation, regulatory
+compliance, economic uncertainty, technological disruptions, and supply chain disruptions. SWOT offers a clear and concise understanding of Hwa Tai’s strategic position in the market, facilitating informed
+decision-making and strategic planning for the company’s future endeavors. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+[MDA_P007]
+HWA TAI
+INDUSTRIES
+BERHAD
+annual
+report
+p a g e
+BUSINESS STRATEGICS AND RISK FACTORS (continued)
+Risk Factors:
+1. Market Competition: The biscuit manufacturing industry is highly competitive, with the emergence of new
+players and changing consumer preferences. Intensifying competition may put pressure on profit margins
+and market share. 2. Raw Material Price Volatility: Fluctuations in the prices of raw materials, such as wheat, sugar, and packaging
+materials, pose a significant risk to our profitability. Sudden price increases could impact production costs
+and erode margins if not adequately managed. 3. Supply Chain Disruptions: Disruptions in the supply chain, whether due to natural disasters, geopolitical
+tensions, or transportation issues, could disrupt production schedules and impact our ability to fulfill customer
+orders on time. 4. Consumer Demand Shifts: Changes in consumer preferences, dietary trends, or economic conditions may
+impact demand for our products. Failure to anticipate and adapt to these shifts could result in inventory
+imbalances and decreased sales. 5.
+[MDA_P008]
+Regulatory Compliance: As a food manufacturer, we are subject to stringent regulations and standards
+related to food safety, labeling, and quality control. Non-compliance with regulatory requirements could result
+in legal penalties, reputational damage, and loss of consumer trust. 6. Geopolitical and Economic Risks: Global economic uncertainties, geopolitical tensions, and trade disputes
+can have a significant impact on our business operations, including currency exchange rates, export/import
+regulations, and market access. 7. Labor Shortages: Recruiting and retaining skilled labor is essential for maintaining production efficiency and
+quality standards. Labor shortages or disruptions could hinder operations and increase labor costs. 8. Technological Disruptions: Rapid advancements in technology could disrupt traditional manufacturing
+processes and require significant investments in upgrading equipment and training personnel to remain
+competitive. Despite these challenges, Hwa Tai is committed to proactively managing risks and capitalizing on strategic
+opportunities to drive sustainable growth and value creation for our stakeholders.

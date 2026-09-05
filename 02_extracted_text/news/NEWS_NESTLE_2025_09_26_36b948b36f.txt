@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia opens lower as Fed remarks dampen rate-cut optimism
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/26/bursa-malaysia-opens-lower-as-fed-remarks-dampen-rate-cut-optimism
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia opened lower on Friday, tracking Wall Street’s weaker overnight close, as investors reassessed rate-cut expectations after remarks from a Federal Reserve official tempered optimism over further easing. Overnight, the Dow Jones Industrial Average shed 173.96 points, or 0.38%, to close at 45,947.32, while the S&P 500 fell 33.25 points, or 0.50%, to 6,604.72. The Nasdaq Composite declined 113.16 points, or 0.50%, to 22,384.70.
+
+[NEWS_P002] Locally, the FBM KLCI fell 2.71 points, or 0.17% to 1,595.76 at 9.06 am. The benchmark index opened down 1.46 points at 1,597.01. Berjaya Research Sdn Bhd stated that the near-term market outlook is likely to remain flat, with few catalysts, both domestic and external, expected to drive stock prices upward ahead of the weekend. Consequently, the research house anticipates a broadly sideways trend, with domestic institutions providing most of the support, while foreign institutions continue to offload recent purchases, seen as profit-taking activity.
+
+[NEWS_P003] “Despite the possible indifferent market conditions, the key index could attempt to hover close to the psychological 1,600 level, maintaining a base-building trend ahead of the closure of the 3Q2025 quarter. “Above the 1,600 hurdle, it is followed by 1,611 points, before the stronger resistance of 1,620 points comes into play. The supports, meanwhile, are at 1,585 points and 1,580 points respectively,” Berjaya Research said. It added that the lower liners are already due for a consolidation following their overbought conditions, and any further upside is expected to be more measured.
+
+[NEWS_P004] This may also lead to bouts of profit-taking ahead of the weekend. Meanwhile, Rakuten Trade remains optimistic despite the FBM KLCI finishing lower yesterday, noting that buying interest had shifted to second-liner and broader market stocks. It said the improving market volume reflects stronger participation across the board and expects the benchmark index to trend within the 1,595–1,610 range today. Among the decliners on Bursa Malaysia, PPB Group slipped 30 sen to RM10.02, Batu Kawan lost 16 sen to RM18.76, Malaysian Pacific Industries eased 16 sen to RM29.44, while Carlsberg declined 14 sen to RM16.72.
+
+[NEWS_P005] On the upside, Nestle rose 48 sen to RM97.08, PETRONAS Dagangan advanced 24 sen to RM22.36, LPI Capital gained 18 sen to RM14.28, and Malayan Cement added 14 sen to RM6.87.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI closes at highest in 2 years
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-04-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/24/fbm-klci-closes-at-highest-in-2-years
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Continuous buying by funds and gains on heavyweights helped propel the benchmark FBM KLCI index to its highest in two years. At closing, the benchmark index added 9.84 points, or 0.63% to 1,571.48, its highest since late April 2022. All indices on Bursa Malaysia closed in positive territory. In today’s session, 20 of KLCI-component stocks ended higher, eight ended lower and two counters closed unchanged. The broader market saw an optimistic market sentiment, with 777 gainers outnumbering 327 decliners.
+
+[NEWS_P002] Trading activity amounted to 4.25 billion shares, valued at RM3.03bil. Leading the gainers on the key index was PETRONAS Dagangan, which rose 20 sen to RM21.80, followed by PPB Group, which gained 16 sen to RM15.88, Tenaga Nasional, which added 14 sen to RM11.86 and Axiata which climbed 13 sen to RM2.73. Nestle fell 10 sen to RM126.30, PETRONAS Gas lost six sen to RM18.02, IHH Healthcare declined four sen to RM6.20 and Hong Leong Bank eased four sen to RM19.50.
+
+[NEWS_P003] On the broader market, United Plantations jumped 34 sen to RM26.10, Aeon Credit rose 25 sen to RM7.25, Allianz slid 32 sen to RM21.12 and Apollo Food fell 14 sen to RM6.41. On the forex market, the ringgit was up 0.05% against the greenback to 4.7780. The local unit fell 0.55% against the pound sterling to 5.9411 and 0.1% against the Singapore dollar to 3.5113. Among the key regional markets: Japan’s Nikkei 225 closed up 2.42% to 38,460.08; Hong Kong’s Hang Seng Index rose 2.21% to 17,201.27; China’s CSI 300 Index added 0.44% to 3,521.62; Taiwan’s Taiex advanced 2.72% to 20,131.74; South Korea’s Kospi closed up 2.01% to 2,675.75 and; Singapore’s Straits Times Index rose 0.62% to 3,293.13 points.

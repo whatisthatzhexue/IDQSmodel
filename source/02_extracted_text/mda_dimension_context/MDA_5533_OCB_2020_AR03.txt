@@ -1,0 +1,77 @@
+document_id: MDA_5533_OCB_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+ANNUAL REPORT 2020
+REVIEW OF THE FINANCIAL RESULTS AND FINANCIAL CONDITIONS (cont’d)
+Bedding Products Division
+Bedding Products Division registered a higher revenue of RM77.0 million with a profit before taxation of RM2.8 million
+in FYE 2020 compared to a revenue of RM68.5 million and a loss before taxation of RM1.7 million in FYE 2019. The Division enjoyed better sales from its export sales. Revenue from export sales increased to RM25.0 million in
+FYE 2020 from RM8.1 million in FYE 2019. On top of that, domestic market recorded slightly higher sales of 4%
+to RM45.0 million due to higher volume from dealers’ sales. However, sales from domestic project segment suffered a reduction of RM10.3 million compared to FYE 2019
+due to the Covid-19 outbreak. Implementation of the MCO by the Malaysian Government since March 2020 has a
+drastic effect on the hospitality industry.
+[MDA_P003]
+Some of the main projects carried out by the Division in FYE 2020 included:
+•
+Fairfield Inn by Courtyard, Kuala Lumpur
+•
+Park Inn by Radisson Putrajaya, Kajang, Selangor
+•
+Hotel Angsana Teluk Bahang, Penang
+•
+Bank Negara hostels in Kuching, Sarawak and Kota Kinabalu in Sabah
+•
+Four Points by Sheraton Kuala Lumpur, Chinatown, Kuala Lumpur
+REVIEW OF THE OPERATING ACTIVITIES
+Consumer Foods Division
+The Semenyih and Sibu noodle plants are operating at near full capacity. Apart from growing the sales for our
+in-house brand, the Management is striving to gain traction in its OEM business in order to expand utilisation of the
+noodle plants. One of the projects in the pipeline includes the extension of product range from the current pillow
+pack noodles to bowl noodles. The sauces plant in Semenyih continues to run full after the successful installation and operation of a new automated
+Form, Fill and Seal machine at the plant. An order for a second unit of the same machine was placed, which was
+up and running by second quarter of 2020. With these machines, the plant will further improve its efficiency, reduce
+dependency on manpower and trim production wastage further.
+[MDA_P004]
+The plant continuously launched new ranges of
+sauces, which has further broadened our range offerings for both the Food Service and Retail channels. Operationally, the challenge for year 2020 was the increase in wages and cost of raw materials such as soybean
+oil, palm olein and wheat flour. With the increase of the minimum wage to RM1,200 per month per worker, the
+manpower cost was also increased. The Management will continue to automate more production processes to
+reduce dependency on manpower. Spices & Seasonings Specialities Sdn. Bhd. (“Spices”) has implemented barcoding system to improve the accuracy
+and efficiency of its production, delivery and stock management. This helps to automate the traceability process
+from receipt of raw materials through production and delivery of goods to customers. MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P005]
+[Registration No. 195901000114 (3465-H)]
+REVIEW OF THE OPERATING ACTIVITIES (cont’d)
+Building Materials Division
+The Division started the year 2020 with a good momentum for the January to February period registering growth
+in sales performance. However, the Division took a hit when the Government announced MCO in March 2020. Many construction sites came to a complete halt and the progress of jobs has been severely affected even after
+the job sites resumed work by end of May 2020. Delay and postponement have become the new norm for the
+construction industry. Some of the key projects that the Division secured and supplied in 2020 included:
+1. Bukit Jalil City Condominium, Kuala Lumpur
+2. Ativo Suites, Damansara Avenue, Selangor
+3. JV Perkasa Projects, Kuala Lumpur
+4. Bukit Bintang City Centre Apartments, Kuala Lumpur
+5. Solaris 3 Condominium, Mont Kiara, Kuala Lumpur
+6. Pantai Hospital, Ayer Keroh, Melaka
+7. 8 Conlay Service Apartment & Hotel, Kuala Lumpur
+8. KL-Kepong Country Homes, Bandar Seri Coalfield, Ijok, Selangor
+9. Double Storey Terrace Houses, Shah Alam, Selangor
+10.
+[MDA_P006]
+Sofiya Residensi, Desa ParkCity, Kuala Lumpur
+The retail distribution business remains active but dealers are buying with lesser volume. The Division will spare
+more efforts to promote AKRON and SOX (in-house brands) for year 2021. Its healthcare & public segment has
+intensified its promotional and sales activities since March 2020. The Division had conducted field test for AERUS,
+the air purifier, in a food processing plant and received encouraging result. Year 2021 will remain challenging due to the uncertainties caused by the Covid-19 pandemic. There is lack of
+high-end housing development in the market and this has caused the drop in purchase order value. The recent increase in product and importation costs due to the shortages of shipping containers, port congestion
+and shortages of raw materials will have a negative impact on the Division’s profitability. Coupled with competition
+from direct importers of China products, trading profit in general will remain thin. The Division is setting up a new showroom in Penang. Renovation work had commenced in March 2021 and is
+expected to be completed within 2 months. The Division is projecting to record improvement in revenue in 2021.
+[MDA_P007]
+The contribution is expected to come from the
+healthcare & public segment, sales generated from new product lines and through expansion of the present market
+coverage. The Division will continue to embark on cost savings programme to offset expected increases in costs. MANAGEMENT DISCUSSION AND ANALYSIS

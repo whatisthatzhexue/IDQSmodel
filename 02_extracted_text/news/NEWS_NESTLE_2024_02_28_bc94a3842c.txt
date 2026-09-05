@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends at intraday low
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-02-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/02/28/fbm-klci-ends-at-intraday-low
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia closed lower on Wednesday on lack of follow-through support with some profit-taking seen in selected counters. The bellwether FBM KLCI ended the day 13.21 points, or 0.85% lower at 1,545.59, its intraday low. The index hit an intraday high of 1,556.69. In the broader market, decliners outnumbered gainers with 780 stocks ending lower and 311 stocks finishing higher while 404 counters were unchanged. Trading volume stood at 4.77 billion shares worth RM3.3bil.
+
+[NEWS_P002] Dealers said there was profit-taking in selected index-linked counters and a lack of follow-through buying today. Tenaga, the top loser on Bursa Malaysia, slid 46 sen to RM10.96. Teo Seng fell 23 sen to RM2.03, Malaysian Pacific Industries lost 20 sen to RM28.42 and NPC Resources declined 19 sen to RM1.76. Among the gainers, Nestle surged RM2.30 to RM123.80, United Plantations rose 54 sen o RM21.68, Heineken added 30 sen to RM22.64 and RCE Capital gained 23 sen to RM2.81.
+
+[NEWS_P003] Meanwhile, the ringgit was quoted at 4.7700 against the greenback, down 0.19%. The local unit, however, rose 0.06% against the Singapore dollar at 3.5421. Elsewhere in the region, Asian shares closed mostly lower with Japan’s Nikkei 225 fell 0.08%, South Korea’s Kospi rose 1.04%, China’s CSI300 lost 1.27% and Hang Seng Index in Hong Kong closed down 1.51%.

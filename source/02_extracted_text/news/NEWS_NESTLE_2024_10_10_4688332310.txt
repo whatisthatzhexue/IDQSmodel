@@ -1,0 +1,22 @@
+[TITLE]
+FBM KLCI ends higher amid regional gains; Teh family to reduce Public Bank shareholdings to 10%
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/10/fbm-klci-ends-higher-amid-regional-gains-teh-family-to-reduce-public-bank-shareholdings-to-10
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended the day higher on Thursday, in line with the positive performance of regional bourses. The 30-stock index closed up 6.03 points, or 0.37% at 1,640.94 after moving between its intraday high of 1,646.14 and low of 1,638.67. There were 568 gainers, 434 losers and 540 counters traded unchanged on the Bursa Malaysia. Turnover stood at 2.64 billion shares valued at RM2.3bil. In terms of fund flows, foreign investors and local retailers are net buyers, acquiring equities worth RM70mil and RM12mil, respectively, on Wednesday.
+
+[NEWS_P002] Local institutions emerge as net sellers, offloading RM82mil worth of equities. Among the gainers, Ajinomoto rose 20 sen to RM15.30, PETRONAS Dagangan gained 20 sen to RM18.12, Kuchai added 16 sen to RM2.15 and Heineken climbed 16 sen to RM23.22. Nestle tumbled RM1.30 to RM103.70, United Plantations slid 20 sen to RM25.90, F&N lost 18 sem to RM30.62 and SHH Resources fell 15 sen to RM1.15. Meanwhile, Public Bank Bhd announced that it acquiring a 44.15% stake in LPI Capital Bhd from the estate of the late Tan Sri Teh Hong Piow and Consolidated Teh Holdings Sdn Bhd (ConTeh) for RM1.72bil cash, or RM9.80 per share.
+
+[NEWS_P003] In a filing with Bursa Malaysia, Public Bank said the acquisition will result in a proposed mandatory general offer (MGO) to acquire all remaining LPI shares not already held by Public Bank for a cash price of RM9.80 per share following the proposed acquisition. Meanwhile, Teh Li Shian Diona, the youngest daughter of the late Tan Sri Dr. Teh Hong Piow also announced that the Estate and ConTeh intend to undertake a restricted offer for sale (ROFS) of a portion of their Public Bank shares, progressively over a 5-year period and will be in compliance with the Financial Services Act.
+
+[NEWS_P004] The restricted offer for sale will see the Teh family trimming its shareholdings in Public Bank to 10%. Details of the restricted offer for sale will be announced later. “My father often said that the success of Public Bank was not his alone – it is built on the trust and loyalty of its shareholders and the relentless commitment of its employees, or as he would like to call them his “corporate family”. “To honour his legacy and to show our deep appreciation and gratitude, we will be undertaking an exercise to distribute a portion of our Public Bank shares at a discount to all employees, directors and eligible shareholders of the Public Bank Group.
+
+[NEWS_P005] This initiative aims to ensure that Public Bank remains in the hands of those who have nurtured its growth and success over the years, enabling us to continue building our legacy together,” Diona said. Meanwhile, US West Texas Intermediate crude rose 57 cents to US$73.81 and Brent added 54 cents to US$77.12 per barrel. Elsewhere in the region, Japan’s Nikkei 225 rose 0.26% to 39,380.89 while South Korea’s Kospi advanced 0.19% to 2,599.16. Hong Kong’s Hang Seng Index closed up 2.98% at 21,251.98.
+
+[NEWS_P006] China’s CSI 300 Index jumped 1.06% to 3,997.79 and Shanghai Composite Index gained 1.32% to 3,301.93.

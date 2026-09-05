@@ -1,0 +1,54 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# === IDE / OS ===
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# === 临时文件与日志 ===
+*.tmp
+*.log
+*.jsonl                      # 评分进度日志（可重生成）
+
+# === 可再生的大规模 LLM 产物 ===
+# 原始 Ollama 输出与聚合评分均可由 code/scripts 重新生成
+05_raw_model_outputs/
+06_ratings/
+07_review/
+09_cross_validation/
+10_claims/
+10_claim_extraction/
+10_claim_scoring/
+10_claim_mapping/
+11_stability_analysis/
+_self_correction/
+
+# === 历史遗留完整输出树（与根目录产物重复，体积大）===
+result/
+
+# === 大文件归档 ===
+*.zip
+
+# === 大文件排除（>50MB，避免进入 git）===
+# 原始新闻汇总 CSV：318.9 MB，含全部新闻正文；可从 source/input_news/ 之外重新构建
+source/input_news/news_raw_from_filter_news.csv
+# 新闻相关性审计 CSV：66 MB ×5 份（result + 各 deliverable 副本），含 article_text 全文，可重生成
+**/filter_news_relevance_audit.csv
+# 新闻人工复核队列 CSV：54.4 MB ×4 份，可重生成
+**/news_manual_preserve_review_queue.csv
+
+# 说明：
+# - 08_reports/、PAPER_OUTPUT/、FINAL_OUTPUT/ 体积小且为论文交付物，纳入版本控制
+# - 08_reports/ablation_sample.csv（人工挑选的消融样本）与
+#   market_mapping.csv（市场映射）随 08_reports/ 一并跟踪
+# - 若其他 >50MB 文件出现，可在此区块追加规则；git 不原生支持按文件大小忽略
+# - 已提交进 git 历史的大文件（如 news_raw_from_filter_news.csv 曾在 .git/objects 中占 133.8 MB）
+#   需用 `git rm --cached` 移出索引，必要时用 filter-repo 清理历史

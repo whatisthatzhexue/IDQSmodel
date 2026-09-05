@@ -1,0 +1,133 @@
+document_id: MDA_3689_FN_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 89, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Market
+Review
+FY2021 has been signiﬁcantly more challenging
+than FY2020 for our Malaysian, Thai and Export
+operations for three main reasons: Covid-19, the
+increase in price of commodities, as well as that
+of freight charges. In both Malaysia and Thailand, after a period
+during which Covid-19 cases seemed to be
+coming under control, the numbers started
+increasing again from the beginning of 2021
+and then again from the middle of the year. Each
+wave of the pandemic led to supply chain
+disruptions, reduced production, and softened
+consumer demand, the overall effect being to
+dampen the economy. Although gross development product (GDP) for
+Malaysia and Thailand improved in 2021
+compared to 2020 – with predicted growth
+coming in at between three per cent and four
+per cent in Malaysia, and one per cent in
+Thailand1 – this is from a very low base in 2020,
+when GDP shrunk 5.6 per cent and 6.1 per cent
+in both countries, respectively. Overall, the
+economies of Malaysia and Thailand have yet
+to reach pre-pandemic levels. The price of commodities, meanwhile,
+increased for several reasons, including
+reduced output.
+[MDA_P003]
+Reduced stockpiles of crude
+palm oil in the world’s two largest producers –
+Indonesia and Malaysia – led to a price rally
+starting in 2020, which hit a high of RM4,572
+per tonne in May 20212. The price of raw sugar
+increased more than 60 per cent as of
+September 2021 from end of 2020. This can be
+distilled to reduced production in Brazil, the
+world’s largest exporter of sugar, which was hit
+by both severe drought and frost.3 Meanwhile,
+as China’s economy recovers, the country has
+been increasing its imports of milk, pushing up
+the price of the commodity in the international
+market.
+[MDA_P004]
+As for shipping, limited capacity has been
+pushing up the cost of freight since the last
+quarter of 2020, the increase further
+accelerating from the beginning of 2021.4
+According to the World Bank, https://www.reuters.com/
+world/asia-paciﬁc/world-bank-cuts-thai-gdp-growth-outlook-
+1-this-year-2021-09-28/
+According to the CPOC, https://www.cpopc.org/wp-content/
+uploads/2021/07/2021_PALM-OIL-SUPPLY-AND-DEMAND-
+OUTLOOK-REPORT-WITH-REFINITIV-1.pdf
+https://www.wsj.com/articles/sugar-prices-soar-after-
+brazilian-cold-snap-11630659234
+According to THINK Economic and Financial Analysis,
+https://think.ing.com/articles/the-rise-and-rise-of-global-
+shipping-costs
+Consumers’ expectations of companies have
+evolved signiﬁcantly over the years. Whilst,
+initially, consumers were focused on products
+and the lifestyles they stood for; today, they
+are more swayed by how the products were
+made, and the values of the producing
+companies. Consumers today actively seek
+brands that play their part in making the world
+cleaner, healthier, more resilient and
+equitable.
+[MDA_P005]
+One of the discernible outcomes of
+the global pandemic has been a greater sense
+of solidarity with others – people are not only
+concerned about their own well-being, but
+they also want to know the society and the
+planet are being cared for. Although social restrictions are relaxing
+globally, many are still wary of going out,
+especially to crowded places, including
+restaurants. People are cooking and eating
+more at home. This has seen increased
+spending on groceries and food for home
+consumption. For everyday needs, people
+seek convenience in food preparation, while
+for those special meals, they are prepared to
+splurge on more expensive ingredients. At the
+same time, as people start returning to work,
+demand for convenient foods and beverages
+that can be consumed on-the-go will increase. Key Trends
+Our Response
+•
+We source for raw materials that are
+certiﬁed with eco-credentials, including
+Roundtable for Sustainable Palm Oil
+(RSPO), VIVE, BONSUCRO and Forest
+Stewardship Council (FSC) to ensure that
+they are produced in an environmentally
+and socially responsible manner.
+[MDA_P006]
+•
+We have increased the use of recycled
+material in our packaging to 22% and aim
+for all our beverage and dairy packaging
+material to be 100% recyclable. To further
+promote recycling and post-consumption
+waste management, we are a pioneering
+member of the Malaysian Recycling
+Alliance, an industry coalition taking the
+lead in Extended Producer Responsibility
+(EPR) in Malaysia. •
+This year, we have conducted a human
+rights risk assessment to uphold the
+human rights of all stakeholder groups
+across our value chain. •
+Sri Nona Companies which dominate the
+ready-to-cook ketupat market, and is No. 2 in the oyster sauce segment, provide us
+with a strong base to supply halal
+packaged food for home consumption
+and meet the rising demand for
+convenience and ready-to-eat food
+products. We are looking into expanding
+our product range and production
+capacity to support this segment. •
+In line with the fact that people are
+cooking more, we focused our marketing
+efforts on in-home consumption, and
+especially our dairy products as these
+have multiple applications in food
+preparation.

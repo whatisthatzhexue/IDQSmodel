@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI poised to end higher for fourth day
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-01-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/22/fbm-klci-poised-to-end-higher-for-fourth-day
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI is poised to a fourth straight day of recovery amid an uptick in global investor sentiment as President Donald Trump's trade tariffs had yet to materialise while US technology companies posted positive earnings. At the midday break, the benchmark index was up 6.53 points to 1,589.99. The broader market was evenly spread, with 436 gainers compared to 432 decliners. Turnover was 1.98 billion shares changing hands for RM1.l1bil.
+
+[NEWS_P002] According to Reuters, Treasury yields retreated amid relief that Trump did not announced tariffs in the first day of his presidency. Meanwhile, Softbank and Oracle shares surged after Trump announced that Open AI would form a joint venture with the two companies to invest up to US$500bil in AI infrastructure. Asian markets were seen responding positively with Japan's Nikkei gaining 1.34% to 39,549 and Singapore's Straits Times rising 0.1% to 39,537.
+
+[NEWS_P003] China's composite index, however, fell 0.84% to 3,215 while Hong Kong's Hang Seng dropped 1.34% to 19,836. On Bursa Malaysia, leading gainers included Batu Kawan up 40 sen to RM20.40, United Plantations gaining 38 sen to RM30.98 and Dutch Lady rising 32 sen to RM31.82. Top actives included TWL unchanged at 2.5 sen, Harvest Miracle up one sen to 18 sen, EA Holdings flat at 0.5 sen.

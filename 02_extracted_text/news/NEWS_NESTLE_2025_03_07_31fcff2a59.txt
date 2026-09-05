@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia ends week lower amid cautious sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/07/bursa-malaysia-ends-week-lower-amid-cautious-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia wrapped up the week on a cautious note, extending its decline amid weaker regional market sentiment. The benchmark FBM KLCI fell 11.64 points or 0.75% to 1,547.27, trading between an intraday high of 1,556.46 and a low of 1,543.21. For the week, it was down 27.43 points or 1.74%. All indices on Bursa Malaysia ended lower, except for the Bursa Malaysia Real Estate Investment Trust (REIT) Index. There were 332 gainers, 565 losers and 488 counters traded unchanged on the Bursa Malaysia.
+
+[NEWS_P002] About 2.4 billion shares, valued at RM2.4bil, changed hands. Dealers expect trading on Bursa Malaysia to remain cautious, driven by uncertainty surrounding the ever-shifting US trade policy. Nestle, the top loser on Bursa Malaysia, tumbled 86 sen to RM72.14. Kuala Lumpur Kepong declined 58 sen to RM20.52, Carlsberg slid 46 sen to RM18.18, and F&N lost 42 sen to RM24.58. Top gainers on Bursa Malaysia included United Plantations, up 28 sen to RM23.28, Malaysian Pacific Industries , which gained 22 sen to RM17.52, and PPB Group, rising 16 sen to RM11.50.
+
+[NEWS_P003] Meanwhile, the ringgit extended its rally for a fourth consecutive day, marking its best streak in three days. It was quoted at 4.4174 against the US dollar, appreciating 0.17%. The local currency weakened 0.21% against the euro to 4.7888, declined 0.12% against the pound sterling to 5.7059, and edged down 0.05% against the Singapore dollar to 3.3213. Among the key regional markets: Japan’s Nikkei 225 closed down 2.17% to 36,887.17; Hong Kong’s Hang Seng Index fell 0.57% to 24,231.30; China’s CSI 300 Index declined 0.31% to 3,944.01; Taiwan’s Taiex lost 0.61% to 22,576.07; South Korea’s Kospi closed down 0.49% to 2,563.48 and; Singapore’s Straits Times Index fell 0.15% to 3,911.37 points.

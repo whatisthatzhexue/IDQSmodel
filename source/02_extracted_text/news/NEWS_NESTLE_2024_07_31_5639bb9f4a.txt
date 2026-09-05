@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia stays sideways as investors await Fed decision
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-07-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/31/bursa-malaysia-stays-sideways-as-investors-await-fed-decision
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: There was a slight rebound on the domestic market following the sharp drop in the previous session, although the gains were capped as investors looked ahead to the US Federal Reserve decision on Thursday. At the start of trading, the FBM KLCI was up 1.39 points to 1,613.33, staying aflot of the 50-day simple moving average in a consolidation pattern. Apex Securities Research reiterated its view that the key index will continue trending sideways due to a cautious approach ahead of the Fed interest rate decision, while lower liners are expected to remain downbeat.
+
+[NEWS_P002] However, it said it expects some trading opportunity in the transport sector after Transport Minister Anothony Loke expressed hope in developing and enhancing the infrastructure at existing ports, aiming to make Malaysia a "homeport" for cruise ships. "Conversely, oil & gas stocks will likely come under pressure with weakness in Brent oil prices which fell below USD76/bbl, as softer outlook in China economy continue to overshadow tensions in the Middle East," it said.
+
+[NEWS_P003] Among the blue chips, Maybank rose four sen to RM10.12, YTL Corp gained five sen to RM3.46 and PETRONAS Gas climbed 18 sen to RM18.18. Nestle Malaysia continued its slide for a fourth straight day, losing 90 sen to a fresh 2018 low of RM107.60. Meanwhile, glove counters remained under strong selling pressure with Top Glove falling six sen to RM1.03, Hartalega dropping 24 sen to RM2.94 and Kossan shedding nine sen to RM2.11 Leading actives included Velocity unchanged at 7.5 sen, Velesto up 0.5 sen to 22.5 sen and Asdion down one sen to four sen.

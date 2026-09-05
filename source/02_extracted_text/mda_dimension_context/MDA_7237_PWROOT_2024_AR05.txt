@@ -1,0 +1,113 @@
+document_id: MDA_7237_PWROOT_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 144.411, "paragraph_count": 18, "paragraph_length_distribution": {"max": 1189, "mean": 964.222, "min": 285}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+(cont’d)
+meet their demand for high quality beverages. We also
+know that it is crucial for us to be agile and to adapt
+in a competitive beverage market with unpredictable
+consumer behaviour. Constant change is required, be it
+in ways we engage customers, target consumers, create
+marketing interest, or provide increased product choices. The Group’s strategies will continue to evolve as we seek
+continued business growth. THE BUSINESS ENVIRONMENT
+Economic uncertainty, exacerbated by a weak Ringgit,
+global conflicts and moderate domestic demand in
+household spending, contributed to slower growth this
+financial year. Consumers in Malaysia are struggling
+with increasing costs of living, particularly in urban
+areas. Such uneasiness was reflected by weak
+consumer sentiments as the public tightened their
+spending in response to near-term concerns, as well
+as in anticipation of on-going government economic
+restructuring aimed at long-term growth.
+[MDA_P005]
+Meanwhile,
+chocolate malt lovers now have the option of picking up
+Oligo Choco Malt Calcium (200ml) in sleeve packs from
+the shelves. EXPORT ACTIVITIES
+MENA
+Power Root undertook a major internal restructuring
+exercise for our MENA sales and distribution operations
+in FY 2024 aimed at building up our brand presence and
+[MDA_P010]
+Separately, Sappe appointed Power Root as its exclusive
+distributor for their popular ‘Mogu Mogu’ fruit juice
+with its jelly-like nata de coco. ‘Mogu Mogu’ has been
+in Malaysian markets since October 2023, and can be
+found at petrol station stores, convenience stores and
+chain household outlets, namely CU, MyNews, KK Mart
+and MR.DIY. For Power Root, this is another opportunity to tap
+into the Gen Z market and extend our customer
+demographics while expanding on our product line. PRODUCTION
+The Group’s on-going efficiency drive was at the
+forefront of improvements in production during this
+financial year with better machinery, systems and
+processes put in place at our facilities and in product
+management. PRODUCTION
+FACILITIES
+AND
+PRODUCT
+MANAGEMENT
+Stock management
+The warehouse racking systems were revamped from
+the satellite racking 18 system to the drive-in racking
+system which improved optimal utilisation by 13%. This
+enabled better product segregation, accessibility and
+manoeuvrability, thus improving efﬁciency in managing
+our stock. In another stock management improvement, forward
+contracts were arranged in a way where commodities
+[MDA_P014]
+STATEMENT OF FINANCIAL POSITION
+FY 2024
+(RM’000)
+FY 2023
+(RM’000)
+Total Assets
+505,510
+438,153
+Equity attributable
+to the owners of the
+Company
+345,832
+289,603
+Total Liabilities
+157,765
+147,804
+Borrowings
+59,304
+31,314
+Gearing (times)
+0.171
+0.108
+The Total Assets of the Group increased by RM67.4
+million in FY 2024 mainly due to higher cash and bank
+balances and purchase of property, plant and equipment. The Total Liabilities of the Group increased by RM10.0
+million in FY 2023 mainly due to increase in loans and
+borrowings. With a low gearing of 0.171 as at 31 March 2024, the
+Group’s ﬁnancial position remains sound.
+[MDA_P018]
+Waste water was disposed with the services of a
+Department of Environment (DOE)-recognised waste
+management company on a monthly basis. Wastes such
+as plastic bags, carton boxes, and aluminum cans are
+sold or disposed of for recycling. Group employees are
+also increasingly conscious of cutting down waste by
+reusing plastic bags and carton boxes for packing and
+storing of indirect items where possible. APPRECIATION
+Lastly, we wish to acknowledge the efforts of all involved
+in the Company’s growth. This is something we never
+take for granted. On behalf of the Board, we would like
+to extend our gratitude to all stakeholders of Power
+Root, especially shareholders, distributors, management
+and staff, for the confidence you have shown in us
+and the hard work you have contributed in making this
+another successful year. MANAGEMENT DISCUSSION
+AND ANALYSIS
+(cont’d)

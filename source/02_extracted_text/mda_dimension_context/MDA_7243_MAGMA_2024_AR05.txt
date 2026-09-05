@@ -1,0 +1,95 @@
+document_id: MDA_7243_MAGMA_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 96.733, "paragraph_count": 34, "paragraph_length_distribution": {"max": 1189, "mean": 518.794, "min": 1}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+(Overview of Group Business)
+Magma Group Berhad (“.BHNB” or “the Group”) is actively evolving from a traditional hospitality company into an
+innovative, experience-focused property and lifestyle group. Anchored in Malaysia’s hotel industry, Magma manages
+a portfolio of distinctive assets under the WOLO and Impiana brands, delivering culturally immersive hospitality across
+strategic urban and regional locations. As of the financial year ended 31 December 2024 (“FYE2024”), the Group’s portfolio includes WOLO Kuala Lumpur,
+Impiana Hotel Ipoh, Impiana Hotel Senai, and an associate stake in Impiana KLCC Hotel. The full consolidation of
+WOLO Kuala Lumpur under Magma Bintang Sdn Bhd has notably enhanced the Group’s hospitality performance,
+fueling robust segmental growth. Magma’s strategic focus on high-impact locations reflects its commitment to delivering exceptional guest experiences. Through innovative offerings and targeted market positioning, the Group consistently sets industry standards for
+service, quality, and operational excellence.
+[MDA_P009]
+Review of Statement of Financial Position
+The summary of the Statement of Financial Position is as follows:
+3. As at
+ %FD 
+As at
+ %FD 
+Variance
+31.12.2024
+vs. 31.12.2023
+Property, Plant and Equipment
+121,776
+111,193
+9.5%
+Intangible Assets
+-
+100.0%
+Total Trade Receivables
+6,411
+22,242
+(71.2%)
+Contract Assets
+7,365
+(89.7%)
+Total Assets
+248,757
+245,213
+1.5%
+Total Trade, Other Payables & Accruals
+33,218
+45,948
+(27.7%)
+Contract Liabilities
+-
+(100.0%)
+Total Liabilities
+159,817
+140,604
+13.7%
+Shareholders’ Equity
+88,939
+104,609
+(15.0%)
+NA per share (sen) (1)
+9.19
+17.64
+(47.9%)
+Note:
+(1)
+Based on weighted average number of shares
+For the financial year ended 31 December 2024 (“FYE2024”), Magma Group Berhad (“Magma”) underwent notable
+shifts in its financial structure, driven by strategic investments, liability management, and operational adjustments. Assets
+Total assets increased modestly by 1.5%, from RM245.21 million to RM248.76 million. This was mainly due to a 9.5%
+rise in Property, Plant, and Equipment, which grew from RM111.19 million to RM121.78 million, supported by key
+investments such as the RM12.70 million lease acquisition of the WOLO hotel.
+[MDA_P018]
+'PSFJHO &YDIBOHF 3JTL
+[MDA_P026]
+Strict adherence to licensing, health, and safety regulations is essential. Magma maintains full compliance to
+prevent operational disruptions and uphold industry standards.
+MANAGEMENT DISCUSSION & ANALYSIS
+(Overview of Group Business)
+cont’d
+MAGMA GROUP BERHAD 200601021085 (740838-A)
+[MDA_P034]
+Magma enters the new financial year with a strengthened foundation following its strategic realignment initiatives.
+The Group remains cautiously optimistic about its prospects, supported by a more agile organizational structure,
+improved operational efficiencies, and a renewed leadership team. While external market conditions are expected
+to remain challenging, Magma is well-positioned to capitalize on growth opportunities, particularly within the
+resilient Hotel Operations segment. Focused on strategic expansion, operational excellence, and disciplined
+financial management, the Group is committed to driving sustainable value creation for its shareholders and
+stakeholders over the long term.
+MANAGEMENT DISCUSSION & ANALYSIS
+(Overview of Group Business)
+cont’d
+PERFORMANCE REVIEW ANNUAL REPORT 2024

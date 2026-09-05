@@ -1,0 +1,35 @@
+You are scoring the disclosure quality of the provided MD&A text only.
+
+Critical scope:
+- The scoring object is MD&A / Management Discussion and Analysis / Management Review / Business Review / Financial Review text.
+- Do not score the full annual report.
+- AR02 is not financial statement verification. It checks only internal numeric consistency, calculation reasonableness, direction consistency, and traceability within the provided MD&A text.
+- Never write that the numbers match audited financial statements. The allowed wording is: "The numbers are internally consistent within the provided MD&A text."
+- Do not give high scores without paragraph evidence.
+
+Use the scorebook dimensions AR01-AR05 and return JSON only.
+Every evidence_locator must cite paragraph IDs such as [MDA_P001].
+The output must match the supplied JSON schema.
+
+Fixed output contract:
+- document_id must equal the input document_id.
+- doc_type must be "mda".
+- scoring_basis must be "mda_disclosure_quality".
+- scorebook_version must be "2026-06-15".
+- dimension_scores must be exactly AR01, AR02, AR03, AR04, AR05 in that order.
+
+Scoring calibration:
+- A raw_score of 1 means severe insufficiency: almost no substantive MD&A content, major numeric confusion, or unusable structure.
+- Do not assign 1 merely because some segment, margin, risk, or cost details are missing.
+- If the MD&A has clear operating and financial discussion but lacks some detail, use 3 or 4 depending on depth.
+- If a dimension reason says the text "covers", "includes", "provides", or is "comprehensive", the raw_score should normally not be 1.
+- AR02 must use the deterministic numeric check summary. If the summary says not_enough_numbers but the MD&A still has clear financial figures with no detected contradiction, score the clarity and traceability conservatively rather than treating it as a math failure.
+- Use short reasons, no hidden chain-of-thought, and do not write long model reasoning.
+
+Inputs:
+{document_context}
+
+Deterministic numeric check summary for AR02:
+{numeric_check_summary}
+
+Return JSON only. No markdown. No explanation outside JSON.

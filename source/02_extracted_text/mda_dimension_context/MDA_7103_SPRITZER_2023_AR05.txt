@@ -1,0 +1,147 @@
+document_id: MDA_7103_SPRITZER_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 19, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 123.751, "paragraph_count": 19, "paragraph_length_distribution": {"max": 1199, "mean": 1014.474, "min": 85}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+ECONOMIC OVERVIEW
+The Malaysian economy grew moderately by 3.7% in 2023, following a robust expansion of 8.7% recorded in the previous
+year. The slower growth in 2023 is attributed to the weakness in the manufacturing and export-oriented sectors amid weak
+global demand. Moreover, escalating geopolitical conflicts, inflationary pressure and volatile currency exchange rates have
+added further strain. However, the robust domestic demand, firm labour market and improving tourism activities continued
+to support the overall economic growth. Despite the less favourable economic conditions, the demand for our bottled water products has remained strong throughout
+the financial year ended December 31, 2023. Our revenue has improved strongly by 13% for the year ended December
+31, 2023. The sales of our bottled water products have remained favourable mainly due to the robust demand, the strong
+recovery in tourism activities and the hot weather environment. Our innovative branding, marketing and promotional
+activities and our ability to cope with the surge in demand have also enabled us to deliver a strong performance for the year.
+[MDA_P005]
+199301010611 (265348-V)
+SPRITZER BHD
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+FINANCIAL REVIEW
+Financial Highlights
+Financial year ended
+Change
+31.12.2023
+31.12.2022
+Amount
+%
+Revenue (RM’000)
+490,675
+433,300
+57,375
+Profit before taxation (RM’000)
+65,924
+45,200
+20,724
+Profit after taxation (RM’000)
+49,486
+36,965
+12,521
+Pre-tax margin (%)
+13.4
+10.4
+3.0
+Net margin (%)
+10.1
+8.5
+1.6
+Basic earnings per share (sen)
+15.5
+11.8
+3.7
+Diluted earnings per share (sen)
+15.2
+11.4
+3.8
+Dividend per share (sen)
+5.50
+4.17
+1.33
+Dividend payout ratio (%)
+(1)
+Current ratio (time)
+2.0
+2.1
+(0.1)
+Quick ratio (time)
+1.6
+1.6
+-
+No. of shares in issue, less treasury shares (‘000)
+316,291
+313,304
+2,987
+Total equity (RM’000)
+527,031
+493,480
+33,551
+Net debt to equity ratio (%)
+3.3
+-
+3.3
+Total assets (RM’000)
+687,910
+600,954
+86,956
+Total liabilities (RM’000)
+160,879
+107,474
+53,405
+Net assets per share (RM)
+1.67
+1.58
+0.09
+Market capitalisation (RM’000)
+578,813
+463,690
+115,123
+Note: Certain comparative figures have been restated to incorporate the effect of the bonus issue of 1 bonus share for every
+2 existing shares held, which has been completed in June 2023.
+[MDA_P010]
+As of December 31, 2023, the Group’s net debt to equity ratio stood at 3.3%. Financial Position and Gearing
+The financial position of the Group has remained strong with the higher net earnings of RM49.5 million recorded during the
+year. Our total assets have increased by RM87.0 million or 14% from RM601.0 million on December 31, 2022 to RM687.9
+million on December 31, 2023. Our total liabilities have increased by RM53.4 million or 50% from RM107.5 million on
+December 31, 2022 to RM160.9 million on December 31, 2023. The Group’s ability to meet its short term financial and debt
+obligations has remained strong. As of December 31, 2023, the current ratio was high at 2.0 times (2022: 2.1 times) and with
+a comfortable the quick ratio of 1.6 times (2022: 1.6 times). Throughout the first nine months of the year, the Group were in
+a net cash position. As of December 31, 2023, the Group’s net debt to equity ratio stood at 3.3%. For Financial Year Ended December 31, 2023
+[MDA_P015]
+AWARDS AND RECOGNITIONS
+We continue to receive recognitions from prestigious
+and reputable organisations for our core brands, quality
+product and excellent manufacturing facilities. The awards and recognitions received by us in year 2023
+include the following:
+The Superior Taste Award 2023 by The International
+Taste and Quality Institute, Belgium. We garnered the
+maximum 3 stars after scoring more than 90% by 3
+different panels of judges who are selected Michelin
+chefs and Sommeliers from prestigious European culinary
+associations. For Financial Year Ended December 31, 2023
+[MDA_P019]
+We will progressively increase
+the content of recycled PET in the manufacture of our
+Spritzer bottles and continue to introduce sustainable
+packaging alternatives for our bottled water products. We are also encouraged by the growth of Spritzer
+Sparkling and carbonated mineral water products. The
+new Spritzer Icon bottle has also been well received by
+the on-trade or HORECA (hotel, restaurant, café) channel,
+giving Spritzer another good growth channel. The Group is also taking prudent measures to monitor
+and manage the higher input and operating costs and
+at the same time, actively taking steps to grow its online
+channel and as far as possible, to expand the overseas
+markets. We will focus on sustaining our sales revenue
+and to safeguard our market share in the bottled water
+industry. APPRECIATION
+We thank our employees for their continued hard work
+and dedication and for having to face with the various
+challenges and the stiff competition in the marketplace. We also thank our consumers, partners, distributors and
+customers for their trust and support to our Group and
+our brands. For Financial Year Ended December 31, 2023

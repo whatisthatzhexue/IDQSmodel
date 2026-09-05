@@ -1,0 +1,18 @@
+document_id: MDA_2836_CARLSBG_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 90.288, "paragraph_count": 13, "paragraph_length_distribution": {"max": 667, "mean": 173.615, "min": 7}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS Through Portfolio Choices, we are sharpening our focus on premiumisation, innovation and strengthening core beer offerings. Investments in premium brands, Alcohol-Free Brews and Beyond Beer categories position us to cater to evolving consumer preferences while ensuring market leadership in key segments. With Execution Excellence, we are driving flawless execution across sales, marketing and innovation, integrating digital transformation to enhance operational efficiency and supply chain resilience. Strategic activations and data-driven decision-making underpin our efforts to strengthen market leadership and long-term growth.
+[MDA_P004]
+EXECUTION
+[MDA_P007]
+JOURNEY Optimise sourcing Unlock supply chain efficiency Continue cost discipline
+[MDA_P010]
+procurement excellence remain key to driving financial resilience and operational agility.
+[MDA_P013]
+TO GROW Launched in February 2024, Accelerate SAIL sets high ambitions for top- and bottom-line growth as we sharpen our focus on selected growth drivers within our portfolio and capabilities, for which we are ensuring sufficient investments and support. We are also improving supply chain efficiency, continuing our well-embedded cost focus, developing a growth culture and maintaining our commitment to ESG. General Manager, Carlsberg Singapore Caroline Moreau

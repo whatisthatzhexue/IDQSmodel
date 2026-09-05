@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI drifts slightly lower in anticipation of OPR decision
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/08/fbm-klci-drifts-slighly-lower-in-anticipation-of-opr-decision
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The blue-chip FBM KLCI idled below the 1,550 resistance as it awaited the central bank's policy decision later in the day. The benchmark index dropped 2.97 points to 1,546.93 as investors sat by the sidelines even as regional markets climbed as Trump suggested he had struck his first trade deal amid the ongoing tariffs war. There were an equal number of advancing issues to declining - with 413 stocks on each side of the ledger- as the market kept to a holding position.
+
+[NEWS_P002] Volume was 2.18 billion shares changing hands for RM1.33bil. Blue chips that were dragging on the main index included Nestle down 38 sen to RM87.06, Kuala Lumpur Kepong down 32 sen to RM19.60 and PPB dropping 16 sen to RM12.10. Asian markets rose on Thursday, alongside US futures, in anticipation of details over Trumps' trade deal, which the New York Times claims was made with Britain. Japan's Nikei rose 0.35% to 36,909 while China's composite index added 0.38% to 3,355.
+
+[NEWS_P003] Hong Kong's Hang Seng climbed 1.1% to 22,941. Singapore's Straits Times rose 0.2% to 3,873.

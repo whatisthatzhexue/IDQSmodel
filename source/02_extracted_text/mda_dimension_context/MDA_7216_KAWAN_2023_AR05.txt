@@ -1,0 +1,175 @@
+document_id: MDA_7216_KAWAN_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 192.82, "paragraph_count": 27, "paragraph_length_distribution": {"max": 1302, "mean": 930.741, "min": 200}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Revenue
+(2022: RM274.8 million)
+RM287.2
+million
+Profit Before Taxation
+(2022: RM40.1 million)
+RM34.3
+million
+Cash & Cash
+Equivalents
+(2022: RM98.6 million)
+RM104.3
+million
+OVERVIEW
+In
+adapting
+to
+the
+changing
+global
+environment, we took the opportunity to
+transform the Group to meet these, and
+future challenges; refocus on the consumer,
+streamline our supply chain and route
+to market, strengthen our balance sheet,
+improve cashflow, construct a bolder vision
+and purpose as well as, detail a more robust
+business strategy for the next five years,
+and cascade it down the organisation in a
+balanced scorecard. In addition to these
+measures, we put better controls in place to
+strengthen our leadership platform amidst
+an increasingly competitive landscape, and
+to extend our market lead in terms of quality
+and sustainability in the frozen food space.
+[MDA_P007]
+ANNUAL REPORT
+Financial
+Statements
+Other
+Information
+Our Commitment to Good
+Corporate Governance
+This year marked the beginning of our new chapter on a transformative journey,
+where we undertook significant changes at scale and pace, to reach our targets. We refined our priorities and worked closely with our teams, value chain partners,
+and stakeholders to drive meaningful changes. Our strategic roadmap for the medium term focuses on sustainable and
+accelerated profit growth. We have made substantial progress in recalibrating our
+strategy by establishing clear goals to streamline our operations, boost profitability,
+and creating sustainable growth opportunities through:
+Our strategic initiatives improve our long-term supply and quality assurance,
+mitigate rising costs and sustain competitive margins. By aligning all stakeholders,
+we will provide our consumers with superior value whilst building more dependable
+partnerships with our suppliers and customers, and a more rewarding environment
+for our staff and their families, as well as society at large, and, improved returns for
+our shareholders.
+[MDA_P014]
+ANNUAL REPORT
+Financial
+Statements
+Other
+Information
+Our Commitment to Good
+Corporate Governance
+The Board and Management of Kawan continued to actively monitor risks that may potentially impact the performance of the
+Group as part of our robust risk management and internal control measures. The Audit Committee (“AC”) has met four (4)
+times during the year under review to deliberate the Group’s risk management agenda. The following table highlights the key focus areas of their deliberations in FY2023 regarding risks arising from our operating
+environment, its potential implications, and the corresponding mitigation measures implemented:
+RISK MANAGEMENT
+Employees
+Mitigation measures
+• Provide training programme to
+enhance skill sets and capabilities
+• Implement succession planning
+strategies. • Compensations
+and
+benefits
+review
+• Compensation incentive schemes
+including Employees Share Option
+Scheme and annual bonuses to
+further incentivise retention
+• Corporate
+Social
+Responsibility
+Initiatives
+Impact
+Risk of losing competent employees
+with the right skills, commercial
+acumen,
+and
+knowledge,
+poses
+potential challenges in implementing
+the Group’s strategies.
+[MDA_P021]
+KAWAN FOOD
+BERHAD
+Kawan
+At A Glance
+This is
+Kawan Food Berhad
+Our Strategic
+Review
+The Group achieved revenue of RM287.2 million for FY2023, 4.5% higher compared to
+RM274.8 million in FY2022. The revenue growth was contributed by both domestic and
+export sales, where domestic sales grew by 4.2%, and export sales grew by 4.8%.
+GROUP FINANCIAL REVIEW
+Revenue
+(RM‘000)
+Profit Before Tax
+(RM‘000)
+Profit After Tax
+(RM‘000)
+Retained Earnings
+(RM‘000)
+Earnings Per Share (“EPS”)
+(sen)
+Dividend Per Share (“DPS”)
+(sen)
+214,087
+254,703
+251,770
+274,762
+287,215
+136,076
+155,105
+177,220
+205,075
+222,183
+15,354
+32,015
+36,656
+40,144
+34,266
+8.35
+3.39
+7.79
+8.84
+10.70
+30,129
+27,652
+12,014
+31,785
+38,478
+3.60
+2.50
+2.50
+3.00
+3.00
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P027]
+On behalf of the Board, I would like to extend our gratitude to our
+shareholders for their support, and to our dedicated Management and
+employees for their unwavering commitment and tireless efforts. We
+would also like to express our appreciation to our customers and suppliers
+for their ongoing commitment and support to Kawan. Lastly, we are sorry for the loss of our business partner and significant
+shareholder, Mr Nareshchandra Gordhandas Nagrecha (“Naresh”). Mr Naresh was an invaluable member of our team and will be greatly
+missed. His contributions to our company were immeasurable and his
+impact will always be remembered. On behalf of the Board and Management,
+Mr Gan Thiam Chai
+Executive Chairman
+MANAGEMENT DISCUSSION
+AND ANALYSIS

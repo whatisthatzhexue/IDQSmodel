@@ -1,0 +1,73 @@
+document_id: MDA_8478_HWATAI_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+FINANCIAL AND OPERATIONS REVIEWS (CONTINUED)
+The breakdown of revenue of the Group in FYE2022 and FYE2021:
+FYE2022
+FYE2021
+RM’000
+%
+RM’000
+%
+Export sales
+13,178
+12,505
+Local sales - Hwa Tai & OEM Products
+63,078
+60,873
+Total
+76,256
+73,378
+The Group had registered a revenue of RM76.26 million in the current financial year ended 31 December 2022
+(“FYE2022”), a marginal 3.92% increase from RM73.38 million achieved in the previous financial year ended 31
+December 2021 (“FYE2021”). It attributed increase of revenue in FYE2022 to higher sales recorded from International Sales market and East Malaysia
+in general trade segment, partially offset by sales decrease from local markets in Peninsular and E-commerce business. Our international market accounted to about 17% of the Group’s revenue in both FYE 2022 and FYE2021. The remainder
+was from the domestic market of 83% in both FYE2022 and FYE2021 respectively. As our biscuits are part of essential food, our export market was not adversely affected in FYE2022 and its export
+sales was on par as compared with previous year.
+[MDA_P002]
+Certain countries like Philippines, Nigeria and Cambodia, saw an
+increase in demand in our biscuits in FYE 2022 but was partially offset by the decline of sales due to lockdown in
+certain countries especially in China and Middle East due to Covid-19 pandemic. The performance of international
+market would have been better but was affected mainly by the exorbitant freight charges that have gone up few folds. While our export market has room for growth, we may face challenges with more competition as the market is getting
+crowded with more low quality producers surfacing from various other countries, the ongoing spread of coronavirus
+Covid-19, increase in price of commodities, as well as pushing up the cost of freight horrendously. FYE 2022, domestic sales only marginally rose by 3.62% to RM63.08 million from RM60.87 million a year ago, mainly
+due to the easing of various Movement Control Order in the second quarter of FYE2022, Malaysian started to dine
+out and spent less on groceries for home consumptions.
+[MDA_P003]
+To remain competitive in both international and domestic markets, distribution channel improvement, sales force
+efficiency and effectiveness, continuous spending on advertising and promotional activities such as, among others,
+on-going social media interactions, on-ground events & activities, roadshows, price rebates, engaging promoters,
+gondola ends, block displays, mailer supports, prize contests etc. are carried out for our products to be more attractive
+and competitive to consumers. The Group reported a loss of RM5.83 million in FYE2022 as compared to a loss of RM1.91 million, a year ago in
+FYE2021. The loss reported in FYE2022 was mainly attributed to the Group recording a very much higher operating cost mainly
+caused by rising price of raw materials and packing materials due to continuous increase in price of commodities
+which are major cost components for our products. Following the implementation of the Minimum Wage Order 2022
+effective 1 May 2022, the Group had to increase wages and benefits to attract and retain employees, which have
+further contributed to increase in operating cost.
+[MDA_P007]
+An increase of RM5.24 million and RM11.07 million
+for total assets and total liabilities respectively were recorded in FYE2022 as compared with FYE2021. The changes
+in total assets and liabilities were reflected by increase in trade receivables, inventories and loans & borrowings,
+mainly offset by reduction in cash, bank balances and short- term deposits. Net assets per share and loss per share were 21.15 sen and 7.81 sen respectively in FYE2022 as compared with net
+asset per share and loss per share of 28.96 sen and 2.56 sen respectively in FYE2021. Investment in capital expenditure of approximately RM4.49 million in FYE2022 primarily comprised the purchase of
+machineries amounting to RM3.62 million and the remainder was on factory upgrading, office equipment and motor
+vehicles. The Group expects to invest broadly the same in the year ahead so as to keep up with technological changes
+where continuous capital expenditure investments are vital to improve efficiency and productivity of our factory.
+[MDA_P008]
+HWA TAI INDUSTRIES BERHAD
+ANNUAL
+REPORT
+PAGE
+BUSINESS STRATEGICS AND RISK FACTORS
+In view of market competition and ever-growing demands from consumers, our Research and Development division
+has continuously focused on product innovation, creativeness on developing healthier choices products for consumers,
+market research in improving our current products to suit consumers preferences without compromising on quality.
+We have been continuously expanding our customer network by penetration to new markets locally and internationally,
+developing and launching new products and also improve our product quality and variety. In line with the new norm
+and e-commerce phenomenon, the Group also is working on various online shopping initiatives to drive sales.

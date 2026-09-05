@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit stages rebound against US$ at opening
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-04-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/09/ringgit-stages-rebound-against-us-at-opening
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit was marginally higher against the US dollar at the opening today following a slight retreat of the greenback overnight, with investors focused on the upcoming March inflation data from the United States on Wednesday. At 9 am, the local currency improved to 4.7485/7530 versus the US dollar from Monday’s closing of 4.7505/7545. SPI Asset Management managing partner Stephen Innes said that a higher-than-expected inflation print in the US could delay interest rate cuts, putting pressure on the ringgit.
+
+[NEWS_P002] Despite the ringgit’s rebound, he cautioned that the higher US Treasury yields, which have been rising, could impact the ringgit. "The biggest worry for the ringgit is higher US yields, we went from 4.19 per cent on March 1 to 4.42 per cent yesterday in the 10-year yields. "The low this year has been 4.09 per cent in January, hinting that the ringgit could trade much weaker if US economic data stay strong amid sticky to higher inflation signals. This could happen especially if we move into a no rate cut (scenario) in 2024,” he added.
+
+[NEWS_P003] However, renewed efforts to negotiate a ceasefire in the Middle East could reduce the safe-haven appeal of the dollar, he said. In opening trade, the ringgit was traded mixed against a basket of major currencies. It fell against the euro to 5.1559/1608 from 5.1434/1477 at Monday’s close, strengthened vis-a-vis the Japanese yen to 3.1259/1290 from yesterday’s 3.1278/1306 but eased further versus the British pound to 6.0083/0140 from 5.9980/0030 previously.
+
+[NEWS_P004] The ringgit was traded mostly higher against Asean currencies. It was higher versus the Thai baht at 12.9394/9566 from 12.9434/12.9596 at yesterday’s close, inched up vis-a-vis the Indonesian rupiah to 299.5/300.0 from 299.7/300.1 and rose versus the Philippine peso to 8.40/8.42 from 8.41/8.42 previously. It went down against the Singapore dollar to 3.5237/5273 from 3.5202/5234 previously. - Bernama

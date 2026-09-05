@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI tracks regional gains amid cautious trade
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-08-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/06/fbm-klci-tracks-regional-gains-amid-cautious-trade
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed higher for the second straight session on Wednesday, in line with regional gains, amid cautious sentiment and continued foreign selling. The 30-stock index rose 2.84 points or 0.18% to 1,541.48, after touching an intraday high of 1,542.89 and a low of 1,533.06 during the session. Despite the positive close on the index, losers outnumbered gainers on the broader market, with 626 decliners against 353 gainers, while 489 counters were unchanged.
+
+[NEWS_P002] Trading volume stood at 2.65 billion shares worth RM2.4bil. Dealers said investors continue to exhibit caution, with many likely to remain on the sidelines until there is more clarity from upcoming macroeconomic data and corporate earnings this month. Meanwhile, foreign institutional investors remained net sellers, which could dampen overall market sentiment and limit upside in the near term. According to Bursa Malaysia data, foreign investors sold RM318mil worth of local equities on Tuesday, while local institutions and retailers bought RM276mil and RM42mil, respectively.
+
+[NEWS_P003] PETRONAS Dagang surged RM1.16 to RM23, Hong Leong Bank rose 20 sen to RM19.30, Kuala Lumpur Kepong added 18 sen to RM19.28 and Chin Tek gained 13 sen to RM9.89. Among the losers on Bursa Malaysia, Heineken slid 50 sen to RM23.50, F&N fell 40 sen to RM28.60, Nestle lost 36 sen to RM89.44 and Carlsberg declined 18 sen to RM17.68. Meanwhile, the ringgit slipped 0.02% against the US dollar to 4.2295, and fell 0.12% against the Singapore dollar to 3.2857.
+
+[NEWS_P004] Around the region, MSCI’s Asia ex-Japan stock index slipped 0.13%. Regional markets mostly ended higher today. Japan’s Nikkei 225 rose 0.6% to close at 40,794.86, while South Korea’s Kospi was flat at 3,198.14. Hong Kong’s Hang Seng Index edged up 0.03% to 24,910.63, and Singapore’s Straits Times Index rose 0.45% to 4,227.70. China’s blue-chip CSI300 gained 0.24% to 4,113.49, while the Shanghai Composite Index advanced 0.45% to 3,633.99.

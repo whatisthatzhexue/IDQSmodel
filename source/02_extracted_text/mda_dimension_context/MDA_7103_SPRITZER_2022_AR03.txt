@@ -1,0 +1,188 @@
+document_id: MDA_7103_SPRITZER_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Annual Report 2022
+Spritzer Bhd 199301010611 (265348-V)
+FINANCIAL REVIEW
+Financial Highlights
+Financial year ended
+Change
+31.12.2022
+31.12.2021
+Amount
+%
+Revenue (RM’000)
+433,300
+331,026
+102,274
+Profit before taxation (RM’000)
+45,200
+30,345
+14,855
+Profit after taxation (RM’000)
+36,965
+24,239
+12,726
+Pre-tax margin (%)
+10.4
+9.2
+1.2
+Net margin (%)
+8.5
+7.3
+1.2
+Basic earnings per share (sen)
+17.6
+11.5
+6.1
+Diluted earnings per share (sen)
+17.0
+11.2
+5.8
+Dividend per share (sen)
+6.25
+4.50
+1.75
+Dividend payout ratio (%)
+(3)
+Current ratio (time)
+2.1
+3.2
+(1.1)
+Quick ratio (time)
+1.6
+2.7
+(1.1)
+Number of shares in issue (less treasury shares) (‘000)
+208,869
+209,969
+(1,100)
+Total equity (RM’000)
+493,480
+462,750
+30,730
+Net debt to equity ratio (%)
+-
+-
+-
+Total assets (RM’000)
+600,954
+557,947
+43,007
+Total liabilities (RM’000)
+107,474
+95,197
+12,277
+Net assets per share (RM)
+2.36
+2.20
+0.16
+Market capitalisation (RM’000)
+463,690
+440,934
+22,756
+Revenue, Results and Dividend
+The Group recorded its highest annual revenue of
+RM433.3 million in the financial year ended December
+31, 2022, a significant increase of 31% from the previous
+year’s revenue of RM331.0 million, mainly due to the
+increase in sales volume and better selling prices.
+[MDA_P003]
+The
+current year revenue is also 16% higher than our pre-
+pandemic annual revenue of RM374.4 million recorded
+in year 2019. The revenue growth is mainly attributed to
+our much higher sales recorded throughout the year after
+movement restrictions were relaxed and the reopening of
+all economic sectors following the Malaysia’s transition to
+endemic phase of COVID-19 in April 2022. Consequent to
+the higher revenue recorded, the profit before tax of the
+Group for the year ended December 31, 2022 was higher
+by 49% at RM45.2 million (2021: RM30.3 million) mainly
+due to economies of scale and better sales mix. Similarly,
+the profit after tax has also increased significantly by 53%
+to RM37.0 million (2021: RM24.2 million). In line with
+the higher earnings, the Group’s earnings per share and
+diluted earnings per share for the year stood at 17.6 sen
+and 17.0 sen (2021: 11.5 sen and 11.2 sen) respectively. The pre-tax profit margin has risen from 9.2% to 10.4%
+mainly due to economies of scale and favourable sales
+mix achieved in the current year. Similarly, the current
+year’s net margin has also risen from 7.3% to 8.5%.
+[MDA_P004]
+During the year, the Company has adopted a Dividend
+Policy which targets a dividend pay-out ratio of at least
+35% of its audited consolidated profit after taxation
+attributable to shareholders for each financial year, after
+excluding non-operating income that is capital in nature. In line with this Dividend Policy and after considering the
+cash flow requirement of the Group, the directors have
+proposed a first and final dividend of 6.25 sen (2021: 4.50
+sen) per ordinary share in respect of the financial year
+ended December 31, 2022. The current dividend pay-out
+ratio is at 36% (2021: 39%). Management Discussion and Analysis
+For Financial Year Ended December 31, 2022
+[MDA_P005]
+Annual Report 2022
+Spritzer Bhd 199301010611 (265348-V)
+Cash Flows
+RM’000
+RM’000
+Net profit after adjusting for depreciation and other items
+69,280
+53,888
+Working capital movements
+(23,580)
+(12,768)
+Income tax and interest received
+(4,959)
+(5,540)
+Cash flows from operating activities
+40,741
+35,580
+Capital investment
+(103,847)
+(24,752)
+Net investments in money market and fixed income funds
+65,448
+(2,500)
+Others
+(406)
+(527)
+Cash flows after investing activities
+1,936
+7,801
+Dividend paid
+(9,449)
+(9,449)
+Purchase of own shares
+(2,234)
+-
+Net proceeds from short term borrowings
+10,606
+2,256
+Repayment of term loan
+-
+(1,159)
+Others
+(1,192)
+(786)
+Net decrease in cash and cash equivalents
+(333)
+(1,337)
+The Group’s cash flows has remained healthy and we continued to generate positive cash flows from our business activities. In year 2022, the Group generated a net cash of RM40.7 million (2021: RM35.6 million) from its operating activities. Our
+net earnings continued to be supported by a corresponding operating cash flows.
+[MDA_P006]
+The cash outflows for the purchase of
+plant, property and equipment in 2022 amounted to RM103.8 million (2021: RM24.8 million) which included the payment
+for the purchase of land in Taiping and Yong Peng and the installation of a new raw water treatment plant in Taiping. The
+Company also paid the first and final dividend of 4.5 sen per share in respect of the financial year ended December 31,
+2021, amounting to RM9.4 million to its shareholders on June 23, 2022. During the year, the Company also spent RM2.2
+million for the purchase of its own shares. Despite the substantial cash outflows for the purchase of the land in Taiping and
+Yong Peng, the Group was able to sustain its net cash position throughout 2022. Financial Position and Gearing
+The financial position of the Group has been further strengthened with the net profit of RM37.0 million recorded during the
+year. Our total assets have increased by RM43.0 million or 8% from RM557.9 million on December 31, 2021 to RM601.0
+million on December 31, 2022. Our total liabilities have increased by RM12.3 million or 13% from RM95.2 million on
+December 31, 2021 to RM107.5 million on December 31, 2022.

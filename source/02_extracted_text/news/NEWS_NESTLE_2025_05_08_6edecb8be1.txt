@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI slips on profit-taking; tech stocks rally
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/08/fbm-klci-slips-on-profit-taking-tech-stocks-rally
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended lower as profit-taking outweighed bargain-hunting, bucking the trend of regional peers following yesterday’s gains. The market barometer slipped 7.16 points, or 0.46%, to close at 1,542.74—just above its intraday low of 1,541.45. Market breadth remained positive, with gainers outpacing losers by 528 to 410. Trading volume rose to 3.36 billion shares worth RM2.72bil, as profit-taking activity took the lead. Dealers noted that buying interest today was tempered by intermittent profit-taking.
+
+[NEWS_P002] They expect trading on Bursa Malaysia to remain cautious moving forward. Earlier, Bank Negara announced that it has maintained the overnight policy rate (OPR) at 3.00%, where it has remained since May 2023, in line with economists’ expectations. The central bank also announced it will lower the statutory reserve requirement (SRR) for banks by 100 basis points, from 2% to 1%, effective May 16, 2025. On Bursa Malaysia, Nestle tumbled 92 sen to RM86.52, Dutch Lady fell 40 sen to RM28.50, Ayer lost 38 sen to RM8 and Kuala Lumpur Kepong declined 26 sen to RM19.66.
+
+[NEWS_P003] Semiconductor and technology-related counters are among the gainers on Bursa Malaysia. Bursa Malaysia Technology Index rose 2.19% to 49.83 points. Malaysian Pacific Industries gained 34 sen to RM19.90, ViTrox rose 12 sen to RM3.42, UWC climbed 13 sen to RM2.23, Dufu Technology added 10 sen to RM1.24 and Vstecs closed up 11 sen to RM3.06, On the forex market, the ringgit was down 0.88% against the greenback to 4.2770. Elsewhere in Asia, Japan’s Nikkei Stock Average rose 0.41%, Hong Kong’s Hang Seng Index closed up 0.37%, South Korea’s Kospi gained 0.22% and China’s CSI 300 Index advanced 0.56%.

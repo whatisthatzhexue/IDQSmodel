@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI jumps on renewed interest in blue chips
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-06-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/04/fbm-klci-jumps-on-renewed-interest-in-blue-chips
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI climbed over the early session as bargain-hunting took over following the end of the first-quarter corporate results period. The key index breezed past the 1,600 psychological resistance to enter the lunch break 11.27 points higher at 1,607,95. The broader market, however, was balanced with 566 gainers to 557 decliners while 427 stocks were unchanged. Total trading turnover was 2.76 billion shares changing hands for RM2.01bil.
+
+[NEWS_P002] The financial services and plantations sectors were the most improved on the market. Leading blue chips included CIMB up 11 sen to RM6.95, Maybank rising six sen to RM9.99, Kuala Lumpur Kepong gaining 36 sen to RM21.22 and SD Guthrie surging 14 sen to RM4.39. Aluminium producer Press Metal climbed 19 sen to RM5.79. Meanwhile, top actives were JCY surging six sen to 58.5 sen, MYEG unchanged at RM1.10 and SNS Network up 4.5 sen to 65 sen. Engineering solutions provider Kawan Renergy continued its rally for a fourth straight day since its debut, rising five sen to 69 sen.
+
+[NEWS_P003] Key regional markets, however, were not as bullish following the release of US manufacturing data that showed the world's largest economy could be slowing. Japan's Nikkei dropped 0.14% to 38,869 and China's composite index slid 0.6% to 3,077. Singapore's Straits Times index shed 0.14% to 3,344. Hong Kong's Hang Seng rose 0.21% to 18,441.

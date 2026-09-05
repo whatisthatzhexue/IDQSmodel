@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI falls below 1,600 as Fed rate cut fails to lift sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/18/fbm-klci-falls-below-1600-as-fed-rate-cut-fails-to-lift-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI opened lower and slipped below the key 1,600 level this morning, despite the U.S. Federal Reserve’s widely expected interest rate cut. The FBM KLCI fell 11.86 points, or 0.74%, to 1,599.84 at 9.11 am, after opening 4.84 points lower at 1,606.86, dragged down by PETRONAS-linked counters. Among the losers, Nestle slid 84 sen to RM97.06, PETRONAS Dagangan fell 72 sen to RM22.26, Tenaga Nasional lost 10 sen to RM13.34 and PETRONAS Gas declined 100 sen to RM18.20.
+
+[NEWS_P002] On the other hand, Allianz-PA jumped 74 sen to RM18.40, Allianz rose 50 sen to RM19, Formosa Prosonic gained 18 sen to RM1.63, CI Holdings added 16 sen to RM2.74 and Kuala Lumpur Kepong climbed 16 sen to RM20.24. Wall Street closed mixed overnight after the Federal Reserve cut rates by 25 basis points, with chair Jerome Powell flagging labour market weakness. The Dow Jones rose 0.57% to 46,018.32, while the S&P 500 eased 0.10% to 6,600.35 and the Nasdaq fell 0.32% to 22,261.33.
+
+[NEWS_P003] Berjaya Research Sdn Bhd is maintaining a positive bias on the local bourse, underpinned by the U.S. Federal Reserve’s overnight decision to cut interest rates by 25 basis points, a move that was largely in line with market expectations. “A more accommodative monetary stance by the Fed would likely improve global liquidity conditions, bolstering risk appetite and potentially channel renewed foreign fund inflows into emerging equities, which was noticeable yesterday, with Malaysia set to benefit from its relatively attractive valuations and stable earnings outlook,” the research house said.
+
+[NEWS_P004] From a technical standpoint, Berjaya Research said the key index may attempt to stabilise above the 1,600 psychological level, with immediate resistance at 1,617 points and the next hurdle at 1,620 points. On the downside, support is pegged at 1,585 points, with stronger footing around 1,580 points. “The broader market is expected to stay supported by rotational plays across small-to-mid cap stocks, underpinned by healthier liquidity and improving risk sentiment,” Berjaya Research said.
+
+[NEWS_P005] Meanwhile, Rakuten Trade noticed that foreign funds have turned net buyers, a positive sign for the local bourse. “As such, we expect the index to trend between the 1,610-1,625 range today. Meanwhile, the ringgit has strengthened against the US dollar at 4.18 or almost a 1-year high,” it added.

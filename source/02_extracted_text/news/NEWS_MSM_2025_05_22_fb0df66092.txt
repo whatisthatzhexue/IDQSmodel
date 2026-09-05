@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI sinks to intraday low as banks drag
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-05-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/22/fbm-klci-sinks-to-intraday-low-as-banks-drag
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended at its intraday low on Thursday, dragged down by selling in banking stocks amid weak regional markets. The FBM KLCI fell 17.78 points, or 1.15%, to 1,527.02, marking its sixth straight session of losses. The index had earlier touched an intraday high of 1,541.46. The broader market sagged, with decliners outnumbering gainers 660 to 298, as 2.78 billion shares worth RM2.15 billion changed hands. F&N, the top loser on Bursa Malaysia, fell 24 sen to RM27.24.
+
+[NEWS_P002] Malaysian Pacific Industries lost 20 to RM18, MSM slid 19 sen to RM1.20, and KLCC declined 19 sen to RM8.70. Top gainers include Heineken, which rose 50 sen to RM28.30, Dutch Lady gained 44 sen to RM30.10, Nestle added 34 sen to RM80, and United Plantations climbed 22 sen to RM22.88. Among the banks, Maybank fell 18 sen to RM9.82, CIMB lost 15 sen to RM6.85, Public Bank declined 13 sen to RM4.30, Hong Leong Bank slid 22 sen to RM19.78, while RHB ended flat at RM6.71.
+
+[NEWS_P003] On the forex market, the ringgit strengthened by 0.26% against the US dollar to 4.2600, and appreciated by 0.25% against the Singapore dollar to 3.3009. Around the region, MSCI's Asia ex-Japan stock index was weaker by 0.93%. Japan’s Nikkei 225 ended down 0.84% at 36,985.87, while South Korea’s Kospi finished 1.22% lower at 2,593.67. Hong Kong’s Hang Seng index closed down 1.19% at 23,544.31. China’s blue-chip CSI 300 index ended down 0.06% at 3,913.86, while the Shanghai Composite Index lost 0.22% to 3,380.19.

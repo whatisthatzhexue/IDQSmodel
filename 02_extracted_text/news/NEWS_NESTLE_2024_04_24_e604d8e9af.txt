@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI remains in bullish mode on US corporate results beat
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-04-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/24/fbm-klci-remains-in-bullish-mode-on-us-corporate-results-beat
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The domestic market is expected to maintain its upward trajectory as it builds on its ongoing bullish momentum, although gains will be capped by investors quick to cash out of the latest rally. At the start of trading, the FBM KLCI was up 3.85 points to 1,567.50, affirming the continuation of a rally. Malaysia's blue chips leapt higher with banking stocks continuing to lead the market higher. CIMB rose 11 sen to RM6.78, Ambank added three sen to RM4.21, RHB climbed three sen to RM5.56, Maybank added two sen to RM9.84 and Public bank gained two sen to RM4.23.
+
+[NEWS_P002] Consumer giant Nestle also maintained its rally, rising 10 sen to RM126.50, while PETRONAS Dagangan added 12 sen to RM21.72 and PETRONAS Gas rose 12 sen to RM18.20. Bursa Malaysia has been tracking a return in positive investor sentiment in global markets as first-quarter US corporate earnings have started to come into the picture. Overnight, Wall Street racked up impressive gains following the release of above-estimate results from the likes of Spotify, UPS and GE Aerospace.
+
+[NEWS_P003] All three benchmarks moved higher - the Dow Jones rose 0.7% to 38,503.60, the S&P500 gained 1.2% to 5,070.55 and the Nasdaq surged 1.6% to 15,696.64. "While potential further upsides could be propelled by the positive developments on Wall Street overnight, we reckon that gains will be capped by the recent strong run that is enticing quick profit-taking activities. "The lower liners are also enjoying a better run over recent days on rotational plays," said Apex Securities Research in its market outlook.
+
+[NEWS_P004] "We expect the technology sector to remain upbeat, premised to the positive guidance from Texas Instruments. "Also, the recovery in Brent oil prices may lift trading interests within oil and gas stocks." In its own report, Malacca Securities Research maintained its view that the KL20 summit has ramped up buying interest in technology stocks amid policymaker promises that Malaysia will become the chip powerhouse in Southeast Asia. The Bursa Malaysia Technology index rose 0.66% or 0.42 points to 63.60, extending its rebound for a second consecutive day.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI tracks regional losses; ringgit strengthens to 4.18
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/31/fbm-klci-tracks-regional-losses-ringgit-strengthens-to-418
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended lower on Friday, tracking regional weakness, while the ringgit appreciated to 4.18 against the US dollar. At 5pm, the FBM KLCI ended 5.05 points lower, or 0.31%, at 1,609.15 after touching an intraday high of 1,615.10. For the week, the benchmark index slipped 0.25%, or 4.12 points, while for October it eased 0.17%, or 2.73 points. There were 470 gainers, 563 losers and 510 counters traded unchanged on the Bursa Malaysia.
+
+[NEWS_P002] Trading volume was brisk at 3.54 billion shares valued at RM2.7bil. British American Tobacco led the losers on Bursa Malaysia, plunging RM1.04, or 18.44%, to RM4.60 — its lowest in three months. It was the stock’s steepest full-day decline since Sept 1, 1998. Other decliners included Chin Teck Plantations , which slid 70 sen to RM11.04, PPB Group, which fell 46 sen to RM11.14, and Kuala Lumpur Kepong, which declined 38 sen to RM20.50. Among the gainers, Nestle surged RM2.50 to RM113, Dufu added 30 sen to RM2.20, Sarawak Oil Palms rose 21 sen to RM3.73 and United Plantations gained 16 sen to RM24.80.
+
+[NEWS_P003] On the forex market, the ringgit strengthened 0.2% against the US dollar to 4.1873 and inched up 0.38% against the Singapore dollar to 3.2184. Meanwhile, stock market data showed that foreign investors continued to offload equities on Bursa Malaysia, with net sales of RM124mil. Local institutions and retailers were net buyers at RM95mil and RM29mil, respectively. Among the key regional markets: Japan’s Nikkei 225 closed up 2.12% to 52,411.34; Hong Kong’s Hang Seng Index fell 1.43% to 25,906.65; China’s CSI300 Index closed down 1.47% to 4,640.67; Taiwan’s Taiex fell 0.19% to 28,233.35; South Korea’s Kospi added 0.5% to 4,107.50 and; Singapore’s Straits Times Index declined 0.2% to 4,428.62 points.

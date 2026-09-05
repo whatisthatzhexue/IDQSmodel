@@ -1,0 +1,16 @@
+[TITLE]
+United Malacca 2Q net profit surges to RM55.37mil on higher CPO, FFB output
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2025-12-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/18/united-malacca-2q-net-profit-surges-to-rm5537mil-on-higher-cpo-ffb-output
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: United Malacca Bhd (UMCCA) posted a net profit of RM55.37 million in the second quarter (2Q) ended Oct 31, 2025, from RM30.92 million in the same period last year. In a filing with Bursa Malaysia today, UMCCA said revenue for the quarter rose to RM240.46 million from RM183.44 million in the same period a year ago. The group said its Malaysian operations recorded a plantation profit of RM55.5 million, with an earnings before interest, taxes, depreciation and amortisation (EBITDA) of RM66.4 million, from RM47.9 million last year.
+
+[NEWS_P002] The higher EBITDA in the current quarter was attributed to higher fresh fruit bunches (FFB), higher average crude palm oil (CPO) and palm kernel (PK) prices and the lower unit cost of production incurred. Its Indonesian production recorded a plantation profit of RM15.0 million with a recorded EBITDA of RM19.1 million. This represents a 120 per cent increase compared to last year’s RM8.7 million, primarily due to the higher average PK prices, reduced production costs, and an increase in FFB production.
+
+[NEWS_P003] The company expects FFB production to increase in the financial year ending April 30, 2026 (FY2026) due to a better age profile and an improvement in operational efficiency. "Management’s priority remains focused on improving labour productivity, mechanisation initiatives and cost efficiency as well as increasing oil yield. "Assuming CPO prices remain at the current level, the group expects satisfactory results for FY2025,” said UMCCA. - Bernama

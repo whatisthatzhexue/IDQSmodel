@@ -1,0 +1,115 @@
+document_id: MDA_4065_PPB_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_4065_PPB_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 131, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+Managing director’s review
+Managing director’s review
+NAVIGATING THE YEAR AND BEYOND
+PPB Group Berhad remained resilient and committed
+to sustainable growth to navigate the challenging year. As a conglomerate engaged in diverse business activities,
+we leveraged on the talents and capabilities within the Group
+to drive business momentum despite market uncertainties. Moving forward, we will continue to align our efforts with our
+corporate mission and vision to steer the Group towards
+sustained growth and success. We will explore opportunities
+beyond the norm to improve performance and enhance
+operational efficiency. Dear Shareholders,
+In
+2023,
+Malaysia
+achieved
+economic
+growth of 3.7% amidst a challenging
+global
+landscape
+marked
+by
+weak
+demand. Domestic trade contracted by
+7.3% while the manufacturing sector saw
+modest growth of 0.8%. A slowing down of
+domestic consumer spending was notable,
+driven by concerns over the escalating
+cost of living. Local businesses faced
+major headwinds, including heightened
+competition, disruptions in the supply
+chain, rising costs and labour shortages in
+certain sectors.
+[MDA_P002]
+Nevertheless, amid these economic and
+business challenges, the Group delivered
+satisfactory performance in FY2023. Group
+revenue for FY2023 decreased to RM5.72
+billion (FY2022: RM6.26 billion) primarily
+due to a strategic decision to divest our
+Indonesia flour business. Although our
+pre-tax profit declined to RM1.49 billion in
+FY2023 (FY2022: RM2.25 billion) due to
+the lower contribution from our 18.8%
+associate, Wilmar International Limited
+(“Wilmar”), the Group’s core business
+segments witnessed an overall improvement
+in profit before tax. GRAINS & AGRIBUSINESS SEGMENT
+The Grains & Agribusiness segment is the major contributor
+to the Group’s revenue. In FY2023, it contributed 75% of
+the Group’s revenue and 15% of its profit. This segment
+comprises flour milling, animal feed manufacturing and
+livestock farming. FFM Berhad (“FFM”), an 80% subsidiary of PPB, owns and
+operates seven flour mills of which five are located in Malaysia
+and two in Vietnam. In Thailand, the Group operates a 670
+mt/ day flour mill through its 43.4% associate, Kerry Flour Mills
+Limited. In China, FFM has 20% interest in eight associates
+which have a combined flour milling capacity of 18,950 mt/ day.
+[MDA_P003]
+FFM also owns and operates five feed mills across
+Malaysia, with a total milling capacity of 66,000 mt/ month. The Group’s livestock farming operations comprise a layer farm
+and two breeder farms in Malaysia. The production capacity of
+the layer farm is about 20.5 million eggs per month, while the
+breeder farms have a combined production capacity of about
+2.80 million chicks per month. Flour Milling
+In FY2023, lower revenue was recorded. This was mainly
+due to the disposal of our Indonesia mill which contributed
+eight months of revenue. The increase in the division’s
+operating profit in FY2023 was mainly due to a more stable
+wheat commodity market as compared to the previous year. During the year, we strategically divested our Indonesian
+flour operations to the Wilmar group. This was undertaken
+to consolidate our flour milling business in Indonesia within
+Wilmar’s larger network of operations, leveraging on its
+resources and market presence for greater distribution
+efficiency and market share. Despite this transition, the Group
+will maintain an indirect involvement in the Indonesia flour
+milling business through its interest in Wilmar.
+[MDA_P004]
+In FY2024, FFM is set to acquire a 3.92-acre industrial land
+in Johor to enhance our warehousing facility and distribution
+efficiency. Looking ahead to 2024, we plan to strengthen the market
+position of our core brands. We will continue our trajectory
+of market expansion to grow our institutional bulk clientele,
+strengthening market share while capitalising on new market
+opportunities. We remain cognisant of market volatility in
+terms of wheat pricing, supply chain disruptions, freight rates,
+currency exchange rates as well as the very competitive
+market. Our business strategies are carefully devised and
+closely monitored to mitigate these risk factors and to
+remain resilient in the face of market dynamics. Animal Feed Manufacturing
+The Animal Feed Manufacturing division operates under
+increasingly intense market and price competition compounded
+by industry consolidation, integration of market players and
+contraction of customer base resulting from high-volume
+customers switching to home or toll mixing. There are also
+the added challenges of potential disease outbreaks, labour
+shortage, fluctuating costs, and quality of raw materials.
+[MDA_P005]
+Moving forward, the division is committed to business
+sustainability and growth through operations efficiency and
+innovation practices. We will continue exploring various options
+to mitigate the impact of the poultry integration by diversifying
+the feed products to other segments such as ruminant feed. The division will also explore new opportunities to increase
+volumes with existing clientele as well as develop new
+customer relationships, thus expanding our customer base. Flour mill complex and wheat silos in FFM Grains & Mills, Pasir Gudang
+PPB GROUp BERHAD
+ANNUAL REpORT 2023

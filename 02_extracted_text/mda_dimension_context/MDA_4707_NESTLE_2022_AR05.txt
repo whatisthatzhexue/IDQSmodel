@@ -1,0 +1,79 @@
+document_id: MDA_4707_NESTLE_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 199.628, "paragraph_count": 13, "paragraph_length_distribution": {"max": 1174, "mean": 1002.538, "min": 812}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+FINANCIAL REVIEW
+The year shaped up to be one of solid recovery post-COVID lockdowns,
+amidst global volatile conditions and commodities inflation. We sharpened
+our focus to keep upholding the trust placed in us by Malaysians and meet
+their expectations for taste, quality and nutrition, while continuing to invest
+in our brands to keep our bonds with the Rakyat strong, contemporary
+and relevant. At the same time, we worked hard to identify savings and
+efficiencies that helped us to cushion the impact of higher commodity costs,
+moderating the quantum of the unavoidable price increases. Simultaneously,
+we further stepped up our ESG agenda, with another year of solid progress
+in our sustainability targets. With this determined approach, our sales reached its highest growth in
+many years, to RM6.7 billion. This was contributed both by domestic and
+export sales, which rose by 12.9% and 29.3% respectively.
+[MDA_P004]
+Our portfolio foundations remain solid and we are
+present in the right categories and channels to continue driving resilient and profitable growth. This was supported by demand generation initiatives to scale up the reach of our core products,
+while creating excitement for our pipeline of product innovations, which served to boost sales in
+key categories during the year. Innovation Continues to Play A Key Role to Drive Growth
+In addition to constant efforts to ensure improved availability of core products to our customers
+across all channels, innovating to meet emerging consumer needs played again a significant role. The growing awareness on the health and environmental impact of diets excessively based on
+meat continues to support our efforts in the plant-based space, both with HARVEST GOURMET
+as well as Dairy Free drinks under the MILO and NESCAFÉ brands. With the launch of HARVEST
+GOURMET Plant-Based Nuggets, we expanded the reach of the category, while we continued
+to establish solid foundations to grow consistently and sustainably in this space, in line with our
+aspiration to make our PBMS a mainstream option accessible by large segments of consumers.
+[MDA_P007]
+MAGGI continued to empower women through our Wanita Cukup Berani
+campaign while building proudly on the nation’s culinary heritage through MAGGI SAH Malaysia. During Ramadan, KIT KAT donated part of its sales revenue to charities supporting the needy and
+NESCAFÉ proudly advanced our NESCAFÉ Grown Respectfully programme as part of our vision to
+support farmers and put Malaysia back on the global coffee map. Malaysians cheering for our MILO truck at the National Merdeka Parade 2022. Iman, our Nestlé Cares volunteer alongside our a representative of our NGO partner, Empire Project helping
+to pack wholesome products to be donated to B40 communities in conjunction with Ramadan. Scan me
+Doing Well While Doing Good: Advancing Our ESG Agenda
+For years, our CSV programmes have built on the idea that we can generate solid financial returns
+while contributing positively to society in many fronts.
+[MDA_P010]
+Our ESG progress through the year is well-detailed in our
+Nestlé in Society Report 2022. Management Discussion and Analysis
+Building ‘A Fit for Purpose’ Organisation to Win in The 21st Century
+With the end of the lockdowns and the normalisation post-pandemic, we have
+been able to return to more “normal” ways of working, with some clearly emerging
+trends. On the one hand, the very strong need to re-engage and re-connect with
+colleagues and teams as well as the expectation to find purpose and meaning in
+one’s activity; on the other hand, the clear demand to improve work-life balance
+and increased flexibility and more “freedom within framework”. In the later part of
+2022, an internal survey confirmed these trends as well as the demand for more
+agile processes, less bureaucracy and more communication and visibility on
+career development. On the basis of this feedback, we are working to address a
+number of these expectations, with some positive early feedback as we advance
+through the process. Diversity and Inclusion remain very high in our priorities.
+[MDA_P013]
+110 Years in Malaysia: Renewing Our Commitment, Investing in The Future
+Nestlé has been unstoppably investing in Malaysia, preserving and expanding
+our operational capabilities, though thick and thin; before, during and after
+COVID-19. The inauguration of our PBMS facility in Shah Alam in 2021 was
+followed in 2022 by significant capacity expansion projects in both our Batu Tiga
+MAGGI and Chembong Ice Cream factories, amongst others. In 2023, we will
+start a new round of projects that will bring approximately RM1 billion of capital
+expenditure (CAPEX) over the next few years. Through these investments, we will
+maintain the competitiveness of our factories and support the sustainable growth
+of the business. We thank the Nestlé Group worldwide for renewing their trust in
+Malaysia as a fundamental base for manufacturing and exports across Asia and
+We will continue to
+drive the Company
+forward, staying true
+to our purpose and
+making a positive
+difference in the world
+and in Malaysia as a
+force for good. Team Nestlé celebrating with the community of KITAR Recycling Programme.

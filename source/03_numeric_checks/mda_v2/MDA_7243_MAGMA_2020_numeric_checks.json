@@ -1,0 +1,33 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 51.026081,
+      "current_value": 17256.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P002]",
+      "metric": "margin",
+      "note": "margin: stated 75.40%, calculated 51.03% from profit/revenue, status material_discrepancy.",
+      "previous_value": 33818.0,
+      "source_text": "The Company had changed its financial year end from 31 December to 30 June during the current financial period ended 30 June 2020 (“FPE 2020”). The change in the current financial period was made to facilitate more time for our External Auditors to assess the Purchase Price Allocation exercise arisi",
+      "stated_pct": 75.4,
+      "status": "material_discrepancy"
+    }
+  ],
+  "document_id": "MDA_7243_MAGMA_2020",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": false,
+  "internal_check_notes": [
+    "margin: stated 75.40%, calculated 51.03% from profit/revenue, status material_discrepancy."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 70,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

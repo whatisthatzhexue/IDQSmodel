@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI rebounds; Prolintas falls 3.85% amid probe
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-06-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/26/fbm-klci-rebounds-prolintas-falls-385-amid-probe
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI bounced back on Wednesday, ending higher after three days of losses, as investors snapped up bargains after the recent sell-off. At 5pm, the market bellwether rose 5.57 points or 0.35% to 1,590.95. The market traded within a range of 11.66 points between an intra-day high of 1,593.42 and a low of 1,581.76 during the session. There were 674 gainers, 433 losers and 465 counters traded unchanged on the Bursa Malaysia. Turnover stood at 4.73 billion shares valued at RM3.2bil.
+
+[NEWS_P002] Dealers said the local bourse saw modest gains as bargain-hunting activities emerged after the recent selloffs. Chin Hin Group Property jumped 14%, or 32 sen to RM2.61, emerging as the top gainer on Bursa Malaysia. Malaysian Pacific Industries gained 26 sen to RM38.86, Hong Leong Financial Group rose 20 sen to RM17.40 and VSTECS added 20 sen to RM4.20. Nestle slid RM1 to RM121.50, Kuala Lumpur Kepong lost 30 sen to RM20.68, Dutch Lady fell 22 sen to RM35.80 and KESM declined 16 sen to RM7.02.
+
+[NEWS_P003] Prolintas Infra Business Trust closed down 3.5 sen, or 3.85% to 87.5 sen with 31.65 million shares traded. Projek Lintasan Kota Holdings Sdn Bhd, in a statement, acknowledged that its personnel were remanded by the Malaysian Anti-Corruption Commission (MACC) in connection with an ongoing construction investigation. Meanwhile, regional markets closed higher. Hong Kong’s Hang Seng Index rose 0.09% to settle at 18,089.93, while China’s Shanghai Composite was up 0.76% to 2,972.53.
+
+[NEWS_P004] South Korea’s Kopsi also rose 0.64% to 2,792.05 and Japan’s Nikkei 225 closed up 1.26% to 39,667.07.

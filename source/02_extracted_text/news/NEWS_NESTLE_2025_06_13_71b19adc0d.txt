@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia opens lower, bucking Wall Street gains on weak sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/13/bursa-malaysia-opens-lower-bucking-wall-street-gains-on-weak-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia opened lower on Friday, bucking overnight gains on Wall Street, as a lack of fresh catalysts and waning risk appetite weighed on investor sentiment. The FBM KLCI fell 8.10 points, or 0.53%, to 1,518.56 at 9:18 AM, after opening 4.15 points lower at 1,522.47. Overnight, the S&P 500 climbed 0.38% to end the session at 6,045.26 points. The Nasdaq gained 0.24% to 19,662.49 points, while the Dow Jones Industrial Average rose 0.24% to 42,967.62 points.
+
+[NEWS_P002] On the local bourse, Nestle tumbled 88 sen to RM75.50, Malaysian Pacific Industries slid 74 sen to RM20.28, Carlsberg fell 16 sen to RM19.46 and MISC lost 15 sen to RM7.55. Among the gainers, Hengyuan Refining Co rose 17 sen to RM1.89, Hong Leong Financial Group added eight sen to RM16.72 and Petron Malaysia Refining & Marketing gained 10 sen to RM3.84. Inter-Pacific Research noted that although the FBM KLCI continues to edge higher, market conditions remain largely insipid, lacking strong buying catalysts, as investors await further details on the U.S.-China trade developments.
+
+[NEWS_P003] The research house said that until more clarity emerges, the key index may continue to dither and remain largely rangebound. This is due to a lack of fresh leads, compounded by persistently low market interest, despite recent attempts to break above the upper band of the rangebound trend around the 1,525 level. “Consequently, further upsides could still be a challenge as investor’s wait-and-see stance is likely to prevail, which could also see mild bouts of profit taking ahead of the weekend.
+
+[NEWS_P004] “For now, the supports remain at 1,520 and 1,516 points, while the hurdles are at 1,530 and 1,535 points, respectively,” Inter-Pacific said. Meanwhile, Rakuten Trade said the FBM KLCI ended marginally higher on Thursday as selective accumulation on blue chips continues.

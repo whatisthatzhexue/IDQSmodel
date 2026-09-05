@@ -1,0 +1,18 @@
+[TITLE]
+Magma Group sees positive hospitality outlook amid challenges
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2024-08-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/30/magma-group-sees-positive-hospitality-outlook-amid-challenges
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Magma Group Bhd believes the hospitality industry is set for positive developments in the near term, driven by increased consumer confidence, pent-up demand for travel, and adaptive business models. However, Magma noted that the industry faces several challenges, including inflationary pressure, evolving consumer preferences, and the need for sustainable practices. Magma narrowed its net loss to RM1.83mil in the second quarter ended June 30 (2Q24) compared with RM3.02mil in the year-ago quarter.
+
+[NEWS_P002] Revenue surged to RM6.9mi against RM4.9mil last year. In the first half to June 30, the hospitality group posted a smaller net loss of RM6.1mil against RM6.6mil previously while revenue rose to RM13.9mil from RM12.3mil last year. Group Managing Director Datuk Seri Thomas Liang Chee Fong said that the second-quarter results reflect the positive progress being made, especially in hotel operations. “We believe that the increased consumer confidence, pent-up demand for travel and adaptive business models will drive positive developments for the industry in the near term, and we remain focused on enhancing our offerings to further capitalise on the recovering tourism market.
+
+[NEWS_P003] We are committed to maintaining this momentum and continuing to improve our financial performance in the coming quarters." Looking ahead, Magma remains focused on its core operations within the hospitality sector, leveraging the strengths of its flagship hotels, including Impiana KLCC Hotel, Impiana Hotel Ipoh, Impiana Hotel Senai, and WOLO Kuala Lumpur. The company is committed to enhancing occupancy rates and average room rates (ARR), capitalising on the anticipated increase in tourist arrivals and executing ongoing strategic initiatives.
+
+[NEWS_P004] These efforts are aimed at driving sustainable growth and delivering long-term value to shareholders.

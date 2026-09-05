@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI ends slightly higher at midday on cautious sentiment
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2025-05-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/28/fbm-klci-ends-slightly-higher-at-midday-on-cautious-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FTSE Bursa Malaysia KLCI (FBM KLCI) ended slightly higher at midday as bargain-hunting was offset by cautious sentiment amid persistent global uncertainties. At 12.30 pm, the FBM KLCI increased 0.34 of a point to 1,526.50 from Tuesday’s close of 1,526.16. The benchmark index opened 3.98 points higher at 1,530.14, and fluctuated between 1,524.04 and 1,532.80 throughout the morning session. In the broader market, decliners led gainers 418 to 349, with 468 counters unchanged, 1,161 untraded and 50 suspended.
+
+[NEWS_P002] Turnover stood at 1.49 billion units worth RM931.68 million. Hong Leong Investment Bank Bhd said it expects the FBM KLCI to remain volatile in the near term as investor sentiment stays cautious amid the earnings peak this week and continued foreign net outflows. "Concerns over a tariff-driven global slowdown continue to weigh on market confidence, posing risks to Malaysia’s economic momentum and corporate earnings,” it said in a note today. That said, downside risks may be mitigated by encouraging remarks from Investment, Trade and Industry Minister Tengku Datuk Seri Zafrul Abdul Aziz on potential US-Malaysia trade deal prospects and strategic collaboration opportunities with ASEAN, Gulf Cooperation Council and China, it added.
+
+[NEWS_P003] The investment bank said key weekly support is established between the 1,500 and 1,519 levels, while resistance is expected to emerge within the 1,550 to 1,570 range. Among heavyweight counters, Maybank, CIMB and IHH Healthcare were flat at RM9.85, RM6.90 and RM6.90 respectively, while Public Bank fell three sen to RM4.35 and Tenaga Nasional rose 10 sen to RM14.10. As for active stocks, Permaju went down half-a-sen to 1.5 sen, Sapura Energy was flat at four sen, while Velesto , Tanco and Magma added one sen each to 17.5 sen, RM1.02 and 43 sen respectively.
+
+[NEWS_P004] On the index board, the FBM Emas Index added 5.64 points to 11,402.70, the FBMT 100 Index was 7.97 points better at 11,168.34, but the FBM ACE Index erased 20.16 points to 4,553.44. The FBM Emas Shariah Index increased 13.46 points to 11,367.58 and the FBM 70 Index gained 33.50 points to 16,256.81. Across the sectors, the Financial Services Index shed 38.18 points to 18,010.50, the Industrial Products and Services Index inched down 0.78 of-a-point to 152.66, the Energy Index added 3.89 points to 702.55, while the Plantation Index fell 75.63 points to 7,301.01.
+
+[NEWS_P005] - Bernama

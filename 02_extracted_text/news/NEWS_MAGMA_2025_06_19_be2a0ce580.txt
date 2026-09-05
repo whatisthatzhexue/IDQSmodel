@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI opens sideways after US rate hold
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2025-06-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/19/fbm-klci-opens-sideways-after-us-rate-hold
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: There was little to move the Malaysian market barometer on Thursday after the US Federal Reserve announced its widely expected decision to keep the interest rate unchanged, followed by a flat performance on Wall Street. The domestic benchmark index eked out a 1.05-point gain to 1,512.94 at the start of trading, suggesting investors remained stolidly in wait for catalysts. TA Securities maintained its view that the local market will continue to consolidate with a downside bias.
+
+[NEWS_P002] "Investors are likely to hold back from taking significant positions, as they await greater clarity regarding US trade deals and potential American involvement in the Israel-Iran conflict," it said in its market commentary. "Immediate index support stays at 1,490, with stronger supports found at 1,465 followed by 1,444. Immediate resistance is maintained at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead." Commenting on the market's low trading volume, Rakuten Trade said it was reflective of investor caution as they avoided long positions due to persistent global risks and volatile market conditions.
+
+[NEWS_P003] "We foresee trading will remain muted due to lack of catalysts and heightened market risks. Hence, we anticipate the benchmark index to trend within the range of 1,500-1,520 for today," it said in its daily note. Leading blue-chip laggards included PETRONAS Gas down 14 sen ot RM18.02, PETRONAS Chemicals shaving four sen to RM3.24 and Public Bank down three sne to RM4.21. Of actives, HLT was down 0.5 sen to five sen, Magma rise 1.5 sen to 47.5 sen and SNS gained 1.5 sen ot 55 sen.

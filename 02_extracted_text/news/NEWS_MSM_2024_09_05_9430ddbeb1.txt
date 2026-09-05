@@ -1,0 +1,16 @@
+[TITLE]
+Trading ideas: IHH, YTL Power, MSM, KIP REIT, Central Global, Elridge, Jentayu, Northport, Ocean Vantage
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-09-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/05/trading-ideas-ihh-ytl-power-msm-kip-reit-central-global-elridge-jentayu-northport-ocean-vantage
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. IHH Healthcare Bhd said it is acquiring the 600-bed Island Hospital in Penang for RM3.9bn in cash from Comprehensive Care Sdn Bhd. YTL Power International Bhd has confirmed that its subsidiary YTL Communications Sdn Bhd has been questioned by the Malaysian Anti-Corruption Commission about the Ministry of Education's 1BestariNet project, valued at RM4bn. MSM Malaysia Holdings Bhd said it was not impacted by the recent crop fire in key producer Brazil, as it hedged all its raw sugar requirements under the wholesale segment in 2024.
+
+[NEWS_P002] KIP Real Estate Investment Trust has completed the asset enhancement initiatives for its KIPMall Senawang in Negeri Sembilan. Central Global Bhd has bagged a RM616.4mn contract for the Pan Borneo Highway Sabah Phase 1B project. Elridge Energy Holdings Bhd’s wholly-owned subsidiary, Bio Eneco Sdn Bhd has entered into a MoU with PT Orion APAC Indonesia for the sale and purchase of 150,000 tonnes of palm kernel shells annually over a three-year period.
+
+[NEWS_P003] Jentayu Sustainables Bhd said it has received a letter of notification from the Energy Commission of Sabah for Project Oriole — a 162MW run-of-river hydropower plant in the state. Northport (M) Bhd recorded its highest-ever monthly container throughput for the second consecutive month, handling 365,558 20 TEUs in August 2024, up from 354,548 TEUs in July 2024. Loss-making Ocean Vantage Holdings Bhd announced the emergence of three new Sarawak-based substantial shareholders, following the disposal of a collective 23.3% stake by executive directors Martin Philip King Ik Piau and Yau Kah Tak, and one other.

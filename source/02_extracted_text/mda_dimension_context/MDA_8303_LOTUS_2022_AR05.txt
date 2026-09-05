@@ -1,0 +1,32 @@
+document_id: MDA_8303_LOTUS_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 96.363, "paragraph_count": 43, "paragraph_length_distribution": {"max": 1196, "mean": 251.721, "min": 31}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Overview of Business and Operations
+Our holding company, Lotus KFM Berhad (“LKFM” or "the Company") is principally engaged in flour milling and trading
+in its related products. The two main sources of revenue comprise of milling of wheat flour and trading of tapioca flour. Founded in 1984 and known as Kuantan Flour Mills (KFM) then, the Company grew rapidly in the next 25 years before
+experiencing headwinds that affected its operation in 2015, when the Company was classified as an affected listed issuer
+under paragraph 2.1 of Practice Note 17 ("PN17"). On 28 November 2019, it had successfully completed its regularisation
+plan which was approved by Bursa Malaysia Securities Berhad (“Bursa Securities”) on 11 January 2019. Following a successful regularisation plan on 28 November 2019 which was approved by Bursa Securities in early 2019,
+the Company then appointed several new Board members to strengthen its Board with diversified talent in skill, expertise
+and experience. The Company renewed its marketing strategy to continue re-captured its flour market share since the
+re-activation of its business operations.
+[MDA_P011]
+flour and starch. The Group will continue to develop a new market strategy to capture a new market, particularly on
+[MDA_P022]
+The stability of imported raw material prices remains a key challenge for all the industry players. This is an inherent
+[MDA_P033]
+Flour is mainly used in food manufacturing industries and food services operations. Any adverse performance
+[MDA_P043]
+Further, we would like to take this opportunity to welcome our new board members, Mr. Wong Yau Min and Mr. Lim Lian
+Chee. Both of them joined the board on 30 September 2022 and 3 October 2022 respectively. With their expertise and
+experience, we believed the Group will achieve a better and greater performance in future.
+Management Discussion and Analysis
+(cont’d)

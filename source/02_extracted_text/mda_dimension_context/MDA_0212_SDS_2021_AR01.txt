@@ -1,0 +1,170 @@
+document_id: MDA_0212_SDS_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Dear valued shareholders, it is with great pleasure that we present to you the Annual
+Report and Audited Financial Statements of SDS Group Berhad (“SDS Group” or
+the “Group”) for the financial year ended 31 March 2021 (“FY2021”). OVERVIEW OF THE GROUP’S BUSINESS
+Business Venture and Journey
+SDS Group has embarked on its business as a manufacturer and retailer of bakery products in 1984. SDS
+Group continues to develop varieties of new creative products to build customers’ excitement and interest in
+its products in the market till today. The Group strives to enrich and satisfy customers’ needs and preferences
+through its high-quality products at a reasonable price. It was an astonishing achievement and business journey for SDS Group as it started its home-grown
+business in Johor region with three subsidiary brands namely, retail brand, ‘SDS’, and wholesale brands,
+‘Top Baker’ and ‘Daily’s’. Throughout the years, SDS Group has grown rapidly through business expansion
+of its manufacturing and distribution facilities, and retail outlets in the Food and Beverages (F&B) industry.
+[MDA_P004]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+OUR STRATEGIES FOR MARKET
+AND PRODUCT
+Retail Channel
+The Group has taken proactive steps and
+actions through various forms of initiatives
+and strategies to create sustainable
+growth and long-term shareholders’ value
+in its business. After months of lockdown as a result of
+the COVID-19 outbreak, consumers’
+preferences and behaviours have changed
+to adapt to the new way of living during
+this pandemic. With working-from-
+home arrangement becoming a norm
+and stay-at-home becoming a new
+trend, there is an increased spending
+for online food delivery services. As
+such, the Group has collaborated with
+more external established food delivery
+service providers to continue bringing
+its products to customers despite the
+restriction in movement. The Group
+has also established its own ordering
+hotline services to facilitate pre-ordering,
+collection at its outlets or delivery services. During the financial year, the Group has
+begun selling its festive products in third-
+party online platforms noting a shift of
+focus to online ordering and purchases
+among consumers.
+[MDA_P005]
+With the rising trend of contactless
+payment to reduce the risk of transmission
+of COVID-19 through physical interaction,
+the Group has enhanced its very own
+SDS mobile application to include
+E-wallet feature. This E-wallet feature
+allows consumers to complete their
+transactions using contactless payments
+at any of its outlets. The Group continues
+to offer innovative solutions to provide
+greater consumer convenience and
+addressing the ever-changing consumers’
+preferences. The Group has expanded its business
+operations beyond Johor Bahru to the
+Central Region of Peninsula Malaysia
+during the financial year. Despite the
+COVID-19 pandemic, the Group continues
+to explore opportunities for growth and
+has successfully set up two new outlets
+at Nilai, Negeri Sembilan and Bangi,
+Selangor. Wholesale Channel
+The Group has launched a series of new
+products such as banana slice cakes,
+pandan chiffon cake and danish bread
+with chocolate chips during the financial
+year.
+[MDA_P006]
+RM2 concept stores has been
+gaining prominence and popularity from
+consumers in Malaysia in recent years,
+this is especially so during the pandemic
+period when the current economic outlook
+is uncertain and consumers are more
+conscious in their spending. The Group
+has collaborated with these chain stores
+and developed a range of products which
+are sold in their stores. The Group further penetrated the market
+in the Northern Region by establishing a
+new distribution centre at Sungai Petani,
+Kedah. With this expansion, the Group
+wholesale distribution network is covering
+10 states out of the 11 states in Peninsula
+Malaysia. The Group aims to continue
+its effort to expand its product range
+and distribution network geographically,
+enabling it to reach out for a wider
+consumer base. ANNUAL REPORT 2021
+[MDA_P009]
+RM’000
+RM’000
+(%)
+Revenue
+173,778
+191,520
+-9.3
+Gross Profit
+52,988
+57,193
+-7.4
+Gross Profit Margin
+30.5%
+29.9%
+2.0
+Profit before tax
+9,589
+4,998
+91.9
+Profit after tax
+7,078
+4,212
+68.0
+Net profit margin
+4.1%
+2.2%
+86.4
+Earnings per share (Sen)
+1.79
+1.16
+54.3
+Revenue
+The Group’s revenue has decreased from
+RM191.5 million in FY2020 to RM173.8
+million in FY2021, representing a decrease
+of RM17.7 million or 9.3% as compared to
+the previous financial year. The decrease
+in revenue was mainly due to the various
+measures implemented by the Malaysian
+Government in view of the COVID-19
+pandemic, which includes the Movement
+Control Order (“MCO”), school closure,
+restriction of dine-in at restaurants and
+limitation on the maximum number of dine-
+in customers. With the lower consumers’
+traffic due to the various phases of MCO
+implemented, the Group had experienced
+a decrease in demand for our products. Gross Profit Margin (“GPM”)
+GPM had improved from 29.9% to 30.5%
+as compared to the previous financial year. This was mainly due to effective cost
+management measures implemented as
+well as the reduction of goods returned
+rate as a result of better sales planning.
+[MDA_P011]
+Profit Before Tax (“PBT”)
+PBT has increased by RM4.6 million or
+91.9% from RM5.0 million in FY2020 to
+RM9.6 million in FY2021. Despite the
+decrease in revenue and gross profit,
+the increase in PBT was caused by a
+one-off non-recurring listing expenses
+of 2.1 million incurred in the previous
+financial year, various labour cost control
+measures implemented during the year,
+and decreased in fuel expenses as a result
+of the decrease in fuel prices during the
+financial year.
+ANNUAL REPORT 2021
+[MDA_P019]
+Cash and cash equivalents at beginning of the financial year

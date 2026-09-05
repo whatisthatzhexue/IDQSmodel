@@ -1,0 +1,16 @@
+[TITLE]
+Trading ideas: CCK Consolidated, ITMAX, Fiamma, Ecobuilt, Binastra, Green Packet, Hibiscus Petroleum
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2024-09-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/13/trading-ideas-cck-consolidated-itmax-fiamma-ecobuilt-binastra-green-packet-hibiscus-petroleum
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: CCK Consolidated Holdings Bhd , ITMax System Bhd , Fiamma Holdings Bhd , Ecobuilt Holdings Bhd , Binastra Corp Bhd, Green Packet Bhd and Hibiscus Petroleum Bhd are among the stocks to watch on Friday. ITMAX’s subsidiary has been appointed to operate a parking system that covers 5,113 street parking bays which are currently gazetted by Tangkak District Council for 15 years. Creador Sdn Bhd has signed an agreement with CCK Consolidated for a RM163.1mil investment to acquire a 40.0% stake in the poultry company's Indonesian unit, PT Adilmart Tbk.
+
+[NEWS_P002] Ecobuilt has secured a RM190mil contract to undertake a construction job. Fiamma has signed a memorandum of understanding with Zhuhai Samyou Environmental Technology Co Ltd to establish an air conditioning production facility in Malaysia. Green Packet said that four of the six investors expected to subscribe to its private placement of over 598.0 million shares have withdrawn from the exercise. Binastra’s 2Q24 net profit rose 171.4% year-on-year to RM22.9mil, as higher construction work activities and the commencement of five new projects during the period led to its revenue surging 157.5% YoY to RM230.9mil.
+
+[NEWS_P003] Hibiscus Petroleum is proposing an additional 1.0 sen dividend per share for the financial year ended June 30 that will raise its full-year dividend payout to 8.5sen per share, up from the adjusted 3.25sen per share for FY23. Overnight, the Dow Jones Industrial Average rose 235.06 points, or 0.58%, to 41,096.77, the S&P 500 gained 41.63 points, or 0.75%, to 5,595.76 and the Nasdaq Composite gained 174.15 points, or 1.00%, to 17,569.68.

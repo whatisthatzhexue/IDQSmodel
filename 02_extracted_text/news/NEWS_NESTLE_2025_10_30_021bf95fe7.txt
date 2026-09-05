@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI snaps two-day slide amid cautious sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/30/fbm-klci-snaps-two-day-slide-amid-cautious-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed higher on Thursday, snapping a two-day losing streak, as late buying lifted the benchmark index despite a weaker overall market tone. At 5pm, the benchmark index closed 2.66 points, or 0.17%, higher at 1,614.20, just below its intraday high of 1,615.18. Market breadth turned negative, with losers outpacing gainers by 607 to 395. With decliners outnumbering advancers by a wide margin, sentiment remained bearish as selling pressure continued to weigh on the broader market.
+
+[NEWS_P002] About 3.5 billion shares, valued at RM2.62bil, changed hands. Dealers noted that the local bourse’s performance today remained cautious, with sentiment still fragile following recent profit-taking. They added that while some buying interest emerged in selected blue chips, the overall upside potential is likely capped amid weak domestic catalysts. Among the gainers on Bursa Malaysia, Nestle surged RM1.30 to RM110.50, Chin Tek Plantations gained 42 sen to RM11.74, PETRONAS Dagangan added 38 sen to RM22.68 and United Plantations climbed 36 sen to RM24.64.
+
+[NEWS_P003] Malaysian Pacific Industries topped the losers’ list, sliding 86 sen to RM30.26, followed by LTKM, down 12 sen to RM1.44, Heineken, which fell 10 sen to RM21.18, and Oriental Holdings, easing 10 sen to RM6.83. LPC Group, which made its debut on the LEAP Market of Bursa Malaysia today, surged 400%, or 40 sen, to 50 sen with 102,000 shares traded. According to data from Bursa Malaysia, foreign investors offloaded RM63mil worth of equities on Wednesday, while local institutions and retailers were net buyers, accumulating RM47mil and RM16mil respectively.
+
+[NEWS_P004] On the forex market, the ringgit fell 0.31% against the US dollar to 4.2005 but edged up 0.02% against the Singapore dollar to 3.2339. Around the region, MSCI’s broadest index of Asia-Pacific shares ex-Japan slipped 0.38%. Japan’s Nikkei 225 added 0.03% to close at 51,325.61, while South Korea’s Kospi rose 0.14% to 4,086.89. Hong Kong’s Hang Seng Index eased 0.24% to 26,282.69, China’s CSI300 declined 0.8% to 4,709.91, and the Shanghai Composite Index fell 0.73% to 3,986.90.

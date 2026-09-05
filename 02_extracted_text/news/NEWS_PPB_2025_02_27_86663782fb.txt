@@ -1,0 +1,14 @@
+[TITLE]
+Investors take gains from Bursa Malaysia as results period heads for a close
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-02-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/27/investors-take-gains-from-bursa-malaysia-as-results-period-heads-for-a-close
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI remained in the red at midday as investors continued to take profit on the penultimate day of the corporate results period. At 12.30pm, the benchmark index was down 4.95 points to 1,593.76. While the blue chips were mostly lower owing to the recent run-up in prices, the broader market was positive with 448 gainers to 422 decliners. Trading volume was 1.72 billion shares valued at RM1.11bil. Regional markets were subdued on Thuesday as confidence over the US economy dipped following US President Donald Trump's recent tariff announcements.
+
+[NEWS_P002] China's composite index slipped 0.41% to 3,366 while Hong Kong's Hang Seng shed 1.06% to 23,535. Japan's Nikkei lost 0.12% to 38,094 while Singapore's Straits Times fell 0.1% to 3,904. Among the Bursa Malaysia heavyweights, PETRONAS Dagangan fell 44 sne to RM20..6 while Nestle shed 38 sne ot RM88.10. Hong Leong Bank dropped 22 sen to RM21.02 while PPB slipped 28 sen to RM10.96. of actives, Sapura Energy gained 0.5 sen ot 3.5 sen, MYEG rose 1.5 sen to 96.5 sen and KAB slid 0.5 sen to 33 sen.

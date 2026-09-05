@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI ekes out slight gain alongside firmer ringgit
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-11-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/13/fbm-klci-ekes-out-slight-gain-alongside-firmer-ringgit
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed nearly flat on Thursday, edging higher alongside a firmer ringgit as mild buying in banking counters helped the benchmark eke out gains. The market barometer inched up 0.66 of a point, or 0.04%, to 1,632.27, lifted by renewed buying interest in banking counters. The index traded between an intraday high of 1,635.27 and a low of 1,631.15. There were 480 gainers, 550 losers and 599 unchanged counters on Bursa Malaysia.
+
+[NEWS_P002] Trading activity was brisk, with 3.95 billion shares worth RM2.8bil changing hands. Dealers said the broader market is expected to stay mixed despite the FBM KLCI’s slight uptick, as investors may remain on the sidelines ahead of Malaysia’s GDP release tomorrow and the ongoing flow of corporate earnings announcements. A dealer said trading sentiment is likely to stay cautious in the near term, despite the recent appreciation of the ringgit against the US dollar.
+
+[NEWS_P003] Bloomberg reported that the ringgit, Asia’s best-performing currency this year, is nearing a four-year high as strengthening economic momentum and easing global trade tensions draw offshore investors into local debt. The ringgit appreciated 0.21% to 4.1263 against the US dollar, extending its momentum and putting it on track for an eighth straight day of gains. On Bursa Malaysia, consumer stocks led the gainers, with F&N surging RM1.36 to RM32.40, Dutch Lady jumping RM1.32 to RM28.60, Ajinomoto adding 18 sen to RM14, and Amway rising 18 sen to RM4.99.
+
+[NEWS_P004] Among the decliners, Malaysian Pacific Industries slid 40 sen to RM30.60, Allianz-PA fell 30 sen to RM18.20, United Plantations lost 24 sen to RM26 and PETRONAS Dagangan declined 22 sen to RM22.40. In terms of fund flow, foreign investors acquired RM194mil worth of equities on Wednesday. Local institutions and retailers were net sellers, offloading RM146mil and RM48mil worth of equities, respectively. Meanwhile, regional markets closed higher today, with Japan’s Nikkei 225 rising 0.43% to 51,281.83, Hong Kong’s Hang Seng adding 0.56% to 27,073.03, and South Korea’s Kospi advancing 0.49% to 4,170.63.
+
+[NEWS_P005] China’s CSI300 index rose 1.21% to 4,702.07, while the Shanghai Composite Index gained 0.73% to close at 4,029.50.

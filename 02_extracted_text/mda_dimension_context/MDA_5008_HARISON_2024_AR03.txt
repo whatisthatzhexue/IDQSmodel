@@ -1,0 +1,148 @@
+document_id: MDA_5008_HARISON_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 42, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+Overview of Business Activities
+Harrisons' income is mainly derived from the marketing, sales, warehousing and distribution of Fast-
+Moving Consumer Goods, Building Materials and Engineering Products, Fine Wines, Industrial and
+Agricultural Chemicals, and the operation of Shipping/Logistics, Travel Agencies and Retailing. These
+businesses are conducted as follows:
+a. In East Malaysia, Harrisons Sabah Sdn. Bhd. and Harrisons Sarawak Sdn. Bhd. are involved in the
+marketing, sales, warehousing and distribution of Fast-Moving Consumer Goods, Building Materials,
+Engineering Products and Industrial and Agricultural Chemicals Products as well as the operation of
+Shipping and Travel Agencies; and
+b. In Peninsular Malaysia, Harrisons Peninsular Sdn. Bhd. and Harrisons Marketing & Services Sdn. Bhd. are involved in the marketing, sales, warehousing and distribution of Building Materials, Industrial and
+Agricultural Chemicals, and import and distribution of Fine Wines as well as the Freight Forwarding and
+Shipping.
+[MDA_P002]
+Presently, Harrisons has over 400 principals, and distributes approximately 13,000 product items to
+over 15,000 accounts spread all over Malaysia. The Group operates a total network of 27 (13 in
+Peninsular, 9 in Sabah and 5 in Sarawak) branches and 46 warehouses strategically located throughout
+Malaysia and is supported by over 1,900 employees. c. In Singapore, our subsidiaries The Famous Amos Chocolate Chip Cookie Singapore Pte. Ltd. wholesale
+and retails the Famous Amos Cookies. Watts Harrisons Sdn. Bhd. has terminated the Komonoya brand
+agency during FY2024, and it’s in the process of members’ voluntary winding-up. Objectives and Strategies
+Harrisons’ objective is to focus on its core strength of marketing and distribution, and to maintain its
+position as one of the leading distributors in Malaysia. The Group will continue to expand the sales of the
+Fast-Moving Consumer Goods and Building Materials by securing new agencies of good quality products
+and to grow its customer base in East and West Malaysia.
+[MDA_P003]
+Financial Performance Review
+Revenue
+Changes
+Growth
+RM’000
+RM’000
+RM’000
+%
+Fast-Moving Consumer Goods
+1,640,432
+1,744,827
+(104,395)
+-5.98
+Building Materials and Engineering Products
+421,865
+407,411
+14,454
+3.55
+Industrial and Agricultural Chemical Products
+57,866
+49,863
+8,003
+16.05
+Retail
+37,902
+40,595
+(2,693)
+-6.63
+Shipping and Others
+15,877
+14,381
+1,496
+10.40
+──────
+──────
+──────
+────
+2,173,942
+2,257,077
+(83,135)
+-3.68
+══════
+══════
+══════
+════
+Revenue decreased from RM2.26 billion in FY2023 to RM2.17 billion in FY2024. The decrease is mainly
+due to the decrease in sales of our main agency for the Fast-Moving Consumer Products Division. Sales of our Fast-Moving Consumer Goods declined by RM104.4 million (5.98%) due to subdued
+consumer sentiment, parallel imports with aggressive selling prices and competitors entering the Fast-
+Moving Consumer Products market in East Malaysia. Sales on our Building Materials and Engineering
+Products division however increased by RM14.5 million (3.55%) mainly due to increased demand for
+cement in Peninsular during the first half of FY2024.
+[MDA_P004]
+The sales of Industrial and Agriculture Chemicals
+Products increased by RM8.0 million (16.05%) as demand pick up in Sabah during FY2024. MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P006]
+Sales in the Retail Segment decreased by RM2.7 million (6.63%). The decrease is due the company’s
+termination of the Komonoya agency during FY2024.
+[MDA_P007]
+Revenue for the Shipping and Others Segment increased by RM1.5 million (10.40%) due to higher
+commissions earned as shipping business activities pick up in Sabah for FY2024.
+[MDA_P008]
+Gross Profit
+[MDA_P009]
+Gross Profit decreased from RM263.53 million in FY2023 to RM243.66 million in FY2024. Gross Profit
+Margin decreased from 11.68% in FY2023 to 11.21% in FY2024. Sales of Building Materials which has a
+lower gross margin increased while sale of our Fast-Moving Consumer Products which have a higher gross
+margin decreased for FY2024.
+[MDA_P010]
+Profit Before Taxation
+[MDA_P011]
+The Group Profit Before Taxation for FY2024 was RM60.01 million as compared to FY2023 of RM89.52
+million. Besides the drop in Gross Profit, administrative expenses increased by RM4.10 million for FY2024
+as compared to FY2023 as provision for doubtful debts increased by RM2.7 million for FY2024 caused by
+overall slow collections. Interest expense increased by RM2.53 million as bank borrowings and interest
+rates increased in FY2024.
+[MDA_P012]
+Profit After Taxation
+[MDA_P013]
+Profit After Taxation decreased from RM68.80 million in FY2023 to RM43.89 million in FY2024, reflecting a
+decrease of 36.21%.
+[MDA_P015]
+There are 3 main Segments within Harrisons Group:
+1. The Trade and Distribution Segment
+2. Retail Segment
+3. Shipping and Others Segment
+[MDA_P021]
+──────
+──────
+────── ──────
+────
+Total Revenue
+2,120,163
+37,902
+15,877
+2,173,942 100.00
+[MDA_P023]
+Profit Before Interest and Tax
+59,762
+3,465
+3,907
+67,134
+[MDA_P025]
+──────
+──────
+──────
+──────
+Profit before taxation
+[MDA_P030]
+The Trade and Distribution Segment (“T&D Segment”) comprise mainly of the Fast-Moving Consumer
+Products businesses in Sabah and Sarawak. Sales of Building Materials and Engineering Products are
+mainly in Peninsular. This segment is the major segment of the Group which contributed 97.53% of the
+Group’s revenue. Revenue for the T&D Segment in FY2024 decreased by RM81.9 million (3.72%) as
+compared to FY2023. The decrease is due to decrease in sales for our main agency for our Fast-Moving
+Consumer Products of RM104.4 million (5.98%). The sales of Building Materials and Engineering Products
+which contributed 19.41% of total revenue recorded a growth of 3.55% in FY2024. The increase in sales is
+mainly due to strong demand for cement in anticipation of cement price increase in FY2024.

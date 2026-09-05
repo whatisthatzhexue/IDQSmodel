@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI out of losing streak, up 5.62 points
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-03-21
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/21/fbm-klci-out-of-losing-streak-up-562-points
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The local bourse ended its two-session decline as bargain-hunting activities picked up, mirroring the trends seen in regional stock markets. The FBM KLCI closed up 5.62 points, or 0.37% to 1,541.41, with 21 of the component stocks ending higher while seven counters declined. In the broader market, gainers thumped losers 631 to 451 while 466 counters were unchanged. About 4.02 billion shares, valued at RM2.94bil, changed hands. Dealers said the performance of the local bourse was boosted by bargain hunting following a recent sell-off.
+
+[NEWS_P002] Meanwhile, data from Bursa Malaysia indicates that on Wednesday, foreign investors sold RM7mil worth of local equities, while retailers disposed of RM11mil worth of the same. On the other hand, local institutions acquired RM18mil worth of equities. Among the gainers on Bursa Malaysia, SAM Engineering rose 32 sen to RM5.12, Kuala Lumpur Kepong gained 26 sen to RM22.30, Sunway added 23 sen to RM3.47 and Vstecs climbed 17 sen to RM2.37. Consumer stocks topped the losers’ list on Bursa Malaysia.
+
+[NEWS_P003] Nestle slid 90 sen to RM118, F&N lost 30 sen to RM29.20, Ajinomoto fell 24 sen to RM18.52 and Heineken declined 18 sen to RM22.88. Around the region, MSCI's Asia ex-Japan stock index was firmer by 1.96%. Japan’s Nikkei 225 ended up 2.03% at 40,815.66, while South Korea’s Kospi ended 2.41% higher at 2,754.86. Hong Kong’s Hang Seng index advanced 1.93% to 16,863.10 while China’s blue-chip CSI300 index ended down 0.12% at 16,863.10.

@@ -1,0 +1,153 @@
+document_id: MDA_3255_HEIM_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 59, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Esg Review
+How We Are Governed
+Our Numbers and Other Information
+Annual Report 2023
+Management Discussion & Analysis
+INTRODUCTION
+Heineken Malaysia Berhad’s business
+is all about transcending borders and
+connecting people through good times,
+one way or another. Indeed, we can
+often find beer at the center of social
+connections, and this is why our purpose,
+Brew the Joy of True Togetherness to
+Inspire a Better World, defines everything
+we do. After a strong rebound in 2022,
+expectations for 2023 were high, however
+it proved to be a more challenging year. I
+am proud of the resilience of our business
+and our people, as we pushed flat out
+to deliver a commendable performance
+despite the challenges. We have made
+good progress on our EverGreen strategy
+and will continue to accelerate initiatives
+designed to help us meet our strategic
+goals not only for the short term, but also
+with the aim to future proof our business. We had to adapt to the evolving
+environment with challenges that included
+global macroeconomic uncertainties,
+geopolitical tensions, a weakening Ringgit,
+rising costs of living, and softening
+consumer sentiments.
+[MDA_P003]
+These factors
+contributed to a market correction
+in 2023, which saw market demand
+gradually normalise as compared against
+the strong rebound we saw in 2022 after
+pandemic-related restrictions were lifted. It is important to note that despite the
+market correction, our strategy to enable
+balanced growth is bearing fruits, with our
+performance still above the pre-pandemic
+levels of 2019. We are taking bold moves under the
+EverGreen strategy. Indeed, we have built
+strong momentum across our five key
+strategic pillars: emphasising consumer
+and customer-centricity as we shape
+the future of beer and beyond to drive
+superior growth; growing productivity and
+a cost conscious culture with an aim to
+unlock efficiencies that can be reinvested
+to power our growth engine; raising the
+bar on sustainability and responsibility
+to deliver our net zero ambition; boosting
+digitalisation of our processes to
+become the best-connected brewer; and
+developing our talent and capabilities to
+strengthen a culture of high performance. With EverGreen, we are future-proofing
+HEINEKEN Malaysia to be a continually
+renewing, learning, and growing company
+to deliver superior and balanced growth.
+[MDA_P004]
+The following is a review of our business
+and financial performance, the highlights
+of our commercial campaigns, the
+progress of our sustainability goals, as well
+as the outlook for 2024. OUR PERFORMANCE
+Compared with our 2022 performance,
+Group revenue decreased by 8%, mainly
+due to weak consumer sentiment
+attributed to growing macroeconomic
+concerns. Comparatively, the Group had
+a strong base in 2022 following the re-
+opening of the economy at the end of
+the Covid-19 pandemic. Post the strong
+rebound in 2022, the Group views its
+2023 performance as a form of market
+correction. Group Profit Before Tax declined by 14%
+to RM511 million, primarily due to lower
+revenue. Comparatively, the Group’s net
+profit for the year decreased by 6% due to
+the absence of the one-off Prosperity Tax in
+the year under review. Corresponding with
+the above, earnings per share decreased
+from RM1.37 to RM1.28 per share. Net cash from operating activities for
+FY2023 increased by 25% to RM584
+million attributed to overall favorable
+working capital movement. The Group has
+improved its capital efficiency through
+entering into a factoring arrangement in
+FY2023.
+[MDA_P008]
+Tiger partnered with three
+local artists to create a CNY song and
+music video, ‘The Boldest Chase’, inviting
+consumers to interact with the content
+and win exclusive prizes. Tiger has been
+on a journey of overcoming the odds since
+1932, and the brand believes that much
+of its success is owed to its loyal fans. The brand brought to life an activation
+called ‘Tiger Den’ – dubbed as the home
+of all things Tiger – for fans to join the
+brand to celebrate its bold stride since the
+beginning and to continue roaring into the
+future. From learning more about Tiger’s
+origins since the early 1900s to bask in
+the nostalgia of its evolution at Heritage
+Street, to going on a journey through a
+series of interactive experiences via AI at
+the AR-ffiti Street and Crystal Cold Room,
+the brand set itself apart as a distinctly
+Asian lager with the remarkable Tiger Den. Guinness Malaysia’s 2023 St. Patrick’s
+celebration, ‘Our Day to Remember’,
+encouraged its fans to celebrate their
+loved ones – their true lucky charms –
+while commemorating the good times
+with Guinness.
+[MDA_P013]
+Who We Are
+Our Business Model
+Performance Review
+heineken malaysia berhad
+Management Discussion & Analysis
+We are pleased to report that we are
+making good progress against our Brew
+a Better World goals. Nevertheless, we
+continue exploring innovative solutions to
+accelerate our journey towards ensuring
+HEINEKEN Malaysia’s sustainable
+growth for the future. HEINEKEN
+Malaysia strongly believes that its
+operations can only thrive if the planet
+and its surrounding communities thrive. Throughout the year, the Group was
+widely recognised for the progress we
+continue to make on our sustainability
+ambitions. Some key awards include:
+•
+UN Global Compact Network
+Malaysia and Brunei (UNGCMYB)
+Forward Faster Sustainability
+Awards – HEINEKEN Malaysia won
+in the Water Resilience category,
+acknowledging the brewer’s
+achievement in its Towards Healthy
+Watersheds programme, which
+enabled it to fully balance water used
+in its products since 2020.

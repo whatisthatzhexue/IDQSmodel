@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI slips, ending three-day winning streak as banks weigh
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-05-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/15/fbm-klci-slips-ending-three-day-winning-streak-as-banks-weigh
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended its three-day winning streak by finishing lower on Thursday, as banking counters weighed amid the bearish performance of regional markets. The 30-stock index closed down 10.49 points, or 0.66%, at 1,573.02. During the day, it reached a high of 1,586.85 and a low of 1,572.27 points. Across the broader market, decliners outnumbered advancers 626 to 459, with 3.71 billion shares worth RM2.74bil transacted. Among FBM KLCI constituents, 21 counters fell, outweighing the eight gainers, while one counter remained unchanged.
+
+[NEWS_P002] Maybank fell 10 sen to RM10.10, pushing the index down by 1.7126 points, while CIMB declined eight sen to RM7.16, dragging the index lower by 1.2190 points. Public Bank slid two sen to RM4.51, nudging the index down by 0.5503 points. RHB Bank fell nine sen to RM6.69 while Hong Leong Bank added eight sen to RM20.28. On the broader market, Kluang Rubber fell 40 sen to RM5.56, BLD Plantations slid 20 sen to RM11 and United Plantations declined 16 sen to RM22.32.
+
+[NEWS_P003] Among the gainers, Malaysian Pacific Industries rose 38 sen to RM21.70, Heineken added 32 sen to RM27.82, Carlsberg gained 28 sen to RM19.44 and Batu Kawan climbed 12 sen to RM19.02. Meanwhile, the ringgit was quoted at 4.2870, gaining 0.1% against the US dollar and 0.11% against the Singapore dollar, which stood at 3.3041. Regional markets closed lower, with Japan’s Nikkei 225 down 0.98%, South Korea’s Kospi falling 0.73%, and Hong Kong’s Hang Seng slipping 0.79%.
+
+[NEWS_P004] China’s CSI 300 Index dropped 0.91%, while the Shanghai Composite Index declined 0.68%.

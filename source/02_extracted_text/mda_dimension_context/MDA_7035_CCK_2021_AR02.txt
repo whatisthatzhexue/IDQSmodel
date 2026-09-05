@@ -1,0 +1,65 @@
+document_id: MDA_7035_CCK_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 19, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P003]", "note": "margin: stated 34.90%, calculated 99.95% from profit/revenue, status material_discrepancy.", "source_text": "The poultry segment was affected by overall lower volumes and declined to RM83.7 million in FY2021. Poultry sales via our own retail stores (intersegment sales) remained robust, tracking the performance of the retail segment. The prawn segment revenue grew by 10.8% in FY2021. This was largely due to", "status": "material_discrepancy"}], "document_id": "MDA_7035_CCK_2021", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 45, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+FINANCIAL REVIEW (CONT’D)
+Revenue for the financial year ended 31 December 2021 (“FY2021”) increased by 4.5% to RM685.5 million against
+the corresponding period last year (“FY2020”), a record high for the Group.
+[MDA_P002]
+Our retail network expanded in FY2021 to 63 CCK Fresh Mart retail stores, 2 CCKLocal supermarkets and 6 wholesale
+stores giving us 71 touchpoints, up from 67 in FY2020.
+Revenue growth in FY2021 was largely driven by a 9.2% increase in retail segment revenue. The strong performance
+of the retail segment was brought about by a full year of contributions from the new CCKLocal supermarkets and new
+facilities in Pontianak, Indonesia.
+Revenue contribution from the Group’s Indonesian operations (which are classified under the retail segment)
+increased to 20.2% in FY2021 from 17.7% in FY2020. This was brought about by an overall increase in production
+and sales volumes of our own in-house brands of sausages, nuggets and other processed products. Additionally,
+operations benefitted from increased production capacity due to Pontianak’s new facility that was commissioned in
+January 2021.
+[MDA_P003]
+The poultry segment was affected by overall lower volumes and declined to RM83.7 million in FY2021. Poultry sales
+via our own retail stores (intersegment sales) remained robust, tracking the performance of the retail segment. The prawn segment revenue grew by 10.8% in FY2021. This was largely due to the acquisition of new customers in
+Korea in addition to our traditional markets in Australia and Japan. Sales to local customers through our CCK retail
+network in Sarawak also improved. The food service segment reported a revenue of RM5.9 million in FY2021. The segment was hampered by the closure
+of boarding schools in Sarawak. This is reflected in the minimal contribution to Group revenue during the year. The Group’s profit before tax (“PBT”) for FY2021 declined by 34.9% to RM31.2 million. Gross profit margin declined to
+17.40% from 19.44% in FY2020. The decline in profitability and margin compression was largely due to a significant
+increase in feed prices affecting the poultry segment and an overall increase in operating expenses due to the
+expansion of our Malaysian retail network and Indonesian operations.
+[MDA_P004]
+The hike in feed prices resulting from the increase in prices of soy and corn had a direct negative impact on the poultry
+segment, which reported a loss of RM6.0 million in FY2021. Other operating expenses increased by 9.0% due to the costs associated with the commissioning of the new Pontianak
+facilities in January 2021 and flowthrough effects from the opening of two (2) CCKLocal supermarkets and four (4)
+CCK Fresh Mart retail outlets in FY2021. Share of results in our associate company, Gold Coin Sarawak Sdn Bhd, declined by 14.41% to RM5.5 million from
+RM6.5 million in FY2020. This was due to the sharp increase in prices of raw materials such as soy and corn, resulting
+in lower margins. Finance costs for the year decreased marginally by 3.2% to RM2.0 million as Bank Negara Malaysia kept the OPR
+rate at 1.75% throughout FY2021. Total borrowings stood at RM40.3 million against shareholders’ funds of RM314.2
+million as at end FY2021, translating into a gearing ratio of 0.13x. The Group remained in a net cash position as deposits with licensed banks and cash and bank balances stood at
+RM57.8 million.
+[MDA_P005]
+The Group property, plant and equipment increased marginally by RM1.7 million to RM204.6 million. Notable capital
+expenditure carried out during FY2021 were the purchase of a shoplot in Kuching, the renovation and commissioning
+of four (4) additional CCK Fresh Mart retail stores in East Malaysia. This was funded by a combination of bank
+borrowings and internally generated funds.
+[MDA_P006]
+// CCK CONSOLIDATED HOLDINGS BERHAD
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+DIVIDENDS
+Dividends paid out during the year were as follows –
+•
+A final single-tier dividend of 2 sen per share on 18 June 2021.
+REVIEW OF OPERATIONS - MALAYSIA
+Categorised as essential services, CCK’s farms (chicken and prawns), factories (chicken abattoirs and prawn
+processing) and retail stores were fully operational during the various stages of the Covid-19 lockdowns during
+FY2021.
+[MDA_P007]
+In FY2021, we expanded our retail network as follows –
+-
+2 CCK Fresh Mart retail stores in Sabah in Kota Kinabalu and Keningau; and
+-
+2 CCK Fresh Mart retail stores in Sarawak in Kuching and Bintangor.

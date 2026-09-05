@@ -1,0 +1,128 @@
+document_id: MDA_2836_CARLSBG_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 68, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 247.632, "paragraph_count": 68, "paragraph_length_distribution": {"max": 2483, "mean": 947.279, "min": 96}, "repetition_ratio": 0.117647, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+CORPORATE
+STRATEGY: SAIL’22
+OUR TWO
+ENABLERS
+OUR SEVEN
+STRATEGIC PRIORITIES
+OUR THREE
+STRATEGIC LEVERS
+CREATE A
+WINNING
+CULTURE
+STRENGTHEN
+THE CORE
+‘Grow in Mainstream’ with
+Carlsberg Danish Pilsner and
+Carlsberg Smooth Draught
+‘Win in Each Store’
+with better in-store
+execution
+‘Fund the Journey’ by
+delivering efficiencies and
+building growth capabilities
+POSITION
+FOR GROWTH
+‘Go Big in Premium’ with 1664, Somersby
+Cider, Connor’s Stout Porter and Asahi
+‘Build New Revenue Streams’ with
+Alcohol-Free Brews and e-Commerce
+DELIVER
+VALUE FOR
+SHAREHOLDERS
+Achieve ‘Growth in Net Profit’
+Deliver stable dividend yield for
+shareholders
+DEFEND
+OUR
+LICENCE
+TO
+OPERATE
+ABOUT SAIL’22
+SAIL’22 was a seven-year (2016-2022) corporate strategy launched
+by the Carlsberg Group, building upon our purpose of Brewing for a
+Better Today and Tomorrow. SAIL’22 was spearheaded by the three strategic levers of Strengthen
+the Core, Position for Growth and Deliver Value for Shareholders. Two enablers underpinned these three levers – Create a Winning
+Culture throughout our organisation, and Defend Our Licence to
+Operate for business sustainability.
+[MDA_P018]
+Our flagship cider brand, Somersby, continued to create excitement
+with the launch of Somersby Passion Fruit & Orange, the first
+combination flavour added to the existing Somersby range of
+Apple, Blackberry and Watermelon. Malaysia was the first market
+in Asia to launch this innovative variant to celebrate the 10-year
+anniversary of Somersby in the country. In Singapore, Somersby
+Passion Fruit & Orange was launched in February this year. Apart from variant innovation, our premium stout brand, Connor’s
+Stout Porter, has proven that packaging innovation is another key
+driver of growth. From its initial launch as stout available as a
+draught in bars, pubs and restaurants, we expanded its footprint to
+off-trade through the launch of can packaging, therefore offering
+consumers the opportunity to ‘Taste the Good Times’ anywhere,
+anytime. France’s No. 1 premium wheat beer, 1664, invited consumers to embrace the
+French spirit of joie de vivre - or joy of living - for an evening of playful elegance
+as part of an elevated #GoodTasteWithATwist experience.
+[MDA_P035]
+We have also upskilled our Board
+members and senior leadership team on global sustainability
+matters in order to keep us abreast of the risks and opportunities
+involved. The Group commends both the Malaysian and Singaporean
+governments for maintaining the excise duty on beers in their
+respective 2023 National Budgets that were announced by the
+Singaporean government on 14 February 2023 and re-tabled by
+the Malaysian government on 24 February 2023. In terms of addressing concerns regarding sustainability
+that some within the local community might have, we have
+consciously invested in sustainability-driven initiatives to ensure
+that our consumers can enjoy our brews while leaving the
+smallest carbon footprint possible. In 2022, we successfully launched Together towards ZERO and
+Beyond (TTZAB), Carlsberg Group’s ESG programme, in tandem
+with SAIL’27. TTZAB, which builds on the previous Together
+towards ZERO (TTZ) programme, serves as our response to
+global challenges such as inequality, climate change and water
+scarcity, as well as society’s increasing focus on health and
+well-being.
+[MDA_P052]
+· The need to raise awareness, promote moderation in
+consumption, tackle misuse and reduce alcohol-related harm in
+society. · To engage with and excite consumers, we celebrated
+Carlsberg’s 175-year global anniversary, Carlsberg’s 30-year
+partnership with Liverpool FC and the Kaamatan and Gawai
+Festivals with limited-edition packaging. · Launched non-alcoholic beverage Somersby Apple 0.0 in
+Malaysia to complement the Carlsberg Alcohol Free Pilsner
+and Alcohol Free Wheat beers in Singapore. · Expanded
+the
+annual
+#CELEBRATERESPONSIBLY
+campaign to Sabah and Sarawak, Malaysia. · Product Quality and
+Safety
+· Product Health
+Impact
+· Preventing Harmful
+Use of Alcohol
+Customers
+· Trade and market visits
+· Online questionnaires and
+surveys
+· Sales conferences and trips
+· Responsible drinking
+partnerships
+[MDA_P068]
+•
+Deep-dived into stakeholders’ thoughts on the 27 material
+matters through one-on-one interviews with each member of
+the leadership team and selected Board of Directors members,
+as well as face-to-face virtual focus group discussions with
+stakeholders. •
+Reviewed and compared findings across all three stages
+of the assessment (desktop research, validation survey and
+stakeholder engagement) to derive insights on how the 27
+material matters should be prioritised, and how we could
+approach these topics better. MATERIAL MATTERS

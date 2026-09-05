@@ -1,0 +1,63 @@
+document_id: MDA_3662_MFLOUR_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+ANNUAL REPORT 2024 | Malayan Flour Mills Berhad 25
+Similarly, in aquaculture, we are committed to continuous innovation and refi nement of our products to
+enhance the quality of our aqua feeds and better meet client specifi cations. Financial Performance Highlights
+During the fi nancial year ended 31 December 2024 (“FY2024”), MFM delivered a commendable performance,
+with the Flour and Grain Trading (“FGT”) segment in Malaysia and Vietnam being the key driver of our strong
+fi nancial results. The FGT segment in Malaysia and Vietnam saw profi t after tax grow by 82.5% to RM126.1 million in FY2024
+from RM69.1 million previously, while maintaining a stable revenue base of RM3.1 billion. The signifi cant
+bottom-line growth was driven by higher sales volume and stable raw material prices. Conversely, 2024 proved to be a challenging year for the poultry segment, which was impacted by consumer
+boycotts arising from the geopolitical confl ict in the Middle East. Additionally, the removal of subsidies and
+higher reversal of deferred tax assets further weakened the segment’s performance.
+[MDA_P003]
+The Group’s PI segment, through the 51% equity stake in DTSB and its subsidiaries, ended FY2024
+with a PAT of RM3.1 million, 93.9% lower than RM50.7 million in the previous year. The lower profi t was
+achieved on a fl at revenue of RM1.1 billion. Likewise, the share of profi t also declined to RM1.6 million from
+RM25.9 million in the prior year. Meanwhile, the Group’s 30% joint venture in Indonesia, PT Bungasari Flour Mills Indonesia (“BFMI”), continued
+to face headwinds due to heightened market competition in the country, coupled with a drop in export sales
+volume. However, BFMI signifi cantly reduced its loss after tax to RM30.0 million from RM66.5 million in the
+prior year, as a result of improved margins and higher sales volume of processed wheat. Revenue remained
+largely the same at RM2.3 billion. At the Group level, the strong performance of the FGT segment in Malaysia and Vietnam more than compensated
+for the weaker results from the PI segment and the underperformance of Indonesia’s operations. In addition,
+the Group recognised a one-off impairment loss of RM42.1 million in FY2024, premised on BFMI incurring
+losses for three consecutive years.
+[MDA_P004]
+As a result, the Group posted a profi t after tax and minority interest of
+RM58.1 million, or basic earnings per share (“EPS”) of 4.74 sen, marking a turnaround from a loss after tax
+and minority interest of RM6.7 million and a basic loss per share of 0.65 sen in the previous year. Excluding the impact of a one-off impairment loss of RM42.1 million in FY2024 and the remeasurement
+of contingent consideration receivable of RM71.1 million in FY2023, the adjusted EPS stood at 8.17 sen,
+compared to 6.30 sen previously. On our Group’s balance sheet as at 31 December 2024, our total assets and total equity attributable to
+ordinary shareholders maintained at a similar level at RM2.6 billion and RM1.3 billion, respectively. Fixed
+deposits, cash and cash equivalents declined moderately to RM406.0 million (FY2023: RM420.1 million),
+whilst total borrowings including lease liabilities stood at RM1,003.3 million (FY2023: RM997.2 million). On net-of-cash basis, the Group’s gearing increased minimally to 0.42x, versus 0.40x previously.
+[MDA_P005]
+As at the end of FY2024, our inventories reduced to RM519.8 million, compared to RM523.9 million as at
+31 December 2023, in tandem with the reduced prices of raw materials of wheat and corn.
+[MDA_P006]
+ANNUAL REPORT 2024 | Malayan Flour Mills Berhad
+Operations Highlights
+Flour and Grain Trading Segment
+In 2024, global markets for key food commodities, including wheat, remained relatively stable. Favorable
+weather conditions in some regions helped offset uncertainties arising from the existing geopolitical confl icts,
+ensuring a steady supply. While commodity prices experienced fl uctuations, they generally trended toward
+moderation, alleviating cost pressures across the supply chain. Against this backdrop, demand for fl our remained robust, particularly in Malaysia and Vietnam. In Malaysia,
+steady consumption from food manufacturers and households provided a solid foundation for growth. Meanwhile, Vietnam’s expanding bakery and instant noodle industries drive higher fl our consumption,
+refl ecting shifting consumer preferences. Due to stable commodity prices and stronger consumer demand, the FGT segment in Malaysia and Vietnam
+recorded healthy growth. Sales tonnage in Malaysia increased by 5.1% year-on-year in FY2024, while Vietnam
+operations saw an 18.4% rise in quantity sold.
+[MDA_P007]
+Consequently, our plants in Malaysia and Vietnam operated at
+70.6% and 85.8% of the total production capacity, respectively, during the year. The strong operational performance translated into improved fi nancial results. The fl our operations in Malaysia
+and Vietnam recorded a higher profi t after tax of RM119.3 million, up from RM65.7 million in the previous year,
+on a steady revenue base of RM2.1 billion. At the same time, the grain trading business also recorded a higher profi t after tax of RM6.8 million in FY2024
+on a revenue of RM965.1 million, up from a net profi t of RM3.4 million in the previous year. In Indonesia, our joint venture company, BFMI, continued to face intense competition and weaker export
+sales. However, performance improved, with a loss after tax narrowing to RM30.0 million during the year as
+compared to RM66.5 million previously despite ongoing challenges. Including trading products of processed
+wheat, sales tonnage overall increased by 20.3% during the year. Amidst the uncertain environment, MFM will continue prioritising cost effi ciency in our fl our milling operations
+by optimising fl our extraction and blending processes.

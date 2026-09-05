@@ -1,0 +1,16 @@
+[TITLE]
+MSM posts bigger loss in 2Q
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-08-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/22/msm-posts-bigger-loss-in-2q
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: MSM Malaysia Holdings Bhd remains cautious about rising geopolitical tensions, which could increase input costs and impact financial performance. “The sugar industry continues to face elevated input costs, driven by persistently high global freight and natural gas prices. Moreover, raw sugar price is volatile mainly due to fluctuating global production volume” “Amidst these challenges, the group remains committed to strengthening our domestic sales while also enhancing our efforts in export markets till date to 20 countries,” group chief executive officer Syed Feizal Syed Mohammad said in a statement.
+
+[NEWS_P002] The producer of Gula Prai refined sugar posted a wider net loss of RM32.4mi in the second quarter ended June 30 (2Q24) compared with RM20.8mil last year due to higher operating costs and lower non-operational gains. Revenue, however, rose 12% to RM833mil against RM746mil in 2Q23 and the group achieved a higher utilisation factor (UF) of 50% in 2Q. Additionally, MSM said there was an improvement in efficiency yield, reaching 95.6% in 2Q24, up from 94.9% in 2Q23.
+
+[NEWS_P003] However, production cost increased by 14% driven by 12% higher NY11, 18% freight cost and 5% higher foreign exchange, despite lower refining cost following an improved UF. In the first half, MSM posted a net profit of RM9.3mil, or earnings per share of 1.33 sen on revenue of RM1.74bil. “The Joint Sugar Industry continues to engage with the Government to finalise a sustainable pricing mechanism for the domestic retail segment and to regulate imported refined sugar to avoid dumping practices, aiming to ensure food security and the long-term sustainability of the industry,” MSM said.

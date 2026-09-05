@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia remains negative at midday amid profit-taking
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/01/bursa-malaysia-remains-negative-at-midday-amid-profit-taking
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia remained in the negative territory at midday due to profit-taking in PETRONAS-linked and plantation counters. The benchmark index declined 1.68 points, or 0.1%, to 1,623.89 from its intra-morning low of 1,621.44. There were 366 gainers, 565 losers and 469 counters traded unchanged on the Bursa Malaysia. Turnover stood at 1.9 billion shares valued at RM1.2bil. TA Securities said sentiment should remain upbeat amid hopes for fresh stimulus to boost China's economy, and as investors assess the monetary policy statements from global central bankers.
+
+[NEWS_P002] “Immediate index supports are reset to 1,615, 1,608 and 1,585, the respective 30-day, 50-day and 100-day moving average levels, while immediate resistance remains at the recent high of 1,638, with 1,640 and 1,660 as tougher upside hurdles,” it said. Meanwhile, Hong Leong Investment Bank Research said the FBM KLCI may rise further due to a dovish Fed, a strengthening ringgit, and ongoing foreign investor inflows, though a pause might come as the seasonally weak August results season approaches.
+
+[NEWS_P003] “Unless staging a decisive breakdown below the 1,600-1,606 support levels, KLCI may continue its upward trajectory towards 1,638-1,650-1,660 after a healthy consolidation, underpinned by Fed’s rate-cut pivot, stable corporate earnings and economic growth in Malaysia, planned investments inflow, government reforms, and exuberance in investment them,” it said. PETRONAS Dagangan and PETRONAS Gas dragged the composite index down by a combined 0.8572 points.
+
+[NEWS_P004] Both counters lost 20 sen each to RM17.54 and RM18 respectively. Kuala Lumpur Kepong and PPB Group slid six sen each to RM21.02 and RM14.76 respectively. Among the gainers on Bursa Malaysia, Nestle rose 40 sen to RM109, United Plantations added 26 sen to RM26.46, Aeon Credit gained 18 sen to RM7.36 and Engtex Group climbed 16 sen to RM1.31.

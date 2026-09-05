@@ -1,0 +1,93 @@
+document_id: MDA_5202_MSM_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 87, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 197.59, "paragraph_count": 87, "paragraph_length_distribution": {"max": 2196, "mean": 845.954, "min": 28}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+GROUP CHIEF EXECUTIVE OFFICER
+REVIEW
+Generally, the business community in Malaysia is experiencing
+tighter cash flow due to enforced business closures as part
+of the government’s movement control order (MCO) from
+March to May 2020. For the food and beverage sector,
+manufacturers started regulating productions which directly
+affects the consumption of sugar. Domestic economic
+recovery has also been further hampered with the
+Conditional Movement Control Order (CMCO) announced in
+quarter 4 (Q4) of 2020 due to the third wave of COVID-19. This has caused a drop in domestic sugar consumption for
+the wholesale and industry segment for 2020. The sharp slowdown in economic activities is expected to
+contract Malaysia’s GDP by at least 3.1% in 2020 according to
+World Bank projections. 2020 Performance Review
+Overall, MSM’s financial performance was mainly affected
+by lower sugar consumption in the domestic wholesale
+and industry segment due to MCO since late March 2020. During the year under review, the Group’s domestic sales
+volume dropped by 110,000 tonnes or 13% lower compared
+to the prior year and revenue loss was approximately
+RM118 million.
+[MDA_P022]
+• The small sachet size is suitable for take away use with drinks,
+travel and flights. Further exploration downstream into sugar related business
+• A detailed study on the condensed milk business model was
+achieved. Further R&D will be required to obtain the right recipe
+and target market. Stabilise &
+Turnaround
+1. Increase efficiency
+2. Lower refining cost
+– energy cost saving
+strategies
+3. Increase export of value
+added sugar products
+(new SKU)
+Improving production efficiency and yield
+• MSM Johor’s yield has improved to 90% in 2020 compared to
+88% in 2019. Energy cost saving projects are being explored
+• Biomass Boiler project and Solar photovoltaic system were
+identified to reduce energy cost and carbon footprint. • Rationalising CAPEX and prioritising the ramp up plan for MSM
+Johor refinery. • Achieved a higher production volume from higher exports helping
+the plant to achieve a lower refining cost. Export value-added sugar products (new SKU)
+• In 2020, MSM has continued exporting premix, liquid sugar and
+fine syrup to China. • Capacity expansion for fine syrup was completed in 2020.
+[MDA_P044]
+The Group is looking into strategic capital management
+and fund-raising programmes to improve liquidity and
+to meet strategic investment requirements.
+e)
+Monetise non-core assets
+[MDA_P066]
+Maintaining Market Leadership
+The core objectives for Supply Chain Management in 2020
+was to improve on delivery timeframes, reduce downtime,
+heighten cost savings through Just-in-Time arrival of Raw
+Sugar stock and optimise stock holding for refined sugar. There was continued focus on optimum warehouse
+management which ensured improvements on stocks in
+hand. More enhancement initiatives for warehousing are
+in the pipeline for 2021 to enhance operation issues. These
+include installation of an open shade to the loading-unloading
+area of MSM’s main distribution centre, the Sungai Buloh
+Warehouse (SBW), for continued operations even during
+raining season; and the upgrade of the railing siding for
+wagon deliveries under KTM Berhad (KTMB). This shall
+increase present daily deliveries of about 1,000 tonnes or an
+average 37 wagons per day to 45 wagons per day. Plans are
+also underway to enhance SBW’s accessibility by having two
+access ways for better handling of incoming and outgoing
+deliveries. This will improve traffic management and control
+at this main Distribution Centre.
+[MDA_P087]
+: 17 June 2021
+FINANCIAL
+CALENDAR
+MSM MALAYSIA HOLDINGS BERHAD Annual Report 2020
+CHAIRMAN’S
+STATEMENT
+DELIVERING
+VALUE
+MSM
+OVERVIEW
+MANAGEMENT DISCUSSION
+& ANALYSIS
+GROUP FINANCIAL
+REPORT

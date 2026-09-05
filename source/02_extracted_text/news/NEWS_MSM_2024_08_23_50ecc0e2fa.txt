@@ -1,0 +1,24 @@
+[TITLE]
+Trading ideas: Aeon Credit Service, Capital A, Kerjaya, PTT Synergy, Pan Malaysia, Hextar Retail, Sime Property, SunCon
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-08-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/23/trading-ideas-aeon-credit-service-capital-a-kerjaya-ptt-synergy-pan-malaysia-hextar-retail-sime-property-suncon
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Aeon Credit Service (M) Bhd has issued its sixth senior sukuk at a nominal amount of RM350.0mn under its RM2.0bn sukuk wakalah programme. Capital A Bhd has secured a US$443.0mn (RM1.9bn) revenue bond to refinance AirAsia Bhd's lease liabilities, cover aircraft and engine maintenance costs, and support its working capital. Kerjaya Prospek Group Bhd 's unit is suing Apple 99 Development Sdn Bhd, a wholly owned subsidiary of Yong Tai Bhd , over an alleged failure to pay an outstanding contract sum of RM105.1mn.
+
+[NEWS_P002] PTT Synergy Group Bhd had signed an agreement with Chinese robotics manufacturers Siasun Robot & Automation Co Ltd to distribute autonomous intralogistics automation solutions. Pan Malaysia Holdings Bhd plans to diversify into interior design and fit-out services and change its name to Exsim Hospitality Bhd. Hextar Retail Bhd has struck a strategic partnership with Hong Kong’s Tam Jai International Co Ltd to introduce the Tam Jai noodle chain in Malaysia.
+
+[NEWS_P003] Eupe Corporation Bhd has estimated a RM300.0mn gross development value from its Bangsar high-rise residential project that will be launched in 2026. Sime Darby Property Bhd 2QFY24 net profit more than double to RM162.0mn, compared to RM71.1mn a year ago, driven by land sales and increased sales of industrial and high-rise homes. Sunway Construction Group Bhd net profit for 2QFY24 rise 17.8% YoY to RM38.8mn, on improved contributions from all segments.
+
+[NEWS_P004] Kossan Rubber Industries Bhd 2QFY24 net profit of RM31.3mn, a significant turnaround from a net loss of RM3.3mn a year ago, driven by higher contributions across all business segments. UEM Sunrise Bhd reported a 23.7% YoY decline to RM18.8mn in 2QFY24 net profit due to higher operating expenses and a lower share of net results from joint ventures and associates. 7-Eleven Malaysia Holdings Bhd 2QFY24 net profit increased 5.9% YoY to RM20.5mn for 2QFY24, supported by higher revenue and lower administrative and operating expenses.
+
+[NEWS_P005] TSH Resources Bhd saw its net profit nearly double to RM20.6mn in the 2QFY24 from RM10.6mn a year earlier, on higher profit from its palm products segment, lower corporate expenses and finance costs, and increased profit contribution from associate and joint ventures. Bumi Armada Bhd logged a net profit of RM266.0mn in 2QFY24, more than double the RM118.8mn it recorded in last year, thanks to higher margins and contributions from both floating production storage and offloading vessels.
+
+[NEWS_P006] Matrix Concepts Holdings Bhd 1QFY25 net profit was down by 6.0% YoY to RM60.7mn on the back of decreased revenue. Dayang Enterprise Holdings Bhd net profit more than doubled to RM131.4mn in 2QFY24 from RM64.7mn a year earlier, on higher vessel utilisation rates and improved daily charter rates. MSM Malaysia Holdings Bhd reported a net loss of RM32.4mn for 2QFY24, reversing two previous quarters of profit due to increased raw sugar prices, higher operating costs and lower non-operational gains.
+
+[NEWS_P007] Focus Point Holdings Bhd 2QFY24 posted a 16.5% YoY increase to RM8.4mn, underpinned by higher revenue in its optical business and profitability turnaround in its food & beverage segment.

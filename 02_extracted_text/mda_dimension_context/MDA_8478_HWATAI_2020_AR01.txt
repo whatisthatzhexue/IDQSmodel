@@ -1,0 +1,90 @@
+document_id: MDA_8478_HWATAI_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 11, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(Continued)
+[MDA_P002]
+ANNUAL REPORT 2020 I HWA TAI INDUSTRIES BERHAD
+FINANCIAL AND OPERATIONS REVIEWS (Continued)
+There was a slight increase in the Group’s gross profit margin at approximately 30% in FYE 2020 as compared with
+29% in FYE2019. The slight increase of margin was mainly due to no major fluctuation prices of sugar, flour and
+packaging materials, which are major cost components for our products. Moreover, there was no major movement
+of foreign currency exchange (FOREX) on our export sales which mainly transacted in US Dollar in FYE2020 as
+compared to FYE2019. The Group had incurred total expenses of RM21.45 million in FYE2020, almost on par as compared with RM21.80
+million in FYE2019, a marginal decrease of 1.63%. The expenses were mainly from advertising and promotional
+expenses, staff cost and impairment loss on trade receivable. These expenses were also formed partly from selling
+and distribution expenses, administration expenses and other expenses.
+[MDA_P004]
+In compliance with the disclosure of Malaysian Financial Reporting Standard, a share of loss of RM344,000 in this
+associate was recorded and the impact was mitigated by a reversal of partial impairment loss of RM342,000 for
+this associate in FYE2020 which the impairment loss for its remaining cost of investments was fully provided in
+FYE2018. FINANCIAL POSITION
+The table below highlights the Group’s financial position in FYE2020 and FYE2019:
+FYE2020
+RM’000
+FYE2019
+RM’000
+Total assets
+63,501
+58,837
+Total liabilities
+39,907
+36,339
+Shareholders’ equity
+23,588
+22,490
+Total borrowings
+(Secured lease liabilities were included)
+19,669
+16,428
+Cash and bank balances and short-term deposits
+6,973
+9,073
+Net assets per share (sen)
+31.52
+30.05
+Earnings/(Loss) per share (sen)
+1.46
+(2.97)
+The shareholders equity increased to RM23.59 million in FYE2020 from RM22.49 million in FYE2019, an increase
+of RM1.10 million. Total assets and total liabilities stood at RM63.50 million and RM39.91 million respectively in
+FYE2020. An increase of RM4.66 million and RM3.57 million for total assets and total liabilities respectively were
+recorded in FYE2020 as compared with FYE2019.
+[MDA_P006]
+HWA TAI INDUSTRIES BERHAD I ANNUAL REPORT 2020
+FINANCIAL POSITION (Continued)
+Included in short term deposits in FYE2019 is an amount of RM4.86 million, which is part of the RM7.00 million
+Right Issue proceeds raised for capital expenditure from our previous corporate exercise in year 2015 as approved
+by our shareholders at our Extraordinary General Meeting held on 12 November 2014. The Board has resolved to extend the utilization of the proceeds to 13 April 2020 and 13 July 2020 as announced
+on 8 April 2019 and 9 April 2020 respectively. The balance of proceeds raised from the Rights Issue amounting to
+RM7.00 million which was earmarked for capital expenses for business expansion which is to be utilized by the
+timeframe of 13 July 2020 is now fully utilized as announced on 15 June 2020. Investment in capital expenditure of approximately RM9.14 million in FYE2020 was primarily comprised of capital
+work-in-progress amounting to RM6.77 million pertaining to the indirect fire convection biscuit line and the remainder
+was mainly on factory upgrading and machineries.
+[MDA_P007]
+The Group expects to invest broadly the same in the year ahead
+so as to keep up with technological changes where continuous capital expenditure investments are vital to improve
+efficiency and productivity of our factory. BUSINESS STRATEGICS AND RISK FACTORS
+In view of market competition and ever-growing demands from consumers, our Research and Development
+division has continuously focused on product innovation, creativeness on developing healthier choices products
+for consumers, market research in improving our current products to suit consumers preferences without
+compromising on quality. We have been continuously expanding our customer network by penetration to new markets locally and
+internationally, developing and launching new products and also improve our product quality and variety. In line
+with the new norm and e-commerce phenomenon, the Group also is working on various online shopping initiatives
+to drive sales. Apart from the above, the Group has continuously invested in factory upgrading and machineries to improve the
+production efficiency for cost savings.
+[MDA_P008]
+Our factory has been renovated and designed according to food manufacturing
+standards in order to reduce the risk of contamination and facilitate the production of safe finished products. Old factory roof system is removed and reinstalled with new insulated roof system for better manufacturing &
+warehousing environment. The project of conversion of LPG (Liquefied Petroleum Gas) to Natural Gas, as a source
+of burning energy for the production plant which will result in cost savings by approximately 50% was completed
+in FYE2018. As a player in the food industry, the Group is exposed to the risk associated with product quality and standard
+as product safety and quality are of paramount importance to the Group. The risk may have financial impact as
+well as reputation impact. Comprehensive policies and procedures established on processing, plant & machinery
+sanitization as well as employee personal hygiene to prevent contamination. Also the products traceability and
+compliance with stringent quality system are in place too. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(Continued)

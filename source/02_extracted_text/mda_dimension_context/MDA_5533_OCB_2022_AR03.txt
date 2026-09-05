@@ -1,0 +1,120 @@
+document_id: MDA_5533_OCB_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 32, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+(1)
+Consumer Foods Division;
+(2)
+Beddings Products Division;
+(3)
+Building Materials Division; and
+(4)
+Property Development Division. Detailed information on Divisions (1) to (3) above can be found in the Group Directory on pages 13 to 16 of this
+Annual Report, whereas Division (4) above has yet to commence its operations in full but plans for development
+and procurement of regulatory approvals have been on going. Consumer Foods Division
+The Consumer Foods Division operates as subsidiaries under Ibufood Corporation Sdn. Bhd. (“Ibufood Group”). The
+Ibufood Group is a major producer of premium quality instant noodles, mayonnaise, seasoning-powder, seasoning-
+oil, sauces and food ingredients. It is represented by several brand names. IBUMIE is the highly recognisable brand for its instant noodles which
+comes in several different flavours. The TELLY brand represents the food seasoning segment offering premium quality blended seasoning-powder,
+seasoning-oil, sauces, mayonnaise, specialty spices, soup, soup stocks, and marinades. The TELLY mayonnaise
+has grown over the years to become one of the market leaders in the Food Service sector.
+[MDA_P006]
+REVIEW OF THE FINANCIAL RESULTS AND FINANCIAL CONDITIONS
+The Group’s financial performance for FYE 2022 as compared to FYE 2021 is as follows:
+FYE 2022
+RM’000
+FYE 2021
+RM’000
+Increase/
+(Decrease)
+RM’000
+%
+Revenue
+254,904
+238,893
+16,011
+6.7
+Gross Profit
+44,527
+35,610
+8,917
+25.0
+Earnings/(Loss) before interest, taxes,
+depreciation and amortisation
+7,924
+(3,359)
+11,283
+335.9
+(Loss)/Profit before taxation
+(2,002)
+(13,898)
+11,896
+85.6
+(Loss)/Profit after taxation
+(3,768)
+(14,296)
+10,528
+73.6
+Net (Loss )/Profit attributable to equity holders
+(3,609)
+(14,105)
+10,496
+74.4
+Total assets
+301,341
+302,595
+(1,254)
+(0.4)
+Total borrowings and lease liabilities
+84,946
+84,138
+1.0
+Shareholders’ equity
+169,409
+173,113
+(3,704)
+(2.1)
+(Loss)/Earnings per share (Sen)
+(3.51)
+(13.71)
+10.20
+74.4
+Net assets per share (RM)
+1.65
+1.68
+(0.03)
+(1.8)
+The Group recorded a revenue of RM254.9 million and a loss before taxation of RM2.0 million in the FYE 2022 as
+compared to a revenue of RM238.9 million and a loss before taxation of RM13.9 million reported in the immediate
+preceding financial year. Both Bedding Products and Consumer Foods Divisions reported higher sales of 39% and
+7% respectively for FYE 2022.
+[MDA_P007]
+The higher sales performance from the Bedding Products Division was mainly resulted from reopening of the
+economy and the pent-up demand for its products. Similarly, the higher sales from Consumer Foods Division were mainly due to the higher demand for its products
+especially noodles and mayonnaise. Sales of its noodles and mayonnaise in FYE 2022 increased to RM60.5 million
+(FYE 2021: RM50.9 million) and RM42.5 million (FYE 2021: RM40.8 million) respectively. The increase in noodles
+sales was mainly due to the newly-secured OEM business. Building Materials Division reported a drop in sales by 30%. Sales for both retail and project segments deceased
+by 61% and 14% respectively. The drop in retail sales was mainly due to the discontinuation of retail sales from
+one of its agency brands.
+[MDA_P008]
+Registration No. 195901000114 (3465-H)
+REVIEW OF THE FINANCIAL RESULTS AND FINANCIAL CONDITIONS (Cont’d)
+The Group reported a lower loss before taxation in FYE 2022 mainly attributable to the inclusion of impairment loss
+recorded in FYE 2021. The Group had impaired intangible assets amounting to RM10.4 million from the Bedding
+Products Division in FYE 2021. The amount impaired was non-cash and based on impairment test to reflect the
+fair value of the business in line with the current highly competitive and uncertain environment as a result of the
+Covid-19 pandemic. The Bedding Products Division reported a profit before taxation of RM5.5 million for FYE 2022 as opposed to a
+loss before taxation of RM10.7 million in FYE 2021 as a result of inclusion of the impairment of intangible assets
+amounting to RM10.4 million in FYE 2021. The Division had registered a 30% increase in its total retail sales to
+RM52.10 million in FYE 2022 from RM40.1 million in FYE 2021. Project segment also witnessed an increase of
+154% to RM13.6 million from RM5.4 million in FYE 2021. However, export sales dropped 48% to RM1.4 million as
+compared to RM2.6 million in the preceding corresponding year.
+[MDA_P009]
+The Consumer Foods Division posted a loss before taxation of RM2.2 million for FYE 2022 as compared to a profit
+before taxation of RM0.8 million in FYE 2021 due to rising raw materials cost and higher operating expenses ratio. Material costs such as wheat escalated up to 30% year-on-year basis brought about by the Russian-Ukrainian conflict. Building Materials Division posted a higher loss before taxation of RM4.5 million in FYE 2022 as compared to a
+loss before taxation of RM2.0 million in FYE 2021 due to the delay in certain projects and coupled with a higher
+operating expenses ratio. The Group has not adopted any dividend policy. The Board annually evaluates the Group’s profitability, cash flows
+position and long-term plans prior to deciding on any dividend payment. The Board did not propose any dividend in respect of FYE 2022 (FYE 2021: Nil). The loss per share of the Company for FYE 2022 was 3.51 sen as against loss per share of 13.71 sen for FYE 2021.

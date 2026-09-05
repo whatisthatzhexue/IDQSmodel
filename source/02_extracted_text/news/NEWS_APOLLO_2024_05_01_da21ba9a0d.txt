@@ -1,0 +1,16 @@
+[TITLE]
+Apollo accused of illegal life policy scheme
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-05-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/01/apollo-accused-of-illegal-life-policy-scheme
+confidence_tier: low
+
+[NEWS_P001] NEW YORK: Apollo Global Management Inc bet on the longevity of senior citizens by acquiring illegal life insurance policies and funnelling the payouts through shell entities, according to a new lawsuit. The private equity giant allegedly set up a web of sham trusts – using a secretive affiliate called Financial Credit Investment – to hold a portfolio of stranger-originated life insurance policies worth US$20bil. Taking out life insurance on a stranger is “anathema to hundreds of years of public policy” and a violation of the Delaware Constitution, the suit said.
+
+[NEWS_P002] “Apollo has been carrying out a widespread fraudulent human life wagering conspiracy designed to not only hide its involvement, but to create the false appearance that the policies it owns are somehow legitimate,” according to the complaint. “Worse still, when Apollo senses a claim is going to be brought, it attempts to dissolve its shell entities to give itself yet another layer of protection.” The lawsuit was filed April 26 in Delaware’s Chancery Court by the estate of Martha Barotz, whose policy allegedly paid out US$5mil after she died in 2018.
+
+[NEWS_P003] The case stems from earlier litigation between the Barotz estate and the Apollo-linked trusts, along with the estate’s subsequent attempts to collect on the nearly US$7mil judgement it won, according to the new complaint. — Bloomberg

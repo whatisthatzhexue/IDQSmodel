@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia lower on absence of fresh leads
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-03-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/06/bursa-malaysia-lower-on-absence-of-fresh-leads
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Trading on Bursa Malaysia remained cautious due to a lack of new catalysts, coupled with tomorrow's announcement of Bank Negara's overnight policy rate (OPR). The FBM KLCI fell 4.42 points, or 0.29% to 1,532.56 at midday after hitting an intra-morning high of 1,535.20. There were 522 gainers, 336 losers and 414 counters traded unchanged on the Bursa Malaysia. Turnover stood at 2.2 billion shares valued at RM1.27bil. Rakuten Trade expects market undertone to stay cautious from the decline on Wall Street, a swift rebound is required for the FBM KLCI to maintain its recent progress.
+
+[NEWS_P002] “Therefore, we believe the index to hover within the 1,535-1,545 range today and recent positive newsflow within the construction sector should bode well for the contractors,” it added. AmBank’s shares fell 4.76%, or 20 sen to RM4 with 24.25 million shares traded following news that ANZ Group has upsized its initial plan, opting to divest a larger 16.5% stake in AmBank instead of the initially proposed 9%. ANZ said it agreed to sell 16.5% of the issued capital in AmBank via a block trade at a price of RM3.85 per share.
+
+[NEWS_P003] The sale will reduce ANZ’s shareholding in AmBank from 21.7% to 5.2%. Other decliners on Bursa Malaysia include PETRONAS Dagangan, which lost 36 sen to RM21.90, Bintulu Port declined 16 sen to RM5.72 and ViTrox fell 14 sen to RM7.20. Among the gainers, Nestle rose RM1.10 to RM120.60, United Plantations added 68 sen to RM23.94, F&N gained 28 sen to RM28.90 and Heineken climbed 26 sen to RM23.16. TA Securities said stocks should extend their fall following the overnight US correction amid uncertainty over upcoming inflation and interest rate guidance from the US and European Central Bank meetings.
+
+[NEWS_P004] “A stronger index will cushion the downside from further profit-taking pullbacks, which will be at 1,526, 1,511 and 1,488, the respective 30-day, 50-day and 100-day moving averages. “Immediate resistance will be from the recent 21-month high of 1,559, followed by 1,580, with a stronger upside hurdle seen at the 1,600 level,” TA said.

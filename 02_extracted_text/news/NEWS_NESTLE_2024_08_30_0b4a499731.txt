@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI rallies 1.53% to close at nearly fresh 4-year high
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/30/fbm-klci-rallies-153-to-close-at-nearly-fresh-4-year-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia staged a strong rebound on Friday, rallying significantly to a fresh high, its highest level in almost four years, driven by market optimism. The FBM KLCI settled the day up 25.25 points, or 1.53% to 1,678.80, its highest since December 2020. The market traded within a range of 28.75 points between an intra-day high of 1,679.85 and a low of 1,651.10 during the session. Today's gain is the largest since the 1.53% increase on Augt 19, and for the week, the index rose by 43.06 points, or 2.63%.
+
+[NEWS_P002] Broad market sentiment is positive, with 771 gainers outpacing 421 losers and 437 counters remaining unchanged. Turnover was 3.96 billion shares, valued at RM6.22bil. Among the gainers, Nestle surged RM5.40 to RM106, Malaysian Pacific Industries jumped RM1.60 to RM29.60, Tenaga rose 70 sen to RM14.64 and F&N added 40 sen to RM29.90. Genting Plantations, the top loser on Bursa Malaysia, slid 21 sen to RM5.34. Aeon Credit fell 19 sen to RM7.10, Heineken lost 18 sen to RM23 and Press Metal declined 18 sen to RM4.97.
+
+[NEWS_P003] Meanwhile, stock market data showed foreign funds and retailers were net buyers at RM274mil and RM26mil respectively on Thursday. Local institutions were net sellers at RM300mil. Reuters reported that the ringgit has had a stellar run with a year-to-date gain of nearly 6.5% and its strongest monthly performance since March 2016. The ringgit was down 0.12% against the greenback to 4.3161. The local currency has depreciated by 0.08% against the pound sterling, now at 5.6923, and traded flat against the Singapore dollar at 3.3145.
+
+[NEWS_P004] Meanwhile, US West Texas Intermediate crude rose 37 cents to US$76.28 and Brent added 48 cents to US$80.42 per barrel. Among the key regional markets: Japan’s Nikkei 225 closed up 0.75% to 38,647.75; Hong Kong’s Hang Seng Index rose 1.14% to 17,989.07; China’s CSI300 Index added1.33% to 3,321.43; Taiwan’s Taiex climbed 0.3% to 22,268.09; South Korea’s Kospi advanced 0.45% to 2,674.31 and; Singapore’s Straits Times Index rose 0.8% to 3,433.02 points.

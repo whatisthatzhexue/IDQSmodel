@@ -1,0 +1,18 @@
+document_id: MDA_7103_SPRITZER_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 98.903, "paragraph_count": 12, "paragraph_length_distribution": {"max": 865, "mean": 402.0, "min": 11}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P004]
+3.1% in 2021 (2020: -5.6%) amidst the challenging global and domestic economic environment. Nevertheless, the year 2021 was also volatile where the levels of economic activities were closely linked to the various movement control measures imposed by the Government.
+[MDA_P007]
+management and at the same time minimising the use of forklifts and thus reduces our carbon footprint. The Group has an annual production capacity of about 850 million litres of bottled water as of December 31, 2021.
+[MDA_P010]
+revenue. We also have a wholly owned trading company in Guangzhou, China which has, in April 2016, started its operations of selling and wholesale distribution of bottled water products in China. The Group also exports its mineral water products under the brand name ACILIS by Spritzer to United Kingdom and Netherlands. The Group also owns and manages the Spritzer EcoPark. This recreational park is situated within our 330-acre mineral water plant in Taiping, Perak. The Spritzer EcoPark, which has been in operations since August 2015, has an 18-hole mini-golf course, a cafeteria, a discovery tunnel and a kids’ arts and craft centre. As of December 31, 2021, the Group has a workforce of 809 (2020: 837) employees.
+[MDA_P012]
+100% Recyclable Plant-Based Bottle Tetra Pak Packaging

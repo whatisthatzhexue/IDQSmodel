@@ -1,0 +1,16 @@
+[TITLE]
+Kawan Renergy bags RM58mil power plant subcontract
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-08-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/07/kawan-renergy-bags-rm58mil-power-plant-subcontract
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Kawan Renergy Bhd’s wholly-owned subsidiary, Kawan Engineering Sdn Bhd has secured a RM58mil contract from Kinergy Advancement Bhd (KAB)’s key sustainable energy solutions entity, KAB Energy Holdings Sdn Bhd (KABEH). The engineering solutions provider said the project entails the scope of engineering, procurement, construction and commissioning (EPCC) for a 52-MW power plant and its associated facilities in Sipitang, Sabah, with an estimated completion by the first quarter of 2026.
+
+[NEWS_P002] Managing director Lim Thou Lai said the project is expected to contribute positively to its financial performance for this fiscal year ending Oct 31, 2024 (FY24) and onwards. “Our diverse project portfolio currently includes industrial process equipment, process plants, and renewable energy and co-generation facilities,” Lim said. Kawan Renergy remains optimistic about its prospects given the sustained demand for its services. The fresh capital injection from its May 2024 initial public offering (IPO) has been pivotal in accelerating its growth strategies, particularly in the thriving industrial process equipment sector.
+
+[NEWS_P003] This, coupled with the booming demand for renewable energy and co-generation plants, aligns perfectly with Malaysia’s ambitious net-zero emissions target by 2050.

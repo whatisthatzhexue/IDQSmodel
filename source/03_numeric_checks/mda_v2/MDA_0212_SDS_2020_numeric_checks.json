@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 29.862678,
+      "current_value": 57193.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P008]",
+      "metric": "margin",
+      "note": "margin: stated 29.90%, calculated 29.86% from profit/revenue, status consistent.",
+      "previous_value": 191520.0,
+      "source_text": "management discussion and analysis YEAR ON YEAR FINANCIAL REVIEW Financial Indicators FY2020 RM’000 FY2019 RM’000 Difference (%) Revenue 191,520 187,129 2.4 Gross Profit 57,193 57,100 0.2 Gross Profit Margin 29.9% 30.5% -2.0 Profit before tax 4,998 9,302 -46.3 Profit after tax 4,212 7,854 -46.4 Net ",
+      "stated_pct": 29.9,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": 0.460396,
+      "current_value": 9.3,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P009]",
+      "metric": "margin",
+      "note": "margin: stated 46.30%, calculated 0.46% from profit/revenue, status material_discrepancy.",
+      "previous_value": 2020.0,
+      "source_text": "Due to the outbreak of the COVID-19 pandemic, the Group has experienced lower revenue from the retail channel since February 2020 as consumers began to avoid crowded places. However, during this period, some of the fixed overhead expenses remained constant, thus resulting in a slightly lower gross p",
+      "stated_pct": 46.3,
+      "status": "material_discrepancy"
+    }
+  ],
+  "document_id": "MDA_0212_SDS_2020",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "margin: stated 29.90%, calculated 29.86% from profit/revenue, status consistent.",
+    "margin: stated 46.30%, calculated 0.46% from profit/revenue, status material_discrepancy."
+  ],
+  "num_calculable_changes": 2,
+  "num_consistent_checks": 1,
+  "num_financial_mentions": 51,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

@@ -1,0 +1,18 @@
+[TITLE]
+Energy stocks drive FBM KLCI higher at lunch break
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-06-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/13/energy-stocks-drive-fbm-klci-higher-at-lunch-break
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Gains in energy and banking stocks continued to support the FBM KLCI to end the morning session on a firm note. At 12.30pm, the benchmark index added 4.19 points, or 0.26% to 1,613.14. There were 644 gainers, 421 losers, and 479 counters traded unchanged on the Bursa Malaysia. Turnover stood at 3.24 billion shares valued at RM2.09bil. TA Securities said blue chips should stay range-bound as investors assess regional inflation data and the US FOMC statement on interest rates, while situational plays on lower liners take a profit-taking breather.
+
+[NEWS_P002] “Immediate index supports are at 1,602, the rising 30-day moving average, with 1,588 and 1,558, the respective 50-day and 100-day moving averages, acting as stronger supports. “Immediate resistance remains the recent high of 1,632, with 1,640, 1,660 and then 1,680 as tougher upside hurdles,” TA said. Meanwhile, Rakuten Trade believes buyers should emerge today after the broader market resurgence on Wall Street overnight thus expect the benchmark index to hover between the 1,610-1,625 range.
+
+[NEWS_P003] Among the FBM KLCI component stocks, PETRONAS Dagangan jumped 28 sen to RM17.98, Tenaga Nasional gained 26 sen to RM14.14 and YTL Power rose 14 sen to RM5.17. Among the banks, AmBank added five sen to RM4.28, Maybank rose four sen to RM10, and Public Bank gained three sen to RM4.09. RHB Bank added one sen while CIMB was unchanged at RM6.89. Laggards among the KLCI component stocks were Nestle, Kuala Lumpur Kepong, Hong Leong Financial Group and Telekom Malaysia.
+
+[NEWS_P004] On the broader market, KESM jumped 55 sen to RM7.07, Cahya Mata Sarawak rose 16 sen to RM1.38, United Plantations slid 34 sen to RM24.16 and Allianz fell 22 sen to RM22.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI closes at highest in 20 months
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-02-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/02/19/fbm-klci-closes-at-highest-in-20-months
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI marched higher for the second straight trading session, ending at a 20-month high on steady buying from foreign investors. The benchmark index rose 5.06 points, or 0.33% to 1,538.61, its highest since June 2022. The index hit an intraday high of 1,539.25 and a low of 1,530.58. Overall, 447 stocks advanced, 554 stocks declined and 459 stocks were flat. A total of 3.47 billion shares changed hands, worth RM2.07bil in all. Two-thirds of the KLCI-component stocks were traded higher today, six counters closed down while four counters remained unchanged.
+
+[NEWS_P002] Significant advancers on Bursa Malaysia include United Plantations, which jumped 52 sen to RM20.52, Petronas Dagangan, which added 50 sen to RM22.80 and Nestle, which rose 20 sen to RM121.90. On the other hand, Heineken tumbled RM1.40 to RM23.44, Allianz shed 22 sen to RM19.38 and Bursa Malaysia lost 10 sen to RM7.36. Ringgit was quoted at 4.7870, down 0.16% against the US dollar. The ringgit was traded 0.22% lower against Singapore dollar at 3.5579 and British pound at 6.0381, down 0.39%.
+
+[NEWS_P003] On the external front, MSCI's broadest index of Asia-Pacific shares outside Japan fell 0.03%. Japan’s Nikkei 225 closed down 0.04% at 38,470.38, Hong Kong’s Hang Seng fell 1.13% to 16,155.61 and China’s CSI300 index rose 1.16% to 3,403.81.

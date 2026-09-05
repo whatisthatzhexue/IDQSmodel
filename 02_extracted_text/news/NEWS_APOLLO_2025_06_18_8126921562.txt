@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: KPJ, Yinson, Apollo, BLand, MMHE, Theta, Chin Hin, UWC, Jaycorp
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-06-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/18/trading-ideas-kpj-yinson-apollo-bland-mmhe-theta-chin-hin-uwc-jaycorp
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. KPJ Healthcare Bhd has awarded a total of RM32mn worth of hospital renovation works to a company linked to its major shareholder Johor Corporation. Yinson Holdings Bhd said it has closed the first tranche of US$300mn (RM1.3bn) from US$1bn committed by a consortium of international investors. Apollo Food Holdings Bhd aims to continue the rationalisation of its manufacturing facilities and the execution of its capacity expansion plans in the FY2026.
+
+[NEWS_P002] Berjaya Land Bhd has entered into a memorandum of understanding with Impianan Utara Sdn Bhd to explore rare earth mining and the planting of Napier hybrid grass and Blackthorn durian in Perlis. Malaysia Marine and Heavy Engineering Holdings Bhd has secured a final legal victory in its long-standing dispute with Kebabangan Petroleum Operating Company Sdn Bhd, after the Federal Court dismissed KPOC’s application for leave to appeal against an earlier Court of Appeal decision.
+
+[NEWS_P003] Theta Edge Bhd has accepted a letter of award from the National Cancer Society Malaysia for the provision of mobile X-ray equipment worth RM4.4mn. Chin Hin Group Bhd has terminated its proposed acquisition of substantial stakes in two data centre specialist firms, Critical System Specialist Sdn Bhd and CSS Engineering and Construction Sdn Bhd. UWC Bhd remains optimistic about its business prospects and the industries it operates in, citing signs of recovery after reporting a near-doubling of net profit to RM8mn for the 3QFY25.
+
+[NEWS_P004] Jaycorp Bhd has posted its first quarterly loss of RM2.2mn in more than three years in the 3QFY25, weighed down by sluggish furniture demand in both domestic and export markets as well as unfavourable foreign exchange rates.

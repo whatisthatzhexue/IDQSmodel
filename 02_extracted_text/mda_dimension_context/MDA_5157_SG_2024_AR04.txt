@@ -1,0 +1,118 @@
+document_id: MDA_5157_SG_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P006]
+Even facing the uncertainty on
+post Covid-19 pandemic challenge on global and local in material
+price and forex, the Group was still able to generated positive cash
+inflow from operation and still maintained its current ratio at 5.0
+times for FYE 2024 as compared to 3.7 times for FYE 2023. During the financial year under review, the Group raised funds of
+RM10.0 million through private placement and shares issuance
+scheme. The cash generated were used to purchase of additional
+machinery and expansion of production and cold storage space. This will able to increase the Company production capacity by at
+least 30% in coming years. Cash and cash equivalent stood at RM5.1
+million as at 31 July 2024. FYE 2024
+FYE 2023
+(RM’000)
+(RM’000)
+Net cash generated used in
+investing activities
+(12,299)
+(28,522)
+Net cash generated from
+financing activities
+9,031
+4,172
+Net increase/(decrease) in cash
+and cash equivalent
+1,069
+(3,892)
+In FYE 2023, the Group has invested RM5.7 million in FYE2024 as
+compared to RM23.9 million in FYE 2023 on the acquisition of plant
+and machineries.
+[MDA_P007]
+The spending was mainly in the acquisition of new production
+machinery and increase in production and cold storage space that
+will improve the production capacity in order to cater existing
+customers demand and increasing demand by customers from
+East Malaysia in the now and coming years. Even with the tough
+time during the financial year under review, the management
+re-strategised the direction decided that it was a strategic time for
+expansion and reinvestment to replace old machines with more
+automated machines in the short and middle term. Therefore, the
+Group raised funds for expansion of production and reinvesting
+into new machinery to increase the production capacity of the
+Group in coming years, even during this challenging time i.e. post Covid-19 pandemic and uncertainty in global situation. Financial Position Analysis
+FYE 2024
+FYE 2023
+(RM’000)
+(RM’000)
+Inventories
+22,315
+18,461
+Trade and other receivables, and
+amount due from an associate
+12,594
+23,346
+Trade and other payables, and
+amount due to an associate
+12,502
+17,476
+Bank borrowings
+1,077
+Our Group’s inventories was RM22.3 million for FYE 2024 as
+compared to RM18.5 million for FYE 2023.
+[MDA_P008]
+This represents an
+increase in inventories level by 20.5% which mainly due to the
+purchase of material towards the end of the financial year and to
+cater the increase in production capacity in coming quarter for
+FPP products. However, the Management will continue to monitor
+the inventories holding level to and inventories holding period to
+minimized the inventories holding costs and handling cost on this
+inventories. Trade and other receivables stand at RM12.6 million for FYE 2024 to
+RM23.3 million for FYE 2023, ie. a decrease by RM10.7 million. The
+decrease was mainly due to collection from customers with a closed
+monitoring of collection from receivables. The trade receivables
+reduce by RM2.0 million as compared FY 2023. The decrease
+in trade receivables was due to collection form customers that
+been closely monitored with short credit term given to customer. Therefore, its represents a trade turnover period of 36 days for FYE
+2024 as compared to 48 days for FYE 2023. Besides the continuing impact of post Covid-19 pandemic and
+uncertainty in Global situation.
+[MDA_P010]
+SAUDIGOLD GROUP BERHAD 200801036832 (838172-P)
+Shareholders’ Fund Analysis
+EARNINGS / (LOSS) PER SHARE (SEN)
+(18.04)
+(1.47)
+(0.49)
+(0.67)
+(0.40)
+(5.00)
+(10.00)
+(15.00)
+(20.00)
+(25.00)
+-
+Our Group’s shareholders’ equity as at 31 July 2024 stood at RM140.4 million representing an increase of RM4.2 million or 3.1% over
+the previous financial year ended 31 July 2023 of RM136.2 million. The increase was mainly due to fund raising by private placement
+and shares issuance scheme in current year under review. -
+The Group’s net assets per share reduce to 9 sen in FYE 2024 as compare to 12 sen in FYE 2023. This mainly due to increase in number
+of ordinary shares. Key Risk and Mitigation
+After completely implementing the distributorship model under current year review, the Group was able to strengthen its credit control
+and minimised exposure of credit risks. However, due to the post Covid and uncertainty in global economy during the financial year, the
+Group had continued monitoring the situation in Malaysia and globally.
+[MDA_P011]
+The additional cost such as labour costs on the imposition of
+minimum wages from RM1,200 per month to RM1,500 per month couple with the cancellation of diesel subsidy implemented during
+the financial under year review. The group need to be more prudent in managing the expenses in coming years. This additional cost has
+contributed to the negative result during the financial year under review. As such, the Group will continue to put more effort in strengthen
+the growth distributorship channel on FPP segment and increase production capacity to cater the increase in demand of FPP in the
+coming year. Trend, outlook, future challenge, strategy and capital expenditure
+The Group will continue to improve its operation efficiency with effective resources planning, practicing lean concept for operation work
+flow as well as empower the employees especially middle management to initiate and execute ideas for better production cost control by
+sharing their idea and thinking every day during our daily and monthly Head of Department meeting that will discuss the current situation
+of the Company and risks that were faced during the past month and will be facing in the coming months.

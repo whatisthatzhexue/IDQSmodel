@@ -1,0 +1,85 @@
+document_id: MDA_5306_FFB_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 54, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+In our commitment to drive sustained value creation, we thoroughly analyse and evaluate all market factors and
+developments that hold the potential to shape our operations. The strategies we craft to address these global
+megatrends and respond to the shifting industry landscape play a vital role in safeguarding the sustainability and
+performance of our business. Macroeconomic Challenges
+Description
+While the latest trends in the International Monetary Fund (IMF)’s
+Global Uncertainty Index indicate that uncertainty due to factors
+such as the COVID-19 pandemic and international trade tensions
+have contracted compared to last year, the Russia-Ukraine conflict
+remains the dominant contributor for global economic insecurity1. The ongoing war is likely to continue to cause volatility in
+commodities, materials and logistics costs. Meanwhile, the World Bank recently softened its stance on
+impending global recession, but forecasted global GDP growth
+of just 2.1% in 2023, well below the 3.1% in global growth recorded
+last year.
+[MDA_P004]
+Despite this, we believe the expected continued growth
+in demand for dairy products in Southeast Asia, coupled with
+expected higher economic growth overall in Southeast Asia than
+the global average provides optimism for our expansion plans. In Australia, strong domestic demand for milk products, combined
+with limited Australia milk pool has resulted in Australia farmgate
+prices to continue to remain elevated. 1.
+[MDA_P005]
+https://www.imf.org/en/Blogs/Articles/2023/01/26/global-economic-uncertainty-remains-
+elevated-weighing-on-growth
+• Given the long-term nature of the headwinds and to counter the excessive impact of
+the input cost increases, we have increased our prices by an average of 5% in both
+August 2022 and July 2023 for our chilled products in Malaysia, on top of a 10% price
+increase in Singapore in August 2022
+• To counter the elevated Australia farmgate prices, we have already started to vary our
+milk mix by expanding further our farm capacities in both Malaysia and Australia
+• We closely monitor prices and stock levels to enable us to pre-emptively manage
+against supply and demand volatility
+• We are hedging our costs by locking in prices for our ingredients upfront for future
+deliveries as well as entering into forward contracts to hedge our foreign currency exposure
+OUR RESPONSE
+Key Stakeholders
+Material Matters
+Capitals
+Farm Fresh Berhad | Integrated Annual Report 2023
+M a n a g e m e n t D i s c u s s i o n & A n a l y s i s
+Strategic Review
+Market Landscape
+– Key Market Trends
+[MDA_P010]
+• We will stay true to our mission of delivering a wide variety of nutritious dairy-based products, which are free
+from preservatives, artificial flavorings, colorings and foreign substances, as we cement our position as Malaysia’s
+most trusted producer of dairy products
+• Recognising the market demand, we successfully launched a growing up milk for children, that is fortified with
+nutrients and free from preservatives, artificial flavouring, sugar, maltodextrin and other unnecessary ingredients. We will continue to expand our penetration within this market with the launch of a powder variant by end-
+• We launched two new plant-based products in FY2023, our Oat and Almond barista milk, and we will continue
+to introduce new products that meet the evolving needs and dietary restrictions of our consumers
+• We aim to continually grow and expand our market share and product range in the yoghurt category to
+capitalise on growing consumer consumption of probiotic rich dairy products
+OUR RESPONSE
+3.
+[MDA_P012]
+Digitalisation & Industry 4.0
+Description
+As digital technology and its applications continue to evolve, it is reshaping the FMCG and dairy sectors and
+transforming the way goods are manufactured, marketed and consumed. At the farm level, automation has emerged as a game-changer, reducing dependence on manual labour and
+delivering notable gains in time and cost efficiencies that ultimately benefits our financial performance. Moreover,
+the integration of data and analytics into farming practices empowers owners with valuable insights into weather
+patterns, crop conditions, animal health and other critical factors, enabling smarter decision-making processes. Moving downstream, the widespread adoption of digital sales and marketing channels by FMCG companies
+has proven instrumental in streamlining distribution costs and connecting with a new generation of tech-savvy
+consumers. The acceleration of this digital shift during the COVID-19 pandemic further underscores its significance
+and potential as a key growth avenue for the future.
+[MDA_P013]
+As we explore and implement relevant technologies that enhance our operations, we proactively address the
+risk posed by emerging technologies introduced by both new market entrants and existing players, securing
+our competitive edge in the industry. • We have implemented Industry 4.0 technology, including automated milking stations and a modern palletising
+system, with plans to expand their use for increased efficiency and productivity
+• To improve processing efficiency, we will continue to invest in advanced technology within our facilities to
+optimise production processes, reduce costs and enhance product quality
+OUR RESPONSE
+Key Stakeholders
+Material Matters
+Capitals
+Farm Fresh Berhad | Integrated Annual Report 2023

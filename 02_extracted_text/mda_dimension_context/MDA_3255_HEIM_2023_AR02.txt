@@ -1,0 +1,134 @@
+document_id: MDA_3255_HEIM_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 59, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_3255_HEIM_2023", "has_cost_discussion": true, "has_margin_discussion": false, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 55, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P002]
+Esg Review
+How We Are Governed
+Our Numbers and Other Information
+Annual Report 2023
+Management Discussion & Analysis
+INTRODUCTION
+Heineken Malaysia Berhad’s business
+is all about transcending borders and
+connecting people through good times,
+one way or another. Indeed, we can
+often find beer at the center of social
+connections, and this is why our purpose,
+Brew the Joy of True Togetherness to
+Inspire a Better World, defines everything
+we do. After a strong rebound in 2022,
+expectations for 2023 were high, however
+it proved to be a more challenging year. I
+am proud of the resilience of our business
+and our people, as we pushed flat out
+to deliver a commendable performance
+despite the challenges. We have made
+good progress on our EverGreen strategy
+and will continue to accelerate initiatives
+designed to help us meet our strategic
+goals not only for the short term, but also
+with the aim to future proof our business. We had to adapt to the evolving
+environment with challenges that included
+global macroeconomic uncertainties,
+geopolitical tensions, a weakening Ringgit,
+rising costs of living, and softening
+consumer sentiments.
+[MDA_P003]
+These factors
+contributed to a market correction
+in 2023, which saw market demand
+gradually normalise as compared against
+the strong rebound we saw in 2022 after
+pandemic-related restrictions were lifted. It is important to note that despite the
+market correction, our strategy to enable
+balanced growth is bearing fruits, with our
+performance still above the pre-pandemic
+levels of 2019. We are taking bold moves under the
+EverGreen strategy. Indeed, we have built
+strong momentum across our five key
+strategic pillars: emphasising consumer
+and customer-centricity as we shape
+the future of beer and beyond to drive
+superior growth; growing productivity and
+a cost conscious culture with an aim to
+unlock efficiencies that can be reinvested
+to power our growth engine; raising the
+bar on sustainability and responsibility
+to deliver our net zero ambition; boosting
+digitalisation of our processes to
+become the best-connected brewer; and
+developing our talent and capabilities to
+strengthen a culture of high performance. With EverGreen, we are future-proofing
+HEINEKEN Malaysia to be a continually
+renewing, learning, and growing company
+to deliver superior and balanced growth.
+[MDA_P004]
+The following is a review of our business
+and financial performance, the highlights
+of our commercial campaigns, the
+progress of our sustainability goals, as well
+as the outlook for 2024. OUR PERFORMANCE
+Compared with our 2022 performance,
+Group revenue decreased by 8%, mainly
+due to weak consumer sentiment
+attributed to growing macroeconomic
+concerns. Comparatively, the Group had
+a strong base in 2022 following the re-
+opening of the economy at the end of
+the Covid-19 pandemic. Post the strong
+rebound in 2022, the Group views its
+2023 performance as a form of market
+correction. Group Profit Before Tax declined by 14%
+to RM511 million, primarily due to lower
+revenue. Comparatively, the Group’s net
+profit for the year decreased by 6% due to
+the absence of the one-off Prosperity Tax in
+the year under review. Corresponding with
+the above, earnings per share decreased
+from RM1.37 to RM1.28 per share. Net cash from operating activities for
+FY2023 increased by 25% to RM584
+million attributed to overall favorable
+working capital movement. The Group has
+improved its capital efficiency through
+entering into a factoring arrangement in
+FY2023.
+[MDA_P005]
+Net assets for FY2023 was recorded at
+RM459 million, 6% lower versus FY2022
+mainly due to decline in Group business
+performance during the year. Capital expenditure for FY2023 decreased
+by 28% to RM143 million mainly due to
+lower spend incurred. The Group recorded
+a higher spend in FY2022 driven by
+investment in the brewery upgrade which
+has been completed in FY2023. The Group paid a total of RM1.3 billion
+in excise, custom duties, and sales tax
+for the year. For income taxes, the Group
+has incurred a total of RM124 million,
+translated into an effective tax rate of
+24.3%. For FY2023, the Board has declared and
+paid a single tier interim dividend of 40 sen
+per stock unit on 10 November 2023 and
+proposed a single tier final dividend of
+88 sen per stock unit. Subject to approval
+of the shareholders at the forthcoming
+Annual General Meeting, the single tier
+final dividend will be paid on 25 July 2024
+to shareholders registered at the close of
+business on 28 June 2024. The dividend
+payout ratio for the year is approximately
+100%. Revenue
+RM2.64
+billion
+Profit Before Tax
+RM511
+million
+Net Profit
+RM387
+million
+GROUP FINANCIAL PERFORMANCE FOR FY2023

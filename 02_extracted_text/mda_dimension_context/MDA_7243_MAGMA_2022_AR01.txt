@@ -1,0 +1,99 @@
+document_id: MDA_7243_MAGMA_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 47, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+1.
+FINANCIAL REVIEW
+[MDA_P003]
+The summary of the Statement of Comprehensive Income is as follows:
+(RM ‘000)
+FPE 2022
+(18 Months)
+FYE 2021
+Variance FPE 2022
+vs. FYE 2021
+Revenue
+26,725
+19,499
+37.1%
+Gross Profit (“GP”)
+15,153
+6,193
+>100.0%
+Gross Profit Margin (“GPM”)
+56.7%
+31.8%
+Administrative Expenses
+(13,051)
+(6,723)
+(94.1%)
+Other Cost
+(15,928)
+(9,938)
+(60.3%)
+(Loss) Before Tax (“LBT”)
+(13,826)
+(10,467)
+(32.1%)
+(Loss) After Tax from Continued Operations (1) (“LAT”)
+(14,307)
+(10,730)
+(33.3%)
+[MDA_P006]
+For the FPE 2022, the Group recorded a total revenue of RM26.72 million, higher compared to FYE 2021
+total revenue of RM19.50 million which represents an increase of RM7.23 million or 37.1%. The increase was
+substantially contributed by all segments under IHB Group comprising of Hotel Operation, Hotel Management
+and Property Sales. During FPE 2022 (18 months), the financial year end was changed from 30th June to 31st
+December. Therefore the audited financial statement is for a period of eighteen (18) months from 1st July 2021 to
+31st December 2022.
+[MDA_P008]
+The Group recognised a LBT of RM13.83 million for FPE 2022 compared to a LBT of RM10.47 million for FYE
+2021. The increased losses were mainly attributable to higher administrative expenses in line with increase of 6
+months of the financial period.
+[MDA_P009]
+The Group operates primarily in the hospitality industry whereby its source of income is mainly from the provision
+of management and operations services to hotel & resorts and hotel businesses. The Covid-19 pandemic has hit
+the industry that we are in severely and as a result, we were not able to maintain profitability from our business
+operations and this has resulted in an operating loss from our operating activities of RM14.31 million. In FPE
+2022, the Group’s finance cost was RM11.73 million compared to RM8.13 million in FYE 2021.
+Annual Report 2022
+[MDA_P014]
+For FPE 2022, the Group’s total asset base increased by 8.8% to RM221.82 million from RM203.93 million in
+FYE 2021. The increase was primarily due to revaluation of property, plant and equipment of RM37.94 million.
+The intangible assets are mainly on the hotel management rights which a subsidiary of the Company has the
+rights over the management of hotels under our Impiana brand name.
+[MDA_P022]
+The Group’s revenue for the FYE 2022 was derived from the hospitality and the property development
+businesses. The hospitality revenue came from the Hotel Operation segment represented by Impiana Ipoh Sdn.
+Bhd. (“IISB”), whereas the Hotel Management segment comprised of revenue from Impiana Hotels & Resorts
+Management Sdn. Bhd. (“IHRM”). The Property Sales segment comprised of revenue from Impiana Cherating.
+Please refer to the Outlook in the ‘Executive Chairman’s Statement’ section in this Annual Report.
+3.
+BUSINESS RISKS OVERVIEW
+[MDA_P023]
+The performances of the Company and its subsidiaries in the hospitality business are dependent on the following
+key risk areas:
+[MDA_P024]
+(a)
+Changes in Economic Environment and Natural Disasters
+[MDA_P038]
+The Group has an experienced finance team with expertise in financial planning to forecast the future costs
+that may be incurred in maintaining the Group assets and provide for such costs in financial projections
+and budgets. This will enable the Group to mitigate the risk from unplanned escalation of costs for future
+redevelopments, renovation works, and repair and maintenance of assets.
+[MDA_P039]
+(e)
+Competition Risk
+[MDA_P047]
+While these factors are beyond the Group’s control, the Group mitigates such risk by ensuring compliance
+with the relevant laws and regulations and conditions that are enforced and that the relevant licenses are
+obtained and renewed on a timely basis.
+MANAGEMENT DISCUSSION
+& ANALYSIS
+(cont’d)
+Impiana Hotels Berhad [Registration No. 200601021085 (740838-A)]

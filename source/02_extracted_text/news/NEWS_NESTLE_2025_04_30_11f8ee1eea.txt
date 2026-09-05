@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI extends gains to fresh 1-month high
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/30/fbm-klci-extends-gains-to-fresh-1-month-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The rally on Bursa Malaysia gained steam in the early session as foreign funds continued to flow back into the domestic market. The FBM KLCI rose 12.62 points to 1,528.18, its highest level since late March as the recovery continued to pick up steam ahead of the the corporate earnings period. Advancing issues on the market exceeded decliners at a ratio of 1.25-to-1. Volume was 1.41 billion shares changing hands for RM833.49mil. There were gains in all but one of the 30 blue chips on the FBM KLCI, with QL Resources dropping two sen to RM4.79 amid news that the government will halve its subsidy on eggs tomorrow and fully discontinue the subsidy from August 1 this year.
+
+[NEWS_P002] Notable gainers included Nestle, which rose RM2.30 to RM86.52 as it continued a stellar recovery that has seen it recoup nearly 40% of its value since May 20. Bank shares also climbed with CIMB adding eight sen to RM7.10, Hong Leong Bank gaining 10 sen to RM20, Maybank adding three sen to RM9.98 and Public Bank rising three sen to RM4.46. Top traded stocks on Bursa Malaysia were Richtech up three sen to 31 sen, Nationgate adding eight sen to RM1.36 and Tanco down one sen to 87 sen.
+
+[NEWS_P003] Meanwhile, Asian markets stayed mildly positive with gains capped by concerns over the health of the global economy. Japan's Nikei rose 0.14% to 35,889 and Hong Kong's Hang Seng gained 0.22% to 22,056. Shanghai's composite index slipped 0.08% to 3,283. Singapore's Straits Times index rose 0.39% to 3,820.

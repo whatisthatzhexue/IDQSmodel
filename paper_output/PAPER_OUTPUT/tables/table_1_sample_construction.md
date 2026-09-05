@@ -1,0 +1,11 @@
+| sample_step | count | notes |
+| --- | --- | --- |
+| MD&A registry included | 149 | MD&A source registry |
+| MD&A final dataset | 149 | Final freeze output |
+| News registry included | 125 | Includes only registry rows |
+| Real News registry | 125 | Synthetic placeholders excluded |
+| Synthetic News placeholders | 0 | Pipeline testing only |
+| News final dataset | 125 | Broad manually preserved real-News sample; not all rows are strict company-focused |
+| News broad final dataset | 125 | Broad manually preserved real-News measurement sample |
+| News company-focused strict subset | 69 | Title or lead paragraphs focus on the target company |
+| News suspect/manual-review outside strict subset | 56 | Market-roundup, list, sponsor, venue, sport, metro, lifestyle, or incidental-mention cases |

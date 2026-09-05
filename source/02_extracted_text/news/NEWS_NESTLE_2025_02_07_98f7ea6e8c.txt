@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI comes within striking range of 1,600
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/07/fbm-klci-comes-within-striking-range-of-1600
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The recent rally on the domestic market has investors hoping that the FBM KLCI will soon reclaim the 1,600 psychological resistance. While the benchmark index started the day 1.55 points lower at 1,583.62 on mild profit-taking, there could be a renewed surge of buying interest late in the day as foreign funds reverse the selling that has plagued the market in recent months. Foreign investors have remained net sellers of Malaysian equities over every day of the current week, but the outflow has been noticeably slower since Tuesday, in tandem with the market rebound.
+
+[NEWS_P002] According to Rakuten Trade, the return of foreign funds will see the FBM KLCI re-test the 1,600 threshold, while it anticipates the index to hover in the 1,580-1,590 range today. Malacca Securities Research, meanwhile, said the key index surpassed the 20-day exponential moving average with technical indicators showing positive signs. "A positive MACD histogram has started to form while the RSI is trending off its oversold zone. Resistance is anticipated around 1,600-1,605, while support is set at 1,565-1,570," it said.
+
+[NEWS_P003] Among early gainers, Nestle rose 10 sen to RM90.80 while Hartalega jumped nine sen to RM3.60. Inari Amertron gained nine sen to RM2.52, PETRONAS Dagangan climbed eight sen to RM19.78 and British American Tobacco added eight sen to RM7.27. Of actives, Harvest Miracle was down two sen to 17.5 sen, Asiaply rose one sen to 12 sen and Careplus gained one sen to 25 sen.

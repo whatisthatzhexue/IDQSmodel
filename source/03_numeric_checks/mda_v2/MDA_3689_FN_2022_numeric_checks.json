@@ -1,0 +1,59 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 132.0,
+      "current_value": 132.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P040]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 132.00, stated total 1.00, difference 13100.00%.",
+      "previous_value": 1.0,
+      "source_text": "Fraser & Neave Holdings Bhd Annual Report Key Initiatives Achievements STRATEGIC OBJECTIVE 1: ENHANCE REVENUE Grow manufacturing capacity • Invested RM128 million in a new liquid milk and plant-based beverage manufacturing facility in Wang Muang. Product re-engineering • Introduced six new products:",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 40032.5,
+      "current_value": 40032.5,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P045]",
+      "metric": "segment revenue",
+      "note": "segment revenue: components sum 40032.50, stated total 53000.00, difference -24.47%, status material_discrepancy.",
+      "previous_value": 53000.0,
+      "source_text": "• TEAPOT maintained the leadership position in Flavoured SCM Segment. • Maintained sales volume and increase brand awareness. • Hawker base increased by 32.5 per cent from 40,000 to 53,000. • Total customer network in Thailand, Laos and Cambodia grew by 7% to over 170,000. PROSPECTS Although costs i",
+      "stated_pct": 0,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": 201.0,
+      "current_value": 201.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P063]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 201.00, stated total 100000.00, difference -99.80%.",
+      "previous_value": 100000.0,
+      "source_text": "Management Discussion & Analysis A key event for Malaysia’s No. 1 isotonic drink was World Hydration Day (Hari Hidrasi Sedunia 100PLUS), a first for the country in which Malaysians were reminded of the importance of being active and staying hydrated. 100PLUS organised a four-day fun-filled carnival ",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    }
+  ],
+  "document_id": "MDA_3689_FN_2022",
+  "has_cost_discussion": true,
+  "has_margin_discussion": false,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 132.00, stated total 1.00, difference 13100.00%.",
+    "segment revenue: components sum 40032.50, stated total 53000.00, difference -24.47%, status material_discrepancy.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 201.00, stated total 100000.00, difference -99.80%."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 177,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 2,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

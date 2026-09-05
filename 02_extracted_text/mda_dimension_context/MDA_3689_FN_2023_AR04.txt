@@ -1,0 +1,129 @@
+document_id: MDA_3689_FN_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 55, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION &
+ANALYSIS
+Annual Report 2023
+MARKET REVIEW
+A. Strategic Review
+In May 2023, the World Health
+Organization (WHO) declared that
+COVID-19
+“no
+longer
+constitutes
+a
+public
+health
+emergency
+of
+international concern”. Yet, the global
+macroenvironment is far from being
+optimally healthy. Added to the long-
+term effects of the pandemic, the
+Russia-Ukraine conflict continues to
+rage, there is now instability in Gaza,
+and we are experiencing more and
+more climate changes. Economically,
+persistent inflation has resulted in
+interest rate hikes. The International Monetary Fund, in
+its World Economic Outlook released
+in October 2023, predicts that global
+growth will slow down to 3.0% in
+2023 and 2.9% in 2024 from 3.5%
+in 2022 – rates that fall short of the
+3.8% average from 2000 until 2019. This deceleration is expected to
+be most pronounced in advanced
+economies, dropping from 2.6% in
+2022 to 1.5% in 2023 and 1.4% in
+2024. In contrast, emerging nations
+will experience a significantly more
+muted slowdown, from 4.1% in 2022
+to 4.0% in both 2023 and 2024.
+[MDA_P002]
+In Malaysia, Bank Negara forecasts
+that the economy will benefit from
+robust
+domestic
+demand,
+the
+implementation of major infrastructure
+projects as well as recovering tourism
+to expand between 4.0% and 5.0%. Nevertheless,
+this
+is
+a
+marked
+slowdown compared to the growth
+of 8.7% in 2022, reflecting external
+headwinds. While
+Thailand
+is
+expected
+to
+experience a slower growth rate than
+Malaysia – at 2.7% in 2023 – this is
+higher than its economic expansion
+of 2.6% in 2022. The slight increase
+will be driven by private consumption
+as tourism in the country recovers. Meanwhile, the Thai Baht has been
+strengthening since 2022 due to
+growth initiatives announced by the
+government. INFLATION & INCREASED COST OF LIVING
+Inflation in Malaysia has been increasing in the last few years, from -1.14% in 2020 to
++2.48% in 2021 and +3.38% in 20221. According to Bank Negara, core inflation in 2023
+has been moderating, from 3.6% in the first quarter of the year to 2.8% in the second
+quarter. However, inflation remains higher than the long-term pre-pandemic average of
+2.0% from 2011-20192.
+[MDA_P003]
+In Thailand, meanwhile, headline inflation is expected to average
+1.2% in 2023 as a result of measures to manage energy prices and improvements in
+global supply chains3. Along with inflation and a higher cost of living, consumers are
+more wary of how they spend their money. Other than essentials, consumers seek value
+in their purchases. Businesses, meanwhile, have been impacted by increasing cost of
+commodities and energy resulting in a higher cost of production for manufacturers and
+higher cost of operations more generally. EFFECTS OF CLIMATE CHANGE
+Climate change is no longer a distant threat. The effects of increasing levels of carbon
+dioxide and other greenhouse gases (GHGs) in the atmosphere is already being felt as
+we experience more and more unexpected as well as unprecedented climate events. In recent years, the world has been recording all-time-high temperatures, intense
+wildfires, more severe and prolonged droughts, hurricanes and floods.
+[MDA_P004]
+In response,
+governments are pledging to reduce their GHG emissions while investors and other
+stakeholders are requiring companies to make known their stand on climate change and
+their approach, if any, on mitigating and managing the phenomenon. As the situation
+becomes more urgent, companies are also being pressured into outlining programmes
+being undertaken to achieve any targets that have been set. WASTE MANAGEMENT & CONSCIOUS CONSUMPTION
+Other than GHG emissions, a key environmental issue today is excessive consumption which
+leads to the depletion of natural materials/resources as well as the accumulation of waste
+that poses a threat to sustainability if it is not managed properly. Landfills are overflowing,
+and the development of more units would require more land, an increasingly precious
+natural resource. Meanwhile, indiscriminate disposal of plastics leads to blocked drains,
+polluted rivers and flotsam in the oceans, posing a threat to marine life. Manufacturers are
+under the spotlight as to how they manage their production and packaging in a manner that
+is optimally protective to the environment. They are also being held accountable for post-
+consumption waste management.
+[MDA_P005]
+EMPLOYEE ENGAGEMENT & WELL-BEING
+Following the Great Resignation that unfolded in the immediate aftermath of Covid-19, the
+workplace today is experiencing another phenomenon – the Great Reflection. Perhaps as
+a result of the work-from-home phase the world has gone through, people today are more
+aware of what they want from their places of employment, and are more determined to be
+in a workplace that ticks the right boxes4. Most importantly, according to leading human
+resources consultancy Gartner, employees feel a need to be valued at work. There are five
+main aspects to this, namely the need to: 1) feel a greater sense of connection with work;
+2) have greater autonomy at work; 3) being given personal growth opportunities; 4) being
+cared for holistically; and 5) feel invested in the company’s purpose. 1 https://www.macrotrends.net/countries/MYS/malaysia/inflation-rate-cpi
+2 Economic and Financial Developments in Malaysia in the Second Quarter of 2023, BNM, https://www.bnm.gov.my/-/
+qb23q2_en_pr
+3 https://www.imf.org/en/News/Articles/2023/11/08/pr23384-thailand-imf-staff-completes-2023-article-iv-mission
+4 Employees seek personal value and purpose at work.
+[MDA_P010]
+• We are enhancing employees’ safety and health via programmes such as the Safety, Health and Environment month, mental health
+awareness initiatives, and the provision of free influenza vaccinations to over 1,000 employees nationwide. • To create a sense of personal safety and well-being, we rolled out an enhanced Prohibiting Sexual Harassment Policy across all our offices
+in Malaysia. OUR RESPONSE

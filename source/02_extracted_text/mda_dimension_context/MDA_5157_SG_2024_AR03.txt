@@ -1,0 +1,125 @@
+document_id: MDA_5157_SG_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+SAUDIGOLD GROUP BERHAD 200801036832 (838172-P)
+Analysis of profit/(Loss)
+FYE 2024
+FYE 2023
+01.08.2023
+to
+31.07.2024
+01.08.2022
+to
+31.07.2023
+Analysis of Profit and expenses :
+Profit/(Loss)
+Loss before tax
+(RM’000)
+(5,706)
+(7,290)
+Loss after tax
+(RM’000)
+(6,063)
+(7,367)
+Earnings/(Loss) before interest, taxes, depreciation and amortisation
+(“(L)/EBITDA”)
+(RM’000)
+(1,448)
+Expenses
+Cost of goods sold (“COGS”)
+(RM’000)
+77,209
+82,289
+Administrative and selling expenses
+(RM’000)
+14,531
+22,795
+Finance costs
+(RM’000)
+The profit in EBITDA of RM0.1 million was mainly due to the decrease in selling and administrative costs in FYE 2024 by RM1.7 million as
+compared to Loss in EBITDA of RM1.9 million in FYE 2023. Furthermore, the reducing in costs and improvement in costs management
+been continuing implementing of cost reduction programme by management. The actual EBITDA excluded in this fair value loss on other
+investment was RM2.5 million as compare to of RM4.8 million in FYE 2023. Therefore, due to the above recognition of fair value loss, for FYE 2024, the Group recorded LAT of RM6.1 million as compared to LAT of
+RM7.4 million in FYE 2023.
+[MDA_P003]
+The reduce in LAT mainly due decrease in selling and administrative cost due to continuing implementing of cost
+reduction prgramme by management. Furthermore, the improvement in controlling costs also due the good strategy by management to
+continued concentrate on the FPP instead of hotels, restaurants and catering (“HORECA”) in FYE 2024. Even though the Group recorded LAT of RM6.1 million during FYE 2024, the Group was still able to generated net operating cash inflow of
+RM4.3 million that is further discussed in the analysis on cash flow. Analysis of Expenses
+Our Group’s COGS decreased by RM5.1 million or 6.19% from RM82.3 million in FYE 2023 to RM77.2 million in FYE 2024. The reason for
+the decrease in COGS was mainly due decrease in demand from customer as discuss in revenue analysis in above. Furthermore, this also
+impact GP margin reduce to 7.6% in FY2024 as compared with 13.9% in FY2023. The decreased in GP margin mainly due to increase in
+material costs especially in Chicken pricing during FYE 2024.
+[MDA_P004]
+However, The Management will continue and concentrate in monitoring the
+Cost of Good Manufactured (“COGM”) by continued cost reduction and efficiency improvement programme in production. Our Group’s administrative and selling expenses comprised mainly of marketing cost such as promotion expenses, listing of products cost,
+sales commissions, salaries and etc. The Group’s administrative and selling expenses decreased by RM8.3 million or 36.4% from RM22.85
+million in FYE 2023 to RM14.5 million in FYE 2024. The decrease was mainly due to reduce in promotion and selling expenses. Besides,
+the Group will foreseen selling and promotion costs to continue reduce as the Group been completely change to distributorship model
+completely in year 2024 from direct retail selling model. Our Group’s finance cost has slight decreased by RM0.06 million from RM0.13 million in FYE 2023 to RM0.07 million in FYE 2024. Going
+forward, there should be minimum finance cost as technically the Group is in a “debts free” position. MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+[MDA_P006]
+Even facing the uncertainty on
+post Covid-19 pandemic challenge on global and local in material
+price and forex, the Group was still able to generated positive cash
+inflow from operation and still maintained its current ratio at 5.0
+times for FYE 2024 as compared to 3.7 times for FYE 2023. During the financial year under review, the Group raised funds of
+RM10.0 million through private placement and shares issuance
+scheme. The cash generated were used to purchase of additional
+machinery and expansion of production and cold storage space. This will able to increase the Company production capacity by at
+least 30% in coming years. Cash and cash equivalent stood at RM5.1
+million as at 31 July 2024. FYE 2024
+FYE 2023
+(RM’000)
+(RM’000)
+Net cash generated used in
+investing activities
+(12,299)
+(28,522)
+Net cash generated from
+financing activities
+9,031
+4,172
+Net increase/(decrease) in cash
+and cash equivalent
+1,069
+(3,892)
+In FYE 2023, the Group has invested RM5.7 million in FYE2024 as
+compared to RM23.9 million in FYE 2023 on the acquisition of plant
+and machineries.
+[MDA_P007]
+The spending was mainly in the acquisition of new production
+machinery and increase in production and cold storage space that
+will improve the production capacity in order to cater existing
+customers demand and increasing demand by customers from
+East Malaysia in the now and coming years. Even with the tough
+time during the financial year under review, the management
+re-strategised the direction decided that it was a strategic time for
+expansion and reinvestment to replace old machines with more
+automated machines in the short and middle term. Therefore, the
+Group raised funds for expansion of production and reinvesting
+into new machinery to increase the production capacity of the
+Group in coming years, even during this challenging time i.e. post Covid-19 pandemic and uncertainty in global situation. Financial Position Analysis
+FYE 2024
+FYE 2023
+(RM’000)
+(RM’000)
+Inventories
+22,315
+18,461
+Trade and other receivables, and
+amount due from an associate
+12,594
+23,346
+Trade and other payables, and
+amount due to an associate
+12,502
+17,476
+Bank borrowings
+1,077
+Our Group’s inventories was RM22.3 million for FYE 2024 as
+compared to RM18.5 million for FYE 2023.

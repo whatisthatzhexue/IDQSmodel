@@ -1,0 +1,16 @@
+[TITLE]
+Profit-taking on Bursa Malaysia gains pace
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/08/profit-taking-on-bursa-malaysia-gains-pace
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI fell as the profit-taking continued following a retreat on Wall Street overnight as investors awaited more clues on rate cuts from Federal Reserve policymakers. At the open, the benchmark index was down 1.88 points to 1,628.15. Blue chips that weighed on the market included IHH, losing 15 sen to RM8.04, while Gamuda dropped nine sen to RM5.41. YTL Power slid eight sen to RM4.13 while PPB shed six sen to RM10.62. According to TA Securities, persistent profit-taking and selling pressure should continue to weigh on the local benchmark index, pending more fresh market catalysts to break out from the current consolidation.
+
+[NEWS_P002] "Immediate support stays at the 61.8%FR (1,564), with stronger supports seen at the 50%FR (1,527) followed by the 38.2%FR (1,490). Immediate resistance is kept at the December 2024 high of 1,644, followed by tougher upside hurdles at the highs of 1,684, and 1,695," it said in its technical outlook. In its morning report, Rakuten Trade said the market remained well-supported after having fallen to just above the 1,630 level in the previous session. It said the drop was attributed to profit-taking activities over the last two days, especially by foreign funds.
+
+[NEWS_P003] "Nonetheless, we believe the local bourse remains rather well supported and see the recent weakness as a brief digestion period for the market," it said. On the broader market, the top traded stocks were KNM flat at 0.5 sen, TWL unchanged at three sen and L&G up 0.5 sen to 16 sen.

@@ -1,0 +1,101 @@
+document_id: MDA_0212_SDS_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 29, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 146.995, "paragraph_count": 29, "paragraph_length_distribution": {"max": 1190, "mean": 643.103, "min": 82}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion
+and Analysis
+The Group successfully registered a
+revenue of RM324.1 million in FY2024,
+marking an increase of 14.2% over the
+revenue of RM283.7 million in FY2023. OVERVIEW
+he financial year ended 31
+March 2024 (“FY2024”) proved
+challenging,
+despite
+the
+expectations of the economy
+accelerating rapidly forward in the
+pandemic recovery era. Nonetheless,
+SDS Group Berhad and its subsidiaries
+(“SDS” or “the Group”) have achieved
+yet another year of commendable
+performance. In FY2024, the Group
+successfully registered a revenue of
+RM324.1 million, marking an increase
+of 14.2% over the revenue of RM283.7
+million in FY2023. This is attributable to the Group’s
+business agility and resilience in rising
+to meet the challenges head-on, driven
+by the commitment and dedication of
+our SDS team members. It is with great pleasure that we present
+to you the Management Discussion and
+Analysis of our Annual Report 2024,
+which will provide a brief review of the
+business and operational performance
+of SDS for FY2024 while setting out an
+overview of our plans and prospects
+for the coming years.
+[MDA_P008]
+The Group’s healthy revenue is reflected
+in its growth of 14.2% from RM 283.7
+million in FY2023 to RM 324.1 million
+in FY2024. The increase in profit before
+tax (“PBT”) is mainly due to the increase
+in revenue and improvement in gross
+profit margin, from 31.5% in FY2023
+to 34.0% in FY2024. This was further
+supported by an increase in sales price
+and stabilisation of raw material prices. This has in turn, reflected on the Group’s
+profit after tax (“PAT”) attributable to
+Owners of the Company of RM32.6
+million in FY2024 as compared to
+RM24.5 million in FY2023, representing
+an improvement of 32.7%. The Group continued its strategic
+approach
+by
+strengthening
+its
+partnership
+collaboration
+with
+local businesses and vendors alike,
+sponsoring or collaborating with their
+local events. As part of the Group’s commitment
+to minimise its carbon footprint in
+support of the environment, the Group
+has embarked on a solar renewable
+energy initiative at its two existing
+manufacturing plants - one in Johor
+Bahru, which has been completed and
+another in Seremban, which is currently
+in progress.
+[MDA_P015]
+Towards a very positive overall experience for our
+customers, we are constantly exploring variations in
+product offerings to ensure freshness and variety.
+One such result is the introduction of food warmer
+displays, ready-to-eat and ready-to-drink products as
+well as frozen products and sauces. Catering to our
+diverse population, special menus were launched to
+commemorate festive periods.
+T
+Towards a very positive overall
+experience for our customers, we are
+constantly exploring variations in
+product offerings to ensure freshness
+and variety.
+[MDA_P022]
+To cater to this expansion exercise, we set up a new
+distribution centre in Sri Gombak, Selangor to cater to
+the high demand potential within the Klang Valley.
+[MDA_P029]
+Together, we will continue to sift through the economic
+challenges, knead together our established products and
+services, and create a unique experiential dining experience
+for our valued customers.

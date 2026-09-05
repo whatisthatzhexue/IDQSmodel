@@ -1,0 +1,16 @@
+[TITLE]
+Apollo to become majority shareholder in Atletico Madrid
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-11-10
+source_name: The Star
+url: https://www.thestar.com.my/sport/others/2025/11/10/apollo-to-become-majority-shareholder-in-atletico-madrid
+confidence_tier: low
+
+[NEWS_P001] MADRID (Reuters) -U.S. fund Apollo's sports investment arm Apollo Sports Capital has agreed to become the majority shareholder in top-tier Spanish football club Atletico Madrid, the club said on Monday, without disclosing any financial details. A source close to the deal said it would value the whole of the club at approximately 2.5 billion euros ($2.9 billion), with Apollo acquiring roughly 55% from existing shareholders. The deal marks the latest venture into sports by private equity firms, attracted by their stable and predictable revenue streams.
+
+[NEWS_P002] CLUB CEO, PRESIDENT TO REMAIN IN THEIR ROLES The club's CEO Miguel Angel Gil Marin and President Enrique Cerezo will remain in their roles and as shareholders, Atletico said, and the investment is expected to be completed in the first quarter of 2026. Sources told Reuters in September the U.S. firm sought to take control of the club by acquiring part of stakes owned by Gil Marin, Cerezo, and, possibly, from investment fund Ares Management. Until now, Atlético HoldCo held about 70% of the club, with Gil Marin, Ares and Cerezo owning 50.8%, 34% and 15.2%, respectively.
+
+[NEWS_P003] Quantum Pacific held 27.8% outside the group. "We are equally excited to remain minority investors and continue providing strategic support as the club builds on its momentum," Ares Sport's co-head and director on Atlético HoldCo's board Jim Miller told Reuters. A&O Shearman acted as legal counsel to Apollo Sports Capital. ECIJA acted as legal counsel to Gil Marin and Cerezo. ($1 = 0.8575 euros) (Reporting by Jesus Calero and Andres Gonzalez; Editing by Andrei Khalip, Frances Kerry and Conor Humphries)

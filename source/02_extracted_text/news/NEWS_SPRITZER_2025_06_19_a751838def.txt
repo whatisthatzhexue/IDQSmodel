@@ -1,0 +1,20 @@
+[TITLE]
+Consumer staples favourable amid expanded SST
+
+[METADATA]
+ticker: SPRITZER
+company_name: SPRITZER
+publish_date: 2025-06-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/19/consumer-staples-favourable-amid-expanded-sst
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Spending priorities among consumers are expected to impact the outlook of consumer stocks, with stocks offering staples having more traction over consumer discretionary stocks. Analysts expected a “muted” outlook overall for consumer stocks on signs of a moderation in consumer spending habits from the April retail trade data after the first quarter ended March 31, 2025 (1Q25) financial results largely met expectations. MIDF Research said there would be a shift in consumption patterns favouring essential goods over discretionary items as consumers recalibrate their spending in response to the expanded sales and service tax (SST) to be implemented on July 1 and broader cost-of-living concerns.
+
+[NEWS_P002] “Staples players are likely to be more insulated from tax-driven volatility, supported by the essential nature of their offerings and limited exposure to premium or non-essential categories. “Considering this, we maintain a more ‘constructive’ view on consumer staples relative to discretionary retailers under the current environment,” it added. It kept a “positive” on consumer stocks, with top picks being Fraser & Neave Holdings Bhd (“buy” call with a target price of RM32.68), Aeon Co (M) Bhd (“buy” with a target price of RM1.77) and Life Water Bhd (“buy” with a target price of RM1).
+
+[NEWS_P003] It has upgraded Spritzer Bhd to “buy” with an unchanged target price of RM1.75, while downgrading Oriental Kopi Holdings Bhd to “neutral” with an unchanged target price of 83 sen following the stock’s recent rally and limited upside. “While policy recalibrations such as the expanded SST and upcoming RON95 fuel subsidy rationalisation may pose mild headwinds to consumer sentiment, we believe the impact will be uneven, more pronounced on discretionary items while staples remain relatively insulated.
+
+[NEWS_P004] “As such, we continue to favour consumer staples for their earnings defensiveness and resilient demand profile,” it said. Analysts said the strengthening ringgit would be supportive of businesses reliant on imports with MIDF Research noting that sustained currency strength would be favourable to those exposed to US dollar-denominated raw materials such as packaging and ingredients. UOB Kay Hian Research said foreign-exchange (forex) tailwinds would make MR DIY Group (M) Bhd and Eco-Shop Marketing Bhd as the standout beneficiaries, but there could be a lag before margins reflect the favourable forex gains.
+
+[NEWS_P005] The research house said its “market weight” stance on consumer stocks underlines the subdued consumer spending amid cost adjustments and lack of rerating catalysts, with margins to improve towards year-end supported by the strengthening ringgit and softer commodity prices.

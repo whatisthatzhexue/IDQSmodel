@@ -1,0 +1,14 @@
+[TITLE]
+MSM appoints new acting group CEO
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-07-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/03/msm-appoints-new-acting-group-ceo
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: MSM Malaysia Holdings Bhd has appointed Hasni Ahmad as its acting group chief executive officer following the resignation of Syed Feizal Syed Mohammad. In a filing with Bursa Malaysia, the sugar producer said Hasni, 57, will assume the roles and responsibilities of the group chief executive until further notice. MSM said Syed Feizal, 60, resigned to pursue personal interests. Hasni, who has a degree in chemical engineering, has been MSM’s group chief operating officer since 2021.
+
+[NEWS_P002] According to MSM’s annual report, Hasni has close to 30 years of experience in managing oleochemical manufacturing as well as overall plant management. He began his career with FPG Oleochemicals Sdn Bhd, Kuantan, and served in various capacities for 18 years.

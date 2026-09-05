@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI hovering near 1,600 points at midday
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/09/fbm-klci-hovering-near-1600-points-at-midday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia remained strong at midday, buoyed by ongoing buying in heavyweight stocks and mirroring its regional peers. At lunch break, the 30-stock index rose 8.96 points, or 0.56% to 1,599.34 after hitting an intra-morning high of 1,604.06. In the broader market, gainers outnumbered losers with 1,039 stocks ending higher and 304 stocks finishing lower, indicating the bulls were in better control. Volume stood at 2.6 billion shares, valued at RM1.46bil.
+
+[NEWS_P002] TA Securities said range-bound trade should persist ahead of the weekend, as investors refrain from committing fresh positions until clearer clues emerge on the global inflation and economic growth momentum. “Immediate index supports are at 1,550 and a recent low of 1,529, then 1,520 and 1,500, while immediate resistance will be at 1,600, 1,620 and then 1,638,” it said. Malacca Securities expects buying interest to sustain and spill over to local stocks.
+
+[NEWS_P003] “Given the positive rebound on Wall Street, we believe buying support should emerge on the local front within the construction, property, utilities, and technology sectors, which are beneficiaries of the data centre catalyst and the AI theme. “Meanwhile, we favour the consumer and shipping sectors due to the stronger ringgit environment, and the financial sector may be worth accumulating for its decent dividend yield,” it added. On Bursa Malaysia, Nestle surged RM1.50 to RM109.40, Malaysian Pacific Industries jumped RM1.14 to RM37.14, Panasonic Manufacturing rose 32 sen to RM19.34 and Edaran gained 30 sen to RM2.83.
+
+[NEWS_P004] Hong Leong Bank slid 14 sen to RM19.26, PETRONAS Dagangan fell eight sen to RM17.72, Lysaght Galvanized lost five sen to RM2.70 and Hextar Technologies declined four sen to RM1.03. Among the actives, Cape EMS rose 2.5 sen to 50 sen, Ekovest added 1.5 sen to 40.5 sen and ATA IMS gained 0.55 sen to 44 sen. In regional markets, Japan's Nikkei rose 0.45%, Hong Kong's Hang Seng climbed 1.77% and China’s CSI300 added 0.14%.

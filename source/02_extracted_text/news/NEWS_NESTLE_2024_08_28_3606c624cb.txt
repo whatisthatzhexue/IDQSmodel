@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI surges to near 4-year high as banking stocks lead rally
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/28/fbm-klci-surges-to-near-4-year-high-as-banking-stocks-lead-rally
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI marched higher for the third day, putting on 1.39% to its highest in almost four years, as investors piled into blue chip stocks. At closing, the 30-stock index was up 22.96 points to 1,675.24, its highest since Dec 15, 2020, supported by gains in banking counters. The move is the biggest since rising 1.53% on Aug 19. Market breadth was negative with 407 securities ending in the red versus 407 that closed higher. Activities were encouraging with 3.95 billion worth RM4.65mil changed hands.
+
+[NEWS_P002] In today’s session, 18 of the KLCI-component stocks were traded higher while 12 counters closed down. Dealers said market optimism was buoyed by strong earnings from banking stocks, which fueled investor confidence and drove the overall rally. CIMB contributed the most to the index gain and had the largest move, increasing 5.67%, or 45 sen to RM8.38. The counter contributed 7.1132 points to the index. Maybank added 16 sen to RM10.86, Public Bank rose 12 sen to RM4.80, Hong Leong Bank jumped 94 sen to RM21.10 and RHB Bank closed up 24 sen to RM6.16.
+
+[NEWS_P003] On the other hand, Press Metal slid 22 sen to RM5.13, Nestle fell 18 sen to RM99.74, Sunway lost 17 sen to RM3.91 and YTL Power declined 13 sen to RM3.77. ACE Market debutant Vetece Holdings surged 62%, or 15.5 sen to 40.5 sen with 63.14 million shares traded. ALSO READ: S P Setia tumbles 16%, short selling suspended Meanwhile, S P Setia Bhd tumbled today, prompting Bursa Malaysia Securities to suspend intraday short selling (IDSS) for the stock. The property developer closed down 14.96%, or 19 sen at RM1.08 with 59.98 million shares traded.
+
+[NEWS_P004] It hit an intraday low of RM1.05 earlier. Ringgit was quoted at 4.3453, down 0.06% against the US dollar. The local currency has depreciated by 0.17% against the pound sterling at 5.7453 and down 0.1% against the Singapore dollar at 3.3315. Elsewhere in the region, Japan’s Nikkei 225 added 0.22%, South Korea’s Kospi rose 0.22%, China’s CSI300 Index fell 0.57% and Hong Kong’s Hang Seng Index closed down 1.02%.

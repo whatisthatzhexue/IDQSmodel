@@ -1,0 +1,159 @@
+document_id: MDA_5102_GCB_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 67, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+MARKET OVERVIEW
+Despite global concerns about the economic
+impact of the Russia-Ukraine conflict, the
+global demand for chocolate remained
+strong, as demonstrated by the increase in
+grinding worldwide. According to regional
+cocoa associations, total grinding in FY2022
+rose to 3.5 million MT from 3.4 million MT in
+the previous year. The reopening of global borders, increased air travel,
+and tourism also contributed to the growth in chocolate
+consumption in FY2022. The chocolate market is expected
+to continue its growth trend, with Euromonitor International
+forecasting it to reach a global retail sales value of $128
+billion by the end of 2023, with a cumulative average
+growth rate of 1.9% in volume over the next three years to
+2025. There are, however, various macroeconomic factors that
+created a challenging market environment for GCB in
+2022. The European and UK region has experienced rising
+energy costs, which caused by the energy crisis as a result
+of Russia-Ukraine conflict. Global inflationary pressure have been causing interest
+rate hike. The company foresees that interest rates may
+continue to rise due to the uncertain economic outlook.
+[MDA_P003]
+Management Discussion & Analysis
+GUAN CHONG BERHAD
+MANAGEMENT DISCUSSION & ANALYSIS
+Integrated Annual Report 2022
+OUTLOOK
+While the Group cannot control external factors, we
+will strive to navigate through the headwinds to ensure
+that our operations remain focused on seizing business
+opportunities, meeting customer demand, and generating
+sustainable profits to support our growth objectives. Côte d'Ivoire presence brings us ‘close to source’ and
+‘close to market’
+GCB's expansion into Côte d'Ivoire, the world's largest
+cocoa bean supplying country, has brought us closer to
+the source of cocoa beans and enables us to implement
+sustainability projects commencing from the procurement
+of cocoa beans. This expansion into a strategic location
+will improved our cost-effectiveness in reaching out to
+key chocolate-consuming countries in Europe and the UK,
+where most of our customers are based. The new facility in
+Côte d'Ivoire will be a boost for the Group's earnings and
+will catapult our strength as a global player in the chocolate
+supply chain.
+[MDA_P010]
+GUAN CHONG BERHAD
+MANAGEMENT DISCUSSION & ANALYSIS
+Integrated Annual Report 2022
+Management Discussion & Analysis
+Strategic Review
+OUTPUTS
+• Cash and bank balance: RM47.3 million
+• Revenue: RM4.4 billion
+• Net profit: RM147.4 million
+• Share capital: RM495.2 million
+• Shareholders' equity: RM1.6 billion
+• Earnings per share: 13.52 sen
+• Net dividends per share: 3.52 sen
+• Total borrowings: RM1.2 billion
+• Net gearing ratio: 0.68 times
+Read more:
+Financial Statements, page 155
+Our current capacity:
+• Existing production facilities:
+- Cocoa Grinding: 337,000 MT
+- Value Added: 99,000 MT
+- Industrial Chocolate: 95,000 MT
+• Production facilities under construction:
+- Industrial Chocolate: 21,000 MT
+Read more:
+Where We Operate, page 12
+• Increased usage of advanced machinery and
+technology that reduce our reliance on non-
+renewable energy sources
+• Increased usage of solar panels and biomass
+machines for energy generation, resulting in an
+improvement to our net energy consumption
+• Adoption and implementation of relevant
+international standards in producing high
+quality cocoa related products
+• Monitoring of energy usage by measuring kWh
+consumed per MT of cocoa beans processed,
+with the objective of achieving a tangible
+reduction in our overall energy consumption
+Read more:
+Our Non-Financial Performance,
+page 18 & Tackling Climate Change:
+Energy & Emissions, page 106
+OUTCOMES
+Our Promises
+• Full Product Range
+• Product Quality and
+Safety
+• Competitive Prices
+• Flexibility and
+Excellence in
+Customer Service
+• Technical Support and
+Innovation
+• Ethical Operation
+Customers
+• Strong collaborative relationships with
+our customers that are nurtured by our
+continuous fulfilment of their volume and
+quality requirements
+• Continual expansion of our footprint in
+Asian and European markets to expand
+our reach
+Shareholders & Investors
+• Maintaining
+a
+consistently
+healthy
+financial position
+• Ensuring growing value is consistently
+generated
+through
+sustained
+capital
+appreciation and dividend payouts
+Suppliers & Contractors
+• Consistent growth in our base of quality
+suppliers
+• Active
+promotion
+of
+social
+and
+environmental responsibilities across our
+cocoa bean supply chain
+• Ongoing
+collaboration
+and
+communication with suppliers to ensure
+the use of high-quality raw materials and
+the most advanced technology
+Our Values
+• Grit
+• Ambition
+• Sincerity
+[MDA_P034]
+GUAN CHONG BERHAD
+MANAGEMENT DISCUSSION & ANALYSIS
+Integrated Annual Report 2022
+Management Discussion & Analysis
+KEY RISKS & MITIGATION ACTIONS
+Comprehensive risk management procedures are vital for us to maintain and safeguard the sustainability of our large-scale
+global operations. We have put into place an effective process to identify the risks that are most relevant to our business
+operations and guide our approach in crafting mitigation strategies to limit our exposure. The following details our four risk
+categories, our risk determination process and a risk matrix that prioritises the impact and likelihood of said risks.

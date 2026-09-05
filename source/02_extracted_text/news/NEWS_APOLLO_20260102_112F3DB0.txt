@@ -1,0 +1,50 @@
+[TITLE]
+How Chinese robotaxi giants are steering the Middle East towards a driverless future
+
+[LEAD]
+WeRide, Baidu and Pony.ai expand operations in the Middle East as UAE promotes clean energy and reduces dependence on oil and gas.
+
+[NEWS_P001]
+When hailing a car on Uber, riders usually choose between economy and premium options. But in certain areas in Abu Dhabi, capital of the United Arab Emirates, the first choice that flashes on the screen is “autonomous”.
+
+[NEWS_P002]
+The availability of driverless cars underscores the urgency of the nation’s push to promote clean energy and reduce dependence on oil and gas. At the forefront of this effort are Chinese robotaxi developers, which see the Middle East as one of their starting points for global expansion.
+
+[NEWS_P003]
+Recent developments include WeRide and Baidu’s Apollo Go securing fully driverless permits in Abu Dhabi, Pony.ai starting pilot testing in Dubai, and CaoCao – a ride-hailing service backed by Chinese carmaker Geely – becoming the fourth Chinese robotaxi operator to enter the UAE.
+
+[NEWS_P004]
+In December, the Post hailed a WeRide self-driving car via Uber on Abu Dhabi’s Yas Island, a recreational zone featuring popular attractions like Ferrari World and Warner Bros. World. Compared with the Post’s ride in the central Chinese city of Wuhan in 2024, the momentum in Abu Dhabi is only beginning to build.
+
+[NEWS_P005]
+On Yas Island, robotaxis were scarcely visible even on one of the busiest days of the year – when the 2025 Abu Dhabi Grand Prix was held. By contrast, a regular workday in Wuhan saw a much larger fleet of self-driving cars, mostly Apollo Go, operating even in the downtown area.
+
+[NEWS_P006]
+Booking the cars was easy. Riders selected the designated pick-up and drop-off points on Uber and the vehicle arrived within two minutes at the precise location. Once seated, passengers tapped a “Start” button on a tablet mounted on the back of the front seat.
+
+[NEWS_P007]
+The Post’s ride included a safety operator, though fully driverless cars were available on Yas Island after WeRide launched commercial operations in the zone in November. During the seven-minute trip, the operator only took over at the last few metres when traffic congestion was very heavy.
+
+[NEWS_P008]
+WeRide said its Abu Dhabi fleet averaged 15 daily orders per day per robotaxi.
+
+[NEWS_P009]
+Momentum is expected to accelerate in 2026 as Chinese self-driving giants expand further in the region. WeRide, which had 200 self-driving cars by the end of 2025 in the entire Middle East, including Saudi Arabia, said it aimed to expand the fleet to 1,000 by 2026. The company said it planned to fully extend driverless services to “gradually cover additional areas in Abu Dhabi” to help the business break even on a per-vehicle basis. In Dubai, the commercial operation of driverless taxis was expected to begin in early 2026, it added.
+
+[NEWS_P010]
+For now, Guangzhou, Guangdong province-based WeRide remains the only robotaxi operator with active commercial fleets in the UAE, but Chinese rivals are expected to intensify the competition.
+
+[NEWS_P011]
+Baidu, which in March partnered with AutoGo, a UAE-based autonomous-mobility company, said it was aiming to “deploy the largest fully driverless fleet in Abu Dhabi”, with an initial target of “hundreds of vehicles by 2026”. It was working towards deploying “over 1,000 fully driverless vehicles” by 2028, Baidu added.
+
+[NEWS_P012]
+Pony.ai, another Guangzhou-based autonomous-driving developer, aimed to launch fully driverless commercial services in Dubai in 2026, according to a representative.
+
+[NEWS_P013]
+With pre-commercial operations in the UAE, Qatar and Saudi Arabia, Pony.ai announced in May that its services would be available on Uber in the Middle East by the end of 2025, though no update had been provided. The company targeted launching 1,000 robotaxis in the Middle East by 2028, according to vice-president of strategy and business development Ann Shi Yu in September.
+
+[NEWS_P014]
+The Middle East has rapidly transformed into the world’s most competitive “sandbox” for autonomous driving. While Western players like Waymo have largely focused on perfecting operations in the US, Chinese firms are expanding into the Middle East and Europe amid US political headwinds. Washington implemented a rule in March to ban connected cars and related technology from China or Russia.
+
+[NEWS_P015]
+“The UAE provides a favourable regulatory framework that WeRide aligns with for our robotaxi and autonomous-vehicle deployments,” WeRide said. – South China Morning Post

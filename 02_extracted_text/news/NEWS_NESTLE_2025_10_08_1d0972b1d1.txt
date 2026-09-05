@@ -1,0 +1,26 @@
+[TITLE]
+Bursa Malaysia extends loss amid weaker regional markets
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-08
+source_name: The Star
+url: https://www.thestar.com.my/business/2025/10/08/bursa-malaysia-extends-loss-amid-weaker-regional-markets
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia extended its losses to close marginally lower on Wednesday, mirroring the weaker regional markets amid growing concerns over a prolonged US government shutdown. At 5 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) dipped 2.53 points, or 0.16 per cent, to 1,627.50, from Tuesday’s close of 1,630.03. The benchmark index had opened 1.88 points lower at 1,628.15, and hit its lowest level at 1,621.17 earlier in the trading session The market breadth was negative, with 623 decliners outpacing 463 gainers, while 475 counters were unchanged, 1,023 remained untraded, and eight were suspended.
+
+[NEWS_P002] Turnover expanded to 3.66 billion units worth RM2.72 billion, compared with 3.48 billion units valued at RM2.99 billion on Tuesday. IPPFA Sdn Bhd's director of investment strategy and country economist, Mohd Sedek Jantan, said market sentiment is turning defensive amid rising concerns that the fiscal impasse in Washington could extend beyond one month. He noted that the trading patterns among the FBM KLCI constituents appeared more defined compared to earlier in the week, with consumer stocks supported by renewed buying interest following the BUDI MADANI RON95 (BUDI95) initiative, which has bolstered household spending capacity.
+
+[NEWS_P003] "However, the broader market tone remains cautious as investors weigh the potential spillover risks from a prolonged US shutdown, as this could dampen US growth momentum and ripple through trade-dependent economies,” he told Bernama. Among the heavyweight counters, Maybank gained five sen to RM10, while Public Bank slipped two sen to RM4.34, and CIMB Group lost 10 sen to RM7.66. Tenaga Nasional dipped eight sen to RM13.20, and IHH Healthcare dropped nine sen to RM8.10.
+
+[NEWS_P004] On the most active list, KNM Group and Borneo Oil were both unchanged at half a sen, while VS Industry was flat at 55.5 sen. Zetrix AI slipped half a sen to 83.5 sen, and Tanco dipped one sen to 85 sen. Of the top gainers, Nestle bounced RM1.64 to RM99.30, and Hi Mobility soared 32 sen to RM2.72, while PPB and Kuala Lumpur Kepong added 30 sen each to RM10.98 and RM20.60, respectively. Sunway Construction grew 26 sen to RM6.15. As for the top decliners, Malaysian Pacific Industries fell 66 sen to RM30.82, Hong Leong Industries dropped 22 sen each to RM14.02, and KSL gave up 16 sen to RM2.80.
+
+[NEWS_P005] Unisem lost 14 sen to RM3.42, and Mesiniaga trimmed 10 sen to RM1.27. On the index board, the FBM Emas Index slid 12.72 points to 12,114.60, and the FBM 100 Index declined 13.95 points to 11,845.90, while the FBM Emas Shariah Index dropped 12.79 points to 12,120.55. The FBM 70 Index shaved 0.59 of a point to 16,965.01, while the FBM ACE Index weakened 42.38 points to 5,269.03. Sector-wise, the Industrial Products and Services Index trimmed 0.07 of a point to 173.52, the Financial Services Index fell 43.62 points to 18,528.33, while the Energy Index gained 11.46 points to 792.03.
+
+[NEWS_P006] The Plantation Index added 36.63 points to 7,830.48. The Main Market volume slipped to 1.74 billion units valued at RM2.34 billion, versus 2.37 billion units worth RM2.63 billion on Tuesday. Warrant turnover expanded to 1.51 billion units worth RM206.67 million, compared with 410.23 million units valued at RM39.22 million yesterday. The ACE Market volume fell to 411.47 million shares, valued at RM167.37 million, compared to 703.19 million shares worth RM316.30 million previously.
+
+[NEWS_P007] On the Main Market, consumer products and services counters accounted for 239.50 million shares traded, followed by industrial products and services (321.32 million), construction (128.81 million), technology (222.74 million), financial services (45.56 million), property (238.98 million), plantation (39.28 million), REITs (26.74 million), closed/fund (77,000), energy (268.01 million), healthcare (99.54 million), telecommunications and media (45.38 million), transportation and logistics (35.85 million), utilities (26.30 million), and business trusts (928,100).
+
+[NEWS_P008] - Bernama

@@ -1,0 +1,36 @@
+{
+  "news_raw": {
+    "exists": true,
+    "file_count": 625,
+    "path": "05_raw_model_outputs\\news_final_full"
+  },
+  "news_registry": {
+    "exists": true,
+    "included_count": 125,
+    "path": "01_registry\\news_registry.csv",
+    "real_included_count": 125,
+    "row_count": 125,
+    "synthetic_count": 0
+  },
+  "news_scoring": {
+    "document_score_count": 125,
+    "document_scores_path": "06_ratings\\news_final_full\\news_final_document_scores.csv",
+    "json_parse_failure_rate": 0.0,
+    "rating_row_count": 625,
+    "ratings_long_path": "06_ratings\\news_final_full\\news_final_ratings_long.csv",
+    "real_document_score_count": 125,
+    "real_rating_row_count": 625,
+    "schema_validation_success_rate": 1.0
+  },
+  "news_stability": {
+    "can_run": true,
+    "reason": ""
+  },
+  "news_text_extraction": {
+    "exists": true,
+    "path": "02_extracted_text\\news_clean",
+    "real_text_count": 125,
+    "row_count": 125
+  },
+  "overall_status": "ready"
+}

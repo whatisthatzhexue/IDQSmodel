@@ -1,0 +1,166 @@
+document_id: MDA_7216_KAWAN_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 11, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+As we reflect on 2024, I am proud
+to report that this has been a year
+of strategic transformation and
+resilient progress for our company. Amidst a dynamic operating environment, we remained
+steadfast in our mission to deliver high-quality frozen food
+products while laying the groundwork for a stronger, more
+sustainable future. A key milestone was the modernisation of our plant, where
+we adopted National Industrial Revolution 4.0 initiatives. The integration of automation, robotics, and IoT has
+improved our production efficiency and optimised
+operational costs. Our commitment to sustainability remains
+a core focus. Guided by Environmental,
+Social and Governance ("ESG") principles,
+we have contributed meaningfully to
+the
+economic,
+environmental,
+and
+social pillars of our business, aligning
+our initiatives with the United Nations
+Sustainable Development Goals. We
+also
+prioritised
+our
+workforce,
+enhancing compensation and benefits
+to retain talent and improve productivity. At the same time, we continued
+applying LEAN manufacturing tools to
+drive efficiency and reduce waste.
+[MDA_P003]
+Kawan At
+A Glance
+This is Kawan
+Food Berhad
+Our Strategic
+Review
+Financial
+Statements
+Other
+Information
+Our Commitment to Good
+Corporate Governance
+MANAGEMENT DISCUSSION AND ANALYSIS
+FY2024 was a year of
+strategic transformation
+and resilient progress
+for Kawan Food Berhad
+("KFB"). Building on our past
+momentum, we focused on
+consolidating operations,
+addressing legacy
+challenges, and laying a
+stronger foundation for
+sustainable growth. Despite navigating global uncertainties and cost
+pressures, we delivered steady performance
+through
+disciplined
+cost
+management,
+and targeted investments in efficiency and
+innovation. We are thrilled to report an impressive 10.6%
+revenue growth, reaching RM317.55 million – a
+clear testament to the robust demand for our
+products and the success of our operational
+refinements. Our export sales surged to RM181.56
+million, reflecting our growing global footprint
+and effective market strategies. Meanwhile,
+domestic revenue grew by a steady 4.8% to
+RM135.99 million, reaffirming the enduring trust
+of our loyal domestic customers. On the profitability front, we saw a strong
+rebound, with profit before tax climbing to
+RM41.54 million—our highest record.
+[MDA_P005]
+A special acknowledgment goes to our Export team,
+particularly for their exceptional focus on North America,
+achieving a remarkable 34.9% surge in sales to RM75.68
+million, driven by strong market demand and successful
+expansion initiatives. Europe also performed strongly,
+with revenue increasing by 24.6% to RM43.06 million,
+reflecting our expanding market presence and growing
+brand acceptance. In FY2024, the effective tax rate (24%) is higher than
+previous year due to full utilisation of reinvestment
+allowances. Importantly, our investments in new production lines
+and automations have enhanced output capabilities,
+demonstrating
+our
+commitment
+to
+operational
+excellence and ESG commitments. These investments
+have positioned us for better success in future. Performance Overview
+Revenue
+2023: RM287.22 million
+RM317.55
+million
+Malaysia
+RM135.99
+million
+North America
+RM75.68
+million
+Europe
+RM43.06
+million
+[MDA_P006]
+KAWAN FOOD BERHAD
+ANNUAL REPORT 2024
+MANAGEMENT DISCUSSION AND ANALYSIS
+Strategic Realignments and Risk Mitigation
+The
+Board’s
+decision
+to
+consolidate
+production
+underscores our focus on core competencies and agility. Additionally, workforce reviews were initiated to align
+headcount with evolving wage policies, ensuring cost
+efficiency ahead of Malaysia’s minimum wage increase
+in February 2025. We remain vigilant about emerging risks, including
+rising commodity prices, geopolitical shifts, and foreign
+exchange volatility. To address these, we are deepening
+partnerships
+with
+long-term
+suppliers,
+executing
+currency hedging strategies, and exploring alternative
+raw materials. Additionally, we are strengthening
+environmental and climate resilience through energy-
+efficient upgrades and sustainable sourcing practices. Forward-Looking Strategies for Growth
+Looking ahead, KFB is committed to strengthening export
+resilience and expanding market reach. We aim to
+penetrate new regions in ASEAN and Europe. Affordable
+product lines tailored to cost-conscious consumers will
+complement this effort, supported by targeted marketing
+campaigns. Cost optimisation remains central to our strategy.
+[MDA_P007]
+Automation investments will offset labour cost pressures. Our governance structure has been revitalised with a
+dynamic leadership team, blending seasoned expertise
+with fresh perspectives. Training programs will also play
+a crucial role in upskilling our workforce in automation
+and sustainability, ensuring we are future-ready. Outlook and Confidence in the Future
+The global appetite for frozen foods—valued for
+affordability
+and
+convenience—continues
+to
+grow. This positions KFB favourably for long-term success. While margin pressures from commodity costs and
+taxes persist, our investments in automation, market
+diversification, and ESG-aligned practices will bolster
+competitiveness edge. We are excited about the
+commissioning of new advanced paratha equipment
+in Q2 FY2025, alongside plans for affordable product
+launches, all of which support our growth ambitions. With a revitalised governance structure, a robust
+domestic base, and a clear roadmap for export, KFB is
+poised to navigate challenges and deliver sustained value
+to stakeholders. We extend our gratitude to employees,
+partners, and shareholders for their unwavering support
+as we build a resilient, forward-looking enterprise.

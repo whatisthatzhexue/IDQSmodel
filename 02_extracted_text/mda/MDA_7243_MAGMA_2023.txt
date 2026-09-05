@@ -1,0 +1,384 @@
+[MDA_P001]
+Management Discussion & Analysis
+(Overview of Group Business)
+Magma Group Berhad (“Magma” or the “Group”) has solidified its presence in the hospitality industry through a
+commitment to excellence in hotel management. Magma’s hospitality arm, MHM, manages a diverse portfolio of 4-star
+hotels located in strategic areas across Malaysia, including notable establishments like Impiana KLCC, Impiana Ipoh,
+and Impiana Senai. These strategic locations, selected for their accessibility and appeal, underscore Magma’s dedication to providing
+exceptional hospitality experiences. The Group’s focus on blending innovation with strategic placement ensures
+that guests receive unparalleled service, setting new benchmarks in the industry. Magma’s commitment to creating
+memorable stays is evident in its approach to hotel management, where the emphasis is on quality, guest satisfaction,
+and operational excellence. In addition to its hotel management ventures, Magma is also engaged in property development, with projects like
+the Impiana Resorts & Residences Cherating. This beachfront luxury suite development in Cherating, known for its
+pristine coastline, marks Magma’s foray into resort living.
+
+[MDA_P002]
+The project’s first phase encompasses 3 blocks with 144
+units, offering a range of accommodations from 1-bedroom suites to 3-bedroom units. Set on a freehold parcel,
+this development combines luxury with the natural beauty of Malaysia’s east coast, promising an exclusive lifestyle
+opportunity. As Magma actively seeks partners for the project’s second phase, it continues to expand its footprint in
+the property sector, leveraging its expertise in hospitality to enhance its real estate ventures. Looking towards 2024, Magma is optimistic about the prospects of its hospitality business. The Group is poised
+to leverage its strong portfolio of properties and its reputation for excellence to capture growth opportunities in the
+evolving hotel and tourism landscape. With a strategic focus on guest experiences and operational efficiency, Magma
+is well-positioned to meet the demands of the modern traveller and to continue its growth trajectory in the hospitality
+sector. Review of Financial Performance
+The summary of the Statement of Comprehensive Income is as follows:
+(RM ’000)
+FYE 2023
+FPE 2022
+(18 Months)
+Variance FYE
+2023 vs.
+
+[MDA_P003]
+FPE 2022
+Revenue
+14,458
+26,725
+(45.9%)
+Gross Profit (“GP”)
+16,543
+15,153
+9.2%
+Gross Profit Margin (“GPM”)
+114.4%
+56.7%
+Administrative Expenses
+(12,420)
+(13,051)
+4.8%
+Other Cost
+(17,141)
+(15,928)
+(7.6%)
+(Loss) Before Tax (“LBT”)
+(13,018)
+(13,826)
+5.8%
+(Loss) After Tax from Continued Operations (1) (“LAT”)
+(13,100)
+(14,307)
+8.4%
+Note:
+(1)
+Attributable to owner of the Company
+For the fiscal year concluded on 31 December 2023 (“FYE2023”), Magma Group Berhad (“Magma” or the “Group”)
+faced a year filled with considerable challenges and pivotal strategic shifts. The Group’s revenue for FYE2023
+reached RM14.46 million, a decrease from the RM26.73 million reported in FPE2022. This change reflects the Group’s
+adaptation to market fluctuations and its dedicated efforts towards refining operational efficiency across its business
+segments. Despite these endeavours, the Group encountered a Loss After Tax (“LAT”) of RM13.10 million for FYE2023,
+an improvement from the LAT of RM14.31 million in the preceding year, indicating the effectiveness of the Group’s
+strategic realignments and cost management initiatives in a turbulent economic environment.
+
+[MDA_P004]
+About Us | Performance | Sustainability | Governance | Financial | Additional Information
+ANNUAL REPORT 2023
+
+[MDA_P005]
+The summary of the Statement of Segmented Revenue is as follows:
+(RM ’000)
+FYE 2023
+FPE 2022
+(18 Months)
+Variance FYE
+2023 vs. FPE 2022
+Hotel Operation
+12,077
+13,556
+(10.9%)
+Hotel Management
+4,832
+5,147
+(6.1%)
+Property Development
+(2,451)
+8,022
+(>100%)
+Total Revenue
+14,458
+26,725
+(46.2%)
+In FYE2023, Magma Group Berhad navigated through a period of recalibration and strategic refinement across its
+business segments. The Hotel Operation segment emerged as a significant contributor, generating RM12.08 million,
+which constituted a substantial portion of the Group’s total revenue. This performance underscores the segment’s
+recovery and resilience, buoyed by increased occupancy rates and Average Room Rates (“ARR”), reflecting a rebound
+in the hospitality sector, particularly with the influx of travellers from China. The Hotel Management segment also demonstrated notable performance, contributing RM4.83 million to the revenue. This improvement is indicative of the effective management strategies and operational efficiencies implemented
+within the segment.
+
+[MDA_P006]
+However, the Property Development sector registered a negative revenue that was mainly due to
+rescission and a new purchaser with net effect of the revenue and operating profit. Despite the positive momentum in the hotel-related segments, the Group encountered a LAT of RM13.10 million. The
+breakdown of LAT reveals varied performance across the segments: a remarkable Profit After Tax (“PAT”) of RM2.66
+million from Hotel Operation, contrasting with LAT in Hotel Management of RM2.40 million and RM2.00 million in
+Property Development, further compounded by Corporate Expenses amounting to RM10.79 million. Comparatively, FPE2022 witnessed a different financial landscape, with total revenue at RM26.73 million. The Hotel
+Operation and Hotel Management segments generated RM13.56 million and RM5.15 million respectively, while the
+Property Development segment contributed RM8.02 million to the revenue pool. However, the financial year also saw
+losses across all segments, contributing to an overall LAT of RM14.31 million. The shift in leadership during FYE2023 and the ensuing cost rationalisation as part of the restructuring exercise played
+a pivotal role in shaping the financial outcomes.
+
+[MDA_P007]
+These strategic adjustments aimed at enhancing operational efficiency
+and profitability across the Group’s diverse portfolio. Moving forward, Magma remains committed to leveraging the
+strengths of its hotel operation and management segments while addressing the challenges within the property
+development sector, with an eye towards sustainable growth and stakeholder value enhancement in the evolving
+market landscape. Management Discussion & Analysis
+(Overview of Group Business)
+cont’d
+MAGMA GROUP BERHAD (fka Impiana Hotels Berhad) 200601021085 (740838-A)
+
+[MDA_P008]
+Review of Statement of Financial Position
+The summary of the Statement of Financial Position is as follows:
+(RM ’000)
+As at 31
+Dec 2023
+As at 31
+Dec 2022
+Variance
+31.12.2023
+vs. 31.12.2022
+Property, Plant and Equipment
+111,193
+110,682
+(0.5%)
+Intangible Assets
+-
+5,314
+(100%)
+Total Trade Receivables
+22,242
+20,962
+6.1%
+Contract Assets
+7,356
+12,138
+(39.4%)
+Total Assets
+245,213
+221,815
+10.5%
+Total Trade, Other Payables & Accruals
+45,948
+58,035
+(20.8%)
+Contract Liabilities
+(85.8%)
+Total Liabilities
+140,604
+156,130
+9.9%
+Shareholders’ Equity
+104,609
+65,685
+59.3%
+NA per share (sen) (1)
+17.64
+26.28
+(51.2%)
+Note:
+(1)
+Based on weighted average number of shares
+In FYE2023, Magma Group Berhad experienced notable changes in its financial position, as reflected in the balance
+sheet. The Group’s total assets grew significantly to RM245.21 million from RM221.82 million the previous year. The increase
+was partially caused by the increase in investment in associate which increased to RM40.22 million from RM39.40
+million.
+
+[MDA_P009]
+Meanwhile, intangible assets saw a considerable reduction to RM1.92 million from RM5.31 million as at 31 Dec
+2022, indicative of changes in the valuation of hotel management rights or potential amortisation effects. Current assets also saw a rise to RM93.80 million, up from RM66.42 million in the previous year, with a notable
+increase in inventories and trade receivables, which may reflect an uptick in business activity and improved revenue
+collection processes. On the liabilities side, the Group witnessed the total liabilities increase to RM140.60 million from RM156.13 million in
+the previous year. Equity saw a considerable rise, with total equity increasing to RM104.61 million from RM65.69 million. This increase in
+equity boosts the Group’s financial robustness and ability to finance future growth. These financial dynamics showcase a year where Magma Group Berhad leveraged market opportunities, enhanced
+operational capabilities, and navigated the economic uncertainties to strengthen its asset base and financial stability.
+
+[MDA_P010]
+As the Group looks towards FYE2024, there is a sense of optimism, with the company well-positioned to build on its
+financial gains and pursue further growth in the hospitality sector. Management Discussion & Analysis
+(Overview of Group Business)
+cont’d
+About Us | Performance | Sustainability | Governance | Financial | Additional Information
+ANNUAL REPORT 2023
+
+[MDA_P011]
+Review of Cash Flow Statement
+The summary of the Statement of Cash Flow is as follows:
+(RM ’000)
+FYE 2023
+FPE 2022
+(18 Months)
+Variance FYE
+2023 vs. FPE 2022
+Net cash flow used in operating activities
+(22,806)
+(3,546)
+(>100%)
+Net cash flow used in investing activities
+(1,643)
+(2,362)
+(30.4%)
+Net cash flow generated from financing activities
+43,432
+8,650
+>100%
+Net increase in cash and cash equivalents
+18,982
+2,742
+>100%
+Cash and cash equivalents at the beginning of
+the financial year/period
+(1,032)
+(3,861)
+73.3%
+Cash and cash equivalents at the end of the financial year/period
+18,120
+(1,032)
+>100%
+For FYE2023, Magma Group Berhad’s cash flow statement indicates several key movements in the company’s
+financial activities. The Group experienced a loss before taxation, which was adjusted for non-cash items like
+amortisation of intangible assets and depreciation, leading to an operating loss before working capital changes. The
+most significant movements in working capital were the increases in inventories and payables, along with a reduction
+in receivables, culminating in a net cash used in operations.
+
+[MDA_P012]
+A critical aspect of the year’s cash flow was the significant net cash generated from financing activities, amounting
+to RM45.49 million, a notable increase from FPE2022. This was largely due to the proceeds from the issuance of
+Redeemable Convertible Notes (“RCN”) and shares via a private placement, signalling the Group’s successful efforts in
+raising funds to enhance its financial strength and support strategic initiatives. The net increase in cash and cash equivalents for the year was RM18.12 million. This positive increase in cash
+positions the Group advantageously as it moves into the next financial period, with an end-of-year cash and cash
+equivalents balance of RM18.12 million. The ability to raise funds effectively through financial markets, despite the
+operating cash outflows, underscores Magma Group Berhad’s strong financial management and investor confidence. Dividend
+For the fiscal year ended 31 December 2023, Magma Group Berhad did not declare a dividend, in line with the
+Group’s cautious approach towards capital management amidst the year’s economic fluctuations and strategic
+realignments.
+
+[MDA_P013]
+The decision on the declaration of interim dividends and the recommendation of final dividends remains
+at the discretion of the Board of Directors (“BOD”), taking into account various factors such as the Group’s financial
+performance, capital expenditure needs, overall financial health, and other relevant considerations. While it is Magma’s
+intention to reward shareholders through dividends in the future, such distributions will be carefully evaluated against
+the backdrop of the Group’s operational and financial landscape. Corporate Developments
+In FYE2023, Magma Group Berhad embarked on several strategic developments that marked significant milestones
+in the Company’s journey. A pivotal moment was the revaluation exercise conducted on leasehold lands and buildings
+across the Company and its subsidiaries, leading to a substantial fair value gain of RM37.06 million. This revaluation
+underscores the underlying value in Magma’s real estate assets and bolsters the Group’s financial standing. A significant legal development during the year was the withdrawal of a lawsuit by Public Bank Berhad against
+Magma, including its wholly-owned subsidiary, Astaka Mekar.
+
+[MDA_P014]
+This resolution removes a potential obstacle, paving the
+way for smoother operations and strategic initiatives. A noteworthy corporate identity change was also undertaken, with Impiana Hotels Berhad transitioning to Magma
+Group Berhad, symbolised by a change in the stock short name from IMPIANA to MAGMA. This rebranding reflects a
+new strategic direction and a broader vision for the Group’s future. Management Discussion & Analysis
+(Overview of Group Business)
+cont’d
+MAGMA GROUP BERHAD (fka Impiana Hotels Berhad) 200601021085 (740838-A)
+
+[MDA_P015]
+To bolster its financial capacity, Magma undertook a private placement of 10% of the total number of issued shares,
+which successfully raised RM19.52 million. The exercise, completed on 15 December 2023, saw a total listing of 85.93
+million shares. Alongside this, the Group raised additional funds through Redeemable Convertible Notes (“RCN”),
+significantly enhancing its cash position with RM32.50 million raised, thus providing a solid foundation for future
+growth and development initiatives.
+These corporate developments collectively mark a year of strategic realignment, expansion, and financial fortification
+for Magma Group Berhad, setting a robust platform for the Group to capture emerging opportunities and navigate the
+dynamic business landscape in the years ahead.
+Business Risks Review
+The performances of the Company and its subsidiaries in the hospitality business are dependent on the following key
+risk areas:
+a.
+Economic Environment and Natural Disasters Impact on Hospitality Sector
+
+[MDA_P016]
+In FYE2023, the dynamics of travel and tourism spending, inherently discretionary and sensitive to economic
+fluctuations, continued to shape the hospitality industry. Factors such as transportation and accommodation
+supply and demand, economic growth rates, interest rates, inflation, and broader economic trends directly
+influence travel and tourism activities. Moreover, the sector’s vulnerability to natural and public health disasters,
+exemplified by the global COVID-19 pandemic, poses ongoing challenges to the operational stability and
+resilience of the Group’s assets.
+
+[MDA_P017]
+To navigate these complexities, the Group proactively monitors economic indicators and potential risks, enabling
+the formulation of pre-emptive strategies to mitigate adverse impacts. The previous fiscal period’s reopening of
+borders and economies heralded a resurgence in the Group’s Hotel Operation and Hotel Management segments,
+signalling a recovery from the pandemic’s extensive economic and human toll. However, the latent threat of
+future pandemics underscores the need for vigilance and preparedness.
+
+[MDA_P018]
+In response to the heightened awareness of public health risks, the Group has prioritised the implementation of
+rigorous “clean and safe” protocols, aligning with international standards. This commitment to safety, evidenced
+by the adoption of strict Standard Operating Procedures (SOPs) and pursuit of globally recognized certifications,
+aims to reassure guests of the Group’s dedication to health and safety. Drawing lessons from the COVID-19
+experience, the Group is better equipped to address financial and operational challenges that may arise from
+future epidemics or pandemics.
+b.
+Managing Foreign Exchange Risk
+
+[MDA_P019]
+The Group’s engagement in international transactions, particularly under hotel management agreements
+denominated in various currencies, exposes it to foreign exchange risk. Fluctuations in the currencies of the
+countries where the Group operates could potentially impact its financial performance.
+
+[MDA_P020]
+To mitigate this risk, the Group benefits from a natural hedge, as its operating expenses are largely incurred in
+the same currencies in which revenues are generated. Despite this, the Group remains vigilant, continuously
+monitoring currency movements to adapt its financial strategies accordingly, ensuring resilience and stability in
+the face of foreign exchange volatility.
+c.
+Development Risks
+
+[MDA_P021]
+As Magma Group Berhad progresses with the development of Impiana Resorts & Residences Cherating,
+it navigates the complex terrain of property development, fraught with inherent risks such as completion
+challenges, fluctuating demand for investment hospitality properties, the potential for purchaser defaults, and
+the escalating costs of labor and materials. Furthermore, the project must contend with the ever-evolving legal,
+taxation, and environmental regulations that govern the industry. To mitigate these risks, Magma employs
+meticulous planning and risk assessment strategies, ensuring that every phase of development is aligned with
+current market demands and regulatory requirements.
+Management Discussion & Analysis
+(Overview of Group Business)
+cont’d
+About Us | Performance | Sustainability | Governance | Financial | Additional Information
+ANNUAL REPORT 2023
+
+[MDA_P022]
+d.
+Asset Redevelopment and Maintenance
+
+[MDA_P023]
+Maintaining the Group’s assets in prime condition is crucial for operational excellence, necessitating periodic
+redevelopment, renovations, and maintenance. These activities, however, introduce financial implications,
+with costs expected to escalate over time. Magma’s adept finance team, armed with comprehensive financial
+planning and budgeting skills, anticipates future maintenance and redevelopment expenses, embedding them
+into financial projections to safeguard against unexpected cost surges, thereby ensuring the Group’s cash flow
+and profitability remain stable.
+e.
+Competition in Hospitality
+
+[MDA_P024]
+In the dynamic hospitality landscape, Magma faces intense competition, not only from traditional hotel operators
+but also from alternative accommodation options like AirBnB. Despite these challenges, Magma’s strategic
+marketing endeavours, leveraging partnerships with wholesalers, travel agents, and online platforms, bolster
+its competitive stance both locally and internationally. The Group’s commitment to delivering exceptional
+experiences distinct from conventional lodging options underscores its competitive advantage.
+f.
+Dependence on Key Personnel
+
+[MDA_P025]
+The Group’s ongoing success is intricately linked to the expertise and dedication of its leadership and
+management teams. Under the guidance of the recent addition of seasoned directors such as Dato’ Sri Lee
+Hock Seng and Dato’ Sri Liang Chee Fong, Magma is well-equipped for sustained growth. Concurrently, the
+Group is nurturing a pipeline of emerging talent to ensure seamless succession planning and long-term business
+continuity.
+g.
+Licensing and Regulatory Compliance
+
+[MDA_P026]
+Operating within the hospitality sector, Magma is beholden to a myriad of regulatory requirements, necessitating
+periodic renewal of operating, health, safety, and equipment licences. While the renewal terms may evolve, the
+Group remains vigilant in its compliance efforts, ensuring that all licences are acquired and renewed promptly
+to avoid operational disruptions. This proactive approach to regulatory adherence further solidifies Magma’s
+operational foundation.
+Management Discussion & Analysis
+(Overview of Group Business)
+cont’d
+MAGMA GROUP BERHAD (fka Impiana Hotels Berhad) 200601021085 (740838-A)

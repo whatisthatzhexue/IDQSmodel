@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI wavers amid Wall Street gains, muted local cues
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-12-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/04/fbm-klci-wavers-amid-wall-street-gains-muted-local-cues
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI opened higher before retreating, as investors weighed Wall Street gains against muted domestic developments. Overnight, Wall Street closed on a positive note, as a series of economic reports reinforced expectations of a Federal Reserve interest rate cut next week. The Dow Jones Industrial Average gained 0.86%, the S&P 500 rose 0.30%, while the Nasdaq Composite edged up 0.17%. The FBM KLCI fell 0.73 points, or 0.04%, to 1,622.11 at 9.19am, after opening higher at 1,624.63, up 1.79 points earlier.
+
+[NEWS_P002] Berjaya Research Sdn Bhd said the FBM KLCI is likely to remain in a prolonged consolidation phase amid the continued absence of fresh domestic catalysts. “The lack of notable policy initiatives, significant corporate announcements or macroeconomic surprises on the local front means investor conviction remains subdued, keeping the benchmark index confined within a tight trading band,” it said. Nevertheless, Berjaya Research noted that global developments, including movements in U.S.
+
+[NEWS_P003] equities, shifts in commodity prices, and major macroeconomic data releases, could still trigger intermittent volatility. “Technically, the key index has formed a bearish candlestick to extend its longer-term consolidation pattern. The range-bound trading is expected to keep gains in check with the immediate resistance at 1,632 points, followed by 1,638 points. “Meanwhile, the near-term supports remain pegged at the 1,612-1,600 levels,” it said, adding that broader market sentiment could remain mixed, with investors selectively nibbling on beaten-down and oversold stocks in search of short-term rebound opportunities.
+
+[NEWS_P004] Meanwhile, Rakuten Trade said it assumes traders prefer to see a clearer picture from the United States before committing themselves again. “For today, we anticipate the index to hover within the 1,620–1,630 range.” Among the decliners, Malaysian Pacific Industries fell 56 sen to RM31.92, United Plantations lost 12 sen to RM28.42, Tenaga Nasional gave up six sen to RM12.78 and Ralco declined 6.5 sen to 70 sen. Nestle jumped RM1.40 to RM118, Hong Leong Financial Group added 14 sen to RM17.88, Kelington rose 11 sen to RM5.19 and PPB Group gained eight sen to RM10.06.
+
+[NEWS_P005] ACE Market debutant PSP Energy slipped 0.5 sen, or 3.13%, to 15.5 sen with 48.43 million shares traded, making it the most active counter on Bursa Malaysia.

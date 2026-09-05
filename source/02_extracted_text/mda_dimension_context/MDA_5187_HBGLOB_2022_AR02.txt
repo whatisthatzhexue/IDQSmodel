@@ -1,0 +1,70 @@
+document_id: MDA_5187_HBGLOB_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_5187_HBGLOB_2022", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 25, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+The following MD&A of the operating performance and financial condition of the Group for the twelve (12)
+months ended 31 December 2022 should be read in conjunction with the Audited Financial Statement for the
+year ended 31 December 2022 and related notes thereto. The information presented in the MD&A, including
+information relating to comparative year in 2021, is presented in accordance with the Singapore Financial
+Reporting Standards (International) [SFRS(I)s], unless otherwise stated. Overview of Business and Objectives
+HB Global Limited (“HBGL”) is principally an investment holding company and currently the Group has one
+wholly owned subsidiary and a 60% owned subsidiary as below:
+100% owned Subsidiary:
+(i) Shandong Hengbao Foodstuffs Co., Ltd. (“SHF”) – the main operation plant situated in China
+75% owned Subsidiary:
+(i) HB Infrastructures and Technologies Sdn Bhd (“HBIT”) – the main operating situated in Malaysia
+Our group’s core activities involve the processing, packaging, and production of a diverse range of ready-to-
+serve foods, frozen vegetables, and other food products through our subsidiaries.
+[MDA_P002]
+Over the years, the Group has established itself as one of the leading one-stop gourmet convenient food
+specialist in China, we possess advanced food processing capabilities, including cleaning, slicing/cutting,
+blanching, boiling, frying, vacuum frying, steaming, smoking, stewing, and barbequing. Our company produces
+various food materials and quick-frozen products, mainly to meet the needs of our customers and distributors
+as well as is also an original equipment manufacturer (“OEM”) for third customer’s brand. Our products are
+marketed under our customers’ brands, as well as our own brands, such as “Geleifu” (Green Food), “Hengbao
+Food,” “Qing Long Tan” (asparagus tea), and “The Four Seasons Farm”. We offer a wide range of products, numbering over 1,000 and exported to more than 20 countries worldwide,
+such as Japan, the USA, Singapore, Australia, and Korea, among others. HBGL’s products are widely available
+to various users, ranging from hypermarkets, tourist markets, food stalls to residential houses.
+[MDA_P003]
+As part of our fundamental principle to provide affordable food products with high quality and unique flavour,
+we are renowned for our technical expertise and strict quality control standards, which are instrumental in
+establishing our reputation as a leading food manufacturer. We operate a complete quality monitoring and
+control system, and our company is certified with several international certifications such as ISO9001, ISO22000,
+HACCP, FDA, and BRC. The Group firmly believe that quality plays a pivotal role in attracting customers. To uphold this belief, the
+Group is committed to implementing a set of principles that would enhance its standing in the market. These
+principles are centred on improving the quality of our products, services and processes, adopting best practices
+in the industry, and ensuring customer satisfaction. The Group understands that customers’ expectations and
+preferences can evolve over time, and it is essential to continually monitor and improve its offerings to meet
+their changing needs. By prioritizing quality, the Group aims to strengthen its market position and build long-term
+relationships with its customers.
+[MDA_P004]
+ANNUAL REPORT 2022
+HB GLOBAL LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Operation Overview
+HBGL Group’s revenue had decreased by RMB55.4 million or approximately 42% from RMB131.5 million in
+financial year ended 31 December 2021 (“FYE2021”) to RMB76.1 million in financial year ended 31 December
+2022 (“FYE2022”). The decrease was mainly due to decrease in sales of China subsidiary as during FYE2022, there
+was some disruption in the production and supply chain due to lockdown in certain areas of China which have
+been affected with rising Covid 19 cases. The Group incurred a net loss before taxation of RMB 167.1 million in
+FYE2022 as compared to RMB38.5 million in FYE2021. In order to maintain competitiveness in the current market conditions, it is essential for the Group to focus on
+improving its production planning and implementing rigorous quality control measures on its manufactured
+products. The Group is continuously monitoring and enhancing its production lines to ensure optimal efficiency.
+[MDA_P005]
+Operations Review
+HB Global’s expenses are classified into five main components: costs of sales, selling and distribution expenses,
+administrative expenses, other expenses, and finance costs. In the year under review, costs of sales constituted
+the large portion of the Group’s operating expenditure, accounting for 33.1% of total expenses. Given the potential risks posed by currency fluctuations and changing consumer behavior, HBGL has put in
+place effective contingency plans to mitigate such risks. To minimize costs, management has implemented a
+tight control operating model, while also leveraging technology to enhance operational efficiency. Financial Review
+In the financial year ended 31 December 2022 (“FYE2022”), the Group’s revenue declined significantly by RMB55.4
+million or approximately 42% compared to the previous financial year, mainly attributable to reduced sales by
+the China subsidiary. This was due to disruptions in the production and supply chain caused by lockdowns in
+certain areas of China that were affected by the rising number of Covid-19 cases.

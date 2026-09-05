@@ -1,0 +1,14 @@
+[TITLE]
+FBM KLCI maintains rally as US govt shutdown commences
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/01/fbm-klci-maintains-rally-as-us-govt-shutdown-commences
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's stock market held on to gains alongside most regional markets following the US government shutdown at noon today. At 12.30pm, the FBM KLCI maintained a strong lead of 9.22 points at 1,621.1 with 25 out of the 30 blue-chip constituents in positive territory. The buying interest extended also to the lower liners as the broader market ticked higher with 475 gainers compared to 419 decliners. Of the twelve sectors that showed gains, financial services rose 0.74% as investors flocked to banks following the report of enouraging loans growth in August.
+
+[NEWS_P002] Trading volume was 1.31 billion shares valued at RM979.96mil. Blue chips leading the rally include Nestle up 78 sen to RM97, IHH gaining 37 sen to RM7.92 and PETRONAS Dagangan adding 28 sne to RM23.22. Of actives, VS Industry rose one sen to 60 sen, Malakoff jumped five sen to RM1.10 and Zetrix AI was up 1.5 sen to 86.5 sen. In key Asian markets, China's composite index was up 0.52% to 3,882. Hong Kong's Hang Seng gained 0.87% to 26,855. Japan's Nikkei was down 1.27% to 27,800 while South Korea's Kospi climbed 0.82% to 3,452.

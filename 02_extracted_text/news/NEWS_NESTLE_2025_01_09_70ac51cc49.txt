@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia stays cautious ahead of Trump inauguration, JSSEZ theme provides support
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/09/bursa-malaysia-stays-cautious-ahead-of-trump-inauguration-jssez-theme-provides-support
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: There was a slight retracement in the FBM KLCI as the domestic market opened for trading on Thursday, with the benchmark index bouncing slightly higher following the previous day's sharp plunge. The FBM KLCI rose 3.34 points to 1,618.17 after diving 15 points or nearly 1% in the previous session after a US jobs report showed stubborn inflation, which could mean fewer interest rate cuts this year. According to Rakuten Trade, the ongoing cautious sentiment in the domestic market could continue in the lead-up to the swearing in of US President-elect Donald Trump as investors watch for policy adjustments.
+
+[NEWS_P002] However, Rakuten noted the market decline provides an opportunity for investors to accumulate at lower prices, supported by appealing valuations. "As such, we expect the FBM KLCI to trade within the range of 1,615–1,625 for today," it said in a note. Malacca Securities Research said in its own outlook that the Johor-Singapore Special Economic Zone theme should continue providing support to overall investment sentiment in the near term, driven by ongoing foreign direct investments inflows and data centre investments.
+
+[NEWS_P003] The research firm said it was also optimistic over Penang-related counters, underpinned by the commencement of six water projects worth over RM1.8bil and the start of the Penang LRT project. "We maintain a bullish outlook on the construction, property, building material and utilities sectors. "Trading opportunities might persist in Itmax, as it has secured an RM11.8mil CCTV contract from the Penang City Council," it added. Among the early gainers, Nestle bounced 48 sen higher to RM95.48, Eurospan jumped 20 sen to RM2.75 and PPB gained 10 sen to RM12.44.
+
+[NEWS_P004] Top actives included Velocity down 0.5 sen to 7.5 sen, Swift Energy up two sen to 41.5 sen and Kucingko adding one sen to 31.5 sen.

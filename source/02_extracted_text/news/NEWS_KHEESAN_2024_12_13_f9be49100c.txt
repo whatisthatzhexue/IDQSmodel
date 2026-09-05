@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit extends losses amid cautious sentiment ahead of next week's FOMC meeting
+
+[METADATA]
+ticker: KHEESAN
+company_name: Khee San Berhad
+publish_date: 2024-12-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/13/ringgit-extends-losses-amid-cautious-sentiment-ahead-of-next-week039s-fomc-meeting
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit closed lower against the US dollar for the fifth consecutive day on Friday amid mounting cautious sentiment ahead of the Federal Open Market Committee’s (FOMC) meeting on Dec 17-18. At 6 pm, the local currency slid to 4.4475/4525 against the greenback, compared to yesterday’s close of 4.4350/4395. Bank Muamalat Malaysia Bhd chief economist Mohd Afzanizam Abdul Rashid pointed out the possibility of the US Federal Reserve (Fed) cutting interest rates next week.
+
+[NEWS_P002] “US economic data thus far has been pointing for a gradual monetary easing next week,” he told Bernama. Mohd Afzanizam said other central banks, such as the European Central Bank (ECB) and the Swiss National Bank (SNB), have also cut their interest rate, with the ECB being seen to be inclined to cut the policy rates further. The November US consumer price index (CPI) expanded 2.7 per cent, higher than the 2.6 per cent the previous month, while core CPI, on the other hand, sustained at 3.3 per cent for the third consecutive month from 3.2 per cent in August, suggesting the US inflation rate remained sticky.
+
+[NEWS_P003] Meanwhile, the US Producer Price Index (PPI) also rose three per cent on a yearly basis in November. The ringgit traded mostly higher against other major currencies. It strengthened versus the British pound to 5.6203/6266 from 5.6591/6648 and rose against the Japanese yen to 2.8987/9022 from 2.9074/9106. The local note, however, fell against the euro to 4.6632/6684 from 4.6612/6659 at Thursday’s close. The ringgit traded higher against ASEAN currencies.
+
+[NEWS_P004] It gained against the Singapore dollar to 3.2971/3011 versus 3.3008/3044 on Thursday and went up versus the Thai baht to 13.0261/0472 from 13.1058/1261 previously. The ringgit also edged up against the Indonesian rupiah to 277.7/278.2 from 278.1/278.5 and increased against the Philippine peso to 7.60/7.62 from 7.61/7.62 at yesterday’s close. - Bernama

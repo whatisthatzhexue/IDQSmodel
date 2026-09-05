@@ -1,0 +1,20 @@
+[TITLE]
+KLCI edges higher at midday on selective buying in heavyweights
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-08-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/08/klci-edges-higher-at-midday-on-selective-buying-in-heavyweights
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI traded marginally higher at midday on Friday, supported by selective buying in heavyweights despite a weaker broader market. At 12.30pm, the benchmark FBM KLCI climbed 4.22 points, or 0.27% to 1,553.33 after hitting an intraday high of 1,554.27. There were 293 gainers, 504 losers and 438 counters traded unchanged on the Bursa Malaysia. Turnover stood at 1.46 billion shares valued at RM959.6mil. TA Securities said that despite the firm local benchmark, the sustained negative market breadth and absence of significant local catalysts suggest stocks could retreat into profit-taking consolidation ahead of the weekend.
+
+[NEWS_P002] “Immediate index support remains at 1,490, with stronger support found at 1,465 followed by 1,444. “Immediate resistance is maintained at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead,” it said. According to Hong Leong Investment Bank Research, the recent easing of US-Malaysia tariffs and the unveiling of a pragmatic 13MP may provide a constructive backdrop for the FBM KLCI’s near-term trajectory. The index has the potential to retest the 1,550–1,570 resistance levels, it said.
+
+[NEWS_P003] The research house said optimism is also supported by growing expectations of a US Fed rate cut as early as September. However, sentiment may remain guarded in August. This is due to persistent foreign net outflows totalling RM14.07 bil year-to-date, the largest since the RM24.6 bil recorded in the pandemic-hit year of 2020. Headwinds include higher US tariffs on pharmaceuticals (up to 250%) and chips (100%), a weak August earnings outlook, and the KLCI’s seasonal weakness.
+
+[NEWS_P004] HLIB Research said locally, subsidy rationalisation and a possible SST expansion may further dampen sentiment and earnings visibility. Domestically, concerns over subsidy rationalisation and a potential SST expansion could further weigh on consumer sentiment and cloud corporate earnings visibility. Among the gainers on Bursa Malaysia, Allianz-PA gained 80 sen to RM18.30, PETRONAS Gas rose 42 sen to RM18.58, United Plantations added 16 sen to RM13.16 and Ajinomoto climbed 16 sen to RM13.16.
+
+[NEWS_P005] Meanwhile, the top decliner was Nestle, which lost 72 sen to RM89. PPB Group fell 29 sen to RM9.01, BAT declined 15 sen to RM4.92 and UMS Integration gave up 15 sen to RM5.24.

@@ -1,0 +1,7 @@
+| dimension | name | main_weight |
+| --- | --- | --- |
+| N01 | Factual accuracy and internal consistency | 0.3 |
+| N02 | Source transparency and verifiability | 0.25 |
+| N03 | Balance and objectivity | 0.15 |
+| N04 | Relevance and information increment | 0.2 |
+| N05 | Expression clarity and headline fit | 0.1 |

@@ -1,0 +1,103 @@
+document_id: MDA_5157_SG_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+ANNUAL REPORT 2023
+Analysis of Revenue (Cont’d)
+The Management will continue to improve its production efficiency and increase its production capacity to capture a bigger market share
+in the FPP segment which has cater more sales and increase the market for East Malaysia, i.e. Sabah and Sarawak. As during the financial
+under review, the Company investing into expand its production capacity that able to produce more in FPP products and meet the
+demand of local and East Malaysia market. The Management continued to put effort in monitoring its cash flow management and cost
+reduction programme that is important in view of the ever-changing business environment on uncertainty in Global market situation such
+as Russian Ukraine conflict and GAZA conflict.
+[MDA_P008]
+Even facing the uncertainty on
+post Covid-19 pandemic challenge on global and local in material
+price and forex, the Group was still able to improved its cash inflow
+from operation and still maintained its current ratio at 3.74 times
+for FYE 2023 as compared to 8.8 times for FYE 2022. During the financial year under review, the Group raised funds of
+RM5.4 million through Shares Issuance Scheme. The cash generated
+were used to purchase of additional machinery and expansion of
+production and cold storage space. This will able to increase the
+Company production capacity by at least 30% in coming years. Cash and cash equivalent stood at RM4.1 million as at 31 July 2023. FYE 2023
+FYE 2022
+(RM’000)
+(RM’000)
+Net cash used in investing activities
+(28,522)
+(36,092)
+Net cash generated from financing
+activities
+4,172
+15,399
+Net (decrease)/increase in cash
+and cash equivalents
+(3,892)
+42,421
+The Group has in process to increase its production capacity by
+investing in new machineries and equipment in current financial
+year under reviews with the proceeds raised pursuant to the rights
+issue and placement of shares.
+[MDA_P009]
+In FYE 2023, the Group has invested
+RM23.9 million in FYE2023 as compared to RM21.5 million in FYE
+2022 on the acquisition of plant and machineries. The spending
+was mainly in the acquisition of new production machinery and
+increase in production and cold storage space that will improve
+the production capacity in order to cater existing customers
+demand and demand from Easy Malaysia customers in the near
+future. Even with the tough time during the financial year under
+review, the management re-strategised the direction decided that
+it was a strategic time for expansion and reinvestment to replace
+old machines with more automated machines in the short and
+middle term. Therefore, the Group raised funds for expansion of
+production and reinvesting into new machinery to increase the
+production capacity of the Group in coming years, even during this
+challenging time i.e. post Covid-19 pandemic and uncertainty in
+Global situation.
+[MDA_P012]
+ANNUAL REPORT 2023
+Financial Position Analysis (Cont’d)
+Besides the continuing impact of post Covid-19 pandemic and uncertainty in Global situation. FYE 2023, the Management still able to
+mitigate the impact and maintain stabilities of trade turnover period which resulted in the following:
+-
+The stabilities in collection will help the Management in the cost saving programme such as reduction in finance cost and obtained
+cash or prompt payment discounts from suppliers. -
+The abovementioned resulted the Group to be able to improve the collection from customers by reducing trade receivables from
+RM23.8 million in FYE 2022 to RM10.1 million in FYE 2023. Shareholders’ Fund Analysis
+EARNINGS / (LOSS) PER SHARE (SEN)
+5.00
+0.34
+(18.04)
+(1.47)
+(0.49)
+(0.67)
+(5.00)
+(10.00)
+(15.00)
+(20.00)
+-
+Our Group’s shareholders’ equity as at 31 July 2023 stood at RM136.2 million representing a decrease of RM1.0 million or 0.7%
+over the previous financial year ended 31 July 2022 of RM137.2 million. The decrease were mainly due to fair value loss and loss on
+disposal of other investments of RM7.9 million in current year under review.
+[MDA_P013]
+-
+The abovementioned cause our Group’s net assets per share to reduce to 12 sen in FYE 2023 as compare to 15 sen in FYE 2022. This
+mainly due to increase in number of ordinary shares. Key Risk and Mitigation
+After completely implementing the distributorship model undercurrent year review, the Group was able to strengthen its credit control
+and minimised exposure of credit risks. However, due to the Covid-19 pandemic and uncertainty in global economy during the financial
+year, the Group had continued monitoring the situation in Malaysia and globally. The additional cost such as labour costs on the imposition
+of minimum wages from RM1,200 per month to RM1,500 per month. This additional cost has contributed to the negative result during the
+financial year under review. As such, the Group will continue to put more effort in strengthen the growth distributorship channel on FPP
+segment and increase production capacity to cater the increase in demand of FPP in the coming year.
+[MDA_P014]
+Trend, outlook, future challenge, strategy and capital expenditure
+The Group will continue to improve its operation efficiency with effective resources planning, practicing lean concept for operation work
+flow as well as empower the employees especially middle management to initiate and execute ideas for better production cost control by
+sharing their idea and thinking every day during our daily and monthly Head of Department meeting that will discuss the current situation
+of the Company and risks that were faced during the past month and will be facing in the coming months. Moving forward, with technically debts free situation and the in progress of expansion plan of production capacity, the Group foresee
+increase in revenue and better performance in the coming year. With the current management team headed by our Executive Directors
+and our Chief Executive Officer, the Group have will move at faster pace after the completion of the expansion project in FYE 2024.

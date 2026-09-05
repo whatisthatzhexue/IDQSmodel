@@ -1,0 +1,254 @@
+[SECTION: Unknown]
+
+[MDA_P001]
+[MDA_P001] MANAGEMENT DISCUSSION AND ANALYSIS
+
+[SECTION: Business Review]
+
+[MDA_P002]
+[MDA_P003] Harrisons' income is mainly derived from the marketing, sales, warehousing and distribution of consumer, building materials and engineering products, fine wines, agricultural and industrial chemicals, and the operation of shipping/logistics, travel agencies and retailing. These businesses are conducted as follows:
+
+[SECTION: Business Review]
+
+[MDA_P003]
+[MDA_P004] a. In East Malaysia, Harrisons Sabah Sdn. Bhd. and Harrisons Sarawak Sdn. Bhd. are involved in the marketing, sales, warehousing and distribution of fast-moving consumer goods, building materials, engineering products and agricultural chemicals as well as the operation of shipping and travel agencies; and
+
+[SECTION: Business Review]
+
+[MDA_P004]
+[MDA_P005] b. In Peninsular Malaysia, Harrisons Peninsular Sdn. Bhd. and Harrisons Marketing & Services Sdn. Bhd. are involved in the marketing, sales, warehousing and distribution of building materials, industrial and agricultural chemicals, and import and distribution of fine wines as well as the freight forwarding and shipping.
+
+[SECTION: Business Review]
+
+[MDA_P005]
+[MDA_P006] Presently, Harrisons has over 400 principals, and distributes approximately 13,000 product items to over 15,000 accounts spread all over Malaysia. The Group operates a total network of 27 branches and 47 warehouses strategically located throughout Malaysia (13 in Peninsular, 9 in Sabah and 5 in Sarawak) and is supported by over 1,900 employees.
+
+[SECTION: Business Review]
+
+[MDA_P006]
+[MDA_P007] c. In Singapore, our subsidiaries The Famous Amos Chocolate Chip Cookie Singapore Pte. Ltd. wholesale and retails the Famous Amos Cookies and Watts Harrisons Sdn. Bhd. wholesale the Komonoya brand products with uniform prices.
+
+[SECTION: Business Review]
+
+[MDA_P007]
+[MDA_P008] Objectives and Strategies
+
+[SECTION: Business Review]
+
+[MDA_P008]
+[MDA_P009] Harrisons’ objective is to focus on its core strength of marketing and distribution, and to maintain its position as one of the leading distributors in Malaysia. The Group will continue to expand the sales of the Fast-Moving Consumer Goods and Building Materials by securing new agencies of good quality products and to grow its customer base in East and West Malaysia.
+
+[SECTION: Financial Review]
+
+[MDA_P009]
+[MDA_P011] Revenue
+
+[SECTION: Financial Review]
+
+[MDA_P010]
+[MDA_P012] Changes Growth
+
+[SECTION: Financial Review]
+
+[MDA_P011]
+[MDA_P013] RM’000 RM’000 RM’000 %
+
+[SECTION: Financial Review]
+
+[MDA_P012]
+[MDA_P014] Fast-Moving Consumer Goods
+
+[SECTION: Financial Review]
+
+[MDA_P013]
+[MDA_P015] 1,744,827 1,750,798 (5,971) -0.34 Building Materials and Engineering Products
+
+[SECTION: Financial Review]
+
+[MDA_P014]
+[MDA_P016] 407,411 312,724 94,687 30.28 Industrial and Agricultural Chemical Products
+
+[SECTION: Financial Review]
+
+[MDA_P015]
+[MDA_P017] 49,863 55,514 (5,651) -10.18 Retailing
+
+[SECTION: Financial Review]
+
+[MDA_P016]
+[MDA_P018] 40,595 37,445 3,150 8.41 Shipping and Others
+
+[SECTION: Financial Review]
+
+[MDA_P017]
+[MDA_P019] 14,381 17,634 (3,253) -18.45
+
+[SECTION: Financial Review]
+
+[MDA_P018]
+[MDA_P020] ────── ────── ────── ────
+
+[SECTION: Financial Review]
+
+[MDA_P019]
+[MDA_P021] 2,257,077 2,174,115 82,962 3.82
+
+[SECTION: Financial Review]
+
+[MDA_P020]
+[MDA_P022] ══════ ══════ ══════ ════
+
+[SECTION: Financial Review]
+
+[MDA_P021]
+[MDA_P023] Revenue increased from RM2.17 billion in FY2022 to RM2.26 billion in FY2023. The increase is mainly due to increase in cement sales in the Building Materials and Engineering Products Division. Cement sales was driven by tight supplies, rising demands and price increases in Peninsular during FY2023.
+
+[SECTION: Financial Review]
+
+[MDA_P022]
+[MDA_P024] Sales of our Fast-Moving Consumer Goods declined slightly by 0.34% due to decrease in sales of certain agencies and rationalisation of certain products range/agencies of our Fast Moving-Consumer Goods products. Sales of our Industrial and Agriculture Chemical products decreased by 10.18% as overall demand and selling price soften in FY2023.
+
+[SECTION: Financial Review]
+
+[MDA_P023]
+[MDA_P025] MANAGEMENT DISCUSSION AND ANALYSIS
+
+[SECTION: Financial Review]
+
+[MDA_P024]
+[MDA_P026] HARRISONS HOLDINGS (MALAYSIA) BERHAD MANAGEMENT DISCUSSION AND ANALYSIS (CONTINUED)
+
+[SECTION: Financial Review]
+
+[MDA_P025]
+[MDA_P027] Sales in the Retailing Segment increased by 8.41% as selling price of the Famous Amos Cookies in Singapore increased following increase in ingredient costs.
+
+[SECTION: Financial Review]
+
+[MDA_P026]
+[MDA_P028] Revenue for the Shipping and Others Segment decreased by 18.45% due to lower commissions earned as container handling and freight commissions declined following overall decline in shipping activities in Sabah.
+
+[SECTION: Financial Review]
+
+[MDA_P027]
+[MDA_P029] Gross Profit
+
+[SECTION: Financial Review]
+
+[MDA_P028]
+[MDA_P030] Gross Profit increased from RM254.15 million in FY2022 to RM263.52 million in FY2023. Gross Profit Margin in FY2023 was flat at 11.68% compared to FY2022. Our sales of FMCG was down by 0.3% but our Building Materials sales grew by 30%. The Gross Profit Margin of our cement is lower than that of our FMCG.
+
+[SECTION: Financial Review]
+
+[MDA_P029]
+[MDA_P031] Profit Before Taxation
+
+[SECTION: Financial Review]
+
+[MDA_P030]
+[MDA_P032] The Group Profit Before Taxation for FY2023 of RM89.52 million as compared to RM89.88 million. Administrative expenses increased by RM9.22 million for FY2023 as compared to FY2022 as there was a reversal of allowance for loss of trade receivables of RM5.4 million in FY2022. Interest expense increased by RM1.77 million as Overnight Policy Rate (OPR) increased 0.25% for the year.
+
+[SECTION: Financial Review]
+
+[MDA_P031]
+[MDA_P033] Profit After Taxation
+
+[SECTION: Financial Review]
+
+[MDA_P032]
+[MDA_P034] Profit After Taxation increased slightly from RM67.98 million in FY2022 to RM68.80 million in FY2023, reflecting an increase of 1.20%.
+
+[SECTION: Financial Review]
+
+[MDA_P033]
+[MDA_P035] Segmental information FY2023
+
+[SECTION: Financial Review]
+
+[MDA_P034]
+[MDA_P036] There are 3 main Segments within Harrisons Group: 1. The Trade and Distribution Segment 2. Retail Segment 3. Shipping and Others Segment
+
+[SECTION: Financial Review]
+
+[MDA_P035]
+[MDA_P037] Trade Shipping
+
+[SECTION: Financial Review]
+
+[MDA_P036]
+[MDA_P038] and and
+
+[SECTION: Financial Review]
+
+[MDA_P037]
+[MDA_P039] Distribution Retail Others Group
+
+[SECTION: Financial Review]
+
+[MDA_P038]
+[MDA_P040] RM’000 RM’000 RM’000 RM’000 %
+
+[SECTION: Financial Review]
+
+[MDA_P039]
+[MDA_P041] Geographical market Sabah 1,169,323 - 12,590 1,181,913 52.37 Sarawak 595,803 - 596,516 26.43 Peninsular Malaysia 436,975 2,848 1,078 440,901 19.53 Singapore - 37,747 - 37,747 1.67
+
+[SECTION: Financial Review]
+
+[MDA_P040]
+[MDA_P042] ────── ────── ────── ────── ──── Total Revenue 2,202,101 40,595 14,381 2,257,077 100.00
+
+[SECTION: Financial Review]
+
+[MDA_P041]
+[MDA_P043] ────── ────── ────── ────── ────
+
+[SECTION: Financial Review]
+
+[MDA_P042]
+[MDA_P044] Profit Before Interest and Tax 84,351 6,210 3,502 94,063
+
+[SECTION: Financial Review]
+
+[MDA_P043]
+[MDA_P045] Interest income 2,479 2,840 Finance costs (7,017) (361) (8) (7,386)
+
+[SECTION: Financial Review]
+
+[MDA_P044]
+[MDA_P046] ────── ────── ────── ────── Profit before taxation
+
+[SECTION: Financial Review]
+
+[MDA_P045]
+[MDA_P047] 79,813 6,157 3,547 89,517
+
+[SECTION: Financial Review]
+
+[MDA_P046]
+[MDA_P048] ══════ ══════ ══════ ══════
+
+[SECTION: Financial Review]
+
+[MDA_P047]
+[MDA_P049] MANAGEMENT DISCUSSION AND ANALYSIS (CONT’D)
+
+[SECTION: Financial Review]
+
+[MDA_P048]
+[MDA_P050] HARRISONS HOLDINGS (MALAYSIA) BERHAD MANAGEMENT DISCUSSION AND ANALYSIS (CONTINUED) The Trade and Distribution Segment comprise mainly of the Fast-Moving Consumer Products businesses in Sabah and Sarawak and Building Materials and Engineering Products in Peninsular. This segment continued to perform well in FY2023, exceeding last year’s Profit Before Tax by RM2.1 million (2.71%). The sales of Building Materials and Engineering Products which contributed 19.36% of total revenue recorded a growth of 26.31% in FY2023. The significant increase is mainly due to strong demand for cement which pushed up selling prices during the year. The Profit Before Tax for the small Retail Segment increased from last year of RM5.48 million to RM6.16 million this year by RM682,000. Sales of the Famous Amos cookies grew by RM3.9 million or 11.55% for FY2023. The Shipping and Others Segment Profit Before Tax is RM3.55 million for FY2023 as compared to RM6.69 million in FY2022.
+
+[SECTION: Financial Review]
+
+[MDA_P049]
+[MDA_P051] Shipping Division results decreased by RM3.5 million in FY2023 due to lower shipping commissions earned from Freight Commission-Ocean Liner, Container Storage, Commission-Demurrage Collection and Container cleaning/local handling charges in Sabah. Group Cash Flow The Group Cash Flow showed cash generated from operating activities of RM48.6 million for FY2023. Lesser cash was tied up in inventories over FY2023 as compared to FY2022. Collection of Trade receivables was closely monitored. Group Financial Position Trade and Other Debtors increased by RM39.8 million as at 31 December 2023 due to higher sales generated during FY2023. Despite of the increase, collections of receivables improved during FY2023. Inventories increased by RM18.3 million at the end of the year. Bank borrowings were lower in FY2023 due to lower utilisation of bankers acceptances facilities during year 2023. Net current assets continue to improve by RM29.5 million indicating that the Group is a strong liquidity position to pay off our short-term obligations.
+
+[SECTION: Financial Review]
+
+[MDA_P050]
+[MDA_P052] Strategies and Future Profit Growth The distribution business of our Fast-Moving Consumer Goods becomes more challenging in days ahead as more distribution players emerge to compete in the East Malaysia market. We will continue to focus on serving our customers better by improving staff competencies to ensure high service standards are offered to our customers and principals. We will also focus and strategise to secure new agencies and brands to complement our diversified agencies portfolio. We have completed our Enterprise Resource Planning (ERP) to manage and integrate important parts of our business for Sabah successfully in FY2022. We have commenced implementing our ERP systems in Sarawak in FY2023 and expects to roll out in FY2024. This technology upgrades will enhance efficiencies in our operations to serve our customers and principals effectively. Prospects We expect slow global growth, price of goods to increase and local affordability to impact the domestic economy in 2024. We also appreciate that the Fast-Moving Consumer Products is more resilient and less impacted by moderate price increase.
+
+[SECTION: Financial Review]
+
+[MDA_P051]
+[MDA_P053] As such, we remain confident that our medium to long term outlook of our trading and distribution business remains positive and is well positioned to grow. MANAGEMENT DISCUSSION AND ANALYSIS (CONT’D)

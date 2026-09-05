@@ -1,0 +1,22 @@
+[TITLE]
+Trading ideas: Sunway, Hengyuan, Steel Hawk, Mudajaya, Velesto, Advancon, Eversendai, Kawan, Renergy
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-10-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/24/trading-ideas-sunway-hengyuan-steel-hawk-mudajaya-velesto-advancon-eversendai-kawan-renergy
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Sunway Bhd has secured a term loan facility of up to SGD600mn to fund its acquisition of Hongkong Land (MCL) Holdings Ltd. Hengyuan Refining Co Bhd has raised RM234.0mn in gross proceeds from its rights issue exercise, which was oversubscribed by 122.9%. Steel Hawk Bhd has secured eight subcontracts worth RM61.0mn combined for a low-voltage power cable system.
+
+[NEWS_P002] Mudajaya Group Bhd has secured properties worth RM152.4mn it was promised as payments for completed construction work on a mixed-use development project on Jalan Sultan Ismail, Kuala Lumpur. Velesto Energy Bhd has signed an agreement with Australian offshore services firm Icon Engineering Pty Ltd to deliver rig-installed wellhead platforms for shallow-water and marginal fields in Malaysia. Advancecon Holdings Bhd has secured two contracts worth RM25.1mn from a unit of Sime Darby Property Bhd for earthworks and related works in Bandar Bukit Raja 2, Klang.
+
+[NEWS_P003] Eversendai Offshore, a wholly owned subsidiary of Eversendai Corporation Berhad , has begun fabrication works for the LanWin2 project on Sept 18, 2025, at its Ras Al Khaimah facility in the UAE. Kawan Renergy Bhd 's wholly-owned subsidiary has accepted an offer from Govi Cast Sdn Bhd to undertake the engineering, procurement and construction of an additional chemical production line at its Port Klang factory for RM12.8mn. Master TEC Group Bhd ’s 51%-owned unit, Sediacom Sdn Bhd, secured a RM10.7mn sub-contract for external electrical infrastructure works, scheduled to begin in October 2025 and be completed by June 2026.
+
+[NEWS_P004] MAA Group Bhd , a major shareholder in KNM Group Bhd , has been warned by Bursa Malaysia Securities not to hold a vote on selling KNM’s stake in German unit Deutsche KNM GmbH without following listing rules. The takeover offer by Magna Prima Bhd ’s largest shareholders, Datuk Seri Wong Sze Chien and managing director Seah Ley Hong, for the remaining shares in the company they don’t own has turned unconditional, after their collective stake climbed above 50%.
+
+[NEWS_P005] The auditor of Khee San Bhd has issued a qualified opinion with material uncertainty related to the candy maker’s ability to continue as a going concern in its audited financial statements for the financial year ended June 30, 2025. Metro Healthcare Bhd is diversifying beyond its obstetrics and gynaecology base with the proposed acquisition of RMC Specialist Sdn Bhd for RM320,000, paving the way for the group’s entry into the multi-disciplinary hospital segment.
+
+[NEWS_P006] Zen Tech International Bhd said it has been sued by a shareholder of its former associate, Galactic Maritime (M) Sdn Bhd, over a shareholding dispute. Vitrox Corp Bhd posted a 54.6% jump in net profit for the 3QFY25 to RM34.7mn from RM22.5mn a year earlier, supported by robust demand in its automated board inspection and machine vision system segments. Axis Real Estate Investment Trusts’ net property income for 3QFY25 rose 15.7% to RM80.2mn from RM69.4mn a year earlier, thanks to newly acquired assets and rental growth.

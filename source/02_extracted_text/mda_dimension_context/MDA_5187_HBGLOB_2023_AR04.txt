@@ -1,0 +1,135 @@
+document_id: MDA_5187_HBGLOB_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 11, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+Recognizing that customer
+preferences evolve, we continuously strive to monitor
+and refine our offerings to meet their changing needs. By prioritizing quality, the Group aims to fortify its
+market position and cultivate enduring relationships
+with its customers. Operation Overview
+HBGL Group’s revenue had increased by RMB3.9
+million or approximately 4.9% from RMB76.1 million in
+financial year ended 31 December 2022 (“FYE2022”) to
+RMB80.0 million in financial year ended 31 December
+2023 (“FYE2023”). The increase was mainly due to
+increase in sales of China subsidiary as during FYE2023,
+there was recovery from disruption in the production
+and supply chain due to lockdown in certain areas of
+China which have been affected with rising Covid 19
+cases. The Group had a decrease in net loss before
+taxation to RMB47.9 million in FYE2023 as compared to
+RMB171.0 million in FYE2022. Dear Valued Shareholders,
+The following MD&A of the operating
+performance and financial condition
+of the Group for the twelve (12) months
+ended 31 December 2023 should be
+read in conjunction with the Audited
+Financial Statement for the year ended
+31 December 2023 and related notes
+thereto.
+[MDA_P007]
+The
+decrease was mainly due to total comprehensive
+loss incurred amounted to RMB47.9 million in FYE 2023. Property, plant and equipment and intangible assets
+decreased by about RMB25.5 million and RMB7.7
+million mainly due to impairment loss provided,
+depreciation and amortization in FYE 2023. Decrease
+in trade and other receivables from RMB22.3 million
+to RMB13.4 million was mainly due to better average
+collection period from trade receivables. To preserve its financial stability and enhance
+competitiveness,
+the
+Group
+is
+committed
+to
+implementing robust cash flow management and
+improving revenue generation strategies to ensure a
+positive cash balance. Additionally, a key focus will
+be placed on reducing costs through several strategic
+initiatives. These
+include
+optimizing
+operational
+efficiency, increasing production capacity, and
+streamlining supply chain management processes. By adopting these measures, the Group will be able
+to allocate resources more effectively, thereby
+maintaining financial health amidst the challenging
+market conditions. These strategies are critical to our
+ongoing efforts to ensure sustainable growth and
+continued success in the industry.
+[MDA_P008]
+Business Strategics and Risk Factors
+The Research and Development division of our
+company is dedicated to enhancing product quality
+to meet growing consumer demands and maintain
+market competitiveness. Our focus centers on
+innovation and creativity to develop healthier options
+that resonate with consumer preferences, all while
+upholding the highest standards of quality. In addition to these efforts, we are actively expanding
+our customer base through exploring new domestic
+and international markets, launching innovative
+products, and continuously improving product quality
+and variety. To align with shifts in the retail landscape,
+significant investments have been made in online
+shopping initiatives to bolster sales. Further strategic investments have been directed
+towards upgrading our factories and acquiring
+advanced machinery to boost production efficiency,
+reduce operational costs, and enhance profitability. These investments ensure our adherence to the latest
+technological advancements in the industry, helping
+us maintain a competitive edge.
+[MDA_P009]
+ANNUAL REPORT 2023
+HB GLOBAL LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Given our role in the food industry, we are acutely
+aware of the risks associated with product quality and
+safety. To mitigate these risks, we have implemented
+rigorous policies and procedures for processing, plant
+and machinery sanitation, and employee hygiene. Our strict adherence to quality systems and product
+traceability protocols underscores our commitment
+to preventing contamination and ensuring product
+safety. Acknowledging various business risks such as labour
+shortages, fluctuations in raw material prices, logistics
+costs, and national policies, our management team
+has taken comprehensive measures to mitigate
+these issues. These include forming partnerships with
+multiple suppliers, investing in advanced machinery
+and
+automation,
+and
+optimizing
+our
+logistics
+operations through technology solutions and strategic
+negotiations. To address the risk of changing national policies, we
+actively engage with government officials, expand
+operations internationally, and ensure compliance
+with all regulations.
+[MDA_P010]
+These proactive steps help us
+minimize exposure to policy shifts, maintaining our
+compliance and adapting to changes effectively. In conclusion, by actively managing these risks and
+continually investing in both product and operational
+advancements, our company strives to sustain its
+position as a reliable and responsible manufacturer in
+the food industry, ensuring long-term profitability and
+success. Declaration of Dividends
+With the current financial position and further unknown
+challenges ahead, in view of financial prudence, no
+dividend is to be declared. Business Prospect
+The Group acknowledges that 2024 will be marked by
+persistent challenges and uncertainties, notably the
+ongoing Russia-Ukraine conflict, rising energy costs,
+supply chain disruptions, and the effects of climate
+change. Among these issues, the priority will be to
+effectively manage escalating materials costs in the
+long term. Despite these obstacles, there is optimism regarding
+the potential of the food industry. As global trade
+and economic conditions show signs of recovery,
+and restrictions ease, we have observed an increase
+in consumption.

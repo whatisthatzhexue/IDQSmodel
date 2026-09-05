@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia opens little changed on Friday ahead of GDP data, flat trading on Wall St
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-08-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/15/bursa-malaysia-opens-little-changed-on-friday-ahead-of-gdp-data-flat-trading-on-wall-st
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Investors on Bursa Malaysia held their positions on Friday as the flattish performance on US markets overnight gave little indication on trading direction. The local bourse entered profit-taking mode yesterday as investors cashed in on a seven-day winning streak, but remained little moved at Friday's opening, ahead of Malaysia's economic report due out at noon. Traders snapped up equities over the past two weeks as risk appetite was buoyed by the continuation of US-China trade talks and investors' surging hopes for a US rate cut after a lower-than-expected inflation report.
+
+[NEWS_P002] Throwing a spannar in the works, however, was the US producer's price index for July, which showed a 0.9% increase - above the 0.2% forecast by economists - which pointed to rising inflation. As at 9.10am, domestic traders remained uncertain in the absence of trading direction. The FBM KLCI was down 0.45 points to 1,580.6 while the broader market had a nearly even spread of advancers and decliners. "The local benchmark index is expected to extend its profit-taking consolidation phase, as market sentiment should remain subdued while investors await crucial domestic and U.S.
+
+[NEWS_P003] data releases ahead of the weekend," said TA Securities in its daily review. Meanwhile, Rakuten Trade said in a note that foreign funds remained net sellers of local equities, which serves as a market dampener. "For today, we expect the index to hover between the 1,575-1,585 range," it added. In early trading, PETRONAS Chemicals dropped seven sne to RM3.57 while PPB shed seven sen to RM8.94 and IOI fell four sen to RM3.81. Nestle gained 26 sen to RM88.06, while PETRONAS Gas rose six sen to RM18.76 and MISC added five sen to RM7.81.
+
+[NEWS_P004] Leading actives included TWL flat at 2.5 sen, Oxford Innotech up 0.5 sen to 41.5 sen and Oriental Kopi dipping one sen to 97.5 sen.

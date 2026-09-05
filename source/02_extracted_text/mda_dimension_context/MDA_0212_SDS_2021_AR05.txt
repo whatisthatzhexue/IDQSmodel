@@ -1,0 +1,58 @@
+document_id: MDA_0212_SDS_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 106.902, "paragraph_count": 37, "paragraph_length_distribution": {"max": 1193, "mean": 523.541, "min": 12}, "repetition_ratio": 0.027027, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Dear valued shareholders, it is with great pleasure that we present to you the Annual
+Report and Audited Financial Statements of SDS Group Berhad (“SDS Group” or
+the “Group”) for the financial year ended 31 March 2021 (“FY2021”). OVERVIEW OF THE GROUP’S BUSINESS
+Business Venture and Journey
+SDS Group has embarked on its business as a manufacturer and retailer of bakery products in 1984. SDS
+Group continues to develop varieties of new creative products to build customers’ excitement and interest in
+its products in the market till today. The Group strives to enrich and satisfy customers’ needs and preferences
+through its high-quality products at a reasonable price. It was an astonishing achievement and business journey for SDS Group as it started its home-grown
+business in Johor region with three subsidiary brands namely, retail brand, ‘SDS’, and wholesale brands,
+‘Top Baker’ and ‘Daily’s’. Throughout the years, SDS Group has grown rapidly through business expansion
+of its manufacturing and distribution facilities, and retail outlets in the Food and Beverages (F&B) industry.
+[MDA_P010]
+Since the outbreak of the COVID-19
+pandemic, the management has initiated
+various cost management measures such
+as streamlining the production process
+to achieve a reduction in wastages and
+labour cost control. This helps the Group
+to achieve an improvement in the GPM
+despite the decrease in sales.
+[MDA_P019]
+Cash and cash equivalents at beginning of the financial year
+[MDA_P028]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+KEY RISK FACTORS
+The Group is cognisant of the importance that the investors and shareholders need to understand the types of risks that it is exposed
+to and how these risks may impact the Group’s business and its operating performance during this pandemic period. The Management is consistently identifying anticipated or known risks that the Group is exposed to in which these risks will have a
+material effect on the Group’s operations, performance, financial condition and liquidity. The Group’s risk management framework
+covers risk identification, assessment and control activities such as monitoring, analysis, communication, internal control, action and
+strategies. A continuous discussion of the plans or strategies is in place to make sure actions are taken to mitigate such risks.
+[MDA_P037]
+The Group is confident that with the effective
+implementation of sound business plans and strategies, the Group will emerge
+stronger in its industry to withstand any vulnerability. For retail outlets, the Group
+will continue to expand in the central region by setting up new outlets. The Group
+is also upgrading its online store and platform to offer a wide range of products to
+suit its customers’ needs and preferences. For wholesale channel, the Group will
+continue to expand its geographical footprint and logistic fleets across Malaysia
+to bring our products nearer to our customers. ACKNOWLEDGEMENTS
+In conclusion, we wish to convey our sincere gratitude to the Management
+and employees for their diligent effort, dedication and commitment during
+this pandemic period. We would also like to express our appreciation to our
+stakeholders, namely our shareholders, investors, clients, suppliers, business
+partners, bankers, government and regulatory bodies for their continued support,
+reliance and confidence in SDS Group Berhad. Please stay safe during this
+pandemic period. Thank you. ANNUAL REPORT 2021

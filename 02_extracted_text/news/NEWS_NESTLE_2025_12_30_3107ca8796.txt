@@ -1,0 +1,24 @@
+[TITLE]
+Late buying lifts Bursa Malaysia's key index to close firmer
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/30/late-buying-lifts-bursa-malaysia039s-key-index-to-close-firmer
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia’s barometer index ended firmer today, reversing losses earlier in the day to close 0.21 per cent higher -- a new high this year -- driven by late buying activities amid signs of year-end window dressing. At 5 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) rose 3.54 points to 1,684.53 from Monday’s close of 1,680.99. The FBM KLCI, which opened 3.33 points lower at 1,677.66, slipped to the day’s low of 1,673.87 during the morning session but regained its momentum in the final hour of trade to close at the day's high.
+
+[NEWS_P002] In the broader market, however, decliners outpaced gainers 536 to 463, while 544 counters were unchanged, 1,180 untraded and 78 suspended. Turnover narrowed to 1.88 billion units worth RM1.90 billion from the 2.03 billion units worth RM1.79 billion recorded on Monday. Berjaya Research Sdn Bhd head of research Kenneth Leong said that on the final trading day of the year, the FBM KLCI is expected to remain subdued and trade within a narrow range as market participation continues to thin.
+
+[NEWS_P003] "With many investors already on the sidelines and limited fresh catalysts, near-term movements are likely to be driven by technical factors amid the absence of strong conviction buying. "Overall sentiment is expected to turn lacklustre with the key index likely to trade in a narrow range,” he told Bernama, adding that the 1,690-point level will continue to serve as the immediate resistance, followed by the 1,700 psychological level. Among heavyweight counters, Maybank rose six sen to RM10.50, CIMB was flat at RM8.23, Public Bank gained three sen to RM4.54, Tenaga Nasional fell 10 sen to RM13.78, and IHH Healthcare added four sen to RM8.60.
+
+[NEWS_P004] On the most active list, Tanco edged up one sen to RM1.15, Pharmaniaga eased one sen to 29 sen, Mega Fortis garnered eight sen to 88 sen, TWL slid half a sen to two sen, and MQ Tech was unchanged at 8.5 sen. As for the top gainers, MPI was up 38 sen to RM32.88, Hong Leong Industries climbed 30 sen to RM16.70, Far East increased 25 sen to RM4.30, United Plantations gained 20 sen to RM30.24, and Panasonic put on 15 sen to RM7.15. Among the top losers, Nestle gave up RM2.30 to RM113.40, Atlan lost 23 sen to RM2.90, F&N dropped 20 sen to RM35.80, Master-Pack erased 15 sen to RM1.85, and Lysaght fell 14 sen to RM2.41.
+
+[NEWS_P005] On the index board, the FBM Emas Index rose 23.65 points to 12,328.54, the FBM Top 100 Index gained 27.06 points to 12,136.39, and the FBM Emas Shariah Index notched up 5.65 points to 12,119.57. The FBM ACE Index retreated 13.48 points to 4,861.30 while the FBM Mid 70 Index added 44.51 points to 16,830.45. Sector-wise, the Financial Services Index bagged 89.80 points to 19,766.79, the Plantation Index increased 20.07 points to 8,342.19, the Energy Index advanced 3.81 points to 768.73, and the Industrial Products and Services Index trimmed 0.09 of-a-point to 173.83.
+
+[NEWS_P006] Main Market volume widened to 1.18 billion units worth RM 1.76 billion from 1.13 billion units worth RM1.58 billion on Monday. Warrants turnover declined to 423.74 million units worth RM47.03 million against 607.80 million units worth RM69.59 million yesterday. ACE Market volume reduced to 272.99 million units valued at RM87.94 million compared to 285.10 million units valued at RM134.76 million previously. Consumer products and services counters accounted for 184.26 million shares traded on the Main Market, industrial products and services (197.21 million), construction (69.50 million), technology (147.61 million), financial services (60.76 million), property (157.94 million), plantation (20.28 million), real estate investment trusts (11.87 million), closed-end fund (400), energy (108.74 million), healthcare (103.77 million), telecommunications and media (30.77 million), transportation and logistics (49.15 million), utilities (38.91 million), and business trusts (162,700).
+
+[NEWS_P007] - Bernama

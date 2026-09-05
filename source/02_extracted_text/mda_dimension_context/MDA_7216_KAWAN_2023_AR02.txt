@@ -1,0 +1,182 @@
+document_id: MDA_7216_KAWAN_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_7216_KAWAN_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 95, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Revenue
+(2022: RM274.8 million)
+RM287.2
+million
+Profit Before Taxation
+(2022: RM40.1 million)
+RM34.3
+million
+Cash & Cash
+Equivalents
+(2022: RM98.6 million)
+RM104.3
+million
+OVERVIEW
+In
+adapting
+to
+the
+changing
+global
+environment, we took the opportunity to
+transform the Group to meet these, and
+future challenges; refocus on the consumer,
+streamline our supply chain and route
+to market, strengthen our balance sheet,
+improve cashflow, construct a bolder vision
+and purpose as well as, detail a more robust
+business strategy for the next five years,
+and cascade it down the organisation in a
+balanced scorecard. In addition to these
+measures, we put better controls in place to
+strengthen our leadership platform amidst
+an increasingly competitive landscape, and
+to extend our market lead in terms of quality
+and sustainability in the frozen food space.
+[MDA_P002]
+These initiatives include better internal
+controls and the upgrading of our processes,
+leading to increased production efficiency,
+a stronger supply and distribution network,
+both locally as well as in our export markets;
+and aligning the total route to market, from
+our suppliers to our consumers, in line with
+our strategic direction to create win-win
+partnerships, as well as making the tough
+calls on unprofitable segments. Even in transition, our revenue increased
+by 4.5% to RM287.2 million from RM274.8
+million in FY2022, showing early promise. The
+challenging environment combined with the
+higher cost of implementing our initiatives
+to build a stronger platform for the future
+impacted our profit before tax (“PBT”) from
+RM40.1 million in FY2022 to RM34.3 million
+in FY2023. We have sacrificed short term
+profitability for longer term sustainable
+growth. These initiatives underscore our
+commitment to navigate the complexities
+of the market now, and into the future. This
+demonstrates our proactive stance and
+agility in responding to market dynamics
+amidst challenging conditions in order to
+continually reinvent ourselves.
+[MDA_P003]
+Our Group’s financial position remains
+strong with cash and cash equivalents
+of RM104.3 million. During the year, we
+improved our cashflow, which put us in a
+stronger position for share buybacks, higher
+dividends, and potential future investments,
+for better return our capital. In December 2023, we announced the
+appointment of Adam Pandian as Group
+Chief Executive Officer (“CEO”) with effect
+from 1 January 2024 following on the
+departure of Mr Ng Hooi Khai in August
+2023. Adam has a strong track record of
+successfully
+leading
+and
+implementing
+transformation strategies, particularly in
+fast-moving consumer goods. Supported
+by a stronger team of younger leaders in
+succession within the management team,
+these new talents fill much needed critical
+key skill gaps, both reshaping the Group’s
+business
+model,
+as
+well
+as
+providing
+executive ability to achieve our vision and
+more ambitious targets. These
+new
+strategic
+initiatives
+began
+bearing fruit in the second half of FY2023,
+with operational and commercial benefits
+becoming more evident, achieving the
+Group’s strategic and financial goals.
+[MDA_P004]
+Moving
+forward, our team remains committed
+to driving operational excellence across
+the business while addressing continued
+inflationary pressures from increased labour,
+utilities, and material costs. The Board fully
+supports these strategic initiatives which will
+continue to improve the fundamentals of the
+business, sustainably. Overall,
+our
+performance
+in
+FY2023
+underscores
+our
+resilience,
+strategic
+foresight, and commitment to delivering
+long term value to our stakeholders.
+[MDA_P005]
+KAWAN FOOD
+BERHAD
+Kawan
+At A Glance
+This is
+Kawan Food Berhad
+Our Strategic
+Review
+OPERATING ENVIRONMENT
+Market trends
+We remain mindful of the evolving trends
+that are shaping the food and beverage
+industry. Consumer
+preferences
+are
+changing constantly and we are committed
+to adapting our strategies to meet their
+needs in a responsible and sustainable
+manner. Convenience
+As the pace of life intensifies, consumers are
+increasingly seeking quick and convenient
+options
+such
+as
+ready-to-eat
+meals,
+snacks, and beverages that offer on-the-go
+consumption convenience. Health and wellness
+There is growing awareness of environmental
+and health concerns resulting in healthier
+eating habits that drive the demand for more
+nutritious food options, whilst emphasizing
+the importance of reducing environmental
+impact across the supply chain. Sustainability
+Sustainability is becoming an important
+consideration for consumers who prefer
+brands and products that are committed to
+offering environmentally friendly products
+with sustainable packaging solutions. Cost of living crisis
+The ongoing cost of living crisis driven by
+high inflation and rising energy costs has
+influenced consumer behaviour.
+[MDA_P006]
+Consumers
+are increasingly seeking ways to tighten
+their spending habits and looking for value-
+driven purchases that align with their
+disposable income constraints. MANAGEMENT DISCUSSION
+AND ANALYSIS

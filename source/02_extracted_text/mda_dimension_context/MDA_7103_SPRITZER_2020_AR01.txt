@@ -1,0 +1,18 @@
+document_id: MDA_7103_SPRITZER_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 9, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+[MDA_P003]
+ECONOMIC OVERVIEW Malaysia’s full year gross domestic product (“GDP”) declined by 5.6% year-over-year in 2020 amidst the pandemic-induced adverse global and domestic economic environment. The unprecedented and severe health crisis which necessitates the use of drastic containment measures such as isolation, lock-down and mass closures, has severely curtailed economic activities. The year 2020 was a highly volatile year where the level of economic activities were closely linked to the various movement control measures imposed since March 18, 2020 so as to control the spread of COVID-19.
+[MDA_P004]
+BUSINESS AND OPERATIONS OVERVIEW We are a pioneer and the industry leader in the Malaysian bottled water industry. We started the production and sale of bottled water products in year 1989. Listed in the year 2000, Spritzer Bhd is the first and only bottled water company listed on Bursa Malaysia Securities Bhd. Our Group is principally involved in the manufacturing, marketing and selling of a comprehensive range of bottled water products. With annual turnover exceeding RM300 million and a market capitalisation of approximately RM414 million as at 31 December 2020, our Group is the largest and most integrated bottled water producer in Malaysia with a commanding market share of about 40%. Our core brands are Spritzer, Spritzer Sparkling, Spritzer Tinge, Spritzer BonRica, Cactus, Cactus Sparkling, Desa and Summer which are also the leading brands in their
+[MDA_P005]
+respective market segments in the Malaysian bottled water industry. Our Group has three bottled water plants and one plastic packaging manufacturing plant in Malaysia. Our main mineral water plant is located on a 330-acre site in Taiping, Perak with the second mineral water plant in Yong Peng, Johor and the third drinking water plant in Shah Alam, Selangor. Our plastic packaging manufacturing plant is located in Ipoh, Perak. During the year, the Group has completed its integrated warehouse with automated storage and retrieval system (“ASRS”) which has a capacity of 15,000 pallets. The commissioning of the ASRS warehouse has greatly improved the efficiency and effectiveness of our supply chain management and at the same time minimising the use of forklifts and thus reduces our carbon footprint. The Group has 16 bottling lines with an annual production capacity of about 750 million litres of bottled
+[MDA_P006]
+water as at December 31, 2020. Our operations are primarily in Malaysia and our export sales currently make up of less than 10% of our Group’s revenue. We also have a wholly owned trading company in Guangzhou, China which has, in April 2016, started its operations of selling and wholesale distribution of bottled water products in Guangzhou and its surrounding areas. The Group also exports its mineral water products under the brand name ACILIS by Spritzer to United Kingdom and Netherlands. The Group also owns and manages the Spritzer EcoPark. This recreational park is situated within our 330-acre mineral water plant in Taiping, Perak. The Spritzer EcoPark, which has been in operations since August 2015, has an 18-hole mini-golf course, a cafeteria, a discovery tunnel and a kids’ arts and craft centre.
+[MDA_P009]
+products. Sustainable Packaging Recyclable 100% Bottle Plant-Based Packaging Tetra Pak

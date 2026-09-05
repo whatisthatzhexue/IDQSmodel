@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI hovers near 1,500 as uncertainty mounts
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/20/fbm-klci-hovers-near-1500-as-uncertainty-mounts
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's main stock index came closer to dipping below the 1,500-point psychological level on Friday as investors fretted over the escalating Middle East conflict. The FBM KLCI dropped 0.5 points to 1,500.94, grazing the support amid worries the US will mount an attack on Iran over the coming weeks. Meanwhile, Malaysian policymakers are meeting their US counterparts to negotiate the level of tariffs imposed on Malaysian exports. TA Securities said the market sentiment will likely remain muted ahead of the weekend, with investors awaiting the outcome of the negotiations, which will determine future trade relations.
+
+[NEWS_P002] "Immediate index support stays at 1,490, with stronger supports found at 1,465 followed by 1,444. Immediate resistance is maintained at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead," it said in its market commentary. Rakuten Trade said it believes the market weakness is owing to persistent foreign selling. "Nonetheless, we would advocate our clients to accumulate on the blue chips if and when the index dips below the 1,500 mark at around the 1,480 thresholds," it said in its outlook.
+
+[NEWS_P003] On the domestic market, Nestle shaved 21 sen to RM71.28, Petron dropped seven sen to RM3.82 and British American Tobacco fell six sen to RM4.50. Notable gainers included Allianz up 20 sen to RM19.20, Apollo gaining eight sen to RM6.58 and Yinson eising seven sen to RM2.39. Top actives were Magma up one sen to 47.5 sen, Velesto unchanged at 18.5 sen and Pavilion REIT down four sen to RM1.50.

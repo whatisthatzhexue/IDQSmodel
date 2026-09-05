@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 3.599464,
+      "current_value": 162.33,
+      "direction_word": "increased",
+      "evidence_locator": "[MDA_P011]",
+      "metric": "liabilities",
+      "note": "liabilities: stated 4.00%, calculated 3.60%, status consistent.",
+      "previous_value": 156.69,
+      "source_text": "liabilities increased by 4% in FYE 2021, from RM156.69 million to RM162.33 million",
+      "stated_pct": 4.0,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": 31.760603,
+      "current_value": 6193.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P003]",
+      "metric": "margin",
+      "note": "margin: stated 42.00%, calculated 31.76% from profit/revenue, status material_discrepancy.",
+      "previous_value": 19499.0,
+      "source_text": "The summary of the Statement of Comprehensive Income is as follows: (RM ‘000) FYE 2021 FPE 2020 (18 Months) Variance FYE 2021 vs. FPE 2020 Revenue 19,499 33,818 (42%) Gross Profit (“GP”) 6,193 17,256 (64%) Gross Profit Margin (“GPM”) 31.8 51.0% Administrative Expenses -6,723 -18,032 (63%) Other Cost",
+      "stated_pct": 42.0,
+      "status": "material_discrepancy"
+    }
+  ],
+  "document_id": "MDA_7243_MAGMA_2021",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "liabilities: stated 4.00%, calculated 3.60%, status consistent.",
+    "margin: stated 42.00%, calculated 31.76% from profit/revenue, status material_discrepancy."
+  ],
+  "num_calculable_changes": 2,
+  "num_consistent_checks": 1,
+  "num_financial_mentions": 61,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

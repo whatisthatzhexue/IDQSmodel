@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Alliance, Binastra, YTL Power, SkyWorld, Ho Wah, Bina Puri, Sapura Energy, NPC, Aeon Credit
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-07-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/09/trading-ideas-alliance-binastra-ytl-power-skyworld-ho-wah-bina-puri-sapura-energy-npc-aeon-credit
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Alliance Bank Bhd said its rights issue of two new shares for every 17 shares held has been oversubscribed by 55.1%. Binastra Corp Bhd 's wholly-owned subsidiary Binastra Builders Sdn Bhd has secured a RM405mn construction job for The Queenswoodz residential project in Bukit Jalil, Kuala Lumpur. YTL Power International Bhd has invested about RM10bn in AI and AI infrastructure to date and encourages Malaysian companies to invest in AI and leverage the infrastructure.
+
+[NEWS_P002] Skyworld Development Bhd is acquiring a 25.9-acre parcel of land in Batu Kawan, Penang, for RM48.51mn as part of a previously announced joint development to build affordable housing units in the state. Ho Wah Genting Bhd has redesignated executive director Lim Wee Kiat as its chief executive officer, effective July 7. Bina Puri Holdings Bhd said two of its wholly owned subsidiaries have been served with winding-up petitions by the government, via the Inland Revenue Board, for failing to settle outstanding tax liabilities.
+
+[NEWS_P003] Sapura Energy Bhd will convene an extraordinary general meeting on July 30, 2025, for shareholders to vote on its proposed regularisation plan aimed at restoring the company’s financial health and exiting Practice Note 17 status. Sabah-based plantation company NPC Resources Bhd will be delisted from Bursa Malaysia effective July 11. Aeon Credit Service (M) Bhd 's net profit fell by 27.1% to RM77.6mn in 1QFY26 ended May 31, 2025, from RM106.4mn a year ago.
+
+[NEWS_P004] This was largely due to a RM15.9mn loss from its associate, Aeon Bank.

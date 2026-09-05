@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 2508.054523,
+      "current_value": 2024.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P006]",
+      "metric": "margin",
+      "note": "margin: stated 19.00%, calculated 2508.05% from profit/revenue, status material_discrepancy.",
+      "previous_value": 80.7,
+      "source_text": "The Group has entered into partnerships with regional and international retailers, distributors, and institutional buyers, strengthening its market position across key territories. By aligning its offerings with evolving consumer preferences, HBGL remains competitive in the global food and agribusin",
+      "stated_pct": 19.0,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": 18.960434,
+      "current_value": 15.306,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P008]",
+      "metric": "margin",
+      "note": "margin: stated 1.30%, calculated 18.96% from profit/revenue, status material_discrepancy.",
+      "previous_value": 80.726,
+      "source_text": "HB GLOBAL LIMITED MANAGEMENT DISCUSSION AND ANALYSIS (cont’d) Gross Margin FYE 2024 FYE 2023 Changes RMB’ million RMB’ million % Revenue 80.726 80.049 0.8 Cost of Sales -65.420 -78.995 -17.18 Gross Profit 15.306 1.054 +1,352 Gross Margin (%) 1.3 +17.70 The gross margin increased from 1.3% in FYE 202",
+      "stated_pct": 1.3,
+      "status": "material_discrepancy"
+    }
+  ],
+  "document_id": "MDA_5187_HBGLOB_2024",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": false,
+  "internal_check_notes": [
+    "margin: stated 19.00%, calculated 2508.05% from profit/revenue, status material_discrepancy.",
+    "margin: stated 1.30%, calculated 18.96% from profit/revenue, status material_discrepancy."
+  ],
+  "num_calculable_changes": 2,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 40,
+  "num_material_discrepancies": 2,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

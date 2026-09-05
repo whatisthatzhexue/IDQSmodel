@@ -1,0 +1,16 @@
+[TITLE]
+Market caution drags FBM KLCI to intraday low finish
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-08-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/28/market-caution-drags-fbm-klci-to-intraday-low-finish
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended at its intraday low as late selling dragged the market lower amid cautious sentiment, bucking gains across most regional indices. The 30-stock benchmark slipped 0.84 point, or 0.05%, to close at 1,587.07 after rising to an intraday high of 1,596.16 earlier in the session. Market breadth was negative, with 605 losers outpacing 470 gainers, while trading volume stood at 2.92 billion shares worth RM2.92bil. According to dealers, sentiment remains cautious as the results reporting season draws to a close, with fresh leads still lacking.
+
+[NEWS_P002] They added that the local bourse could remain subdued as investors await a clearer direction heading into the shorter trading week next week Among the gainers, Nestle jumped RM1.88 to RM96, PPB Group rose 69 sen to RM9.39, Hong Leong Financial Group added 50 sen to RM17.42 and Hong Leong Industries advanced 46 sen to RM13.36. Conversely, PETRONAS Dagangan slipped 88 sen to RM21.80, Malaysian Pacific Industries dropped 56 sen to RM26.44, Chin Tek eased 25 sen to RM9.45 and Far East shed 15 sen to RM4.05.
+
+[NEWS_P003] On the forex market, the ringgit strengthened 0.38% against the US dollar to 4.2188 and inched up 0.07% against the Singapore dollar to 3.2840. MSCI’s broadest index of Asia-Pacific shares outside Japan slipped 0.43%, though most regional markets ended higher. Japan’s Nikkei 225 rose 0.73% and South Korea’s Kospi added 0.3%. Hong Kong’s Hang Seng Index fell 0.81%, while Singapore’s Straits Times Index edged up 0.21%. In China, the CSI300 climbed nearly 1.8% and the Shanghai Composite advanced 1.14%.

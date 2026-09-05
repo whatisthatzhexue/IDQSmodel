@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit rebounds slightly vs US$ in early trade
+
+[METADATA]
+ticker: HEIM
+company_name: Heineken
+publish_date: 2024-10-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/23/ringgit-rebounds-slightly-vs-us-in-early-trade
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit edged up against the US dollar in the early session on Wednesday, amidst cautious sentiments on the global economic front as recent losses prompted some investors to shift towards emerging currencies, said an analyst. At 8.20 am, the local currency was traded at 4.3245/3400 against the greenback compared with Tuesday’s close of 4.3255/3305. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the ringgit is likely to stay flat against the US dollar in view of cautious risk appetite among the market participants.
+
+[NEWS_P002] The US Dollar Index (DXY) continues to march higher, rising by 0.05 per cent to 104.06 points. Meanwhile, in its latest World Economic Outlook report, the International Monetary Fund (IMF) had slashed the global gross domestic product (GDP) growth for next year by 0.1 to 3.2 per cent, citing geopolitical and trade protectionist policies as the main driver for their forecast revision. "Perhaps, markets have become guarded as we approach the United States (US) presidential election on Nov 5, especially in areas relating to trade policies by the US presidential contender, Donald Trump,” he told Bernama today.
+
+[NEWS_P003] During the opening session, the ringgit was traded mostly higher against a basket of major currencies. It edged up against the Japanese yen to 2.8588/8692 from 2.8668/8704 at Tuesday's close, strengthened against the euro to 4.6683/6850 from 4.6785/6839 yesterday, but decreased vis-a-vis the British pound to 5.6115/6316 from 5.6097/6162 previously. Similarly, the local note was traded mostly higher versus ASEAN currencies. It appreciated against the Thai baht to 12.8924/12.9440 from 12.9089/9300 on Tuesday, went up against the Indonesian rupiah to 277.7/278.9 from 277.8/278.3 yesterday and rose against the Singapore dollar to 3.2846/2966 from 3.2879/2919 previously.
+
+[NEWS_P004] Meanwhile, the local currency was almost flat against the Philippines’ peso at 7.47/7.50 from 7.47/7.49 on previously. - Bernama

@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit rises against US dollar in early trade on higher inflation print in the US
+
+[METADATA]
+ticker: CARLSBG
+company_name: CARLSBERG BREWERY AR REPORT 2020 Part 1
+publish_date: 2024-10-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/11/ringgit-rises-against-us-dollar-in-early-trade-on-higher-inflation-print-in-the-us
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit opened higher against the US dollar on Friday amid a higher-than-expected inflation print in the United States. At 8.04 am, the local currency strengthened to 4.2820/2920 against the greenback, compared to Thursday’s close of 4.2910/2940 The US headline inflation came in at 2.4 per cent year-on-year in September against consensus estimates of 2.3 per cent. Similarly, core inflation rose by 3.3 per cent in September against consensus estimates of 3.2 per cent.
+
+[NEWS_P002] Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the market sentiments are cautious now due to uncertainties over the pace of the US interest rate cuts or a pause in the decision while on the other hand, Brent crude oil prices remained elevated as the military conflict between Israel-Hezbollah/Iran could expand. "On that note, we believe the traders would be inclined to seek protection in safe-haven currencies, especially the US dollar, in view of the heightened uncertainties,” he added.
+
+[NEWS_P003] Meanwhile, the ringgit also traded higher against major currencies at the opening. It was higher against the euro to 4.6815/6924 from 4.6918/6951 at yesterday’s close, appreciated against the Japanese yen to 2.8788/8858 from 2.8820/8842 and rose versus the British pound to 5.5923/6054 from 5.6122/6161. The local note performed mixed versus ASEAN currencies. It declined against the Thai baht to 12.7978/8353 from 12.7724/7866 yesterday but gained against the Singapore dollar to 3.2785/2864 from 3.2811/2836.
+
+[NEWS_P004] The ringgit advanced to 7.47/7.49 vis-a-vis the Philippine peso from yesterday’s close of 7.48/7.50 and was higher against the Indonesian rupiah at 273.1/273.8 compared with yesterday’s close of 273.6/274.0. - Bernama

@@ -1,0 +1,16 @@
+You are scoring the information quality of one news article for company research.
+
+Critical scope:
+- The scoring object is one news article.
+- Do not merge or average this score with MD&A scores.
+- If no external verification material is provided, evaluate internal factual clarity, consistency, source transparency, balance, relevance, and title/body alignment.
+- Do not invent facts or scores without evidence.
+
+Use the scorebook dimensions N01-N05 and return JSON only.
+Every evidence_locator must cite [TITLE], [LEAD], or paragraph IDs such as [NEWS_P001].
+The output must match the supplied JSON schema.
+
+Inputs:
+{document_context}
+
+Return JSON only. No markdown. No explanation outside JSON.

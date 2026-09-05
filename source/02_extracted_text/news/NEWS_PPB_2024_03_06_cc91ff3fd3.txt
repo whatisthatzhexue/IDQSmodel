@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: PLS Plantations, Solarvest, Crest Builder, Paramount, PPB, Nextgreen, Fajarbaru
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-03-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/06/trading-ideas-pls-plantations-solarvest-crest-builder-paramount-ppb-nextgreen-fajarbaru
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Stocks to watch on Wednesday include PLS Plantations Bhd , Solarvest Holdings Bhd , Crest Builder Holdings Bhd , Paramount Corp Bhd, PPB Group Bhd , Nextgreen Global Bhd and Fajarbaru Builder Group Bhd . Iskandar Waterfront Holdings Sdn Bhd (IWH) and PLS Plantations, two entities linked to tycoon Tan Sri Lim Kang Ho are in talks with a China state-owned company to develop an industrial park and innovation hub in Johor. Solarvest’s subsidiary, Solarvest Energy Sdn Bhd has been appointed by Gentari Renewables Sdn Bhd to install solar power systems at over 300 Petronas stations across Malaysia.
+
+[NEWS_P002] Crest Builder’s order book has reached a record high of RM1.8bil after the group bagged a commercial development in Kuala Lumpur from Sunway Velocity Three Sdn Bhd for a total contract value of RM448.5mil. Paramount aims to sell RM1.4bil worth of properties in the financial year ending Dec 31, 2024, as the company ramps up launches worth RM2.4bil in gross development value for the year, including some delayed projects. PPB, which operates Golden Screen Cinemas (GSC), said it expects a tough year ahead for its film exhibition and distribution business, as the Hollywood writers' guild strike has affected supply of content in the medium term.
+
+[NEWS_P003] PETROLIAM Nasional Bhd (Petronas) and CIMB Islamic Bank Bhd have signed an inaugural Tahawwut Master Agreement (TMA) for shariah-compliant commodity derivatives. Nextgreen has proposed a private placement of up to 102.57 million shares, representing 10% of its issued share capital, to yet-to-be-identified third-party investors with the issue price to be determined later. Fajarbaru has won a RM120.82mil contract to build a clubhouse and a driving range complex in Johor Bahru.
+
+[NEWS_P004] Overnight, the Dow Jones Industrial Average fell 404.64 points, or 1.04%, to 38,585.19. The S&P 500 lost 52.3 points, or 1.02%, at 5,078.65 and the Nasdaq Composite dropped 267.92 points, or 1.65%, to 15,939.59. Apex Securities expects the FBM KLCI to remain downbeat that may mirror the negative performance on Wall Street overnight. It said the lower liners are also bracing for more volatility on an extended pullback from their recent high levels. Renewed volatility on Wall Street is deemed to be healthy which allows recent gains to be digested and valuations may subsequently turn more compelling.
+
+[NEWS_P005] “Looking ahead, investors will be keeping a close tab onto US Federal Reserve Chair Jerome Powell testifies to the Congress in search for clues over the future interest rate direction. “We favour gold-related stocks after gold prices advanced to hit all-time high levels in anticipation of monetary easing, escalating geopolitical tension and rising risk of equities market pullback amid the lofty valuations,” Apex said.

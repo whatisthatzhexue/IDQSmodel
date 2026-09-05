@@ -1,0 +1,16 @@
+[TITLE]
+Slight gain on FBM KLCI as investors await start of US-China trade talks
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/09/slight-gain-on-fbm-klci-as-investors-await-start-of-us-china-trade-talks
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's stock benchmark ended the early session mildly higher even as global stocks rallied in the hope that the world's two largest economies will strike a trade deal in the coming weekend. At 12.30pm, the FBM KLCI was up 1.53 points to 1,544.27 as the market halted trading activity for the lunch break. Despite a growing optimism over global trade developments - the US and UK unveiled an outline of a trade agreement and US President Donald Trump's team will meet with Chinese policymakers to hammer out a trade deal during the weekend - the domestic index has made little improvement over the course of the week Just barely two points over last Friday's closing price of 1,542.49, the FBM KLCI continues to hold to a tight consolidation range as investors look for confirmation the US will unwind tariffs and ease pressure on the world's economy.
+
+[NEWS_P002] Key Asian markets, meanwhile, were a mixed bag. Japan's Nikkei jumped 1.43% to 37,455, surpassing a one-month high, as the economic outlook improved. China's investors, however, remained on nerves over the upcoming trade meeting with the US, leading to a 0.26% decline in the Shanghai composite index to 3,343. Hong Kong's Hang Seng was flat at 22,777. Singapore's Straits Times index rose 0.59% to 3,871. Among Malaysia's blue chips, Nestle dropped RM2.08 to RM84.44 as profit-taking continued following the recent run-up in price.
+
+[NEWS_P003] Top actives on the market were Sapura Energy flat at 4.5 sen, Lotte Chemical Titan up 5.5 sen to 60 sen and Tanco gaining two sen ot 93.5 sen.

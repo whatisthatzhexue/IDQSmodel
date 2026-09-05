@@ -1,0 +1,18 @@
+[TITLE]
+5,000 boxes of food aid head east
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2024-12-04
+source_name: The Star
+url: https://www.thestar.com.my/metro/metro-news/2024/12/04/5000-boxes-of-food-aid-head-east
+confidence_tier: low
+
+[NEWS_P001] NestlE Malaysia continued its ongoing partnership with Malaysian Red Crescent (MRC) to support communities in need during the monsoon season. With the aim of delivering much-needed aid to those affected by the floods, the initiative reflected the strong collaboration between Nestle and MRC, built on the organisations’ goal and long-standing commitment to help vulnerable communities. This latest phase of flood relief efforts saw volunteers from Nestle Cares and MRC packing 5,000 boxes of essential food aid for distribution to temporary relocation centres in the East Coast and other affected areas.
+
+[NEWS_P002] Each box contained a range of Nestle products, including noodles, beverages, cereal and milk. The initiative represents a significant contribution of products in-kind and financial donation valued at RM2mil, which is part of Nestle’s total contribution of RM4 million to MRC in 2024. These funds have been channelled towards emergency response measures, bolstering flood preparedness and supporting recovery efforts. Nestle Malaysia chief executive officer Juan Aranols said, “As a company that has been deeply rooted in Malaysia through our 112 years of presence, we continue to engage proactively in support of communities, especially when confronted with moments of distress or special need.
+
+[NEWS_P003] “The monsoon season brings significant challenges to many fellow Malaysians, especially in the East Coast region. “Our continued collaboration with MRC allows us to extend timely aid, ensuring that flood victims have access to nourishing meals when they need it most. “My deepest appreciation goes to our dedicated volunteers who, once again, have joined hands to pack 5,000 food aid packs that will be on their way to flooded areas under effective coordination by MRC.” MRC chairman Tunku Puteri Intan Safinaz Almarhum Sultan Abdul Halim Mu’adzam Shah said, “Nestle Malaysia’s consistent support for flood relief efforts has been a lifeline, helping us broaden our reach to provide effective assistance to those affected by the floods.
+
+[NEWS_P004] “These contributions bring immediate relief and play a vital role in restoring hope for families facing immense difficulties. “It is through strong partnerships like this that we can truly make a meaningful difference.”

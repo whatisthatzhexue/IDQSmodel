@@ -1,0 +1,142 @@
+document_id: MDA_5306_FFB_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 41, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_5306_FFB_2022", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 42, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+OUR VALUE CREATING BUSINESS MODEL
+[MDA_P002]
+OUTCOMES
+FINANCIAL CAPITAL
+·· Revenue: RM501.9 million
+·· Profit Before Tax: RM65.7 million
+·· Earnings Per Share: 4.87 sen
+·· Shareholders' Equity: RM611.0 million
+·· Cash and cash equivalents: RM28.1 million
+MANUFACTURED CAPITAL
+·· 78.6 million litres of finished goods sold
+·· 500 acres of land leased from Pahang State Government
+INTELLECTUAL CAPITAL
+·· 13 new products commercialised
+·· Received two awards at the Putra Brand Awards 2022
+·· All our completed Malaysian farms have been Certified
+Humane® by the Humane Farm Animal Care (“HFAC")
+HUMAN CAPITAL
+·· RM50.9 million paid towards directors’ and employees'
+remuneration and benefits
+·· 100% of our employees trained in the latest occupational
+health and safety practices
+·· Zero work-related fatalities and serious injuries
+·· Subsidised meals and free accommodation provided to
+80% and 50% of farm employees respectively
+SOCIAL & RELATIONSHIP CAPITAL
+·· RM3.2 million in income generated for local farmers
+·· RM133.9 million in income generated for stockists, dealers
+and agents under our home dealer programme
+NATURAL CAPITAL
+·· 335.0 million litres of Farm Dairy Effluent (FDE) recycled
+and removed from waste discharge
+·· 86.4 million kg of solid waste recycled and removed from
+waste discharge
+·· 28% of turnover from products using fully recycle, sustainably
+sourced packaging
+·· 428.8 million litres of municipal water saved through
+rainwater harvesting and tube well pumping
+·· 687,786 kg of chemical fertiliser removed from our cycle
+REGIONAL
+GROWTH
+PRODUCING
+HEALTHY
+PRODUCTS
+PRODUCT
+QUALITY
+& SAFETY
+COMMUNITY
+IMPACT
+EFFICIENT FARM
+MANAGEMENT &
+PRODUCTION
+DISTRIBUTION
+NETWORK
+EXPANSION
+TALENT
+ATTRACTION,
+RETENTION &
+DEVELOPMENT
+MATERIAL MATTERS
+ENVIRONMENTAL
+STEWARDSHIP
+| 01 | 02 | Section 03 Management Discussion and Analysis | 04 | 05 | 06 | 07 | 08 |
+[MDA_P003]
+In developing value creation strategies, we undertake detailed consideration of global megatrends and industry-
+based trends which have the potential to affect our operations. Our response to these trends is detailed below:
+DESCRIPTION
+The International Monetary Fund (IMF)’s Global
+Uncertainty Index has risen sharply to levels on par
+with the September 11 attacks and the UK’s vote in
+2016 to leave the European Union1. This reflects a
+turbulent macroeconomic environment, where the
+LINK TO
+MACROECONOMIC CHALLENGES
+The Russia-Ukraine conflict has exacerbated existing
+imbalances caused by the COVID-19 pandemic,
+leading to a sharp increase in inflation2 and in the
+price of oil3 and commodities4. In addition, global trade has been affected by supply
+chain bottlenecks caused by the pandemic and its
+resultant labour shortages5, with the Malaysian
+National Shippers’ Council (MNSC) reporting that
+sea freight rates have increased by up to 800% on
+some routes when compared to pre-pandemic
+levels5.
+[MDA_P004]
+While demand for our products has remained stable
+during this period, we have been adversely affected
+due to the increasing price of inputs, placing
+pressure on our margins, and have witnessed a
+sharp rise in logistics costs in importing raw milk
+from Australia to Malaysia. OUR RESPONSE
+• To protect our margins, we increased the prices of our chilled and
+ambient RTD products by 5% in September and December 2021
+respectively
+• As a vertically integrated dairy company, we benefit from an internal
+supply chain which allows us to mitigate against price increases
+across many of our inputs
+• We will continue to monitor prices and stock levels of raw materials
+to pre-emptively manage against volatility in supply and demand
+• We will continue to centrally procure our raw materials in order to
+achieve economies of scale and mitigate against price increases
+1. https://blogs.imf.org/2022/04/15/global-economic-uncertainty-surging-amid-war-may-slow-growth/
+2. https://tradingeconomics.com/united-states/inflation-cpi
+3. https://edition.cnn.com/2022/06/03/energy/oil-prices-what-next/index.html
+4.
+[MDA_P005]
+https://www.worldbank.org/en/news/press-release/2022/04/26/food-and-energy-price-shocks-from-ukraine-war
+5. https://themalaysianreserve.com/2022/02/17/sea-freight-rates-rise-800-on-reduced-capacity
+FARM FRESH BERHAD | ANNUAL REPORT 2022
+A. STRATEGIC REVIEW
+MARKET LANDSCAPE
+– KEY MARKET TRENDS
+[MDA_P007]
+OUR RESPONSE
+• Following our first carbon footprint inventory exercise carried out in
+July 2021, we have implemented various measures to reduce carbon
+emissions, including replacing existing anaerobic lagoons with
+anaerobic digestion tanks and installing solar thermal systems to
+reduce the use of diesel for our boiler and generator units
+• We recently launched solar PV projects at our Muadzam Shah and
+Larkin processing facilities, with a further installation planned for
+our Taiping farm
+• In 2022, we are set to launch our first biogas plant at our Muadzam
+Shah farm, followed by a biogas plant at our Taiping farm
+• By adopting regenerative agriculture practices across our Muadzam
+Shah and UPM farms, we have reduced our reliance on chemical
+fertilisers and our methane emissions from animal waste
+• We plan to implement regenerative agriculture practices across all
+our farms by 2024
+6. https://www.ipcc.ch/assessment-report/ar5/
+TRANSITION TO A LOW-CARBON ECONOMY
+| 01 | 02 | Section 03 Management Discussion and Analysis | 04 | 05 | 06 | 07 | 08 |

@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Hibiscus, Genting, TDM, Destini, GUH, Trive, PIE, Oriental Kopi, OSK, Tropicana, Kerjaya Prospek, PPB, Fitters and KYM
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-06-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/18/trading-ideas-hibiscus-genting-tdm-destini-guh-trive-pie-oriental-kopi-osk-tropicana-kerjaya-prospek-ppb-fitters-and-kym
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here are the headlines from Corporate Malaysia. Hibiscus Petroleum Bhd is venturing into gas-producing assets in Brunei with the acquisition of a 100% interest in TotalEnergies EP (Brunei) for USD259.4mn cash. Genting Bhd is still looking at opportunities to list in the US, with the intention of unlocking shareholder value. TDM Bhd 's subsidiary, PT Rafi Kamajaya Abadi has filed for a judicial review against the decision of Indonesia's supreme court for PTRKA to compensate Indonesia and rehabilitate a 2,650-hectare area in West Kalimantan province after a fire incident in 2019.
+
+[NEWS_P002] Destini Bhd said its indirect subsidiary has been served with a winding-up petition for purportedly failing to pay RM18.6mn owed to the tax authority. GUH Holdings Bhd and Chinese battery manufacturer Shenzhen Xixin Electronic Technology Co Ltd, have mutually agreed to terminate a plan to develop a lithium battery assembly plant in Malaysia. Trive Property Group Bhd has proposed a bonus issue of warrants on the basis of 2 warrants for every 5 existing shares, to reward its shareholders and strengthen its financial position and capital base.
+
+[NEWS_P003] PIE Industrial Bhd , whose share price rose 18% on Friday, said it is not aware of any corporate development, rumour or report that may have triggered the jump in a reply to the unusual market activity query by Bursa Malaysia Securities. Oriental Kopi Holdings Bhd has filed for an initial public offering on the ACE Market to raise funds to add the number of outlets, set up new kitchens and stores. OSK Property Holdings Bhd, the property arm of OSK Holdings Bhd has partnered with Affin Bank Bhd in the bank’s new mortgage programme “Affinita”, aimed at providing women with financial solutions towards homeownership.
+
+[NEWS_P004] Tropicana Corp Bhd has announced a partnership with Samsung Malaysia Electronics Sdn Bhd to offer artificial intelligence home appliances in its upcoming developments. Kerjaya Prospek Property Bhd , via its wholly owned subsidiary Kerjaya Property Sdn Bhd, has officially opened Bloomsvale Shopping Gallery on Jalan Puchong, Kuala Lumpur, in a door-opening ceremony last Saturday. PPB Group Bhd has emerged as a substantial shareholder of Techbond Group Bhd (Not Rated) after acquiring a 15% stake in the company.
+
+[NEWS_P005] Fitters Diversified Bhd said Cita Realiti Sdn Bhd has ceased to be its largest shareholder after selling a 6.3% stake in the fire protection equipment supplier on last Friday. KYM Holdings Bhd ’s 1QFY25 net profit declined 94.8% YoY to RM585k, due to the absence of a one-off gain amounting to RM15.3mn from the sale of a piece of land and building during the same period last year.

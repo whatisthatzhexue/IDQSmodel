@@ -1,0 +1,51 @@
+document_id: MDA_5533_OCB_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 32, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P009]
+The Consumer Foods Division posted a loss before taxation of RM2.2 million for FYE 2022 as compared to a profit
+before taxation of RM0.8 million in FYE 2021 due to rising raw materials cost and higher operating expenses ratio. Material costs such as wheat escalated up to 30% year-on-year basis brought about by the Russian-Ukrainian conflict. Building Materials Division posted a higher loss before taxation of RM4.5 million in FYE 2022 as compared to a
+loss before taxation of RM2.0 million in FYE 2021 due to the delay in certain projects and coupled with a higher
+operating expenses ratio. The Group has not adopted any dividend policy. The Board annually evaluates the Group’s profitability, cash flows
+position and long-term plans prior to deciding on any dividend payment. The Board did not propose any dividend in respect of FYE 2022 (FYE 2021: Nil). The loss per share of the Company for FYE 2022 was 3.51 sen as against loss per share of 13.71 sen for FYE 2021.
+[MDA_P010]
+Consumer Foods Division
+The Consumer Foods Division registered a revenue of RM157.2 million and a loss before taxation of RM2.2 million
+for FYE 2022 as against a revenue of RM147.3 million and a profit before taxation of RM0.8 million in FYE 2021. The increase in revenue was mainly due to the new contract for noodles OEM business. Noodles’ sales reported a 19% increase due to a new contract for OEM business, commenced since August 2022
+which brought in RM8.8 million sales. The Company is positive on the prospect of this business. The salad dressing
+segment also grew by RM1.7 million or 4% mainly contributed by food service packaging as more people are eating
+out versus cooking at home after the pandemic fear dissipated. The sales of seasoning segment saw an increase by RM0.3 million or 29% in FYE 2022 attributable to increased
+repeat orders from the overseas market for the Ready to Cook Curry Paste range. On the other hand, the sales of trading segment (creamer) decreased by RM1.6 million or 3% due to a lower demand
+from the export market. This segment had achieved RM52.2 million sales for FYE 2022 as compared to RM53.7
+million in the preceding financial year.
+[MDA_P011]
+Consequently, the Division registered a loss before taxation of RM2.2 million in FYE 2022 compared to a profit
+before taxation of RM0.8 million in FYE 2021. On the operation level, the Division suffered a lower margin and higher
+operating expenses ratio due to rising raw material costs and lesser volume of sales. Overall, on a year-on-year basis, direct materials cost has increased by 3.0% since FYE 2021 due to global supply
+chain disruptions brought about by the Russian-Ukrainian conflict and the Covid-19 pandemic. Direct labor costs
+also increased to RM1,500 per month from RM1,200 per month previously due to the implementation of the minimum
+wage in May 2022.
+[MDA_P018]
+Food and Hotel Malaysia (“FHM”) 2022 at KLCC, Malaysia from 29 March 2022 to 1 April 2022;
+3. THAIFEX-Anuga Asia 2022 at IMPACT Muang Thong Thani, Thailand from 24 May 2022 to 28 May 2022;
+4. 2022 Ulaanbaatar Partnership International Trade fair at Misheel Expo Exhibition Center, Mongolia from
+22 September 2022 to 25 September 2022; and
+5. SIAL Paris 2022 at Parc des expositions Paris Nord Villepinte, Paris from 15 October 2022 to 19 October
+2022. Operationally, one of the major challenges for the Year 2022 was the continued elevated cost of raw materials such
+as soybean oil, palm olein, wheat flour and a host of other ingredients. The Division’s profit margin remained thin
+despite adjusting the selling price upwards for all our product range due the increase of 3% cost of materials as
+against in 2021. The Russian-Ukrainian war which escalated in Year 2022 brought about shortages in wheat flour
+supply globally, which resulted in multiple price increases for this commodity in 2022. Apart from that, in May 2022,
+the Government had announced and implemented the new minimum wage which increased the direct wages of
+operators by 25%.
+[MDA_P019]
+All these additional costs had added pressure to and crimped the Division’s margin. Apart from inflation and increased labour costs, the other challenge faced by the Division was labour shortage
+especially in factory production. The process of getting approved foreign labour into the country was very slow
+and it affected production efficiency significantly. There was also difficulty in attracting and employing local labour
+for the manufacturing sector. The Covid-19 prevention, control and management at the plants remained in place albeit at a relaxed pace. In total,
+42 Covid-19 positive cases were reported in 2022. All in all, Year 2022 has been a challenging year for the Division and we foresee that these challenges will persist for
+the first half of 2023 especially, in the areas of commodities inflation and supply chain uncertainties. The Division
+will continue to focus on automation and digitization to be cost-efficient going forward. Management
+Discussion and Analysis

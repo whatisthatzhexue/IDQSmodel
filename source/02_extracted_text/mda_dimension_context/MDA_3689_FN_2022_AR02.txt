@@ -1,0 +1,151 @@
+document_id: MDA_3689_FN_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 83, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P045]", "note": "segment revenue: components sum 40032.50, stated total 53000.00, difference -24.47%, status material_discrepancy.", "source_text": "• TEAPOT maintained the leadership position in Flavoured SCM Segment. • Maintained sales volume and increase brand awareness. • Hawker base increased by 32.5 per cent from 40,000 to 53,000. • Total customer network in Thailand, Laos and Cambodia grew by 7% to over 170,000. PROSPECTS Although costs i", "status": "material_discrepancy"}], "document_id": "MDA_3689_FN_2022", "has_cost_discussion": true, "has_margin_discussion": false, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 177, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Strategic Review
+Market Review
+OUR OPERATING LANDSCAPE
+The year 2022 has been marked by two key
+and opposing factors. Positively, it has seen the
+gradual unravelling of movement and social
+restrictions imposed to contain COVID-19. Yet, rather than herald a significant economic
+recovery, global GDP growth is expected to
+decelerate to about 3.2 per cent after hitting
+a high of 6.1 per cent in 2021. The International
+Monetary Fund (IMF) was prompted to
+downgrade its GDP forecast in July 2022
+because of the Russia-Ukraine war, intermittent
+COVID-19 outbreaks, and a continued slowdown
+in manufacturing and logistics. Starting from a lower base of 3.1 per cent
+growth in 20211 , Malaysia’s GDP is expected
+to expand by 6.4 per cent according to the
+World Bank, supported by domestic demand
+underpinned by enhanced labour market
+conditions2. Growth in Thailand, meanwhile, is
+anticipated at between 2.7 per cent and 3.2 per
+cent3, slightly higher than initially predicted as
+the tourism industry is beginning to pick up. This is from a base of 1.5 per cent growth in
+2021.
+[MDA_P002]
+Key factors reigning in a fuller recovery
+are high inflation and muted trade with China,
+which has enforced several lockdowns in
+attempts to maintain zero-COVID. Economic growth discrepancy aside, both
+countries continue to be affected by supply
+chain disruptions and a sharp increase in
+the price of commodities, especially palm
+oil, skimmed milk powder and tin plates – all
+of which are used in F&NHB’s products and
+packaging. Both our key markets have also been
+impacted by the US Government’s monetary
+tightening and interest rate hikes, which have
+resulted in the reverse flow of capital from
+emerging markets back to the US, contributing
+to depreciation in regional currencies. As of the end of September 2022, the Malaysian
+ringgit had weakened to 4.6 against the dollar. However, the Thai Baht was even more affected,
+dipping to 38 against the dollar – marking its
+lowest exchange rate since July 2006. The
+weak Ringgit and Baht further increase the cost
+of already high imported commodity prices.
+[MDA_P003]
+1 According to a Ministry of Finance press release,
+11 Feb 2022
+2 https://www.theedgemarkets.com/article/world-
+bank-ups-2022-gdp-growth-forecast-malaysia
+3 https://www.cnbc.com/2022/08/15/thai-second-
+quarter-gdp-grew-2point5percent-year-on-year-
+below-expectations.html
+KEY MARKET TRENDS
+OUR RESPONSE
+Digitalisation has been a catchphrase for
+a few years and has further accelerated
+throughout
+the
+pandemic. To
+remain
+competitive,
+corporations
+are
+fully
+digitalising their operations to capture
+and analyse data for 1) more informed
+decision-making;
+2)
+more
+effective
+marketing; 3) better customer service, and
+4) more efficient operations. Consumers
+today increasingly rely on technology
+for daily tasks such as banking, working
+and education. Trends towards digital
+channels also mean cyber risk is a global
+focus of organisations and governments. The rising trend in cashless payments has
+positively boosted online shopping, which
+had
+remained
+strong
+post-pandemic,
+indicating that consumers are already
+accustomed
+to
+the
+convenience,
+affordability,
+and
+rewards
+of
+online
+shopping.
+[MDA_P004]
+•
+Business intelligence tools are vital
+enablers in our operations, particularly
+in gathering market insights, including
+consumers’ purchasing behaviour and
+the movement of commodity prices. •
+A robust Cybersecurity Framework
+ensures
+effective
+identification,
+protection, detection, response, and
+recovery of cybersecurity incidents. Cybersecurity training and external
+vulnerability assessment were also
+conducted during the year. •
+We
+continue
+to
+increase
+our
+e-commerce
+presence
+through
+partnering with e-commerce platforms
+like Lazada, Shopee and partners like
+Potboy and JOCOM. At the same, we
+continued to grow our own platform,
+F&N Life, in Malaysia and launched
+F&N Nom-Aroi in Thailand. •
+Our
+Enterprise
+resource
+planning
+system and ASRS at Shah Alam
+warehouse and regional distribution
+centre
+in
+Rojana
+create
+greater
+efficiencies while reducing the risk of
+human injury. Even before the pandemic, there was
+increasing awareness of the importance of
+maintaining a good diet and being physically
+active to optimise one’s well-being. Since
+the pandemic, people are taking their
+health and well-being even more seriously.

@@ -1,0 +1,117 @@
+document_id: MDA_5008_HARISON_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 9, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 212.012, "paragraph_count": 9, "paragraph_length_distribution": {"max": 1161, "mean": 831.667, "min": 261}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Performance
+Review
+-Staff Annual
+Dinner
+-Employee
+Events
+-Knowledge
+Sharing
+Sessions
+-Management
+Meetings
+-Satisfaction
+Survey
+-Conventions
+-Roadshows
+-Marketing
+Materials
+-Store Openings
+-Events and
+Seminars
+-Meetings
+-Briefings and
+Trainings
+-Attend
+Dialogues/Semi
+nars Organised
+by Bursa
+Securities
+-Annual General
+Meeting
+-Company
+Website
+-Annual Report
+-Quarterly
+Reports
+-Company
+Announcements
+Principals
+Financiers
+Employees
+Customers
+Government
+/ Regulators
+Investors
+Engagement
+Method
+Stakeholder
+Group
+[MDA_P003]
+Thus, we concluded that the materiality assessment conducted in 2020
+remains valid. We have reviewed and retained all 14 material sustainability matters as these topics
+continue to be relevant to our stakeholders and to our Group’s business operations in order for the Group
+to address and communicate in this report. Out of these, 3 material topics were reassessed from higher to
+medium and lower priority (based on the importance to stakeholders and business materiality matrix
+above), while the other 11 topics remain fairly similar to the previous year. The 3 material topics are:
+(i) Significant fines with regards to environmental laws and/or regulations (lower priority);
+(ii) Impact of COVID19 (medium priority); and
+(iii) Complaints from Customers (medium priority)
+[MDA_P005]
+As such, knowing exactly what principals expect from us improves our bottom line and
+strengthens our reputation in the long term. Engaging with our principals regularly enable us to understand
+their needs and expectations, identify gaps and enable us to make informed assessments and formulate
+strategies for execution to bridge such gaps. We will be completing our Enterprise Resource Planning (“ERP”) system soon. This new ERP system is
+expected to enhance the efficiencies of our business processes and assist us in managing our businesses
+more effectively. It will also allow us to meet the speedy information demands by our principals and
+customers. As for our suppliers, active engagement is done on a regular basis to align our requirements and
+expectations with them, thereby ensuring sufficient resources being obtained and seamless execution of
+our operations. Managing Our Customers
+We aim to provide products/services which meet customers satisfaction and exceed their expectations. We
+encourage our customers to provide their feedback. The feedback obtained is reviewed and relevant
+follow-up actions are performed to improve customer satisfaction.
+[MDA_P007]
+Managing COVID-19 Pandemic
+The group takes seriously the Impact of COVID19 pandemic on its business operation and safety and
+health of all its employees. The following measures were applied in compliance to the government order:
+Measures
+Action Taken
+Work from Home
+:
+Work from Home was introduced depending on each business unit,
+while maintaining the quality and efficiency to meet datelines
+Productivity Measures
+:
+:
+Head of Departments are encouraged to conduct regular group
+meetings online. Employees are required to complete the tasks assigned to them on
+time. Face Masks and Meetings
+:
+:
+As part of the preventive measures, the Group avoid face-to-face
+meeting unless it is necessary. Most meetings are conducted via
+video conferences. All staffs and visitors are required to ensure physical distancing and
+wear face mask at all times in the workplace and attending physical
+meetings. Control and Prevention
+:
+:
+:
+:
+:
+:
+:
+All staffs and visitors are required to record their attendance and
+temperature and check in with MySejahtera application. Displaying the relevant information/notices on prevention and
+procedures within the workplace.
+[MDA_P009]
+The Directors’ and Employees Code of Ethics provides commitment to ethical values through key
+requirements relating to conflict of interest, confidential information, insider information, protection of the
+Group’s assets and compliance with law and regulations.

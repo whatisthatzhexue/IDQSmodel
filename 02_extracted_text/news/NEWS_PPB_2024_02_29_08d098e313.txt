@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Maybank, Hong Leong Bank, HLFG, Public Bank, Farm Fresh, Hap Seng, Press Metal, Capital A, PPB, IJM, MYEG and Pecca
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-02-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/02/29/trading-ideas-maybank-hong-leong-bank-hlfg-public-bank-farm-fresh-hap-seng-press-metal-capital-a-ppb-ijm-myeg-and-pecca
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Companies in the news include Maybank, Hong Leong Bank, HLFG, Public Bank, Farm Fresh, Hap Seng, Press Metal , Capital A, PPB, IJM, MYEG and Pecca, said Apex Securities Research. Malayan Banking Bhd (Maybank)’s net profit rose 8.3% year-on-year (y-o-y) for the fourth quarter ended Dec 31, 2023 (4QFY2023) to RM2.39 billion, compared with RM2.21 billion for 4QFY2022. Hong Leong Bank Bhd (HLB) reported a 4.4% growth in net profit for the second quarter ended Dec 31, 2023 (2QFY2024) to RM1.09 billion.
+
+[NEWS_P002] Hong Leong Financial Group Bhd (HLFG), which owns 64% of HLB, also eked out a 2.5% growth in net profit to RM831.87 million for 2QFY2024, from RM811.5 million a year ago. Public Bank Bhd said its net profit fell 5.73% in the fourth quarter to RM1.62 billion. Farm Fresh Bhd ’s net profit rose 8.91% to RM20.44 million for the third quarter ended Dec 31, 2023 (3QFY2024), from RM18.77 million a year before. Hap Seng Consolidated Bhd ’s fourth quarter ended Dec 31, 2023 (4QFY2023) net profit fell 61.88% to RM37.36 million, from RM98.02 million a year ago.
+
+[NEWS_P003] Press Metal Aluminium Holdings Bhd's fourth quarter net profit rose 22.89% to RM320.46 million from RM260.78 million a year earlier. Capital A Bhd is carving out the manager of its aviation brand AirAsia and injecting it into Nasdaq-listed special purpose acquisition company (SPAC) Aetherium Acquisition Corp for US$1.15 billion (RM5.48 billion) — a move to pave way for its exit from Practice Note 17 (PN17) status, besides selling its aviation business to AirAsia X Bhd .
+
+[NEWS_P004] PPB Group Bhd 's full-year net profit stood at RM1.39 billion, down 36.53% y-o-y from RM2.2 billion, while revenue dropped 7% to RM5.72 billion from RM6.15 billion during the same period a year prior. IJM Corp Bhd 's net profit rose 34.3% to RM100.43 million for its third quarter ended Dec 31, 2023 (3QFY2024) from RM74.79 million a year earlier. MyEG Services Bhd’s net profit for the fourth quarter ended Dec 31, 2023 (4QFY2023) doubled to RM150.16 million from RM74.69 million a year earlier.
+
+[NEWS_P005] Pecca Group Bhd has reported another record-breaking financial quarter with both revenue and net profit at all-time highs. The automotive upholstery maker’s net profit jumped 59.1% to RM13.38 million for the second financial quarter ended Dec 31, 2023 (2QFY2024).

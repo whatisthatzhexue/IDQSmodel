@@ -1,0 +1,127 @@
+document_id: MDA_3026_DLADY_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 216.563, "paragraph_count": 27, "paragraph_length_distribution": {"max": 1187, "mean": 985.704, "min": 291}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Datin Seri Sunita
+Mei-Lin Rajakumar
+Chairperson
+Ramjeet Kaur Virik
+Executive Director
+Distributing over
+180,000
+milk packs
+to key frontliners and
+partnered various
+Non-Government
+Organisations, Key
+Opinion Leaders and
+Foodbanks
+Nourishing by Nature
+Our Dairy Development
+Programme (DDP) has
+helped produce
+37.9 million
+LITRES OF MILK
+[MDA_P007]
+As such, DLMI
+began tributary cleaning of Sungai Penchala in partnership
+with Selangor Maritime Gateway, an initiative by the
+Selangor Government to clean, rehabilitate and develop
+areas along the Sungai Klang ecosystem to make it an
+engine of growth for the state. During the clean-up from 15
+August right up to 31 December 2021, a total of 11.1 metric
+ton of waste was removed from Sungai Penchala. DLMI has
+also recently embarked on a partnership with the Global
+Environment Centre, a highly reputable organisation that
+shares a common goal in caring for the environment with
+various activities and solutions driven on river care. We
+look forward to supporting relevant activities pertaining
+to the river care of Sungai Penchala especially in driving
+greater effectiveness in river monitoring in the community
+via education and provision of the right infrastructure
+and tools. Our tributary cleaning efforts were recognised
+by the Selangor state government to be amongst the five
+key public-private collaborations involved in the cleaning,
+rehabilitation and sustainable development of Klang river.
+[MDA_P014]
+Keeping employees
+informed on COVID-19 SOPs
+and developments
+COVID-19 on-site Testing
+(Factory)
+RTK Home Saliva Test Kits
+for Office Employees
+Talks on managing isolation
+and stress (well-being)
+Charity Opportunities (Milk
+Donation) via Blue Brigade
+EAP Support – Mental
+Health (isolation)
+COVID-19 Vaccination (Stats:
+99% Fully Vaccinated as at
+31 December 2021)
+Talks by doctors to ease fear,
+uncertainties on COVID-19
+and COVID-19 Vaccination
+Distribution of Care Packs
+(Masks, Vitamin C, Hand
+Sanitiser)
+[MDA_P021]
+MaxGro has gained 4.5% value share in this segment in
+the past year since launch with an expansion of portfolio in
+second half of the year with larger pack sizes and portion
+packs and now has achieved third position within this
+segment. In 2021, Friso Gold continued to dial up product superiority
+via the launch of Novas Signature Milk which contains small
+molecules & soft structure, high-quality milk produced
+by our farms & premium bred cows in the Netherlands to
+enable Good Digestion for Stronger Inside. We leveraged
+on 150 years’ celebration of our Dutch Dairy heritage in Q3,
+2021 to further amplify brand trust & expertise. Having a
+pool of strong advocates called Friso Gold Mombassadors,
+we led digital share of voice and positive sentiments were
+up to 10x more than the next brand. As a result, Friso hit the
+highest number of buyers for IFFO & GUM (Kantar, 24 weeks
+data), doubling up GUM buyers by Nov ‘21, contributed by a
+strong focus in driving penetration. This led to Friso hitting
+its highest market share (YTD Nov ‘21 @ 10.3%) in the past
+3 years. 2021 has not only changed the way consumer consumed
+dairy.
+[MDA_P027]
+In order to deliver on this purpose
+healthy gross margins are essential in
+order to continue to invest behind our
+brands and people. These assets will
+drive long term engagement with DLMI
+as an employer of choice and continue
+to increase penetration of milk. DLMI is determined to invest in
+Malaysia even in these trying times. In 2020, we announced the plans to
+invest RM400 million between the
+years of 2021 and 2025 for our future
+manufacturing activities. DLMI will continue to focus on
+optimising the companies cashflow to
+battle the inflationary headwinds and
+secure sufficient funding of the new
+manufacturing facilities. Over the long term, the outlook
+for DLMI remains positive due to
+the strength of our brands, and the
+increasing need and recognition of the
+goodness and nutritional value of milk
+amongst Malaysians. RM111 million
+RM144 million
+COMPANY SOLVENCY
+88%
+RM118.3
+million
+27%
+RM38.9
+million
+ABSOLUTE CASH
+DEVELOPMENT

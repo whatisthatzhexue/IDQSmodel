@@ -1,0 +1,14 @@
+[TITLE]
+PPB posts higher net profit in 1Q
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-05-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/29/ppb-posts-higher-net-profit-in-1q
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: PPB Group Bhd ’s net profit rose to RM375.83mil in the first quarter ended March 31, 2025 (1Q25) from RM337.17mil in 1Q24, while its revenue also increased to RM1.35bil from RM1.29bil previously. In a filing with Bursa Malaysia, the group attributed its performance to higher contributions from Wilmar International Ltd, which increased to RM283mil in 1Q25 from RM266mil previously. PPB owns an 18.8% equity interest in Wilmar, one of Asia’s largest integrated agribusiness groups.
+
+[NEWS_P002] “At the same time, core business segments recorded a 25% increase in profit to RM127mil in 1Q25 (1Q24: RM102mil),” it said, adding that the consumer products segment will continue to expand its product range. — Bernama

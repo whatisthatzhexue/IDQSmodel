@@ -1,0 +1,55 @@
+document_id: MDA_0212_SDS_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P007]", "note": "margin: stated 14.10%, calculated 31.06% from profit/revenue, status material_discrepancy.", "source_text": "Financial Indicators FY2022 RM’000 FY2021 RM’000 Difference (%) Revenue 198,283 173,778 14.1% Gross Profit 61,596 52,988 16.2% Gross Profit Margin 31.1% 30.5% 1.9% Profit Before Tax 14,103 9,589 47.1% Profit After Tax Attributable to Owners of the Company (\"PAT\") 10,618 7,271 46.0% Net profit margin", "status": "material_discrepancy"}], "document_id": "MDA_0212_SDS_2022", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 43, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+“
+”
+OVERVIEW & JOURNEY IN THE NEW NORMAL
+From an operational angle, FYE 2022 has been a challenging year as the nation went through different
+Movement Control Order (MCO) phases. The constant adjustment to the Group’s operating procedures
+to ensure compliance with the Government’s Standard Operating Procedures (“SOPs”) was felt heavily
+especially in the retail channel, owing to the fact that the Group has significant Food and Beverage
+("F&B") components offering dine-in experiences for a variety of cuisines. Despite this challenge, the Group has managed to open 2 new outlets in Bandar Seri Putra, Selangor
+and Taman Nusantara, Johor while the wholesale channel set up another distribution centre in Gua
+Musang, Kelantan, bringing the Group’s total to 20 centres in 10 out of the 11 states in Peninsular
+Malaysia. The Group’s journey in FYE 2022 was a continuing story of operating under lockdown conditions,
+particularly in the early part of the financial year under review.
+[MDA_P002]
+Governmental SOPs to close all non-
+essential businesses and services impacted the Group’s operations and potential earnings from the
+retail channel as the retail outlets had to comply with certain SOPs including restricted dine-in, social
+distancing, closure of schools, malls and non-essential sectors had also affected foot traffic. Although
+the bakery section of the Group’s operations was classified as essential goods and was allowed to
+operate, the impact to revenue stream from the café operations was dampened during this period. Part of the Group’s responsibility as a caring corporate citizen was to ensure the wellbeing of its
+employees during this period. The Group participated in the employees’ vaccination program under
+PIKAS to increase its employees’ vaccination rate and ensure the customers’ wellbeing and peace of
+mind through this action. In addition, when market activities resumed, it also ensured that the Group
+was ready to function at normal operational capability in the endemic stage. The Group pivoted its strategy to meet the pandemic challenge by introducing a digital solution to
+meet market demand.
+[MDA_P003]
+The market was still hungry for the Group’s products, so to reach and serve the
+customer base better, the Group improved and refined its online and delivery channels which was set
+up in FYE 2021. This improvement allowed the Group to receive customers’ orders via a greater range
+of internal and external food delivery platforms. As a responsible employer, the Group also retrained
+its outlet staff for customer service, allowing them to handle online and mobile orders, and deploying
+some for the delivery service. This, coupled with the Group’s vaccination program participation, showed
+that the Group cares about both the physical wellbeing as well as the career path of its employees. 014 | ANNUAL REPORT 2022
+[MDA_P004]
+During this quiet period, which lasted up till the middle of FYE 2022, the Group intensified its F&B’s research and
+development ("R&D") programs, swinging into full roll out once the Government announced the easing of pandemic
+restrictions. Its refinement of products and offerings, along with a new café menu was incubated during this period. On the operation front, the business development team looked into new potential locations for expansion, while
+simultaneously renegotiating existing tenancy agreements with malls and landlords for rebates and rental relief during
+this period. The wholesale channel was also affected by the COVID-19 restrictions as there was lower demand for wholesale bakery
+products from customers due to the closure of hotels, schools, factory canteens and others. This knock-on effect to the
+Group’s order book allowed for some corresponding strategies including:
+a. The review of distribution networks and reorganisation of sales distribution routes of affected delivery vehicles;
+b. Expansion of coverage area by sourcing new customers;
+c. Promotional marketing campaigns at local and regional retail chains to boost sales; and
+d.

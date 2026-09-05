@@ -1,0 +1,85 @@
+document_id: MDA_3689_FN_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+ANNUAL REPORT 2020
+md&a
+Complementing online sales, we strengthened our route to market by partnering
+other merchants as well as F&B outlets with whom we bundled our products. We
+also penetrated deeper into previously unserved areas throughout Malaysia with
+pilot van sales to drive impulse purchase, while further expanding the network of
+customers served directly to cover central Peninsular Malaysia and East Malaysia. During the MCO, we continued to strengthen in-store presence and worked
+closely with our F&B merchants to introduce combo meals and delivery tie-ups. Tapping on the growing online trends during MCO, we helped our distributors to
+set up e-selling platforms and organise e-Ramadan Bazaars to boost sales during
+the Ramadan period. Innovation and excellence in execution enabled F&B Malaysia to protect and grow
+our market share in key product categories. We maintained our market-leading
+positions in Malaysia, within carbonated soft drinks category1, isotonic segment2,
+sweetened condensed milk category3, and evaporated milk category4. We reaffirmed our market leadership with the various awards and accolades won
+in the year.
+[MDA_P003]
+We won the prestigious Halal Food and Beverage Excellence Award
+from Halal Development Council, as a testament to our commitment in upholding
+Halal standards throughout our operations and our contribution towards the
+development of the nation’s Halal industry. 100PLUS continued with its Golden
+streak at the Putra Brand Awards in 2019, winning in the Non-Alcoholic Beverages
+category for the seventh consecutive year. At the same time, 100PLUS also
+claimed a Gold for Best Marketer in Media & Content Partnership Marketing at
+CMO Asia Awards 2019 and a Bronze for the Best Use of Influencers at the Effie
+Awards 2019. Concerted efforts by the Export team also bore fruit and saw F&B Malaysia grow its
+international sales revenue by 10 per cent. This was contributed mainly by sales to
+the Middle East, Africa and ASEAN markets. F&B Malaysia demonstrated resilience in overcoming what was undoubtedly one
+of the most challenging years we have faced in recent times.
+[MDA_P004]
+While the market
+shrank considerably due to the Movement Control Order (MCO) and its iterations,
+relentless focus on product and marketing innovation, as well as effective
+execution targeted at meeting new norms in the marketplace, helped us to ride
+out the storm. Movement restrictions and social distancing had a significant yet differentiated
+impact on sales. Coffee shops, cafes, restaurants and hotels ceased operations
+during the height of the MCO, while demand from petrol marts, convenience
+stores and traditional trade retailers also fell significantly. In contrast, modern
+trade outlets continued to enjoy brisk sales as Malaysians were keen to get all their
+groceries at one go. E-commerce channels also continued to gain traction. Without doubt, the most exciting product introduced during the year was that
+of F&N Teh Tarik, our ready-to-drink version of the ‘national drink’. We launched
+F&N Ready-to-Drink Teh Tarik Ori seven months earlier than planned, foreseeing
+heightened demand following the temporary closure of mamak outlets.
+[MDA_P005]
+The
+online mamak session organised in conjunction with the launch proved we were
+right; 667 fans participated in the event, leading to an entry in the Malaysia Book
+of Records. We also continue to innovate on enhancing our portfolio of healthier options. This
+led to the launch of F&N ICE MOUNTAIN Sparkling, 100PLUS Zero and OYOSHI
+Gold No Sugar Premium Japanese Green Tea – all with no sugar. The launch of
+F&N ICE MOUNTAIN Sparkling in Classic, Lemon and Grapefruit flavours was
+particularly successful, leading to an increased share of the water segment. We
+also launched a premium Sunkist Pure in Orange and Lemon Apple flavours. Other than new products, we met the need for greater value through trade-
+up deals and strategically priced products. This saw us offer extra volume of
+carbonated soft drinks at no increased cost and introduce value-tier condensed
+milk such as TEAPOT Extra and Gold Coin Juara. A key highlight was to launch our e-commerce store, F&N Life, enabling us to
+tap into growing demand online. Due to the exponential growth of sales on this
+channel, we redirected a considerable volume of products from physical outlets
+to our virtual store.
+[MDA_P006]
+Being agile and scaling up F&N Life, we delivered our two-year
+online sales target in six months. Most encouragingly, demand did not taper off
+with the relaxation of MCO, indicating a loyal and increasing online consumer base. In line with the increased focus on digital marketing, much effort was channelled
+towards creating impactful content, and we felt validated for our efforts when F&N
+Dairies won the Best 6-seconds Storytelling Award from YouTube Malaysia Ad
+Awards in December 2019. Innovation and excellence in
+execution enabled F&B Malaysia
+to protect and grow our market
+share in key product categories. We maintained our market-leading
+positions in Malaysia, within
+carbonated soft drinks category,
+isotonic segment, sweetened
+condensed milk category, and
+evaporated milk category. 1 100PLUS Zero
+2 F&N ICE MOUNTAIN Sparkling Water – Original, Lemon and Grapefruit
+3 F&N Teh Tarik – Ori and Less Sugar
+4 No Sugar OYOSHI Gold Kabusecha, No Sugar OYOSHI Gold Sencha
+5 Sunkist Pure – Orange and Lemon Apple
+6 TEAPOT Squeeze Tube – Plain, Gula Melaka & Pandan
+7 F&N Fruit Tree Fresh Reduced Sugar Soursop with Nata De Coco

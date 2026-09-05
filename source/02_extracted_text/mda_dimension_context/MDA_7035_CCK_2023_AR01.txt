@@ -1,0 +1,124 @@
+document_id: MDA_7035_CCK_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 26, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Profit Before Tax
+RM107.44
+million
+Total Liabilities
+RM144.69
+million
+Revenue
+RM980.75
+million
+Total Assets
+RM576.25
+million
+Profit After Tax
+RM83.36
+million
+Current Ratio
+2.68
+times
+Earnings
+Per Share
+13.35
+sen
+[MDA_P002]
+ANNUAL REPORT • 5
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+5-YEARS FINANCIAL SUMMARY (CONT’D)
+1,000,000
+800,000
+600,000
+400,000
+200,000
+RM’000
+REVENUE
+150,000
+120,000
+90,000
+60,000
+30,000
+RM’000
+EBITDA
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+RM’000
+PROFIT BEFORE TAX
+PROFIT ATTRIBUTABLE TO
+OWNERS OF THE COMPANY
+100,000
+80,000
+60,000
+40,000
+20,000
+RM’000
+EPS
+Dividend per share
+NUMBER OF RETAIL STORES &
+SUPERMARKETS (UNITS)
+Retail stores
+Supermarkets
+1.75
+5.28
+2.00
+5.98
+1.25
+3.91
+3.50
+10.12
+4.25
+13.35
+[MDA_P005]
+CCK Fresh Mart retail stores are typically smaller format stores located in both urban and rural areas. CCKLocal supermarkets typically occupy a larger footprint and offer households a wide range of SKUs ranging from
+local and imported food items to general household items. CCK’s wide-reaching retail network is supported by a fully integrated supply chain consisting of a feedmill, layer
+farming, poultry farming and processing, prawn farming and processing, and the manufacturing of house-brand food
+products. As Sarawak’s largest integrated poultry supplier, CCK’s wide-reaching retail network benefits from being vertically
+integrated with the poultry segment. Much like the retail network, CCK’s farm operations and processing facilities
+are also located in Sarawak and Sabah. On a blended basis, fresh dressed chicken and chicken parts make up
+approximately 15% of CCK Fresh Mart retail stores’ products. The other 85% of CCK Fresh Mart retail stores’ products
+comprise house-brand and third-party frozen products, seafood products, fresh fruits, and vegetables. In the previous financial year (“FY2022”), CCK completed the acquisition of PT Bonanza Pratama Abadi (“PT
+Bonanza”).
+[MDA_P009]
+The poultry segment reported a total segment revenue of RM336.6 million for FY2023, a 2.7% improvement from the
+same period last year. This was driven by improved demand for poultry products to institutional clients and consumer
+sentiment. Poultry sales via our own retail stores (intersegment sales) remained robust. The prawn segment’s revenue amounted to RM109.9 million in FY2023, 36.8% higher than FY2022. Revenue growth
+was largely due to the contribution from PT Bonanza which boosted overall segment export volumes to Japan,
+Taiwan, Thailand and The People’s Republic of China. The food service segment reported revenue of RM24.1 million, an improvement from RM22.5 million in FY2022. This
+was due to an overall increase in activities of government schools in Sarawak covered under our supply contracts. Group profit before tax (“PBT”) for FY2023 increased by 30.2% to RM106.0 million. This significant growth in overall
+profitability was primarily due to contributions from the retail, poultry, and prawn segment. Gross profit margins for
+FY2023 inched up to 20.2% from 18.2% in FY2022.
+[MDA_P011]
+The prawn segment recorded a segment profit of RM9.5 million, a significant increase from RM5.0 million in FY2022. Notably, a full year of contribution from PT Bonanza boosted overall segment profitability as export volumes to Japan,
+Taiwan, Thailand and The People’s Republic of China increased significantly. The segment also benefited from
+economies of scale and robust domestic sales via our own retail channels. The food service segment reported a PBT of RM3.0 million in FY2023, increased marginally from RM2.9 million a
+year ago. Operating and administrative expenses increased due to the additional running costs incurred by PT Bonanza,
+facilities in Pontianak, Indonesia, and retail outlets that came on stream in the last few quarters. Share of results in our associate company, Gold Coin (Sarawak) Sdn Bhd, amounted to RM4.8 million in FY2023, a
+growth of 5.7% from RM4.5 million in FY2022. Effective cost pass-through mechanisms and adjustments in selling
+prices mitigated unfavourable movements in foreign exchange and raw material prices.
+[MDA_P014]
+In FY2023, we expanded our retail network as follows –
+- Three (3) CCK Fresh Mart stores; one (1) in Kuching, Sarawak, one (1) in Telipok, Sabah and one (1) in Kota
+Kinabalu, Sabah. To recap, the acquisition of PT Bonanza was completed in July 2022, during the previous financial year. Established
+for the past 22 years, PT Bonanza operates out of Tarakan and is engaged in the processing of shrimp for local and
+export markets. PT Bonanza’s key products are frozen raw shrimp, frozen cooked shrimp and frozen Nobashi Ebi
+shrimp. As evidenced by the performance of the prawn segment in FY2023, the acquisition has augmented our seafood
+business and increased the size and scale of our export-oriented prawn products. Specifically, the prawn segment
+benefitted from a full year of contribution from PT Bonanza which boosted export volumes to Japan, Taiwan. Thailand
+and The People’s Republic of China. Manufacturing operations in Indonesia continued to benefit from an overall increase in production capacity due to the
+addition of Pontianak’s facility that was commissioned in January 2021.
+[MDA_P019]
+The Group maintains an adequate level of cash and cash equivalents and banking facilities to ensure sufficient
+liquidity to meet its liabilities as and when they fall due. The Group’s exposure to liquidity risk arises principally
+from trade payables, other payables and other bank borrowings (bankers’ acceptances and a revolving credit).
+d.
+Competition Risk

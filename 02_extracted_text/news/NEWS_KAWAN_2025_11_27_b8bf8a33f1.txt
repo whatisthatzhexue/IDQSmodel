@@ -1,0 +1,24 @@
+[TITLE]
+Trading ideas: Kerjaya, Sunview, Hibiscus, Chin Hin, Allianz, PetGas, PetDag, MBMR, Sunway, Farm Fresh, IHH, IOI, KLK, Matrix
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-11-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/27/trading-ideas-kerjaya-sunview-hibiscus-chin-hin-allianz-petgas-petdag-mbmr-sunway-farm-fresh-ihh-ioi-klk-matrix
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Kerjaya Prospek Group Bhd ’s wholly-owned subsidiary has accepted a RM350.6mn contract for building works in Batu Kawan, Penang, from related party Pixel Valley Bhd. Sunview Group Bhd has partnered NuEnergy Holdings Bhd to strengthen its presence in the residential solar market via a share subscription agreement. Hibiscus Petroleum Bhd aims to expand its oil and gas business in New Zealand, while remaining focused on the Southeast Asian market.
+
+[NEWS_P002] Chin Hin Group Property Bhd is acquiring two contiguous parcels of leasehold land in Taman Puncak Jalil, Selangor, for RM91.0mn. Allianz Malaysia Bhd has appointed Giulio Slavich as CEO of Allianz Life Insurance Malaysia Bhd effective Jan 1, 2026, succeeding Charles Ong, who retires on Dec 31, 2025. YTL Corp Bhd executive chairman Tan Sri Francis Yeoh was named Asean Personality of the Year 2025 – Lifetime Achievement Award at the 26th Asian Business Awards 2025 in London.
+
+[NEWS_P003] Petronas Gas Bhd ’s net profit fell 10.0% YoY to RM444.2mn for 3QFY25, from RM493.7mn, as softer margins across key segments amid lower product prices and downward tariff adjustments weighed on earnings. Petronas Dagangan Bhd ’s net profit declined 16.1% YoY to RM281.3mn for 3QFY25, from RM335.1mn, despite steady sales volume, dragged by weaker fuel price trends. MBM Resources Bhd ’s net profit rose to RM94.5mn for 3QFY25, from RM87.4mn a year ago, while quarterly revenue slipped 0.4% to RM635.9mn from RM638.4mn, on lower contributions from the motor trading and assembly division.
+
+[NEWS_P004] Sunway Bhd ’s net profit fell 10.1% YoY to RM338.1mn for 3QFY25, from RM376.1mn, dragged by higher operating and tax expenses despite stronger topline. Farm Fresh Bhd posted a 40.0% YoY rise in net profit to RM36.7mn for 2QFY26, from RM26.2mn, as revenue increased 18.4% to RM294.9mn from RM249.2mn. IHH Healthcare Bhd ’s net profit rose 15.4% to RM616.0mn for 3QFY25, from RM534.0mn a year earlier, supported by stronger contributions from day care services and improved cost containment.
+
+[NEWS_P005] IOI Corp Bhd ’s net profit fell 48.0% YoY to RM369.4mn for 1QFY26, from RM710.7mn, as last year’s results were boosted by large foreign exchange gains. Kuala Lumpur Kepong Bhd ’s 4QFY25 net profit surged to RM96.0mn from RM6.8mn a year earlier, boosted by stronger plantation and property results. Matrix Concepts Holdings Bhd posted a marginal increase in net profit to RM67.5mn for 2QFY26, from RM67.4mn a year earlier, supported by stronger property sales.
+
+[NEWS_P006] TMK Chemical Bhd ’s net profit fell 10.5% YoY to RM26.1mn for 3QFY25, from RM29.2mn, as revenue declined 18.3% to RM284.6mn from RM348.2mn, mainly due to lower sales volume. TIME Dotcom Bhd ’s net profit nearly doubled to RM106.2mn for 3QFY25, from RM53.6mn a year earlier, driven by higher revenue and lower currency loss. Malaysia Building Society Bhd reported a 21.6% YoY decline in net profit to RM95.6mn for 3QFY25, from RM122.1mn, while revenue fell 13.7% to RM817.7mn from RM947.5mn.
+
+[NEWS_P007] UEM Edgenta Bhd swung to a net loss of RM94.1mn for 3QFY25, from a net profit of RM10.2mn a year earlier, hit by significant one-off, non-cash impairments of goodwill, non-current assets and long-outstanding receivables. Tropicana Corp Bhd ’s net loss narrowed sharply to RM65.2mn for 3QFY25, from RM454.9mn a year ago, as revenue more than doubled to RM422.4mn from RM201.9mn, driven by higher progress billings. UOA Development Bhd ’s net profit more than doubled to RM115.6mn for 3QFY25, from RM55.0mn a year earlier, on the back of a surge in progress billings while expenses remained largely steady.

@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit ends lower vs US dollar on strong nonfarm payroll data
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-04-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/08/ringgit-ends-lower-vs-us-dollar-on-strong-nonfarm-payroll-data
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit ended lower against the US dollar as the greenback strengthened following higher-than-expected US nonfarm payroll (NFP) data, said an analyst. At 6 pm, the ringgit eased to 4.7505/7545 against the US dollar from last Friday’s close of 4.7460/7490. Bank Muamalat Malaysia Bhd chief economist Mohd Afzanizam Abdul Rashid said major currencies such as the Japanese Yen, euro, British pound and Swiss franc depreciated against the US dollar with the Federal Reserve in no hurry to cut the benchmark interest rate which currently stood at 5.50 per cent.
+
+[NEWS_P002] He said March’s NFP rose unexpectedly to 303,000, surpassing economists forecast of 200,000 jobs, according to US Labor Department's Bureau of Labor Statistics last Friday. The labour force participation rate also saw an uptick to 62.7 per cent from 62.5 per cent, suggesting that more Americans are joining the workforce. The unemployment rate also skidded to 3.8 per cent from 3.9 per cent with more people getting employed and receiving a stable paycheck.
+
+[NEWS_P003] "All in all, the NFP data underscore the bullish sentiment in the US dollar against other major currencies. "In the process, the ringgit has depreciated by 0.20 per cent against the US dollar to RM4.7572 as the big (margin) in interest rate differentials is here to stay for a little longer,” he told Bernama. At the close, the ringgit was traded mostly higher against a basket of major currencies except the British pound. It appreciated against the euro to 5.1434/1477 from 5.1437/1470 at Friday’s close, strengthened vis-a-vis the Japanese yen at 3.1278/1306 from 3.1341/1363, but was easier versus the British pound to 5.9980/0030 from 5.9956/9994 previously.
+
+[NEWS_P004] The ringgit was traded mixed against Asean currencies. It was higher versus the Thai baht at 12.9434/12.9596 from 12.9495/12.9641 on Friday and inched up against the Singapore dollar to 3.5202/5234 from 3.5208/5233 previously. The local note slid vis-a-vis the Indonesian rupiah to 299.7/300.1 compared to 299.4/299.8 at Friday’s close and weakened versus the Philippine peso at 8.41/8.42 from 8.39/8.41 previously. - Bernama

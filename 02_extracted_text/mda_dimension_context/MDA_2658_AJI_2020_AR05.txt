@@ -1,0 +1,26 @@
+document_id: MDA_2658_AJI_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 36, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 111.171, "paragraph_count": 36, "paragraph_length_distribution": {"max": 1439, "mean": 229.639, "min": 21}, "repetition_ratio": 0.361111, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Our Business
+History & Milestone
+Ajinomoto (Malaysia) Berhad (“the CompanyȄǼȱ ȱȱę¢Ȭȱ¢ȱȱȱŗşŜŗȱ ȱȱȱȱȱȱȱ
+monosodium glutamate (“MSG”) under the brand, AJI-NO-MOTO®, which was imported from its parent company in Japan. In
+1965, the Company commenced its own production of MSG and subsequently other food seasoning products at its current factory.
+The Company is one of the early Japanese companies to be set up in Malaysia and has since established itself as a responsible and
+dynamic food manufacturer and distributor for a variety of trusted food seasoning products including AJI-NO-MOTO® Umami
+seasoning, a well-established household name.
+[MDA_P010]
+* Inhalation or contact with the body may trigger an allergic
+[MDA_P019]
+Ź Once the bag is opened, use all otherwise tightly seal and
+[MDA_P028]
+* Product is unstable against oxygen and high temperatures,
+[MDA_P036]
+Management Discussion & Analysis (cont’d.)

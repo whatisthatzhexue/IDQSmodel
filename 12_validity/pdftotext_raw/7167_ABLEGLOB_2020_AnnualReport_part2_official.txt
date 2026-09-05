@@ -1,0 +1,3378 @@
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+83
+Notes to the
+Financial Statements
+(Cont’d)
+5. INVESTMENT IN SUBSIDIARIES (CONT’D)
+(b) The non-controlling interests at the end of the reporting period comprise the following:-
+Effective Equity Interest The Group
+			2020 2019 2020 2019
+			 % % RM RM
+					
+AFSB		
+4 4 (154,594) (151,930)
+ADM			 49 49 1,608,952 1,258,230
+				 1,454,358 1,106,300
+(c) The summarised financial information (before intra-group elimination) for the subsidiary that has non-
+controlling interests that are material to the Group is as follows:-
+		ADM
+					2020 2019
+					RM RM
+At 31 December					
+Non-current asset				
+408,699 264,050
+Current assets			 17,506,824 17,129,323
+Non-current liabilities				
+(252,539) (139,262)
+Current liabilities			 (14,379,411) (14,686,295)
+Net assets				
+3,283,573 2,567,816
+Financial year ended 31 December
+Revenue				
+42,374,932 49,381,875
+Profit after tax and total comprehensive
+  income for the financial year			 715,757 1,188,765
+Total comprehensive income attributable to
+  non-controlling interest			 350,721 582,495
+Dividend paid to non-controlling interests			 – 245,000
+Net cash flows (for)/from operating activities			 (220,400) 999,357
+Net cash flows for investing activity			 (3,965) (8,120)
+Net cash flows for financing activities			 (605,625) (40,595)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+84
+Notes to the
+Financial Statements
+(Cont’d)
+6. INVESTMENT IN JOINT VENTURES
+		
+The Group
+					2020 2019
+					RM RM
+Unquoted shares, at cost				 26,492,280 26,419,420
+Share of post acquisition profit/(loss)			 318,634 (183,651)
+Share of post acquisition reserve			 (1,621,963) 256,511
+					
+25,188,951 26,492,280
+(a) The details of the joint ventures are as follows:-
+Name of
+Joint Ventures
+Principal Place of
+Business/ Country
+of Incorporation
+Effective
+Equity
+Interest (%)
+Principal Activities
+2020 2019
+Able Dairies Mexico
+  S.A.P.I. DE C.V.
+ (“ADMX”)
+Mexico 43 43 Manufacture, processing,
+  packaging, distribution,
+  importation and exportation of
+  dairy products		
+Able Packaging S.A.P.I.
+  DE C.V. (“APMX”)
+Mexico 54 54 Manufacturing and sales of
+ containers
+(b) Although the Group holds more than 50% of the voting power in APMX, the Group has determined that
+it does not have sole control over the investee considering that strategic and financial decisions of the
+relevant activities of the investee require unanimous consent by other shareholder.
+(c) The Companies are in a preoperative period preparing the installations to begin these activities in the
+financial year ending 2021.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+85
+Notes to the
+Financial Statements
+(Cont’d)
+6. INVESTMENT IN JOINT VENTURES (Cont’d)
+(d) The summarised financial information for joint ventures that are material to the Group are as follows:-
+		
+ADMX
+					2020 2019
+					RM RM
+						
+At 31 December
+Non-current asset			 71,183,906 52,401,125
+Current assets			 11,683,692 8,792,903
+Current liabilities			 (31,514,379) (7,572,637)
+Net assets			 51,353,219 53,621,391
+Financial year ended 31 December
+(Loss)/Profit after tax and total comprehensive
+  (expense)/income for the financial year			 (2,268,172) 147,364
+Group’s share of profit/(loss) for the financial year		 432,321 (178,837)
+Group’s share of other comprehensive (expense)/income		 (1,410,584) 242,395
+Reconciliation of net assets to carrying amount				
+Group’s share of net assets			 22,148,643 23,126,906
+		
+APMX
+					2020 2019
+					RM RM
+						
+At 31 December
+Non-current asset				
+6,154,762 5,342,519
+Current assets				
+3,015,216 3,340,971
+Current liabilities				
+(3,541,863) (2,453,624)
+Net assets				
+5,628,115 6,229,866
+Financial year ended 31 December
+(Loss) after tax and total comprehensive expense
+  for the financial year				 (601,751) (8,911)
+Group’s share of loss for the financial year			 (113,687) (4,814)
+Group’s share of other comprehensive (expense)/income		 (211,379) 14,116
+Reconciliation of net assets to carrying amount
+Group’s share of net assets			 3,040,308 3,365,374
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+86
+Notes to the
+Financial Statements
+(Cont’d)
+7. PROPERTY, PLANT AND EQUIPMENT
+		 At					
+Depreciation At
+		 1.1.2020 Additions Reclassification Disposal Write off Charges 31.12.2020
+The Group RM RM RM RM RM RM RM
+2020 								
+Carrying Amount								
+Freehold land 21,357,736 – – – – – 21,357,736
+Factory buildings 37,825,388 14,100 – – – (893,886) 36,945,602
+Plant and machinery 43,841,400 629,516 917,450 (30,381) (6,707) (7,707,841) 37,643,437
+Moulds, tools, and factory
+  equipment 632,493 97,419 – – – (107,106) 622,806
+Electrical installations and
+ substation 717,107 – – – – (194,270) 522,837
+Motor vehicles 988,742 – – – – (384,987) 603,755
+Office equipment, furniture
+  and fittings 1,127,461 86,950 – – (104) (221,682) 992,625
+Renovation 3,656,972 10,294 – – – (510,248) 3,157,018
+Capital work-in-progress 17,269,732 5,256,969 (917,450) – – – 21,609,251
+		 127,417,031 6,095,248 – (30,381) (6,811) (10,020,020) 123,455,067
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+87
+Notes to the
+Financial Statements
+(Cont’d)
+7. PROPERTY, PLANT AND EQUIPMENT (CONT’D)
+		 < ----------- 1.1.2019 ----------- >
+		 As Initial			 Transfer to
+		 Previously Application At		 Investment				Depreciation At
+		 Reported of MFRS 16 Restated Additions Property Reclassification Disposal Write off Charges 31.12.2019
+The Group RM RM RM RM RM RM RM RM RM RM
+2019
+Carrying Amount
+Freehold land 21,828,156 – 21,828,156 – (470,420) – – – – 21,357,736
+Leasehold land 43,076 – 43,076 – (43,076) – – – – –
+Factory buildings 39,144,684 – 39,144,684 67,800 (624,036) 127,679 – – (890,739) 37,825,388
+Plant and machinery 39,844,390 – 39,844,390 2,715,669 – 8,442,762 (14,711) – (7,146,710) 43,841,400
+Moulds, tools, and 										
+  factory equipment 952,770 – 952,770 137,342 – – – (138,582) (319,037) 632,493
+Electrical installations 										
+  and substation 897,204 – 897,204 14,800 – – – – (194,897) 717,107
+Motor vehicles 1,083,957 (226,398) 857,559 559,059 – – (51,725) – (376,151) 988,742
+Office equipment, 										
+  furniture and fittings 1,188,838 – 1,188,838 186,057 – 36,681 – (4,166) (279,949) 1,127,461
+Renovation 2,919,448 – 2,919,448 573,267 (128,249) 769,447 – – (476,941) 3,656,972
+Capital work-in-progress 17,236,969 – 17,236,969 9,409,332 – (9,376,569) – – – 17,269,732
+		 125,139,492 (226,398) 124,913,094 13,663,326 (1,265,781) – (66,436) (142,748) (9,684,424) 127,417,031
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+88
+Notes to the
+Financial Statements
+(Cont’d)
+7. PROPERTY, PLANT AND EQUIPMENT (CONT’D)
+			 At Accumulated Accumulated Carrying
+			 Cost Depreciation Impairment Amount
+The Group		RM RM RM RM
+						
+2020 					
+						
+Freehold land 		 21,357,736 – – 21,357,736
+Factory buildings		 44,715,026 (7,769,424) – 36,945,602
+Plant and machinery		 121,157,996 (82,096,804) (1,417,755) 37,643,437
+Moulds, tools, and factory
+  equipment 4,463,737 (3,840,931) – 622,806
+Electrical installations and
+ substation		 3,505,222 (2,982,385) – 522,837
+Motor vehicles		 3,698,397 (3,094,642) – 603,755
+Office equipment, furniture
+  and fittings		 3,931,814 (2,939,189) – 992,625
+Renovation		
+6,804,347 (3,647,329) – 3,157,018
+Capital work-in-progress		 21,609,251 – – 21,609,251
+			231,243,526 (106,370,704) (1,417,755) 123,455,067
+			 At Accumulated Accumulated Carrying
+			 Cost Depreciation Impairment Amount
+The Group		RM RM RM RM
+						
+2019 					
+						
+Freehold land 		 21,357,736 – – 21,357,736
+Leasehold land		 – – – –
+Factory buildings		 44,700,926 (6,875,538) – 37,825,388
+Plant and machinery		 120,234,728 (74,975,573) (1,417,755) 43,841,400
+Moulds, tools, and factory
+  equipment 		 4,366,317 (3,733,824) – 632,493
+Electrical installations and
+  substation		 3,505,222 (2,788,115) – 717,107
+Motor vehicles		 3,698,397 (2,709,655) – 988,742
+Office equipment, furniture
+  and fittings		 3,847,004 (2,719,543) – 1,127,461
+Renovation		 6,794,053 (3,137,081) – 3,656,972
+Capital work-in-progress		 17,269,732 – – 17,269,732
+			 225,774,115 (96,939,329) (1,417,755) 127,417,031
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+89
+Notes to the
+Financial Statements
+(Cont’d)
+7. PROPERTY, PLANT AND EQUIPMENT (CONT’D)
+			At		
+Depreciation At
+			 1.1.2020 Additions Charges 31.12.2020
+The Company		RM RM RM RM
+						
+2020 					
+Carrying Amount
+Office equipment, furniture
+  and fittings		 3,316 6,380 (1,475) 8,221
+			At		
+Depreciation At
+			 1.1.2019 Additions Charges 31.12.2019
+The Company		RM RM RM RM
+						
+2019						
+Carrying Amount
+Office equipment, furniture
+  and fittings		 68,001 – (64,685) 3,316
+				 At Accumulated Carrying
+				 Cost Depreciation Amount
+				RM RM RM
+The Company
+2020
+Office equipment, furniture and fittings		 361,079 (352,858) 8,221
+2019
+Office equipment, furniture and fittings		 354,699 (351,383) 3,316
+(a) The carrying amount of property, plant and equipment pledged as securities for banking facilities are
+as follows:-
+		
+The Group
+					2020 2019
+					RM RM
+Factory building				
+5,122,480 5,260,700
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+90
+Notes to the
+Financial Statements
+(Cont’d)
+8. INVESTMENT PROPERTIES
+					2020 2019
+					RM RM
+Cost:-			
+At 1 January				 1,574,026 –
+Transfer from property, plant and equipment (Note 7)		 – 1,647,326
+Disposal 			 – (73,300)
+At 31 December				 1,574,026 1,574,026
+Accumulated depreciation:-			
+At 1 January 			 419,798 –
+Transfer from property, plant and equipment (Note 7)		 – 381,545
+Depreciation during the financial year			 37,570 38,253
+At 31 December 				 457,368 419,798
+Carrying amount				
+1,116,658 1,154,228
+Represented by:-			
+Freehold land				
+397,120 397,120
+Freehold buildings				
+396,600 414,767
+Leasehold land				
+40,004 41,542
+Leasehold building				
+282,934 300,799
+					
+1,116,658 1,154,228
+Fair value
+At 31 December				 2,200,123 2,200,123
+(a) The fair values of the investment properties are within level 3 of the fair value hierarchy and arrived at by
+reference to market evidence of transaction prices for similar properties and are performed by registered
+valuers having appropriate recognised professional qualification and recent experience in the locations
+and category of properties being valued. The most significant input into this valuation approach is the
+price per square foot of comparable properties. Adjustments are then made for differences in location,
+size, facilities available, market conditions and other factors in order to arrive at a common basis.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+91
+Notes to the
+Financial Statements
+(Cont’d)
+8. INVESTMENT PROPERTIES (CONT’D)
+(b) The carrying amount of investment properties held by the Group as at the end of the reporting period
+are as follows:-
+Name of Properties Description Tenure of Land 2020 2019
+				 RM RM
+41, Jalan Lau Kim Teck, Kluang Industrial land Freehold 211,760 211,760
+		
+41, Jalan Lau Kim Teck, Kluang 1 1/2 storey semi Freehold 94,660 55,109
+		  detached factory 			
+39, Jalan Lau Kim Teck, Kluang Industrial land Freehold 185,360 185,360
+		
+39, Jalan Lau Kim Teck, Kluang 2 storey semi Freehold 301,940 359,658
+		  detached factory
+5, Jalan Masyuri, Kluang Industrial land 60 years lease expiring 40,004 41,542
+			  on 13 April 2046			
+		  (remaining 27 years)
+5, Jalan Masyuri, Kluang 1 1/2 storey 60 years lease expiring 282,934 300,799
+		  detached factory	  on 13 April 2046 		
+		  (remaining 27 years)
+				 1,116,658 1,154,228
+9. RIGHT-OF-USE ASSETS
+					
+Reassessment/ Derecognition
+		 At		 Depreciation Modification of due to Lease At
+		 1.1.2020 Additions charges Leases Modification 31.12.2020
+The Group RM RM RM RM RM RM
+2020						
+Carrying Amount						
+Factories 1,694,979 2,418,097 (888,676) – (1,634,180) 1,590,220
+Warehouse 66,470 72,031 (55,551) 41,274 (19,407) 104,817
+Hostel 94,719 22,765 (63,748) – – 53,736
+Motor vehicles 254,502 814,224 (469,641) – (4,309) 594,776
+		 2,110,670 3,327,117 (1,477,616) 41,274 (1,657,896) 2,343,549
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+92
+Notes to the
+Financial Statements
+(Cont’d)
+9. RIGHT-OF-USE ASSETS (CONT’D)
+		 < --------------- 1.1.2019 --------------- >
+		 As Initial
+		 previously Application As 		 Depreciation At
+		 Reported of MFRS 16 Restated Additions charges 31.12.2019
+The Group RM RM RM RM RM RM
+2019
+Carrying Amount						
+						
+Factories – 2,512,069 2,512,069 – (817,090) 1,694,979
+Warehouse – 64,773 64,773 34,932 (33,235) 66,470
+Hostel – 35,848 35,848 100,293 (41,422) 94,719
+Motor vehicles – 300,986 300,986 73,262 (119,746) 254,502
+		 – 2,913,676 2,913,676 208,487 (1,011,493) 2,110,670
+The Group leases certain factories, warehouse, hostel and motor vehicles of which the leasing activities are
+summarised below:-
+(a) Factories The Group has leased a number of factories that run for 1 to 4 years, with an option
+to renew the lease after that date. Lease payments are increased every 2 years to
+reflect the current market rentals.
+(b) Warehouses The Group has leased a number of warehouses that run for 2 to 3 years, with some
+has an option to renew the lease after that date.
+(c) Hostel The Group has leased a number of hostel that run between 1 to 2 years, with some
+has an option to renew the lease after that date.
+(d) Motor vehicles (i) The Group has leased a number of forklifts for 1 to 4 years.
+(ii) The Group has leased its motor vehicle under hire purchase arrangements with
+lease terms of 5 years. The leases are secured by the leased assets. The Group
+has an option to purchase the asset at an insignificant amount.
+10. OTHER INVESTMENT
+		
+The Group
+					2020 2019
+					RM RM
+Transferable golf club membership, at fair value			 16,500 16,500
+The Group designated its investments in transferable golf club membership at fair value through other
+comprehensive income because the Group intends to hold for long-term strategic purposes.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+93
+Notes to the
+Financial Statements
+(Cont’d)
+11. GOODWILL
+		
+The Group
+					2020 2019
+					RM RM
+At cost:-					
+At 1 January/31 December 			 10,650,327 10,650,327
+(a) The carrying amount of goodwill allocated to cash-generating unit is as follows:-
+		
+The Group
+					2020 2019
+					RM RM
+Food and beverage				 10,650,327 10,650,327
+(b) The Group has assessed the recoverable amounts of goodwill allocated and determined that no
+impairment is required. The recoverable amounts of the cash-generating unit are determined using the
+value in use approach, and this is derived from the present value of the future cash flows from cash-
+generating unit computed based on the projections of financial budgets approved by management
+covering a period of 5 years. The key assumptions used in the determination of the recoverable
+amounts are as follows:-
+Gross Margin Growth Rate Discount Rate
+2020
+%
+2019
+%
+2020
+%
+2019
+%
+2020
+%
+2019
+%
+Food and beverage 19 20 4 4 15 11
+(i) Budget gross margin – Gross margin achieved in financial year immediately before the
+		 budgeted period
+(ii) Growth rate – Based on the expected projections of the food and beverages
+(iii) Discount rate (pre-tax) – Reflect specific risks relating to the relevant cash-generating unit
+The values assigned to the key assumptions represent management’s assessment of future trends in
+the cash-generating units and are based on both external sources and internal historical data.
+(c) The directors believe that there is no reasonable possible change in the above key assumptions applied
+that is likely to materially cause the respective cash-generating unit carrying amount to exceed its
+recoverable amount.
+ 
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+94
+Notes to the
+Financial Statements
+(Cont’d)
+12. INVENTORIES
+		
+The Group
+					2020 2019
+					RM RM
+Raw materials			 59,078,667 59,792,152
+Work-in-progress				
+14,515,667 15,166,159
+Finished goods				
+13,179,540 12,771,665
+Goods-in-transit				
+13,422,738 14,870,483
+Spare parts				
+215,457 274,400
+					
+100,412,069 102,874,859
+Recognised in profit or loss:-					
+Inventories recognised as cost of sales			 404,108,090 472,795,340
+Amount written down to net realisable value			 341,312 177,856
+13. TRADE RECEIVABLES
+		
+The Group
+					2020 2019
+					RM RM
+Trade receivables:-					
+Third parties 			 97,926,202 102,672,384
+Related party				
+2,846,176 2,278,626
+					
+100,772,378 104,951,010
+Impairment losses on receivables		 (8,833,227) (4,888,359)
+				 91,939,151 100,062,651
+Impairment losses on receivables:-
+At 1 January			 4,888,359 10,294,214
+Addition during the financial year 			 4,260,216 3,690,055
+Written off during the financial year 			 – (8,704,973)
+Reversal during the financial year			 (315,348) (390,937)
+At 31 December				 8,833,227 4,888,359
+(a) The Group’s normal trade terms are cash term - 120 days credit (2019: cash term - 120 days credit).
+Other credit terms are assessed and approved on a case-by-case basis.
+(b) Amount owing by a related party is subject to normal credit terms of 30 - 120 days (2019: 30 - 120
+days).
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+95
+Notes to the
+Financial Statements
+(Cont’d)
+14. OTHER RECEIVABLES, DEPOSITS AND PREPAYMENTS
+		
+The Group
+					2020 2019
+					RM RM
+Other receivables:-					
+Third parties 				 372,188 271,447
+Advances to suppliers				 253,277 164,311
+Goods and services tax recoverable			 967,914 1,186,631
+					
+1,593,379 1,622,389
+Deposits				
+5,440,280 1,390,319
+Prepayments				
+1,383,637 60,132
+					
+8,417,296 3,072,840
+(a) The advances to suppliers are unsecured and interest-free. The amount owing will be offset against
+future purchases from the suppliers.
+(b) Included in deposits of the Group is an amount of RM 4,426,066 paid for the refundable earnest
+deposit for the acquisition of a piece of freehold vacant land (Note 46(a)).
+15. AMOUNT OWING BY SUBSIDIARIES
+		
+The Company
+					2020 2019
+					RM RM
+Current					
+Trade balance				
+420,000 896,284
+Non-trade balance				
+– 2,086,536
+					
+420,000 2,982,820
+Trade balance arises from trade transactions, while non-trade balance represents advances, both of which
+are unsecured, interest-free and repayable on demand and are to be settled in cash.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+96
+Notes to the
+Financial Statements
+(Cont’d)
+16. AMOUNT OWING BY JOINT VENTURES
+		
+The Group
+					2020 2019
+					RM RM
+Current					
+Trade balances				
+583,166 –
+Non-trade balances				
+2,472,059 2,507,075
+					
+3,055,225 2,507,075
+(a) The trade balances are subject to normal credit terms of 90 days.
+(b) The non-trade balances represent advances, which are unsecured, interest-free and repayable on
+demand and is to be settled in cash.
+17. DERIVATIVE ASSETS
+		 The Group
+					
+Contract/
+					
+Notional Derivative
+					
+Amount Assets
+					RM RM
+2020 		
+Forward foreign exchange contracts			 18,661,692 743,743
+2019 		
+Forward foreign exchange contracts		 17,919,822 311,736
+The Group does not apply hedge accounting.
+The Group uses forward foreign exchange contracts to manage some of its transaction exposure. These
+contracts are not designated as cash flow or fair value hedges and are entered into for periods consistent
+with currency translation exposure and fair value changes exposure. Such derivatives do not qualify for
+hedge accounting. The settlement dates on forward foreign exchange contracts range between 1 to 12
+(2019: 1 to 12) months after the end of the reporting period.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+97
+Notes to the
+Financial Statements
+(Cont’d)
+18. SHORT-TERM INVESTMENTS
+The Group and The Company
+2020 2019
+			Carrying Market Carrying Market
+			Amount Value Amount Value
+			RM RM RM RM
+Money market fund, at fair value		 7,095,638 7,095,114 7,333,616 7,333,013
+19. DEPOSIT WITH A LICENSED BANK
+As at 31 December 2019, the deposit with a licensed bank of the Group bear effective interest rate of 2.41%
+per annum. The deposit has maturity period of 1 month.
+20. SHARE CAPITAL
+		 The Group and The Company
+			2020 2019 2020 2019
+		 Number of Shares RM RM
+Issued and Fully Paid-Up
+Ordinary Shares
+At 1 January/ 31 December 310,470,986 310,470,986 176,815,544 176,815,544
+The holders of ordinary shares (except treasury shares) are entitled to receive dividends as and when declared
+by the Company, and are entitled to one vote per ordinary share at meetings of the Company. The ordinary
+shares have no par value.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+98
+Notes to the
+Financial Statements
+(Cont’d)
+21. TREASURY SHARES
+		 The Group and
+		 The Company
+		 2020
+					
+Number of
+					
+Shares RM
+At Cost
+At 1 January				 – –
+Buy back 				 2,908,200 4,248,812
+At 31 December				 2,908,200 4,248,812
+During the financial year, the Company has purchased its issued ordinary shares from the open market as
+follow:-
+						
+Average
+						
+purchase
+						
+price per
+		 No. of Cost Highest Lowest share
+		 shares RM RM RM RM
+July 		 338,100 455,153 1.36 1.33 1.34
+August 654,200 851,693 1.32 1.28 1.30
+September 1,373,500 2,119,854 1.60 1.49 1.53
+October 542,400 822,112 1.53 1.51 1.52
+		 2,908,200 4,248,812
+The transactions of share buy back were financed by internally generated funds. The ordinary shares
+purchased are held as treasury shares in accordance with Section 127(6) of the Companies Act 2016. None
+of the treasury shares were cancelled during the financial year.
+Of the total 310,470,986 issued and fully paid ordinary shares at the end of the reporting period, 2,908,200
+ordinary shares are held as treasury shares by the Company. Therefore, the number of outstanding shares in
+issued and fully paid is 307,562,786.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+99
+Notes to the
+Financial Statements
+(Cont’d)
+22. RESERVES
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Non-distributable
+Foreign exchange translation
+ reserve		 (1,365,452) 256,511 – –
+Distributable
+Retained profits		 184,856,482 163,288,577 5,359,255 4,515,412
+At 31 December 183,491,030 163,545,088 5,359,255 4,515,412
+Foreign Exchange Translation Reserve
+The foreign exchange translation reserve arose from the Group’s share of joint ventures’ foreign currency
+translation differences whose functional currencies are different from the Group’s presentation currency.
+23. LEASE LIABILITIES
+		
+The Group
+					2020 2019
+					RM RM
+At 1 January
+  - As previously reported				 2,119,965 –
+  - Initial application of MFRS 16			 – 2,858,825
+  - As restated				 2,119,965 2,858,825
+Acquisition of new leases				 3,327,117 208,487
+Interest expense recognised in profit or loss			 152,538 126,163
+Changes due to lease modification/reassessment			 41,274 –
+Derecognition due to lease modification			 (1,702,657) –
+Repayment of principal				 (1,406,982) (947,347)
+Repayment of interest expense				 (152,538) (126,163)
+At 31 December				 2,378,717 2,119,965
+Analysed by:-
+Current liabilities				
+1,465,395 1,003,681
+Non-current liabilities				
+913,322 1,116,284
+				 2,378,717 2,119,965
+Certain lease liabilities of the Group are secured by the Group’s motor vehicles under the hire purchase
+arrangements as disclosed in Note 9(d)(ii) to the financial statements, with lease terms of 5 years and bear
+effective interest rates of 2.33% (2019: 2.33%) per annum.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+100
+Notes to the
+Financial Statements
+(Cont’d)
+24. LONG-TERM BORROWINGS
+		
+The Group
+					2020 2019
+					RM RM
+Term loans (secured) (Note 31)				 911,796 1,224,876
+25. RETIREMENT BENEFITS
+		
+The Group
+					2020 2019
+					RM RM
+At 1 January 				 666,000 683,000
+Addition during the financial year (Note 33)			 24,139 59,154
+Paid during the financial year				 (24,139) (76,154)
+At 31 December 				 666,000 666,000
+Current 				
+300,000 300,000
+Non-current				
+366,000 366,000
+					
+666,000 666,000
+Retirement benefits represent the Group’s obligation in respect of a non-contributor unfunded retirements
+benefit plan to unionised workers and a Director. The amount as at the end of the reporting period
+approximates the present value of the unfunded obligation.
+Key assumptions used for computing the addition for the year:-
+		
+The Group
+					2020 2019
+					RM RM
+Discount rate				
+3.72% 4.79%
+Annual salary increment per worker		 RM104 RM104
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+101
+Notes to the
+Financial Statements
+(Cont’d)
+26. DEFERRED TAX LIABILITIES/(ASSETS)
+					
+Recognised in
+				 At Profit or Loss At
+				 1.1.2020 (Note 36) 31.12.2020
+				RM RM RM
+The Group
+2020 			
+Deferred Tax Liabilities				
+Property, plant and equipment			 7,528,866 (778,438) 6,750,428
+Right-of-use assets			 467,095 (634,977) (167,882)
+Exchange differences			 (198,569) 125 (198,444)
+Fair value changes on financial instruments		 74,817 103,681 178,498
+			 7,872,209 (1,309,609) 6,562,600
+Deferred Tax Assets				
+Lease liabilities			 (504,913) 667,795 162,882
+Impairment losses on trade receivables		 139,625 (190,605) (50,980)
+Provisions			
+(621,196) 27,094 (594,102)
+				 (986,484) 504,284 (482,200)
+				 6,885,725 (805,325) 6,080,400
+		 < ------------------ 1.1.2019 ------------------ >		
+		 As Initial		 Recognised in
+		 previously Application As Profit or Loss At
+		 Reported of MFRS 16 Restated (Note 36) 31.12.2019
+		 RM RM RM RM RM
+The Group
+2019
+Deferred Tax Liabilities
+Property, plant
+  and equipment 6,826,710 – 6,826,710 702,156 7,528,866
+Right-of-use
+  assets – 668,046 668,046 (200,951) 467,095
+Exchange
+  differences 1,483,665 – 1,483,665 (1,682,234) (198,569)
+Fair value
+  changes on
+ financial
+  instruments (150,360) – (150,360) 225,177 74,817
+		 8,160,015 668,046 8,828,061 (955,852) 7,872,209
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+102
+Notes to the
+Financial Statements
+(Cont’d)
+26. DEFERRED TAX LIABILITIES/(ASSETS) (Cont’d)
+		 < ------------------ 1.1.2019 ------------------ >		
+		 As Initial		 Recognised in
+		 previously Application As Profit or Loss At
+		 Reported of MFRS 16 Restated (Note 36) 31.12.2019
+		 RM RM RM RM RM
+Deferred Tax Assets					
+Lease liabilities – (668,046) (668,046) 163,133 (504,913)
+Impairment
+  losses on trade
+  receivables (214,100) – (214,100) 353,725 139,625
+Provisions (599,247) – (599,247) (21,949) (621,196)
+		 (813,347) (668,046) (1,481,393) 494,909 (986,484)
+		 7,346,668 – 7,346,668 (460,943) 6,885,725
+Presented after appropriate offsetting as follows:-
+		
+The Group
+					2020 2019
+					RM RM
+Deferred tax liabilities before offsetting			 6,562,600 7,872,209
+Offsetting				
+(482,200) (986,484)
+Deferred tax liabilities after offsetting			 6,080,400 6,885,725
+Deferred tax assets before offsetting			 (482,200) (986,484)
+Offsetting				
+482,200 986,484
+Deferred tax assets after offsetting			 – –
+At the end of the reporting period, the Group has unused tax losses, unabsorbed capital allowances and
+other temporary difference (stated at gross) as follows:-
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Unabsorbed tax losses		 3,810,000 3,833,000 3,810,000 3,833,000
+Unabsorbed capital allowances		 374,000 366,000 374,000 366,000
+Other temporary differences		 5,435,000 3,436,000 – –
+			 9,619,000 7,635,000 4,184,000 4,199,000
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+103
+Notes to the
+Financial Statements
+(Cont’d)
+26. DEFERRED TAX LIABILITIES/(ASSETS) (Cont’d)
+The unused tax losses, unabsorbed capital allowances and other temporary difference are available for
+offset against future taxable profits of the subsidiaries in which the losses arose. No deferred tax assets are
+recognised as it is not probable that taxable profits of the Company and subsidiary will be available against
+which the deductible temporary differences can be utilised.
+For Malaysia entities, the unused tax losses are allowed to be utilised for 7 consecutive years of assessment
+while unabsorbed capital allowances are allowed to be carried forward indefinitely.
+27. TRADE PAYABLES
+		
+The Group
+					2020 2019
+					RM RM
+Trade payables:-					
+Third parties 				 33,186,299 35,481,438
+Related party			 609,368 174,816
+					
+33,795,667 35,656,254
+(a) The Group’s normal trade terms granted to the company are cash term - 90 days credit (2019: cash
+term - 90 days credit).
+(b) The trade term for amount owing to a related party is cash term (2019: cash term).
+28. OTHER PAYABLES AND ACCRUALS
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Other payables:-
+Third parties 6,869,873 6,629,105 28,565 31,483
+Related party		 32,450 20,090 – –
+Sales and services tax payable		 2,821 12,296 – –
+		 6,905,144 6,661,491 28,565 31,483
+Deposits received 2,131,801 1,984,198 – –
+Accrued expenses		 4,670,152 2,084,955 439,000 534,640
+Payroll liabilities		 6,119,556 6,760,652 75,181 92,833
+			 19,826,653 17,491,296 542,746 658,956
+(a) The amount owing to related party is unsecured, interest-free and repayable on demand.
+(b) Included in other payables of the Group is an amount of RM1,792,032 (2019: RM529,051) payable for
+the purchase of property, plant and equipment (Note 39 (a)).
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+104
+Notes to the
+Financial Statements
+(Cont’d)
+29. AMOUNT OWING TO DIRECTORS
+The amount owing to directors are unsecured, interest-free advances and payment made on behalf. The
+amount owing is repayable on demand and is to be settled in cash.
+30. SHORT-TERM BORROWINGS
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Bankers’ acceptances 1,764,000 2,859,000 – –
+Bank overdraft		 – 807,773 – –
+Bills payable		 – 4,857,040 – –
+Foreign currency trust receipts		 26,842,438 19,489,107 – –
+Revolving credit		 12,437,140 17,480,675 6,000,000 2,400,000
+Term loans (Note 31)		 656,580 629,777 – –
+			 41,700,158 46,123,372 6,000,000 2,400,000
+Bankers’ acceptances, bank overdraft, bills payable, foreign currency trust receipts and revolving credit
+are drawn for period ranging from 30 days to 180 days (2019: 30 days to 180 days) and bore interest rates
+ranging from 0.65% to 4.65% (2019: 1.94% to 7.47%) per annum.
+Bankers’ acceptances, bank overdraft, bills payable, foreign currency trust receipts, revolving credit and
+term loans are secured by way of:-
+(a) First party legal charges over factory building of the Group as disclosed in Note 7(a) to the financial
+statements; and
+(b) Corporate guarantees from the Company.
+31. TERM LOANS (SECURED)
+		
+The Group
+					2020 2019
+					RM RM
+Current liabilities				
+656,580 629,777
+Non-current liabilities				
+911,796 1,224,876
+					
+1,568,376 1,854,653
+(a) The term loans are secured by a first party legal charge over the Group’s factory building disclosed in
+Note 7(a) to the financial statements.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+105
+Notes to the
+Financial Statements
+(Cont’d)
+31. TERM LOANS (SECURED) (Cont’d)
+(b) The interest rate profile of the term loans are summarised below:-
+		
+The Group
+					2020 2019
+					% %
+Floating rate term loans 				 3.72 4.72
+32. REVENUE
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Sales of tins and cans		 115,384,486 131,113,447 – –
+Sales of dairies products		 386,875,238 448,672,478 – –
+Dividends income		 – – 19,469,592 19,831,452
+Management fee income		 – – 390,000 390,000
+			502,259,724 579,785,925 19,859,592 20,221,452
+The information on the disaggregation of revenue is disclosed in Note 42 to the financial statements.
+33. EMPLOYEE BENEFITS
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Short-term employee benefits		 35,997,532 36,899,207 421,588 810,658
+Contribution to a defined
+  contribution plan		 2,549,029 2,535,429 50,349 69,595
+Directors’ fee		 899,000 1,077,000 385,000 387,000
+Addition to a non-contributory
+  unfunded retirement benefit
+  plan (Note 25) 24,139 59,154 – –
+			 39,469,700 40,570,790 856,937 1,267,253
+Included in employee benefits is key management personnel compensation as disclosed in Note 40 to the
+financial statements.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+106
+Notes to the
+Financial Statements
+(Cont’d)
+34. NET IMPAIRMENT LOSS ON FINANCIAL ASSETS
+		
+The Group
+					2020 2019
+					RM RM
+Impairment losses:-
+  - trade receivables (Note 13)				 4,260,216 3,690,055
+Reversal of impairment losses:-
+  - trade receivables (Note 13)				 (315,348) (390,937)
+					
+3,944,868 3,299,118
+35. PROFIT BEFORE TAX
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Profit before tax is arrived at after
+ charging:-
+Auditors’ remuneration:-
+- Audit fees:-
+  - current financial year 216,000 220,500 42,000 42,000
+  - overprovision in previous
+  financial year		 (5,000) (3,500) – –
+- Non audit fees:-
+  - current financial year 5,000 5,000 5,000 5,000
+Compensation for damage
+  and loss		 165 1,180 – –
+Depreciation:-
+  - property, plant and equipment 10,020,020 9,684,424 1,475 64,685
+  - investment properties 37,570 38,253 – –
+  - right-of-use assets 1,477,616 1,011,493 – –
+Inventories written down 341,312 177,856 – –
+Interest expense 1,383,535 2,287,770 306 236,428
+Loss on foreign exchange:-
+- realised		 2,103,909 162,825 – –
+- unrealised		 6,449 927,994 – –
+Property, plant and equipment
+  written off		 6,811 142,748 – –
+Short-term leases		 38,739 407,530 – –
+Share of loss of joint ventures		 – 183,651 – –
+Rental expenses on:-
+- premises 209,248 370,259 – –
+- office equipment 		 9,710 10,860 – –
+- factory equipment 1,686,385 1,495,413 – –
+- transport		 840 1,290 – –
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+107
+Notes to the
+Financial Statements
+(Cont’d)
+35. PROFIT BEFORE TAX (CONT’D)
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+And (crediting):-
+Gain on disposal of property,
+  plant and equipment 		 (805,401) (789,493) – –
+Gain on disposal of investment
+ property		 – (286,700) – –
+Gain on reassessment/
+  modification of leases (44,761) – – –
+Interest income		 (825,787) (900,828) (259,947) (365,180)
+Insurance claim		 (30,457) (58,083) – –
+Fair value gain on financial
+  assets measured at fair
+  value through profit or loss
+ mandatorily
+- Derivatives		 (432,007) (1,212,881) – –
+Share of profit of joint venture (318,634) – – –
+36. INCOME TAX EXPENSE
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Income tax:-
+- current financial year 14,654,372 13,873,000 – –
+- overprovision in the
+  previous financial year		 (464,317) (1,112,716) – –
+- real property gain tax		 – 29,100 – –
+			 14,190,055 12,789,384 – –
+Deferred tax (Note 26):-
+- (reversal)/origination of
+   temporary differences 		 (266,311) 135,290 – –
+- overprovision in the previous 				
+   financial year 		 (539,014) (596,233) – –
+			 (805,325) (460,943) – –
+Total income tax expense 13,384,730 12,328,441 – –
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+108
+Notes to the
+Financial Statements
+(Cont’d)
+36. INCOME TAX EXPENSE (CONT’D)
+A reconciliation of income tax expense applicable to the profit before tax at the statutory tax rate to income
+tax expense at the effective tax rate of the Group and the Company are as follows:-
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Profit before tax 53,222,772 60,522,111 18,765,922 18,473,400
+Tax at the statutory tax rate
+  of 24% 12,772,686 14,525,007 4,503,821 4,433,616
+Tax effect of:-
+Non-taxable income		 (45,000) (21,400) (4,672,702) (4,759,548)
+Non-deductible expenses 1,472,513 1,210,994 168,881 229,932
+Share of results in joint ventures (76,472) 44,076 – –
+Deferred tax assets not
+  recognised during the financial
+  year 		 488,000 233,400 – 96,000
+Tax incentive utilised		 (167,266) (1,314,687) – –
+Utilisation of deferred tax assets		
+  previously not recognised		 (56,400) (640,000) – –
+Overprovision in the previous
+  financial year:-
+- Income tax 		 (464,317) (1,112,716) – –
+- Deferred tax (539,014) (596,233) – –
+			 13,384,730 12,328,441 – –
+Domestic income tax is calculated at the Malaysian statutory tax rate of 24% (2019: 24%) of the estimated
+assessable profit for the financial year. The taxation of other jurisdictions is calculated at the rates prevailing
+in the respective jurisdiction.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+109
+Notes to the
+Financial Statements
+(Cont’d)
+37. EARNINGS PER ORDINARY SHARE
+Basic earnings per ordinary share is calculated by dividing the profit after tax attributable to owners of the
+Company by the weighted average number of ordinary shares in issue during the financial year, excluding
+treasury shares held by the Company.
+		
+The Group
+					2020 2019
+					RM RM
+Profit attributable to owners of the Company			 39,489,984 47,482,352
+Weighted average number of ordinary shares in issue 307,562,786 310,470,986
+Basic earnings per ordinary share (sen)			 12.84 15.29
+The Company has not issued any dilutive potential ordinary shares and hence, the diluted earnings per share
+is equal to the basic earnings per share.
+38. DIVIDENDS
+		 The Group and
+		 The Company
+					2020 2019
+					RM RM
+In respect of the financial year ended 31 December 2018
+- Fourth interim dividend of 2 sen per ordinary share 		 – 6,209,420
+In respect of the financial year ended 31 December 2019
+- First interim dividend of 1.5 sen per ordinary share		 – 4,657,063
+- Second interim dividend of 1.5 sen per ordinary share 		 – 4,657,063
+- Third interim dividend of 2 sen per ordinary share			 – 6,209,420
+				
+- Fourth interim dividend of 1.4 sen per ordinary share 		 4,346,591 –
+In respect of the financial year ended 31 December 2020
+- First interim dividend of 0.7 sen per ordinary share		 2,173,296 –
+- Second interim dividend of 1.7 sen per ordinary share 		 5,250,936 –
+- Third interim dividend of 2 sen per ordinary share			 6,151,256 –
+					
+17,922,079 21,732,966
+A fourth interim dividend of 1 sen per ordinary share amounting to RM3,104,710 in respect of the financial
+year ended 31 December 2020 was declared on 19 March 2021 and subsequently paid 30 April 2021. The
+payment made to shareholders whose name appeared in the Company’s Record Depositors on 9 April 2021.
+The financial statements for the current financial year do not reflect this interim dividend. Such dividend will
+be accounted for in equity as an appropriation of retained profits in the financial year ending 31 December
+2021.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+110
+Notes to the
+Financial Statements
+(Cont’d)
+39. CASH FLOW INFORMATION
+(a) The cash disbursed for the purchase of property, plant and equipment and the addition of right-of-use
+assets is as follows:-
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Property, plant and equipment
+Cost of property, plant and
+  equipment purchased 6,095,248 13,663,326 6,380 –
+Less: Prepayments made in
+   previous financial year (3,088,630) (416,771) – –
+Less: Unpaid balance included
+   in sundry payables
+   (Note 28) (1,792,032) (529,051) – –
+Add: Cash paid in respect of
+   acquisition in previous
+   financial year		 430,812 735,735 – –
+			 1,645,398 13,453,239 6,380 –
+		
+The Group
+					2020 2019
+					RM RM
+			
+Right-of-use assets
+Cost of right-of-use assets acquired		 3,327,117 208,487
+Less: Addition of new lease liabilities			 (3,327,117) (208,487)
+					
+– –
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+111
+Notes to the
+Financial Statements
+(Cont’d)
+39. CASH FLOW INFORMATION (CONT’D)
+(b) The reconciliations of liabilities arising from financing activities are as follows:-
+		 Foreign
+		 Currency
+		 Trust Bankers’ Bills Revolving Lease
+		 Receipt Acceptances Payable Credit Liabilities Term Loans Total
+The Group RM RM RM RM RM RM RM
+								
+2020								
+								
+At 1 January 19,489,107 2,859,000 4,857,040 17,480,675 2,119,965 1,854,653 48,660,440
+								
+Changes in Financing Cash Flows
+Proceeds from
+ drawdown 97,055,174 6,945,000 7,061,973 35,920,733 – – 146,982,880
+Repayment of principal (89,239,423) (8,040,000) (12,020,473) (40,831,864) (1,406,982) (286,277) (151,825,019)
+Repayment of interest (704,832) (110,450) – (330,840) (152,538) (68,629) (1,367,289)
+		 7,110,919 (1,205,450) (4,958,500) (5,241,971) (1,559,520) (354,906) (6,209,428)
+Non-cash Changes								
+Foreign exchange
+ adjustment (462,420) – 101,460 (132,404) – – (493,364)
+Acquisition of new lease – – – – 3,327,117 – 3,327,117
+Changes due to lease
+ modification – – – – 41,274 – 41,274
+Derecognition due to
+  lease modification – – – – (1,702,657) – (1,702,657)
+Interest expense
+ 
+recognised in								
+  profit or loss 704,832 110,450 – 330,840 152,538 68,629 1,367,289
+		 242,412 110,450 101,460 198,436 1,818,272 68,629 2,539,659
+At 31 December 26,842,438 1,764,000 – 12,437,140 2,378,717 1,568,376 44,990,671
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+112
+Notes to the
+Financial Statements
+(Cont’d)
+39. CASH FLOW INFORMATION (CONT’D)
+(b) The reconciliations of liabilities arising from financing activities are as follows (Cont’d):-
+		
+		 Foreign
+		 Currency				
+Hire
+		 Trust Bankers’ Bills Revolving Purchase Lease Term
+		 Receipt Acceptances Payable Credit Payables Liabilities Loans Total
+The Group RM RM RM RM RM RM RM RM
+2019
+At 1 January, as previously reported 19,947,586 – – 9,800,000 208,031 – 2,456,240 32,411,857
+Effects on adoption of MFRS 16 – – – – (171,547) 2,858,825 – 2,687,278
+At 1 January, as restated 19,947,586 – – 9,800,000 36,484 2,858,825 2,456,240 35,099,135
+								
+Changes in Financing Cash Flows								
+Proceeds from drawdown 108,509,894 2,859,000 4,958,500 26,421,390 – – – 142,748,784
+Repayment of principal (108,868,985) – – (18,709,785) (36,484) (947,347) (601,587) (129,164,188)
+Repayment of interest (1,041,300) (53,368) – (942,133) (555) (126,163) (108,225) (2,271,744)
+		 (1,400,391) 2,805,632 4,958,500 6,769,472 (37,039) (1,073,510) (709,812) 11,312,852
+Non-cash Changes								
+Foreign exchange adjustment (99,388) – (101,460) (30,930) – – – (231,778)
+Acquisition of new lease – – – – – 208,487 – 208,487
+Interest expense recognised in								
+  profit or loss 1,041,300 53,368 – 942,133 555 126,163 108,225 2,271,744
+		 941,912 53,368 (101,460) 911,203 555 334,650 108,225 2,248,453
+At 31 December 19,489,107 2,859,000 4,857,040 17,480,675 – 2,119,965 1,854,653 48,660,440
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+113
+Notes to the
+Financial Statements
+(Cont’d)
+39. CASH FLOW INFORMATION (CONT’D)
+(b) The reconciliations of liabilities arising from financing activities are as follows (Cont’d):-
+					
+Revolving
+					
+Credit Total
+The Company				RM RM
+			
+2020			
+			
+At 1 January				 2,400,000 2,400,000
+			
+Changes in Financing Cash Flows			
+Proceeds from drawdown				 6,000,000 6,000,000
+Repayment of principal				 (2,400,000) (2,400,000)
+Repayment of interest				 (306) (306)
+		 			 3,599,694 3,599,694
+Non-cash Changes			
+Interest expense recognised in profit or loss			 306 306
+At 31 December				 6,000,000 6,000,000
+2019 		
+			
+At 1 January				 6,200,000 6,200,000
+			
+Changes in Financing Cash Flows			
+Proceeds from drawdown				 2,400,000 2,400,000
+Repayment of principal				 (6,200,000) (6,200,000)
+Repayment of interest				 (236,428) (236,428)
+					 (4,036,428) (4,036,428)
+Non-cash Changes			
+Interest expense recognised in profit or loss			 236,428 236,428
+At 31 December				 2,400,000 2,400,000
+(c) The total cash outflows for leases as a lessee are as follows:-
+		
+The Group
+					2020 2019
+					RM RM
+Payment of short-term leases			 38,739 407,530
+Interest paid on lease liabilities			 152,538 126,163
+Payment of lease liabilities				 1,406,982 947,347
+					
+1,598,259 1,481,040
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+114
+Notes to the
+Financial Statements
+(Cont’d)
+39. CASH FLOW INFORMATION (CONT’D)
+(d) The cash and cash equivalents comprise the followings:-
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Cash and bank balances 94,290,040 68,611,265 19,418,035 7,538,337
+Deposit with a licensed bank – 23,470 – –
+Bank overdraft – (807,773) – –
+Money market funds 7,095,638 7,333,616 7,095,638 7,333,616
+		 101,385,678 75,160,578 26,513,673 14,871,953
+Less: Earmarked bank
+    
+balance 		 (8,987) (8,987) – –
+		 101,376,691 75,151,591 26,513,673 14,871,953
+The bank balance of RM8,987 (2019: RM8,987) is earmarked by bank for settlement of borrowings.
+40. KEY MANAGEMENT PERSONNEL COMPENSATION
+The key management personnel of the Group and of the Company are executive directors and non-executive
+directors of the Group and of the Company.
+The key management personnel compensation during the financial year are as follows:-
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Directors of the Company
+Executive directors:-
+Short-term employee benefits:-
+- fees 		 584,000 762,000 90,000 92,000
+- salaries, bonuses and
+  other benefits		 2,941,019 3,242,281 – 370,000
+			 3,525,019 4,004,281 90,000 462,000
+Defined contribution plan 353,920 361,680 – 19,200
+			 3,878,939 4,365,961 90,000 481,200
+Benefits-in-kind		
+69,800 69,800 – –
+Non-executive directors:-
+Short-term employee benefits:-
+- fees 295,000 295,000 295,000 295,000
+			 4,243,739 4,730,761 385,000 776,200
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+115
+Notes to the
+Financial Statements
+(Cont’d)
+40. KEY MANAGEMENT PERSONNEL COMPENSATION (Cont’d)
+The key management personnel compensation during the financial year are as follows:- (Cont’d)
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Directors of the Subsidiaries
+Executive directors:-
+Short-term employee benefits:-
+- salaries, bonuses and
+  other benefits 1,574,739 1,725,189 – –
+Defined contribution plan 92,280 81,340 – –
+Defined benefit retirement plan		 – 150,000 – –
+			 1,667,019 1,956,529 – –
+Benefits-in-kind		
+41,350 41,350 – –
+Non-executive directors:-
+Short-term employee benefits:-
+- fees 		 20,000 20,000 – –
+			 1,728,369 2,017,879 – –
+Total directors’ remuneration 		 5,972,108 6,748,640 385,000 776,200
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+116
+Notes to the
+Financial Statements
+(Cont’d)
+41. RELATED PARTY DISCLOSURES
+(a) Identities of Related Parties
+Parties are considered to be related to the Group if the Group or the Company has the ability, directly or
+indirectly, to control or jointly control the party or exercise significant influence over the party in making
+financial and operating decisions, or vice versa, or where the Group or the Company and the party are
+subject to common control.
+In addition to the information detailed elsewhere in the financial statements, the Group has related
+party relationships with its directors, key management personnel and entities within the same group of
+companies.
+(b) Significant Related Party Transaction and Balances
+Other than those disclosed elsewhere in the financial statements, the Group and the Company also
+carried out the following significant transactions with the related parties during the financial year:-
+		
+The Company
+					2020 2019
+					RM RM
+Subsidiaries					
+Dividends received/receivable from subsidiaries		 19,469,592 19,831,452
+Management fee receivable			 390,000 390,000
+		
+The Group
+					2020 2019
+					RM RM
+Company in which a director has substantial
+  financial interest 				
+Sales of goods 			 (7,451,868) (6,874,263)
+Purchase of goods 				 1,138,644 714,369
+Rental expense				
+5,700 6,450
+					
+Director					
+Payment of short term lease			 – 8,400
+Person Connected to Director
+Interest paid on lease liabilities		 81,064 73,695
+Payment of lease liabilities				 600,056 545,505
+The significant outstanding balances of the related parties together with their terms and conditions are
+disclosed in the respective notes to the financial statements.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+117
+Notes to the
+Financial Statements
+(Cont’d)
+42. OPERATING SEGMENTS
+Operating segments are prepared in a manner consistent with the internal reporting provided to the Group
+Chief Executive Officer as its chief operating decision maker in order to allocate resources to segments and
+to assess their performance on a quarterly basis. For management purposes, the Group is organised into
+business units based on their products and services provided.
+The Group is organised into the 3 main reportable segments as follows:-
+• Investment Holding – involved in the business of investment holding and provision of   management
+services
+• Tin Manufacturing – involved in the manufacturing of various tins, cans and other containers                          
+• Food and Beverage – involved in manufacturing and selling of milk and other related dairy products
+(a) The Group Chief Executive Officer assesses the performance of the reportable segments based on
+their profit before interest expense and taxation. The accounting policies of the reportable segments
+are the same as the Group’s accounting policies.
+(b) Each reportable segment assets is measured based on all assets (including goodwill) of the segment
+other than tax-related assets.
+(c) Each reportable segment liabilities is measured based on all liabilities of the segment other than
+borrowings and tax-related liabilities.
+(d) Assets, liabilities and expenses which are common and cannot be meaningfully allocated to the
+reportable segments are presented under unallocated items. Unallocated items comprise mainly
+corporate assets (primarily the Company’s headquarters) and head office expenses.
+Transfer prices between operating segments are at arm’s length basis in a manner similar to transactions
+with third parties. The effects of such inter-segment transactions are eliminated on consolidation.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+118
+Notes to the
+Financial Statements
+(Cont’d)
+42. OPERATING SEGMENTS (Cont’d)
+BUSINESS SEGMENTS (CONT’D)
+		 		 Tin Food &
+				Manufacturing Beverage Group
+				RM RM RM
+2020				
+				
+Revenue				
+External revenue		 119,128,440 429,342,827 548,471,267
+Inter-segment revenue			 21,259,568 – 21,259,568
+Total revenue			 140,388,008 429,342,827 569,730,835
+Consolidation adjustments 				 (67,471,111)
+Consolidated revenue					
+502,259,724
+Represented by:-				
+Revenue recognised at a point in time				
+- Sales of tins and cans		 140,388,008 – 140,388,008
+- Sales of dairies products			 – 429,342,827 429,342,827
+		 		 140,388,008 429,342,827 569,730,835
+Consolidation adjustments 				 (67,471,111)
+Consolidated revenue				 502,259,724
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+119
+Notes to the
+Financial Statements
+(Cont’d)
+42. OPERATING SEGMENTS (Cont’d)
+BUSINESS SEGMENTS (CONT’D)
+			 Investment Tin Food &
+			 Holding Manufacturing Beverage Group
+			RM RM RM RM
+2020				
+				
+Results				
+Segment profit 20,119,539 14,690,852 41,476,700 76,287,091
+Finance costs				 (1,689,435)
+Unallocated expenses					
+(1,353,311)
+Consolidation adjustments				 (20,021,573)
+Consolidated profit before tax				 53,222,772
+Segment profit includes the following:-				
+Depreciation on:-				
+  - property, plant and equipment 1,475 4,759,588 5,258,957 10,020,020
+  - investment properties		 – 37,570 – 37,570
+  - right-of-use assets		 – 1,332,478 145,138 1,477,616
+Fair value gain on financial
+ instruments		 – – (432,007) (432,007)
+Interest income		 (259,947) (162,786) (403,054) (825,787)
+Impairment losses on trade
+ receivables		 – 825,863 3,119,005 3,944,868
+(Gain)/Loss on disposal of				
+  property, plant and equipment – (820,395) 14,994 (805,401)
+Inventories written down – 341,312 – 341,312
+Share of gain of joint ventures – – (318,634) (318,634)
+Unrealised (gain)/loss on foreign
+ exchange		 – 287,800 (281,351) 6,449
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+120
+Notes to the
+Financial Statements
+(Cont’d)
+42. OPERATING SEGMENTS (Cont’d)
+BUSINESS SEGMENTS (CONT’D)
+			 Investment Tin Food &
+			 Holding Manufacturing Beverage Group
+			RM RM RM RM
+2020
+Assets				
+Segment assets 190,551,523 169,742,432 318,957,202 679,251,157
+Unallocated assets:-				
+- investment in joint ventures					 25,188,951
+- property, plant and equipment 					 8,221
+- current tax assets					 60,245
+Consolidation adjustments				 (234,138,246)
+Consolidated total assets				 470,370,328
+Additions to non-current assets
+  other than financial instruments:-		
+- property, plant and equipment 6,380 3,165,806 2,923,062 6,095,248
+- right-of-use assets		 – 3,197,619 129,498 3,327,117
+Liabilities				
+Segment liabilities		 6,694,002 27,054,906 152,962,490 186,711,398
+Unallocated liabilities:-				
+- revolving credit 				 6,000,000
+Consolidation adjustments				 (79,853,190)
+Consolidated total liabilities					
+112,858,208
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+121
+Notes to the
+Financial Statements
+(Cont’d)
+42. OPERATING SEGMENTS (Cont’d)
+BUSINESS SEGMENTS (CONT’D)
+		 		 Tin Food &
+				Manufacturing Beverage Group
+				RM RM RM
+2019
+Revenue				
+External revenue			 133,998,487 496,346,995 630,345,482
+Inter-segment revenue			 19,836,124 – 19,836,124
+Total revenue			 153,834,611 496,346,995 650,181,606
+Consolidation adjustments 					 (70,395,681)
+Consolidated revenue					
+579,785,925
+Represented by:-				
+Revenue recognised at a point in time				
+- Sales of tins and cans			 153,834,611 – 153,834,611
+- Sales of dairies products			 – 496,346,995 496,346,995
+				 153,834,611 496,346,995 650,181,606
+Consolidation adjustments 					 (70,395,681)
+Consolidated revenue					
+579,785,925
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+122
+Notes to the
+Financial Statements
+(Cont’d)
+42. OPERATING SEGMENTS (Cont’d)
+BUSINESS SEGMENTS (CONT’D)
+			 Investment Tin Food &
+			 Holding Manufacturing Beverage Group
+			RM RM RM RM
+2019
+Results				
+Segment profit		 20,586,632 18,675,016 45,976,778 85,238,426
+Finance costs					
+(2,742,187)
+Unallocated expenses					
+(1,876,804)
+Consolidation adjustments					
+(20,097,324)
+Consolidated profit before tax					 60,522,111
+Segment profit includes the following:-			
+Depreciation on:-				
+- property, plant and equipment 64,685 4,755,925 4,863,814 9,684,424
+- investment properties		 – 38,253 – 38,253
+- right-of-use assets		 – 910,973 100,520 1,011,493
+Fair value gain on financial
+  instruments 		 – – (1,212,881) (1,212,881)
+Interest income		 (365,180) (136,667) (398,981) (900,828)
+Impairment losses on trade
+  receivables – 27,585 3,271,533 3,299,118
+(Gain) on disposal of 				
+  investment property – (286,700) – (286,700)
+(Gain)/Loss on disposal of					
+  property, plant and equipment		 – (799,169) 9,676 (789,493)
+Inventories written down		 – 177,856 – 177,856
+Share of loss of joint ventures		 – – 183,651 183,651
+Unrealised (gain)/loss on foreign
+  exchange – (79,328) 1,007,322 927,994
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+123
+Notes to the
+Financial Statements
+(Cont’d)
+42. OPERATING SEGMENTS (Cont’d)
+BUSINESS SEGMENTS (CONT’D)
+			 Investment Tin Food &
+			 Holding Manufacturing Beverage Group
+			RM RM RM RM
+2019
+Assets				
+Segment assets 184,353,852 171,053,827 318,753,608 674,161,287
+Unallocated assets:-				
+- investment in joint ventures				 26,492,280
+- property, plant and equipment 					 3,316
+- current tax assets					 32,744
+Consolidation adjustments					
+(247,213,204)
+Consolidated total assets					 453,476,423
+Additions to non-current assets
+  other than financial instruments:-				
+- property, plant and equipment 		 – 2,410,540 11,252,786 13,663,326
+- right-of-use assets		 – 100,293 – 100,293
+Liabilities				
+Segment liabilities 658,956 35,747,359 169,136,929 205,543,244
+Unallocated liabilities:-				
+- revolving credit 					 2,400,000
+Consolidation adjustments					
+(95,933,753)
+Consolidated total liabilities				 112,009,491
+GEOGRAPHICAL INFORMATION
+Revenue is based on the country in which the customers are located.
+Non-current assets are determined according to the country where these assets are located. The amounts
+of non-current assets do not include financial instruments and deferred tax assets (but including investment
+in joint ventures).
+Revenue Non-current Assets
+			2020 2019 2020 2019
+			RM RM RM RM
+Africa 77,472,123 130,717,193 – –
+Asia			 190,431,251 196,258,637 – –
+Central America 80,057,780 54,983,991 – –
+Europe 5,151,148 600,534 – –
+Mexico		
+– – 25,188,951 26,492,280
+Malaysia		
+148,564,256 193,355,919 137,582,101 141,348,756
+Others 583,166 3,869,651 – –
+			502,259,724 579,785,925 162,771,052 167,841,036
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+124
+Notes to the
+Financial Statements
+(Cont’d)
+42. OPERATING SEGMENTS (Cont’d)
+BUSINESS SEGMENTS (CONT’D)
+GEOGRAPHICAL INFORMATION (CONT’D)
+The information on the disaggregation of revenue based on geographical region is summarised below:-
+		Group
+		 At a Point in Time
+					2020 2019
+					RM RM
+Africa			 77,472,123 130,717,193
+Asia				 190,431,251 196,258,637
+Central America			 80,057,780 54,983,991
+Europe				
+5,151,148 600,534
+Malaysia				
+148,564,256 193,355,919
+Others				
+583,166 3,869,651
+					
+502,259,724 579,785,925
+MAJOR CUSTOMERS
+There is no single customer that contributed 10% or more to the Group’s revenue.
+43. CAPITAL COMMITMENTS
+		
+The Group
+					2020 2019
+					RM RM
+Purchase of property, plant and equipment			 45,456,579 4,957,336
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+125
+Notes to the
+Financial Statements
+(Cont’d)
+44. CONTINGENT LIABILITIES
+No provision is recognised on the following matters as it is not probable that a future sacrifice of economic
+benefits will be required or the amount is not capable of reliable measurement:-
+		
+The Company
+					2020 2019
+					RM RM
+Deed of guarantee given to suppliers for products sold to
+ 
+subsidiaries				
+1,529,015 3,238,503
+45. FINANCIAL INSTRUMENTS
+The Group’s activities are exposed to a variety of market risk (including foreign currency risk, interest rate
+risk and equity price risk), credit risk and liquidity risk. The Group’s overall financial risk management policy
+focuses on the unpredictability of financial markets and seeks to minimise potential adverse effects on the
+Group’s financial performance.
+45.1 FINANCIAL RISK MANAGEMENT POLICIES
+The Group’s policies in respect of the major areas of treasury activity are as follows:-
+(a) Market Risk
+(i) Foreign Currency Risk
+The Group is exposed to foreign currency risk on transactions and balances that are
+denominated in currencies other than Ringgit Malaysia (“RM”). The currencies giving rise
+to this risk are primarily United States Dollar (“USD”), Euro (“EUR”) and Singapore Dollar
+(“SGD”). Foreign currency risk is monitored closely on an ongoing basis to ensure that the
+net exposure is at an acceptable level. On occasion, the Company enters into forward
+foreign currency contracts to hedge against its foreign currency risk. The Group also holds
+cash and cash equivalents denominated in foreign currencies for working capital purposes.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+126
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(a) Market Risk (Cont’d)
+(i) Foreign Currency Risk (Cont’d)
+The Group’s exposure to foreign currency risk (a currency which is other than the functional currency of the entities within the Group)
+based on the carrying amounts of the financial instruments at the end of the reporting period is summarised below:-
+		
+Foreign Currency Exposure
+		 USD SGD EUR Others RM TOTAL
+The Group RM RM RM RM RM RM
+2020						
+Financial Assets						
+Trade receivables 51,732,845 1,957,568 275,403 – 37,973,335 91,939,151
+Amount owing by joint ventures 3,055,225 – – – – 3,055,225
+Cash and bank balances 42,029,377 2,821,946 3,033,606 4,739 46,400,372 94,290,040
+Derivative assets 743,743 – – – – 743,743
+		 97,561,190 4,779,514 3,309,009 4,739 84,373,707 190,028,159
+Financial Liabilities						
+Trade payables 9,592,468 255,625 226,064 – 23,721,510 33,795,667
+Other payables and accruals 565,814 40,535 – 22,738 17,062,944 17,692,031
+Borrowings 33,279,578 – – – 9,332,376 42,611,954
+		 43,437,860 296,160 226,064 22,738 50,116,830 94,099,652
+Net financial assets 54,123,330 4,483,354 3,082,945 (17,999) 34,256,877 95,928,507
+Less: Net financial (assets)						
+   denominated in the
+   
+respective entities’						
+   functional currency – – – – (34,256,877) (34,256,877)
+Less: Forward foreign exchange
+   contracts (contracted
+   notional principal) (18,661,692) – – – – (18,661,692)
+Currency exposure 35,461,638 4,483,354 3,082,945 (17,999) – 43,009,938
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+127
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(a) Market Risk (Cont’d)
+(i) Foreign Currency Risk (Cont’d)
+		
+Foreign Currency Exposure (Cont’d)
+		 USD SGD EUR Others RM TOTAL
+The Group RM RM RM RM RM RM
+2019
+Financial Assets						
+Trade receivables 53,260,926 2,960,588 819,160 – 43,021,977 100,062,651
+Amount owing by joint ventures 2,507,075 – – – – 2,507,075
+Cash and bank balances 31,203,947 679,578 435,894 4,690 36,287,156 68,611,265
+Derivative assets 311,736 – – – – 311,736
+		 87,283,684 3,640,166 1,255,054 4,690 79,309,133 171,492,727
+Financial Liabilities						
+Trade payables 12,763,369 110,222 – – 22,782,663 35,656,254
+Other payables and accruals 1,461,097 187,931 – 44,380 13,801,394 15,494,802
+Borrowings 25,826,822 – – – 21,521,426 47,348,248
+		 40,051,288 298,153 – 44,380 58,105,483 98,499,304
+Net financial assets 47,232,396 3,342,013 1,255,054 (39,690) 21,203,650 72,993,423
+Less: Net financial (assets)						
+   denominated in the
+   
+respective entities’						
+    functional currency – – – – (21,203,650) (21,203,650)
+Less: Forward foreign exchange
+   contracts (contracted
+    notional principal) (17,919,822) – – – – (17,919,822)
+Currency exposure 29,312,574 3,342,013 1,255,054 (39,690) – 33,869,951
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+128
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(a) Market Risk (Cont’d)
+(i) Foreign Currency Risk (Cont’d)
+Foreign Currency Risk Sensitivity Analysis
+The following table details the sensitivity analysis to a reasonably possible change in the
+foreign currencies at the end of the reporting period, with all other variables held constant:-
+		
+The Group
+					2020 2019
+					RM RM
+Effects On Profit After Tax
+USD/RM 					
+  - strengthened by 5% (2019: 5%)		 1,347,542 1,113,878
+  - weakened by 5% (2019: 5%)			 (1,347,542) (1,113,878)
+					
+SGD/RM					
+  - strengthened by 5% (2019: 5%)		 170,367 126,996
+  - weakened by 5% (2019: 5%)			 (170,367) (126,996)
+					
+EUR/RM					
+  - strengthened by 5% (2019: 5%)		 117,152 47,692
+  - weakened by 5% (2019: 5%)			 (117,152) (47,692)
+(ii) Interest Rate Risk
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument
+will fluctuate because of changes in market interest rates. The Group’s exposure to interest
+rate risk arises mainly from borrowings with variable rates. The Group’s policy is to obtain
+the most favourable interest rates available and by maintaining a balanced portfolio mix of
+fixed and floating rate borrowings.
+The Group’s borrowings are carried at amortised cost. Therefore, they are not subject to
+interest rate risk as in defined MFRS 7 since neither the carrying amounts nor the future
+cash flows will fluctuate because of a change in market interest rates.
+The Group’s exposure to interest rate risk based on the carrying amounts of the financial
+instruments at the end of the reporting period is disclosed in Notes 30 and 31 to the financial
+statements.
+Interest Rate Risk Sensitivity Analysis
+Any reasonably possible change in the interest rates of floating rate term loans at the end
+of the reporting period does not have material impact on the profit after taxation and other
+comprehensive income of the Group and of the Company and hence, no sensitivity analysis
+is presented.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+129
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(a) Market Risk (Cont’d)
+(iii) Equity Price Risk
+The Group does not have any quoted investments and hence is not exposed to equity price
+risk.
+(b) Credit Risk
+The Group’s exposure to credit risk, or the risk of counterparties defaulting, arises mainly from
+trade and other receivables. The Group manages its exposure to credit risk by the application of
+credit approvals, credit limits and monitoring procedures on an ongoing basis. For other financial
+assets (including cash and bank balances and derivatives), the Group minimises credit risk by
+dealing exclusively with high credit rating counterparties.
+The Company’s exposure to credit risk arises principally from loans and advances to subsidiaries,
+and corporate guarantee given to financial institutions for credit facilities granted to certain
+subsidiaries. The Company monitors the results of these subsidiaries regularly and repayments
+made by the subsidiaries.
+(i) Credit Risk Concentration Profile
+The Group’s major concentration of credit risk relates to the amounts owing by 1 (2019:
+1) customer which constituted approximately 27% (2019: 20%) of its trade receivables
+(including related parties and joint ventures) at the end of the reporting period.
+In addition, the Group also determines concentration of credit risk by monitoring the
+geographical region of its trade receivables on an ongoing basis. The credit risk concentration
+profile of trade receivables (including related parties and joint ventures) at the end of the
+reporting period is as follows:-
+		
+The Group
+					2020 2019
+					RM RM
+Africa				
+6,519,552 15,752,396
+Asia					
+17,116,722 17,583,688
+America				
+25,102,775 19,866,238
+Europe				
+306,216 469,074
+Singapore 				
+1,844,739 2,499,585
+Malaysia 				
+35,374,560 41,256,157
+Mexico				
+583,166 –
+Middle East 				 4,130,537 2,183,033
+Philipines				
+1,544,050 452,480
+					
+92,522,317 100,062,651
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+130
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(b) Credit Risk (Cont’d)
+(ii) Exposure to Credit Risk
+At the end of the reporting period, the maximum exposure to credit risk is represented by
+the carrying amount of each class of financial assets recognised in the statement of financial
+position of the Group and of the Company after deducting any allowance for impairment
+losses (where applicable).
+In addition, the Company’s maximum exposure to credit risk also includes corporate
+guarantees provided to its subsidiaries as disclosed under the ‘Maturity Analysis’ of item (c)
+below, representing the outstanding banking facilities of the subsidiaries as at the end of the
+reporting period. These corporate guarantees have not been recognised in the Company’s
+financial statements since their fair value on initial recognition were not material.
+(iii) Assessment of Impairment Losses
+At each reporting date, the Group assesses whether any of the financial assets at amortised
+cost are credit impaired.
+The gross carrying amounts of those financial assets are written off when there is no
+reasonable expectation of recovery (i.e. the debtor does not have assets or sources of
+income to generate sufficient cash flows to repay the debt) despite the fact that they are still
+subject to enforcement activities.
+Trade Receivables (other than related parties and joint ventures)
+The Group applies the simplified approach to measure expected credit losses which uses
+a lifetime expected loss allowance for all trade receivables (other than related parties and
+joint ventures).
+To measure the expected credit losses, trade receivables (other than related parties and
+joint ventures) have been grouped based on shared credit risk characteristics and the days
+past due.
+For certain large customers or customers with a high risk of default, the Group assesses the
+risk of loss of each customer individually based on their financial information, past trends of
+payments and external credit rating, where applicable.
+Also, the Group considers any trade receivables (other than related parties and joint
+ventures) having financial difficulties or in default with significant balances outstanding for
+more than 90 to 180 days (2019: 90 to 150 days) are deemed credit impaired and assesses
+for their risk of loss individually.
+During the current financial year, the Group has changed its risk management practices in
+response to the Covid-19 pandemic. The expected loss rates are based on the payment
+profiles of sales over a period of 24 months (2019: 12 months) from the measurement date
+and the corresponding historical credit losses experienced within this period. The historical
+loss rates are adjusted to reflect current and forward-looking information on macroeconomic
+factors affecting the ability of the customers to settle their debts.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+131
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(b) Credit Risk (Cont’d)
+(iii) Assessment of Impairment Losses (Cont’d)
+Trade Receivables (other than related parties and joint ventures) (Cont’d)
+The information about the exposure to credit risk and the loss allowances calculated under
+MFRS 9 for trade receivables (other than related parties and joint ventures) is summarised
+below:-
+		 Gross Individual Collective Carrying
+		 Amount Impairment Impairment Amount
+The Group RM RM RM RM
+2020 			
+				
+Current (not past due) 66,690,331 – – 66,690,331
+1 to 30 days past due 11,187,238 – – 11,187,238
+31 to 60 days past due 5,228,447 – – 5,228,447
+61 to 90 days past due 2,374,784 – – 2,374,784
+91 to 120 days past due 3,158,340 – – 3,158,340
+121 to 150 days past due 177,360 – – 177,360
+151 to 180 days past due – – – –
+More than 180 days past due 276,475 – – 276,475
+Credit impaired 8,833,227 (8,833,227) – –
+		 97,926,202 (8,833,227) – 89,092,975
+2019
+Current (not past due) 70,258,577 – – 70,258,577
+1 to 30 days past due 12,588,236 – – 12,588,236
+31 to 60 days past due 6,486,917 – – 6,486,917
+61 to 90 days past due 2,394,036 – – 2,394,036
+91 to 120 days past due 5,315,964 – – 5,315,964
+121 to 150 days past due 431,446 – – 431,446
+More than 150 days past due 308,849 – – 308,849
+Credit impaired 4,888,359 (4,888,359) – –
+		 102,672,384 (4,888,359) – 97,784,025
+The movements in the loss allowances in respect of trade receivables is disclosed in Note
+13 to the financial statement.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+132
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(b) Credit Risk (Cont’d)
+(iii) Assessment of Impairment Losses (Cont’d)
+Amount Owing by Related Parties and Joint Ventures (Trade and Non-trade Balances)
+The Group applies the 3-stage general approach to measuring expected credit losses for
+all related parties and joint ventures’ balances. Generally, the Group considers amount
+owing by related parties and joint ventures have low credit risks. The Group assumes that
+there is a significant increase in credit risk when the related parties and joint ventures’
+financial position deteriorates significantly. As the Group is able to determine the timing of
+payments of the related parties and joint ventures’ balances when they are payable, the
+Group considers the balances to be in default when the related parties and joint ventures’
+balance are not able to pay when demanded. The Group considers related parties and joint
+ventures’ balances to be credit impaired when they are unlikely to repay their balances in
+full or continuously loss making or having a deficit in its total equity.
+The Group determines the probability of default for these balances individually using internal
+information available.
+No expected credit loss is recognised on both trade and non-trade amount from related
+parties and joint ventures as the amounts have low credit risk.
+Other Receivables
+Other receivables are also subject to the impairment requirements of MFRS 9, the identified
+impairment loss was immaterial and hence, it is not provided for.
+Deposit with a Licensed Bank, Cash and Bank Balances
+The Group considers these banks and financial institutions have low credit risks. Therefore,
+the Group is of the view that the loss allowance is immaterial and hence, it is not provided
+for.
+Amount Owing By Subsidiaries (Trade and Non-trade Balances)
+The Company applies the 3-stage general approach to measuring expected credit losses
+for amount owing by subsidiaries (trade and non-trade balances). At the end of the reporting
+period, there was no indication that the amount owing is not recoverable.
+Financial Guarantee Contracts
+All of the financial guarantee contracts are considered to be performing, have low risks of
+default and historically there were no instances where these financial guarantee contracts
+were called upon by the parties of which the financial guarantee contracts were issued to.
+Accordingly, no loss allowances were identified based on 12-month expected credit losses.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+133
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(c) Liquidity Risk
+Liquidity risk arises mainly from general funding and business activities. The Group practises
+prudent risk management by maintaining sufficient cash balances and the availability of funding
+through certain committed credit facilities.
+Maturity Analysis
+The following table sets out the maturity profile of the financial liabilities at the end of the reporting
+period based on contractual undiscounted cash flows (including interest payments computed
+using contractual rates or, if floating, based on the rates at the end of the reporting period):-
+		 Weighted				
+		 Average 		 Contractual 		
+		 Effective Carrying Undiscounted Within 1 – 5
+		 Interest Rate Amount Cash Flows 1 Year Years
+The Group % RM RM RM RM
+						
+2020						
+Non-derivative
+  Financial Liabilities
+Trade payables – 33,795,667 33,795,667 33,795,667 –
+Other payables and
+ accruals – 17,692,031 17,692,031 17,692,031 –
+Amount owing to
+ directors – 7,671 7,671 7,671 –
+Lease liabilities 2.30 to 7.00 2,378,717 2,536,567 1,613,428 923,139
+Term loans 3.72 1,568,376 1,677,368 709,812 967,556
+Bankers’ acceptances 2.24 to 3.01 1,764,000 1,764,000 1,764,000 –
+Foreign currency trust
+ receipts 0.75 to 1.29 26,842,438 26,842,438 26,842,438 –
+Revolving credit 0.65 to 2.74 12,437,140 12,437,140 12,437,140 –
+Dividend payable – 6,151,256 6,151,256 6,151,256 –
+			
+102,637,296 102,904,138 101,013,443 1,890,695
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+134
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(c) Liquidity Risk
+Maturity Analysis (Cont’d)
+		 Weighted				
+		 Average 		 Contractual 		
+		 Effective Carrying Undiscounted Within 1 – 5
+		 Interest Rate Amount Cash Flows 1 Year Years
+The Group % RM RM RM RM
+						
+2019
+Non-derivative
+  Financial Liabilities					
+Trade payables – 35,656,254 35,656,254 35,656,254 –
+Other payables and
+  accruals – 15,494,802 15,494,802 15,494,802 –
+Amount owing to
+  directors – 84,594 84,594 84,594 –
+Lease liabilities 2.33 to 7.00 2,119,965 2,236,135 1,085,208 1,150,927
+Term loans 4.72 1,854,653 2,040,224 709,812 1,330,412
+Bankers’
+  acceptances 3.70 to 4.22 2,859,000 2,859,000 2,859,000 –
+Bank overdraft 7.47 807,773 807,773 807,773 –
+Bills payable 1.94 4,857,040 4,857,040 4,857,040 –
+Foreign currency
+  trust receipts 2.52 to 2.85 19,489,107 19,489,107 19,489,107 –
+Revolving credit 2.90 to 5.51 17,480,675 17,480,675 17,480,675 –
+Dividend payable – 245,000 245,000 245,000 –
+			 100,948,863 101,250,604 98,769,265 2,481,339
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+135
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.1 FINANCIAL RISK MANAGEMENT POLICIES (CONT’D)
+(c) Liquidity Risk
+Maturity Analysis (Cont’d)
+			
+Weighted			
+			 Average		 Contractual
+			 Effective Carrying Undiscounted Within
+			 Interest Rate Amount Cash Flows 1 Year
+The Company		 % RM RM RM
+2020					
+Other payables and
+ accruals		 – 542,746 542,746 542,746
+Revolving credit		 2.74 6,000,000 6,000,000 6,000,000
+Dividend payable		 – 6,151,256 6,151,256 6,151,256
+Financial guarantee
+  contracts in relation
+  to corporate
+  guarantee given to
+  certain subsidiaries* – – 39,923,600 39,923,600
+				 12,694,002 52,617,602 52,617,602
+2019					
+Other payables and
+  accruals		 – 658,956 658,956 658,956
+Revolving credit		 4.65 2,400,000 2,400,000 2,400,000
+Financial guarantee
+  contracts in relation
+  to corporate
+  guarantee given to
+  certain subsidiaries* – – 46,873,627 46,873,627
+				 3,058,956 49,932,583 49,932,583
+* The contractual undiscounted cash flows represent the outstanding credit facilities of
+the subsidiaries at the end of reporting period. The financial guarantees have not been
+recognised in the financial statements since their fair value on initial recognition were not
+material.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+136
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.2 CAPITAL RISK MANAGEMENT
+The Group manages its capital to ensure that entities within the Group will be able to maintain an
+optimal capital structure so as to support its businesses and maximise shareholders value. To achieve
+this objective, the Group may make adjustments to the capital structure in view of changes in economic
+conditions, such as adjusting the amount of dividend payment, returning of capital to shareholders or
+issuing new shares.
+The Group manages its capital based on debt-to-equity ratio that complies with debt covenants and
+regulatory, if any. However, the debt-to-equity ratio is not presented as its cash and bank balances
+exceed the total external borrowings from financial institution, hence, the debt-to-equity ratio may not
+provide a meaningful indicator of the risk of borrowings.
+There was no change in the Group’s approach to capital management during the financial year.
+45.3 CLASSIFICATION OF FINANCIAL INSTRUMENTS
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Financial Assets
+Designated at Fair Value
+  Through Other
+  Comprehensive Income
+  Upon Initial Recognition
+Other investment 16,500 16,500 – –
+Amortised Cost
+Trade receivables 91,939,151 100,062,651 – –
+Other receivables 372,188 271,447 – –
+Amount owing by subsidiaries – – 420,000 2,982,820
+Amount owing by joint
+  ventures 3,055,225 2,507,075 – –
+Dividend receivables		 – – – 2,881,229
+Deposit with a licensed bank – 23,470 – –
+Cash and bank balances 94,290,040 68,611,265 19,418,035 7,538,337
+			189,656,604 171,475,908 19,838,035 13,402,386
+Mandatorily at Fair Value
+  Through Profit or Loss
+Derivative assets		 743,743 311,736 – –
+Short-term investments 7,095,638 7,333,616 7,095,638 7,333,616
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+137
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.3 CLASSIFICATION OF FINANCIAL INSTRUMENTS (CONT’D)
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Financial Liabilities
+Amortised Cost
+Trade payables 33,795,667 35,656,254 – –
+Other payables and accruals 17,692,031 15,494,802 542,746 658,956
+Amount owing to directors		 7,671 84,594 – –
+Lease liabilities		 2,378,717 2,119,965 – –
+Term loans		 1,568,376 1,854,653 – –
+Bankers’ acceptances 1,764,000 2,859,000 – –
+Bank overdraft		 – 807,773 – –
+Bills payable		 – 4,857,040 – –
+Foreign currency trust
+ receipts 26,842,438 19,489,107 – –
+Revolving credit		 12,437,140 17,480,675 6,000,000 2,400,000
+Dividend payable 6,151,256 245,000 6,151,256 –
+			102,637,296 100,948,863 12,694,002 3,058,956
+45.4 GAINS OR LOSSES ARISING FROM FINANCIAL INSTRUMENTS
+The Group The Company
+		2020 2019 2020 2019
+RM RM RM RM
+Financial Assets
+Fair Value Through Profit
+  or Loss
+Net gains recognised in
+  profit or loss 432,007 1,212,881 – –
+Amortised Cost
+Net (losses)/gains recognised
+  in profit or loss (3,489,198) (3,804,099) 259,947 365,180
+Financial Liabilities
+Amortised Cost
+Net losses recognised in
+  profit or loss (975,106) (1,809,955) (306) (236,428)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+138
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.5 FAIR VALUE INFORMATION
+The fair values of the financial assets and financial liabilities of the Group and of the Company which are maturing within the next 12 months
+approximate their carrying amounts due to the relatively short-term maturity of the financial instruments or repayable on demand terms.
+The following table sets out the fair value profile of financial instruments that are carried at fair value and those not carried at fair value at the
+end of the reporting period:-
+		 Fair Value Of Financial Fair Value Of Financial Instruments
+		 Instruments Carried At Fair Value Not Carried At Fair Value Total Fair Carrying
+		 Level 1 Level 2 Level 3 Level 1 Level 2 Level 3 Value Amount
+The Group RM RM RM RM RM RM RM RM
+2020								
+Financial Assets								
+Short-term investments – 7,095,114 – – – – 7,095,114 7,095,638
+Other investment – 16,500 – – – – 16,500 16,500
+Derivative assets								
+- Forward currency
+ contracts – 743,743 – – – – 743,743 743,743
+Financial Liabilities								
+Term loans – – – – 1,568,376 – 1,568,376 1,568,376
+2019 							
+Financial Assets								
+Short-term investments – 7,333,013 – – – – 7,333,013 7,333,616
+Other investment – 16,500 – – – – 16,500 16,500
+Derivative assets								
+- Forward currency
+  contracts – 311,736 – – – – 311,736 311,736
+Financial Liabilities								
+Term loans – – – – 1,854,653 – 1,854,653 1,854,653
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+139
+Notes to the
+Financial Statements
+(Cont’d)
+45. FINANCIAL INSTRUMENTS (CONT’D)
+45.5 FAIR VALUE INFORMATION (CONT’D)
+(a) Fair Value of Financial Instruments Carried at Fair Value
+The fair values above have been determined using the following basis:-
+(i) The fair value of money market fund is determined by reference to statements provided by
+the respective financial institutions, with which the investments were entered into.
+		
+(ii) The fair value of other investment is determined by reference to market value provided by
+the respective golf club.
+(iii) The fair values of forward foreign exchange contracts are determined by discounting the
+difference between the contractual forward prices and the current forward prices for the
+residual maturity of the contract using a risk-free interest rate (government bonds).
+(iv) There were no transfer between level 1 and level 2 during the financial year.
+(b) Fair Value of Financial Instruments Not Carried at Fair Value
+The fair values, which are for disclosure purposes, have been determined using the following
+basis:-
+(i) The fair value of the Group’s and Company’s term loans that carry floating interest rates
+approximates their carrying amounts as they are repriced to market interest rates on or near
+the reporting date.
+46. SIGNIFICANT EVENTS DURING THE FINANCIAL YEAR
+(a) On 15 September 2020, a subsidiary of the Company, Able Dairies Sdn. Bhd., entered into a Sale &
+Purchase Agreement with Golden Valley Industries Sdn. Bhd. for the acquisition of a piece of freehold
+vacant land known as Lot No. 7 measuring approximately 29.031 acres (1,264,590.36 sq.ft) situated
+within the Master Land held under Geran 48068, Lot 91, Mukim Klang, Daerah Klang, Negeri Selangor
+for a total purchase consideration of RM 44,260,663. The Company has paid for a refundable earnest
+deposit of 10% amounting to RM 4,426,066. The acquisition is yet to complete as of the reporting date.
+(b) On 27 October 2020, the Board of Directors of the Company approved to dispose two (2) pieces of land
+which located at Lot no. 37799 and Lot No. 37800, Mukim Kluang, District of Kluang, State of Johor
+for a cash consideration of RM 500,000 each. The sales and purchase agreement (“SAP”) is dated
+on 27 October 2020. The vacant possession and the risk of the property is passed to the purchaser
+upon receive the balance of purchase price. The balance of the purchase price is received and the
+transaction is completed on 17 February 2021.
+(c) On 11 March 2020, the World Health Organisation declared the Coronavirus Disease (“Covid-19”)
+outbreak as a pandemic in recognition of its rapid spread across the globe. On 16 March 2020, the
+Malaysian Government has imposed the Movement Control Order (“MCO”) starting from 18 March
+2020 to curb the spread of the Covid-19 outbreak in Malaysia. The Covid-19 outbreak also resulted
+in travel restriction, lockdown, and other precautionary measures imposed in various countries. The
+emergence of the Covid-19 outbreak since early 2020 has brought significant economic uncertainties
+in Malaysia and markets in which the Group operates.
+Nonetheless, the Covid-19 global pandemic has not resulted in any material impairment to the Group’s
+assets for the financial year ended 31 December 2020 or affected the Group’s ability to continue its
+business as a going-concern. The Covid-19 global pandemic did not have any material impact on the
+Group’s operations and financial performance for the financial year ended 31 December 2020.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+140
+Notes to the
+Financial Statements
+(Cont’d)
+47. SIGNIFICANT EVENTS OCCURRING AFTER THE REPORTING PERIOD
+(a) On 18 February 2021, the Company incorporated a wholly-owned subsidiary, known as Able
+Development Sdn. Bhd. (“ADVSB”) at a paid-up share capital of RM1.
+(b) On 8 March 2021, the subsidiary of the Company, Able Dairies Sdn. Bhd. (“ADSB”), acquired 230,000
+ordinary shares in Able Dairies Marketing Sdn. Bhd. (“ADM”), representing 23% equity interest in
+ADM from a shareholder for a total cash consideration of RM460,000. Following the completion of the
+acquisition, ADM became a 74% owned subsidiary of ADSB.
+(c) On 29 March 2021, the subsidiary of the Company, Able Development Sdn. Bhd. (“ADVSB”), Able
+Dairies Sdn. Bhd. (“ADSB”), and Unican Industries Sdn. Bhd. (“UISB”) incorporated a wholly-owned
+subsidiary, known as Lunderston Sdn. Bhd. (“LSB”) at a paid-up share capital of RM100.
+(d) On 5 May 2021, the subsidiary of the Company, Able Dairies Sdn. Bhd. (“ADSB”), entered into Sale and
+Purchase agreement (“SPA”) with Seriemas Development Sdn. Berhad to acquire a piece of freehold
+land measuring a total of 1.59 acres located at Pekan Jenjarom, District of Kuala Langat for a total
+purchase consideration of RM4,155,624. The company has paid a refundable earnest deposit of 9%
+amounting to RM371,512.
+(e) Since 18 March 2020 up to the date of this report, the Movement Control Order (“MCO”) went through
+various phases throughout the country where restrictions were either relaxed and/or tightened for
+certain states, districts and/or location based on the number of daily and active Covid-19 cases in the
+respective areas.
+The Group will continue to pay close attention to the development of, and the disruption to its business
+activities caused by the prolonged effect of the Covid-19 pandemic and/or any subsequent MCO
+or similar measure imposed by Malaysia Government and continually evaluate their impact on the
+financial position, cash flows and operating results of the Group.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+141
+STATEMENT BY
+DIRECTORS
+PURSUANT TO SECTION 251(2) OF THE COMPANIES ACT 2016
+We, Edward Goh Swee Wang and Yeow Ah Seng @ Yow Ah Seng, being two of the directors of Johore Tin Berhad,
+state that, in the opinion of the directors, the financial statements set out on pages 54 to 140 are drawn up in
+accordance with Malaysian Financial Reporting Standards, International Financial Reporting Standards and the
+requirements of the Companies Act 2016 in Malaysia so as to give a true and fair view of the financial position of
+the Group and of the Company as of 31 December 2020 and of their financial performance and cash flows for the
+financial year ended on that date.
+Signed in accordance with a resolution of the directors dated 5 May 2021.
+Edward Goh Swee Wang Yeow Ah Seng @ Yow Ah Seng
+STATUTORY
+DECLARATION
+PURSUANT TO SECTION 251(1)(b) OF THE COMPANIES ACT 2016
+I, Leo Aun Foo (MIA Membership Number: 32120), being the officer primarily responsible for the financial
+management of Johore Tin Berhad, do solemnly and sincerely declare that the financial statements set out on pages
+54 to 140 are, to the best of my knowledge and belief, correct and I make this solemn declaration conscientiously
+believing the declaration to be true, and by virtue of the Statutory Declarations Act 1960.
+Subscribed and solemnly declared by the abovementioned
+Leo Aun Foo, at Muar in the state of
+Johor Darul Takzim on this 5 May 2021
+Leo Aun Foo
+Before me
+LIM PEI LING (NO. J238)
+Commissioner for Oaths
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+142
+LIST OF
+PROPERTIES HELD
+Registered
+Owner/
+Date of
+Acquisition
+Title No./
+Address
+Description/
+Existing Use
+Tenure/
+Expiry Date
+of the
+Lease
+Approximate
+Age of the
+Building
+(years)
+Land/
+Built-up
+Area
+(sq. ft.)
+Net Book
+Value as at
+31 Dec 2020
+(RM)
+UISB/
+10.12.2004
+HSD 375445, PTD 124298,
+Mukim Tebrau, Johor Bahru,
+Johor Darul Takzim/
+PTD 124298,
+Jalan Kempas Lama,
+Kampung Seelong Jaya,
+81300 Skudai, Johor.
+Single-storey
+detached
+factory/
+Industry
+Freehold 17 457,466/
+248,533
+15,004,979
+UISB/
+08.08.2007
+GM 2481, Lot 2259,
+Mukim Teluk Panglima
+Garang, Kuala Langat,
+Selangor Darul Ehsan/
+Lot 2259, Jalan Helang,
+Off Jalan Kebun Baru,
+Batu 9, Jalan Klang-Banting,
+Teluk Panglima Garang,
+42500 Kuala Langat,
+Selangor Darul Ehsan.
+Single-storey
+detached
+factory/
+Industry
+Freehold 14 175,602/
+106,931
+8,239,234
+KTCFSB/
+27.12.1982
+HS(D) 16323, Lot PTD 23759,
+Mukim Kluang,
+Kluang, Johor Darul Takzim/
+No. 5, Jalan Masyuri
+Kawasan Perindustrian Kluang
+86000 Kluang, Johor.
+1 ½-storey
+detached factory/
+Industry
+Leasehold -
+60 years/
+13 April 2046
+35 21,775/
+16,843
+295,698
+KTCFSB/
+01.08.1996
+GRN 244325 Lot 37800,
+Kluang, Johor Darul Takzim/
+No. 41, Jalan Lau Kim Teck,
+86000 Kluang, Johor.
+1 ½-storey semi-
+detached factory/
+Industry
+Freehold 25 5,294/
+3,635
+264,757
+KTCFSB/
+10.10.2016
+GRN 244323 Lot 37799,
+Kluang, Johor Darul Takzim/
+No. 39, Jalan Lau Kim Teck,
+86000 Kluang, Johor.
+Double-storey semi-
+detached factory/
+Industry
+Freehold 5 5,296/
+3,635
+464,613
+ADSB/
+27.12.2012
+(used in
+year 2016)
+GM 2483, Lot 2263,
+Mukim Teluk Panglima Garang,
+Kuala Langat, Selangor Darul Ehsan/
+Lot 2263, Jalan Helang,
+Off Jalan Kebun Baru,
+Batu 9, Jalan Klang-Banting,
+Teluk Panglima Garang,
+42500 Kuala Langat,
+Selangor Darul Ehsan.
+Single-storey
+detached factory
+with a double-storey
+office annexed/
+Industry
+Freehold 5 176,099/
+88,082
+28,206,051
+ADSB/
+17.11.2016
+PT 13157, Lot 26381,
+Mukim Teluk Panglima Garang,
+Kuala Langat, Selangor Darul Ehsan/
+Not applicable
+Single-storey
+detached factory
+with a three-storey
+office annexed/
+Industry
+Freehold 4 132,074/
+Not
+applicable
+6,853,073
+(Disclosed in accordance with Appendix 9C, Part A, item 25 of the Listing Requirements of Bursa Securities.)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+143
+ANALYSIS OF
+SHAREHOLDINGS
+AS AT 30 APRIL 2021
+SHARE CAPITAL
+Issued and Paid-Up Share Capital : RM176,815,544 divided into 310,470,986 ordinary shares
+		 (including 2,908,200 treasury shares)
+Class of Shares : Ordinary Shares
+Voting Rights : One (1) Vote per Ordinary Share
+Number of Shareholders : 4,502
+DISTRIBUTION OF SHAREHOLDINGS
+(Malaysia and Foreign - Combined)
+		 No. of % of No. of % of
+Size of Holdings		 Holders Holders Shares Shares (***)
+Less than 100		 195 4.331 8,555 0.002
+100 to 1,000		 740 16.437 490,025 0.159
+1,001 to 10,000		 2,407 53.465 11,549,551 3.755
+10,001 to 100,000		 984 21.856 30,635,665 9.960
+100,001 to 15,378,138 (*)		 173 3.842 183,082,180 59.526
+15,378,139 and above (**)		 3 0.066 81,796,810 26.595
+TOTAL		 4,502 100.000 307,562,786 100.000
+* Less than 5% of Issued Shares
+** 5% and above of Issued Shares
+*** % of shares without treasury shares
+LIST OF THIRTY (30) LARGEST SHAREHOLDERS
+		 No. of % of
+No. Name of Shareholders Shares Shares (*)
+1 RHB NOMINEES (ASING) SDN BHD 25,000,000 8.128
+PLEDGED SECURITIES ACCOUNT FOR NG KENG HOE
+(HUANG QINGHE)
+2 GOH MIA KWONG 23,409,264 7.611
+3 AMSEC NOMINEES (TEMPATAN) SDN BHD 21,133,784 6.871
+PLEDGED SECURITIES ACCOUNT – AMBANK (M) BERHAD
+FOR EDWARD GOH SWEE WANG (SMART)
+4 HSBC NOMINEES (ASING) SDN BHD 14,304,400 4.650
+SEB AB FOR EVLI EMERGING FRONTIER FUND
+5 AMSEC NOMINEES (TEMPATAN) SDN BHD 13,659,700 4.441
+AMBANK (M) BERHAD (SWAP)
+6 GOH MIA KWONG 10,706,666 3.481
+7 AMSEC NOMINEES (ASING) SDN BHD 9,176,531 2.983
+PLEDGED SECURITIES ACCOUNT FOR CHUA TAI BOON
+(CAI DAWEN)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+144
+LIST OF THIRTY (30) LARGEST SHAREHOLDERS (cont’d)
+		 No. of % of
+No. Name of Shareholders Shares Shares (*)
+8 RHB NOMINEES (ASING) SDN BHD 7,815,566 2.541
+PLEDGED SECURITIES ACCOUNT FOR LIM HUN SWEE
+9 CIMSEC NOMINEES (TEMPATAN) SDN BHD 7,193,333 2.338
+CIMB FOR GENTING PERWIRA SDN BHD (PB)
+10 KUA JIN GUANG @ KAU KAM ENG 6,152,888 2.000
+11 NG KENG HOE (HUANG QINGHE) 5,911,966 1.922
+12 DB (MALAYSIA) NOMINEE (ASING) SDN BHD 5,650,500 1.837
+THE BANK OF NEW YORK MELLON FOR THE MIRI
+STRATEGIC EMERGING MARKETS FUND LP
+13 GENTING PERWIRA SDN BHD 5,123,466 1.665
+14 RHB CAPITAL NOMINEES (TEMPATAN) SDN BHD 4,749,633 1.544
+PLEDGED SECURITIES ACCOUNT
+FOR NG YIK TOON & NG YIK KOON (CEB)
+15 AMSEC NOMINEES (TEMPATAN) SDN BHD 4,727,109 1.536
+PLEDGED SECURITIES ACCOUNT – AMBANK (M) BERHAD
+FOR YEOW AH SENG & YOW AH SENG (SMART)
+16 LOCK TOH PENG 4,050,000 1.316
+17 CITIGROUP NOMINEES (ASING) SDN BHD 3,905,354 1.269
+EXEMPT AN FOR OCBC SECURITIES PRIVATE LIMITED
+(CLIENT A/C-NR)
+18 VERSALITE SDN BHD 3,313,333 1.077
+19 DB (MALAYSIA) NOMINEE (TEMPATAN) SENDIRIAN BERHAD 3,243,600 1.054
+DEUTSCHE TRUSTEES MALAYSIA BERHAD FOR EASTSPRING
+INVESTMENTSSMALL-CAP FUND
+20 HSBC NOMINEES (TEMPATAN) SDN BHD 3,118,800 1.014
+HSBC (M) TRUSTEE BHD FOR PERTUBUHAN KESELAMATAN
+SOSIAL (UOB AMM6939-406)
+21 RHB CAPITAL NOMINEES (TEMPATAN) SDN BHD 3,000,000 0.975
+PLEDGED SECURITIES ACCOUNT FOR FONG SILING (CEB)
+22 DB (MALAYSIA) NOMINEE (TEMPATAN) SENDIRIAN BERHAD 2,650,000 0.861
+DEUTSCHE TRUSTEES MALAYSIA BERHAD FOR HONG LEONG
+BALANCED FUND
+23 SIA YOCK HUA 2,640,866 0.858
+Analysis of Shareholdings
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+145
+LIST OF THIRTY (30) LARGEST SHAREHOLDERS (cont’d)
+		 No. of % of
+No. Name of Shareholders Shares Shares (*)
+24 RHB CAPITAL NOMINEES (TEMPATAN) SDN BHD 2,460,500 0.799
+PLEDGED SECURITIES ACCOUNT FOR LOKE SEE OOI (CEB)
+25 AMSEC NOMINEES (ASING) SDN BHD 2,451,033 0.796
+PLEDGED SECURITIES ACCOUNT FOR NG KENG HOE
+(HUANG QINGHE)
+26 UOBM NOMINEES (TEMPATAN) SDN BHD 2,056,400 0.668
+UOB ASSET MANAGEMENT (MALAYSIA) BERHAD FOR
+GIBRALTAR BSN AGGRESSIVE FUND
+27 CIMB GROUP NOMINEES (TEMPATAN) SDN BHD 2,015,600 0.655
+EXEMPT AN FOR FORTRESS CAPITAL ASSET
+MANAGEMENT (M) SDN BHD
+28 NEOH CHOO EE & COMPANY, SDN. BERHAD 2,000,000 0.650
+29 CITIGROUP NOMINEES (TEMPATAN) SDN BHD
+EMPLOYEES PROVIDENT FUND BOARD (PHEIM) 1,886,890 0.613
+30 GOH MIA KWONG 1,547,096 0.503
+TOTAL 205,054,278 66.670
+* % of shares without treasury shares
+LIST OF SUBSTANTIAL SHAREHOLDERS
+Direct Interest Indirect Interest
+		 No. of % of No. of % of
+No. Name of Shareholders Shares Shares Shares Shares
+1 GOH MIA KWONG 35,663,026 11.595 [1]23,646,720 7.689
+2 RHB NOMINEES (ASING)
+SDN. BHD. PLEDGED
+SECURITIES ACCOUNT FOR
+ 	 NG KENG HOE (HUANG
+ 	 QINGHE) 33,362,999 10.848 [2]2,439,909 0.793
+3 AMSEC NOMINEES TEMPATAN
+SDN. BHD. PLEDGED
+SECURITIES ACCOUNT
+– AMBANK (M) BERHAD
+FOR EDWARD GOH SWEE
+WANG 23,227,520 7.552 [3]36,082,226 11.732
+Analysis of Shareholdings
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+146
+LIST OF SUBSTANTIAL SHAREHOLDERS
+Notes:-
+Indirect Interest:
+[1] By virtue of his son, Mr Edward Goh Swee Wang’s interest: 23,227,520 shares
+By virtue of his daughter, Ms Lisa Goh Li Ling’s interest: 419,200 shares
+[2] By virtue of his wife, Ms Lai Shin Lin’s interest: 2,439,909 shares
+[3] By virtue of his father, Mr Goh Mia Kwong’s interest: 35,663,026 shares
+By virtue of his sister, Ms Goh Li Ling’s interest: 419,200 shares
+LIST OF DIRECTORS’ SHAREHOLDINGS
+Direct Interest Indirect Interest
+		 No. of % of No. of % of
+No. Name of Directors Shares Shares (*) Shares Shares (*)
+1 DATUK KAMALUDIN BIN YUSOFF 769,800 0.250 [1] 12,474,932 4.056
+2 EDWARD GOH SWEE WANG 23,227,520 7.552 [2] 36,082,226 11.732
+3 YEOW AH SENG @ YOW AH SENG 5,276,442 1.716 – –
+4 SIAH CHIN LEONG 2,666 0.000 – –
+5 NG LEE THIN – – – –
+6 NG KENG HOE (HUANG QINGHE) 33,362,999 10.848 [3] 2,439,909 0.793
+(Disclosed in accordance with Appendix 9C, Part A, item 23 of the Listing Requirements of Bursa Securities.)
+Notes:-
+Indirect Interest:
+[1] By virtue of his wife, Datin Fawziah Binti Hussein Sazally’s interest in Genting Perwira Sdn Bhd pursuant to
+Section 8 of the Companies Act 2016: 12,316,799 shares
+By virtue of his wife, Datin Fawziah Binti Hussein Sazally’s interest: 158,133 shares
+[2] By virtue of his father, Mr Goh Mia Kwong’s interest: 35,663,026 shares
+By virtue of his sister, Ms Lisa Goh Li Ling’s interest: 419,200 shares
+[3] By virtue of his wife, Ms Lai Shin Lin’s interest: 2,439,909 shares
+* % of Shares without treasury shares
+Analysis of Shareholdings
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+147
+NOTICE IS HEREBY GIVEN THAT the 20th Annual General Meeting of Johore Tin Berhad will be conducted entirely
+through live streaming from the Broadcast Venue at Tricor Business Centre, Manuka 2 & 3 Meeting Room, Level
+29, Tower A, Vertical Business Suite Avenue 3, Bangsar South, No. 8 Jalan Kerinchi, 59200 Kuala Lumpur,
+Wilayah Persekutuan (“Broadcast Venue”) on Friday, 25 June 2021 at 10.00 a.m. for the following purposes:
+AGENDA Resolution on
+Proxy Form
+ORDINARY BUSINESS:
+1. To receive the Audited Financial Statements for the financial year ended
+31 December 2020 and the Reports of the Directors and Auditors
+thereon.
+(Please refer
+Explanatory Note 1)
+2. To approve the payment of Directors’ fees of RM324,000.00 for the financial
+year ended 31 December 2020.
+(Ordinary Resolution 1)
+3. To approve the payment of Directors’ benefits for an amount not exceeding
+RM75,000.00 from the 20th AGM 2021 to the 21st AGM 2022 of the Company.
+(Ordinary Resolution 2)
+4. To re-elect the following Directors who retire by rotation pursuant to Clause
+76(3) of the Company’s Constitution.
+(a) Mr Edward Goh Swee Wang (Ordinary Resolution 3)
+(b) Datuk Kamaludin Bin Yusoff (Ordinary Resolution 4)
+5. To re-appoint Messrs Crowe Malaysia PLT as Auditors of the Company and to
+authorise the Directors to fix their remuneration.
+(Ordinary Resolution 5)
+SPECIAL BUSINESS:
+To consider and if thought fit, to pass the following resolution, with or without
+modifications:
+6. ORDINARY RESOLUTION 1
+AUTHORITY TO DIRECTORS TO ISSUE AND ALLOT SHARES PURSUANT
+TO SECTIONS 75 AND 76 OF THE COMPANIES ACT, 2016
+(Ordinary Resolution 6)
+“THAT pursuant to Sections 75 and 76 of the Companies Act, 2016, Main
+Market Listing Requirements of Bursa Malaysia Securities Berhad (“Bursa
+Securities“) (“Listing Requirements”) and the approval of the relevant regulatory
+authorities, where such approval is required, the Directors of the Company
+be and are hereby authorised to issue and allot shares in the capital of the
+Company, grant rights to subscribe for shares in the Company, convert any
+securities into shares in the Company, or allot shares under an agreement or
+option or offer (“New Shares”) from time to time, at such price, to such persons
+and for such purposes and upon such terms and conditions as the Directors
+may in their absolute discretion deem fit, provided that the aggregate number
+of such New Shares to be issued, to be subscribed under any rights granted, to
+be issued from conversion of any security, or to be issued and allotted under an
+agreement or option or offer, pursuant to this resolution, when aggregated with
+the total number of any such shares issued during the preceding 12 months
+does not exceed 20% of the total number of issued shares (excluding any
+treasury shares) of the Company for the time being (“Proposed 20% General
+Mandate”).”
+NOTICE OF TWENTIETH
+ANNUAL GENERAL MEETING (20TH AGM)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+148
+THAT such approval on the Proposed 20% General Mandate shall continue to
+be in force until 31 December 2021.
+THAT with effect from 1 January 2022, the general mandate shall be reinstated
+from a 20% limit to a 10% limit pursuant to Paragraph 6.03 of the Listing
+Requirements provided that the aggregate number of such New Shares
+to be issued, to be subscribed under any rights granted, to be issued from
+conversion of any security, or to be issued and allotted under an agreement
+or option or offer by the Company from time to time, at such price, to such
+persons and for such purposes and upon such terms and conditions as the
+Directors may in their absolute discretion deem fit, pursuant to this resolution,
+when aggregated with the total number of any such shares issued during the
+preceding 12 months does not exceed 10% of the total number of issued
+shares (excluding any treasury shares) of the Company for the time being
+(“Proposed 10% General Mandate”).
+THAT such approval on the Proposed 10% General Mandate shall continue to
+be in force until:
+a.		
+the conclusion of the next Annual General Meeting of the Company held
+after the approval was given;
+b. the expiration of the period within which the next Annual General Meeting
+of the Company is required to be held after the approval was given; or
+c. revoked or varied by resolution passed by the shareholders of the
+Company in a general meeting,
+whichever is the earlier.
+(The Proposed 20% General Mandate and Proposed 10% General Mandate
+shall hereinafter refer to as “Proposed General Mandate”.)
+THAT the Directors of the Company be and are hereby also empowered to
+obtain the approval from Bursa Securities for the listing of and quotation for
+such New Shares on the Main Market of Bursa Securities.
+THAT authority be and is hereby given to the Directors of the Company, to
+give effect to the Proposed General Mandate with full powers to assent to any
+conditions, modifications, variations and/or amendments as they may deem fit
+in the best interest of the Company and/or as may be imposed by the relevant
+authorities.
+AND FURTHER THAT the Directors of the Company, be and are hereby
+authorised to implement, finalise, complete and take all necessary steps and
+to do all acts (including execute such documents as may be required), deeds
+and things in relation to the Proposed General Mandate.
+7. ORDINARY RESOLUTION 2
+CONTINUING IN OFFICE AS INDEPENDENT NON-EXECUTIVE DIRECTOR
+– DATUK KAMALUDIN BIN YUSOFF
+(Ordinary Resolution 7)
+“THAT authority be and is hereby given to Datuk Kamaludin Bin Yusoff who
+has served as an Independent Non-Executive Director of the Company for a
+cumulative term of more than nine (9) years to continue to act as an Independent
+Non-Executive Director of the Company until the conclusion of the next Annual
+General Meeting in accordance to the Malaysian Code on Governance 2017.”
+Notice of
+Twentieth Annual General Meeting
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+149
+8. ORDINARY RESOLUTION 3
+PROPOSED RENEWAL OF AUTHORITY FOR SHARE BUY-BACK
+(Ordinary Resolution 8)
+“THAT subject always to the Companies Act 2016 (“the Act”), the Constitution
+of the Company, Bursa Malaysia Securities Berhad (“Bursa Securities”) Main
+Market Listing Requirements (“Listing Requirements”) and all other applicable
+laws, guidelines, rules and regulations, the Company be and is hereby
+authorised, to the fullest extent permitted by law, to purchase such number of
+issued shares in the Company as may be determined by the Directors of the
+Company from time to time through Bursa Securities upon such terms and
+conditions as the Directors may deem fit and expedient in the interest of the
+Company provided that:-
+(i)		
+the aggregate number of issued shares in the Company (“Shares”)
+purchased (“Purchased Shares”) and/or held as treasury shares pursuant
+to this ordinary resolution does not exceed ten per centum (10%) of
+the total number of issued shares of the Company as quoted on Bursa
+Securities as at point of purchase; and
+(ii) the maximum fund to be allocated by the Company for the purpose of
+purchasing the shares shall not exceed the aggregate of the retained
+profits of the Company based on the latest audited financial statements
+and/or the latest management accounts (where applicable) available at
+the time of the purchase,
+(“Proposed Share Buyback”).
+AND THAT the authority to facilitate the Proposed Share Buy-Back will
+commence immediately upon passing of this Ordinary Resolution and will
+continue to be in force until:
+a. the conclusion of the next Annual General Meeting of the Company
+following at which time the authority shall lapse unless by ordinary
+resolution passed at the meeting, the authority is renewed, either
+unconditionally or subject to conditions;
+b. the expiration of the period within which the next Annual General Meeting
+of the Company is required by law to be held; or
+c. revoked or varied by ordinary resolution passed by the shareholders of
+the Company at a general meeting,
+whichever occurs first, but shall not prejudice the completion of purchase (s)
+by the Company of its own shares before the aforesaid expiry date and, in
+any event, in accordance with the Listing Requirements and any applicable
+laws, rules, regulations, guidelines and requirements issued by any relevant
+authorities.
+AND THAT the Directors of the Company be and are hereby authorised, at their
+discretion, to deal with the Purchased Shares until all the Purchased Shares
+have been dealt with by the Directors in the following manner as may be
+permitted by the Act, Listing Requirements, applicable laws, rules, regulations,
+guidelines, requirements and/or orders of any relevant authorities for the time
+being in force:
+To cancel all or part of the Purchased Shares;
+i. To retain all or part of the Purchased Shares as treasury shares as defined
+in Section 127 of the Act;
+Notice of
+Twentieth Annual General Meeting
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+150
+ii. To distribute all or part of the treasury shares as dividends to the
+shareholders of the Company;
+iii. To resell all or part of the treasury shares;
+iv. To transfer all or part of the treasury shares for the purposes of or under
+the employees’ share scheme established by the Company and/or its
+subsidiaries;
+v. To transfer all or part of the treasury shares as purchase consideration;
+vii. To sell, transfer or otherwise use the shares for such other purposes
+as the Minister may by order prescribe; and/or
+vi. To deal with the treasury shares in any other manners as allowed by the
+Act, Listing Requirements, applicable laws, rules, regulations, guidelines,
+requirements and/or orders of any relevant authorities for the time being
+in force.
+AND THAT the Directors of the Company be and are authorised to take all such
+steps as are necessary or expedient [including without limitation, the opening
+and maintaining of central depository account(s) under Securities Industry
+(Central Depositories) Act, 1991, and the entering into all other agreements,
+arrangements and guarantee with any party or parties] to implement, finalise
+and give full effect to the Proposed Share Buyback with full powers to assent
+to any conditions, modifications, variations and/or amendments (if any) as may
+be imposed by the relevant authorities.”
+9. SPECIAL RESOLUTION
+PROPOSED CHANGE OF COMPANY’S NAME FROM “JOHORE TIN
+BERHAD” TO “ABLE GLOBAL BERHAD”
+(Special Resolution)
+“THAT the name of the Company be changed from “Johore Tin Berhad” to
+“Able Global Berhad” with effect from the date of the Notice of Registration
+of New Name issued by the Companies Commission of Malaysia and the
+Constitution of the Company be hereby amended accordingly, wherever the
+name of the Company appears AND THAT the Directors and the Secretary of
+the Company be and are hereby authorised to take all such necessary steps to
+give effect to the Proposed Change of Company’s Name and to carry out all the
+necessary formalities in effecting the Proposed Change of Company’s Name.”
+10. To transact any other business of which due notice shall have been given.
+By Order of the Board
+JOHORE TIN BERHAD
+YONG MAY LI (f) (LS0000295)
+[SSM Practising Certificate No. 202008000285)
+WONG CHEE YIN (f) (MAICSA7023530)
+(SSM Practising Certificate No. 202008001953)
+Company Secretaries
+Johor Bahru
+27 May 2021
+Notice of
+Twentieth Annual General Meeting
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+151
+NOTES
+1. The Broadcast Venue is strictly for the purpose of complying with Section 327(2) of the Companies Act
+2016 which requires the Chairman of the meeting to be present at the main venue of the meeting. Members
+will not be allowed to attend the 20th AGM in person at the Broadcast Venue on the day of the meeting.
+Members are to attend, speak (including posing questions to the Board via real time submission of typed
+texts) and vote (collectively, “participate”) remotely at the 20th AGM via the Remote Participation and Voting
+(“RPV”) facilities provided by Tricor Investor & Issuing House Services Sdn Bhd via its TIIH Online website at
+https://tiih.online. Please follow the Procedures for RPV in the Administrative Guide for the 20th AGM
+and take note of procedure below in order to participate remotely via RPV.
+2. For the purpose of determining who shall be entitled to participate in this AGM via RPV, the Company shall
+be requesting Bursa Malaysia Depository Sdn. Bhd. to make available to the Company, the Record of
+Depositors as at 18 June 2021. Only a member whose name appears in this Record of Depositors shall be
+entitled to participate in this AGM via RPV or appoint a proxy to attend, speak and vote on his/her/its behalf.
+4. A member of the Company who is entitled to participate at the 20th AGM of the Company may appoint not
+more than two (2) proxies to attend, participate, speak and vote instead of the member at the Annual General
+Meeting.
+5. Where a member of the Company is an authorised nominee as defined in the Central Depositories Act, it may
+appoint not more than two (2) proxies in respect of each securities account it holds in ordinary shares of the
+Company standing to the credit of the said securities account.
+6. Where a member of the Company is an exempt authorised nominee which holds ordinary shares in the
+Company for multiple beneficial owners in one securities account (“omnibus account”), there is no limit to the
+number of proxies which the exempt authorised nominee may appoint in respect of each omnibus account it
+holds. An exempt authorised nominee refers to an authorised nominee defined under the Securities Industry
+(Central Depositories) Act 1991 (“Central Depositories Act”) which is exempted from compliance with the
+provisions of Section 25A(1) of the Central Depositories Act.
+7. Where a member appoints more than one (1) proxy, the proportion of shareholdings to be represented by
+each proxy must be specified in the instrument appointing the proxies.
+8. A member who has appointed a proxy or attorney or authorised representative to participate at the 20th
+AGM via RPV must request his/her proxy or attorney or authorised representative to register himself/
+herself for RPV via TIIH Online website at https://tiih.online. Please refer to the procedures for RPV in the
+Administrative Guide for the 20th AGM.
+9. The appointment of a proxy may be made in a hard copy form or by electronic means shall be deposited
+in the following manner and must be received by the Company not less than forty-eight (48) hours before
+the time appointed for holding the AGM or adjourned general meeting at which the person named in the
+appointment proposes to vote:
+• In hard copy form
+By hand or post to the Share Registrar of the Company at Tricor Investor & Issuing House Services Sdn.
+Bhd., Unit 32-01, Level 32, Tower A, Vertical Business Suite, Avenue 3, Bangsar South, No. 8, Jalan
+Kerinchi, 59200 Kuala Lumpur, Wilayah Persekutuan or its the Customer Service Centre at Unit G-3,
+Ground Floor, Vertical Podium, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur,
+Wilayah Persekutuan
+• By electronic means
+The proxy form can be electronically lodged with the Share Registrar of the Company via TIIH Online at
+https://tiih.online. Kindly refer to the Administrative Guide for the AGM on the procedures for electronic
+lodgement of proxy form via TIIH Online.
+Notice of
+Twentieth Annual General Meeting
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+152
+10. Please ensure ALL the particulars as required in this proxy form are completed, signed and dated accordingly.
+11. Last date and time for lodging this proxy form is Wednesday, 23 June 2021 at 10.00 a.m.
+12. Any authority pursuant to which such an appointment is made by a power of attorney must be deposited with
+the Share Registrar of the Company at Tricor Investor & Issuing House Services Sdn. Bhd., Unit 32-01, Level
+32, Tower A, Vertical Business Suite, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur,
+Malaysia or alternatively, the Customer Service Centre at Unit G-3, Ground Floor, Vertical Podium, Avenue
+3, Bangsar South, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Malaysia not less than forty-eight (48) hours
+before the time appointed for holding the AGM or adjourned general meeting at which the person named
+in the appointment proposes to vote. A copy of the power of attorney may be accepted provided that it is
+certified notarially and/or in accordance with the applicable legal requirements in the relevant jurisdiction in
+which it is executed.
+13. For a corporate member who has appointed an authorised representative, please deposit the ORIGINAL
+certificate of appointment of authorised representative with the Share Registrar of the Company at Tricor
+Investor & Issuing House Services Sdn. Bhd., Unit 32-01, Level 32, Tower A, Vertical Business Suite, Avenue
+3, Bangsar South, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Malaysia or alternatively, the Customer Service
+Centre at Unit G-3, Ground Floor, Vertical Podium, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi, 59200
+Kuala Lumpur, Malaysia. The certificate of appointment of authorised representative should be executed in
+the following manner:
+(i) If the corporate member has a common seal, the certificate of appointment of authorised representative
+should be executed under seal in accordance with the constitution of the corporate member.
+(ii) If the corporate member does not have a common seal, the certificate of appointment of authorised
+representative should be affixed with the rubber stamp of the corporate member (if any) and executed
+by:
+(a) at least two (2) authorised officers, of whom one shall be a director; or
+(b) any director and/or authorised officers in accordance with the laws of the country under which
+the corporate member is incorporated.
+EXPLANATORY NOTES
+ORDINARY BUSINESS:
+1. Agenda item 1:
+Audited Financial Statements for Financial Year Ended 31 December 2020
+This Agenda item is meant for discussion only as the provisions Sections 248(2) and 340(1) of the Companies
+Act, 2016 does not require a formal approval of the shareholders for the Audited Financial Statements.
+Hence, this Agenda item is not put forward for voting.
+2. Agenda items 2 & 3 respectively
+Ordinary Resolution 1 – Directors’ Fees
+Ordinary Resolution 2 – Directors’ Benefits
+Section 230(1) of the Companies Act, 2016 provides amongst others, that “the fees” of the directors and
+“any benefits” payable to the directors of a listed company and its subsidiaries shall be approved at a general
+meeting. In this respect, the Board agreed that the shareholders’ approval on the following two (2) separate
+resolutions shall be sought at the 20th AGM 2021
+• Ordinary Resolution 1 on payment of Directors’ Fees in respect of the year 2020; and  
+• Ordinary Resolution 2 on payment of Directors’ benefits with effect from the 20th AGM 2021 to the 21st
+AGM 2022 of the Company.
+The Directors’ benefits payable would comprise wholly for meeting allowances which was calculated based
+on the number of scheduled Board’s and Board Committees’ meetings with effect from the 20th AGM 2021
+until the 21st AGM 2022.
+Notice of
+Twentieth Annual General Meeting
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+153
+3. Agenda Item 4 (a) & (b)
+Ordinary Resolutions 3 to 4 – Re-election of Directors
+Mr Edward Goh Swee Wang and Datuk Kamaludin Bin Yusoff are standing for re-election as Directors of the
+Company and being eligible, have offered themselves for re-election at the 20th AGM 2021.
+The Board has through the Nominating Committee, had considered and assessed the retiring Directors and
+agreed that they meet the qualification of Directors as prescribed by Paragraph 2.20A of the Main Market
+Listing Requirements of Bursa Securities and have the character, experience, integrity, competence and time
+to effectively discharge their roles as Directors.
+4. Agenda Item 5
+Ordinary Resolution 5 – Re-appointment of Auditors
+The Board has through the Audit Committee, considered the re-appointment of Messrs Crowe Malaysia
+PLT as External Auditors of the Company. The factors considered by the Audit Committee in making the
+recommendation to the Board to table the re-appointment of Messrs Crowe Malaysia PLT at the forthcoming
+Annual General Meeting, included an assessment of the Auditors’ independence and objectivity, caliber and
+quality process/performance.
+SPECIAL BUSINESS:
+5. Agenda Item 6
+Ordinary Resolution 6 - Authority to Issue and Allot Shares pursuant to Sections 75 and 76 of the
+Companies Act 2016
+The Proposed Resolution 7 under Item 6, if passed, will empower the Directors of the Company to issue
+and allot ordinary shares of the Company from time to time and to grant rights to subscribe for shares
+in the Company, convert any securities into shares in the Company, or allot shares under an agreement
+or option or offer, provided that the aggregate number of shares allotted pursuant to this resolution does
+not exceed 20% of the total number of issued shares (excluding treasury shares) of the Company for the
+time being (“Proposed 20% General Mandate”) up to 31 December 2021. With effect from 1 January 2022,
+the Proposed 20% General Mandate will be reinstated to a 10% limit (“Proposed 10% General Mandate”)
+according to Paragraph 6.03 of the Main Market Listing Requirements of Bursa Malaysia Securities Berhad.
+The authority for the Proposed 10% General Mandate will, unless revoked or varied by the Company in a
+general meeting, expire at the conclusion of the next Annual General Meeting (“AGM”) or the expiration of
+the period within which the next AGM is required by law to be held, whichever is earlier.
+This proposed Resolution is a new mandate. The mandate is to provide flexibility to the Company to issue
+new securities without the need to convene separate general meeting to obtain its shareholders’ approval so
+as to avoid incurring additional costs and time.
+The Board of Directors of the Company is of the view that the Proposed 20% General Mandate is in the best
+interest of the Company and its shareholders as:
+(a) Amid the unprecedented uncertainty surrounding the recovery of the COVID-19 pandemic, this 20%
+General Mandate provides the Company flexibility to raise funds quickly and efficiently during this
+challenging time to meet its funding requirements for working capital, operational expenditure or for a
+new business opportunity.
+(b)		
+To provide additional relief to the Company cashflow to support the business operations in view of the
+tougher economic environment that arose from the COVID-19 pandemic.
+Notice of
+Twentieth Annual General Meeting
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+154
+The purpose of this general mandate, if passed, will enable the Directors to take swift action in case of a
+need to issue and allot new shares in the Company for fund raising exercise including but not limited to
+further placement of shares for purpose of funding current and/or future investment projects, working capital,
+acquisitions and/or for issuance of shares as settlement of purchase consideration, or other circumstances
+arise which involve grant of rights to subscribe for shares, conversion of any securities into shares, or
+allotment of shares under an agreement or option or offer, or such other application as the Directors may
+deem fit in the best interest of the Company.
+As at the date of this notice, the Company did not implement its proposal for new allotment of shares under
+the general mandate pursuant to Sections 75 and 76 of the Companies Act 2016 which was approved by
+the shareholders at the 19th AGM held on 10 August 2020 and will lapse at the conclusion of the 20th AGM
+to be held on 25 June 2021. As at the date of this notice, there is no decision to issue new shares. Should
+there be a decision to issue new shares after the general mandate is sought, the Company will make an
+announcement of the actual purpose and utilisation of proceeds arising from such issuance of shares.
+6. Agenda Item 7
+Ordinary Resolution 7 – Continuing in Office as Independent Non-Executive Director
+Pursuant to the Malaysian Code on Corporate Governance, it is recommended that approval of shareholders
+be sought in the event the Company intends to retain an Independent Director who has served in that
+capacity for more than nine (9) years.
+Datuk Kamaludin Bin Yusoff was appointed to the Board on 11 August 2008 and had therefore served as an
+Independent Director of the Company for a cumulative term of more than nine (9) years.
+The Board via the Nominating Committee had assessed the independence of Datuk Kamaludin Bin Yusoff,
+had considered him to be independent and had recommended that he continues to act as Independent
+Non-Executive Director of the Company based on the following justifications:-
+• he fulfils the criteria of an Independent Director pursuant to Main Market Listing Requirements of Bursa
+Securities;
+• he has good and thorough understanding of the Company’s business operation due to the long tenures
+with the Company and exposures in various industries;
+• he has neither impaired nor compromised his independent judgement and continues to provide
+invaluable feedback/check and balance including to challenge management on matters which he
+believes to be not in the best interest of the Group;
+• he is able to participate in deliberations and decision making of the Board and Board Committees in
+objective manner;
+• he does not have any interest over the Group’s business dealings; and
+• he has devoted adequate time, commitment and due care in all undertakings of the Group and has
+carried out his fiduciary duties in the interest of the Company and shareholders
+The proposed Ordinary Resolution 7, if passed, will enable Datuk Kamaludin Bin Yusoff to continue serving
+as an Independent Non-Executive Director of the Company.
+7. Agenda Item 8
+Ordinary Resolution 8 – Proposed Renewal of Authority for Share Buyback
+The proposed Ordinary Resolution 3, if passed, will allow the Company to purchase its own shares through
+Bursa Securities up to ten per centum (10%) of the total number of issued shares of the Company.
+Please refer to the Statement to Shareholders dated 27 May 2021 in relation to the Proposed Renewal of
+Authority for Share Buyback for further information.
+Notice of
+Twentieth Annual General Meeting
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+155
+8. Agenda Item 9
+Special Resolution – Proposed Change of Company’s Name From “Johore Tin Berhad” to “Able Global
+Berhad”
+On 21 May 2021, the Company had announced to Bursa Malaysia Securities Berhad that the Board of
+Directors had proposed to change the Company’s name from “Johore Tin Berhad” to “Able Global Berhad”.
+The approval of Companies Commission of Malaysia (“CCM”) for the use of proposed name “Able Global
+Berhad” which was obtained via CCM’s email dated 21 May 2021 and the reservation of name is valid for a
+period of 30 days from 21 May 2021 (“Validity Period”). The Proposed change of Company’s name is subject
+to the approval of shareholders of the Company by way of Special Resolution which requires a majority of
+not less than three fourth of such members of the Company as being entitled so to do vote in person or by
+proxy at the forthcoming 20th AGM to be convened on 25 June 2021.
+The proposed Special Resolution if passed, would change the Company’s name to “Able Global Berhad”
+upon issuance of Notice of Registration of new name by the CCM. Please refer to the Circular to Shareholders
+dated 27 May 2021 for further information.
+Notice of
+Twentieth Annual General Meeting
+(Cont’d)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+156
+1. Further details of individuals who are standing for election as directors (excluding directors standing for re-
+election): -
+There is no person seeking election as director of the Company at this Annual General Meeting.
+2. A statement relating to general mandate for issue of securities in accordance with paragraph 6.03(3) of the
+Main Market Listing Requirements of Bursa Malaysia Securities Berhad: -
+The general mandate for issue of shares is for the renewal of the general mandate obtained from the
+members at the 19th Annual General Meeting held on 10 August 2020.
+No new shares of the Company have been issued pursuant to the general mandate obtained at the 19th
+Annual General Meeting held on 10 August 2020, and accordingly no proceeds were raised.
+The purpose of this general mandate is to provide flexibility to the Directors to undertake fund raising
+activities, including but not limited to further placement of shares for the purpose of funding current
+and/or future investment project(s), working capital, repayment of bank borrowings, acquisitions and/
+or for allotment of shares as settlement of purchase consideration.
+STATEMENT ACCOMPANYING
+NOTICE OF ANNUAL GENERAL MEETING
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+157
+ADMINISTRATIVE GUIDE FOR THE
+TWENTIETH ANNUAL GENERAL MEETING
+(“20th AGM”)
+Date and Time : Friday, 25 June 2021 at 10.00 a.m.
+Broadcast Venue : Tricor Business Centre
+		 Manuka 2 & 3 Meeting Room
+		 Unit 29-1, Level 29, Tower A, Vertical Business Suite
+		 Avenue 3, Bangsar South, No. 8 Jalan Kerinchi,
+		 59200 Kuala Lumpur, Wilayah Persekutuan
+Meeting Platform : https://tiih.online
+PRECAUTIONARY MEASURES AGAINST THE CORONAVIRUS DISEASE (“COVID-19”)
+In line with the Government’s directive and Securities Commission Malaysia’s Guidance Note on the Conduct
+of General Meetings for Listed Issuers to curb the spread of COVID-19, the 20th AGM of the Company will be
+conducted on a virtual basis through live streaming and online voting via Remote Participation and Voting (“RPV”)
+facilities from the Broadcast Venue.
+The venue of the 20th AGM is strictly for the purpose of complying with Section 327(2) of the Companies Act 2016
+which requires the Chairman of the Meeting to be at the main venue of the meeting. No shareholders/proxy(is) from
+the public will be physically present at the meeting venue.
+We strongly encourage you to attend the 20th AGM via the RPV facilities. You may consider appointing the Chairman
+of the Meeting as your proxy to attend and vote on your behalf at the 20th AGM.
+Due to constant evolving COVID-19 situation in Malaysia, we may be required to change the arrangements of our
+20th AGM at short notice. Kindly check the Company’s website or announcements for the latest updates on the
+status of the 20th AGM.
+The Company will continue to observe the guidelines issued by the Ministry of Health and will take all relevant
+precautionary measures as advised.
+REMOTE PARTICIPATION AND VOTING
+The RPV facilities are available on Tricor’s TIIH Online website at https://tiih.online.
+Shareholders are to attend, speak (in the form of real time submission of typed texts) and vote (collectively,
+“participate”) remotely at the AGM using RPV facilities from Tricor. Kindly refer to Procedure for RPV facilities as
+set out below for the requirements and procedures.
+A shareholder who has appointed a proxy(ies) or attorney(s) or authorised representative(s) to attend, participate,
+speak and vote at this AGM via RPV must request his/her proxy(ies) or attorney or authorised representative to
+register himself/herself for RPV at TIIH Online website at https://tiih.online. Please refer to the Procedures for RPV.
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+158
+PROCEDURES FOR REMOTE PARTICIPATION AND VOTING VIA RPV FACILITIES
+Please read and follow the procedures below to engage in remote participation through live streaming and online
+remote voting at the 20th AGM using RPV facilities:
+Procedure Action
+BEFORE THE AGM DAY
+(a) Register as a user with
+TIIH Online
+• Using your computer, access the website at https://tiih.online. Register
+as a user under the “e-Services” by selecting the “Sign Up” button
+and followed by “Create Account by Individual Holder”. Refer to the
+tutorial guide posted on the homepage for assistance.
+• Registration as a user will be approved within one (1) working day and
+you will be notified via email.
+• If you are already a user with TIIH Online, you are not required to
+register again. You will receive an e-mail to notify you that the remote
+participation is available for registration at TIIH Online.
+(b) Submit your request
+to attend 20th AGM
+remotely
+• Registration is open from Thursday, 27 May 2021 until the day of AGM
+on Friday, 25 June 2021. Shareholder(s) or proxy(ies) or corporate
+representative(s) or attorney(s) are required to pre-register their
+attendance for the AGM to ascertain their eligibility to participate at the
+20th AGM using the RPV.
+• Login with your user ID (i.e. e-mail address) and password and select
+the corporate event: “(REGISTRATION) JOHORE TIN BERHAD 20TH
+AGM”
+• Read and agree to the Terms & Conditions and confirm the Declaration.
+• Select “Register for Remote Participation and Voting”.
+• Review your registration and proceed to register.
+• System will send an e-mail to notify that your registration for remote
+participation is received and will be verified.
+• After verification of your registration against the Record of Depositors
+as at 18 June 2021, the system will send you an e-mail on 23 June
+2021 to approve or reject your registration for remote participation.
+(Note: Please allow sufficient time for approval of new user of TIIH Online and
+registration for the RPV facilities).
+ON THE AGM DAY
+(c) Login to TIIH Online • Login with your user ID and password for remote participation at the 20th
+AGM at any time from 9.00 a.m. i.e. 1 hour before the commencement
+of meeting at 10.00 a.m. on Friday, 25 June 2021.
+(d) Participate through Live
+Streaming
+• Select the corporate event: “(LIVE STREAM MEETING) JOHORE
+TIN BERHAD 20TH AGM” to engage in the proceedings of the AGM
+remotely.
+• If you have any question for the Chairman/ Board, you may use
+the query box to transmit your question. The Chairman/ Board will
+endeavor to respond to questions submitted by you during the AGM.
+If there is time constraint, the responses will be e-mailed to you at the
+earliest possible, after the meeting.
+Administrative Guide for the
+Twentieth Annual General Meeting (“20Th AGM”)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+159
+PROCEDURES FOR REMOTE PARTICIPATION AND VOTING VIA RPV FACILITIES (Cont’d)
+Shareholder(s) or proxy(ies) or corporate representative(s) or attorney(s) who wish to participate the AGM remotely
+using the RPEV are to follow the requirements and procedures as summarized below: (Cont’d)
+Procedure Action
+ON THE AGM DAY
+(e) Online Remote Voting • Voting session commences from 10.00 a.m. on Friday, 25 June 2021
+until a time when the Chairman announces the end of the session.
+• Select the corporate event: “(REMOTE VOTING) JOHORE TIN
+BERHAD 20TH AGM” or if you are on the live stream meeting page,
+you can select “GO TO REMOTE VOTING PAGE” button below the
+Query Box.
+• Read and agree to the Terms & Conditions and confirm the Declaration.
+• Select the CDS account that represents your shareholdings.
+• Indicate your votes for the resolutions that are tabled for voting.
+• Confirm and submit your votes.
+(f) End of remote
+participation
+• •The live streaming will end upon the announcement by the Chairman
+on the conclusion of the AGM.
+Note to users of the RPV facilities:
+1. Should your registration for the RPV facilities be approved, we will make available to you the rights to join the
+live stream meeting and to vote remotely. Your login to TIIH Online on the day of meeting will indicate your
+presence at the virtual meeting.
+2. The quality of your connection to the live broadcast is dependent on the bandwidth and stability of the
+internet at your location and the device you use.
+3. In the event you encounter any issues with logging-in, connection to the live stream meeting or online voting
+on the meeting day, kindly call Tricor Help Line at 011-40805616 / 011-40803168 / 011-40803169 / 011-
+40803170 or e-mail to tiih.online@my.tricorglobal.com for assistance.
+ENTITLEMENT TO PARTICIPATE AND APPOINTMENT OF PROXY
+Only members whose name appear on the Record of Depositors as at 18 June 2021 shall be eligible to attend,
+speak and vote at the 20th AGM or appoint proxy(ies) and/or the Chairman of the Meeting to attend and vote on
+his/her behalf.
+In view that the 20th AGM will be conducted on a virtual basis, a member can appoint the Chairman of the Meeting
+as his/her proxy and indicate the voting instruction in the Proxy Form.
+If you wish to participate in the 20th AGM yourself, please do not submit any Proxy Form for the 20th AGM. You will
+not be allowed to participate in the 20th AGM together with a proxy appointed by you.
+Accordingly, proxy forms and/or documents relating to the appointment of proxy/corporate representative/
+attorney for the 20th AGM whether in a hard copy form or by electronic means shall be deposited or submitted in
+the following manner not later than Wednesday, 23 June 2021 at 10.00 a.m.:
+(i) In hard copy form
+By hand or post to the Share Registrar of the Company at Tricor Investor & Issuing House Services Sdn.
+Bhd., Unit 32-01, Level 32, Tower A, Vertical Business Suite, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi,
+59200 Kuala Lumpur, Wilayah Persekutuan or its the Customer Service Centre at Unit G-3, Ground Floor,
+Vertical Podium, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Wilayah Persekutuan
+Administrative Guide for the
+Twentieth Annual General Meeting (“20Th AGM”)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+160
+ENTITLEMENT TO PARTICIPATE AND APPOINTMENT OF PROXY (Cont’d)
+Accordingly, proxy forms and/or documents relating to the appointment of proxy/corporate representative/
+attorney for the 20th AGM whether in a hard copy form or by electronic means shall be deposited or submitted in
+the following manner not later than Wednesday, 23 June 2021 at 10.00 a.m.: (Cont’d)
+(ii) By electronic form
+All shareholders can have the option to submit proxy forms electronically via TIIH Online and the steps to
+submit are summarized below:
+PROCEDURE FOR ELECTRONIC SUBMISSION OF PROXY FORM
+The procedures to submit your proxy form electronically via Tricor’s TIIH Online website are summarised below:
+Procedure Action
+i. Steps for individual shareholders
+Register as a User
+with TIIH Online
+• Using your computer, access the website at https://tiih.online. Register as a
+user under the “e-Services”. Please do refer to the tutorial guide posted on
+the homepage for assistance.
+• If you are already a user with TIIH Online, you are not required to register
+again.
+Proceed with submission
+of Proxy Form
+• After the release of the Notice of Meeting by the Company, login with your
+user ID (i.e. email address) and password.
+• Select the corporate event: “Johore Tin Berhad 20th AGM - Submission of
+Proxy Form”.
+• Read and agree to the Terms & Conditions and confirm the Declaration
+• Insert your CDS account number and indicate the number of shares for your
+proxy(ies) to vote on your behalf.
+• Appoint your proxy(ies) and insert the required details of your proxy(ies) or
+appoint Chairman as your proxy.
+• Indicate your voting instructions – FOR or AGAINST, otherwise your proxy(ies)
+will decide your votes.
+• Review and confirm your proxy(s) appointment.
+• Print proxy form for your record.
+ii. Steps for corporation or institutional shareholders
+Register as a User
+With TIIH Online
+• Access TIIH Online at https://tiih.online.
+• Under the “e-Services”, the authorized or nominated representative of the
+corporation or institutional shareholder selects the “Sign Up” button and
+followed by “Create Account by Representative of Corporate Holder”.
+• Complete the registration form and upload the required documents.
+• Registration will be verified, and you will be notified by email within one (1) to
+two (2) working days.
+• Proceed to activate your account with the temporary password given in the
+email and re-set your own password.
+(Note: The representative of a corporation or institutional shareholder must register
+as a user in accordance with the above steps before he/she can subscribe to this
+corporate holder electronic proxy submission. Please contact Tricor Investor &
+Issuing House Services Sdn Bhd if you need clarifications on the user registration.)
+Administrative Guide for the
+Twentieth Annual General Meeting (“20Th AGM”)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+161
+PROCEDURE FOR ELECTRONIC SUBMISSION OF PROXY FORM (Cont’d)
+The procedures to submit your proxy form electronically via Tricor’s TIIH Online website are summarised below:
+(Cont’d)
+Procedure Action
+ii. Steps for corporation or institutional shareholders (Cont’d)
+Proceed with submission
+of Proxy Form
+• Login to TIIH Online at https://tiih.online.
+• Select the corporate exercise name: “Johore Tin Berhad 20th AGM –
+Submission of Proxy Form”
+• Read and agree to the Terms & Conditions and confirm the Declaration
+• Proceed to download the file format for “Submission of Proxy Form” in
+accordance with the Guidance Note set therein.
+• Prepare the file for the appointment of proxies by inserting the required data.
+• Login to TIIH Online, select corporate exercise name: “Johore Tin Berhad
+20th AGM – Submission of Proxy Form”.
+• Proceed to upload the duly completed proxy appointment file.
+• Select “Submit” to complete your submission.
+• Print the confirmation report of your submission for record.
+POLL VOTING
+The voting at the AGM will be conducted by poll in accordance with Paragraph 8.29A of Main Market Listing
+Requirements of Bursa Malaysia Securities Berhad. The Company has appointed Tricor Investor & Issuing House
+Services Sdn Bhd to conduct the poll voting electronically.
+Shareholders or proxy(es) or corporate representative(s) or attorney(s) can proceed to vote on the resolutions at
+any time from 10.00 a.m. on Friday, 25 June 2021 but before the end of the voting session which will be announced
+by the Chairman of the meeting. Please refer to the Procedures for Remote Participation and Voting via RPV
+Facilities provided above for guidance on how to vote remotely via TIIH Online.
+Upon completion of the voting session for the AGM, the Scrutineers will verify the poll results followed by the
+Chairman’s declaration whether the resolutions are duly passed.
+PRE-MEETING SUBMISSION OF QUESTION TO THE BOARD OF DIRECTORS
+Shareholders may submit questions for the Board in advance of the AGM via Tricor’s TIIH Online website at https://
+tiih.online by selecting “e-Services” to login, pose questions and submit electronically no later than Wednesday,
+23 June 2021 at 10.00 a.m. The Board will endeavor to answer the questions received at the AGM.
+Administrative Guide for the
+Twentieth Annual General Meeting (“20Th AGM”)
+JOHORE TIN BERHAD I ANNUAL REPORT 2020
+162
+NO RECORDING OR PHOTOGRAPHY
+Unauthorized recording and photography are strictly prohibited at the 20th AGM.
+DOOR GIFT/FOOD VOUCHER
+There will be no door gifts or food vouchers for attending the AGM.
+ENQUIRY
+If you have any enquiry prior to the meeting, you may contact the following person during office hours on Monday
+to Friday from 8.30 am to 5.30pm (except on public holidays).
+Tricor Investor & Issuing House Services Sdn Bhd
+General /Fax No. : +603-2783 9299 / +603-2783 9222
+Email : is.enquiry@my.tricorglobal.com
+Nor Faeayzah : 603-2783 9274 / Nor.Faeayzah@my.tricorglobal.com
+Ang Wai Meng : 603-2783 9281 / Wai.Meng.Ang@my.tricorglobal.com
+Administrative Guide for the
+Twentieth Annual General Meeting (“20Th AGM”)
+✄
+JOHORE TIN BERHAD
+Registration No. 200001029963 (532570-V)
+I/We ____________________________________________________________________________________________________________________
+(NRIC No./Passport No./Company No. ___________________________________________ ) of _______________________________________
+________________________________________________________________________________________________________________________
+being a Member/Members of JOHORE TIN BERHAD [Registration No. 200001029963 (532570-V)] hereby appoint:
+Full Name NRIC No./Passport No. Proportion of Shareholdings
+No. of Shares %
+Address
+and
+Full Name NRIC No./Passport No. Proportion of Shareholdings
+No. of Shares %
+Address
+or failing him/her/them, the Chairman of the Meeting as my/our proxy to vote for me/us on my/our behalf at the 20th Annual General
+Meeting of the Company will be conducted entirely through live streaming from the Broadcast Venue at Tricor Business Centre, Manuka
+2 & 3 Meeting Room, Unit 29-01, Level 29, Tower A, Vertical Business Suite Avenue 3, Bangsar South, No. 8 Jalan Kerinchi, 59200
+Kuala Lumpur, Wilayah Persekutuan (“Broadcast Venue”) on Friday, 25 June 2021 at 10.00 a.m. and any adjournment thereof and my/
+our proxy is to vote as indicated below:
+Item Agenda
+1. To receive the Audited Financial Statements for the financial year ended 31 December 2020 and the Reports of the Directors
+and Auditors thereon.
+Resolution *FOR *AGAINST
+Ordinary Business:
+2. To approve the payment of Directors’ fees of for the financial year
+ended 31 December 2020.
+Ordinary Resolution 1
+3. Approval of payment of Directors’ benefits with effect from the 20th
+Annual General Meeting 2021 to the 21st Annual General Meeting
+2022 of the Company.
+Ordinary Resolution 2
+4. Re-election of the following Directors who retire by rotation pursuant
+to Clause 76(3) of the Company’s Constitution.
+(a) Mr Edward Goh Swee Wang Ordinary Resolution 3
+(b) Datuk Kamaludin Bin Yusof Ordinary Resolution 4
+5. Re-appointment of Messrs Crowe Malaysia PLT as Auditors of the
+Company and to authorise the Directors to fix their remuneration.
+Ordinary Resolution 5
+Special Business:
+6. Authority to Directors to issue and allot shares pursuant to Sections
+75 and 76 of the Companies Act, 2016.
+Ordinary Resolution 6
+7. Continuing in office as Independent Non-Executive Director – Datuk
+Kamaludin Bin Yusoff
+Ordinary Resolution 7
+8. Proposed Renewal of Authority for Share Buyback Ordinary Resolution 8
+9. Proposed Change of Company’s Name from ‘Johore Tin Berhad’ to
+“Able Global Berhad”
+Special Resolution
+(*Please indicate with an “X” in the appropriate space how you wish your proxy to vote. If no specific direction as to voting is given, the
+proxy will vote or abstain at his/her discretion.)
+Dated this..........................day of...............................2021
+..................................................................................
+**Signature/Common Seal of Shareholder
+Number of shares held
+CDS Account No.
+FORM OF PROXY
+** Manner of execution:
+(a)		
+If you are an individual member, please sign where indicated.
+(b) If you are a corporate member which has a common seal, this proxy form should be executed under seal in accordance with
+the constitution of your corporation.
+(c) If you are a corporate member which does not have a common seal, this proxy form should be affixed with the rubber stamp
+of your company (if any) and executed by:
+(i) at least two (2) authorised officers, of whom one shall be a director; or
+(ii) any director and/or authorised officers in accordance with the laws of the country under which your corporation is
+incorporated.
+NOTES:-
+1. IMPORTANT NOTICE
+The Broadcast Venue is strictly for the purpose of complying with Section 327(2) of the Companies Act 2016 which requires
+the Chairman of the meeting to be present at the main venue of the meeting. Members will not be allowed to attend the 20th
+Annual General Meeting in person at the Broadcast Venue on the day of the meeting.
+Members are to attend, speak (including posing questions to the Board via real time submission of typed texts) and vote (collectively,
+“participate”) remotely at the 20th AGM via the Remote Participation and Voting (“RPV”) facilities provided by Tricor Investor &
+Issuing House Services Sdn. Bhd. via its TIIH Online website at https://tiih.online. Please follow the Procedures for RPV in the
+Administrative Guide for the 20th AGM and take note of procedure below in order to participate remotely via RPV.
+2. For the purpose of determining who shall be entitled to participate in this AGM via RPV, the Company shall be requesting Bursa
+Malaysia Depository Sdn. Bhd. to make available to the Company, the Record of Depositors as at 18 June 2021. Only a member
+whose name appears in this Record of Depositors shall be entitled to participate in this AGM via RPV or appoint a proxy to attend,
+speak and vote on his/her/its behalf.
+3. A member entitled to participate via RPV at the 20th AGM is entitled to appoint a proxy or attorney or in the case of a corporation,
+to appoint a duly authorised representative to participate in his/her stead. A proxy may but need not be a member of the Company.
+4. A member of the Company who is entitled to participate at the 20th AGM of the Company may appoint not more than two (2) proxies
+to attend, participate, speak and vote instead of the member at the Annual General Meeting.
+5. Where a member of the Company is an authorised nominee as defined in the Central Depositories Act, it may appoint not more
+than two (2) proxies in respect of each securities account it holds in ordinary shares of the Company standing to the credit of the
+said securities account.
+6. Where a member of the Company is an exempt authorised nominee which holds ordinary shares in the Company for multiple
+beneficial owners in one securities account (“omnibus account”), there is no limit to the number of proxies which the exempt
+authorised nominee may appoint in respect of each omnibus account it holds. An exempt authorised nominee refers to an
+authorised nominee defined under the Securities Industry (Central Depositories) Act 1991 (“Central Depositories Act”) which is
+exempted from compliance with the provisions of Section 25A(1) of the Central Depositories Act.
+7. Where a member appoints more than one (1) proxy, the proportion of shareholdings to be represented by each proxy must be
+specified in the instrument appointing the proxies.
+8. A member who has appointed a proxy or attorney or authorised representative to participate at the 20th AGM via RPV must
+request his/her proxy or attorney or authorised representative to register himself/herself for RPV via TIIH Online website at
+https://tiih.online. Please refer to the procedures for RPV in the Administrative Guide for the 20th AGM.
+9. The appointment of a proxy may be made in a hard copy form or by electronic means shall be deposited in the following manner
+and must be received by the Company not less than forty-eight (48) hours before the time appointed for holding the AGM or
+adjourned general meeting at which the person named in the appointment proposes to vote:
+• In hard copy form
+By hand or post to the Share Registrar of the Company at Tricor Investor & Issuing House Services Sdn. Bhd., Unit 32-01,
+Level 32, Tower A, Vertical Business Suite, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Wilayah
+Persekutuan or its the Customer Service Centre at Unit G-3, Ground Floor, Vertical Podium, Avenue 3, Bangsar South, No.
+8, Jalan Kerinchi, 59200 Kuala Lumpur, Wilayah Persekutuan
+• By electronic means
+The proxy form can be electronically lodged with the Share Registrar of the Company via TIIH Online at https://tiih.online.
+Kindly refer to the Administrative Guide for the AGM on the procedures for electronic lodgement of proxy form via TIIH
+Online.
+10. Please ensure ALL the particulars as required in this proxy form are completed, signed and dated accordingly.
+11. Last date and time for lodging this proxy form is Wednesday, 23 June 2021 at 10.00 a.m.
+12. Any authority pursuant to which such an appointment is made by a power of attorney must be deposited with the Share Registrar
+of the Company at Tricor Investor & Issuing House Services Sdn. Bhd., Unit 32-01, Level 32, Tower A, Vertical Business Suite,
+Avenue 3, Bangsar South, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Malaysia or alternatively, the Customer Service Centre at
+Unit G-3, Ground Floor, Vertical Podium, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Malaysia not less
+than forty-eight (48) hours before the time appointed for holding the AGM or adjourned general meeting at which the person named
+in the appointment proposes to vote. A copy of the power of attorney may be accepted provided that it is certified notarially and/
+or in accordance with the applicable legal requirements in the relevant jurisdiction in which it is executed.
+13. For a corporate member who has appointed an authorised representative, please deposit the ORIGINAL certificate of appointment
+of authorised representative with the Share Registrar of the Company at Tricor Investor & Issuing House Services Sdn. Bhd., Unit
+32-01, Level 32, Tower A, Vertical Business Suite, Avenue 3, Bangsar South, No. 8, Jalan Kerinchi, 59200 Kuala Lumpur, Malaysia
+or alternatively, the Customer Service Centre at Unit G-3, Ground Floor, Vertical Podium, Avenue 3, Bangsar South, No. 8, Jalan
+Kerinchi, 59200 Kuala Lumpur, Malaysia. The certificate of appointment of authorised representative should be executed in the
+following manner:
+(i) If the corporate member has a common seal, the certificate of appointment of authorised representative should be executed
+under seal in accordance with the constitution of the corporate member.
+(ii) If the corporate member does not have a common seal, the certificate of appointment of authorised representative should
+be affixed with the rubber stamp of the corporate member (if any) and executed by:
+(a) at least two (2) authorised officers, of whom one shall be a director; or
+(b) any director and/or authorised officers in accordance with the laws of the country under which the corporate member
+is incorporated.
+Affix
+Stamp
+Please fold here
+Please fold here
+The Share Registrar
+JOHORE TIN BERHAD
+Tricor Investor & Issuing House Service Sdn. Bhd.
+Registration No. 197101000970 (11324-H)
+Unit 32-01, Level 32, Tower A,
+Vertical Business Suite, Avenue 3,
+Bangsar South, No. 8 Jalan Kerinchi,
+59200 Kuala Lumpur, Malaysia
+Tel no.: +603 2783 9299
+Fax no.: +603 2783 9222
+✄
+JOHORE TIN BERHAD
+Registration No. 200001029963
+(532570-V)
+Suite 1301, 13th Floor
+City Plaza, Jalan Tebrau
+80300 Johor Bahru, Johor
+Tel : +60(7) 335 4988
+Fax : +60(7) 335 4977
+w w w. johoretin . c o m . m y
+

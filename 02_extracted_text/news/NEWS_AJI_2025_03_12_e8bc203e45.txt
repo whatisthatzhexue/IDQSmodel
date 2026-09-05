@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI crashes to a one-year low as trade fears escalate
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-03-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/12/fbm-klci-crashes-to-a-one-year-low-as-trade-fears-escalate
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysian stocks plummeted to a new one-year low on Wednesday, with the FBM KLCI caught in a relentless four-day selloff. Investor jitters over US President Donald Trump’s import tariffs deepened, fueling fears that his trade policies could stifle economic growth and trigger global repercussions. The market barometer FBM KLCI tumbled 35.32 points, or 2.32%, to 1,484.83—its lowest level since January 2024—after recovering slightly from an intraday low of 1,478.84.
+
+[NEWS_P002] This marked its steepest drop since the 4.63% plunge on Aug 5. Apart from the Bursa Malaysia Transportation and Logistics Index, all sectoral indices ended in the red, reflecting broad-based selling pressure. In the broader market, declines outpaced gains, with 659 stocks falling against 297 advancers, dragging market breadth down to 0.45, signalling that the bears were firmly in control. Trading activity remained high, with 3.1 billion shares worth RM3.37bil changing hands.
+
+[NEWS_P003] Dealers noted that escalating concerns over tariffs and their potential to throttle global growth continued to weigh heavily on sentiment. Nonetheless, they noted that the current selloff presented a buying opportunity, given the KLCI’s oversold position. United Plantations, the biggest loser on Bursa Malaysia tumbled 90 sen to RM21.40. Tenaga Nasional slid 40 sen to RM13, Ajinomoto declined 38 to RM13.92 and Hong Leong Financial Group fell 36 sen to RM17.10.
+
+[NEWS_P004] Among the gainers, PPB Group rose 34 sen to RM11.64, PETRONAS Gas added 30 sen to RM16.92, PIE Industrial gained 29 sen to RM3.30, and Hong Leong Industries climbed 22 sen to RM23.92. Sapura Energy , the most actively traded counter on Bursa Malaysia, added 0.5 sen, or 14.29% to four sen with 183.64 million shares done. Separately, stock market data shows that foreign investors net sold RM447mil worth of equities on Tuesday. Local institutions were net buyers at RM395mil, while retailers purchased RM51mil.
+
+[NEWS_P005] Meanwhile, Reuters reported that the ringgit was the region’s worst performer, falling 0.5% earlier. The local currency was quoted at 4.4330, down 0.44%. On the external front, MSCI’s Asia ex-Japan stock index was lower by 0.14%. Japan’s Nikkei 225 advanced 0.07% to 36,819.09, while South Korea’s Kospi closed up 1.47% to 2,574.82. Hong Kong’s Hang Seng Index ended 0.76% lower at 23,600.31. China’s CSI300 index fell 0.36% to 3,927.23 and the Shanghai Composite Index eased 0.23% to 3,371.92.

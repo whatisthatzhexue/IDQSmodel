@@ -1,0 +1,104 @@
+document_id: MDA_7243_MAGMA_2024
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P003]", "note": "margin: stated 3.20%, calculated 109.81% from profit/revenue, status material_discrepancy.", "source_text": "FYE 2023 Revenue 14,926 14,458 3.2% Gross Profit (“GP”) 16,390 16,543 (0.9%) Gross Profit Margin (“GPM”) 109.8% 114.4% Administrative Expenses -21,829 -12,420 (75.7%) Other Cost -40,582 -17,141 (>100%) (Loss) Before Tax (“LBT”) -46,020 -13,018 (>100%) (Loss) After Tax from Continued Operations -1 (“", "status": "material_discrepancy"}], "document_id": "MDA_7243_MAGMA_2024", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 2, "num_consistent_checks": 1, "num_financial_mentions": 88, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P002]
+The Group’s foray into real estate leverages its hospitality strengths to deliver elevated living experiences and long-
+term value. As a cornerstone of its growth strategy, property development is set to play a significant role in Magma’s
+future trajectory. Looking ahead to 2025, Magma is well-positioned to seize emerging opportunities in the dynamic hospitality
+and tourism sectors. With a strong asset base, proven operational excellence, and an unwavering focus on guest
+satisfaction, the Group is poised to lead with innovation and sustainable growth. Review of Financial Performance
+The summary of the Statement of Comprehensive Income is as follows:
+3. FYE 2024
+FYE 2023
+Variance
+FYE 2024
+vs.
+[MDA_P003]
+FYE 2023
+Revenue
+14,926
+14,458
+3.2%
+Gross Profit (“GP”)
+16,390
+16,543
+(0.9%)
+Gross Profit Margin (“GPM”)
+109.8%
+114.4%
+Administrative Expenses
+(21,829)
+(12,420)
+(75.7%)
+Other Cost
+(40,582)
+(17,141)
+(>100%)
+(Loss) Before Tax (“LBT”)
+(46,020)
+(13,018)
+(>100%)
+(Loss) After Tax from Continued Operations (1) (“LAT”)
+(45,466)
+(13,135)
+(>100%)
+Note:
+(1)
+Attributable to owner of the Company
+For the FYE2024, Magma recorded revenue of RM14.93 million, a 3.2% increase from RM14.46 million in financial year
+ended 31 December 2023 (“FYE2023”). This growth reflects the Group’s continued efforts to strengthen operational
+efficiency and adapt to evolving market conditions. Gross Profit (“GP”) declined by 0.9% to RM16.39 million (FYE2023: RM16.54 million). However, the Gross Profit Margin
+(“GPM”) contracting from 114.4% to 109.8%, primarily due to higher input and operating costs, driven by inflation and
+industry-wide cost pressures. Administrative expenses increased significantly by 75.7%, reaching RM21.83 million (FYE2023: RM12.42 million). This
+rise was mainly due to strategic restructuring initiatives, increased staffing costs, and inflation-related adjustments.
+[MDA_P004]
+Other costs more than doubled to RM40.58 million (FYE2023: RM17.14 million), driven by one-off restructuring
+expenses, strategic investments, and provisions related to market uncertainties. MAGMA GROUP BERHAD 200601021085 (740838-A)
+[MDA_P005]
+MANAGEMENT DISCUSSION & ANALYSIS
+(Overview of Group Business)
+cont’d
+As a result, the Group reported a Loss Before Tax (“LBT”) of RM46.02 million, compared to RM13.02 million in
+FYE2023. The Loss After Tax (“LAT”) attributable to the owners from continuing operations widened to RM45.466
+million, up from RM13.135 million in the prior year. The widened losses reflect the impact of rising expenses and
+strategic realignments, despite modest revenue growth.
+The summary of the Statement of Segmented Revenue is as follows:
+3. 
+FYE 2024
+FYE 2023
+Variance
+FYE 2024
+vs. FYE 2023
+Hotel Operation
+28,562
+12,077
+>100%
+Hotel Management
+2,666
+4,832
+(44.8%)
+Property Development
+(16,302)
+(2,451)
+(>100%)
+Total Revenue
+[MDA_P006]
+3.2%
+For the FYE2024, Magma recorded a total revenue of RM14.93 million, representing a modest year-on-year growth of
+3.2%. This performance was shaped by significant divergence across its core business segments:
+)PUFM 0QFSBUJPO
+Revenue from Hotel Operation more than doubled to RM28.56 million (FYE 2023: RM12.08 million), positioning it as
+the Group’s primary growth driver. This surge was underpinned by higher occupancy rates and Average Room Rates
+(ARR), bolstered by the rebound in international tourism, particularly from China. The consolidation of WOLO Kuala
+Lumpur under Magma Bintang Sdn Bhd further contributed to the segment’s robust growth and underlined its strong
+market positioning. )PUFM .BOBHFNFOU
+The segment experienced a 44.8% decline in revenue to RM2.67 million (FYE 2023: RM4.83 million), primarily due to
+the cessation of management contracts for Impiana properties in Bali and Phuket. Despite the setback, the segment
+remains operationally stable, supported by ongoing efficiency measures. 1SPQFSUZ %FWFMPQNFOU
+This segment registered a negative revenue of RM16.30 million FYE 2024, compared to negative RM2.45 million in
+the previous year.

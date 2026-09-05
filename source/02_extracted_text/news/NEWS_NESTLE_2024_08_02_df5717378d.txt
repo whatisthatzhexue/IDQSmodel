@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia in sea of red as 1,300 counters decline; ringgit rises for 10th straight day
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/02/bursa-malaysia-in-sea-of-red-as-1300-counters-decline-ringgit-rises-for-10th-straight-day
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia sank into a sea of red on Friday as a change in investor appetite for equities triggered sharp selling in over 1,300 domestic counters, in line with subdued regional markets. The FBM KLCI was down 13.20 points, or 0.81% to 1,611.05, taking its full-week drop to 0.11%. Aside from the main FBM KLCI, all other indices on Bursa Malaysia also recorded varying degrees of losses, with the construction sector being the largest loser, falling 5.03%.
+
+[NEWS_P002] A total of 1,316 counters closed in negative territory, compared to just 155 that gained and 267 that remained unchanged. Traded volumes rose to 5.2 billion securities valued at RM4bil as profit-taking activities took control. Leading the day's trading activity with 296.36 million shares crossed was Hubline, which ended three sen lower at 10 sen. Malaysian Pacific Industries tumbled RM2.10 to RM35, Dutch Lady lost 78 sen to RM30.08, F&N slid 62 sen to RM29.80 and Heineken lost 52 sen to RM22.40.
+
+[NEWS_P003] Among the gainers, Nestle jumped RM1.50 to RM110.50, PETRONAS Dagangan added 36 sen to RM17.60, Quality Concrete rose 17 sen to RM1.34 and Ge-Shen climbed 10 sen to RM3.86. Meanwhile, ringgit is on a roll, gaining for the 10th straight day. The ringgit advanced 1.78% to a one-year high and traded at 4.4880 against the US dollar. Reuters reported that the ringgit is the only positively performing emerging Asian currency with a 1.8% gain on a year-to-date basis.
+
+[NEWS_P004] Around the region, MSCI's Asia ex-Japan stock index was lower by 2.44%. Japan’s Nikkei 225 closed down 5.81% at 35,909.70, while South Korea’s Kospi ended down 3.65% at 2,676.19. Hong Kong’s Hang Seng index fell 2.08% to 16,945.51, China’s CSI 300 Index slid 1.02% to 3,384.39 and Shanghai Composite Index closed down 0.92% to 2,905.34.

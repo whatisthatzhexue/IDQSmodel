@@ -1,0 +1,41 @@
+[TITLE]
+Trading ideas: Gamuda, SkyWorld, PGF, FGV, Mega First, JHM, MN, OCK, Sunview, Power Root, SNS
+
+[LEAD]
+KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia.
+
+[NEWS_P001]
+KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia.
+
+[NEWS_P002]
+Gamuda Bhd is acquiring a 20% stake in Cloud Space Sdn Bhd, a Google Cloud premier partner, for RM18mn.
+
+[NEWS_P003]
+Skyworld Development Bhd has signed an agreement with the Penang state agencies to jointly develop the country's largest affordable housing project that is valued at RM13bn.
+
+[NEWS_P004]
+PGF Capital Bhd is acquiring two parcels of freehold land, totalling approximately 9.6 acres in Kulim Hi-Tech Park, Kedah, for a mixed development project, which will include a condominium, hotel, serviced residences, and several commercial elements valued at RM600mn.
+
+[NEWS_P005]
+FGV Holdings Bhd announced that its plan to develop an integrated dairy farm business in Chuping, Perlis has lapsed due to the expiration of the deadline for meeting the necessary conditions precedent in the shareholders' agreement.
+
+[NEWS_P006]
+Mega First Corporation Bhd , which has added a fifth turbine generator unit to boost the power generation capacity of its Don Sahong hydropower project in Laos, has secured a five-year extension to its 25-year concession for the project.
+
+[NEWS_P007]
+JHM Consolidation Bhd ’s 52%-owned subsidiary JHM Dekai Auto Lighting Sdn Bhd has secured a contract with an estimated value of RM300mn for the supply of parts for specific car models to Perusahaan Otomobil Nasional Sdn Bhd.
+
+[NEWS_P008]
+MN Holdings Bhd has won a contract worth RM162.6mn for design and building works at a hyperscale data centre in the southern region of Peninsular Malaysia.
+
+[NEWS_P009]
+OCK Group Bhd is expanding its renewable energy portfolio with a proposed RM350mn investment in a large-scale solar photovoltaic power plant in Malaysia through Solarpack Suria Sungai Petani Sdn Bhd.
+
+[NEWS_P010]
+Sunview Group Bhd through its wholly owned unit Fabulous Sunview Sdn Bhd, has secured two contracts worth a combined RM196.1mn to build two ground-mounted photovoltaic solar power plants with an installed capacity of 40MWp in Sungai Petani, Kedah.
+
+[NEWS_P011]
+Power Root Bhd had inked a sale and purchase agreement with Ree Fong Agriculture Sdn Bhd for the acquisition of five lots of freehold agricultural land in Kulai, Johor, for a cash consideration of RM20.0mn.
+
+[NEWS_P012]
+SNS Network Technology Bhd has reported a five-fold rise in its 3QFY25 net profit to RM10.2mn from RM2.0n a year earlier, on improved margins and sales in both online and physical store channels.

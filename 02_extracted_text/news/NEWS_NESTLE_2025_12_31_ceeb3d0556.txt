@@ -1,0 +1,20 @@
+[TITLE]
+Late buying lifts FBM KLCI
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/31/late-buying-lifts-fbm-klci
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia’s barometer index ended firmer yesterday, reversing losses earlier in the day to close 0.21% higher – a new high this year – driven by late buying activity amid signs of year-end window dressing. At 5pm, the FBM KLCI rose 3.54 points to 1,684.53 from Monday’s close of 1,680.99. The FBM KLCI, which opened 3.33 points lower at 1,677.66, slipped to the day’s low of 1,673.87 during the morning session but regained its momentum in the final hour of trade to close at the day’s high.
+
+[NEWS_P002] In the broader market, however, decliners outpaced gainers 536 to 463, while 544 counters were unchanged, 1,180 untraded and 78 suspended. Turnover narrowed to 1.88 billion units worth RM1.90bil from the 2.03 billion units worth RM1.79bil recorded on Monday. Berjaya Research Sdn Bhd head of research Kenneth Leong said that on the final trading day of the year, the FBM KLCI is expected to remain subdued and trade within a narrow range as market participation continues to thin.
+
+[NEWS_P003] “With many investors already on the sidelines and limited fresh catalysts, near-term movements are likely to be driven by technical factors amid the absence of strong conviction buying. “Overall sentiment is expected to turn lacklustre with the key index likely to trade in a narrow range,” he told Bernama, adding that the 1,690-point level will continue to serve as the immediate resistance, followed by the 1,700 psychological level. Among heavyweight counters, Malayan Banking Bhd rose six sen to RM10.50, CIMB Group Holdings Bhd was flat at RM8.23, Public Bank Bhd gained three sen to RM4.54, Tenaga Nasional Bhd fell 10 sen to RM13.78, and IHH Healthcare Bhd added four sen to RM8.60.
+
+[NEWS_P004] On the most-active list, Tanco Holdings Bhd edged up one sen to RM1.15, Pharmaniaga Bhd eased one sen to 29 sen, Mega Fortis Bhd gained eight sen to 88 sen, TWL Holdings Bhd slid half a sen to two sen, and MQ Tech Bhd was unchanged at 8.5 sen. As for the top gainers, Malaysian Pacific Industries Bhd was up 38 sen to RM32.88, Hong Leong Industries Bhd climbed 30 sen to RM16.70, Far East Holdings Bhd increased 25 sen to RM4.30, United Plantations Bhd gained 20 sen to RM30.24, and Panasonic Manufacturing Malaysia Bhd put on 15 sen to RM7.15.
+
+[NEWS_P005] Among the top losers, Nestle (M) Bhd gave up RM2.30 to RM113.40, Atlan lost 23 sen to RM2.90, Fraser & Neave Holdings Bhd dropped 20 sen to RM35.80, Master-Pack Group Bhd erased 15 sen to RM1.85, and Lysaght Galvanized Steel Bhd fell 14 sen to RM2.41.

@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit closes lower against US dollar ahead of US inflation data
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2025-03-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/12/ringgit-closes-lower-against-us-dollar-ahead-of-us-inflation-data
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit closed lower against the US dollar on Wednesday on caution ahead of US inflation data later tonight and as the global trade war escalated. At 6 pm, the ringgit dropped to 4.4260/4300 against the greenback from Tuesday’s close of 4.4100/4175. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the market was worried about the escalating trade war, which dampened risk sentiment. "The release of the US Consumer Price Index (CPI) tonight is quite important and could determine the direction of US interest rates this year,” he told Bernama.
+
+[NEWS_P002] Mohd Afzanizam said the US Federal Reserve (Fed) might want to ease its policy rate further to counter a possible recession in the US economy. "Additionally, regional equities market, along with the FTSE Bursa Malaysia KLCI (FBM KLCI), have recorded close to a 10 per cent decline on a year-to-date basis, signalling that the risk-off mode is still pervasive,” he added. SPI Asset Management managing partner Stephen Innes said the ringgit came under pressure today, weighed down by trade war jitters, rising US yields, and pre-US CPI positioning, with the markets bracing for a strong inflation print that could send yields higher.
+
+[NEWS_P003] "With the April 2, 2025 reciprocal tariff day reaching closer, expect risk appetite to stay jittery, especially with the US-China trade tensions heating up. The next few weeks could see even choppier price action as investors recalibrate for escalating policy risks,” he added. The ringgit was traded mostly lower against a basket of major currencies. It rose versus the Japanese yen to 2.9775/9804 from 2.9921/9974 at Tuesday’s close but dropped against the British pound to 5.7255/7306 from 5.7035/7132 and depreciated vis-a-vis the euro to 4.8301/8345 from 4.8091/8173 previously.
+
+[NEWS_P004] The local noted traded lower against ASEAN currencies. It dipped versus the Singapore dollar to 3.3181/3213 from Tuesday’s closing of 3.3118/3177, slipped against the Thai baht to 13.0688/0868 from 13.0415/0695 and edged lower vis-a-vis the Indonesian rupiah to 269.0/269.3 from 268.7/269.3 previously. The ringgit was also lower versus the Philippine peso at 7.71/7.73 from Tuesday’s closing of 7.70/7.72. - Bernama

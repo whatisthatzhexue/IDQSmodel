@@ -1,0 +1,22 @@
+[TITLE]
+Bursa Malaysia remains in the red at midday as US tariffs affect markets
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-04-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/03/bursa-malaysia-remains-in-the-red-at-midday-as-us-tariffs-affect-markets
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended the morning trading session in the red, pressured by ongoing selling, in line with regional trends, following the announcement by US President Donald Trump that Malaysia would face a 24% tariff rate. At 12.30 pm, the FBM KLCI dropped 4.4 points, or 0.29%, to 1,522.12, recovering from an intraday low of 1,516.06. There were 449 gainers, 348 losers and 400 counters traded unchanged on the Bursa Malaysia. Turnover stood at 1.62 billion shares valued at RM904.36mil.
+
+[NEWS_P002] TA Securities expects stocks to trade sideways with downward pressure, due to ongoing uncertainties over the impact of the 24% reciprocal tariffs imposed on Malaysia by the US. It added that trading volume is expected to be light, with many investors likely to remain on the sidelines following the extended Hari Raya holidays. “Immediate index resistance remains at 1,550, followed by 1,580, with a tougher upside hurdle at 1,605. Immediate support is still at 1,500, with stronger key retracement supports seen at 1,472 and 1,450,” it said.
+
+[NEWS_P003] TA noted that a 24% tax on all products exported to the US could have drastic consequences, as shipments to the US in 2024 are estimated to be around RM198.7bil (US$43.4bil) out of a total export of RM1.5 trillion or 13.2%. “A major concern earlier was how this will affect Malaysia's semiconductor exports to the US, as electronic integrated circuits and microassemblies amounted to US%9.6bil or 22.1% of Malaysia's total merchandise exports in 2024.
+
+[NEWS_P004] “Thankfully, semiconductors are on the list of goods not subject to reciprocal tariff apart from copper, pharmaceutical and some other products. That aside, we believe there should be high-level negotiations between both countries to iron out a win-win solution in the near future,” it added. Meanwhile, SPI Asset Management managing director Stephen Innes this is a coordinated tariff strike on most of the global economy — and the market reaction is justified.
+
+[NEWS_P005] “The U.S. has torched what remained of multilateralism and opened the door to retaliation from multiple fronts. “Keep an eye on policy responses from Brussels, Beijing, and Tokyo, but also watch for the Fed's next move — the pivot clock is ticking,” he said. Among the decliners on Bursa Malaysia, Nestle tumbled RM2.44 to RM70.22, Hong Leong Bank lost 22 sen to RM20.16, Batu Kawan eased 20 sen to RM19.40 and Malaysian Pacific Industries fell 16 sen to RM17.38.
+
+[NEWS_P006] Conversely, Panasonic Manufacturing rose 28 sen to RM13.80, Kuala Lumpur Kepong added 24 sen to RM20.66 and Perusahaan Sadur Timar climbed 15 sen to RM2.15. Glove counters attracted trading interest today, buoyed by a positive outlook for Malaysian players amid tariff shifts in the global market. Top Glove rose 5.5 sen to 86 sen, Supermax added 7 sen to 78.5 sen, while Kossan gained 16 sen to RM1.80, and Hartalega climbed 15 sen to RM2.01.

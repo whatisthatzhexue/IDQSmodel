@@ -1,0 +1,152 @@
+document_id: MDA_2836_CARLSBG_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 47, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+DEAR SHAREHOLDERS,
+HELLO EVERYONE. I HOPE THIS NOTE FINDS ALL OF YOU
+IN GOOD STEAD AND EXCELLENT HEALTH. STEFANO CLINI
+Managing Director of Carlsberg Malaysia Group
+The year 2020, long anticipated as a
+historic milestone for Malaysia and a
+personally significant one for me as
+my first full year leading the Carlsberg
+Malaysia Group, suffered an unforeseen
+reverse due to COVID-19, which as we
+know is now a pandemic that engulfed
+the entire world. Our company was not spared the fallout. With
+the
+first
+confirmed
+COVID-19
+confirmed case reported in Singapore on
+23 January 2020, we set in motion our
+commercial and operational plans for
+business continuity amid highly uncertain
+prospects. Pre-emptively, we began with
+tightening our health and safety practices
+to safeguard against what was already
+becoming a huge threat here and abroad. Two months later, the World Health
+Organisation (WHO) declared a global
+pandemic, with governments responding
+by sending a third of the world’s
+population into lockdown. In Malaysia, the
+Movement Control Order (MCO) began
+on 18 March 2020 while in Singapore, a
+‘circuit breaker’ (CB) was implemented on
+7 April 2020.
+[MDA_P002]
+We essentially suspended
+production and distribution in compliance
+with unprecedented restrictions, which led
+to business disruption. From
+the
+beginning,
+we
+began
+engaging with our stakeholders in
+earnest, communicating our efforts
+to contain the virus and offering
+support and reassurance to our
+employees, business partners and
+customers. Our community efforts
+remained, with our Safer Schools
+campaign a new step-up in
+response to public fears over the
+outbreak of COVID-19. Our brewery was finally allowed to
+resume full operations following the
+start of the Conditional MCO (CMCO)
+period in Malaysia on 4 May 2020. Thankfully,
+from
+May
+onwards,
+we saw a gradual lifting of social
+distancing measures in Malaysia,
+though not all on-trade businesses
+such as entertainment outlets were
+allowed to operate. In Singapore, the
+government announced on 19 June
+2020 that on-trade outlets were only
+to re-open partially under ‘new normal’
+guidelines.
+[MDA_P005]
+I am proud to say that even in the darkest days of lockdown,
+we kept our priorities right, with safety and wellbeing at the top. We developed stringent health and safety standard operating
+procedures (SOPs), including suspending brewery visits and on-
+ground events in Malaysia. Staff not essential to the running of the brewery were asked to
+work from home, while those working from the brewery adhered
+to a strict segregation of workforce during shift handovers. We
+also implemented a split team rotation on alternate days when
+employees returned to the office during the Recovery MCO
+(RMCO) period in Malaysia. In Malaysia, we have implemented mandatory swab tests since
+January 2021, fully sponsored by the company and in support
+of government efforts to curb the rising rate of infections for
+employees required to work at our Shah Alam headquarters or
+in the field. These difficulties saw us band together in ways we never thought
+possible.
+[MDA_P009]
+Statements from Our Leadership
+MANAGING DIRECTOR’S MESSAGE
+AND MANAGEMENT DISCUSSION & ANALYSIS
+OUR TWO ENABLERS
+OUR SEVEN STRATEGIC PRIORITIES
+CREATE A
+WINNING CULTURE
+DEFEND OUR LICENSE
+TO OPERATE
+‘Grow in Mainstream’ with Carlsberg Danish Pilsner
+and Carlsberg Smooth Draught
+‘Win in Each Store’ with better in-store execution,
+a step-up from the previous ‘Win in Store’
+‘Fund the Journey’ by delivering efficiencies in
+Operating Expenses, Value Management and the
+Supply Chain
+‘Go Big in Premium’ with Kronenbourg 1664 Blanc,
+Somersby cider, Asahi Super Dry and Connor’s
+Stout Porter
+‘Innovate with Digital’ replacing ‘Build New
+Revenue Streams’
+Achieve ‘Organic Growth in Operating Profit’
+Deliver ‘High and Stable Dividend Yield’ for
+shareholders
+Amidst all the uncertainties, whether from COVID-19, domestic and global macroeconomics or socio-politics, we remained agile and
+disciplined in implementing our SAIL’22 priorities, especially on our Fund the Journey initiatives and an ever-increased focus on cost
+control, embedded in our Malaysia and Singapore operations.
+[MDA_P024]
+New Ways of Working with
+Technology
+Physical meetings and interstate travel
+became a thing of the past, overtaken
+by
+virtual
+platforms
+like
+Microsoft
+Teams swiftly implemented via internal
+training and usage, enabling us to remain
+productive while staying safely socially
+distant. We deployed a number of digital
+measures to ensure our people remained
+in constant contact while management
+issued frequent, detailed and informative
+company-wide updates to keep us all
+abreast
+of
+company
+developments
+throughout the movement control in
+Malaysia and circuit breaker in Singapore. This included simple Group-wide chat
+app updates, productivity suites and
+e-learning and knowledge sharing and
+crisis management portals to cater to
+diverse audiences and business objectives. Our strategic priority of ‘Build New Revenue
+Streams’, which had a focus on innovation,
+has been distilled further to ‘Innovate
+with Digital’ in 2020 in recognition of the
+growing role digitalisation plays in our
+commercial efforts. Somersby Hard Seltzer is an alcoholic
+sparkling water that contains 4.5 per
+cent alcohol by volume (ABV) content.

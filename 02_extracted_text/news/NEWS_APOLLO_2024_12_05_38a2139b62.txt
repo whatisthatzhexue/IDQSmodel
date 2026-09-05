@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Public Bank, TMV, Mulpha, Central, Uzma, Binasat, Focus, UEM Sunrise, Sentoria, Enproserve, Apollo
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-12-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/05/trading-ideas-public-bank-tmv-mulpha-central-uzma-binasat-focus-uem-sunrise-sentoria-enproserve-apollo
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Public Bank Bhd has completed the acquisition of 175.9mn shares, representing a 44.2% stake in insurer LPI Capital Bhd on Wednesday. TMC Life Sciences Bhd said its suspended CEO, Wan Nadiah Wan Mohd Abdullah Yaakob, has been found guilty of misconduct following a domestic inquiry. Mulpha International Bhd has proposed to buy a 6.46-hectare land in New South Wales state for A$68.1mn and intends to develop the property into 63 residential land lots with a projected gross development value of A$150.0mn.
+
+[NEWS_P002] Geneva Insurance Group (Barbados) Inc has ceased to be a substantial shareholder in construction and manufacturing company Central Global Bhd after disposing of 35.0mn shares, representing a 5.0% stake. Uzma Bhd has accepted a contract from Enquest Petroleum Production Malaysia Ltd for the provision of a hydraulic workover unit for Raya A. Binasat Communications Bhd has proposed to undertake a private placement to finance the acquisition of several properties.
+
+[NEWS_P003] Focus Dynamics Group Bhd has proposed a share capital reduction to wipe out up to RM126.8mn of the company’s accumulated losses. UEM Sunrise Bhd has announced the resignation of its chief executive officer, Sufian Abdullah, which will take effect from 28 February 2025. The Employees Provident Fund has emerged as a substantial shareholder in Mega First Corporation Bhd , after raising its direct stake in the utility conglomerate company to 5.99%, comprising 56.5mn shares.
+
+[NEWS_P004] Sentoria Group Bhd has triggered Bursa Malaysia's PN17 criteria after its shareholders’ equity fell to 33% of its issued and paid-up capital, based on its just released financial statement for the year ended 30 September 2024. Terengganu-based mechanical and engineering services provider Enproserve Group Bhd has filed for an initial public offering on Bursa Malaysia’s ACE Market to raise funds for its business expansion. Apollo Food Holdings Bhd 2QFY25 net profit grew 6.7% YoY to RM10.6mn supported by higher domestic and export sales.

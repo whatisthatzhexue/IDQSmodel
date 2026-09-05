@@ -1,0 +1,135 @@
+document_id: MDA_0212_SDS_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 17, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+management discussion and analysis
+Dear valued shareholders, it is our pleasure to present the Annual Report and
+Audited Financial Statements of SDS Group Berhad (“SDS Group” or the
+“Group”) for the financial year ended 31 March 2020 (“FY2020”). OVERVIEW OF THE GROUP’S BUSINESS
+A New Milestone
+It was a notable achievement for SDS Group in its milestone to announce its successful Initial Public Offer (“IPO”). On 7
+October 2019, the Group was listed on the ACE Market of Bursa Malaysia Securities Berhad with an issue price of RM0.23
+per share. The IPO for the Group of 104,296,800 ordinary shares comprising public issues of 20,291,200 new shares,
+23,132,000 new shares were distributed among the Group’s Directors, employees, business associate or persons who
+have contributed to the success of the Group and 60,873,600 new shares are earmarked by way of the private placement
+to selected investors. Business Background
+As a Johor home-grown company, SDS Group has developed its business with three subsidiary brands including retail
+brand, ‘SDS’ and wholesale brands, ‘Top Baker’ and ‘Daily’s’.
+[MDA_P004]
+ANNUAL REPORT 2020 | SDS GROUP BERHAD
+management discussion and analysis
+OUR STRATEGIES FOR MARKET AND PRODUCT
+Retail Channel
+The Group takes initiative to strengthen its products through various platforms and action plans to gain competitive
+advantage and to improve its market position in its challenging business environment. The Group continues to enhance and draw customers’ attention closer to its products and services by launching its new
+SDS mobile application through digitalization. With this new application, customers can obtain the latest updates on
+their products and services. Besides, this SDS application
+also enables customers to monitor their membership
+and rewards after purchase. The unique application of
+SDS also facilitates customers to locate its nearest retail
+outlets easily. The Group has upgraded its online ordering platform by
+having the online ordering system via the Group’s website
+to cater to the needs of customers. The Group has also
+collaborated with external established food delivery
+service providers for online delivery.
+[MDA_P006]
+ANNUAL REPORT 2020 | SDS GROUP BERHAD
+KELANTAN
+PERLIS
+KEDAH
+PULAU
+PINANG
+SELANGOR
+PUTRAJAYA
+NEGERI
+SEMBILAN
+MELAKA
+JOHOR
+PAHANG
+KUALA
+LUMPUR
+PERAK
+TERENGGANU
+management discussion and analysis
+OUR STRATEGIES FOR MARKET AND PRODUCT (CONT’D)
+Wholesale Channel
+The Group business strategy for
+the wholesale distribution channel
+of bread and bun is to expand its
+business presence to the Central
+and Northern region of Peninsular
+Malaysia. These expansion plans
+can be manifested with the
+opening of new depot at Bukit
+Mertajam, Penang with a fleet of
+10 delivery vehicles. Currently,
+the Group has depots in 9 states
+out of the 11 states in Peninsula
+Malaysia. The Group also has
+planned to set up a new depot in
+Kedah in the near future. Varieties of bakery products under brands of ‘Top Baker’ and ‘Daily’s’ are sold under wholesale channel through
+hypermarkets, supermarkets, convenience stores, some smaller grocery or sundry shops. During the year,
+the Group has launched new products such as white toast peeled, pizza cheese stick and custard bun to its
+customers to meet the demand of the customers’ preference and changing taste.
+[MDA_P008]
+ANNUAL REPORT 2020 | SDS GROUP BERHAD
+management discussion and analysis
+YEAR ON YEAR FINANCIAL REVIEW
+Financial Indicators
+FY2020
+RM’000
+FY2019
+RM’000
+Difference
+(%)
+Revenue
+191,520
+187,129
+2.4
+Gross Profit
+57,193
+57,100
+0.2
+Gross Profit Margin
+29.9%
+30.5%
+-2.0
+Profit before tax
+4,998
+9,302
+-46.3
+Profit after tax
+4,212
+7,854
+-46.4
+Net profit margin
+2.2%
+4.2%
+-47.6
+Earnings per share (Sen)
+1.16
+2.55
+-54.5
+Revenue
+The Group generated revenue of RM191.5 million in FY2020, an increase of RM4.4 million or 2.4% from RM187.1 million
+in FY2019 mainly due to an increase in revenue derived from the retail segment which contribute to approximately 35.4%
+of the Group’s total revenue. The increase in revenue was mainly due to opening of 3 new outlets (1 bakery and 1 café
+outlets in The Mall, Mid Valley Southkey, and 1 bakery-cum-cafe outlet in Tesco Setia Tropika) and the introduction of new
+bakery and café products for customers during the year. Gross Profit Margin
+Gross profit margin is lower by 0.6% from 30.5% in FY2019 to 29.9% in FY2020 mainly due to the change in the
+sales product mix and increase in certain production overheads during the year.
+[MDA_P009]
+Due to the outbreak of the COVID-19
+pandemic, the Group has experienced lower revenue from the retail channel since February 2020 as consumers began
+to avoid crowded places. However, during this period, some of the fixed overhead expenses remained constant, thus
+resulting in a slightly lower gross profit margin. Profit Before Tax
+The profit before tax has decreased by 46.3% from RM9.3 million in FY2019 to RM5.0 million in FY2020. This is mainly
+due to the following reasons:
+1)
+One-off gain relating to the disposal of assets classified as held for sales amounting to RM2.0 million during the
+previous financial year; and
+2)
+The listing expenses of RM2.2 million incurred during the year.

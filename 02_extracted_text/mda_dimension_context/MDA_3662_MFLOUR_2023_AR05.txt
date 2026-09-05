@@ -1,0 +1,44 @@
+document_id: MDA_3662_MFLOUR_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 136.249, "paragraph_count": 18, "paragraph_length_distribution": {"max": 1192, "mean": 856.611, "min": 34}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P005]
+Correspondingly, the Group recorded a loss after tax and minority interest amounting to RM6.7 million or
+basic loss per share (“LPS”) of 0.65 sen, compared to a profit after tax and minority interest of RM145.0
+million or basic earnings per share (“EPS”) of 14.22 sen previously. Excluding the effect of remeasurement
+of contingent consideration receivable, the adjusted EPS is 6.30 sen, as compared to 13.36 sen previously.
+[MDA_P010]
+Annual Report 2023 | Malayan Flour Mills Berhad 25
+The grain trading business recorded profit before tax of RM2.9 million in FY2023, as compared to a loss
+before tax of RM10.9 million in the previous year. The turnaround in the performance of the grain trading
+business was due to increase in sales volume, improved margins and higher forex gains which was partially
+offset by higher interest expense. During the year, our joint venture company in Indonesia, BFMI, witnessed not only the same impacts as those
+that affected our Malaysia and Vietnam operations, but also faced intense competition in the country, in
+addition to high finance costs and weak Rupiah. Although sales volume during the year recovered strongly by 31.2%, as a result of more optimistic consumer
+sentiment and increased demand by the manufacturing clientele, the 30% associate company, BFMI,
+continued to record a net loss of RM66.5 million in FY2023, versus a net loss of RM23.4 million in FY2022. The flour milling sector turned the corner by mid-2023, in spite of the challenges mentioned above.
+[MDA_P014]
+Annual Report 2023 | Malayan Flour Mills Berhad
+Aqua Feeds Segment
+The aqua feeds business continues to record growth in sales volumes resulting in the business achieving a
+pre-tax profit of RM0.3 million as compared to a pre-tax loss of RM4.5 million in FY2022. Anticipated and Known Risks
+Compliance to Food Safety and Quality Assurance standards are top priorities for us as a food manufacturer,
+since usage of flour and poultry is very wide and diverse, cutting across different cultural background, race
+and religion. To ensure our customers and consumers are able to consume products produced without any worry or
+doubt, we have implemented Hazard Analysis and Critical Control Points (“HACCP”) in all our manufacturing
+facilities. At the same time, all our products are halal certified by Department of Islamic Development Malaysia
+(“JAKIM”) and are subject to annual compliance audit. Due to the nature of the flour industry which is highly dependent on global wheat prices, we will continually
+monitor the global wheat prices to ensure that the flour business continues to have uninterrupted supply to
+our markets, at the same time achieving sustainability in our profitability.
+[MDA_P018]
+Firstly, chicken is the best protein source compared to
+other meats; secondly, our synergistic partnership with Tyson is poised to take us on a growth trajectory;
+lastly, our capacity at the primary processing plant would be more than enough to meet the demand from our
+growth plans.

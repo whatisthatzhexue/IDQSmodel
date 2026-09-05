@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI in the red; ringgit rises to 6-month high
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-07-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/12/fbm-klci-in-the-red-ringgit-rises-to-6-month-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Investors chose to pause for breath today and take profits following the recent gains while the ringgit rose to its highest in six months. The ringgit hit a high of 4.6630 against the US dollar in early trade this morning, its highest level since the beginning of the year. The local unit was last traded at 4.6672, up 0.43% against the greenback. It rose 0.07% against the Singapore dollar at 3.4764 and appreciated 0.06% against the euro at 5.0815.
+
+[NEWS_P002] At 5pm, the 30-stock index was down 4.06 points, or 0.25% at 1,619.06, dragged down by losses in YTL Power, YTL Corp and Tenaga Nasional. The benchmark index, however, added 0.5% for the week. Sellers outpaced gainers 639 to 532, while 513 counters were unchanged. About 4.6 billion shares, valued at RM3.73bil, changed hands. Laggards among the KLCI component stocks, YTL power fell 20 sen to RM4.95, YTL Corp lost eight sen to RM3.73 and Tenaga slid 14 sen to RM14.46.
+
+[NEWS_P003] PETRONAS Gas rose 26 sen to RM18.22, PPB Group gained eight sen to RM14.28 and Hong Leong Financial Group added six sen to RM17.34. On the broader market, Ge-Shen jumped 31 sen to RM3.69, EG Industries rose 24 sen to RM2.26 and Carlsberg added 18 sen to RM19.02. Malaysian Pacific Industries tumbled RM1.12 to RM39.88, F&N lost 62 sen to RM30.50 and KESM fell 25 sen to RM6.71. Among the key regional markets: Japan’s Nikkei 225 closed down 2.45% to 41,190.68; Hong Kong’s Hang Seng Index surged 2.59% to 18,293.38; Shanghai Composite Index added 0.03% to 2,971.30; Taiwan’s Taiex declined 1.94% to 23,916.93; South Korea’s Kospi ended down 1.19% to 2,857.00 and; Singapore’s Straits Times Index rose 0.73% to 3,500.33 points.

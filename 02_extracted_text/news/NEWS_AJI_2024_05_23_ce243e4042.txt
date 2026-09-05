@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI closes at fresh 3-year high as rally extends
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-05-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/23/fbm-klci-closes-at-fresh-3-year-high-as-rally-extends
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI surged to a new three-year high, driven by strong gains in blue-chip stocks and supported by positive investor sentiment and robust buying interest. The 30-stock index closed up 7.09 points, or 0.44% at 1,629.18, its highest since March 2021. The index hit an intraday high of 1,632.79 and a low of 1,620.66. All indices on Bursa Malaysia, apart from the Bursa Malaysia Healthcare Index, were up. There were 732 gainers, 521 losers and 504 counters traded unchanged on the Bursa Malaysia.
+
+[NEWS_P002] Turnover rose to 6.15 billion shares valued at RM4.68bil. In today's trading, 18 of the FBM KLCI component stocks closed higher, with nine counters recording declines. Tenaga Nasional contributed the most to the index gain and had the largest move, increasing 2.5%, or 32 sen to RM13.10. It contributed 2.667 points to the index. On the other hand, Petronas Chemicals was the biggest drag on the index, falling 1.56%, or 11 sen to RM6.92, pulling the index lower by 1.2673 points.
+
+[NEWS_P003] Among the gainers on Bursa Malaysia, Greatech Technology jumped 37 sen to RM5.38, YSP Southeast Asia rose 34 sen to RM2.94, Ajinomoto added 32 sen to RM16.54 and Keyfield gained 28 sen to RM2.39. Nestle tumbled RM1.50 to RM128, BLD Plantation fell 32 sen to RM10.68, PETRONAS Dagangan declined 28 sen to RM20.402 and MSM lost 25 sen to RM2.73. Elsewhere in the region, MSCI's Asia ex-Japan stock index was lower by 0.3%. Japan’s Nikkei 225 rose 1.26% to 39,103.22 while South Korea’s Kospi closed down 0.06%, at 2,721.81.
+
+[NEWS_P004] Hong Kong’s Hang Seng index was down1.7%, at 18,868.71 and China’s CSI300 Index ended down 1.16% at 3,641.79.

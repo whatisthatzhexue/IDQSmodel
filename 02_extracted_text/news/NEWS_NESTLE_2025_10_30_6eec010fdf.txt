@@ -1,0 +1,34 @@
+[TITLE]
+Cautious optimism outlines 3Q results season
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2025-10-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/30/cautious-optimism-outlines-3q-results-season
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: Domestic demand and tariff clarity are key factors that could anchor improved third-quarter (3Q25) performance for companies listed on Bursa Malaysia, analysts say, as the corporate results season beckons. Notably, the early release of positive numbers from a number of counters across a diverse range of sectors, including Nestle (M) Bhd , Ecofirst Consolidated Bhd and Ramssol Group Bhd , appears to indicate that the 3Q25 corporate results would continue lending support to the local market despite the prevalent cautious investor sentiment.
+
+[NEWS_P002] Head of equity sales and seasoned analyst at Rakuten Trade Vincent Lau tips the technology sector as one that should outperform, citing the example of Vitrox Corp Bhd ’s 3Q25 results on Oct 23, and the belief that the industry has been exempt from tariffs imposed by the United States since Liberation Day in early April. ViTrox’s net profit for 3Q25 surged 54.6% year-on-year (y-o-y) to RM34.7mil, with turnover similarly jumping 55.8% to RM228.6mil, a record quarterly revenue, which it attributed to sustained and broad-based demand.
+
+[NEWS_P003] “The tech industry has probably experienced lower tariff-induced uncertainty compared to others, but we also like the consumer sector which should also gain from the government’s Sumbangan Asas Rahmah or Sara and Sumbangan Tunai Rahmah or STR cash assistance, as can be seen from Nestle Malaysia’s good quarterly numbers,” Lau told StarBiz. With the US Federal Reserve also holding its Federal Open Market Committee or FOMC meeting overnight, with expectations the American central bank could extend its rate cutting trend by another 25 basis points, Lau said this should grant further impetus for the FBM KLCI to post a strong November.
+
+[NEWS_P004] Contextually, a number of international bourses have plumbed record highs in recent weeks, including the Nikkei 225, the S&P 500, the Dow Jones, the Korea Composite Stock Price Index and Singapore’s Straits Times Index, with Lau pointing out that this leaves Malaysian equities with potential for further upside. Consumer counters that have made it into his pick include MR DIY Group (M) Bhd , 99 Speed Mart Retail Holdings Bhd and Eco-Shop Marketing Bhd .
+
+[NEWS_P005] At the same time, he also anticipates a broad re-rating for the tech sector. “Data centre-related counters and recently listed companies should also do well,” he added. Assistant manager of research at iFast Capital Kevin Khaw echoed Lau’s thoughts, after having observed a broader base recovery in 3Q25 earnings releases so far. Domestic recovery in demand and clearer tariff development are fiscal tailwinds for the local bourse moving into November, he said.
+
+[NEWS_P006] As is typical of corporate results, however, Khaw acknowledged that while a better than expected or improvement in earnings would definitely be one of the catalysts for a year-end rally in the FBM KLCI as sentiment improves, investors are still leaning towards a cautious mood at the moment, with large and small-cap indices being range-bound after rallying in September. “Our year-end target for the premier index is 1,650 points. “Of course, besides improving investment sentiment, better-than-expected corporate results could potentially lead to foreign fund inflows amid a rate cut in the United States.
+
+[NEWS_P007] “We are expecting a gradual recovery in 3Q25 based on both domestic and external factors,” he said. On the other hand, a research director with a foreign brokerage said early 3Q25 results are suggesting resilience in domestic consumption but muted performance in export-oriented sectors. “Nestle Malaysia’s earnings, for example, showed that Malaysian consumer demand remained firm, particularly for essential and affordable goods, despite inflationary pressures,” he noted.
+
+[NEWS_P008] Concurrently, the research director is expecting banks to post stable but unspectacular earnings, with net interest margins easing slightly due to deposit competition, while loan growth remains moderate. On the other hand, he said the plantation and rubber glove industries may see weaker y-o-y quarterly numbers on lower commodity and average selling price trends. “Overall, we are expecting a mixed 3Q25 season – not disastrous, but not a strong catalyst either.
+
+[NEWS_P009] This could mean sideways trading for the FBM KLCI in November, with stock-specific moves dominating index performance,” he said. At this point, the research director added that most analysts see limited near-term catalysts for a significant rally, with the FBM KLCI having already priced in modest earnings growth for 2025. As such, he said unless banks, telecommunication companies (telcos) or large consumer counters deliver positive surprises, the results season might simply confirm the market’s cautious optimism rather than ignite a broad rally.
+
+[NEWS_P010] “However, if US interest rate cuts begin earlier than expected or China’s recovery strengthens, foreign fund inflows could lift sentiment even if earnings are merely in line. “Otherwise, November is likely to remain range-bound between 1,540 and 1,610 points, as investors focus on guidance for 2026 rather than short-term earnings beats,” he said. Like Lau, the research director predicted consumer staples should see earnings upgrades on strong pricing power and steady demand, while also forecasting telcos, utilities and construction players to see improved results.
+
+[NEWS_P011] He said Budget 2026’s infrastructure push and ongoing project rollouts could support upward momentum heading into next year. Separately, head of dealing at Moomoo Malaysia Ken Low commented that the relative underperformance of Malaysian equities versus global indices such as the S&P 500 reflects structural differences. He said the FBM KLCI is still highly weighted towards mature sectors and lacks high-growth tech names that have driven US market gains.
+
+[NEWS_P012] Nevertheless, he said this created an opportunity for Bursa Malaysia to focus on repositioning value and income themes for long-term investors amid global rate normalisation, while also showcasing sectoral growth stories in clean energy, semiconductors and data infrastructure to attract foreign inflows.

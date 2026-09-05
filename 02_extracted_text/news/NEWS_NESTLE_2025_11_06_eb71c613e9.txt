@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI moves in narrow trading band in wait for catalysts
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-11-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/06/fbm-klci-moves-in-narrow-trading-band-in-wait-for-catalysts
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI was slightly down at midday after trading in a narrow four-point band over the early session as investors awaited fresh domestic catalysts as well as the announcement of the central bank's interest rate decision later today. The weaker performance of Malaysia's stock benchmark was at odds with the rebound across regional markets as investors bought bargains after a steep selldown earlier in the week. At 12.30, the index was down 0.5 points to 16,21.05, lagging behind key Asian markets, which rallied following the release of upbeat US economic data overnight.
+
+[NEWS_P002] Leading Asia higher, Hong Kong's Hang Seng rose 1.64% to 26,261 while Japan's Nikkei gained 1.56% to 50,998. In the Chinese mainland, the Shanghai composite index was up 0.88% to 4,004 while the CSI 300 gained 1.28% to 4,686. The selling on the Malaysian market was not limited to blue chips, as the broader market recorded a negative spread of 497 decliners to 449 gainers. Trading volume was 2.34 billion shares valued at RM1.12bil. Sectors that saw the heaviest drawdowns were financial services, healthcare and utilities, while construction firms, plantations and REITs saw some buying support.
+
+[NEWS_P003] Of the heavyweights, Nestle was down RM3.10 to RM112.90 as investors booked profits from the previous day's gains. PETRONAS Chemicals dropped 15 sen to RM3.60, PETRONAS Dagangan slid 20 sen to RM22.60 and Public Bank fell seven sen to RM6.30. Meanwhile, local tech stocks failed to make much headway despite the Nasdaq's rebound overnight. KESM dropped 10 sen to RM3.46, Inari Amertron lost six sen to RM2.42 and Pentamaster shed nine sen to RM9.

@@ -1,0 +1,170 @@
+document_id: MDA_5187_HBGLOB_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P005]
+ANNUAL REPORT 2024
+HB GLOBAL LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Expansion into High-Growth Sectors
+HBGL has broadened its portfolio by venturing into
+large-scale
+agriculture
+and
+aquaculture. These
+initiatives support both sustainable food production
+and export markets, catering to the growing demand
+for sustainable food sources. Leveraging Technology for Operational Efﬁciency
+As part of its digital transformation strategy, HBGL
+also leveraged in data-driven decision-making tools
+and AI-powered supply chain analytics to improve
+efficiency, productivity, and sustainability. These allow
+for real-time monitoring of production processes,
+improved
+inventory
+management,
+and
+better
+demand forecasting. The recent joint venture with HIS
+Holdings Sdn. Bhd. further reinforces the Group’s focus
+on AI-driven agriculture, enabling greater scalability
+and efficiency in its plantation and farming activities. Strengthening Market Presence and Strategic Partnerships
+To drive business growth, HBGL has expanded its distribution networks and strategic alliances.
+[MDA_P006]
+The Group
+has entered into partnerships with regional and international retailers, distributors, and institutional buyers,
+strengthening its market position across key territories. By aligning its offerings with evolving consumer preferences,
+HBGL remains competitive in the global food and agribusiness sector. FINANCIAL PERFORMANCE
+Revenue
+Cost of Sales
+Gross Margin
+Gross Proﬁt
+RMB80.7 million
+RMB(65.4) million
+19%
+RMB15.3 million
+Financial Review
+In FYE 2024, the Group recorded revenue of RMB80.7 million, continuing its positive momentum following the
+modest increase of RMB0.7 million (approximately 0.8%) in FYE 2023. The growth in both years was primarily
+attributable to stronger sales from the China subsidiary, reflecting the Group’s recovery from earlier disruptions in
+production and supply chains due to regional lockdowns during the Covid-19 resurgence. Gross profit in FYE 2024 stood at RMB15.3 million, with cost of sales amounting to RMB65.4 million. Other income
+for the year was RMB2.6 million, lower than RMB7 million in FYE 2023.
+[MDA_P008]
+ANNUAL REPORT 2024
+HB GLOBAL LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Gross Margin
+FYE 2024
+FYE 2023
+Changes
+RMB’ million
+RMB’ million
+%
+Revenue
+80.726
+80.049
+0.8
+Cost of Sales
+(65.420)
+(78.995)
+-17.18
+Gross Profit
+15.306
+1.054
++1,352
+Gross Margin (%)
+1.3
++17.70
+The gross margin increased from 1.3% in FYE 2023 to 19% in FYE 2024, a growth of 17.7%. Other Income/ Expenditure derived Proﬁt Before Tax (“PBT”)
+Net operating (income) / expenses
+Net operating (income) / expenses
+FYE 2024
+FYE 2024
+FYE 2023
+FYE 2023
+Changes
+Changes
+RMB’ million
+RMB’ million
+RMB’ million
+RMB’ million
+RMB’ million
+RMB’ million
+%
+Other operating income
+2.599
+7.094
+-63.40
+Selling and distribution expenses
+(0.719)
+(0.676)
++6.36
+General and administrative expenses
+(19,624)
+(23.082)
+-14.98
+Other operating expenses
+(28.518)
+-100
+Financial costs
+(1.174)
+(1.712)
+-31.43
+BUSINESS STRATEGIES AND RISK FACTORS
+Business Strategies
+In FYE 2024, HBGL recorded revenue of RMB80.7
+million and a gross profit of RMB15.3 million. This
+marks a continued improvement following the prior-
+year recovery, with performance driven primarily by
+the Group’s main subsidiary in China.
+[MDA_P009]
+The subsidiary
+played a vital role in strengthening sales and restoring
+operational
+efficiency
+after
+pandemic-induced
+supply chain disruptions. Our Research and Development (R&D) division
+remains a cornerstone of our strategic growth. Located at the heart of our China operations, R&D is
+focused on improving product quality, aligning with
+evolving consumer preferences and maintaining
+our competitiveness in the dynamic food industry. Particular emphasis is placed on the development
+of healthier food options — including low-fat, low-
+sodium, and plant-based products — in response to
+increased global health consciousness. To support these product innovation efforts and meet
+growing demand, we are expanding our customer
+base
+across
+both
+domestic
+and
+international
+markets, exploring strategic entry into new regions
+while continuously upgrading our product offerings. Concurrently, we are investing in online sales channels
+and e-commerce platforms to capture value from
+shifting consumer behaviour toward digital retail and
+home delivery services.
+[MDA_P011]
+ANNUAL REPORT 2024
+HB GLOBAL LIMITED
+Risk Factors
+As a player in the food processing industry, HBGL is
+highly attentive to product quality and food safety risks. We have implemented stringent internal controls and
+quality systems covering every stage of production. These include sanitation protocols for equipment and
+facilities, employee hygiene procedures, and end-to-
+end traceability mechanisms, all designed to prevent
+contamination and uphold consumer confidence. Beyond operational risks, we are exposed to broader
+business risks including:
+1. Labour Shortages: Labour availability, especially
+in the manufacturing sector within China, remains
+a challenge. To address this, we have invested in
+automation to reduce dependency on manual
+labor and ensure consistent production output. 2. Fluctuating Raw Material Prices: Volatility in raw
+material costs affects margins and planning. We
+mitigate this risk by maintaining strong relationships
+with a diversified supplier base and exploring long-
+term procurement contracts. 3.

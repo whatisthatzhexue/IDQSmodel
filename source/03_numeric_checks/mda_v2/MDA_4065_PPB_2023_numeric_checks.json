@@ -1,0 +1,59 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 19314081.44,
+      "current_value": 19314081.44,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P017]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 19314081.44, stated total 2022.00, difference 955096.91%.",
+      "previous_value": 2022.0,
+      "source_text": "GROUP FINANCIAL PERFORMANCE RM'000 RM'000 Revenue 5,720,693 6,257,395 Profit before tax 1,488,474 2,250,424 Profit attributable to shareholders 1,394,305 2,196,818 Earnings per share (sen) 98.01 154.43 The Group achieved total revenue of RM5.72 billion, 9% lower than FY2022. This was mainly attribut",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 115618495.23,
+      "current_value": 115618495.23,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P019]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 115618495.23, stated total 1600.00, difference 7226055.95%.",
+      "previous_value": 1600.0,
+      "source_text": "Property RM'000 RM'000 Segment revenue 117,483 140,959 Segment profit 17,400 34,909 Segment revenue and profit were lower at RM117 million (FY2022: RM141 million) and RM17 million (FY2022: RM35 million) respectively, mainly attributable to lower progressive profit recognised from the Megah Rise Resi",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 10894.0,
+      "current_value": 10894.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P020]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 10894.00, stated total 197.00, difference 5429.95%.",
+      "previous_value": 197.0,
+      "source_text": "Group Cash and Cash Equivalents Group cash and cash equivalents increased by RM42 million to RM1.63 billion as at 31 December 2023 (FY2022: RM1.59 billion). Group Bank Borrowings Group Bank Borrowings decreased by RM914 million to RM433 million as at 31 December 2023. The decrease was attributable t",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    }
+  ],
+  "document_id": "MDA_4065_PPB_2023",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 19314081.44, stated total 2022.00, difference 955096.91%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 115618495.23, stated total 1600.00, difference 7226055.95%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 10894.00, stated total 197.00, difference 5429.95%."
+  ],
+  "num_calculable_changes": 0,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 131,
+  "num_material_discrepancies": 0,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 3,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "moderate"
+}

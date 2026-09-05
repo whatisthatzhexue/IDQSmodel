@@ -1,0 +1,49 @@
+document_id: MDA_4707_NESTLE_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Overall, solid
+growth in combination with our disciplined approach to cost management
+and the partial mitigation of the impact from commodity headwinds allowed
+us to record a recovery in profit after tax of RM569.8 million for the year, up
+by 3.1%, while profit before tax stood at RM751.8 million (+3.7% increase). BUSINESS & OPERATIONAL REVIEW
+In navigating through the second year of the pandemic, we stayed focused
+in protecting the business core, once again ensuring flawless commercial
+execution across all channels and retailers. Indeed, through our sales and distributor network which allows us to cover
+the full spectrum of channels and geographies across the country, our highly
+capable and committed sales team was able to ensure the presence in-
+store of all our brands, serving the needs of our customers and consumers. Amidst the many restrictions during the pandemic, this was key to ensure
+the availability of our products across the nation.
+[MDA_P003]
+Ne s t l é ( Ma l a ys i a ) Berh a d
+A nn ua l Re v ie w
+Management Discussion and Analysis
+Likewise, our industrial sites and supply chain operations allowed us to fulfil the solid demand for our brands, even in the most difficult moments of the lockdown, when only 60% of the
+workforce was allowed to operate on-site. This constrained operational environment makes even more remarkable the progress achieved in executing major investments across our various sites
+during 2021, reinforcing the foundations and our footprint to be able to support growth through the coming years. As we are now watching the light at the end of the pandemic tunnel, I would want to acknowledge the impressive participation of all our teams in the National Vaccination programme, as well
+as our effort to encourage Malaysians to get vaccinated through our national communications campaign incentivising Malaysians to register for vaccination and offering e-wallet vouchers worth
+a total of RM500,000 as rewards. We had also the privilege of supporting frontliners by providing meals at selected Vaccination Administration Centres.
+[MDA_P004]
+In addition to focused execution to ensure the steady supply of our core products, we also paid close attention to emerging consumer trends, and this allowed us to introduce a stream of new
+products that contributed incremental sales and opened new avenues to ensure future growth. You can see many of them referred to in the individual business review section later in this report. Allow me to refer in particular to the new platforms we have launched to address the growing interest in healthier and more sustainable lifestyles, especially important for the new generations. This realisation is behind our entrance into the plant-based space, with the opening of our plant-based meal solution manufacturing facility in Shah Alam in March 2021, and the launch of
+our HARVEST GOURMET brand. As Nestlé’s first facility of its kind in the ASEAN region, this enables us to capture, under the Harvest Gourmet brand, the rising demand for plant-based foods
+in both our domestic and export markets, supplying Malaysian-made, high-quality, great-tasting Halal-certified plant-based meals.
+[MDA_P009]
+With a view towards building up Malaysia’s grassroots football ecosystem, we
+collaborated with the Football Association of Malaysia, embarking on a five-year partnership
+to nurture a new generation of football stars, and kicked off the MILO All Star Challenge to
+showcase talented young players. “Ultimately, it is about delivering better-for-you products that play a positive role in the nutrition of Malaysian families and continue to deliver
+consistently the high quality and 100% halal commitment behind each and everyone of our products. That’s what Nestlé, the Good Food, Good Life
+company, is about: a constant strive to enhance the lives of Malaysians through products that support them in their health and wellness journey.”
+[MDA_P010]
+Ne s t l é ( Ma l a ys i a ) Berh a d
+A nn ua l Re v ie w
+Management Discussion and Analysis
+We are deeply committed to shaping a more diverse and inclusive working environment and we are proud of the high level of participation of female colleagues in leadership roles across the
+organisation. In 2021, we focused our actions to improve the more male-dominated areas such as Sales and Operations, starting from increased recruitment with women comprising 34% of new hires in our
+Sales, Technical and Supply Chain divisions; as well as making available activities such as a forklift driving training academy specifically targeted to provide our interested female colleagues the
+necessary skills and certification needed to take on these roles. Supporting gender balance is also about removing barriers and in 2021, we engaged three daycare centres in close proximity to our Head Office, while enhancing our Parental Support Policy
+with increased paid maternity and paternity leave, primary caregiver leave and child adoption leave.

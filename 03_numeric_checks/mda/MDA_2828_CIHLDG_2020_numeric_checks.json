@@ -1,0 +1,68 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 13.043478,
+      "current_value": 2600.0,
+      "direction_word": "increased",
+      "metric": "revenue",
+      "note": "Revenue: stated 13.00%, calculated 13.04%, status consistent.",
+      "previous_value": 2300.0,
+      "source_text": "Revenue The Group’s revenue increased by 13% from RM2.3 billion to RM 2.6 billion",
+      "stated_pct": 13.0,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": 55.052265,
+      "current_value": 445.0,
+      "direction_word": "increased",
+      "metric": "assets",
+      "note": "Assets: stated 55.00%, calculated 55.05%, status consistent.",
+      "previous_value": 287.0,
+      "source_text": "Assets: Trade Receivables Trade receivables increased by 55% from RM287 million to RM445 million",
+      "stated_pct": 55.0,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": 37.5,
+      "current_value": 165.0,
+      "direction_word": "increased",
+      "metric": "assets",
+      "note": "Assets: stated 38.00%, calculated 37.50%, status consistent.",
+      "previous_value": 120.0,
+      "source_text": "Assets: Cash And Bank Balances The Group’s bank balances and deposits placed with financial institutions increased by 38%, from RM120 million to RM165 million",
+      "stated_pct": 38.0,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": 85.643564,
+      "current_value": 375.0,
+      "direction_word": "increased",
+      "metric": "borrowings",
+      "note": "borrowings: stated 86.00%, calculated 85.64%, status consistent.",
+      "previous_value": 202.0,
+      "source_text": "borrowings increased by 86% from RM202 million to RM375 million",
+      "stated_pct": 86.0,
+      "status": "consistent"
+    }
+  ],
+  "document_id": "MDA_2828_CIHLDG_2020",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": false,
+  "internal_check_notes": [
+    "Revenue: stated 13.00%, calculated 13.04%, status consistent.",
+    "Assets: stated 55.00%, calculated 55.05%, status consistent.",
+    "Assets: stated 38.00%, calculated 37.50%, status consistent.",
+    "borrowings: stated 86.00%, calculated 85.64%, status consistent."
+  ],
+  "num_calculable_changes": 4,
+  "num_consistent_checks": 4,
+  "num_financial_mentions": 51,
+  "num_material_discrepancies": 0,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "strong"
+}

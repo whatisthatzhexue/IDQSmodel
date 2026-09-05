@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends early session lower as investors await more clarity
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/09/fbm-klci-ends-early-session-lower-as-investors-await-more-clarity
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's main stock index slipped into negative territory at midday as investors awaited a Bank Negara rate decision as well as further developments in US tariffs negotiations. The benchmark FBM KLCI was down 2.74 points to 1,527.4, reflecting the relative calm in regional markets amid the ongoing tariffs developments. On the broader markets, there were 410 advancing issues compared to decliners, indicating a slightly positive trading breadth.
+
+[NEWS_P002] Trading volume was muted with 1.9 billion shares valued at RM884.83mil. Weighing on the market, consumer giant Nestle dropped RM1.12 to RM77.64. PETRONAS Chemicals fell 10 sne to RM3.29 while Hong Leong Bank lost eight sen to RM19.38. Meanwhile, ACE Market debutant PMCK - the most active counter in the early session - was trading at 22.5 sen, a slight 0.5 sen increase over its initial public offering price of 22 sen. The investor sentiment in Asian markets was mixed as confusion prevailed over the future of global trading tariffs.
+
+[NEWS_P003] However, the developed markets eked out small gains on hope that there was still room to negotiate for a better rate despite the recent tariffs announcement. Japan's Nikkei rose 0.15% to 39,748 and South Korea's Kospi rose 0.68% to 3,136. China's composite index gained 0.29% to 3,507 while its blue-chip CSI300 rose 0.32% to 4,011. In Hong Kong, the Hang Seng was down 0.74% to 23,970.

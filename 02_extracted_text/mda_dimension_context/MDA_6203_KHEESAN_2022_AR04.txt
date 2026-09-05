@@ -1,0 +1,48 @@
+document_id: MDA_6203_KHEESAN_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 33, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P016]
+In an effort to achieve higher sales volume, the Group distributes its products via both the wholesale and modern distribution
+channels in Malaysia. However, for export sales, the distribution channels vary from country to country. For example, in
+Singapore and Hong Kong, only the modern distribution channel will be employed whilst the wholesale channel will be
+more prevalent in Indonesia and Vietnam.
+5.
+BUSINESS RISK OVERVIEW
+[MDA_P017]
+The Group faces several risk factors that may affect the Group’s profitability. Those risks include the following:
+[MDA_P020]
+Fluctuation of raw materials price
+[MDA_P021]
+The fluctuation of raw materials’ prices has been an inherent issue for the Group, as well as its competitors in the similar
+industry. As an example, sugar price fluctuations may severely impact the Group as it is a major component of the Group’s
+products. Realising this issue, the Group has taken necessary steps to reduce the risk of constant price fluctuations by
+engaging with its various raw material suppliers to strive for favourable longer-term supply arrangements. At the same
+time, the Group are constantly exploring with new suppliers to ensure that it is not overly dependent and reliant on its
+current key suppliers. The Group shall ensure that these initiatives are carried out without compromising its products
+quality.
+[MDA_P023]
+Significant fluctuation of foreign currency exchange rate will impact the Group’s cash flow movement and profitability
+as most of its input materials are sourced from abroad. In addition, the Group also relies on its export sales which are
+also subject to changes in currency exchange rates. The Group shall manage currency exchange rate fluctuations by
+continuing to monitor global currency movements and, if necessary, take proactive hedging positions to mitigate such
+risk.
+[MDA_P027]
+The Group recognises that it is crucial to ensure its food-base products are high of quality. Deterioration in quality may
+bring severe negative image to the Group’s product brands and create harmful long-term impact to the Group’s reputation.
+To mitigate such occurrences, the Group has implemented strict quality management systems and quality assurance
+processes to ensure that there is no deterioration in product quality. Furthermore, the Group is certified as an ISO and
+Halal candy manufacturer.
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d)
+[MDA_P029]
+Interest rate & liquidity risk
+[MDA_P030]
+The Group is exposed to interest rate and liquidity risk as it has considerably high bank borrowings. The board is cognisant
+of this inherent risk and shall monitor its cashflow position diligently while exploring alternate avenues of funding. The
+Company may consider raising funds through the capital markets when the stock market condition is much more
+favourable. This will help mitigate over-reliance on banking facility which is prone to interest rate movements.
+6.
+OUTLOOK OF FUTURE PROSPECTS

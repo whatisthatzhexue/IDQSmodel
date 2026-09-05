@@ -1,0 +1,157 @@
+document_id: MDA_0012_3A_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION AND ANALYSIS
+OUR PRODUCT PORTFOLIO
+•
+ Liquid Caramel, Caramel Colour
+•
+ Vinegar
+•
+ Glucose Syrup, High Maltose Syrup
+•
+Soya Protein Sauce (“HVP”)
+•
+ Hydrolysed Vegetable Protein (“HVP”) Powder
+•
+ Maltodextrin
+The Group serves businesses of all sizes across a broad
+spectrum of industries and sectors. Our versatile range of
+ingredients have different functional properties and unique
+characteristics that can be tailored to customer needs. All
+ingredients are Halal and Kosher certified. The Group offers diverse range of packaging options to
+accommodate customer needs. There are various package
+sizes ranging from bulk road tanker to small packing such
+as jerrycan and carton box. Customised packaging can be
+arranged to accommodate customer requirements.
+[MDA_P002]
+OUR ACCREDITATION & RECOGNITION
+FSSC 22000 Certification by Intertek Certification International
+Sdn Bhd
+HACCP Certification by Ministry of Health Malaysia (“MOH”)
+HALAL Certification by Islamic Development Department of Malaysia
+(“JAKIM”)
+KOSHER Certification by Orthodox Union
+Rgn : 402283
+ABOUT US
+Three-A Resources Berhad (“3A”) is an investment
+holding company which was listed since 2002 and
+transferred to the Main Market of Bursa Malaysia in
+2008. Its wholly owned subsidiary San Soon Seng
+Food Industries Sdn Bhd (“SSSFI”) is one of the
+leading food and beverage ingredient manufacturing
+company, started as a caramel producer in 1977 and
+expanded its product portfolio that have made strong
+footprints in many parts of the world. 3A and SSSFI
+(“the Group”) remained focused in its core strength
+of manufacturing food and beverage ingredients. The Group ﬁrmly believes in producing products of
+the highest quality and has successfully expanded
+beyond Asian horizons and making its mark in the
+international market. ABOUT US
+LEADERSHIP
+SUSTAINABILITY
+CORPORATE
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+ADDITIONAL
+INFORMATION
+PERFORMANCE
+REVIEW
+[MDA_P003]
+MANAGEMENT
+DISCUSSION AND ANALYSIS (CONTINUED)
+investments on production facilities to
+improve capacity and efficiency. These
+business plans were carried out after
+the Group had carefully conducted
+comprehensive evaluation and planning
+involving suitable marketing strategies
+for our products and also investment
+decisions. FINANCIAL REVIEW
+The Group recorded slightly better
+revenue of RM436.16 million in FY2020
+as compared to RM436.06 million in
+FY2019. Meanwhile, profit before tax
+and profit after tax were slightly better at
+RM40.7 million and RM30.1 million
+respectively in FY2020 as compared
+with RM40.2 million and RM29.4 million
+respectively in FY2019. Albeit the uncertain economic conditions,
+the Group recorded better financial
+performance that was attributed to
+relatively stable raw materials costs and
+effective products sales mix in FY2020. From the positive results of our marketing
+efforts, export revenue of the Group in
+FY2020 continued to grow to 48% of our
+total revenue as compared with 39% in
+FY2019.
+[MDA_P004]
+Revenue by Geographical Locations for
+FY2020
+Other Foreign
+Countries
+Singapore
+Malaysia
+39%
+9%
+52%
+During the FY2020, the Group registered
+impairment losses on trade receivables
+amounting to RM0.57 million but the
+Group successfully made recoveries of
+RM0.29 million from impairment losses
+during the year. The Group continued with its carefully
+crafted business strategies to research
+and develop good quality products in
+order to meet as well as exceed the
+expectations of our valued customers. Besides, the Group also continued with
+initiatives to achieve improved operational
+efficiency in our manufacturing plants
+from upgrading and modernization plans
+which were carried out in FY2020. These
+long-term plans are also meant to enable
+us to reduce reliance on foreign labor and
+to improve our manufacturing facilities in
+order to be more efficient to produce
+more as well as achieve cost savings. THE YEAR 2020
+During the year 2020, the COVID-19
+pandemic had brought dramatic changes
+to the lives of the people and businesses
+all over the world. With the introduction
+of the Movement Control Order (“MCO”)
+to fight the pandemic, local consumers
+were cautious in spending during the
+year.
+[MDA_P006]
+At the end of financial year 2020, cash
+and bank balances of the Group was at
+RM26.6 million whereas total borrowings
+remain manageable at RM12.7 million. Therefore, the Group expects to have
+adequate financial resources to continue
+with the implementation of business plans
+to make our vision a reality. As at 31 December 2020, total assets
+and shareholders’ equity of the Group
+continued to grow to RM431.8 million and
+RM366.4 million respectively. The Group’s
+net asset per share stood at 74.4 sen as at
+the end of 2020 and earnings per share
+for the year was 6.2 sen. OUTLOOK AND PROSPECTS
+The Group is continuing with automation
+plans for selected production plants with
+the objective to improve production
+plant efficiency and achieve savings in
+operational and manpower costs. Besides,
+the Group expects that these plans can
+continue to bring major improvements
+to products’ quality in our quest to meet
+the evolving and untapped customers’
+stringent requirements. On an encouraging note, the Group
+is pleased to report that the utilisation
+of maltodextrin production plant no. 3
+had improved at the end of year 2020.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends higher for second day, but heads for 2.3% weekly decline
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-03-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/14/fbm-klci-ends-higher-for-second-day-but-heads-for-23-weekly-decline
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended higher for the second consecutive day as investors continued to pick up bargains, though it is headed for a 2.3% weekly decline. The 30-stock index closed up 2.12 points, or 0.14%, at 1,512.15. The market traded within a range of 22.96 points between an intraday high of 1,516.25 and a low of 1,493.29 during the session. For the week, the FBM KLCI recorded a 2.27% decline, making it one of its steepest weekly drops. Stocks that rose outnumbered those that fell 677 to 285, with another 438 counters unchanged.
+
+[NEWS_P002] A total of 3.12 billion shares changed hands, veiled at RM2.28bil. Dealers noted that while the market saw bargain hunting, gains may be capped by quick profit-taking. With stocks still deeply oversold, buying interest could persist despite the weekly decline. Among the gainers on Bursa Malaysia, Allianz rose 48 sen to RM18.10, Kuala Lumpur Kepong added 40 sen to RM21, Ajinomoto gained 26 sen to RM14.44 and Lebtech climbed 25 sen to 80 sen. Among the decliners, Nestle tumbled RM1.08 to RM67.92, Panasonic Manufacturing fell 44 sen to RM14.30, Heineken slid 24 sen to RM26.46 and Dutch Lady declined 16 sen to RM27.
+
+[NEWS_P003] In the forex market, the ringgit weakened by 0.18% against the US dollar to 4.4420. It edged up 0.04% against the pound sterling to 5.7472 but slipped 0.05% against the Singapore dollar to 3.3259. Among the key regional markets: Japan’s Nikkei 225 closed up 0.72% to 37,053.10; Hong Kong’s Hang Seng Index rose 2.21% to 23,959.98; China’s CSI 300 Index advanced 2.43% to 4,006.56; Taiwan’s Taiex climbed 0.03% to 21,968.05; South Korea’s Kospi closed down 0.28% to 2,566.36 and; Singapore’s Straits Times Index fell 0.08% to 3,834.45 points.

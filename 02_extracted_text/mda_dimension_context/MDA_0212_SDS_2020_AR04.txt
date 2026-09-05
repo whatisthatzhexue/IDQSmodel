@@ -1,0 +1,131 @@
+document_id: MDA_0212_SDS_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 17, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P006]
+ANNUAL REPORT 2020 | SDS GROUP BERHAD
+KELANTAN
+PERLIS
+KEDAH
+PULAU
+PINANG
+SELANGOR
+PUTRAJAYA
+NEGERI
+SEMBILAN
+MELAKA
+JOHOR
+PAHANG
+KUALA
+LUMPUR
+PERAK
+TERENGGANU
+management discussion and analysis
+OUR STRATEGIES FOR MARKET AND PRODUCT (CONT’D)
+Wholesale Channel
+The Group business strategy for
+the wholesale distribution channel
+of bread and bun is to expand its
+business presence to the Central
+and Northern region of Peninsular
+Malaysia. These expansion plans
+can be manifested with the
+opening of new depot at Bukit
+Mertajam, Penang with a fleet of
+10 delivery vehicles. Currently,
+the Group has depots in 9 states
+out of the 11 states in Peninsula
+Malaysia. The Group also has
+planned to set up a new depot in
+Kedah in the near future. Varieties of bakery products under brands of ‘Top Baker’ and ‘Daily’s’ are sold under wholesale channel through
+hypermarkets, supermarkets, convenience stores, some smaller grocery or sundry shops. During the year,
+the Group has launched new products such as white toast peeled, pizza cheese stick and custard bun to its
+customers to meet the demand of the customers’ preference and changing taste.
+[MDA_P012]
+The decrease in gearing ratio to 0.84 in FY2020 as compared to 1.30 in FY2019 was mainly due to the repayment of the
+lease liabilities under hire purchase arrangements and the bankers’ acceptances during the year. There is also an increase
+in total equity as a result of issuance of new shares due to business combination activities and public listing during the
+year. RISK OVERVIEW
+Food Contamination Risk
+Foreign Labour Risk
+Being in the food manufacturing industry, the Group is
+exposed to the risk of food contamination as its food
+products undergo numerous manufacturing processes
+during its production. The food ingredients are generally
+perishable and are vulnerable to contamination if not
+properly handled, stored or packed. The Group arranges food handling training to raise
+employees’ awareness of good hygiene and educate
+its employees on its food safety standard and
+management system. The Group’s manufacturing
+facilities are also accredited with at least one food
+safety certifications, such as MeSTI, Halal, Hazard
+Analysis and Critical Control Point (“HACCP”) or ISO
+22000:2005. The Group’s business operations are highly dependent
+on the continued supply of foreign labour.
+[MDA_P013]
+Hence,
+it is subjected to the labour and immigration laws
+that govern the employment of foreign workers. Any
+substantial changes to the policies on the employment
+of foreign workers may result in a shortage in the supply
+of foreign workers or an increase in labour wages. The Group continues to review its manufacturing
+process and aim to automate its processes at a
+reasonable cost to reduce reliance on manual labour. Downtime, Disruption or
+Unplanned Shutdown Risk
+Competition Risk
+From
+an
+operational
+perspective,
+the
+Group’s
+manufacturing division will be exposed to downtime
+risk. As most products are produced by its internal
+manufacturing
+facilities,
+any
+disruption
+in
+the
+operations or unplanned shutdown would affect the
+Group’s ability to generate revenue. The Group is operating in a highly competitive
+environment, with a lot of competitors in the market
+offering a great variety of similar products or services. To mitigate this risk, the Group strive to enhance its
+menu periodically with different new F&B products and
+providing excellent customer services to satisfy the
+consumers’ changing tastes and preferences.
+[MDA_P015]
+Furthermore, the changes in customers’ spending behaviour towards online
+purchasing has contributed to an increase in delivery sales revenue. The global economy experienced a
+sharp moderation in the first quarter
+of 2020. The pandemic of the
+COVID-19 resulted in the introduction
+of lockdown and social distancing
+measures in major economies. This
+has elevated volatility in the global
+financial market and weak growth
+prospects. This
+impact
+of
+COVID-19
+pandemic has affected most of the
+industries in Malaysia, especially
+tourism, construction, real estate,
+automotive, oil and gas, travel
+agencies, retail outlets and many
+more have been forced to close. In
+response to the significant shortfall
+[MDA_P016]
+ANNUAL REPORT 2020 | SDS GROUP BERHAD
+management discussion and analysis
+LOOKING AHEAD
+The outbreak of the COVID-19 pandemic is an unprecedented health crisis that has generated a paradigm-shifting to
+trigger the economic crisis. As such, the economic front, reflective of the downturn requires policy response of a similar
+unprecedented nature. This policy is reflected in the Malaysia’s stimulus package which ranks as one of the largest across
+the emerging economies and the region for both direct and indirect measures. Moving forward, the Group will continue to implement more directive business strategies to mitigate any risks faced by
+the Group. To adapt to the changes in customers’ behaviours, the Group expands its collaboration with other sales and
+delivery channels to provide food delivery services to its customers. To maintain the Group’s profitability and growth, the
+Group shall continue to manage its cash flows and cost effectively, and re-evaluate its business plans. The Group is optimistic about its future prospects. As such, the Group is confident to overcome the slowdown in
+economic and competitiveness in the market by having all these initiatives and action plans.

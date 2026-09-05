@@ -1,0 +1,127 @@
+document_id: MDA_3026_DLADY_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P005]
+Dutch Lady Milk Industries Berhad
+Driving The Nation’s Sustainable Dairy Farming
+DLMI achieved a milestone in April 2021 when we
+established a strategic public-private partnership by signing
+a Memorandum of Collaboration with the Department of
+Veterinary Services (DVS) to boost our nation’s supply of
+quality local fresh milk and to achieve a fully sustainable
+milk supply for the future. The collaboration allows DLMI
+to partner the Government, especially the Ministry of
+Agriculture and Food Industry to support the growth of the
+local dairy industry. This is in line with the Government’s goal
+to achieve 100 percent Self-Sufficiency of local fresh milk by
+2025 as part of the National Dairy Industry Development
+Programme. Since 2011, our Dairy Development Programme
+(DDP) has helped produce 37.9 million litres of milk while our
+Farmer2Farmer (F2F) Programme has benefitted more than
+536 farmers. In 2021, we introduced a new digital F2F format
+that revolved around video blogs and was aptly named F2F
+Vlogs. Via this initiative, a total of 70 local dairy farmers
+were trained virtually during the COVID-19 pandemic.
+[MDA_P009]
+Annual Report 2021
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Through the course of 2021, we had carried out various
+initiatives in ensuring our People stayed connected through
+strong adoption of CARE (C-Connected; A-Appreciated;
+R-Responsive; E-Energised) principles, wellness initiatives
+to remain engaged and energised, and enabled a forward,
+flexible way of working through Agile Transformation. Despite all external challenges, we continue to invest in our
+People, and will continue doing so for years to come. Capability Building
+We remain committed and passionate about talent
+management and development as our employees are drivers
+of sustainable success. Hence, various initiatives have been
+deployed to enhance capability building:
+Winning Through Volatility – Body.Mind.Soul (BMS)
+The current volatile business landscape represents a challenge
+to employees where mental, spiritual and physical energies
+are shifting. This amplified the relevance of personal energy
+management - that an Engaged, Enabled, and Energised
+workforce is key in motivating our business forward.
+[MDA_P010]
+In 2021, many wellness-focused initiatives were deployed via
+our Employee Engagement model, Body.Mind.Soul (BMS),
+which included:
+Local employee participation in
+FrieslandCampina Academy programmes
+(Nourishing Leadership, Future Leader) – in
+developing the next class of high potential
+leaders
+Driving Coaching Culture via the Solution
+Focused Coaching programme (74 pax
+which accounts for 75% of our Business
+Leadership Team + selected Talent across
+DLMI involving up to 3,552 man-hour
+spent)
+Enterprise Agile Transformation:
+Introducing the Agile fundamentals; Agile
+Coaching (Total 106 pax of employees has
+went through Agile Fundamental training;
+768 of Agile coaching hours)
+Employee Growth and Development:
+10,259 training man-hours from 81 training
+programmes completed by our employees
+throughout the year in 2021, this translate
+to average of 12.28 hours per employee in
+DLMI.
+[MDA_P023]
+During
+the COVID-19 pandemic DLMI has been able to continue to
+drive its purpose of Nourishing the Malaysian people. Profit performance details are broken down in profit
+resulting from sales of products sourced from the existing
+manufacturing facilities (profit from existing operations) and
+reported profit including the exceptional results in relation
+to the construction of the future manufacturing expansion
+in Bandar Baru Enstek. Profit before tax from existing operations is improving
+to RM142.8 million at index 141 versus previous year on
+the back of a strong focus to improve long-term business
+profitability. Increasing input cost as a result of increasing
+global dairy raw materials, supply chain disruptions, one-
+off COVID cost are more than offset by topline growth,
+focus on Revenue Growth Management activities (e.g. mix
+management of channel and portfolio) and improvement
+of the Return on Investment of commercial activities. This
+result is a testament to DLMI’s focus to Win Profitably
+supported by an agile mindset and relying on usage of data
+in all our decision making.
+[MDA_P024]
+During the year 2021, prices of global dairy raw materials
+have been escalating resulting from continued strong global
+demand for milk as an essential good, lower production of
+milk in large milk producing countries and continued supply
+chain disruptions leading to delays of incoming goods.
+[MDA_P025]
+Dutch Lady Milk Industries Berhad
+Cashflow from operating
+activities
+MANAGEMENT DISCUSSION
+& ANALYSIS
+Reported profit in 2021 DLMI is
+exceptionally high resulting from the
+completion of the sales of the land
+underlying the manufacturing facilities
+in Petaling Jaya. This income is partially
+offset by the start of accelerated
+depreciation of existing assets that will
+not be transitioned to the new site in
+Bandar Baru Enstek. Reported profit
+before tax is RM284.5 million at index
+292 versus previous year. Cashflow from operating activities was
+at negative RM15 million inclusive of
+a prepayment to a related company
+amounting to RM126 million. When
+excluding the prepayment cashflow
+from operating activities is at RM111
+million which is a decrease of RM33
+million versus 2020 mainly resulting
+from higher input cost and requirements
+to build inventory to weather the global
+supply chain challenges.

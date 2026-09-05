@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI tumbles 20.55 points as decliners on Bursa Malaysia top 800
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-09-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/11/fbm-klci-tumbles-2055-points-as-decliners-on-bursa-malaysia-top-800
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI tumbled on Wednesday, mirroring the performance of its regional peers, as investors braced for upcoming U.S. inflation data and the highly anticipated U.S. presidential debate. At 5pm, the market barometer closed down 20.55 points, or 1.24% at 1,639.80 recovering from its intraday low of 1,638.90. All indices on Bursa Malaysia ended lower, except for the Bursa Malaysia Telecommunications & Media Index. Losers trailed gainers 825 to 283, while 433 counters traded unchanged.
+
+[NEWS_P002] Volume was almost three billion shares valued at RM3.33bil. Dealers said investors globally awaited U.S. inflation data for hints on the depth of a rate cut expected from the Federal Reserve next week. MSCI's broadest index of Asia-Pacific shares outside Japan is 0.3% lower. Elsewhere in the region, Japan’s Nikkei 225 closed down 1.49%, Hong Kong’s Hang Seng Index fell 0.73%, South Korea’s Kospi lost 0.4% and China’s CSI 300 Index declined 0.3%. Among the decliners on Bursa Malaysia, Nestle slid RM1.50 to RM100.50, PETRONAS Dagangan fell 80 sen to RM21, Malaysian Pacific Industries lost 38 sen to RM26.82 and Kuala Lumpur Kepong declined 36 sen to RM20.80.
+
+[NEWS_P003] F&N rose 24 sen to RM30, Hong Leong Bank added 20 sen to RM21.50, Guan Chong climbed 11 sen to RM2.76 and Bursa Malaysia gained nine sen to RM9.42. Meanwhile, the ringgit was quoted at 4.3285, up 0.32% against the US dollar. The local currency appreciated by 0.07% against the Singapore dollar to 3.3253 and gained 0.39% against the pound sterling to 5.6650. US West Texas Intermediate crude rose US$1.13 to US$66.88 and Brent gained US$1.05 to US$70.24 per barrel.

@@ -1,0 +1,7 @@
+- python3 scripts/audit_filter_news_relevance.py --mode manual_preserve
+- python3 scripts/build_news_registry_from_filter_news.py
+- python3 scripts/extract_filter_news_texts.py
+- python3 scripts/run_filter_news_final_scoring.py --model qwen3:8b
+- python3 scripts/run_final_data_freeze.py
+- python3 scripts/run_paper_readiness_check.py
+- paper_ready: false

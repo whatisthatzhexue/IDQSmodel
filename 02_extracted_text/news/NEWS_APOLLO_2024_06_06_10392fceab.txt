@@ -1,0 +1,16 @@
+[TITLE]
+Apollo buys 49% of Irish Intel factory
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-06-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/06/apollo-buys-49-of-irish-intel-factory
+confidence_tier: low
+
+[NEWS_P001] SAN FRANCISCO: Intel Corp agreed to sell a stake in a plant in Ireland to Apollo Global Management Inc for US$11bil, helping bring in more external funding for a massive expansion of its factory network. Under terms of the deal, the investment firm will take a 49% share of a joint venture that owns Intel’s Fab 34, the chipmaker said in a statement. It’s the second such investment programme that Intel has announced, part of an effort to lessen the burden on its already-stretched finances.
+
+[NEWS_P002] Chief executive officer Pat Gelsinger is pushing an ambitious and expensive plan to return Intel to the summit of the semiconductor industry. He’s investing heavily to revitalise its struggling product lineup and pouring money into plants around the world, aiming to reinvigorate its manufacturing and attract external outsourced-manufacturing customers. Intel, once the richest company in the semiconductor industry, has been forced to seek external funding in a programme it’s dubbed “Smart Capital”.
+
+[NEWS_P003] “The announcement highlights Intel’s continued progress in its transformation strategy,” the company said in the statement. — Bloomberg

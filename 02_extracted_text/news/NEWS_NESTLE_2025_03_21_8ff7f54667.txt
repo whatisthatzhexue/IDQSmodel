@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI stays flat in absence of domestic catalysts
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-21
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/21/fbm-klci-stays-flat-in-absence-of-domestic-catalysts
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The barometer of Malaysia's stock market barely budged at the start of Friday trading as investors came up empty in their search for fresh catalysts. The FBM KLCI slipped a marginal 0.29 points to 1,503.87 following the mildly weaker performance on Wall Street overnight. Rakuten Trade said amid the unrelenting foreign selling, bargain-hunting activites are expected to emerge, especially if the index dips below the 1,500 level. "For today, we expect the index to trend between the 1,495-1,515 range," it said in a note.
+
+[NEWS_P002] Malacca Securities, meanwhile, is bullish on oil and gas-related stocks due to the strong demand outlook after US government data showed a higher-than-expected drawdown in fuel inventories last week. "Immediate index resistance is retained at 1,550, followed by 1,580, with a tougher upside hurdle at 1,605. "Immediate support is set at 1,500, with stronger key retracement supports seen at 1,472 and 1,450," it said in its market commentary. On the blue-chip index, Hong Leong Bank rose 12 sne to RM20.52 while RHB Bank gained five sen to RM5.59 and Maybank rose 10 sen to RM10.28.
+
+[NEWS_P003] Nestle recovered RM1 to RM63.24 and Tenaga Nasional added 10 sen to RM13.60. As at the time of writing, the number of advancing issues were nearly equal the declining issues at 167 to 144. The top actives on the market were Lim Seong Hai Capital down three sen to 85 sen, TWL up 0.5 sen to 2.5 sen and MClean gaining one sen to 29.5 sen.

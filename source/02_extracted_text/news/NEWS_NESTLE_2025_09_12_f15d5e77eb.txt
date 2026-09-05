@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia ends week on strong note as FBM KLCI closes above 1,600
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/12/bursa-malaysia-ends-week-on-strong-note-as-fbm-klci-closes-above-1600
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Last-minute buying lifted the FBM KLCI past the 1,600 psychological level, tracking gains across regional markets ahead of the long weekend. The 30-stock index rose 17.28 points, or 1.09%, to 1,600.13, its intraday high and first close above the 1,600 mark since Aug 25. For the week, the benchmark index rose 1.4%, or 21.98 points. Market breadth was firmly positive, with 639 gainers outnumbering 394 losers, reflecting a ratio of about 1.6 to 1.
+
+[NEWS_P002] The positive tone suggested broad-based buying interest, adding strength to the FBM KLCI’s climb past the 1,600 level. About 2.22 billion shares, valued at RM2.1bil, changed hands today. Among the top gainers, Nestle surged RM2.40 to RM97.90, Heineken advanced 84 sen to RM21.18, Telekom Malaysia climbed 71 sen to RM7.73, while KSL added 50 sen to RM2.47. On the downside, Hong Leong Industries slipped 18 sen to RM13.60, PPB Group eased 17 sen to RM9.93, Paragon fell 16 sen to RM2.76, and Kuala Lumpur Kepong shed 14 sen to RM19.96.
+
+[NEWS_P003] Earlier today, Rakuten Trade Sdn Bhd raised its FBM KLCI target for 2025 to 1,650 from 1,630, citing renewed foreign fund inflows into Asia. Head of research Kenny Yee said funds are likely to return to the region on the back of attractive valuations and steadier fundamentals, Bernama reported. "Sentiment is slowly improving and, with this influx of foreign funds returning to Asia, it will certainly boost sentiment and hype up the feel-good factor,” he said, adding that Trump’s policies are fuelling US economic weakness, prompting investors to shift focus to Asia.
+
+[NEWS_P004] In terms of fund flows, foreign investors were net buyers of RM107mil in equities on Thursday, while local institutions and retailers sold RM62mil and RM45mil respectively. Bursa Malaysia will close on Sept 15 for an additional public holiday in conjunction with Malaysia Day, and on Sept 16 for the celebration itself, before resuming trading on Sept 17. Among the key regional markets: Japan’s Nikkei 225 rose 0.89% to 44,768.12; Hong Kong’s Hang Seng Index closed up 1.16% to 26,388.16; China’s CSI300 Index fell 0.57% to 4,522.00; Taiwan’s Taiex gained 1.03% to 25,474.64; South Korea’s Kospi advanced 1.54% to 3,395.54 and; Singapore’s Straits Times Index declined 0.3% to 4,341.47 points.

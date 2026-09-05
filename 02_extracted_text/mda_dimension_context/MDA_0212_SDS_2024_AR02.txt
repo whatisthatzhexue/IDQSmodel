@@ -1,0 +1,99 @@
+document_id: MDA_0212_SDS_2024
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 29, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P007]", "note": "margin: stated 14.20%, calculated 33.96% from profit/revenue, status material_discrepancy.", "source_text": "Financial indicators as listed below: INDICATOR FY2024 (RM ’000)* FY2023 (RM ’000)* DIFFERENCE (%) Revenue 324,063 283,667 14.2% Gross Profit 110,054 89,292 23.3% Gross Profit Margin (%) 34.0 31.5 7.9% Profit before tax 43,290 32,767 32.1% Profit after tax attributable to owners of the Company 32,55", "status": "material_discrepancy"}, {"evidence_locator": "[MDA_P008]", "note": "margin: stated 31.50%, calculated 713.08% from profit/revenue, status material_discrepancy.", "source_text": "The Group’s healthy revenue is reflected in its growth of 14.2% from RM 283.7 million in FY2023 to RM 324.1 million in FY2024. The increase in profit before tax (“PBT”) is mainly due to the increase in revenue and improvement in gross profit margin, from 31.5% in FY2023 to 34.0% in FY2024. This was ", "status": "material_discrepancy"}], "document_id": "MDA_0212_SDS_2024", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 2, "num_consistent_checks": 0, "num_financial_mentions": 56, "num_material_discrepancies": 2, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion
+and Analysis
+The Group successfully registered a
+revenue of RM324.1 million in FY2024,
+marking an increase of 14.2% over the
+revenue of RM283.7 million in FY2023. OVERVIEW
+he financial year ended 31
+March 2024 (“FY2024”) proved
+challenging,
+despite
+the
+expectations of the economy
+accelerating rapidly forward in the
+pandemic recovery era. Nonetheless,
+SDS Group Berhad and its subsidiaries
+(“SDS” or “the Group”) have achieved
+yet another year of commendable
+performance. In FY2024, the Group
+successfully registered a revenue of
+RM324.1 million, marking an increase
+of 14.2% over the revenue of RM283.7
+million in FY2023. This is attributable to the Group’s
+business agility and resilience in rising
+to meet the challenges head-on, driven
+by the commitment and dedication of
+our SDS team members. It is with great pleasure that we present
+to you the Management Discussion and
+Analysis of our Annual Report 2024,
+which will provide a brief review of the
+business and operational performance
+of SDS for FY2024 while setting out an
+overview of our plans and prospects
+for the coming years.
+[MDA_P002]
+This discussion should be read in
+conjunction with the Group’s audited
+financial statements in the later section
+of this annual report. This is attributable to the
+Group’s business agility and
+resilience in rising to meet the
+challenges head-on,
+driven by the commitment
+and dedication of our SDS
+team members. T
+SDS GROUP BERHAD
+ANNUAL REPORT 2024
+[MDA_P003]
+SDS GROUP BERHAD
+ANNUAL REPORT 2024
+DOMESTIC REVIEW
+he global economic situation weighed significantly on
+Malaysia’s economy which was already impacted by
+the increased inflation, unemployment and shrinking
+incomes. To manage the erosion of the ringgit and
+growing inflation, Bank Negara Malaysia remained resolute
+in maintaining the overnight policy rate (“OPR”) at 3.00% for
+much of the financial year 2024. Malaysia’s overall economic performance fluctuated in
+2023, with the Gross Domestic Product recording 3.7%, a
+sharp fall from 8.7% in the previous year. Adding to this is
+the weakening of the Malaysian ringgit to as low as RM4.70
+to the US dollar in December 2023. Malaysia’s economy
+experienced a slowdown due to weakened external demand
+and a reduction in commodity production, affecting the local
+market purchasing power. Compounding this was the impact
+on the business’s supply chain, higher costs of raw materials,
+ingredient costs as well as pricing of products. Notwithstanding this, there has been a gradual uptrend in
+the local operating environment, with business travel and
+international and domestic tourism taking off.
+[MDA_P004]
+The pandemic-
+activated digital mindset has supported a fast-paced lifestyle
+and changing market trends of consumers’ expectations. Management Discussion
+and Analysis
+T
+INDUSTRY REVIEW
+The landscape of Malaysia’s food and beverage (F&B)
+industry has experienced a noticeable paradigm shift in the
+financial year under review. FY2024 saw the entry of new
+players, all of whom capitalised on the power of social media,
+fresh business ideas and innovative new products. The local
+market also evolved considerably, particularly with e-wallet
+payment and food delivery services. Health and general well-being have now taken centre stage,
+leading to greater attention on good manufacturing practices
+and nutrition, the essence of the food and beverage industry. This augurs well for SDS, having established itself over 37
+years as a well-recognised name for quality, value-for-money
+confectionery products and excellent customer service. Not one to rest on its laurels, SDS has embraced innovation,
+technology and cost management to drive efficiency of
+operations and hence manage cost competitiveness in light
+of escalating prices.

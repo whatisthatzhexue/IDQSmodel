@@ -1,0 +1,18 @@
+[TITLE]
+FGV targets submission of petition to US customs by end-June
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-04-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/03/fgv-targets-submission-of-petition-to-us-customs-by-end-june
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: FGV Holdings Bhd could be ready to submit a petition to the US Customs and Border Protection (USCBP) within the next couple of months as the independent assessment of the plantation's group's remediation plan is almost at an end. Hong Leong Investment Bank (HLIB) Research, which recently conducted a virtual meeting with FGV, reported that Lloyd's Register Quality Assurance's (LRQA) assessment report is expected to be completed in April 2024, following which FGV is targeting to submit its petition to the USCBP by end-June.
+
+[NEWS_P002] "While timing of the modification/lifting of Withhold Release Order (WRO) by USCBP is beyond FGV’s control, management shared it will typically take six to 12 months to review the report and validate the estates," said HLIB in a company update. FGV has been working towards lifting an import ban on its palm oil and palm oil products in the US after it was hit by a WRO by the customs agency on Sept 30, 2020. In response, FGV implemented remedial measures to have the US ban lifted, including appointing a global independent consultant, LRQA (formerly known as ELEVATE), to conduct an assessment of the group's operations against the 11 International Labour Organisation indicators of forced labour.
+
+[NEWS_P003] On FGV's progress in reimbursing workers for recruitment fees, HLIB reported the group has completed the reimbursement programme to 20,153 active migrant workers with a total sum of RM72.2mil as of Sept 23. "The reimbursement has been 100% verified by LRQA," said HLIB. The group has also reimbursed 491 former workers with a total reimbursement amount of RM2.07mil as of February 2024. FGV will continue making the payouts to former workers until end-2024.
+
+[NEWS_P004] "With the support of LRQA, FGV is reaching out to its former workers to inform them about the reimbursement programme through FGV’s social media accounts and local newspapers in the workers’ countries of origin (e.g. Bangladesh, India, and Indonesia)," said HLIB. HLIB has a "hold" recommendation on FGV but updated its target price with an increase to RM1.57 from RM1.39 previously, mainly to reflect the latest share price of 51%-owned MSM Malaysia Holdings Bhd .

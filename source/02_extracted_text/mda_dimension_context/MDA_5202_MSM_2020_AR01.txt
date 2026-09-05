@@ -1,0 +1,122 @@
+document_id: MDA_5202_MSM_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 87, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+GROUP CHIEF EXECUTIVE OFFICER
+REVIEW
+Generally, the business community in Malaysia is experiencing
+tighter cash flow due to enforced business closures as part
+of the government’s movement control order (MCO) from
+March to May 2020. For the food and beverage sector,
+manufacturers started regulating productions which directly
+affects the consumption of sugar. Domestic economic
+recovery has also been further hampered with the
+Conditional Movement Control Order (CMCO) announced in
+quarter 4 (Q4) of 2020 due to the third wave of COVID-19. This has caused a drop in domestic sugar consumption for
+the wholesale and industry segment for 2020. The sharp slowdown in economic activities is expected to
+contract Malaysia’s GDP by at least 3.1% in 2020 according to
+World Bank projections. 2020 Performance Review
+Overall, MSM’s financial performance was mainly affected
+by lower sugar consumption in the domestic wholesale
+and industry segment due to MCO since late March 2020. During the year under review, the Group’s domestic sales
+volume dropped by 110,000 tonnes or 13% lower compared
+to the prior year and revenue loss was approximately
+RM118 million.
+[MDA_P002]
+During the initial phase of MCO, most of
+the domestic customers suspended their operations whilst
+During the
+initial
+phase
+of MCO, most
+of the
+domestic
+customers
+suspended
+their operations whilst the Industry customers were facing export supply chain
+disruptions. Nonetheless, consumption trends have been improving since Q3 2020
+based onthe positive operational earnings ofthe Group since July 2020. “
+“
+2020 Market Overview
+Global and local markets were hit by an unprecedented
+impact from COVID-19 in 2020 that continues to reverberate
+into 2021. This has changed the landscape of business and
+challenged many industries, some of which, such as travel
+and hospitality, are recording immense setbacks following
+the travel bans and other virus containment measures
+imposed by the Government. the Industry customers were facing export supply chain
+disruptions. Nonetheless, consumption trends have been
+improving since Q3 2020 based on the positive operational
+earnings of the Group since July 2020. The weak sales volume in Domestic segment has been
+supplemented by an increased Export segment sales volume.
+[MDA_P007]
+Despite
+the pandemic, NY11 prices in 2020 has been generally favourable
+for the Group, trending between USD11.00 – 15.00 cents/lb. The stable prices were a result of high production in Brazil1
+which balanced out the shortage caused by Thailand’s extreme
+drought. MSM managed to close the year at an average price
+of USD12.70 cents/lb against the market average of USD12.89
+cents/lb. In 2021, global sugar trade flow is projected to be in deficit of
+0.5 million tonnes with a more bullish price outlook ranging from
+USD14.00 – 19.00 cents/lb2 as the dry-weather in Thailand is
+expected to prolong to 2022, reducing the sugar supply in the
+region and the world by about 7 million tonnes and shifting the
+supply risk to Brazil as the single largest raw sugar exporter for
+2021. The increase in crude oil prices will also have an impact on
+Brazilian sugar production as millers will be motivated to produce
+more ethanol instead of sugar from the sugarcane crop. We also
+expect to see similar ethanol related influence similar to Brazil for
+Indian producers. 1. High raw sugar production in Brazil
+due to low ethanol price, weak real
+and good sugarcane crop
+2.
+[MDA_P015]
+More on Business units’ performance and plans moving
+forward are captured in the Business Review on page 36. Another immediate concern is to ensure our employees’
+welfare as a healthy and able workforce is vital to continue
+business and refinery operations. We began the year with
+further enforcement of a robust and strong adherence
+to
+standard
+operating
+procedures
+(SOPs)
+coupled
+with a continuous education programme and stringent
+enforcement to ensure a healthy and capable workforce. Moving forward into the future, the Group is embarking on
+an aggressive growth in business units. Towards this end,
+strengthening human resources and digitalisation are our
+priorities in providing adequate resources and support that
+commensurate with the expansion of the business units. Enhancing Human Resources
+Recognising human capital as our most important asset
+in
+achieving
+organisational
+success,
+MSM’s
+Human
+Capital/People Partner Division has laid out five strategic
+priorities for the next few years.
+[MDA_P036]
+Other strategies towards maximising profitability for the year include the
+discontinuation of non-strategic operations, optimisation of the utilisation
+factor between our refineries, focus on growth in export sales, expansion into
+new value-added products, and the successful continuation of our raw sugar
+procurement agreement with a reputable sugar trader through the Just-In-Time
+method. As a result, year-on-year loss after tax (LAT) narrowed by 76% from a LAT
+of RM299.78 million in 2019 to a smaller LAT of RM71.23 million in 2020. The losses, however, were mainly due to one-off impairment of the bearer
+plant on plantation land in Chuping, Perlis. Excluding discontinuing operations,
+MSM registered a profit before tax (PBT) of RM35.85 million, a 112% improvement
+from 2019. The improvements were mainly contributed from our key strategic
+initiative to streamline our operations by ceasing the sugar refinery operations
+in MSM Perlis and consolidating production volume between MSM Prai and
+MSM Johor to optimise overall refining costs.
+[MDA_P044]
+The Group is looking into strategic capital management
+and fund-raising programmes to improve liquidity and
+to meet strategic investment requirements.
+e)
+Monetise non-core assets

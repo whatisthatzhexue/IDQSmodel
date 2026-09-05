@@ -1,0 +1,16 @@
+[TITLE]
+PPB's 3Q net profit falls to RM208.12mil
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-11-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/28/ppb039s-3q-net-profit-falls-to-rm20812mil
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: PPB Group Bhd ’s net profit fell to RM208.12 million in the third quarter ended Sept 30, 2024 (3Q 2024), from RM372.56 million posted in the same quarter last year. Revenue decreased to RM1.35 billion against RM1.46 billion previously, mainly due to the absence of contribution from the Indonesian flour operations, which was divested on Sept 11, 2023, the group said in a filing with Bursa Malaysia today. The group’s pre-tax profit for 3Q 2024 was lower by 48 per cent at RM209.09 million (3Q 2023: RM398.92 million), mainly attributable to lower contribution from Wilmar International Ltd and lower profit from core business segments by 97 per cent at RM4 million (3Q 2023: RM131 million).
+
+[NEWS_P002] For the nine months ended Sept 30, 2024 (9M 2024), PPB’s net profit eased to RM854.21 million against RM952.91 million in 9M 2023, while revenue receded to RM3.956 billion from RM4.46 billion previously. On prospects, PPB said it anticipates continued volatility in the global commodity market, with potential adverse weather conditions in key grain-growing regions likely to affect commodity prices. "The group had made a provision of RM28 million for the damaged wheat and flour inventories affected by Typhoon Yagi in the Vietnam operation in its 3Q 2024 grains and agribusiness performance.
+
+[NEWS_P003] "Despite these challenges, we continue to leverage our market intelligence, extensive grain procurement experience, and strong technical expertise to deliver consistently high-quality products,” it added. - Bernama

@@ -1,0 +1,128 @@
+document_id: MDA_5533_OCB_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 32, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+(1)
+Consumer Foods Division;
+(2)
+Bedding Products Division;
+(3)
+Building Materials Division; and
+(4)
+Property Development Division. Detailed information on Divisions (1) to (3) above can be found in the Group Directory on pages 13 to 16 of
+this Annual Report, whereas Division (4) above has yet to commence its operation in full, but development and
+procurement of regulatory approvals have been on going. Consumer Foods Division
+The Consumer Foods Division operates as subsidiaries under Ibufood Corporation Sdn. Bhd. (“Ibufood Group”). The Ibufood Group is a major producer of premium quality instant noodles, mayonnaise, seasoning-powder,
+seasoning-oil, sauces and food ingredients. It is represented by several brand names. IBUMIE is the highly recognisable brand for its instant noodles which
+comes in several different flavours. The TELLY brand represents the food seasoning segment offering premium quality blended seasoning-powder,
+seasoning-oil, sauces, mayonnaise, specialty spices, soup, soup stocks, and marinades. The TELLY mayonnaise
+has grown over the years to become one of the market leaders in the Food Service sector.
+[MDA_P006]
+REVIEW OF THE FINANCIAL RESULTS AND FINANCIAL CONDITIONS
+The Group’s financial performance for the FYE 2023 as compared to FYE 2022 is as follows:
+FYE 2023
+RM’000
+FYE 2022
+RM’000
+Increase/
+(Decrease)
+RM’000
+%
+Revenue
+298,600
+254,904
+43,696
+17.1
+Gross Profit
+61,955
+44,527
+17,428
+39.1
+Earnings/(Loss) before interest, taxes,
+depreciation and amortisation
+20,225
+7,924
+12,301
+155.2
+Profit/(Loss) before taxation
+12,681
+(2,002)
+14,683
+733.4
+Profit/(Loss) after taxation
+8,519
+(3,768)
+12,287
+326.1
+Net Profit/(Loss) attributable to equity holders
+8,516
+(3,609)
+12,125
+336.0
+Total assets
+313,035
+301,341
+11,694
+3.9
+Total borrowings and lease liabilities
+80,651
+84,946
+(4,295)
+(5.0)
+Shareholders’ equity
+177,971
+169,409
+8,562
+5.0
+Earnings/(Loss) per share (Sen)
+8.28
+(3.51)
+11.79
+335.9
+Net assets per share (RM)
+1.73
+1.65
+0.08
+4.8
+The Group recorded a revenue of RM298.6 million and a profit before taxation of RM12.7 million in the FYE 2023 as
+compared to a revenue of RM254.9 million and a loss before taxation of RM2.0 million reported in the immediate
+preceding financial year. Both Consumer Foods and Bedding Products Divisions reported higher sales of 27% and 3% respectively for
+FYE 2023.
+[MDA_P007]
+The higher sales from Consumer Foods Division was mainly due to the higher demand for its products
+especially noodles, mayonnaise and creamers. Sales of its noodles, mayonnaise and creamers in FYE 2023
+increased to RM95.9 million (FYE 2022: RM60.7 million), RM46.7 million (FYE 2022: RM42.5 million) and RM55.9
+million (FYE 2022: RM52.2 million) respectively. The increase in noodles sales was mainly due to the newly-
+secured OEM business. The higher sales performance from the Bedding Products Division resulted from increase in activities from the local projects
+scene. Domestic project sales increased to RM18.3 million in the FYE 2023 from RM13.6 million in the FYE 2022. Building Materials Division reported a drop in sales by 1%. Sales for retail segment decreased by 54% to RM2.5 million
+from RM5.5 million in the immediate preceding year. The drop in retail sales was mainly due to the discontinuation
+of retail sales from one of its agency brands. The Division also wind down its lock-set and ironmongery business as
+part of its down-sizing strategy.
+[MDA_P008]
+However, its project sales increased by 10% to RM27.8 million in the FYE 2023 from
+RM25.2 million previously, mainly due to increasing activities in the construction industry.
+[MDA_P009]
+Registration No. 195901000114 (3465-H)
+REVIEW OF THE FINANCIAL RESULTS AND FINANCIAL CONDITIONS (cont’d)
+The Group reported a profit before taxation of RM12.7 million for FYE 2023 as opposed to a loss before taxation
+of RM2.0 million in the FYE 2022 because of higher profit reported from Consumer Foods and Bedding Products
+Divisions. The Consumer Foods Division posted a profit before taxation of RM11.7 million for FYE 2023 as compared to a
+loss before taxation of RM2.2 million in the FYE 2022 mainly due to higher products margin because of increase
+in selling price and stabilization of raw materials cost during the year. The main raw materials price such as flour,
+palm oil and soy bean oil have decreased in the range of 13% to 24% during the year. The Bedding Products Division reported a profit before taxation of RM6.9 million for FYE 2023 as against a profit
+before taxation of RM5.5 million in the FYE 2022 because of reopening of economy after Covid-19 restriction. Domestic projects have seen an uptake in activities after the long lockdown. Project sales has increased to RM18.3
+million in the FYE 2023 as compared to RM13.6 million reported in the immediate preceding year.
+[MDA_P010]
+However, retail
+sales dropped 4% to RM50.1 million as compared to RM52.1 million in the FYE 2022. Building Materials Division posted a higher loss before taxation of RM4.8 million in the FYE 2023 as against to a
+loss before taxation of RM4.5 million in the FYE 2022 due to the delay in certain projects, clearance of old stocks
+and coupled with a higher operating expenses ratio. The Group has not adopted any dividend policy. The Board of Directors of the Company (“Board”) annually evaluates
+the Group’s profitability, cash flows position and long-term plans prior to deciding on any dividend payment. The Board has proposed a first and final single-tier dividend of 1.5 sen per share amounting to RM1,542,750 in
+respect of the FYE 2023 (FYE 2022: Nil) for approval by shareholders at the forthcoming Annual General Meeting
+of the Company. The earnings per share of the Company for FYE 2023 was 8.28 sen versus loss per share of 3.51 sen for FYE 2022. Consumer Foods Division
+The Consumer Foods Division registered a revenue of RM199.6 million for FYE 2023 as against a revenue of
+RM157.2 million in the FYE 2022. The increase in revenue was mainly due to the contract of new OEM noodles
+business.

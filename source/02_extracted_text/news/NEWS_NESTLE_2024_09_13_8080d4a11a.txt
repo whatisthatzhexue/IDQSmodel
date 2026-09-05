@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI climbs 8 points as momentum builds
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-09-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/13/fbm-klci-climbs-8-points-as-momentum-builds
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI remained firmly above the resistance level at midday, as investors awaited the outcome of the U.S. Federal Reserve's interest rate decision scheduled for next week. At the lunch break, the benchmark index was up 8.05 points, or 0.49% to 1,646.36 after hitting an intra-morning high of 1,647.22. The broader market was positive with 633 gainers compared to 328 decliners. Trading over the morning sessions saw 1.62 billion shares exchanging hands for RM1.3bil.
+
+[NEWS_P002] Malaysian Pacific Industries , the top gainer on Bursa Malaysia, surged 96 sen to RM28.32, Nestle rose 40 sen to RM100.40, PETRONAS Dagangan added 30 sen to RM19.06 and PPB gained 24 sen to RM14.18. Among the decliners, Allianz fell 20 sen to RM20.20, Heineken lost 18 sen to RM22.56, Carlsberg slid 12 sen to RM19.38 and United Plantations declined 10 sen to RM27.40. Inter-Pacific Research said that despite the key index’s continuing insipid trend, the market appears to be finding some support, albeit at a lower level.
+
+[NEWS_P003] This is supported by the recovering key global equity indices, which are likely to influence stocks on Bursa Malaysia positively. Market participants are now anticipating a U.S. interest rate cut next week, which could signal the beginning of a downward trend in interest rates. However, the forecast is for a 25 basis point reduction, which is lower than the earlier estimate, it said. “We think the key index could look to end the week on a positive note even as the fresh buying interest is still relatively benign.
+
+[NEWS_P004] This could see the key index breaking its downward spell and head back above 1,640 with the immediate target set at 1,643-1,647 points, followed by the psychological 1,650 level. The supports, meanwhile, are at 1,635 and 1,630 points respectively,” Inter-Pacific said. In the broader market, the lower liners might be seeking continued buying to sustain their recovery and break their downtrend. However, Inter-Pacific noted that with traded volumes still lacklustre and reflecting limited market interest, a meaningful rebound remains unlikely for now.
+
+[NEWS_P005] In Asian markets, Japan's Nikkei was down 0.83% while South Korea's Kospi was 0.17% lower. China's composite index lost 0.08% and Hong Kong's Hang Seng was up 0.97%.

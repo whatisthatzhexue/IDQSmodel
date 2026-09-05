@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit opens firmer as markets shrug off OPR cut
+
+[METADATA]
+ticker: ETA
+company_name: Annual Report 2020
+publish_date: 2025-07-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/10/ringgit-opens-firmer-as-markets-shrug-off-opr-cut
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit opened firmer against the US dollar on Thursday, as markets shrugged off Bank Negara Malaysia’s (BNM) 25-basis-point Overnight Policy Rate (OPR) cut to 2.75 per cent yesterday. At 8 am, the local note strengthened to 4.2350/2570 against the greenback from Wednesday’s close of 4.2500/2540. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the move reflected an initial market reaction, possibly due to traders locking in gains.
+
+[NEWS_P002] "The OPR decision is seen as timely, given heightened economic uncertainties following the United States’ tariff shocks,” he told Bernama. Mohd Afzanizam said the rate cut should be ringgit-positive from a broader perspective, with the US dollar-ringgit pair potentially retracing towards the RM4.23-RM4.24 range today. He noted that the US Dollar Index (DXY) remained largely stable at around 97.555 points, with market focus on the Federal Open Market Committee (FOMC) minutes, which indicated members are open to cutting interest rates as early as the next meeting on July 29-30, 2025.
+
+[NEWS_P003] He added that the current policy stance is considered moderately restrictive, with signs that inflation is easing. "On that note, the ringgit could see some retracement after depreciating 0.27 per cent at yesterday’s close of RM4.2520,” he added. At the open, the ringgit was mostly higher against a basket of major currencies, except the Japanese yen. It strengthened against the British pound to 5.7579/7878 from 5.7787/7842, and rose versus the euro to 4.9702/9960 from 4.9780/9827.
+
+[NEWS_P004] However, it slipped slightly against the yen to 2.8987/9140 from 2.8983/9012. The local note was also firmer against ASEAN currencies. It improved vis-à-vis the Singapore dollar to 3.3096/3271 from 3.3182/3219, gained on the Thai baht to 12.9796/13.0535 from 12.9946/13.0128, edged up against the Indonesian rupiah to 260.4/262.0 from 261.3/261.8, and strengthened versus the Philippine peso to 7.48/7.53 from 7.51/7.52. - Bernama

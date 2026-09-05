@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit strengthens on rate hold expectations
+
+[METADATA]
+ticker: CCK
+company_name: CCK
+publish_date: 2024-06-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/26/ringgit-strengthens-on-rate-hold-expectations
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit strengthened against the US dollar at the opening today, bolstered by expectations that Bank Negara Malaysia (BNM) will maintain the overnight policy rate (OPR) at 3.00 per cent due to higher inflation in May 2024. This comes as central banks worldwide have begun lowering their interest rates, a dealer said. At 9 am, the ringgit was trading at 4.7065/7095 against the greenback, compared with Tuesday’s close of 4.7035/7070.
+
+[NEWS_P002] Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid noted that Malaysia’s inflation rate rose to 2.0 per cent in May, which could lead BNM to maintain the current OPR to manage inflation. "Apart from that, uncertainties in the United States (US) are evident as economic data such as the US Consumer Confidence Index, declined to 100.4 points in June from 101.3 points in May. "The Expectation Index also dropped to 73 points in June from 74.9 points previously, remaining below the 80-point threshold for five consecutive months, typically indicating a recession," he told Bernama.
+
+[NEWS_P003] Mohd Afzanizam said the ongoing tension between the markets and the US Federal Reserve (Fed) is likely to persist, with markets betting that the Fed's fund rate could drop to 2.25 per cent by the first quarter of next year. "On that score, the ringgit against the US dollar is likely to remain around RM4.71 in the near term," he added. Meanwhile, the ringgit opened mixed against a basket of major currencies. It appreciated against the Japanese yen to 2.9465/9486 from 2.9513/9537 at Tuesday’s close and improved against the euro to 5.0411/0443 from 5.0440/0478 but slipped against the British pound to 5.9697/9735 from 5.9687/9732.
+
+[NEWS_P004] The ringgit was also mixed against its ASEAN peers. It rose against the Thai baht to 12.7995/8115 from 12.8294/8431 at Tuesday’s close and appreciated against the Singapore dollar to 3.4739/4764 from 3.4763/4792. It inched down against the Indonesian rupiah to 287.3/287.7 from 287.1/287.5 and remained almost unchanged against the Philippine peso at 8.00/8.02 from 8.00/8.01 previously. - Bernama

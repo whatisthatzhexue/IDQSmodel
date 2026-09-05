@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia higher at midday, boosted by year-end window dressing
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-12-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/26/bursa-malaysia-higher-at-midday-boosted-by-year-end-window-dressing
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia rose at midday on Boxing Day, fueled by year-end window dressing activities in a thin market. The FBM KLCI rose 7.88 points, or 0.49% to 1,610.87 after hitting an intra-day high of 1,612.120. All indices are in positive territory. Market breadth was positive with 540 securities ending in the green versus 291 that closed weaker. Traded volume stood at 1.34 billion shares valued at RM885.56mil. Among the gainers, United Plantations jumped 84 sen to RM30.84, Dutch Lady added 44 sen to RM30.36, PETRONAS Dagangan gained 32 sen to RM19.70 and Allianz advanced 22 sen to RM20.60.
+
+[NEWS_P002] Conversely, Carlsberg fell 14 sen to RM20.64, Batu Kawan slid 12 sen to RM20, United Malacca lost nine sen to RM5.10 and Yinson declined nine sen to RM2.61. Zen Tech International Bhd , the most active counter on Bursa Malaysia, surged 100%, or 0.5 sen to one sen with 87.87 million shares traded. TA Securities said most stocks should stay range bound broadly while mild window dressing interest lift selective key index heavyweights ahead of the year-end holidays.
+
+[NEWS_P003] “Immediate index resistance remains at 1,626, next 1,648, followed by the September peak of 1,675. Immediate support stays at 1,588, the 38.2% Fibonacci retracement (FR) of the 1,529 low (Aug 6) to 1,684 high (Aug 29) rally, with stronger key supports at 1,565, the 23.6% FR level, and then 1,550,” it added. Malacca Securities said that with the slight rebound in crude oil prices, traders may turn their attention to O&G-related counters ahead of the release of US crude oil inventories data this Friday.
+
+[NEWS_P004] Additionally, as the government has removed the 85% demand cap under the self-consumption (SelCo) program and allowed solar installations on land and water starting January 2025, traders can look for opportunities in solar-related companies. “We remain optimistic about the data centre value chain industries within the construction, building materials, technology, and utilities sectors. Furthermore, the market is likely to favour technology stocks amid the weakening ringgit bias,” Malacca Securities said.

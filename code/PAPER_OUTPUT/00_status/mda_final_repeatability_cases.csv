@@ -1,0 +1,1 @@
+document_id,ticker,company_name,report_year,valid_pair,stable_pair,total_score_a,total_score_b,abs_total_score_diff,max_dimension_diff,dimension_diff_ge_2,manual_review_required,review_reasons

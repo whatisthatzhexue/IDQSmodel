@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends at intraday low; glove makers rally
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-05-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/15/fbm-klci-ends-at-intraday-low-glove-makers-rally
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI finished at an intraday low on Wednesday, contrasting with the upward surge witnessed in glove counters. The market bellwether fell 2.65 points, or 0.17% to 1,603.23, its intraday low. The market breadth was undecided with an almost equal number of 574 gainers and 579 decliners while 475 counters remained untraded. Trading volume was brisk at 6.2 billion shares, worth RM4.7bil in all. Glove makers surged following the US announcement of a tariff increase on Chinese rubber medical and surgical gloves, among other products, from 7.5% to 25% in 2026.
+
+[NEWS_P002] Glove counters dominated the active list on Bursa Malaysia today. Top Glove, the most active counter, rose 30 sen, or 31.25% to RM1.26 with 506.89 million shares done. The counter rose 38% in the past five days. Supermax rose 21.5 sen to RM1.08 with 325.31 million shares changing hands, while Careplus gained 7.5 sen to 38 sen on 280.25 million shares. Hartalega , is the top gainer on Bursa Malaysia, jumping 86 sen to RM3.82 while Kossan rose 36 sen to RM2.74.
+
+[NEWS_P003] Other gainers include Heineken, Dutch Lady and Keck Seng. Among the decliners, MSM slid 34 sen to RM2.80, Ajinomoto fell 32 sen to RM16.56, PPB lost 30 sen to RM15.30 and PETRONAS Chemicals declined 16 sen to RM6.81. On the external front, the MSCI's Asia ex-Japan index was firmer by 0.51%, while Japan's Nikkei index closed up 0.08% at 38,385.73. Markets in Hong Kong are closed for a public holiday. China’s Shanghai Composite index slid 0.82% to 3,119.90 while CSI 300 index was down 0.85% to 3,626.06.

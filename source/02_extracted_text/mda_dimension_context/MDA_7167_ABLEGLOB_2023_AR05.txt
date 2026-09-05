@@ -1,0 +1,99 @@
+document_id: MDA_7167_ABLEGLOB_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 65, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 178.492, "paragraph_count": 65, "paragraph_length_distribution": {"max": 1191, "mean": 391.062, "min": 26}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+management discussion and Analysis
+The Statement on Management Discussion and Analysis (“MD&A”) provides an insight of the financial performance of
+Able Global Berhad (“AGB”) and its subsidiaries (“the Group”) for the financial year ended 31 December 2023 (“FYE
+2023”). This MD&A also contains information on the Group’s overview of business and operations, current financial
+position, reviewing of operating activities, assessing the operational risks faced by the Group and discussing the future
+prospect of the Group.
+1.
+OVERVIEW OF BUSINESS AND OPERATIONS
+[MDA_P017]
+As for share information, the earnings per share (“EPS”) is 16.86 sen for the FYE 2023 as compared to 10.85
+sen in the previous financial year. The net assets per share (“NAPS”) increased by 13 sen to RM1.44 for FYE
+2023 against RM1.31 in the previous financial year. The price earnings (“PE”) ratio is 8.90 for FYE 2023 as
+compared to 12.44 in the previous financial year. The share price in FYE 2023 and in the previous financial
+year was at RM1.50 and RM1.35 respectively.
+[MDA_P033]
+As the Group already has existing manufacturing plants with established distribution channels, the
+Group does not foresee immediate threat of new entrants that will significantly affect the Group’s
+business. The Group hopes to be able to maintain its market share.
+D.
+Foreign Exchange Risks
+[MDA_P049]
+ABLE GLOBAL BERHAD
+AUDIT COMMITTEE
+Mr. Siah Chin Leong (Chairman)
+Ms. Ng Lee Thin
+Ms. Marieta Binti Abdull Hamid
+NOMINATION COMMITTEE
+Ms. Marieta Binti Abdull Hamid
+(Chairperson)
+Mr. Siah Chin Leong
+Ms. Ng Lee Thin
+COMPANY SECRETARY
+Ms. Wong Chee Yin
+(MAICSA 7023530)
+(SSM PC No. 202008001953)
+Affiliate Member of MAICSA
+Ms. Yong May Li (LS0000295)
+(SSM PC No. 202008000285)
+(Retired on 16 April 2024)
+EXTERNAL AUDITORS
+Crowe Malaysia PLT
+201906000005
+(LLP 0018817-LCA) & AF 1018
+Chartered Accountants
+Muar Office
+No. 8 (2nd Floor), Jalan Pesta 1/1
+Taman Tun Dr. Ismail Jalan Bakri
+84000 Muar, Johor
+Tel : +60(6) 952 4328
+Fax: +60(6) 952 7328
+PRINCIPAL BANKERS
+AmBank (M) Berhad
+Hong Leong Bank Berhad
+Public Bank Berhad
+STOCK EXCHANGE LISTING
+Main Market of Bursa Malaysia
+Securities Berhad
+Stock Name: ABLEGLOB
+Stock Code: 7167
+Website:
+http://www.ableglobalbhd.com.my
+E-mail: ir@ableglobalbhd.com.my
+REMUNERATION COMMITTEE
+Ms. Ng Lee Thin (Chairperson)
+Mr. Siah Chin Leong
+Ms. Marieta Binti Abdull Hamid
+RISK MANAGEMENT COMMITTEE
+Mr. Siah Chin Leong (Chairman)
+Mr. Edward Goh Swee Wang
+Ms.
+[MDA_P065]
+Member of board
+committees
+: No
+Other directorship in
+public companies and
+listed issuers
+: No
+Family relationship with
+any director and/or major
+shareholder of AGB
+: No
+Conflict of interests with
+AGB
+: No
+Conviction for offences
+within the past 5 years,
+other than traffic
+offences
+: No

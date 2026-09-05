@@ -1,0 +1,60 @@
+document_id: MDA_7237_PWROOT_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 25, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 134.915, "paragraph_count": 25, "paragraph_length_distribution": {"max": 1190, "mean": 960.88, "min": 258}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+This has been an extraordinary year. We have all had to adjust to living with social and economic uncertainty under new
+circumstances. On the personal front, parents have had to learn to supervise their children’s home-schooling needs,
+employees to master how to work-from-home effectively, and we have become more accustomed to delivery services. On the business front, companies have had to readjust their short-term and long-term strategies. In some cases, these
+have involved major pivots as some industries grounded to a halt. However, amid uncertainly lies opportunities and many
+entrepreneurial efforts have mushroomed in response to the current situation. Like all enterprises, Power Root has had to adapt to these challenging times. As part of the essential food and beverage
+industry, we have been able to continue to operate during 2020 and 2021 with necessary adjustments made across
+production, distribution, sales and marketing, and administrative functions.
+[MDA_P007]
+While we had only a small presence online previously, we have significantly ramped up our availability across e-commerce
+platforms this past year. We launched flagship stores on popular platforms such as Lazada and Shopee. Increased
+competition among the e-commerce platforms also provided us with a wider choice of platform partners offering more
+competitive pricing and extensive market coverage. We have also strengthened our social media and online sales team to boost our presence, increase customer touch points
+and expand our social media marketing efforts. Marketing and branding
+Market conditions saw a shift in the Group’s marketing and advertising strategies as there were limited opportunities to hold
+sampling events at shopping centres. These had previously formed a major part in the introduction of our new products as
+well as product revamp and repositioning launches. Instead, we chose to focus on customised campaigns. This approach
+also suited our social media advertising campaigns which honed in more narrowly toward our intended consumer audience. MANAGEMENT DISCUSSION
+AND ANALYSIS
+cont’d
+[MDA_P013]
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+Annual Report 2021
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+cont’d
+We extended our Oligo range with the introduction of Oligo Protein Chocolate Malt in November 2020. This new variant
+contains vitamins B1, B2, B6 and B12 as well as oligofructose and is high in protein. It joins Oligo Calcium as part of our
+Oligo-in-a-can range. Jom Kopi Coffeemix 3 in 1 was launched in January 2021. This blend of micro-ground coffee with date extracts to enhance
+its sweetness gives consumers a differentiated taste to appreciate. EXPORTS
+Amongst others, our global performance was also affected by the COVID-19 pandemic. China, which faced the pandemic
+early on, has shown good economic recovery since June 2020. We have also started to see the positive results from the
+restructuring we had carried out on our supply chain, distribution and online business in the China market in the financial
+year 2019/2020. At the end of 2020, Power Root participated in two separate live broadcasts where we promoted two
+brands in particular.
+[MDA_P019]
+The drop in sales in
+non-GCC countries is also attributed to currency depreciation. For FYE 2021, the Group recorded PAT of RM28.3 million, a decrease of 45.3% from the PAT of RM51.7 million in FYE
+2020. This reduction in PAT was due to lower sales as well as foreign exchange losses this year as against foreign exchange gains
+in the preceding year. MANAGEMENT DISCUSSION
+AND ANALYSIS
+cont’d
+[MDA_P025]
+However, adversity has strengthened the strong bond among our
+employees, partners and stakeholders as we worked tirelessly amid uncertainty to overcome all challenges while keeping
+safe and healthy. We will face further challenges this coming year, but we are confident that Power Root will continue to
+progress further with this invaluable support. MANAGEMENT DISCUSSION
+AND ANALYSIS
+cont’d

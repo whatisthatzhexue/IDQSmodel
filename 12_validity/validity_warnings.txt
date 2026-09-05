@@ -1,0 +1,20 @@
+2658: auditor varies across years -> {'KPMG', 'EY'}
+2658 2024: profit 27491461 -> 401419744 large swing
+2836 2022: TA 621471 -> 1058190 (+170%) large YoY change
+3662 2024: profit 5285 -> 77223 large swing
+5157 2021: TA 75528360 -> 141319044 (+187%) large YoY change
+5187: auditor varies across years -> {'UHY', 'Folks DFK'}
+5187 2023: profit -2302 -> -45840 large swing
+5306 2024: TA 1062635894 -> 1279601 (+0%) large YoY change
+6432: auditor varies across years -> {'KPMG', 'BDO'}
+8303: auditor varies across years -> {'TGS TW', 'Grant Thornton'}
+MDA_5187_HBGLOB_2020: unit = RMB'000
+MDA_5187_HBGLOB_2021: unit = RMB'000
+MDA_5187_HBGLOB_2022: unit = RMB'000
+MDA_5187_HBGLOB_2023: unit = RMB'000
+MDA_5187_HBGLOB_2024: unit = RMB'000
+MDA_5188_CNOUHUA_2020: unit = RMB'000
+MDA_5188_CNOUHUA_2021: unit = RMB'000
+MDA_5188_CNOUHUA_2022: unit = RMB'000
+MDA_5188_CNOUHUA_2023: unit = RMB'000
+MDA_5188_CNOUHUA_2024: unit = RMB'000

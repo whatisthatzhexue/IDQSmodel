@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit opens higher on US rate cut expectations
+
+[METADATA]
+ticker: CIHLDG
+company_name: CIHB
+publish_date: 2025-08-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/27/ringgit-opens-higher-on-us-rate-cut-expectations
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit opened higher against the US dollar and most major currencies on Wednesday, lifted by growing expectations of a US interest rate cut amid weakening consumer confidence and concerns over rising prices from escalating tariffs. At 8 am, the local unit strengthened to 4.2060/2265 from Tuesday’s close of 4.2160/2210. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the US Dollar Index (DXY) fell 0.21 per cent to 98.225 points as prospects of a rate cut became increasingly clear.
+
+[NEWS_P002] He said the latest dispute between US President Donald Trump and Federal Reserve (Fed) officials over the dismissal of a Fed governor had cast a shadow over the central bank’s independence, raising concerns that Trump was seeking greater influence as he pushes for lower rates. "It remains to be seen whether Trump has the legal justification to pursue such a decision. "On that note, the ringgit could stage a rebound, with the USD/MYR likely to hover around the psychological level of 4.20 as the Fed is expected to cut rates at its September meeting,” he told Bernama.
+
+[NEWS_P003] At the opening, the ringgit also traded firmer against a basket of major currencies. It gained against the euro to 4.8949/9188 from 4.9087/9145, rose versus the Japanese yen to 2.8519/8660 from 2.8571/8607, and appreciated against the British pound to 5.6684/6961 from 5.6827/6895. The ringgit was mostly higher against other ASEAN currencies. It inched up against the Singapore dollar to 3.2716/2878 from 3.2786/2828, edged higher versus the Thai baht to 12.9615/13.0351 from 12.9707/9917, strengthened against the Philippine peso to 7.37/7.41 from 7.38/7.40, and was nearly flat against the Indonesian rupiah at 258.0/259.4 from 258.6/259.0.
+
+[NEWS_P004] - Bernama

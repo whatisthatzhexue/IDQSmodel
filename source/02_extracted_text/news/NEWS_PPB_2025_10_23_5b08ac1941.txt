@@ -1,0 +1,24 @@
+[TITLE]
+FBM KLCI ends at intraday high on late bargain-hunting
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/23/fbm-klci-ends-at-intraday-high-on-large-bargain-hunting
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia’s benchmark index reversed earlier losses to end at an intraday high today, supported by mild bargain hunting in several key index heavyweights. At 5 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) rose 5.31 points to 1,608.0 from Wednesday’s close of 1,602.69. The market barometer opened 1.43 points weaker at 1,601.26 before gaining momentum in the afternoon session to end in positive territory. The broader market, however, was negative with 589 decliners outpacing 470 gainers, while 486 counters were unchanged, 1,151 untraded, and eight suspended.
+
+[NEWS_P002] Turnover improved to 3.44 billion units worth RM2.66 billion compared with 3.41 billion units worth RM2.34 billion on Wednesday. Berjaya Research Sdn Bhd head of research Kenneth Leong said market sentiment is likely to remain cautious in the near term as investors await the release of the US inflation print on Friday, which could offer further cues on the Federal Reserve’s policy direction. Meanwhile, Rakuten Trade Sdn Bhd's vice-president of equity research Thong Pak Leng, however, said that the market’s upside is limited following reports that Washington has once again escalated trade tensions with Beijing, prompting investors to hesitate in taking longer positions.
+
+[NEWS_P003] As for the local bourse, he noted that the benchmark index is well supported around the 1,600 level and that the stockbroking firm has maintained a cautious outlook given the prevailing macroeconomic uncertainties, acknowledging that investor sentiment is likely to remain fragile. "Hence, we anticipate the FBM KLCI to trend within the 1,600-1,615 range towards the weekend,” he said. Among heavyweight counters, CIMB added 13 sen to RM7.33, Press Metal increased seven sen to RM6.20, MISC was 16 sen firmer at RM7.51, while Public Bank was flat at RM4.21 and Maxis lost one sen to RM3.80.
+
+[NEWS_P004] On the most active list, newly listed THMY rose 60 sen to 91 sen, Tanco and Zetrix AI gained half-a-sen each to 88 sen and 85.5 sen, respectively, while Perak Transit fell half-a-sen to 33 sen and Genting Malaysia was one sen weaker at RM2.33. Top gainers included Dutch Lady which jumped 24 sen to RM26.44, PPB and Petronas Dagangan added 20 sen each to RM11.10 and RM22.44, respectively, and Telekom Malaysia climbed 19 sen to RM7.41. Among the top decliners, Nestle slipped 30 sen to RM108.0, Petronas Gas slid 20 sen to RM18.54, and both Malaysian Pacific Industries and Kuala Lumpur Kepong fell 18 sen to RM29.70 and RM20.54, respectively.
+
+[NEWS_P005] On the index board, the FBM Emas Index perked up 30.83 points to 12,031.03, the FBMT 100 Index gained 31.08 points to 11,766.93, and the FBM Emas Shariah Index climbed 15.73 points to 12,114.25. The FBM 70 Index advanced 11.61points to 17,125.81 while the FBM ACE Index tumbled 44.86 points to 5,245.40. By sector, the Financial Services Index jumped 77.02 points to 18,145.26, the Industrial Products and Services Index rose 0.93 of-a-point to 171.29, the Energy Index edged up 0.34 of-a-point to 785.74, and the Plantation Index added 9.93 points to 7,917.75.
+
+[NEWS_P006] The Main Market volume increased to 1.90 billion units valued at RM2.27 billion from 1.76 billion units valued at RM2.02 billion on Wednesday. Warrants turnover declined to 1.0 billion units worth RM120.24 million compared with 1.16 billion units worth RM140.62 million yesterday. The ACE Market volume expanded to 544.53 million units valued at RM268.54 million from 482.47 million units valued at RM168.77 million​​​​​ previously. Consumer products and services counters accounted for 729.56 million shares traded on the Main Market, industrial products and services (291.62 million), construction (92.69 million), technology (189.06 million), financial services (63.06 million), property (198.87 million), plantation (27.10 million), real estate investment trusts (16.30 million), closed-end fund (2,000), energy (102.04 million), healthcare (73.73 million), telecommunications and media (52.16 million), transportation and logistics (28.45 million), utilities (38.83 million), and business trusts (28,800).
+
+[NEWS_P007] - Bernama

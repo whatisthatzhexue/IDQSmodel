@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI falls as US market bubble fears surface
+
+[METADATA]
+ticker: SPRITZER
+company_name: SPRITZER
+publish_date: 2025-11-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/05/fbm-klci-falls-as-us-market-bubble-fears-surface
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI slipped on Wednesday after the sharp retreat on Wall Street overnight following warnings from top investment bankers of a market bubble. The S&P500 and Nasdaq fell 1.17% and 2.04% respectively in its Tuesday trading session after the CEOs of Morgan Stanley and Goldman Sachs warned of stretched valuations and a potential correction sometime in the next two years. At Wednesday's open, the FBM KLCI fell 1.26 points to 1,622.24, with investors booking profits from the previous session.
+
+[NEWS_P002] "Rangebound trade with a downside bias is expected amid broader market consolidation and a dearth of domestic positive catalysts to spark bargain hunting interest," said TA Securities in a note. Meanwhile, Malacca Securities said the softer trading sentiment after the negative US overnight performance could be cushioned by decent US tech earnings. "We anticipate buying interest to cushion the downside risk on the domestic technology sector, with a key focus on stocks such as Kelington, VItrox and Frontken," it said in its outlook.
+
+[NEWS_P003] It added that traders may also focus on consumer names like Eco-Shop Marketing, 99 Speed Mart, and Spritzer, given the expected surge in tourist arrivals ahead of Visit Malaysia Year 2026. In early trade, semiconductor-related stocks declined sharply in the footsteps of the Nasdaq. MPI dropped 50 sen to RM30.06, KESM shed 12 sen to RM3.40 and Pentamaster fell 10 sen to RM4. PJ Bumi, meanwhile, extended its rout by 53 sen to RM1.24 after the previous day's 30% plunge.
+
+[NEWS_P004] In response to Bursa Securities' unusual market activity query, the company said it was not aware of any development to account for the sharp selling. Top actives included NexG Bina up 0.5 sen to five sen, MMAG sliding 2.5 sen to 11.5 sen and Borneo Oil unchanged at 0.5 sen.

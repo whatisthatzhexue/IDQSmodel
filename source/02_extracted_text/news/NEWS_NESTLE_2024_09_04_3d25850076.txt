@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia falls amid regional sell-off; investors await Bank Negara’s decision
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-09-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/04/bursa-malaysia-falls-amid-regional-sell-off-investors-await-bank-negaras-decision
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended lower on Wednesday, tracking declines in Asian markets and the sharp sell-off in technology stocks on Wall Street overnight. Dealers said rising investor concerns about a global economic slowdown contributed to the downturn. Additionally, they said investors will be looking out for Bank Negara's monetary policy decision tomorrow, which is expected to maintain the status quo on the overnight policy rate. At closing, the FBM KLCI ended down 6.41 points, or 0.38% 1,670.24.
+
+[NEWS_P002] It hit an intraday low of 1,662.22 and a high of 1,675.53. Market breadth turned negative as losers overpowered the gainers on a ratio of 813-to-307 stocks. Traded volumes stood at 3.04 billion shares valued at RM2.9bil. The KLCI-component stocks were overwhelmingly negative, with 21 losers and seven gainers. Among the losers, Nestle tumbled RM1.50 to RM103.90, Malaysian Pacific Industries lost 88 sen to RM28.50, Dutch Lady fell 40 sen to RM30.22 and UWC declined 39 sen to RM2.04.
+
+[NEWS_P003] Bursa Malaysia has suspended the short-selling (IDSS) for UWC due to significant decline in its share prices. Magni-Tech Industries rose 29 sen to RM2.59, Lebtech gained 21.5 sen to 75 sen, Chin Hin added 21 sen to RM3.36 and LPI increased 20 sen to RM13.30. Around the region, MSCI's Asia ex-Japan stock index was weaker by 1.9%. Japan’s Nikkei 225 tumbled 4.24% to 37,047.61 while South Korea’s Kospi closed down 3.15% at 2,580.80. Hong Kong's Hang Seng Index lost 1.1% to 17,457.34.
+
+[NEWS_P004] China's blue-chip CSI 300 lost 0.65% to 3,252.16, its lowest level since early February. The Shanghai Composite Index fell 0.67% to 2,784.28.

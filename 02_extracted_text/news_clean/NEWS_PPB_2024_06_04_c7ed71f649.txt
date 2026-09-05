@@ -1,0 +1,30 @@
+[TITLE]
+High expectations for corporate earnings
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-06-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/04/high-expectations--for-corporate-earnings
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Corporate Malaysia ended the first quarter of 2024 (1Q24) with a mixed bag of results that caused investors to offload local shares and drove the FBM KLCI to below 1,600 points. The benchmark index of Bursa Malaysia fell by 1.4% to 1.596.68 points in the last week of May as the final lap of corporate earnings poured in and investors engaged in profit-taking. The FBM Small Cap Index also declined by 2.4% in the same period to below the 19,000-point mark.
+
+[NEWS_P002] The reversal in both indices could be because the first-quarter earnings season did not satisfy the high earnings expectations that investors had. The soft market sentiment was most evident among foreign investors who turned net sellers for six straight days up until May 31. Kevin Khaw Khai Sheng, research analyst at iFAST Capital, told StarBiz that the aggregate earnings of the FBM KLCI were 7.5% below analysts’ forecast compiled by Bloomberg. This was despite the 30-stock index achieving an average sales positive surprise of 2.18%.
+
+[NEWS_P003] The biggest underperforming sector within the FBM KLCI was consumer staples, which delivered aggregate earnings of 58% below analysts’ forecast. There are six consumer staples stocks in the index, according to Bloomberg. Following consumer staples, the next underperformers were the consumer discretionary (47.4%) and telecommunications sectors (47.1%). On the contrary, healthcare and financials were the only sectors that performed stronger than market prediction in terms of earnings delivery.
+
+[NEWS_P004] Healthcare, solely represented by IHH Healthcare Bhd on the FBM KLCI, had an earnings surprise of 97%, followed by financials (11.3%). Tradeview Capital chief investment officer Nixon Wong said that 1Q24 corporate earnings were not as buoyant as investors had expected. However, he clarified that first-quarter earnings seasons have been generally weaker historically. “While 1Q24 results were mixed in general, it must be noted that more than half of the stocks we monitored performed in line with our expectations,” he said.
+
+[NEWS_P005] Breaking it down by sectors, Khaw noted that the financial sector continued to deliver resilient results in 1Q24, despite a moderation in loan growth and non-interest income. “The consumer discretionary surprised our expectations with the strong recovery in the hospitality segment to bring net profit back to the pre-pandemic level. “With the uneven recovery from Chinese tourists given the gloomy sentiment onshore, we expect the sector still has some legs to grow in the next couple of years should the global demand rejuvenate.
+
+[NEWS_P006] “On the flip side, the consumer staples result was slightly disappointing despite recovering domestic consumption, with both Nestle (M) Bhd (domestic sales declined year-on-year) and PPB Group Bhd (dragged by cinema operations),” he said. Meanwhile, Wong highlighted that several sectors such as technology, industrial production, consumer, transportation and healthcare did not meet earnings expectations in 1Q24. Particularly for the technology sector, he said the slower-than-expected semiconductor recovery in segments like personal computers and automotive had hampered earnings delivery.
+
+[NEWS_P007] The technology sector is also affected by rising costs. “That said, the outlook for the technology sector is still positive. We think the full recovery will happen in 4Q24 or 1Q25, which is a delay from 2Q24 as the market had predicted previously,” he said. Wong also said that telecommunication and banking stocks were mostly in line with earnings expectations. “The oil and gas sector, composed mostly of downstream players, outperformed in 1Q24.“The property and construction sectors also reported better-than-expected results.” Despite the overall mixed results in the first quarter, Wong said market expectations on corporate earnings remain on the high side.
+
+[NEWS_P008] “If corporate earnings do not perform as expected in the upcoming second-quarter results season, share prices could fall. “The market rally will be tested again sometime in July as companies announce their 2Q24 results.” Currently, Wong said the FBM KLCI’s valuation stands at 14 times, which is slightly lower than the five-year average of 14.5 times. This indicates that the local stock market rally still has legs to run, potentially crossing the 1,600-point mark and beyond.
+
+[NEWS_P009] The market’s overall valuations are still reasonable, despite the rise in share prices in recent times, according to Khaw. “This takes into account the favourable policy landscape, which is critical for a developing nation like Malaysia, and the potential for better earnings growth. “Overall, we maintain a positive view towards financials (supported by improved economic activities to boost loan growth), construction (infrastructure rollout) and technology (China+1 strategy to attract foreign investment and semiconductor play).
+
+[NEWS_P010] “The utilities sector might garner some attention too, followed by the anticipated heightened electricity demand on the back of data centre constructions in Malaysia and Singapore. “Geographically, we expect the overall growth will be much more focused on the three sisters (Penang, Johor and Sarawak) on the back of supportive government policies to buoy the FBM KLCI to the next stage, echoing our positive call since the start of the year,” he said.

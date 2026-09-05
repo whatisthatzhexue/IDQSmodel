@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia edges higher at midday on bargain hunting
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2025-08-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/27/bursa-malaysia-edges-higher-at-midday-on-bargain-hunting
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia remained in positive territory at midday, lifted by bargain hunting in consumer products, financial and utilities heavyweights following yesterday’s sell-off, a dealer said. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) edged up 0.05 of-a-point to 1,581.64 from Tuesday’s close of 1,581.59. The index had opened 0.18 of-a-point higher at 1,581.77 and moved between 1,576.75 and 1,586.46 throughout the morning trading session.
+
+[NEWS_P002] However, on the broader market, 457 losers outpaced 391 gainers, while 490 counters were unchanged, 1,301 untraded and 69 suspended. Turnover stood at 1.79 billion units worth RM1.30 billion. In a note, Malacca Securities Sdn Bhd said the local bourse is likely to see continued buying interest in the technology sector, taking its cue from Wall Street’s positive lead. "We favour Unisem Group, Inari Amertron and Frontken Corporation, as we believe these companies serve as proxies for Apple and may benefit from China’s recovery.
+
+[NEWS_P003] "On the construction play, we believe traders may focus on SunCon and Gamuda amid the data centre boom,” it added. Among the heavyweights, Maybank added 5.0 sen to RM9.80 and Tenaga Nasional increased 4.0 sen to RM13.48, while CIMB Group and IHH Healthcare improved 2.0 sen to RM7.42 and RM6.79, respectively. Meanwhile, Public Bank slid 8.0 sen to RM4.34. As for the most active counters, Pharmaniaga edged up half-a-sen to 17.5 sen, Tanco Holdings improved 1.0 sen to 73 sen and Magma Group bounced 2.0 sen to 32.5 sen, while Zetrix AI and TWL Holdings were unchanged at 87 sen and 2.5 sen, respectively.
+
+[NEWS_P004] On the index board, the FBM Emas Index rose 11.74 points to 11,746.01, the FBMT 100 Index gained 11.79 points to 11,518.01, the FBM Emas Shariah Index advanced 30.93 points to 11,708.21, and the FBM 70 Index jumped 67.48 points to 16,520.65, while the FBM ACE Index slipped 24.51 points to 4,727.14. Sector-wise, the Industrial Products and Services Index eased 0.60 of-a-point to 163.02, the Financial Services Index fell 22.13 points to 18,067.36 and the Plantation Index dropped 9.75 points to 7,564.38, while the Energy Index added 2.99 points to 750.19.
+
+[NEWS_P005] - Bernama

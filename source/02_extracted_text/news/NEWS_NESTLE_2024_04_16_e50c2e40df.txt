@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia tracks negative global sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-04-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/16/bursa-malaysia-tracks-negative-global-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The domestic market was a sea of red on Tuesday, tracking US stocks lower as geopolitical tensions and surging US Treasury yields sapped the risk appetite for equities. The FBM KLCI dropped 1.45 points to 1,541.08 at the start of trading, reflecting the weak investor sentiment that is pressuring global markets. Wall Street was hammered overnight by worries over the conflict in the Middle East and rising yields. The Dow Jones dropped 0.65% to 37,735 and the S&P500 shed 1.2% to 5,061 while the Nasdaq dove 1.8% to 15,885 amid a rout in technology stocks.
+
+[NEWS_P002] Apex Securities Research advised investors to consider accumulating fundamentally sound stocks during this period oweakenss, in view of government efforts to stabilise the markets. "The technology sector could experience heavier selling pressure, echoing the losses seen in Nasdaq on Wall Street overnight. "However, we remain bullish on commodities-related stocks, which often serve as safe havens during periods of turmoil. "Also, gold-related stocks may ride onto the higher gold prices alongside with the escalating geopolitical tension across the Middle East," said Apex in a statement.
+
+[NEWS_P003] Lagging blue-chips include PETRONAS Chemicals down six sen to RM6.74, Hong Leong Bank falling six sen to RM19.40, AmBank sliding five sen to RM4.13 and YTL Power shedding eight sen to RM3.83. There were few gainers on the broader market, with standouts being Nestle gaining 10 sen to Rm122.20, PETRONAS Dagangan adding eight sen to RM21.88 and MISC climbing six sen to RM 7.82. Of actives, Ingenieur Gudang rose one sen to 15 sen, TWL slid 0.5 sen to three sen and Harvest Miracle was flat at 11.5 sen.

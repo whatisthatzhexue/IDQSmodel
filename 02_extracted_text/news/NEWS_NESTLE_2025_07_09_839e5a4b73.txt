@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI ends lower as banking stocks slip after OPR cut
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/09/fbm-klci-ends-lower-as-banking-stocks-slip-after-opr-cut
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI extended its decline for a third straight session, weighed down by banking stocks following Bank Negara’s cut in the overnight policy rate (OPR). The 30-stock index slipped 0.9 point, or 0.06%, to close at 1,529.24, after touching an intraday high of 1,532.62. Market breadth turned positive as more stocks rebounded, with 560 gainers and 371 losers on Bursa Malaysia. Turnover stood at almost three billion valued at RM2.04bil.
+
+[NEWS_P002] Bank Negara lowered the OPR by 25 basis points to 2.75% at its July MPC meeting — its first rate move since May 2023. The central bank said the cut is a pre-emptive step to support Malaysia’s growth momentum amid moderate inflation. OCBC Global Markets Research expects Bank Negara to cut the policy rate by another 25 basis points, likely at the Sept 4 or Nov 6 meeting, bringing it to 2.50% by end-2025. Consumer stocks dominated the losers’ list on Bursa Malaysia, with Nestle down 36 sen to RM78.40, Dutch Lady falling 26 sen to RM28.74, Carlsberg dropping 20 sen to RM18.94, and Heineken easing 20 sen to RM25.
+
+[NEWS_P003] Among the gainers, PETRONAS Dagangan rose 34 sen to RM21.84, Kluang Rubber Company added 26 sen to RM5.85, Kuala Lumpur Kepong gained 22 sen to RM21 and Allianz climbed 20 sen to RM18.56. Among banking stocks, Public Bank eased eight sen to RM4.26, CIMB slipped four sen to RM6.57, Hong Leong Bank fell 10 sen to RM19.36, and AmBank declined seven sen to RM5.09. RHB Bank added one sen to RM6.31, while Maybank was unchanged at RM9.70. ACE Market debutant PMCK rose one sen, or 4.55%, to 23 sen with 155.01 million shares traded.
+
+[NEWS_P004] On the forex market, the ringgit was down 0.21% against the greenback to 4.2495. Elsewhere in the region, Japan’s Nikkei 225 rose 0.33%, Hong Kong’s Hang Seng Index closed down 1.06%, South Korea’s Kospi climbed 0.6%, China’s CSI 300 Index lost 0.18% and Singapore’s Straits Times Index gained 0.2%.

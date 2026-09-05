@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI slightly higher at midday amid weak Asian sentiment
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-09-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/03/fbm-klci-loses-momentum-at-midday-amid-weak-asian-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI pared earlier gains as it remained tightly wound around a consolidation channel in the absence of fresh domestic leads. Domestic investors have their eyes peeled for Bank Negara's next overnight policy rate decision at its meeting tomorrow, although analysts are expecting the central bank to remains status quo on the benchmark rate. At 12.30pm, the FBM KLCI was up 1.49 points to 1,578.19 while the market pulled ahead on the back of the healthcare and property sectors.
+
+[NEWS_P002] Financial services, however, saw profit-taking following recent gains, which put a cap on the market rally. Some notable gainers included Sunway, up 16 sen to RM5.21, as plans to list its healthcare arm attracted investor interest. PPB jumped 27 sen to RM9.31 while Telekom Malaysia climbed 11 sen to RM7.03. Among the most active movers, Velesto rose one sen to 21.5 sen, Tanco jumped 9.5 sen to 80 sen and TWL dropped 0.5 sen to 2.5 sen. There were 494 advancing issues over the broader span of the market, as compared to 383 decliners.
+
+[NEWS_P003] Turnover was 1.61 billion shares changing hands for RM1.29bil. There was a subdued mood over Asian markets amid soaring bond yields and a soft performance in US markets overnight amid uncertainty over the legality of Trump's trade tariffs. Japan's Nikkei shed 0.79% to 41,976. China's composite index dropped 0.96% to 3,820 while Hong Kong's Hang Seng dipped 0.4% to 25,395. South Korea's Kospi bucked the trend with a 0.18% lead at 3,178.

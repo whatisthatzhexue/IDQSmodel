@@ -1,0 +1,22 @@
+[TITLE]
+Genting Plantations’ outlook hinges on palm prices and FFB production
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2025-11-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/26/genting-plantations-outlook-hinges-on-palm-prices-and-ffb-production
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Genting Plantations Bhd said its outlook for the rest of the year will hinge on the performance of its core plantation segment, which depends largely on palm product prices and the group’s fresh fruit bunch (FFB) production. “The group anticipates palm products prices to remain firm in the near term, supported by tight palm oil supply and resilient biodiesel demand, underpinned by ongoing biodiesel mandates and policies in key markets.
+
+[NEWS_P002] “Nonetheless, subdued demand due to its unfavourable price spread against other edible oils and the absence of festive-driven demand, amid ongoing uncertainties surrounding trade policies, may limit the price upside,” Genting Plantations said in a statement. The group expects FFB production to ease in the remaining months of the year after peaking in October across its Malaysian and Indonesian estates. It anticipates full-year 2025 output to be marginally lower year-on-year.
+
+[NEWS_P003] In the third quarter ended Sept 30 (3Q25), Genting Plantations’ net profit rose 4.15% to RM86.5mil, or 9.64 sen per share, lifting its nine-month (YTD) profit 61.3% higher to RM340.3mil, or 37.93 sen. Quarterly revenue increased 17.9% to RM846.9mil, bringing nine-month revenue to RM2.33bil, up 12.1%, driven by sustained property sales and firmer selling prices in downstream manufacturing. The group’s achieved crude palm oil prices averaged RM3,779 per tonne in 3Q25 and RM3,899 per tonne year-to-date, while palm kernel prices averaged RM3,294 per tonne in the quarter and RM3,336 per tonne year-to-date.
+
+[NEWS_P004] Genting Plantations said FFB production in 3Q25 declined year-on-year, mainly due to a low cropping trend at several of the group’s estates. YTD production was also lower, affected by persistent heavy rainfall and flooding in 1Q25, while ongoing replanting activities at the Malaysian estates further weighed on output. On its property segment, Genting Plantations said more launches are being planned, supported by the encouraging response to recent developments such as U.Reka in Genting Indahpura and Genting Industrial City in Genting Pura Kencana.
+
+[NEWS_P005] “The property segment remains committed to developing distinctive new concepts for its upcoming developments whilst leveraging on synergies across the group to further unlock the value of its landbank,” it said. Genting Plantations the AgTech segment continues to drive innovation, using AI, big data and genomic research to develop high-yielding, disease-resistant planting materials and sustainable biological solutions aimed at improving productivity, traceability and operational efficiency.
+
+[NEWS_P006] The recent acquisition of an Indonesian oil palm seed producer further strengthens the group’s seed development capabilities and expands its reach to growers across the region. Meanwhile, the group said its downstream manufacturing segment is expected to remain under pressure amid intense competition from Indonesian producers, refinery overcapacity in Indonesia and persistently high input costs. Its palm-based biodiesel will continue to serve mainly the Malaysian biodiesel mandate, given limited export opportunities.

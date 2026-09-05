@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI pares losses at the close as Press Metal, TM rise
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-06-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/11/fbm-klci-pares-losses-at-the-close-as-press-metal-tm-rise
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Substantial gains in Press Metal and Telekom Malaysia helped Bursa Malaysia’s barometer index to pare some of its earlier losses amid the selling pressure in heavyweight stocks. At 5pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) fell by 2.88 points to 1,611.49 from Monday’s close of 1,614.37. The FBM KLCI, which opened 2.63 points higher at 1,617.00, fluctuated between 1,609.26 and 1,617.37 throughout the day. Market breadth continued to improve, with gainers surpassing decliners 797 to 496, while 455 counters remained unchanged, 652 untraded and nine others suspended.
+
+[NEWS_P002] Turnover expanded to 6.98 billion units worth RM5.12 billion from Monday's 5.96 billion units worth RM3.30 billion. Rakuten Trade Sdn Bhd equity research vice-president Thong Pak Leng said investors were pouring money into small capitalisation counters and moving away from blue chips ahead of the US Federal Open Market Committee meeting outcome on Wednesday. Consensus views suggest that the Federal Reserve will keep rates steady following the strong job data last Friday, with focus on its latest forecasts for the economy and inflation.
+
+[NEWS_P003] "Despite the FBM KLCI closing negatively today, small-cap stocks remained strong, with significant buying in the construction and technology sectors. "We see the FTSE Bursa Malaysia Small Cap Index rising towards the 20,000 points, a level it has not reached since 1997,” he told Bernama. Thong said incoming foreign direct investments in data centres continue to generate buying interest in tech and related stocks. "We anticipate the benchmark index to consolidate in the short term to absorb the recent uptrend and set the stage for further advancement.
+
+[NEWS_P004] "Therefore, we see the FBM KLCI moving within the 1,610-1,630 range for the rest of the week, with immediate resistance at 1,620 and support at 1,600," he noted. Among the heavyweights, Petronas Chemicals lost 12 sen to RM6.59, Sime Darby shaved 10 sen to RM2.65, Public Bank eased three sen to RM4.08, while Nestle shrank RM2.30 to RM124.00. In contrast, Press Metal climbed 16 sen to RM5.91 and TM soared 30 sen to RM6.59. As for the actives, Harvest Miracle improved by one sen to 10.5 sen, JCY International advanced 13 sen to 79.5 sen, SNS Network surged 10.5 sen to 75.5 sen, YNH Property jumped 12.5 sen to 79.5 sen, and Ekovest rose two sen to 48.5 sen.

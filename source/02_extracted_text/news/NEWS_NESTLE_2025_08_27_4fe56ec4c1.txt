@@ -1,0 +1,18 @@
+[TITLE]
+Bargain-hunting drives FBM KLCI higher after sharp selloff
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-08-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/27/bargain-hunting-drives-fbm-klci-higher-after-sharp-selloff
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI rebounded on Wednesday, lifted by bargain-hunting in blue-chip counters after the sharp selloff a day earlier, amid mostly weaker regional markets. The FBM KLCI rebounded to finish at its intraday high, rising 6.32 points, or 0.4%, to 1,587.91, lifted by gains in selected blue chips. There were 558 gainers against 511 decliners, while 505 counters were unchanged. About 3.1 billion shares, valued at RM2.9bil, changed hands.
+
+[NEWS_P002] Dealers said the local bourse recorded modest gains on bargain-hunting, offering some relief after the heavy selloff in the previous session. They noted that buying was selective, with interest centred on beaten-down blue chips and index-linked stocks. Gainers were led by Nestle, which surged RM1.62 to RM94.12. PETRONAS Dagangan added 68 sen to RM22.68, F&N rose 62 sen to RM26.08, and PPB Group climbed 47 sen to RM8.70. Among the decliners, Panasonic Manufacturing slid 47 sen to RM9.42, Heineken fell 26 sen to RM20.62, Riverview lost 19 sen to RM2.85, and PETRONAS Chemicals eased 14 sen to RM4.55.
+
+[NEWS_P003] In terms of fund flows, foreign investors offloaded RM510mil worth of equities on Tuesday. Local institutions were net buyers with total purchases of RM402mil, while retailers picked up RM108mil. Around the region, MSCI’s Asia ex-Japan stock index slipped 0.42%. Asian benchmarks finished broadly lower today, weighed down by sharp declines in Hong Kong and China. Japan’s Nikkei 225 rose 0.3% to 42,520.27, while South Korea’s Kospi gained 0.28% to 3,187.16.
+
+[NEWS_P004] Hong Kong’s Hang Seng index fell 1.27% to 25,201.76, while China’s CSI300 lost 1.5% to 4,386.13 and the Shanghai Composite dropped 1.76% to 3,800.35.

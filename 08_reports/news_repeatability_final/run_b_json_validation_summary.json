@@ -1,0 +1,10 @@
+{
+  "dimension_record_count": 625,
+  "doc_type": "news",
+  "evidence_match_rate": 1.0,
+  "json_success_rate": 1.0,
+  "output_name": "news_repeatability_final/run_b",
+  "schema_success_rate": 1.0,
+  "system_failure_rate": 0.0,
+  "validation_csv_path": "08_reports\\news_repeatability_final\\run_b_json_validation.csv"
+}

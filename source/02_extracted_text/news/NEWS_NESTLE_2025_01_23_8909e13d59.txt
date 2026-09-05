@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia snaps four-day winning streak
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/23/bursa-malaysia-snaps-four-day-winning-streak
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia was unable to sustain a rally despite a braoder regional lift in sentiment as China revealed new measures to prop up its stock market. At 12.30pm, the benchmark FBM KLCI was down 7.9 points to 1,579.9. The broader market experienced a sell-off in 647 counters, as compared to 213 gainers. Turnover was two billion shares valued at RM1.33bil. Of the market sectors, only REITs were positive while the other 12 sectors dipped into the red.
+
+[NEWS_P002] Elsewhere, China's plan to director new capital from state-owned insurers into its stock exchange boosted valuations. The Shanghai Composite index rose 1.02% to 3,246 while Hong Kong's Hang Seng rose 0.24% to 19.826. Japan's Nikkei gained 0.79% to 39,958 while Singapore's Straits Times added 0.85% to 3,812. The selling in FBM KLCI's blue chips was broad-based with Nestle losing 28 sen to RM91.10, MISC sliding six sen to RM7.18 and YTL Power dropping seven sen to Rm3.97.
+
+[NEWS_P003] Banks also shed weight, led by Maybank dropping six sen to RM10.30, CIMB sliding five sen to RM8.01 and Public Bank losing two sen to RM4.38. Of actives, newcomer Oriental Kopi led the way, surging 45 sen to 89 sen on the back of 546.08 million shares. EA Holdings was unchanged at 0.5 sen while Harvest Miracle gained 0.5 sen to 18 sen.

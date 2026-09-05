@@ -1,0 +1,16 @@
+[TITLE]
+PPB likely to endure minor hit from Wilmar case
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/23/ppb-likely-to-endure-minor-hit-from-wilmar-case
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: PPB Group Bhd could face a minimal impact to its financial results should Wilmar International Ltd’s sugar subsidiary operating in Indonesia lose its raw sugar importation case. PPB Group owns an 18.8% stake in Singapore-listed Wilmar. Indonesia’s Attorney General has charged Wilmar subsidiary PT Duta Sugar International (DSI) and eight other producers of unlawful acts in connection with raw sugar importation in 2016, which prosecutors claim caused the state losses amounting to US$36mil.
+
+[NEWS_P002] Each producer was required to place a security deposit with DSI’s portion amounting to US$2.5mil. Additionally, Wilmar has stated that even if the deposit is forfeited, the financial impact would not be material to the group. Based on the potential loss, MBSB Research has maintained its financial year 2025 earnings forecast on PPB Group for now. According to the research house, if DSI’s US$2.5mil deposit is forfeited, PPB Group’s indirect exposure to the potential loss would be minimal, equivalent to around RM1.8mil, bringing earnings down by 0.23% to RM776.6mil,.
+
+[NEWS_P003] Furthermore, MBSB Research retained its dividend per share forecast of 25 sen for PPB Group, implying a dividend yield of 2.3%. “We are neutral on PPB Group pending the outcome of the court case, believing that most short-term risks are largely priced in. “The long term outlook remains supported by a rebound in Wilmar’s earnings contribution, driven by improvements across most business segments except plantation and sugar milling,” the research house added.

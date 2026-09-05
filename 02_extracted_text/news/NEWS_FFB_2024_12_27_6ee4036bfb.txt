@@ -1,0 +1,16 @@
+[TITLE]
+Kim Loong Resources expects lower FFB production for FY25
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2024-12-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/27/kim-loong-resources-expects-lower-ffb-production-for-fy25
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Kim Loong Resources Bhd expects its fresh fruit bunches (FFB) production for the current financial year, ending Jan 31 2025 (FY25), to be about 3-5% lower than the quantity achieved in FY24. The plantation group said this projection takes into account the lower-than-expected production from the group’s estates in Sabah, particularly in the Keningau region, for the remaining period of the current financial year. As for palm oil milling operations, the management expects to achieve a total processing throughput near 1.6 million tonne of FFB for the current financial year.
+
+[NEWS_P002] “In terms of crude palm oil (CPO) price prospects, although the movement of CPO price can be volatile and unpredictable, the Management expects the average CPO price for the fourth quarter of the financial year 2025 to stay above RM5,000 per tonne,” Kim Loong said in the notes accompanying its financial results. In the third quarter ended Oct 31, Kim Loong’s net profit rose 4.15% to RM49.9mil, or earnings per share of 5.12 sen compared with RM47.9mil, or 4.95 sen achieved in the year-ago quarter.
+
+[NEWS_P003] Revenue, however, dipped 0.5% to RM446.4mil against RM448.7mil posted last year. For the nine months to Oct 31, it posted a net profit of RM138.9mil, up 13.1% from RM122.8mil while revenue expanded 6.9% to RM1.24bil against RM1.16bil last year.

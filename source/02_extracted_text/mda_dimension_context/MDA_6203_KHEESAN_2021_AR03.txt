@@ -1,0 +1,86 @@
+document_id: MDA_6203_KHEESAN_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 10, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Candy
+The Candies segment is subdivided into various categories as follows:
+Categories
+Brands
+Chewy
+Fruitplus, Mintplus, Choco Plus and Milk Plus, Victory, Snackie and Sochews
+Deposited
+Victory Brand and S’creams
+Hard
+Torrone, Snackie, Kiss Me, BonBon, Fizzy, Salt Plus, Salt & Lemon, Comilk, Nini Drop, Golly Pop and Crystal Pop
+Tablet
+Bento
+Chewing Gum
+Victory
+Bubble Gum
+88 Super Bubble Gum
+The Candy segment comprises the majority of the Group’s revenue and was the main contributor of the Group. The bestselling
+product was the Fruitplus range of chewy candies whilst Torrone Barley Mint hard candies were an iconic product which was easily
+recognisable as it has been present in the market for over three decades. The overall market condition remained strong for the
+segment with strong demand for the chewy and soft candy products.
+[MDA_P003]
+Wafer
+The Wafer segment is subdivided into various categories as follows:
+Categories
+Brands
+Wafer Bars
+Torrone, Lovin and Tip-Top
+Wafer Cubes
+Snackie
+The Wafer segment’s Lovin wafer in red waxed paper packaging is one of the oldest and iconic wafer brands in Malaysia having been
+in constant production for the past 40 years remained well known and recognised by consumers. The Group originally operated a single wafer production line and due to strong demand for wafers, it had installed and commission
+the second wafer production line in 2009. However, during the current financial year, due to the financial issues faced by the Group,
+the wafer segment has been temporarily discontinued while the Group restructures its finances. Production Operations
+The Group’s production operations are based at its plant located in Seri Kembangan, Selangor which produces the candy products. The Group is currently experiencing capacity constraint due to rising production level to meet demand, financial constraints and the
+restrictions imposed by the government to combat the global pandemic.
+[MDA_P004]
+As such, the Group has made significant strides over the years through progressive investments to meet this demand trend. The
+Group currently operates five (5) units of state-of-the-art packaging machines from the initial two (2) packaging machines for the
+purposes of twist wrapping deposited candy products. These machines are capable of packaging speed 5 times over that of older
+existing packaging machines. To date, the Group is one of the selected few companies in Asia to operate this machine. In addition, it
+has carried out additional upgrades by installing automated candy jar packaging lines to reduce manpower requirements. MANAGEMENT DISCUSSION
+& ANALYSIS (cont’d)
+Annual Report 
+Khee San Berhad
+2021 
+Registration No.: 199401018697 (304376-A)
+[MDA_P005]
+Similarly, for the Fruitplus chewy candy, the Group has progressively increased its packaging machines capacity to cater for the
+sustained demand growth over the last decade. Additional upgrades have also been made to the production lines to further automate
+the chewy candy process which helped increase its production output, reduce wastage as well as to reduce the Group’s reliance on
+manpower. These efforts put forth by the Group will address the constraints faced by the production department. Sales and Marketing
+Whilst the Group has established a strong footing in the domestic market, it has made significant headwinds to grow its export
+markets. The Group currently exports to over 30 countries with major destinations being Hong Kong, Vietnam, Japan, South Africa
+and other Asia Pacific countries. For the domestic market, the focus will be on widening its coverage to all the various retail sales
+point across both the wholesale and modern distribution channels. These sales points can range from mom and pop outlets, 24-hour
+convenient stores, to the various big hypermarket chains.
+[MDA_P006]
+Distribution Channels
+The Group sells its products via two distribution channels, through wholesale and modern distribution channels. In an effort to achieve higher sales volume, the Group distributes its products via both the wholesale and modern distribution
+channels in Malaysia. However, for export sales, the distribution channels vary from country to country. For example, in Singapore
+and Hong Kong, only the modern distribution channel will be employed whilst the wholesale channel will be more prevalent in
+Indonesia and Vietnam. 5. BUSINESS RISK OVERVIEW
+The Group faces several risk factors that may affect the Group’s profitability. Those risks include the following:
+Labour shortages and wage fluctuations
+The Group’s production activities are labour intensive in nature, thus it is prone to labour shortages. By that same breadth, it is also
+subject to wage fluctuations as witnessed by the government’s amendments of Levy Payment Structure on foreign workers and the
+increase in minimum wage level in peninsular Malaysia. In an effort to reduce the over-reliance to the labour issues, the Group will
+continue to invest in automating the plants.
+[MDA_P007]
+Fluctuation of raw materials price
+The fluctuation of raw materials’ prices has been an inherent issue for the Group, as well as its competitors in the similar industry. As an example, sugar price fluctuations may severely impact the Group as it is a major component of the Group’s products. Realising
+this issue, the Group has taken necessary steps to reduce the risk of constant price fluctuations by engaging with its various raw
+material suppliers to strive for favourable longer-term supply arrangements. At the same time, the Group are constantly exploring
+with new suppliers to ensure that it is not overly dependent and reliant on its current key suppliers. The Group shall ensure that
+these initiatives are carried out without compromising its products quality. MANAGEMENT DISCUSSION
+& ANALYSIS (cont’d)
+Khee San Berhad 
+Annual Report
+Registration No.: 199401018697 (304376-A)

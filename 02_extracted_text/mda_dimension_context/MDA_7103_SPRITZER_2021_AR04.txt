@@ -1,0 +1,8 @@
+document_id: MDA_7103_SPRITZER_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P006]
+Tinge, Cactus, Cactus Sparkling, Desa and Summer which are also the leading brands in their respective market segments in the Malaysian bottled water industry. Our Group has three bottled water plants and one plastic packaging manufacturing plant in Malaysia. Our main mineral water plant is located on a 330-acre site in Taiping, Perak with the second mineral water plant in Yong Peng, Johor and the third drinking water plant in Shah Alam, Selangor. Our plastic packaging manufacturing plant is located in Ipoh, Perak. In 2020, the Group had completed its integrated warehouse with automated storage and retrieval system (“ASRS”) which has a capacity of 15,000 pallets. The commissioning of the ASRS warehouse at our main mineral water plant in Taiping has greatly improved the efficiency and effectiveness of our supply chain

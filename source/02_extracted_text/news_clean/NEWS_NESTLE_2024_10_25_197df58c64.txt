@@ -1,0 +1,16 @@
+[TITLE]
+Nestle records turnover of RM4.75bil in 9M24
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2024-10-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/25/nestle-records-turnover-of-rm475bil-in-9m24
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: Nestle (M) Bhd has reported a turnover of RM4.75bil for the nine months ended Sept 30, 2024 (9M24), representing a decline of 11.4% compared with the same corresponding period last year. In a statement, the group said exports continued to show strong dynamism while local sales were impacted by consumer hesitancy amid cautious spending and affordability concerns. “Beyond the current headwinds, Nestle Malaysia reiterates its confidence in returning to healthy growth latest by end of the first half of 2025 (1H25), on the base of the company’s solid fundamentals and signs of progressive improvement in overall consumer confidence,” it said.
+
+[NEWS_P002] The group’s chief executive Juan Aranols said its focus on delivering high-quality, nutritious and great-tasting halal products that offer value to consumers had allowed it to protect its market leadership and to remain resilient in a challenging external context. “We remain attuned to evolving consumer trends and ensure that all our core brands and products continue to meet the expectations of Malaysian consumers and to win in the marketplace,” he said.
+
+[NEWS_P003] Aranols said internally, the group is advancing an intense programme of efficiencies enabled by rapid digitalisation that is unlocking resources at different levels, helping to support brand investments while protecting its margins. For 9M24, Nestle Malaysia registered a profit after tax of RM374.5mil, and the group said while this is a contraction from the previous year, its results demonstrated its ability to maintain a healthy profitability level in a challenging environment, enabling the the company to declare a second interim dividend of RM0.35 per share for the financial year ending Dec 31, 2024.

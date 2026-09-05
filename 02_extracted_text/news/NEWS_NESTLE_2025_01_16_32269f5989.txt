@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia slides for fourth session; construction stocks among top losers
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/16/bursa-malaysia-slides-for-fourth-session-construction-stocks-among-top-losers
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia dropped for the fourth consecutive session on Thursday, with the benchmark FBM KLCI falling 0.42%, contrasting with gains in other regional indices. The market barometer closed down 6.58 points at 1,555.54, marking its intraday low and the lowest level since early August 2024. Earlier in the session, the index reached an intraday high of 1,576.57. Market breadth remained negative, with losers outpacing gainers at a ratio of 525 to 480.
+
+[NEWS_P002] Traded volumes stood at 3.61 billion shares, valued at RM3.16bil. ACE Market debutant CBH Engineering rose 5.5 sen, or 19.64%, to 33.5 sen. It was the most active counter on Bursa Malaysia, with 393.05 million shares traded. Construction stocks were among the losers on Bursa Malaysia. Sunway Construction slid 32 sen to RM3.58, Gamuda fell 19 sen to RM4.26, IJM Corp lost 16 sen to RM2.55, and MN Holdings declined five sen to 99 sen. Other decliners include United Plantations, which dropped 50 sen to RM30.50, Nestle, which fell 50 sen to RM92.48, and Tenaga Nasional, which shed 38 sen to RM13.12.
+
+[NEWS_P003] Among the gainers, PETRONAS Dagangan rose 38 sen to RM19.20, Malaysian Pacific Industries added 18 sen to RM22.74, ViTrox gained 16 sen to RM3.88 and CIMB climbed 14 sen to RM7.99. On the forex market, the ringgit weakened by 0.12% against the greenback to 4.5042 and by 0.09% against the Singapore dollar to 3.2954. Meanwhile, key gauges across the region finished higher today. Japan’s Nikkei 225 rose 0.33%, while South Korea’s Kospi and Hong Kong’s Hang Seng each advanced 1.23%.
+
+[NEWS_P004] China’s CSI 300 Index rose 0.11% while the Shanghai Composite Index added 0.28%.

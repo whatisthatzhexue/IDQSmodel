@@ -1,0 +1,44 @@
+document_id: MDA_2658_AJI_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P032]
+store in low temperature.
+MS1500:2009
+1092-02/2004
+PROD DATE
+EXP DATE
+LOT NO.
+:
+:
+:
+Manufactured by:
+AJINOMOTO (MALAYSIA) BERHAD (4295-W)
+Lot 5710, Jalan Kuchai Lama, Petaling, 58200 Kuala Lumpur, Malaysia.
+Tel: +603-7980 6958 Fax: +603-7980 6817 URL: http://www.ajinomoto.com.my
+Storage Method : Avoid high temperatures, high humidity and direct sunlight.
+CERTIFIED TO MS1500:2019
+REF. NO.: 1092-02/2004
+Malaysian Standard on Halal Food
+General Requirements
+CERTIFIED TO ISO 9001:2015
+CERT. NO.: QMS 00504
+Quality Management Systems
+(“QMS”)
+CERTIFIED TO ISO 14001:2015
+CERT. NO.: EMS 00368
+Environmental Management Systems
+(“EMS”)
+CERTIFIED TO ISO 45001:2018
+CERT. NO.: OHS 00302
+Occupational Health And Safety
+Management Systems
+(“OHS”)
+CERTIFIED TO MS 1480:2019
+CERT. NO.: 53-A4-01757
+Food Safety according to Hazard
+Analysis and Critical Control Points
+System
+(“HACCP”)

@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia extends losses as Trump’s tariffs spark trade war fears, KLCI falls 0.89%
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/04/bursa-malaysia-extends-losses-as-trumps-tariffs-spark-trade-war-fears-klci-falls-089
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia extended its losses by midday, deepening amid broad-based selling as US President Donald Trump's global tariff measures raised fears of a trade war that could trigger a recession and inflation. At 12.30 pm, the FBM KLCI dropped 13.50 points, or 0.89%, to 1,505.41, reaching an intra-morning low of 1,502.64. Sellers dominated as 734 stocks tumbled while only 129 managed to rise, dragging market breadth down to a bleak 0.18.
+
+[NEWS_P002] With decliners outpacing gainers nearly six to one, bearish sentiment firmly controlled the market. United Plantations, the top loser on Bursa Malaysia, tumbled 44 sen to RM21.48. F&N declined 38 sen to RM23.52, Malaysian Pacific Industries lost 38 sen to RM17.14 and Pentamaster fell 29 sen to RM2.49. Top gainers on Bursa Malaysia included Nestle, which rose RM2.40 to RM72.50, Panasonic Manufacturing , which gained 10 sen to RM13.76, Kluang Rubber, up nine sen at RM5.74, and Gas Malaysia, which added seven sen to RM4.20.
+
+[NEWS_P003] Hong Leong Investment Bank (HLIB) Research said the FBM KLCI was expected to remain volatile as investors digested Trump’s sweeping tariffs in the following sessions. “For a reversal, the FBM KLCI needs to close decisively above key overhead barriers near the 1,535-1,545 range, before heading towards 1,556 (50D MA) and 1,564 (38.2% FR). “On the other hand, a breakdown below critical 1,500 psychological support could trigger a deeper decline towards 1,490 (61.8% FR) and 1,478 (YTD low from March 12),” the research house said.
+
+[NEWS_P004] In HLIB Research's view, Trump's "Liberation Day" announcement was a step toward greater clarity on tariff policy, after months of disruptive uncertainty, which set the stage for potential bilateral negotiations. “While the uncertainty is not over, the tariffs details have at least put the worst-case scenario on the table, as reflected by a more measured and less kneejerk selloff in the local bourse yesterday,” it said. HLIB Research noted that the KLCI had dropped 7.5% year-to-date, nearing -1.5SD below its five-year average, with net foreign outflows of RM10.06bil and foreign shareholding at a historic low of 19.3% in March.
+
+[NEWS_P005] This suggests much of the downside may be priced in, with support at 1,478-1,490-1,500 and resistance at 1,535-1,545-1,556, assuming no major economic or supply chain issues. Overnight, the S&P 500 lost 4.84% at 5,396.52 points, while the Nasdaq Composite dropped 5.97%, to 16,550.61. The Dow Jones Industrial Average fell 3.98%, to 40,545.93. Around the region, Japan’s Nikkei 225 index tumbled 3.43%. Australia’s S&P/ASX 200 was down 2.24% while South Korea’s Kospi index lost 1.5%.

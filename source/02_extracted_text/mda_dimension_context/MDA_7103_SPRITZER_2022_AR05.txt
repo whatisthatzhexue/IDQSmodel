@@ -1,0 +1,64 @@
+document_id: MDA_7103_SPRITZER_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 120.599, "paragraph_count": 15, "paragraph_length_distribution": {"max": 1231, "mean": 894.4, "min": 77}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+For Financial Year Ended December 31, 2022
+[MDA_P004]
+During the year, the Company has adopted a Dividend
+Policy which targets a dividend pay-out ratio of at least
+35% of its audited consolidated profit after taxation
+attributable to shareholders for each financial year, after
+excluding non-operating income that is capital in nature. In line with this Dividend Policy and after considering the
+cash flow requirement of the Group, the directors have
+proposed a first and final dividend of 6.25 sen (2021: 4.50
+sen) per ordinary share in respect of the financial year
+ended December 31, 2022. The current dividend pay-out
+ratio is at 36% (2021: 39%). Management Discussion and Analysis
+For Financial Year Ended December 31, 2022
+[MDA_P008]
+As of December 31, 2022, the Company’s market
+capitalisation has increased by 5% to RM463.7 million from RM440.9 million as of December 31, 2021 due to a higher
+market price per share of RM2.22 (2021: RM2.10). Management Discussion and Analysis
+For Financial Year Ended December 31, 2022
+[MDA_P012]
+The Gold Trusted
+Brand Awards are given to brands that
+scored significantly higher than their rivals
+while the Platinum Trusted Brand Awards
+are given to brands that performed
+exceptionally, winning their category with
+a score that vastly outpolled their nearest
+competitor. We have always treasured
+the Readers’ Digest Trusted Brand Award
+as the winning brands are voted by the
+consumers themselves and using a simple
+technique – asking consumers which
+brands they trust the most. Putra Brand Awards 2022, Beverage –
+Non-alcoholic, Bronze winner. This is the
+8th time that Spritzer has won the Putra
+award. The Putra Brand Awards, an
+initiative supported Branding Association
+of Malaysia, the Malaysian Advertisers
+Association and Media and supported by
+Malaysian External Trade Development
+Corporation (“MATRADE”), is a brand
+valuation award measured by consumer
+preferences. The winners were chosen
+via an online survey by consumers
+nationwide, making it the largest brand
+research sampling of its kind and the most
+prestigious consumer award in the country. For Financial Year Ended December 31, 2022
+[MDA_P015]
+APPRECIATION
+We thank our employees for their continued hard work
+and dedication and for having to face with the various
+challenges caused by the pandemic during the financial
+year under review. We also thank our consumers, partners, distributors and
+customers for their trust and support to our Group and
+our brands. For Financial Year Ended December 31, 2022

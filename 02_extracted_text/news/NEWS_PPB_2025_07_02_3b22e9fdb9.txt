@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Gamuda, Avangaad, Avaland, Powerwell, Perdana Petroleum, Key Asic, Samaiden, Kerjaya Prospek, LFG, CCIB
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-07-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/02/trading-ideas-gamuda-avangaad-avaland-powerwell-perdana-petroleum-key-asic-samaiden-kerjaya-prospek-lfg-ccib
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Stocks that may see trading interest today include Gamuda Bhd , Avangaad Bhd, Avaland Bhd , Powerwell Holdings Bhd , Perdana Petroleum Bhd (PPB), Key Asic Bhd , Samaiden Group Bhd , Kerjaya Prospek Group Bhd , Lianson Fleet Group Bhd (LFG) and CC International Bhd (CCIB). Gamuda has signed a landmark deal with Tasmanian landowners to co-develop up to 600 MW of wind and solar energy plus 600 MW of battery storage, marking its first major renewable energy venture in Australia.
+
+[NEWS_P002] Avangaad, formerly known as EA Technique Bhd, has secured a total of RM66.8mil in new contracts from Northport (Malaysia) Bhd, contributing to revenue growth in its port and tugboat operations. Avaland is acquiring a parcel of leasehold development land measuring 2.2-acres in Section 13, Petaling Jaya from Comit Communication Technologies (M) Sdn Bhd for RM49mil. Powerwell's wholly-owned subsidiary, Kejuruteraan Powerwell Sdn Bhd (KPSB), has accepted four purchase orders worth RM16.6mil for the supply of switchboards and components to a hyperscale data centre project in Elmina Business Park, Selangor.
+
+[NEWS_P003] PPB has accepted a work order award (WOA) from a Petroleum Arrangement Contractor (PAC) for the provision of one anchor handling tug and supply vessel. Key Asic has secured a RM13.1mil artificial intelligence (AI) chip design contract from a leading technology company. Samaiden is proposing to acquire two parcels of agricultural land in Teluk Intan, Perak, measuring approximately 185.57 hectares from Kelapa Sawit (Teluk Anson) Sdn Bhd for RM45.5mil.
+
+[NEWS_P004] Kerjaya Prospek, through its wholly-owned subsidiary, Senandung Raya Sdn Bhd, has acquired three pieces of freehold land measuring a total of 2.9941 hectares at Jalan Puchong, Kuala Lumpur for a total purchase consideration of RM112.8mil. LFG indirect wholly-owned subsidiary, Omni Victory (L) Inc., has entered into a memorandum of agreement (MOA) for the proposed disposal of Omni Victory for RM32.02mil to Huashun Shipping (Liberia) Inc. CCIB, via its indirect wholly-owned subsidiary, Indah Secretarial (Penang) Sdn Bhd, has entered into a share purchase agreement to acquire the entire issued shares of Alpadis Trust (Labuan) Ltd for US$750,000.

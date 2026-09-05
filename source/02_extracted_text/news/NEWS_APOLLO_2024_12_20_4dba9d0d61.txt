@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia edges higher in early trading amid bargain hunting
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-12-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/20/bursa-malaysia-edges-higher-in-early-trading-amid-bargain-hunting
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia edged higher in early trading on Friday, supported by bargain hunting as investors picked up bargains following the recent losses. The FBM KLCI rose 3.29 points, or 0.21% to 1,603.38 at 9.15 am. The index opened 0.32 of a point higher at 1,600.41. Winners and losers were closely balanced, with 230 gainers against 234 losers and 321 flat, with 516.9 million shares worth RM253.11mil changing hands. Among the gainers on Bursa Malaysia, Hong Leong Industries rose 20 sen to RM14.60, YTL Corp added 19 sen to RM2.74, HeiTech Padu gained 16 sen to RM3.10 and Malayan Cement climbed 15 sen to RM4.99.
+
+[NEWS_P002] United Plantations slid 18 sen to RM32.96, IQ Group fell six sen to 58 sen, Hartalega lost six sent to RM3.88 and Apollo Food declined six sen to RM6.50. Overnight, the Dow Jones Industrial Average rose 0.04% to 42,342.24, the S&P 500 lost 0.09% to 5,867.08 and the Nasdaq Composite lost 0.10% to 19,372.77. Inter-Pacific Research indicates that market conditions are expected to remain insipid as the final weeks of 2024 approach, with few positive market vibes to boost investor sentiment.
+
+[NEWS_P003] “As such, we also see the drifting trend persisting as buying support from local institutions will help the key index to remain close to the psychological 1,600 level. “Meanwhile, the indication of slower or reduced interest rate cuts in 2025 could leave sentiments wary as economic conditions are still largely mixed and are still subjected to significant headwinds,” it said. The ongoing foreign selling is contributing to a prolonged defensive sentiment on Bursa Malaysia.
+
+[NEWS_P004] With the drifting trend persisting, the key index is expected to remain within a narrow range, fluctuating between the 1,590 and 1,605 levels for the time being. “The immediate support is at 1,595, while the other resistance is at 1,610 points,” Inter-Pacific said.

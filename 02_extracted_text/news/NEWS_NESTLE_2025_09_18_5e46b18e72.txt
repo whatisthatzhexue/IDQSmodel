@@ -1,0 +1,20 @@
+[TITLE]
+Heavyweight losses push FBM KLCI under 1,600 at midday
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/18/heavyweight-losses-push-fbm-klci-under-1600-at-midday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI slipped below the 1,600 mark at midday, weighed down by broad-based weakness in heavyweights. At the midday break, the benchmark index fell 12.99 points, or 0.81%, to 1,598.71, after touching an intra-morning low of 1,597.72. There were 377 gainers, 476 losers and 479 counters traded unchanged on the Bursa Malaysia. Turnover stood at 1.4 billion shares valued at RM1.1bil. Nestle tumbled RM2.76 to RM95.14, PETRONAS Dagangan eased 70 sen to RM22.28, Dutch Lady lost 22 sen to RM27.14 and Heineken fell 16 sen to RM20.82.
+
+[NEWS_P002] Among the gainers, Allianz-PA rose 50 sen to RM18.16, Allianz gained 40 sen to RM18.90, Hong Leong Industries added 28 sen to RM13.88 and Formosa Prosonic climbed 24 sen to RM1.69. Meanwhile, Mclean Technologies has received an unusual market activity (UMA) query from Bursa Malaysia after a sharp rise in the price and volume of its shares. It rose 2.5 sen, or 5.38% to 49 sen with 25.52 million shares traded. Hong Leong Investment Bank Research (HLIB Research) maintained a constructive outlook on the KLCI, supported by renewed foreign buying interest.
+
+[NEWS_P003] It anticipates the index could retest the 1,615–1,640 technical hurdles in September after a brief consolidation. “We view any pullback as a tactical accumulation opportunity, as investors position for the remainder of 2025,” it said. HLIB Research said its optimism on the KLCI is supported by expectations of a Fed easing cycle starting in late 2025, which could boost global liquidity and investor appetite. It also noted that domestic reforms such as SST hikes and subsidy rationalisation are largely priced in, while growth remains resilient and backed by strong consumption and rising investments.
+
+[NEWS_P004] It added that Malaysia’s hosting of the Asean Summit in October is expected to strengthen diplomatic and economic ties, further lifting sentiment. HLIB Research said the FBM KLCI has held firm despite RM16.1bil in foreign outflows, supported by local investors, a stronger ringgit, attractive valuations, and record-low foreign shareholding. Meanwhile, Malacca Securities expects the FBM KLCI to trade higher today, following the Fed’s rate cut, as improved global liquidity is seen benefiting Asian and emerging markets, including Malaysia.
+
+[NEWS_P005] “However, with the 19% tariff on Aug 1, coupled with a weakening US dollar, we believe the export-oriented sectors will be negatively impacted in the upcoming results,” it said. “On the flip side, domestically-driven sectors such as construction, utilities, REITs, banks, and consumer products & services should be in focus.”

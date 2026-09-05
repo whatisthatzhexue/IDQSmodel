@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia slumps as over 1,000 counters drop
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/02/bursa-malaysia-slumps-as-over-1000-counters-drop
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia plunged further into the red as over 1,000 counters sank amid weak buying interest, with most investors staying on the sidelines. The FBM KLCI ended 12.12 points, or 0.75% lower at 1,612.13, with 21 of the component stocks ending lower. The index hit an intra-morning low of 1,609.65. Dealers noted that risk sentiment remained subdued due to geopolitical tensions in the Middle East. Losers led gainers 1,162 to 127, while 271 counters were unchanged.
+
+[NEWS_P002] Traded volume stood at 2.62 billion worth RM1.7bil. Malaysian Pacific Industries , the top loser on Bursa Malaysia, tumbled 82 sen to RM36.28. F&N declined 44 sen to RM29.98, United Plantations lost 42 sen to RM26.02 and Heineken gave up 38 sen to RM22.54. Among the gainers, Nestle rose 40 sen to RM109.40, PETRONAS Dagangan added 12 sen to RM17.36, United Malacca gained eight sen to RM5.20 and PETRONAS Gas climbed eight sen to RM17.96. TA Securities said the local market should trade sideways to lower ahead of the weekend, as investors await further leads from global economies on growth momentum, inflation and monetary policy.
+
+[NEWS_P003] “Index supports are at 1,616, 1,608 and 1,586, the respective 30-day, 50-day and 100-day moving average levels, while immediate resistance remains at the recent high of 1,638, with 1,640 and 1,660 as tougher upside hurdles,” it added. Meanwhile, Hong Leong Investment Bank Research said the FBM KLCI may continue its consolidation in the short term as investors grapple with earnings uncertainty for the upcoming August results season, heightened geopolitical tensions in the Middle East following the assassination of a top Hamas leader, and concerns over a slowing US economy.
+
+[NEWS_P004] It said this trend aligns with August’s historically weaker performance, with the KLCI averaging declines of -1.1% over 10 years and -1.4% over 20 years. “However, downside is likely to be cushioned by a dovish Fed, strengthening ringgit, and continued net inflows from foreign investors. Unless staging a decisive breakdown below the 1,600-1,606 support levels, KLCI (YTD: +170 pts/11.7%) may continue its upward trajectory towards 1,638-1,650-1,660 after a healthy consolidation,” it added.

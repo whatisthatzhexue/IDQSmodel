@@ -1,0 +1,135 @@
+document_id: MDA_5306_FFB_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 54, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 342.273, "paragraph_count": 54, "paragraph_length_distribution": {"max": 2716, "mean": 922.13, "min": 23}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion
+and Analysis
+A. Strategic Review
+62 Market Landscape – Key Market Trends
+66 Key Risks and Mitigation
+69 Material Matters
+74 Our Strategic Priorities
+B. Financial Review
+76 Group Financial Review
+78 5-Year Group Financial Summary
+79 5-Year Financial Highlights
+80 Our Financial Snapshot
+81 Statement of Financial Position
+82 Investor Relations
+87 Financial Calendar
+C. Operational Review
+90 Farming
+92 Manufacturing
+96 Distribution
+HIGHLIGHTS:
+Strategic
+Review
+Financial
+Review
+pg62
+pg76
+[MDA_P014]
+Improper handling of our products throughout various stages, from milking
+to bottling and transportation, as well as any deficiencies in our production
+processes, can result in a significant decline in product quality and even
+impact consumer health. •
+We provide all staff with comprehensive product familiarisation training to promote correct handling of
+products
+•
+All staff, suppliers and third-party distributors undergo a food handling course twice a year
+•
+Production machinery is regularly checked for defects and quality levels
+•
+We align our processes with GMP and HACCP food safety and quality principles, which empower greater
+control of biological, chemical and physical hazards
+•
+Our processes strictly adhere to the parameters of our internally-developed Farm Fresh Food Safety
+Management System
+Mitigation Actions
+Material Matters:
+Capitals:
+Link to
+PRODUCTION & SUPPLY CHAIN DISRUPTION
+Given the public nature of our business and the substantial investments
+involved, any instances of non-compliance with regulations, be it related
+to product standards, labour practices, or environmental impact, can result
+in substantial financial losses and damage to our reputation.
+[MDA_P028]
+How We Address It
+•
+Adopting sustainable farming practices that recycle animal waste for
+use as a bio-fertiliser, as cow bedding and to irrigate feed pastures
+•
+Implementing rainwater harvesting and tube well pumping technologies
+to reduce municipal water utilisation
+•
+Using sustainably sourced, recyclable packaging for selected products
+•
+Conducted our first carbon footprint exercise for the calendar year
+2020 to gain a full picture of our climate impact, followed up by a
+second independent carbon footprint inventory for the calendar year
+2022 to monitor and assess our progress
+•
+Installing 1.7MWp solar energy facilities at our Muadzam Shah and
+Larkin processing plants to generate renewable energy and reduce
+our reliance on non-renewable sources
+•
+Commencing the construction of our third solar energy project with
+a capacity of 525.03 kWp at our Taiping processing facility
+•
+Commencing the development of a biogas plant at our Muadzam
+Shah farm, which will contribute to an estimated reduction of 9,800
+tonnes of carbon dioxide and 670,000 litres of diesel per annum
+•
+Increasing our use of fully recyclable Tetra Pak packaging, which now
+accounts for 35.5% of our product sales
+Future Plans:
+•
+Install an additional biogas plant at our Taiping farm
+•
+Reduce our carbon footprint in line with internally-set Scope 1
+and Scope 2 targets
+•
+Continue to increase our proportion of products sold in
+sustainably sourced, recyclable packaging
+•
+Explore further renewable energy projects at our farms and
+processing facilities
+•
+Set specific sustainability-linked criteria for supplier evaluation
+and selection
+Link to:
+Capitals:
+Stakeholders:
+Farm Fresh Berhad | Integrated Annual Report 2023
+M a n a g e m e n t D i s c u s s i o n & A n a l y s i s
+Strategic Review
+[MDA_P041]
+Furthermore, our upcoming Taiping processing facility,
+scheduled to commence operations in the second half
+of the year, along with the additional filling and packaging
+line for 1-litre packaging arriving in August 2023 and
+expected to commence operations by end-September
+2023, will significantly enhance our production capacity. These developments will position us to fully capitalise on
+sales opportunities and meet the growing demand for
+our products. In line with our expansion and regional growth strategies,
+we are excited about the potential revenue streams that
+lie ahead. In the Philippines, our factory at San Simon is
+expected to be completed and commence operations in
+September 2023. This will be an important market for us
+to develop and grow in the next few years. Additionally,
+we have plans to introduce growing up milk powder and
+embark on the sales of Consumer Packaged Goods (CPG)
+ice cream by end-2023, further diversifying our product
+portfolio and capturing new opportunities for growth.
+[MDA_P054]
+Farm Fresh Berhad | Integrated Annual Report 2023
+M a n a g e m e n t D i s c u s s i o n & A n a l y s i s
+Financial Review
+Investor Relations

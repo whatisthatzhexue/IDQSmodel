@@ -1,0 +1,10 @@
+{
+  "dimension_record_count": 0,
+  "doc_type": "mda",
+  "evidence_match_rate": 0.0,
+  "json_success_rate": 0.0,
+  "output_name": "mda_repeatability_final/run_a",
+  "schema_success_rate": 0.0,
+  "system_failure_rate": 0.0,
+  "validation_csv_path": "E:\\MyData\\大工\\2026\\CIS\\Research_v2\\ver2\\code\\08_reports\\mda_repeatability_final\\run_a_json_validation.csv"
+}

@@ -1,0 +1,18 @@
+[TITLE]
+MSM Malaysia registers 1Q net profit of RM41.71mil on improved margins
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-05-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/23/msm-malaysia-registers-1q-net-profit-of-rm4171mil-on-improved-margins
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: MSM Malaysia Holdings Bhd remained profitable for a second consecutive quarter on the back of improved margins, which offset an increase in production cost. In the quarter ended March 31, 2024, the producer of Gula Prai refined sugar posted a net profit of RM41.71mil, which compared to a net loss of 35.88mil in the year-ago quarter. Earnings per share translated to 5.93 sen against a loss per share of 5.1 sen. Revenue was higher at RM906.61mil compared to RM588.39mil in the comparative quarter on higher overall sales volume, increased average selling prices and incentives received for certain packaged sugar sold in the domestic market.
+
+[NEWS_P002] In a statement, MSM said its production cost rose 15% due to higher NY11 (raw sugar cost), freight cost and foreign exchange. Meanwhile, the group achieved a higher utilisation factor of 52% during the quarter as compared to 42% in 1QFY23. There was also an improvement in efficiency yield, which reached 96.3% in 1QFY24, from 94.2% in 1QFY23. CEO Syed Feizal Syed Mohammad cautioned that the industry continues to experienced prolonged high input costs, with freight rates remaining volatile, further exacerbated by the Red Sea crisis since 1Q24.
+
+[NEWS_P003] He added that natural gas costs remain elevated with raw sugar imports impacted by the weak ringgit, while raw sugar prices are slightly lower due to improved production forecasts from Brazil. Concomitantly, raw sugar cost remains much higher than once-manageable levels of under 15 US cents per pound. “Amid these challenges, the group remains focused on expanding its domestic market share by widening market channels, increasing industry outreach, and enhancing consumer reach points, leveraging steady demand.
+
+[NEWS_P004] "We are also actively expanding our export market from the present 17 countries to 25 countries beyond Asia Pacific and South Asia into Africa, Europe and North America." Meanwhile, Syed Feizal said the growth in the export segment aligns with the strategic initiative to optimise the headroom capacity of MSM Johor refinery and enhance overall group production volume. He said export revenues were over RM630mil in 2023 with steady year-on-year growth.

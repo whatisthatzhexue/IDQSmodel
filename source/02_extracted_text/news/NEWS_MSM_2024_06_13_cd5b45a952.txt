@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia opens higher, boosted by strong Wall Street
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-06-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/13/bursa-malaysia-opens-higher-boosted-by-strong-wall-street
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia rose in early trade Thursday, buoyed by strong momentum in the US markets, which closed at record highs last night. The S&P 500 and Nasdaq hit record highs for the third straight day on Wednesday but fell from their peaks after the Federal Reserve predicted just one interest rate cut this year. The Dow Jones Industrial Average fell 0.09% to 38,712.21. The S&P 500 rose 0.85% to 5,421.03 and the Nasdaq Composite advanced 1.53% to 17,608.44.
+
+[NEWS_P002] The FBM KLCI gained 5.03 points, or 0.31% to 1,613.98 at 9.19 am. The index opened 3.63 points higher at 1,612.58. Among the gainers on Bursa Malaysia, PETRONAS Dagangan rose 16 sen to RM17.86, Khind gained 15 sen to RM2.83, Aurelius Technologies added 15 sen to RM3.83 and PETRONAS Gas climbed 12 sen to RM18.08. Dutch Lady slid 36 sen to RM37.60, Kuala Lumpur Kepong fell 22 sen to RM20.74, Malaysian Pacific Industries declined 12 sen to RM39.78 and MSM lost 10 sen to RM2.20.
+
+[NEWS_P003] Inter-Pacific Research sees near-term market conditions staying unsettled as the expectations for U.S. interest rate cuts have been tempered amid a still high inflation reading, prompting the Fed to suggest that it may only trim interest rates once and later in the year. “Furthermore, domestic leads are also largely absent and this could still leave stocks to dither for longer. Under the prevailing environment, market players may still stay on the sidelines for now, continuing to assess the prospects of the index-linked constituents after their strong YTD rally.
+
+[NEWS_P004] “This also means that the rangebound trend is likely to prevail with the key index to linger within the 1,600 and 1,620 levels for the time being. There is interim support at the 1,605 level while the resistances are at the 1,610 and 1,615 levels,” the research house said. Apex Securities said the FBM KLCI took another step back ahead of the US Federal Reserve interest rate decision. “We noticed signs of cracking within the lower liners as investors booked in some profits from recent gains,” it said.
+
+[NEWS_P005] For now, Apex expects some mild bargain hunting to emerge within the local bourse as the US Federal Reserve remains on track for a rate cut in 2024 alongside the softer inflation data. “Economic-wise, investors will be keeping a close watch on the impending release of US producer price index data later tonight. Meanwhile, we expect the technology sector to ride onto the gains on the Nasdaq overnight. Also, the higher crude oil prices may alleviate the energy sector,”

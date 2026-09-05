@@ -1,0 +1,37 @@
+scorebook_version: "2026-06-15"
+doc_type: "news"
+scoring_basis: "news_quality"
+scale:
+  min: 1
+  max: 5
+  anchors:
+    "1": "severely insufficient"
+    "2": "weak"
+    "3": "adequate"
+    "4": "good"
+    "5": "excellent"
+standardization:
+  std_score_100: "100 * (raw_score - 1) / 4"
+  weighted_score: "std_score_100 * weight_value"
+  total_score_100: "sum(weighted_score)"
+dimensions:
+  - code: "N01"
+    name: "Factual accuracy and internal consistency"
+    weight: 0.30
+    definition: "Whether company names, dates, events, amounts, percentages, people, timeline, and causal statements are clear, internally consistent, and not obviously exaggerated."
+  - code: "N02"
+    name: "Source transparency and verifiability"
+    weight: 0.25
+    definition: "Whether the article identifies sources, quotations, evidence chains, citations, or other traceable clues."
+  - code: "N03"
+    name: "Balance and objectivity"
+    weight: 0.15
+    definition: "Whether the article avoids one-sided claims, emotional wording, promotional exaggeration, or commentary replacing facts."
+  - code: "N04"
+    name: "Relevance and information increment"
+    weight: 0.20
+    definition: "Whether the article adds useful company-research information rather than repeating announcements or low-relevance material."
+  - code: "N05"
+    name: "Expression clarity and headline fit"
+    weight: 0.10
+    definition: "Whether title, lead, and body are aligned and clearly written without clickbait."

@@ -1,0 +1,16 @@
+[TITLE]
+Trading ideas: Mah Sing, Unisem, Alliance Bank, MISC, Tenaga, PetGas, Nestle, UOA, MBSB and Heineken
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-02-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/02/28/trading-ideas-mah-sing-unisem-alliance-bank-misc-tenaga-petgas-nestle-uoa-mbsb-and-heineken
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Companies that recently made headlines includes Mah Sing, Unisem, Alliance Bank, MISC, Tenaga, PetGas, Nestle, UOA, MBSB and Heineken, said Apex Securities Research. Mah Sing Group Bhd ’s net profit for the three months ended Dec 31, 2023 grew 38% to RM64.74 million compared to RM46.78 million a year ago. Unisem (M) Bhd 's net profit for the financial year ended Dec 31, 2023 (FY2023) fell 79% to RM80.24 million from RM385.36 million. Alliance Bank Malaysia Bhd 's (ABMB) net profit for the third quarter ended Dec 31, 2023 dipped 0.13% to RM176.86 million.
+
+[NEWS_P002] MISC Bhd said its net profit slipped 2.7% for the fourth quarter ended Dec 31, 2023 (4QFY2023) to RM627.30 million. RHB Bank Bhd’s net profit in the fourth quarter fell 24% to RM585.91 million from a year earlier. Tenaga Nasional Bhd 's net profit fell 27.83% to RM583.9 million in the fourth quarter ended Dec 31, 2023 (4QFY2023) from RM809.1 million a year ago. Petronas Gas Bhd ’s (PetGas) net profit rose 7.04% in the fourth quarter ended Dec 31, 2023 (4QFY2023) to RM441.59 million.
+
+[NEWS_P003] Nestlé (Malaysia) Bhd’s net profit for the fourth quarter ended Dec 31, 2023 rose 11.5% to RM148.1 million from RM132.85 million a year ago. UOA Development Bhd 's fourth quarter net profit more than doubled to RM118.72 million from RM53.06 million a year ago. Malaysia Building Society Bhd (MBSB) posted a 50% jump in fourth quarter net profit to RM301.15 million from RM200.73 million a year earlier. Heineken Malaysia Bhd 's net profit dipped 5.32% to RM99.07 million in its fourth quarter ended Dec 31, 2023 (4QFY2023) from RM104.63 million in 4QFY2022.

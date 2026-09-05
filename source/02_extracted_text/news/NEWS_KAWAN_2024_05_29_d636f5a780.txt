@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI hits intraday low; Lagenda Properties dives on MACC probe
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-05-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/29/fbm-klci-hits-intraday-low-lagenda-properties-dives-on-macc-probe
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The benchmark FBM KLCI settled in the negative territory on Wednesday while technology counters were in focus. The market bellwether fell 10.47 points, or 0.65% to 1,605.35, its intraday low. Stocks that fell outnumbered those that rose 835 to 401, with another 422 counters unchanged. A total of 4.74 billion shares changed hands, worth RM3.7bil. Stock market data showed that foreign funds were net sellers on Tuesday, offloading equities valued at RM178mil.
+
+[NEWS_P002] Local institutions and retailers were net buyers at RM154mil and RM24mil respectively. Dealers said market sentiment was muted as investors stayed cautious amid the ongoing corporate earnings period. They expect trading on Bursa Malaysia to remain cautious. Kuala Lumpur Kepong, the top loser on Bursa Malaysia slid 62 sen to RM21.36. Dutch Lady fell 52 sen to RM34.90, Allianz lost 38 sen to RM22.08 and Harrisons declined 23 sen to RM9.50. ALSO READ: Lagenda hits limit down at RM1.17/share, intraday short-selling suspended Lagenda Properties hit limit down, diving 49 sen or 29.52% to RM1.17.
+
+[NEWS_P003] Bursa Securities has suspended its intraday short-selling (IDSS). Bursa Malaysia also slapped the group with an unusual market activity (UMA) query over the sharp decline in its share price. It was reported that one of its senior personnel was remanded by the Malaysian Anti-Corruption Commission (MACC) under an investigation into the subdivision of Malay reserve land in Manjung, Perak. Meanwhile, Bursa Malaysia Technology Index rose 0.48% to 73.90 points.
+
+[NEWS_P004] Technology and semiconductor-related stocks are among the top gainers on Bursa Malaysia. Malaysian Pacific Industries jumped 62 sen to RM39.50, YTL Power rose 25 sen to RM5.25 and Aurelius Technologies gained 18 sen to RM3.49. ACE Market debutant, Kawan Renergy rose 16.5 sen, or 55% to 46.5 sen with 148.54 million shares traded. Asian bourses closed broadly lower today, with Japan's Nikkei 225 losing 0.77%, South Korea’s Kospi fell 1.67%, Hong Kong’s Hang Seng closed down 1.83% and China’s CSI 300 Index added 0.12%.

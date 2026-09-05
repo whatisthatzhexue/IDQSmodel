@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI rebounds above 1,600 amid cautious sentiment
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-09-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/26/fbm-klci-rebounds-above-1600-amid-cautious-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI reclaimed the 1,600 level at midday, but sentiment stayed cautious as investors awaited US core personal consumption expenditures (PCE) data for guidance on the Federal Reserve’s policy outlook. At midday, the FBM KLCI rebounded 7.07 points, or 0.44%, to 1,605.54, just off its intra-morning high of 1,605.93. Market sentiment was cautious, with decliners outpacing gainers at 505 to 419, while 466 counters were unchanged. Turnover stood at 2.3 billion shares worth RM1.36bil.
+
+[NEWS_P002] Among the gainers, Malayan Cement rose 42 sen to RM7.15, Nestle added 38 sen to RM96.98, PETRONAS Dagangan gained 36 sen to RM22.48 and Kelington Group climbed 18 sen to RM5.68. Meanwhile, Malaysian Pacific Industries slipped 30 sen to RM29.30, PPB Group fell 22 sen to RM10.10, F&N eased 18 sen to RM27.08 and Batu Kawan declined 14 sen to RM18.78. Ireka, which faces the risk of delisting, tumbled 79.17%, or 9.5 sen, to 2.5 sen with 29.3 million shares changing hands.
+
+[NEWS_P003] Apex Securities expects the FBM KLCI to remain cautious today, tracking Wall Street’s losses, with regional sentiment subdued ahead of key US economic data and the core PCE inflation reading. “Domestically, the lead-up to Budget 2026 on Oct 10 is expected to drive local sectoral interest and shape sentiment in specific thematic plays,” it said. Apex noted that interest may continue to gravitate towards construction, consumer and renewable energy counters, supported by expectations of positive sentiment ahead of Budget 2026.
+
+[NEWS_P004] Meanwhile, TA Securities said rangebound trading is likely to persist ahead of the weekend as investors await the US core PCE reading for clues on the Federal Reserve’s policy direction. “Immediate resistance remains at the December 2024 high of 1,644, with stronger hurdles at 1,684 and 1,695. “Immediate support is set at the 61.8% Fibonacci retracement (1,564), while firmer support levels are seen at the 50% retracement (1,527) and 38.2% retracement (1,490),” TA Securities said.

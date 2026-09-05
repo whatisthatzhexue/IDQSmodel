@@ -1,0 +1,16 @@
+document_id: MDA_2836_CARLSBG_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS Through Portfolio Choices, we are sharpening our focus on premiumisation, innovation and strengthening core beer offerings. Investments in premium brands, Alcohol-Free Brews and Beyond Beer categories position us to cater to evolving consumer preferences while ensuring market leadership in key segments. With Execution Excellence, we are driving flawless execution across sales, marketing and innovation, integrating digital transformation to enhance operational efficiency and supply chain resilience. Strategic activations and data-driven decision-making underpin our efforts to strengthen market leadership and long-term growth.
+[MDA_P005]
+EXCELLENCE Excel at sales, marketing and innovation Drive digital transformation Manage supply chain end to end
+[MDA_P007]
+JOURNEY Optimise sourcing Unlock supply chain efficiency Continue cost discipline
+[MDA_P009]
+CULTURE Build a growth culture Together towards ZERO and Beyond Safeguard our licence to operate Live by our Compass We also ensure we are Funding Our Journey by optimising sourcing, unlocking supply chain efficiencies and maintaining disciplined cost management. By doing so, we are safeguarding profitability while allowing us to reinvest in growth initiatives. Digitalisation and
+[MDA_P013]
+TO GROW Launched in February 2024, Accelerate SAIL sets high ambitions for top- and bottom-line growth as we sharpen our focus on selected growth drivers within our portfolio and capabilities, for which we are ensuring sufficient investments and support. We are also improving supply chain efficiency, continuing our well-embedded cost focus, developing a growth culture and maintaining our commitment to ESG. General Manager, Carlsberg Singapore Caroline Moreau

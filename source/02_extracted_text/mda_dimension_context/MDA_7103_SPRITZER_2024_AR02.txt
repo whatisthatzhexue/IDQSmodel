@@ -1,0 +1,104 @@
+document_id: MDA_7103_SPRITZER_2024
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 29, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_7103_SPRITZER_2024", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 97, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+BUSINESS AND OPERATIONS OVERVIEW
+The Malaysian economy grew by 5.0% in the fourth
+quarter of 2024. This performance was supported by
+strong expansion in investment activities, growth in
+export of goods and services and sustained household
+spending. For the overall 2024, Malaysia’s economy had
+achieved 5.1% growth marking a significant growth from
+the 3.7% achieved in 2023 driven by stronger domestic
+demand and higher investment. This marked a shift from
+the slower growth in 2023, which was affected by weaker
+global demand and tighter monetary conditions. In 2024,
+better investor confidence, a rebound in tourism and
+construction, and easing inflation boosted household
+spending. Overall, improved local and global conditions
+helped Malaysia recover and strengthen its economic
+performance compared to the previous year. Our Group’s revenue continued to reflect this economic
+strength, achieving an encouraging 21% growth in the
+current quarter and 18% for overall 2024.
+[MDA_P002]
+The sales of
+our bottled water products remained robust throughout
+the year, fuelled by strong demand, a surge in travel
+and tourism activities, and the persistently hot weather
+conditions. Additionally, our strategic branding and
+marketing investments have significantly bolstered our
+sales performance. We are a pioneer and the industry leader with 36 years
+of manufacturing, branding, marketing, and distribution
+excellence in the Malaysian bottled water industry. Our
+Group consist of an investment holding company with
+nine subsidiaries. The Group is principally involved in
+the manufacturing, marketing, and distribution of a
+comprehensive range of bottled water products and plastic
+packaging products. Details of the principal activities of
+individual subsidiaries can be found in the audited financial
+statements in this annual report. Our Group is the largest and most integrated bottled
+water producer in Malaysia with a commanding market
+share of above 40%. Our core brands are Spritzer, Spritzer
+Sparkling, Spritzer Tinge, Spritzer So Tinge, Cactus, Desa
+and Summer which are also the leading brands in their
+respective market segments in the Malaysian bottled
+water industry.
+[MDA_P003]
+Our Group operates in three main business
+segments, namely, manufacturing, trading and others. “Others” encompasses mini golf course and recreational
+park, investment and properties holding and property
+development activities. Our Group has three bottled water plants and one plastic
+packaging manufacturing plant in Malaysia. Our main
+mineral water plant is located in Taiping, Perak with the
+second mineral water plant in Yong Peng, Johor and the
+third drinking water plant in Shah Alam, Selangor. Our
+plastic packaging manufacturing plant is located in Ipoh,
+Perak. The Group has an annual production capacity of
+about 1.25 (2023: 1.00) billion litres of bottled water as
+of December 31, 2024. Our operations are primarily in
+Malaysia and our export sales currently make up of less
+than 10% of our Group’s revenue. We have two wholly owned trading companies, one
+operating in Taiping, Perak and another in Guangzhou,
+China which has, in April 2016, started its operations
+of selling and wholesale distribution of bottled water
+products in Guangzhou and other parts of China.
+[MDA_P004]
+The
+Group operates a minigolf and recreational park called
+Spritzer EcoPark next to our main mineral water plant
+in Taiping, Perak. Spritzer EcoPark is one of the Group’s
+initiatives to give back to local community and at the same
+time to promote tourism in Taiping, the home of Spritzer,
+to the rest of Malaysia. During the current financial year,
+the Group started to venture into housing development by
+entering into a joint venture agreement with a third party
+to jointly develop a piece of land measuring approximately
+5.78 acres, located in Taiping, Perak into a residential
+housing project. The property development activities are
+not expected to be material to the Group and the Group
+focus is still on its core business that is bottled water and
+beverage sector. The Group has acquired a 30% equity interest in an
+associated company, The Tapping Tapir Sdn Bhd (“TTT”)
+in January 2023, a company principally involved in the
+manufacturing, producing and distribution of beverages,
+namely naturally flavoured sparkling sodas. The contribution
+from TTT is immaterial to the Group.
+[MDA_P005]
+Vision and Strategic Direction
+Spritzer’s vision is to be recognised and respected
+as Malaysia’s leading bottled water producer. We are
+committed to delivering high-quality bottled water that
+promotes healthy consumption and meets the evolving
+preferences and hydration needs of our consumers. As the largest and most integrated bottled water
+company in Malaysia, we continue to expand our
+product offerings, enhance operational efficiency,
+and strengthen our market presence both locally and
+internationally. We are also exploring new business and
+investment opportunities within the beverage sector to
+support long-term growth.

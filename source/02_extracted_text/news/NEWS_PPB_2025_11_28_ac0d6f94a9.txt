@@ -1,0 +1,26 @@
+[TITLE]
+Trading ideas: SkyWorld, Paramount, UEM, Nationgate, MUI Properties, Tuju Setia, HLBank, Sime Darby, Genting, IJM, Ranhill, YTL, Kossan, Inari, Axiata
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-11-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/28/trading-ideas-skyworld-paramount-uem-nationgate-mui-properties-tuju-setia-hlbank-sime-darby-genting-ijm-ranhill-ytl-kossan-inari-axiata
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Skyworld Development Berhad is expanding into Vietnam via the proposed acquisition of 100% equity in MTV Vina An Thuan Phat Company Ltd for VND850bn (~RM133.5mn). Paramount Corporation Bhd , via its securitisation vehicle Dynamic Gates Sdn Bhd, has agreed to dispose of its George Town tertiary education campus in Penang to Majestic Anson Sdn Bhd for RM75mn cash.
+
+[NEWS_P002] UEM Group Bhd is said to be taking cash-rich UEM Edgenta Bhd private, given the latter's compressed valuation, according to sources familiar with the matter. Nationgate Holdings Bhd is positive on its prospects moving forward that’s supported by a multiyear upcycle in the global electrical and electronics and semiconductor industries. MUI Properties Bhd has proposed to acquire eight parcels of freehold land in Mukim Ijok, Kuala Selangor, for approximately RM605.0mn in cash as part of its plan to expand its development landbank.
+
+[NEWS_P003] Tuju Setia Bhd has secured a RM54.0mn contract to serve as the main contractor for the construction of a purpose-built factory in Bandar Bukit Raja, Klang. Hong Leong Bank Bhd posted a 5.4% YoY increase to RM1.68bn in net income in 1QFY26, as all major operating segments grew save for international banking as China dragged profits. RHB Bank Bhd posted its highest-ever quarterly net profit of RM904.0mn in 3QFY25, on the back of higher income and lower expected credit losses.
+
+[NEWS_P004] Sime Darby Bhd reported a net profit of RM355.0mn in 1QFY26, which was lower than RM800.0mn in the same quarter in 2024, due to the one-off gain from the disposal of Malaysia Vision Valley land. Genting Bhd 's net profit plunged 86.5% to RM30.3mn for 3QFY25, from RM223.8mn a year earlier, dragged by lower foreign exchange gains. IJM Corp Bhd saw its net profit slipping 11.4% to RM65.8mn for 2QFY26, mainly due to unrealised foreign exchange losses and lower earnings from the property and port segments.
+
+[NEWS_P005] Ranhill Utilities Bhd posted a net profit of RM29.9mn in the 1QFY25, lifted by steady contributions from its water and power divisions. YTL Corporation Bhd 's net profit rose to RM346.5mn in 1QFY26 from RM333.7mn in the same period a year ago, supported by the property investment and development sector, the management services and others sector. Kossan Rubber Industries Bhd 's net profit rose 28.5% to RM37.8mn in 3QFY25, from RM29.4mn a year ago but revenue fell 13.5% YoY to RM439.0mn due to lower deliveries.
+
+[NEWS_P006] Inari Amertron Bhd ’s net profit jumped 113.5% to RM51.5mn for 1QFY26, supported mainly by favourable movements in foreign exchange rates. Axiata Group Bhd registered a net loss of RM27.4mn in 3QFY25, compared with a net profit of RM976.7mn a year ago. Malakoff Corp Bhd said a fire at the Tanjung Bin Energy plant in October is likely to drag on its performance in the financial year 2025. This after turbine issues at the plant saw it post a 67.5% drop to RM28.2mn in 3QFY25 net profit.
+
+[NEWS_P007] Pekat Group Bhd , which posted a 64.3% jump in net profit to RM10.3mn for 3QFY25, remains optimistic about its near-term prospects, supported by favourable government policies, strong order visibility and sustained sectoral demand. Malaysian Resources Corporation Bhd posted a net profit of RM28.8mn for 9MFY25, down from RM63.0mn in the corresponding period last year. Bumi Armada Bhd 's net profit for 3QFY25 fell to RM96.1mn from RM211.3mn posted in the same period last year.
+
+[NEWS_P008] PPB Group Bhd slipped into the red, posting a net loss of RM199.5mn in 3QFY25, compared with a net profit of RM208.1mn in the same quarter last year, mainly due to the share of losses from Wilmar of RM290.0mn. QL Resources Bhd posted a lower net profit of RM116.2mn for 2QFY26, down from RM128.3mn, as revenue eased to RM1.7bn for the quarter, mainly due to substantially lower fishmeal sales volumes and depressed international fishmeal prices.

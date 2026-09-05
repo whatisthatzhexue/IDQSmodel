@@ -1,0 +1,106 @@
+document_id: MDA_7243_MAGMA_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+(Overview of Group Business)
+Magma Group Berhad (“.BHNB” or “the Group”) is actively evolving from a traditional hospitality company into an
+innovative, experience-focused property and lifestyle group. Anchored in Malaysia’s hotel industry, Magma manages
+a portfolio of distinctive assets under the WOLO and Impiana brands, delivering culturally immersive hospitality across
+strategic urban and regional locations. As of the financial year ended 31 December 2024 (“FYE2024”), the Group’s portfolio includes WOLO Kuala Lumpur,
+Impiana Hotel Ipoh, Impiana Hotel Senai, and an associate stake in Impiana KLCC Hotel. The full consolidation of
+WOLO Kuala Lumpur under Magma Bintang Sdn Bhd has notably enhanced the Group’s hospitality performance,
+fueling robust segmental growth. Magma’s strategic focus on high-impact locations reflects its commitment to delivering exceptional guest experiences. Through innovative offerings and targeted market positioning, the Group consistently sets industry standards for
+service, quality, and operational excellence.
+[MDA_P002]
+The Group’s foray into real estate leverages its hospitality strengths to deliver elevated living experiences and long-
+term value. As a cornerstone of its growth strategy, property development is set to play a significant role in Magma’s
+future trajectory. Looking ahead to 2025, Magma is well-positioned to seize emerging opportunities in the dynamic hospitality
+and tourism sectors. With a strong asset base, proven operational excellence, and an unwavering focus on guest
+satisfaction, the Group is poised to lead with innovation and sustainable growth. Review of Financial Performance
+The summary of the Statement of Comprehensive Income is as follows:
+3. FYE 2024
+FYE 2023
+Variance
+FYE 2024
+vs.
+[MDA_P003]
+FYE 2023
+Revenue
+14,926
+14,458
+3.2%
+Gross Profit (“GP”)
+16,390
+16,543
+(0.9%)
+Gross Profit Margin (“GPM”)
+109.8%
+114.4%
+Administrative Expenses
+(21,829)
+(12,420)
+(75.7%)
+Other Cost
+(40,582)
+(17,141)
+(>100%)
+(Loss) Before Tax (“LBT”)
+(46,020)
+(13,018)
+(>100%)
+(Loss) After Tax from Continued Operations (1) (“LAT”)
+(45,466)
+(13,135)
+(>100%)
+Note:
+(1)
+Attributable to owner of the Company
+For the FYE2024, Magma recorded revenue of RM14.93 million, a 3.2% increase from RM14.46 million in financial year
+ended 31 December 2023 (“FYE2023”). This growth reflects the Group’s continued efforts to strengthen operational
+efficiency and adapt to evolving market conditions. Gross Profit (“GP”) declined by 0.9% to RM16.39 million (FYE2023: RM16.54 million). However, the Gross Profit Margin
+(“GPM”) contracting from 114.4% to 109.8%, primarily due to higher input and operating costs, driven by inflation and
+industry-wide cost pressures. Administrative expenses increased significantly by 75.7%, reaching RM21.83 million (FYE2023: RM12.42 million). This
+rise was mainly due to strategic restructuring initiatives, increased staffing costs, and inflation-related adjustments.
+[MDA_P005]
+MANAGEMENT DISCUSSION & ANALYSIS
+(Overview of Group Business)
+cont’d
+As a result, the Group reported a Loss Before Tax (“LBT”) of RM46.02 million, compared to RM13.02 million in
+FYE2023. The Loss After Tax (“LAT”) attributable to the owners from continuing operations widened to RM45.466
+million, up from RM13.135 million in the prior year. The widened losses reflect the impact of rising expenses and
+strategic realignments, despite modest revenue growth.
+The summary of the Statement of Segmented Revenue is as follows:
+3. 
+FYE 2024
+FYE 2023
+Variance
+FYE 2024
+vs. FYE 2023
+Hotel Operation
+28,562
+12,077
+>100%
+Hotel Management
+2,666
+4,832
+(44.8%)
+Property Development
+(16,302)
+(2,451)
+(>100%)
+Total Revenue
+[MDA_P007]
+The deterioration was attributed to contract cancellations and prevailing market headwinds. These
+results reflect the inherent volatility of the property sector amidst economic uncertainty and shifting buyer sentiment. 4USBUFHJD 3FBMJHONFOU BOE 0VUMPPL
+FYE2024 represented a significant period of transition for Magma, the implementation of targeted restructuring
+initiatives focused on cost optimization and operational efficiency. While these transformative efforts temporarily
+impacted the Group’s financial performance, resulting in a loss after tax (LAT) of RM45.67 million, they have
+established a stronger operational foundation for sustainable growth. In spite of the broader challenges, the Hotel
+Operations segment continued to exhibit robust performance, underscoring its strategic importance to the Group’s
+future trajectory. Looking forward, Magma will concentrate on expanding its hotel-based operations and refining management services
+to capitalize on growth opportunities, while recalibrating its property strategy to align with market realities. The Group
+remains committed to sustainable value creation and operational excellence in a dynamic business environment.

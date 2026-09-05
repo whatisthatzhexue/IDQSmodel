@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia opens higher on Wall Street gains; Market awaits U.S. Fed rate decision
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-09-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/13/bursa-malaysia-opens-higher-on-wall-street-gains-market-awaits-us-fed-rate-decision
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia opened higher in early Friday trade, buoyed by strong overnight gains from Wall Street while investors await the U.S. Federal Reserve's interest rate meeting next week. The FBM KLCI rose 2.12 points, or 0.13% to 1,640.43 at 9.09 am. The index opened 4.32 points higher at 1,642.63. Among the gainers, Malaysian Pacific Industries jumped 56 sen to RM27.92, Nestle rose 50 sen to RM100.50, CIMB added 15 sen to RM8.08 and IQ Group climbed 14.5 sen to 84 sen.
+
+[NEWS_P002] Carlsberg slid 16 sen to RM19.34, United Plantations fell 10 sen to RM27.40, Master Tec Group lost nine sen to RM1.04 and AmBank gave up six sen to RM5.16. Overnight, the Dow Jones Industrial Average rose 0.58% to 41,096.77, the S&P 500 gained 0.75% to 5,595.76 and the Nasdaq Composite gained 1.00% to 17,569.68. TA Securities said that stocks are expected to continue range-bound trading ahead of the weekend, with a cautious market undertone prevailing as investors await next week's highly anticipated U.S.
+
+[NEWS_P003] interest rate cut. “Immediate index support remains at the recent correction low of 1,633, with 1,620 and 1,600 acting as stronger supports. “Immediate resistance is revised lower to 1,670, with the recent high of 1,684, then 1,695, Dec 2020 high, as tougher resistance levels,” it added. SPI Asset Management managing director Stephen Innes noted that Asian stocks are looking strong as the week wraps up, with Wall Street’s momentum spilling over. “The S&P 500 and Nasdaq both rose for the fourth straight day, with the Nasdaq on track for its biggest weekly gain of the year.
+
+[NEWS_P004] Meanwhile, the S&P 500 is within 1% of its July record high,” he said. Innes said a risk-on sentiment swept through the markets, lifting sentiment across commodities and driving gold to a record high. He explained that weak U.S. labour market data reaffirmed expectations for a rate cut by the Fed in 2024, leading to lower U.S. Treasury yields and a weaker dollar. This environment solidified market convictions on rates and contributed to gold’s rally. Additionally, the unwinding of bearish bets, with investors rapidly buying back positions they had sold earlier in the month, further fueled gold's surge.

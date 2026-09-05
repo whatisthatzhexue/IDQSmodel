@@ -1,0 +1,16 @@
+[TITLE]
+Last-minute selling drags FBM KLCI down to intraday low
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-10-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/23/last-minute-selling-drags-fbm-klci-down-to-intraday-low
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI lost its earlier gains to end at its intraday low, following last-minute selling of heavyweight stocks. At closing, the benchmark index closed down 1.01 points, or 0.06% at 1,641.53, its intraday low. There were 563 gainers, 471 losers and 541 counters traded unchanged on Bursa Malaysia. Turnover stood at 3.24 billion shares valued at RM2.6bil. Among the decliners, Malaysia Airports slid 14 sen to RM10.22, Bursa Malaysia lost 13 sen to RM9.35, Apollo Food fell 12 sen to RM6.57 and Mega First Corp declined 10 sen to RM4.20.
+
+[NEWS_P002] On the other hand, Nestle jumped 90 sen to RM104.40, Malaysian Pacific Industries added 30 sen to RM26.60, Vstecs rose 30 sen to RM3.53 and Hong Leong Financial Group gained 26 sen to RM19.38. Ingenieur Gudang, the most active counter on Bursa Malaysia, rose 0.5 sen, or 10% to 5.5 sen with 344.34 million shares traded. Among the banks, Hong Leong Bank added 18 sen to RM21.36, RHB Bank climbed eight sen to RM6.49 and CIMB rose two sen to RM8.18. Maybank and Public Bank closed unchanged at RM10.62 and RM4.55, respectively.
+
+[NEWS_P003] On the forex market, the ringgit was down 0.6% against the greenback to 4.3540. Meanwhile, US West Texas Intermediate crude fell 80 cents to US$70.94 and Brent lost 79 cents to US$75.25 per barrel. Elsewhere in the region, Japan’s Nikkei 225 fell 0.8%, Hong Kong’s Hang Seng Index rose 1.27%, South Korea’s Kospi closed up 1.12% and China’s CSI 300 Index advanced 0.4%.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends on a high note; Property Index surges 2.26%
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-09-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/13/fbm-klci-ends-on-a-high-note-property-index-surges-226
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed on a positive note on Friday, supported by upbeat market sentiment despite a mixed performance across regional markets. The 30-stock index rose 13.84 points, or 0.84%, to 1,652.15, just below its intraday high of 1,652.25. On a weekly basis, the index recorded a slight decline of 0.06%. All indices on Bursa Malaysia ended higher, with the property index gaining 2.26% to close at 1,044.64. Gains in IOI Properties Group , S P Setia, Sime Darby Property Bhd , Eco World Development Group and UEM Sunrise contributed to the Property Index's climb on Friday.
+
+[NEWS_P002] Stocks that rose outnumbered those that fell 727 to 339, with another 459 counters unchanged. A total of 2.84 billion shares changed hands, worth RM2.74bil. Nestle surged RM1.30 to RM101.30, Malaysian Pacific Industries jumped 74 sen to RM28.10, PETRONAS Dagangan rose 32 sen to RM19 and Harrisons gained 29 sen to RM8.46. Heineken, the biggest loser on Bursa Malaysia tumbled 32 to RM22.42. Carlsberg slid 18 sen to RM19.32, Allianz declined 14 sen to RM20.26 and Seal fell 13 sen to 75.5 sen.
+
+[NEWS_P003] In terms of fund flows, foreign funds and retailers were net sellers on Thursday offloading equities worth RM95mil and RM23mil respectively. Local institutions emerged as net buyers with total purchases valued at RM118mil. On the forex market, the ringgit was up 0.68% against the greenback to 4.3057. Meanwhile, US West Texas Intermediate crude rose 47 cents to US$69.44 and Brent added 45 cents to US$72.42 per barrel. Among the key regional markets: Japan’s Nikkei 225 closed down 0.68% to 36,581.76; Hong Kong’s Hang Seng Index rose 0.75% to 17,369.09; Shanghai Composite Index closed down 0.48% to 2,704.09; Taiwan’s Taiex added 0.49% to 21,759.65; South Korea’s Kospi closed up 0.13% to 2,575.41 and; Singapore’s Straits Times Index added 0.17% to 3,562.65 points.

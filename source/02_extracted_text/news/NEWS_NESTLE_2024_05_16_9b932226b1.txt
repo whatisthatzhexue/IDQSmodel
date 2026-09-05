@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia joins rally on renewed US rate cut hopes
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-05-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/16/bursa-malaysia-joins-rally-on-renewed-us-rate-cut-hopes
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia piggybacked a regional rally as a key US inflation report backed hopes the central bank will cut the interest rate in September. Global equities soared following a softer US consumer price index reading for April, with the major US stock indices hitting fresh record levels. In Malaysia, the FBM KLCI gained 8.06 points in the early session to 1,611.29, as foreign fund buying continued. The market breadth was also positive with 595 gainers compared with 475 decliners and 452 unchanged.
+
+[NEWS_P002] Share turnover was 3.8 billion shares valued at RM2.32bil. Malaysian blue chips were mostly higher with investors buying up 27 of the 30 FBM KLCI counters. In banks, Maybank rose three sen to RM9.91, Hong Leong Bank gained 10 sen to RM19.52, Publc Bank added four sen to RM4.19 and RHB put on one sen to RM5.49. Tenaga Nasional jumped 22 sen to RM12.62, PETRONAS Chemicals climbed six sen to RM6.87 and Nestle rose 60 sen to RM129.60. Meanwhile, glove shares, which were bought up on news the US was imposing higher tariffs on Chinese manufacturers, saw sharp profit-taking.
+
+[NEWS_P003] Of the Big 4 companies, Top Glove dropped 11 sen to RM1.15, Hartalega shed 38 sen to RM3.44, Kossan lost 26 sen to RM2.48 and Supermax fell nine sen to 99 sen. Also seeing active trading, Sin-Kung Logistics, which made its debut on the ACE Market yesterday, crept higher by one sen to 15 sen. Across Asia, stock markets rose into the green on the back of renewed optimism that US inflation levels had been reined in to a level that warranted interest rate easing.
+
+[NEWS_P004] Hong Kong's Hang Seng led markets with a 1.59% gain to 19,376. China's composite index was up 0.48% to 3,134. Japan's Nikkei climbed 0.92% to 38,738 while Singapore's Straits Times index rose 0.79% to 3,135.

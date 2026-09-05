@@ -1,0 +1,47 @@
+document_id: MDA_7103_SPRITZER_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P009]
+Annual Report 2022
+Spritzer Bhd 199301010611 (265348-V)
+RISKS
+The Group is sensitive to various risks such as pandemic
+risk, macroeconomic risk, regulatory risk, reputation risk,
+business and operations risk and financial risk. The Group’s
+risk management framework is designed to enable the
+material risks to be identified, analysed, assessed and
+managed in order to prevent or minimise possible losses. Reputation Risk
+Being the leading bottled water company with dominant
+market share, our core brands have high brand equity. To sustain and to enhance the image and reputation
+of the Group and our branded products, we are firmly
+committed to high product quality and cultivate strong
+discipline to improve continuously. We cultivate ethical
+and responsible business behaviour with a strong
+culture to manage and to ensure compliance with the
+applicable standards, internal policies and external rules
+and regulations. We invest in and focus on effective
+communication, image and brand building.
+[MDA_P010]
+Business Operations Risk
+Our significant business operations risks include the risk
+of adequacy and suitability of water supply, supply chain
+risk, business disruption risk, customer/consumer loyalty
+risk, regulatory risk, fraud and corruption risks, flood risk,
+business disruption risk and competition risk. We have
+suitably qualified and experienced personnel to manage
+our business operations and we have established proper
+business processes to ensure the proper mitigation
+and management of our business operations risks. We constantly strive to improve the efficiency and
+effectiveness of our entire value chain. Financial Risk
+Our key financial risks are credit risk and liquidity and
+cash flow risk. We have established proper credit
+evaluation and control processes to manage the credit
+risk of our receivables. We practise prudent liquidity risk
+management to minimise the mismatch of our financial
+assets and financial liabilities and we have adequate
+credit facilities and resources for contingency funding
+requirement. The Group has a healthy balance sheet and
+strong financial capability to manage its financial risk.

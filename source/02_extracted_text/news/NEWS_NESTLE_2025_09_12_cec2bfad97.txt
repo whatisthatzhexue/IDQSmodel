@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI stays steady as Wall Street hits record highs
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/12/fbm-klci-stays-steady-as-wall-street-hits-record-highs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI started Friday steady, taking cues from Wall Street’s record highs but still waiting for fresh local drivers. Overnight, Wall Street indices closed at record highs. The S&P 500 rose 0.85% to finish at 6,587.47 points. The Nasdaq gained 0.72% to 22,043.08 points, while the Dow advanced 1.36% to 46,108.00 points. On the local bourse, the FBM KLCI rose 2.72 points, or 0.17%, to 1,585.57 at 9.17 am, after opening 5.19 points higher at 1,588.04.
+
+[NEWS_P002] Nestle rose 78 sen to RM96.28, F&N climbed 34 sen to RM27.34, Malaysian Pacific Industries added 28 sen to RM28.50 and Heineken advanced 16 sen to RM20.50. Among the decliners, Dutch Lady slid 26 sen to RM27.14, Eurospan fell 18 sen to RM2.50, Paragon Union lost 12 sen to RM2.80 and Hong Leong Industries gave up six sen to RM13.72. Berjaya Research Sdn Bhd said the recent recovery appears to have lost momentum, with the key index likely entering a consolidation phase as the market searches for fresh domestic catalysts.
+
+[NEWS_P003] In the near term, sentiment is expected to remain cautious, with external developments likely to play a more dominant role in steering the FBM KLCI’s direction. “Given the absence of strong domestic catalysts, investors should brace for a period of sideways consolidation and adopt a more selective approach. “Despite the stickier U.S. inflation data, expectations of an imminent Fed rate cut may cushion downside risks, if any,” the research house said.
+
+[NEWS_P004] Technically, Berjaya Research said the FBM KLCI’s gap-down move reinforces the consolidation view, with resistance at the 1,600 psychological level and then 1,603. On the downside, support is seen at 1,570, with the next level at 1,560. “As we approach the final trading day of the week ahead of the extended weekend break, we expect the broader market sentiment to stay largely indifferent. “Trading activities may remain muted, with investors likely to adopt a wait-and-see stance until fresh catalysts emerge in the coming week,” Berjaya Research said.
+
+[NEWS_P005] Meanwhile, Rakuten Trade noted that the FBM KLCI paused for a breather, easing to nearly the 1,580 level after a bright start to the week. “Hopefully, we will see an immediate rebound tomorrow as the local bourse remains one of the underperformers in the region. “However in view of another extended long weekend, we expect the index to hover between the 1,575-1,585 range today,” it said.

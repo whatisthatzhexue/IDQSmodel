@@ -1,0 +1,60 @@
+document_id: MDA_7237_PWROOT_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 30, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+Annual Report 2022
+Power Root was similarly affected by these challenges as we faced labour shortages in the short term. However, the
+Group as a whole responded with early proactive actions that helped mitigate the impact for FYE 2022 and we look
+forward to a new and better business environment in the coming year. THE BUSINESS ENVIRONMENT
+As pandemic restrictions continue to ease, governments are opening up national borders and loosening travel restrictions. The rapid economic pick-up, though, has seen supply chains struggling to cope. High demand for raw materials has
+caused pricing hikes amid scarcity, while logistics are scrambling to keep up with market movements. Against this backdrop, Power Root expects to build on what we achieved in FYE 2022. We have ingrained the Return on
+Investment (“ROI”) culture throughout our organisation in the past few years, and continue to focus on growing revenues
+with cost and control as the foundation of our growth. We have also improved communication across all functions with
+the business increasingly utilising technology in making data-driven decisions.
+[MDA_P003]
+Safety standards remain a priority as we
+continue to enhance a conducive working environment. DOMESTIC ACTIVITIES
+Operational Strategies
+On the local front, Power Root saw an increase in sales following the lifting of MCO 3.0. The relaxation of restrictions
+spurred the domestic market as consumers returned to their pre-pandemic shopping patterns. As activities picked up,
+the Group’s investment in the use of technology and employee training in smoothing out operational efficiencies are
+bearing fruit. The efforts we have put in to improve communication channels have resulted in better coordination across the different
+functions of the Group, from brand product development to marketing, sales and distribution as well as on the factory
+floor. The result is an increasingly seamless execution of business strategies and achievement of our corporate objectives
+in a timely manner. Such systematic implementation of our business strategies has also improved monitoring of our marketing 5Ps – product,
+price, promotion, place and people – and its effectiveness and enabled us to respond quickly and effectively.
+[MDA_P004]
+Technological
+tools equipped the Group to track the volume and pattern of sales across regions and products. In turn, with a stronger
+Commercial Finance team positioned to analyse in detail profitability by products, channels and customers, this led to
+better analysis to find gaps and opportunities for sales and profitability. We also rolled out our handheld sales force reporting system which provides real-time distribution network status and
+updates. The information includes data on outlet levels which allows for a quick response to market demand, and helps
+us assess the implementation and effectiveness of our marketing 5Ps. Power Root was also prepared for the imposition of the sugar tax which was to be implemented on 1 April 2022. Although the Malaysian government has deferred the sugar tax implementation for the moment, our team is ready
+for this eventuality. Should the sugar tax regime be implemented, Power Root will have an advantage in being able to
+leverage on our previous experience from similar sugar tax roll-outs in the Middle East markets over the past two years
+to mitigate its impact.
+[MDA_P005]
+Furthermore, the Group is supportive of government policies aimed at improving the health of the
+Malaysian public, and of customers’ increasing desire to seek a healthier diet. Thus, we expect to roll out new products
+with lower sugar levels to meet the changing trends and tastes of consumers. Due to inflationary pressures across the Malaysian beverage industry and the market as a whole, Power Root adjusted
+the prices of our products from 1 January 2022. While we are cognisant of its impact on our customers’ budget, this
+increase was necessary to reflect escalating costs. As it were, Power Root was one of the last industry players in the
+country to increase our prices. We expect to see the full impact of these price increases in our next financial year ending
+March 2023. The Group continues to codify ROI-based criteria and guidelines into our processes focusing on cost and control. During the current financial year, guidelines on plant and machinery investment were set to comply with these criteria. MANAGEMENT DISCUSSION AND ANALYSIS
+cont’d
+[MDA_P006]
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+Annual Report 2022
+We revamped our Standard Operating Procedures (SOP) and inventory management policies to reduce unnecessary
+wastage and optimise productivity. On the marketing front, SOPs were enhanced for targeted advertising and promotion
+(A&P) investments to ensure their maximum impact on increasing long-term sales and market share.
+The Group also set non-sales key performance indicators (KPIs) to improve our sales distribution network effectiveness
+and the monitoring of its performance which includes the enhancement of product placement, price management, and
+the execution of promotions.
+Marketing and branding

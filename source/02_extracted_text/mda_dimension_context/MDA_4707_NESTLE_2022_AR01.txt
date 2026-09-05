@@ -1,0 +1,88 @@
+document_id: MDA_4707_NESTLE_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+FINANCIAL REVIEW
+The year shaped up to be one of solid recovery post-COVID lockdowns,
+amidst global volatile conditions and commodities inflation. We sharpened
+our focus to keep upholding the trust placed in us by Malaysians and meet
+their expectations for taste, quality and nutrition, while continuing to invest
+in our brands to keep our bonds with the Rakyat strong, contemporary
+and relevant. At the same time, we worked hard to identify savings and
+efficiencies that helped us to cushion the impact of higher commodity costs,
+moderating the quantum of the unavoidable price increases. Simultaneously,
+we further stepped up our ESG agenda, with another year of solid progress
+in our sustainability targets. With this determined approach, our sales reached its highest growth in
+many years, to RM6.7 billion. This was contributed both by domestic and
+export sales, which rose by 12.9% and 29.3% respectively.
+[MDA_P002]
+Key contributors
+were the core F&B business as in-home consumption remained resilient,
+coupled with a significant turnaround in the OOH business due to the lifting
+of pandemic restrictions which led to increased mobility and a resurgence
+in OOH consumption. The stronger sales coupled with prudent cost
+optimisation initiatives and reduced COVID-19 expenses helped to cushion
+higher commodity prices, unfavourable exchange rates and the bottom-line
+impact of the Prosperity Tax. Ultimately, we delivered a higher profit after tax
+of RM620.3 million, up by 8.9% from the previous financial year, while profit
+before tax grew by 14.3% to RM859.5 million. Nestlé Malaysia stayed the course in 2022. We
+maintained our positive trajectory and put all efforts to
+continue delivering healthy, nutritious and great-tasting
+products tailored to meet consumers’ expectations,
+well-supported by demand generation activities and
+constant search for operational excellence.”
+Juan Aranols
+Chief Executive Officer
+[MDA_P003]
+Nestlé (Malaysia) Berhad
+Management Discussion and Analysis
+BUSINESS & OPERATIONAL REVIEW
+Marking our 110th year in Malaysia, we continued to build on our well-established foundations
+and the commitment and dedication of our teams across all functions, businesses, sales and
+operations. Through their efforts we continued to retain our position as a strong leader in the F&B
+industry and the largest FMCG in Malaysia. Our manufacturing, supply chain and distribution
+operations ensured a steady stream of high-quality products that met consumer demand. Highest Growth in Decades, Record Sales
+Exiting from the unprecedented conditions triggered by the pandemic and the related lockdowns,
+we have seen the strongest sales acceleration in many years, building on the three pillars of
+solid in-home consumption, rebound of OOH channels and acceleration of exports. Our leading
+positions across the categories where we are present in combination with the work of our brand
+teams, and the solid planning and execution by our sales teams and operations put us again in
+the right position to capture all opportunities.
+[MDA_P005]
+Encouraging Malaysians to embrace plant-based products through our HARVEST GOURMET range. Providing Malaysians with more nutritional options under the brands they love was also an
+important priority, with the launch of the MAGGI Nutri-licious noodles range (meeting Healthier
+Choice Logo (HCL) requirements), the acceleration of MILO Hi-Fibre and the introduction of
+NESTLÉ OMEGA PLUS Dark Choc in powder formats, as well as NUTREN GlucoSmart, a specialised
+nutrition product from NESTLÉ HEALTH SCIENCE. We also took the Government’s announcement
+of a sugar tax implementation as an opportunity to reformulate our recipe for our NESCAFÉ 3-in-1
+product with less added sugar and saturated fat, leveraging our R&D expertise to rapidly bring a
+new range to the market within only 100 days, with great consumer acceptance. MAGGI promoter enlightening consumer on our MAGGI 2-Minute Noodles product at a roadshow in East
+Malaysia.
+[MDA_P007]
+MAGGI continued to empower women through our Wanita Cukup Berani
+campaign while building proudly on the nation’s culinary heritage through MAGGI SAH Malaysia. During Ramadan, KIT KAT donated part of its sales revenue to charities supporting the needy and
+NESCAFÉ proudly advanced our NESCAFÉ Grown Respectfully programme as part of our vision to
+support farmers and put Malaysia back on the global coffee map. Malaysians cheering for our MILO truck at the National Merdeka Parade 2022. Iman, our Nestlé Cares volunteer alongside our a representative of our NGO partner, Empire Project helping
+to pack wholesome products to be donated to B40 communities in conjunction with Ramadan. Scan me
+Doing Well While Doing Good: Advancing Our ESG Agenda
+For years, our CSV programmes have built on the idea that we can generate solid financial returns
+while contributing positively to society in many fronts.
+[MDA_P010]
+Our ESG progress through the year is well-detailed in our
+Nestlé in Society Report 2022. Management Discussion and Analysis
+Building ‘A Fit for Purpose’ Organisation to Win in The 21st Century
+With the end of the lockdowns and the normalisation post-pandemic, we have
+been able to return to more “normal” ways of working, with some clearly emerging
+trends. On the one hand, the very strong need to re-engage and re-connect with
+colleagues and teams as well as the expectation to find purpose and meaning in
+one’s activity; on the other hand, the clear demand to improve work-life balance
+and increased flexibility and more “freedom within framework”. In the later part of
+2022, an internal survey confirmed these trends as well as the demand for more
+agile processes, less bureaucracy and more communication and visibility on
+career development. On the basis of this feedback, we are working to address a
+number of these expectations, with some positive early feedback as we advance
+through the process. Diversity and Inclusion remain very high in our priorities.

@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI finds its footing with positive start
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-01-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/15/fbm-klci-finds-its-footing-with-positive-start
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Investors are pinning their hopes on a long-awaited rebound on the domestic market after the previous day's late sell-off dashed hopes the FBM KLCI had hit bottom over the immediate term. Amid the persistent foreign selling, the benchmark index rose 5.87 points to 1,582.33, as selling pressure eased on Wall Street after the US producer price index came in below estimates. Nevertheless, global investors remain cautious over rising inflation, and are on tenterhooks over the upcoming US consumer price report scheduled for release tonight.
+
+[NEWS_P002] Malacca Securities Research said softer data would indicate easing inflationary pressure, boosting sentiment in both global and local markets. On the domestic front, the research firm said Yinson 's announcement it had received US$1bil in capex could lift sentiment in the energy sector, offsetting the dip in Brent crude oil prices. Additionally, it said there are trading opportunities in the oversold EMS, OSAT and ATE players due to the "stronger for longer" dollar outlook, despite US President Joe Biden's move to limit AI chip exports to Malaysia.
+
+[NEWS_P003] In construction, it added that there are buying opportunities to emerge as there remain several packages yet to be announced after Gamuda won the Penang light rail transit contract. Property players with large landbanks, meanwhile, could benefit from the Johor-Singapore Special Economic Zone initiatives. Presenting its outlook for the day, Rakuten Trade said in its report a quick rebound is in store, pegging the FBM KLCI at the 1,575-1,585 range today.
+
+[NEWS_P004] "At current level, market valuations are at a cheap 14.5x vs historical average of 16.5x," said the research house, which could provide opportunities for bargain-hunting. Heavyweight stocks seen shoring up the FBM KLCI include Gamuda, rising eight sen to RM4.80, YTL Power adding 12 sen to RM3.93, Press Metal jumping 13 sen to RM4.80 and PPB adding 18 sen to RM12.36. Of actives, EA Holdings was flat at 0.5 sen, Velocity unchanged at eight sen and Ingenieur gaining 0.5 sen to five sen.

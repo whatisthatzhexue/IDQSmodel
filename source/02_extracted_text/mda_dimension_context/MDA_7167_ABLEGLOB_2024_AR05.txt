@@ -1,0 +1,38 @@
+document_id: MDA_7167_ABLEGLOB_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 41, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 122.529, "paragraph_count": 41, "paragraph_length_distribution": {"max": 846, "mean": 278.512, "min": 16}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Statement on Management Discussion and Analysis (“MD&A”) provides an insight of the financial
+performance of Able Global Berhad (“AGB”) and its subsidiaries (“the Group”) for the financial year
+ended 31 December 2024 (“FYE 2024”). This MD&A also contains information on the Group’s overview
+of business and operations, current financial position, reviewing of operating activities, assessing the
+operational risks faced by the Group and discussing the future prospect of the Group.
+ABLE GLOBAL BERHAD
+p.
+A N N U A L R E P O R T 2 0 2 4
+[MDA_P011]
+For F&B segment, the main factor that affected the operating activities was volatility in raw materials prices.
+[MDA_P021]
+The Group will continue to adopt effective measures such as prudent management and efficient
+operating procedures to mitigate these factors that will affect the Group’s business.
+[MDA_P031]
+The Group’s continued success will depend upon, to a certain extent, the skills, experiences, abilities
+and continued efforts of the key management personnel. The loss of key management personnel in the
+Group may have an adverse impact on the performance of the Group.
+[MDA_P041]
+This forward-looking statement is based on current expectations and assumptions made by the Board through
+the analysis of historical information and trends. The Board is under no obligation to and expressly disclaims
+any obligation to update or alter its forward-looking statements, whether as a result of new information,
+subsequent events or otherwise.
+This statement is made in accordance with a Board resolution dated 8 April 2025.
+STATEMENT ON MANAGEMENT DISCUSSION
+AND ANALYSIS
+(Cont’d)
+ABLE GLOBAL BERHAD
+A N N U A L R E P O R T 2 0 2 4
+p.

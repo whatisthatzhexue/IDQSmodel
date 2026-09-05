@@ -1,0 +1,110 @@
+document_id: MDA_0212_SDS_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_0212_SDS_2021", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 1, "num_consistent_checks": 1, "num_financial_mentions": 44, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Dear valued shareholders, it is with great pleasure that we present to you the Annual
+Report and Audited Financial Statements of SDS Group Berhad (“SDS Group” or
+the “Group”) for the financial year ended 31 March 2021 (“FY2021”). OVERVIEW OF THE GROUP’S BUSINESS
+Business Venture and Journey
+SDS Group has embarked on its business as a manufacturer and retailer of bakery products in 1984. SDS
+Group continues to develop varieties of new creative products to build customers’ excitement and interest in
+its products in the market till today. The Group strives to enrich and satisfy customers’ needs and preferences
+through its high-quality products at a reasonable price. It was an astonishing achievement and business journey for SDS Group as it started its home-grown
+business in Johor region with three subsidiary brands namely, retail brand, ‘SDS’, and wholesale brands,
+‘Top Baker’ and ‘Daily’s’. Throughout the years, SDS Group has grown rapidly through business expansion
+of its manufacturing and distribution facilities, and retail outlets in the Food and Beverages (F&B) industry.
+[MDA_P002]
+Thereafter, the Group has successfully listed on the ACE Market of Bursa Malaysia Securities Berhad on
+7 October 2019. The Group provides an exceptional in-store experience by offering bakery and confectionary products which
+are mostly sold in a ‘grab-and-go’ manner and a wide variety of F&B choices ranging from international
+cuisines such as western and Japanese food to local cuisine. In addition, SDS Group also offers festive
+cookies, hampers, mooncakes, baby full-month and wedding gift set to cater to customers’ needs and
+preferences during the festive seasons. The Group’s venture into the wholesale trade of bakery products
+further enables it to reach out to its customers through a wider sales channel such as convenience stores
+and hypermarkets. Today, the Group strives to remain buoyant in its competitive market especially during this pandemic period. The Group aims to expand its geographical footprint particularly in the Central and Northern Region of
+Peninsular Malaysia. Being one of the market leaders in the F&B industry, the Group continues to develop
+business strategies to market its products and expand its operation and presence throughout the Country
+and overseas.
+[MDA_P003]
+SDS GROUP BERHAD
+[MDA_P005]
+With the rising trend of contactless
+payment to reduce the risk of transmission
+of COVID-19 through physical interaction,
+the Group has enhanced its very own
+SDS mobile application to include
+E-wallet feature. This E-wallet feature
+allows consumers to complete their
+transactions using contactless payments
+at any of its outlets. The Group continues
+to offer innovative solutions to provide
+greater consumer convenience and
+addressing the ever-changing consumers’
+preferences. The Group has expanded its business
+operations beyond Johor Bahru to the
+Central Region of Peninsula Malaysia
+during the financial year. Despite the
+COVID-19 pandemic, the Group continues
+to explore opportunities for growth and
+has successfully set up two new outlets
+at Nilai, Negeri Sembilan and Bangi,
+Selangor. Wholesale Channel
+The Group has launched a series of new
+products such as banana slice cakes,
+pandan chiffon cake and danish bread
+with chocolate chips during the financial
+year.
+[MDA_P006]
+RM2 concept stores has been
+gaining prominence and popularity from
+consumers in Malaysia in recent years,
+this is especially so during the pandemic
+period when the current economic outlook
+is uncertain and consumers are more
+conscious in their spending. The Group
+has collaborated with these chain stores
+and developed a range of products which
+are sold in their stores. The Group further penetrated the market
+in the Northern Region by establishing a
+new distribution centre at Sungai Petani,
+Kedah. With this expansion, the Group
+wholesale distribution network is covering
+10 states out of the 11 states in Peninsula
+Malaysia. The Group aims to continue
+its effort to expand its product range
+and distribution network geographically,
+enabling it to reach out for a wider
+consumer base. ANNUAL REPORT 2021
+[MDA_P007]
+NEGERI SEMBILAN
+KUALA LUMPUR
+PULAU PINANG
+KEDAH
+PERLIS
+KELANTAN
+TERENGGANU
+PAHANG
+SELANGOR
+PERAK
+PUTRAJAYA
+MELAKA
+JOHOR
+Distribution
+Centre
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+SDS GROUP BERHAD
+[MDA_P008]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Financial Indicators
+FY2021
+FY2020
+Difference

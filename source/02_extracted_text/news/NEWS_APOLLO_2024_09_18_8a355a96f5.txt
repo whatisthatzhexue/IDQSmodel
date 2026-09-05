@@ -1,0 +1,14 @@
+[TITLE]
+Gold Apollo says it did not make pagers used in Lebanon explosion
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-09-18
+source_name: The Star
+url: https://www.thestar.com.my/news/world/2024/09/18/gold-apollo-says-it-did-not-make-pagers-used-in-lebanon-explosion
+confidence_tier: low
+
+[NEWS_P001] TAIPEI (Reuters) - Taiwan's Gold Apollo did not make the pagers that were used in the detonations in Lebanon on Tuesday, the company's founder Hsu Ching-Kuang told reporters on Wednesday. At least nine people were killed and nearly 3,000 wounded when pagers used by Hezbollah members detonated simultaneously across Lebanon on Tuesday. Images of destroyed pagers analysed by Reuters showed a format and stickers on the back that were consistent with pagers made by Gold Apollo.
+
+[NEWS_P002] Hsu said the pagers used in the explosion were made by a company in Europe that had the right to use the Taiwanese firm's brand. (Reporting by Ben Blanchard; Editing by Tom Hogue)

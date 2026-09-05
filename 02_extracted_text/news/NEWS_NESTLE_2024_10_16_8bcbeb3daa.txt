@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI drops 10pts after global tech decline
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/16/fbm-klci-drops-10pts-after-global-tech-decline
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysian stocks dropped on Wednesday after Wall Street subsided from record highs on sharp selling in technology stocks. The FBM KLCI fell 10.15 points to 1,641.82 in the early session while the market registered 657 stocks in the red in a volatile session marked by profit-taking as investors practised caution in the lead-up to the tabling of Budget 2025. All the broader market sectors were in negative territory, with steep losses seen in financial services, plantations and property.
+
+[NEWS_P002] The market trading volume was 1.46 billion shares valued at RM1.08bil. According to Reuters, US officials have been considering a cap on export licences for AI chips, while Dutch chip equipment maker ASML forecast disappointing sales for 2025, despite a boom in AI-related chips. Meanwhile, investors are reviewing their risk portfolios as nerves turn jittery ahead of the Nov 5 US elections In Asian markets, Japan's Nikkei was down 1.74% to 39,217 amid the rout in semiconductor plays.
+
+[NEWS_P003] China's composite index, meanwhile was up 0.4% to 3,214 and Hong Kong's Hang Seng rose 0.9% to 20,501. On Bursa Malaysia, bank shares were down, led by CIMB falling eight sen to RM8.17, Maybank dropping four sen to RM10.62, Public Bank sliding three sen to RM4.45 and Hong Leong Bank falling six sen to RM21.24. Consumer giant Nestle, meanwhile, shed RM1.70 to RM104.30 and Press Metal dropped 11 sen to RM4.71. Of actives, Tanco shed 14 sen to RM1.36, Sime Darby Property slid six sen to RM1.49 and Capital A rose four sen to 97.5 sen.

@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit weakens against US dollar on profit-taking, policy jitters
+
+[METADATA]
+ticker: CIHLDG
+company_name: CIHB
+publish_date: 2025-01-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/23/ringgit-weakens-against-us-dollar-on-profit-taking-policy-jitters
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit edged lower against the US dollar at Thursday's close, pressured by profit-taking after Wednesday's gains and ongoing uncertainties over US President Donald Trump’s policies. At 6 pm, the ringgit weakened to 4.4420/4465 against the greenback, compared with Wednesday’s close of 4.4340/4400. Bank Muamalat Malaysia Bhd chief economist Dr. Mohd Afzanizam Abdul Rashid noted that the USD/RM pair stood at RM4.4378 during the early session but gradually weakened to RM4.4493 by the afternoon.
+
+[NEWS_P002] He attributed the movement to profit-taking following the ringgit’s recent sharp appreciation, compounded by lingering uncertainties over President Trump’s policies. Trump is set to deliver a speech at the World Economic Forum tonight (Malaysian time), which is expected to be closely watched by traders for insights into his protectionist stance. "Thus far, his approach has been mild and guarded. A sudden shift could prompt traders and investors to seek safe-haven currencies,” he told Bernama.
+
+[NEWS_P003] At the close, the ringgit rose against other major currencies. It edged higher against the Japanese yen to 2.8429/8461 from Wednesday’s 2.8480/8522, appreciated against the euro to 4.6246/6293 from 4.6313/6376, and strengthened against the British pound to 5.4703/4759 from 5.4822/4896. Meanwhile, the local note traded mixed against ASEAN currencies. It was almost flat against the Indonesian rupiah at 272.7/273.1 from 272.3/272.8, strengthened against the Philippine peso to 7.57/7.58 from 7.58/7.59, edged up against the Thai baht to 13.0582/0779 from 13.1106/1345, but depreciated against the Singapore dollar to 3.2794/2770 from 3.2781/2828.
+
+[NEWS_P004] - Bernama

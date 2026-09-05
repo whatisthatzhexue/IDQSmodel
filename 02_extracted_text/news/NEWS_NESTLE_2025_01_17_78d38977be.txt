@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI bounces back, TNB leads gains
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/17/fbm-klci-bounces-back-tnb-leads-gains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The benchmark FBM KLCI changed gears in late-morning trade to bounce higher, raising hopes the benchmark will end the week with a partial retracement of earlier losses. At 12.30pm, the FBM KLCI was up 7.35 points to 1,562.89, offering meagre relief to investors that had seen the index plunge nearly 50 points from Monday to Thursday. The rebound on the market, however, was confined mostly to the leading blue chips. Over the broader market, the number of laggard stocks continued to outweigh the gainers, 518 to 350.
+
+[NEWS_P002] Turnover was 1.86 billion shares changing hands for RM1.56bil. The mood in Asian equity markets has been sour of late, as investors awaited the inauguration of President-elect Donald Trump on Monday while speculation over the future interest rate environment in the US reached a fever pitch amid the release of inflation data. Japan's Nikkei remained subdued as investors took the benchmark 0.61% lower to 38,388. China's composite index was up 0.4% to 3,248 and Hong Kong's Hang Seng rose 0.17% to 19,556.
+
+[NEWS_P003] Singapore's Straits Times climbed 0.38% to 3,815. Despite the tepid regional sentiment, analysts say Malaysian equities have been oversold, and are open to bargain-hunting given current trading levels. On Bursa Malaysia, Tenaga Nasional led gains, rising 44 sen to RM13.56, while Press Metal climbed 10 sen to RM4.90. Gamuda pared its losses from earlier in the session but remained 13 sen lower at RM4.13. Nestle slipped 18 sen to RM92.30. Among the most active counters, Salutica saw its intraday short-selling activities suspended after it fell more than 15 sen in morning trade.
+
+[NEWS_P004] As at midday, the share was down 13.5 sen to 28.5 sen.

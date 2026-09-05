@@ -1,0 +1,187 @@
+document_id: MDA_2658_AJI_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 52, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 168.499, "paragraph_count": 52, "paragraph_length_distribution": {"max": 2052, "mean": 538.481, "min": 19}, "repetition_ratio": 0.019231, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION & ANALYSIS
+Inauguration of
+Effluent Treatment
+Management
+(SALAM)
+Corporate name
+was changed to
+Ajinomoto
+(Malaysia)
+Sdn Bhd
+Company name
+was changed to
+Ajinomoto
+(Malaysia) Berhad
+as the public
+company
+Commencement of
+AJI-NO-MOTO®
+plant operation
+Awarded HALAL
+Certification
+Establishment
+of ASEAN
+Application
+Centre
+Launch of AJI-SHIO®
+Table Topping
+Seasoning
+• Launch of PAL SWEET®
+Sweetener
+• Launch of Hydrolysed
+Vegetable Protein (HVP)
+Powder
+Launch of
+AJI-PLUS™
+Blended Flavour
+Enhancer
+Launch of
+AJI.MIX™
+Blended
+Seasoning
+Awarded
+ISO 9001
+Certification
+Launch of
+TUMIX® Stock
+Seasoning
+• Launch of
+VONO®
+Instant Soup
+• Launch of
+ACTIVA™ TG
+Series
+Awarded
+OSHAS 18001
+Certification
+50th
+Anniversary
+of Ajinomoto
+(Malaysia)
+Berhad
+Establishment
+of Chicken
+Meat
+Powder Plant
+Hydrolysed
+Vegetable
+Protein (HVP)
+process
+improvement
+Launch of
+Seri-Aji® Menu
+Specific
+Seasoning
+Launch of Slim Up™
+Sweetener
+Awarded
+HACCP
+Certification
+Awarded
+ISO 14001
+Certification
+Launch of
+AJINOMOTO®
+Chicken Stock
+Launch of
+AJI-AROMA™
+Flavour Enhancing
+Seasoning
+Establishment
+of Ajinomoto
+(Malaya)
+Co., Ltd
+Launch of AJI-EKI™
+(Hydrolysed
+Vegetable Protein
+Liquid)
+• Establishment of Production
+2 (seasonings and food
+production line) factory
+• Launch of AJIMATE™ Taste
+Enhancing Seasoning
+• Awarded AJI-NO-MOTO®
+Product Certification
+• Launch of
+Rasa Sifu™
+All in One
+Seasoning
+• Launch of
+aminoVITAL®
+Jellly Flavoured
+Drink with
+Amino Acids
+• Launch of Seri-Aji®
+Fritter Seasoned
+Flour
+• Launch of Seri-Aji®
+Banana Fritter Flour
+Establishment of new
+plant at Bandar Enstek,
+Negeri Sembilan, as a
+'Global
+Customer-Centric Halal
+Food Company'
+• Launch of Seri-Aji® Curry Fried Rice Seasoning
+and Seri-Aji® Chicken Soup Seasoning Powder
+Launch of AJINOMOTO® Chicken Gyoza
+Launch of AJIRISE™ K and AJIRISE™ UM
+Our Business
+History & Milestones
+$MLQRPRWR
+0DOD\VLD
+%HUKDG
+´WKH&RPSDQ\µ
+ÀUVWVWDUWHGLWVEXVLQHVVRSHUDWLRQLQ0DOD\VLDLQ
+DVDPRQRVRGLXP
+glutamate (“MSG”) distributor imported from its parent company in Japan under the brand, AJI-NO-MOTO®.
+[MDA_P014]
+Exchange Rate Fluctuations
+[MDA_P027]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W)
+ANNUAL REPORT 2023
+DIRECTOR’S
+PROFILE
+TAN SRI DATO’ (DR.) TEO CHIANG LIANG
+Chairman,
+Non-Independent Non-Executive Director
+72, Malaysian, Male
+Tan Sri Dato' (Dr.) Teo was appointed to the Board of Ajinomoto
+(Malaysia) Berhad on 28 June 2001 as Independent Non-Executive
+Director. On 4 June 2020, he was appointed as Chairman of
+Ajinomoto (Malaysia) Berhad. At the same time, Tan Sri Teo was re-
+designated as a member of the Audit Committee from his previous
+position as the Chairman, and as the Chairman of the Remuneration
+Committee from his previous position as a committee member. He is
+also a member of the Nomination Committee. On 31 May 2023, he
+was re-designated from an Independent Non-Executive Chairman to
+a Non-Independent Non-Executive Chairman of the Company. He
+DWWHQGHGDOOÀYH
+[MDA_P040]
+%RDUG PHHWLQJV KHOG LQ WKH
+ÀQDQFLDO\HDU+HLVQRWDPHPEHURIDQ\%RDUG&RPPLWWHH
+Mr. Sasaki graduated from Hitotsubashi University with a Bachelor of
+Social Sciences Degree from the Faculty of Social Sciences in the year
+2000.
+He joined Ajinomoto Co., Inc., Japan in 2000 and began his career with
+the Tokyo Branch and has held various positions in Japan within the
+Ajinomoto Group of Companies, with almost 15 years in the areas of
+ÀQDQFHWUHDVXU\DFFRXQWLQJDQGWD[
+He does not hold directorships in any other public company and listed
+LVVXHU +H KDV QR FRQÁLFW RI LQWHUHVW ZLWK WKH &RPSDQ\ RU DQ\ IDPLO\
+relationship with any other Director or shareholder of the Company. He
+KDVDOVRQHLWKHUEHHQFRQYLFWHGIRUDQ\RIIHQFHVZLWKLQWKHSDVWÀYH
+[MDA_P052]
+\HDUV
+RWKHUWKDQIRUWUDIÀFRIIHQFHVLIDQ\QRUUHFHLYHGDQ\SXEOLFVDQFWLRQRU
+SHQDOW\LPSRVHGE\UHJXODWRU\ERGLHVGXULQJWKHÀQDQFLDO\HDU

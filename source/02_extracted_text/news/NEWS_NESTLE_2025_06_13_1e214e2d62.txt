@@ -1,0 +1,18 @@
+[TITLE]
+Geopolitical and trade uncertainties weigh on Bursa Malaysia
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/13/geopolitical-and-trade-uncertainties-weigh-on-bursa-malaysia
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia finished lower at midday as investors adopted a cautious stance amid escalating tensions in the Middle East. Adding to the downbeat mood, concerns over U.S. trade policies under President Donald Trump have further heightened market uncertainty. At lunch break, the FBM KLCI declined 8.59 points, or 0.56% to 1,518.03, recovering from an intra-morning low of 1,515.10. Market breadth was negative, with losers overwhelming gainers 798 to 177, while 357 counters remained unchanged.
+
+[NEWS_P002] Total traded volume stood at 1.94 billion shares valued at RM1.07bil. Malaysian Pacific Industries , the biggest loser on Bursa Malaysia tumbled RM1.16 to RM19.86. Nestle slid 98 sen to RM75.40, Carlsberg declined 44 sen to RM19.18 and Allianz fell 38 sen to RM19.02. United Plantations rose 20 sen to RM22, Petron gained 15 sen to RM3.89, Kuala Lumpur Kepong added 14 sen to RM19.78 and Heng Yuan climbed 12 sen to RM1.84. TA Securities said market sentiment is likely to remain cautious as investors react to President Donald Trump’s announcement that the US will be sending letters to its trading partners in the coming weeks, signalling the intent to impose unilateral tariffs.
+
+[NEWS_P003] “Immediate index support stays at 1,490, while stronger supports can be found at 1,465 and 1,444. “Immediate resistance remains at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead,” it said. Meanwhile, SPI Asset Management’s Stephen Innes said the Middle East conflict has ignited global markets. Israel’s airstrikes deep into Iran mark the most severe escalation in a long-running regional conflict — with real flames now breaking out.
+
+[NEWS_P004] “Equity futures are plummeting. Bond yields are sinking. Gold and oil are skyrocketing. Brent crude futures are racing toward the mid-US$70s range—but if the Strait of Hormuz, which accounts for 20% of global oil flows, finds itself in the blast radius, you can add another US$15 to the bid. Tonight, it just might,” he said, adding that the war premium has returned—and this time, it may persist for a while.

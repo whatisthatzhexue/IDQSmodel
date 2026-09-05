@@ -1,0 +1,14 @@
+[TITLE]
+Selling on Bursa Malaysia continues following Wall St plunge
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/07/selling-on-bursa-malaysia-continues-following-wall-st-plunge
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The weakness on the domestic stock market persisted on Friday following a plunge on Wall Street overnight amid the uncertainty over US tariffs. At the opening bell, the benchmark FBM KLCI dropped 3.16 points to 1,555.75. Bank stocks remained mixed on Friday following the decline in the previous session. CIMB rose five sen to RM7.55 while RHB dropped three sen to RM6.88 and Hong Leong Bank slid 10 sen to RM20.80. Malacca Securities Research said the sell-off in banking stocks yesterday has opened a buying opportunity.
+
+[NEWS_P002] "Since the OPR remains unchanged, banks’ net interest margins are expected to stay stable, supporting steady earnings. "Also, banking stocks offer consistent dividend payouts, making them attractive for long-term investments," it said in a note. Meanwhile, Nestle shares halted their decline to bounce 28 sen higher to RM73.28. Top actives were Key Asic up 0.5 sen ot 4.5 sen, Oppstar jumping 15.5 sen to 63 sen and TWL unchanged at 2.5 sen. Separately, Rakuten Trade said sellers had emerged on the FBM KLCI, leading to its projection that the index will trade within a narrow range of 1,555-1570 today.

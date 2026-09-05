@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends flat, logs weekly loss on tariff jitters
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/11/fbm-klci-ends-flat-logs-weekly-loss-on-tariff-jitters
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The local bourse finished little changed on Friday, wrapping up a weak week marked by losses on all days except Thursday, as investors digested Bank Negara’s OPR decision and ongoing tariff concerns. The FBM KLCI ended nearly flat, slipping 0.45 of a point or 0.03% to close at 1,536.07, bringing its weekly decline to 14.12 points, or 0.91%. During the day, the benchmark index moved within an 11.17-point range, hitting an intraday high of 1,541.94 and a low of 1,530.77.
+
+[NEWS_P002] On Bursa Malaysia, 510 stocks advanced, 450 declined, and 532 were unchanged, with a total volume of 3.37 billion shares worth RM2.3bil. Among the decliners, Nestle tumbled RM1.42 to RM77.38, Hong Leong Bank fell 22 sen to RM19.18, Kuala Lumpur Kepong lost 18 sen to RM20.66 and YTL Power declined 18 sen to RM4.12. Axiata emerged as the top gainer on Bursa Malaysia, rising 21 sen to RM2.56. United Plantations gained 14 sen to RM21.74, Hong Leong Industries rose 14 sen to RM13.80 and Inari climbed 12 sen to RM2.03.
+
+[NEWS_P003] ACE market debutant A1 AK Koh Group closed down 0.5 sen, or 2% to 24.5 sen with 29.62 million shares traded. The ringgit weakened on the forex market, slipping 0.16% to 4.2528 against the US dollar and edging down 0.05% to 3.3214 against the Singapore dollar. Among the key regional markets: Japan’s Nikkei 225 closed down 0.19% to 39,569.68; Hong Kong’s Hang Seng Index rose 0.46% to 24,139.57; China’s CSI 300 Index advanced 0.12% to 4,014.81; Taiwan’s Taiex added 0.25% to 22,751.03; South Korea’s Kospi closed down 0.23% to 3,175.77 and; Singapore’s Straits Times Index rose 0.38% to 4,087.81 points.

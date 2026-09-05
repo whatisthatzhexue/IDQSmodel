@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI falls for fourth straight day, down 5.42 points
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-09-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/05/fbm-klci-falls-for-fourth-straight-day-down-542-points
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed in the red, marking its fourth consecutive session in negative territory, as concerns over the growth outlook in the US weighed on sentiment. At closing, the 30-stock index fell 0.32%, or 5.42 points to 1,664.82, recovering from its intraday low of 1,663.18. In the broader market, losers outnumbered gainers with 796 stocks ending lower and 323 stocks finishing higher, resulting in a market breadth of 0.40, indicating the bears were in control.
+
+[NEWS_P002] About 3.3 billion shares, valued at RM3.4bil, changed hands. Earlier, Bank Negara kept the overnight policy rate (OPR) unchanged at 3% after concluding its two-day Monetary Policy Committee (MPC) meeting. “At the current OPR level, the monetary policy stance remains supportive of the economy and is consistent with the current assessment of inflation and growth prospects. “The MPC remains vigilant to ongoing developments to inform the assessment on the domestic inflation and growth trajectories.
+
+[NEWS_P003] The MPC will ensure that the monetary policy stance remains conducive to sustainable economic growth amid price stability,” Bank Negara said in a statement. On Bursa Malaysia, Nestle slid 90 sen to RM103, Malaysian Pacific Industries fell 60 sen to RM27.90 and Panasonic Manufacturing lost 54 sen to RM18.28. United Plantations rose 66 sen to RM26.60, Carlsberg added 54 sen to RM19.72 and Allianz gained 20 sen to RM20.50. ACE Market debutant, Steel Hawk jumped 130%, or 19.5 sen to 34.5 sen with 120.95 million shares traded.
+
+[NEWS_P004] Meanwhile, the intraday short selling (IDSS) of UWC Bhd and D & O Green Technologies Bhd shares has been suspended after their last done price dropped more than 15% or 15 sen from their reference price. Bursa Malaysia announced on its website that the IDSS for these companies’ shares will be reactivated at 8:30 a.m. on Sept 6. UWC fell 19 sen to RM1.85 while D&O tumbled 43 sen to RM2.13. Meanwhile, Brent crude oil added 58 cents to US$73.28 a barrel while US crude oil futures climbed 53 cents to US$69.73 per barrel.
+
+[NEWS_P005] Asian bourses closed broadly lower today, with Japan's Nikkei 225 losing 1.05%, South Korea’s Kospi fell 0.21%, Hong Kong’s Hang Seng closed down 0.07% and China’s CSI300 Index rose 0.17%.

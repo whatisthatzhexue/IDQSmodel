@@ -1,0 +1,18 @@
+[TITLE]
+F4GBM Index expands with 26 constituents, F4GBMS Index adds 24
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-12-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/11/f4gbm-index-expands-with-26-constituents-f4gbms-index-adds-24
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia Bhd has announced 26 inclusions to the constituents of the FTSE4Good Bursa Malaysia (F4GBM) Index and 24 inclusions to the FTSE4Good Bursa Malaysia Shariah (F4GBMS) Index. In a statement today, the exchange said the 26 inclusions and six exclusions from the F4GBM Index bring the number of constituents to 180 for the December 2025 review period. The F4GBMS Index will see 24 inclusions and 10 exclusions, bringing the index’s constituent count to 139, it added.
+
+[NEWS_P002] "All constituent changes will take effect at the start of business on Dec 22, 2025 (Monday),” Bursa Malaysia said. Among the inclusions in the F4GBM and the F4GBMS Indices are Ajinomoto (M), Ajiya , Aurelius Technologies, BM Greentech and Dagang Nexchange . Exclusions in both indices are Carimin Petroleum, Comfort Gloves, Frase and Neave Holdings, Hextar Healthcare, Innature and Tasco, with additional exclusions in F4GBMS being Eastern & Oriental, Hengyuan Refining Company, Malayan Flour Mills and Star Media Group.
+
+[NEWS_P003] The F4GBM Index measures the performance of public listed companies (PLCs) with strong environmental, social and governance (ESG) practices with constituents drawn from within the FTSE Bursa Malaysia EMAS Index, comprising eligible PLCs from small, medium and large market capitalisation segments. Separately, the F4GBMS Index tracks shariah-compliant constituents in the F4GBM in accordance with the Shariah Advisory Council screening methodology. Both indices are reviewed semi-annually in June and December, against established, globally recognised criteria used by FTSE Russell.
+
+[NEWS_P004] - Bernama

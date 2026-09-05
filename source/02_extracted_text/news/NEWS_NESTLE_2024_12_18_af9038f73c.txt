@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI rebounds, ending two-day losing streak amid regional gains
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-12-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/18/fbm-klci-rebounds-ending-two-day-losing-streak-amid-regional-gains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI rebounded today, snapping a two-day losing streak amid broadly higher regional markets. At closing, the 30-stock index advanced 2.24 points or 0.14% to 1,599.58. The market traded within a range of 7.63 points between an intra-day high of 1,602.38 and a low of 1,594.75 during the session. Stocks that fell outnumbered those that rose 501 to 480, with another 562 counters unchanged. A total of 2.5 billion shares changed hands, worth RM2.3bil.
+
+[NEWS_P002] Among the gainers, Nestle surged RM1.20 to RM99, United Plantations jumped 90 sen to RM33.30, Tenaga Nasional rose 28 sen to RM14.08 and Carlsberg added 20 sen to RM20.64. PETRONAS Dagangan, the biggest loser on Bursa Malaysia slid 30 sen to RM20.24. Ayer fell 27 sen to RM7.20, Kotra Industries lost 18 sen to RM4.40 and Kuala Lumpur Kepong declined 16 sen to RM21.44. Carlo Rino, the most actively traded counter on Bursa Malaysia fell 14.81%, or four sen to 23 sen with 139.38 million shares done.
+
+[NEWS_P003] Meanwhile, stock market data showed that foreign investors sold a net RM368mil on Tuesday. Local institutions and retailers were net buyers, with RM316mil and RM51mil, respectively. On the forex market, the ringgit was down 0.02% against the greenback to 4.4675. The local currency has depreciated by 0.02% against the Singapore dollar, now at 3.3076 and by 0.02% against the pound sterling at 5.6690. Across the region, MSCI's Asia ex-Japan stock index was up by 0.31%.
+
+[NEWS_P004] Japan’s Nikkei 225 fell 0.72% to close at 39,081.71 while South Korea’s Kospi ended 1.12% higher at 2,484.43. Hong Kong’s Hang Seng Index added 0.83%, China’s CSI 300 Index gained 0.51% to 3,941.89 while Shanghai Composite Index closed up 0.62% to 3,382.21.

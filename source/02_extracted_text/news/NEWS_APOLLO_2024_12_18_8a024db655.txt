@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI opens lower; Carlo Rino debuts as most active stock
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-12-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/18/fbm-klci-opens-lower-carlo-rino-debuts-as-most-active-stock
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI opened on a downbeat note this morning, following Wall Street’s overnight slump. The benchmark index fell 0.3 of a point, or 0.02% to 1,597.03. It opened flat at 1,597.33 earlier. Overnight, the Dow Jones Industrial Average fell 0.61% to 43,449.90, the S&P 500 slid 0.39% to 6,050.61 and the Nasdaq Composite dropped 0.32% to 20,109.06. Philip Research expects the index to consolidate above the uptrend line before potentially rebounding to test the resistance level.
+
+[NEWS_P002] “Immediate support is positioned at 1,591 points, with secondary support at 1,567 points,” it added. Meanwhile, Inter-Pacific Research expects near-term market conditions to remain subdued due to the ongoing selldown of index-linked stocks by foreign institutional players. This suggests that firmer window dressing activities are becoming increasingly unlikely at this point due to the heightened selling pressure. While local institutions are offering some support, their buying has been fragmented and selective, making it unlikely to provide a significant boost to the key index.
+
+[NEWS_P003] “With the key index’s inability to gather significant traction, the insipid trend is likely to continue for now and this could still leave the key index below the 1,600 level for the time being. “The supports are now at the 1,590-1,593 levels, followed by the 1,585 level, which would also be the key index’s lowest level since August this year. “The hurdles, meanwhile, are at 1,600 points and the 1,603-1,608 levels respectively,” Inter-Pacific said.
+
+[NEWS_P004] It added that the recent recovery in lower liners has come to an end, with profit-taking activities likely to dominate for now. Amid limited buying momentum and market cues, investors may find more incentive to lock in profits ahead of the year-end. Malaysian Pacific Industries slid 36 sen to RM26.04, Heineken fell 28 sen to RM23.70, Apollo Food eased 21 sen to RM6.50 and Tomei declined nine sen to RM1.49. Among the gainers, United Plantations rose 36 sen to RM32.76, F&N added 34 sen to RM27.88, Petron gained 10 sen to RM4.21 and PIE Industrial climbed seven sen to RM6.25.
+
+[NEWS_P005] ACE Market debutant Carlo Rino fell 16.67%, or 4.5 sen to 22.5 sen. It is the most active counter on Bursa Malaysia with 42.32 million shares done.

@@ -1,0 +1,26 @@
+[TITLE]
+Stronger 2H likely for KLK on robust FFB output
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2024-05-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/23/stronger-2h-likely-for-klk-on-robust-ffb-output
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Analysts expect Kuala Lumpur Kepong Bhd (KLK) to post stronger second half-year results for the financial year 2024 (2H24), despite the group’s disappointing second quarter (2Q24) performance, which missed consensus expectations. In 2Q24, KLK posted a core net profit of RM155mil, down 31.1% quarter-on-quarter (q-o-q) and falling 39.4% year-on-year (y-o-y), which dragged 1H24 earnings to RM380mil, a significant drop of 55.1%. Despite KLK’s weak performance year-to-date, Hong Leong Investment Bank (HLIB) Research said in a report: “We reckon that 2H24 performance would come in strong vis-a-vis 1H24, supported by an anticipated improvement in fresh fruit bunch (FFB) output.” KLK’s management has kept its FFB output growth guidance of 14% for FY24, versus 8.3% growth in 1H24, added the research house.
+
+[NEWS_P002] Other positive factors include gradual improvement at the manufacturing segment, particularly in Europe, and gradual performance recovery at its British chemical company Synthomer Plc following its move to streamline operations. However, HLIB Research has lowered the group’s FY24-FY25 core net profit forecasts by 18.6% and 7%, respectively, as it lowered the earnings before income tax margin assumptions for the manufacturing segment. Post-earnings revision, the research house said it maintained a “buy” call on the stock with a lower target price (TP) at RM24.22 from RM24.41 previously.
+
+[NEWS_P003] RHB Research, which kept a “buy” call on KLK with a new TP of RM24.70, also expects a stronger 2H24 results for the group. “Earnings should improve in 2H24 from stronger FFB output and downstream earnings, while its associate profits seem to be turning the corner,” it noted. Having said that, RHB Research has lowered the forecast FY24-FY26 earnings by 12%-22%, after adjusting for higher associate losses, lower investment income and higher effective tax rates.
+
+[NEWS_P004] Synthomer’s profits are expected to improve in 2H24, given the lower net debt (post-rights issue) and streamlining of its operations, it added. The brokerage firm has also lowered KLK’s property division’s return on net asset value discount to 60% from 70% previously to be in line with the current market value, while keeping all other parameters unchanged. Valuation-wise, KLK remains attractive at 20.7 times FY25 price-to-earnings ratio (PER) versus its big-cap peer range of 20 times to 25 times.
+
+[NEWS_P005] Meanwhile, Kenanga Research has cut KLK’s FY24-FY25 net profit forecasts by 21% and 9%, respectively, on larger losses from Synthomer. “However, upstream earnings are expected to pick up on firm crude palm oil prices and easing cost pressures,” it said, adding that net gearing should stay manageable, hence the net dividend per share of 50 sen is still expected over the FY24-FY25 period. Correspondingly, Kenanga Research has reduced KLK’s TP by 9% to RM21 from RM23 earlier, based on a rolled-forward 16 times FY25 PER, in line with the sector’s average.
+
+[NEWS_P006] Similarly, TA Research has revised its FY24 and FY25 earnings forecast lower by 16.4% and 13%, respectively, after factoring in lower contributions from KLK’s manufacturing division and higher tax rate. Meanwhile, it also introduced FY26 earnings forecast of RM1.4bil, up 12.4% y-o-y. For KLK’s plantation division, TA Research said: “We anticipate the movement of palm oil prices in the coming months will be influenced by both palm oil production in key producing countries (Malaysia and Indonesia) and weather patterns in the primary soybean-growing regions of Brazil and Argentina.” As for the group’s oleochemical segment, it believes the challenge remains due to oversupply, which exerted pressure on prices.
+
+[NEWS_P007] “However, management has guided that sales and demand are rising, especially in Europe, with reduced costs. The group remains cautious and vigilant to face persistent industry and global headwinds,” TA Research noted. Furthermore, KLK’s management is cautiously optimistic about its FY24 outlook and expects that the earnings will be negatively impacted by the losses incurred at its associate Synthomer as well as the below-par contribution from the manufacturing segment.
+
+[NEWS_P008] TA Research has upgraded the stock to a “hold” call from a “sell” with a higher TP of RM23.83 from RM21.50 previously.

@@ -1,0 +1,22 @@
+document_id: MDA_5008_HARISON_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 53, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P052]
+Strategies and Future Profit Growth
+The distribution business of our Fast-Moving Consumer Goods becomes more challenging in days ahead
+as more distribution players emerge to compete in the East Malaysia market. We will continue to focus on
+serving our customers better by improving staff competencies to ensure high service standards are offered
+to our customers and principals. We will also focus and strategise to secure new agencies and brands to
+complement our diversified agencies portfolio. We have completed our Enterprise Resource Planning (ERP) to manage and integrate important parts of
+our business for Sabah successfully in FY2022. We have commenced implementing our ERP systems in
+Sarawak in FY2023 and expects to roll out in FY2024. This technology upgrades will enhance efficiencies
+in our operations to serve our customers and principals effectively. Prospects
+We expect slow global growth, price of goods to increase and local affordability to impact the domestic
+economy in 2024. We also appreciate that the Fast-Moving Consumer Products is more resilient and less
+impacted by moderate price increase.
+[MDA_P053]
+As such, we remain confident that our medium to long term outlook
+of our trading and distribution business remains positive and is well positioned to grow. MANAGEMENT DISCUSSION AND ANALYSIS (CONT’D)

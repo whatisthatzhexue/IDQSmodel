@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit closes higher vs US dollar amid escalating trade tensions
+
+[METADATA]
+ticker: ETA
+company_name: Annual Report 2020
+publish_date: 2025-07-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/10/ringgit-closes-higher-vs-us-dollar-amid-escalating-trade-tensions
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit rebounded to end higher as the US dollar fluctuated on Thursday amid rising trade tensions after the United States government issued new tariff threats on the global market, an analyst said. At 6 pm, the local note rose to 4.2410/2505 against the greenback from Wednesday’s close of 4.2500/2540. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the US Dollar Index fell 0.12 per cent as Donald Trump announced that he will impose an import tariff of 50 per cent for copper effective Aug 1.
+
+[NEWS_P002] "Such disruptive policies are set to raise the cost of doing businesses in the US and ultimately would undermine the long-term growth trajectory as prolonged uncertainties could take a serious toll on business," he told Bernama. In the meantime, investors will shift their focus on the release of initial US jobless claims data later today as it stands out as a crucial economic indicator that could sway market dynamics. At the close, the ringgit was mostly higher against a basket of major currencies.
+
+[NEWS_P003] It strengthened against the British pound to 5.7716/7845 from 5.7787/7842 at Wednesday's close and was slightly higher versus the euro to 4.9751/9863 from 4.9780/9827. However, it slipped against the yen to 2.9014/9081 from 2.8983/9012 previously. The local note was mixed against ASEAN currencies. It improved vis-à-vis the Singapore dollar to 3.3159/3236 from 3.3182/3219 yesterday but decreased versus the Thai baht to 13.0196/0548 from 12.9946/13.0128.
+
+[NEWS_P004] The ringgit traded flat against the Indonesian rupiah at 261.3/262.1 and was also unchanged versus the Philippine peso at 7.51/7.53. - Bernama

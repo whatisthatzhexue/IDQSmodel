@@ -1,0 +1,65 @@
+document_id: MDA_0212_SDS_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 157.824, "paragraph_count": 14, "paragraph_length_distribution": {"max": 1199, "mean": 1085.429, "min": 713}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+“
+”
+OVERVIEW & JOURNEY IN THE NEW NORMAL
+From an operational angle, FYE 2022 has been a challenging year as the nation went through different
+Movement Control Order (MCO) phases. The constant adjustment to the Group’s operating procedures
+to ensure compliance with the Government’s Standard Operating Procedures (“SOPs”) was felt heavily
+especially in the retail channel, owing to the fact that the Group has significant Food and Beverage
+("F&B") components offering dine-in experiences for a variety of cuisines. Despite this challenge, the Group has managed to open 2 new outlets in Bandar Seri Putra, Selangor
+and Taman Nusantara, Johor while the wholesale channel set up another distribution centre in Gua
+Musang, Kelantan, bringing the Group’s total to 20 centres in 10 out of the 11 states in Peninsular
+Malaysia. The Group’s journey in FYE 2022 was a continuing story of operating under lockdown conditions,
+particularly in the early part of the financial year under review.
+[MDA_P004]
+During this quiet period, which lasted up till the middle of FYE 2022, the Group intensified its F&B’s research and
+development ("R&D") programs, swinging into full roll out once the Government announced the easing of pandemic
+restrictions. Its refinement of products and offerings, along with a new café menu was incubated during this period. On the operation front, the business development team looked into new potential locations for expansion, while
+simultaneously renegotiating existing tenancy agreements with malls and landlords for rebates and rental relief during
+this period. The wholesale channel was also affected by the COVID-19 restrictions as there was lower demand for wholesale bakery
+products from customers due to the closure of hotels, schools, factory canteens and others. This knock-on effect to the
+Group’s order book allowed for some corresponding strategies including:
+a. The review of distribution networks and reorganisation of sales distribution routes of affected delivery vehicles;
+b. Expansion of coverage area by sourcing new customers;
+c. Promotional marketing campaigns at local and regional retail chains to boost sales; and
+d.
+[MDA_P008]
+FINANCIAL PERFORMANCE & KEY CORPORATE HIGHLIGHTS
+The Group’s year-on-year trend shows strong performance with a healthy revenue growth of 14.1% from RM173.78 million
+in FYE 2021 to RM198.28 million in FYE 2022. This has in turn reflected on the Group’s PAT of RM10.62million in FYE 2022
+as compared to RM7.27 million in FYE 2021, representing an improvement of 46.0%. All in all, the Group’s financial performance is mainly attributable to a variety of internal and external factors, chief of
+which was the gradual easing of lockdown and increase of economic activities through FYE 2022. The return to a new
+normal saw the increase of footfall in the retail channel and the reopening of schools, factory canteens and interstate
+borders all helped bolster the Group’s order book and increased the demand for wholesale channel. The Group’s recognition of the higher profit is in line with its realisation of higher revenue. Along with the Group’s
+effective cost management in controlling the challenges from the pandemic, its sales planning allowed the Group to
+reduce the goods returned rate. All these translates to more accurate profit realisation from its sales channels. 016 | ANNUAL REPORT 2022
+[MDA_P011]
+KEY BUSINESS OPPORTUNITIES & CHALLENGES
+Among the key business opportunities that have presented itself to the Group include the influx of customers from
+Singapore to the Johor outlets the moment international borders were reopened. The surge in human traffic reflected
+the growth in demand from the F&B retail segment. The gradual easing into the new normal also presents an opportunity
+for the Group to enhance its geographical footprint particularly in the Central Region of Peninsular Malaysia for new retail
+outlets and the Northern Region of Peninsular Malaysia for new distribution centres. In fact, as recent as June 2022, the
+Group has opened a new distribution centre in Alor Setar, Kedah. The R&D arm of the Group continues to introduce new
+F&B offerings to meet the customers’ tastes and expectations. In the meantime, the Group is cognisant of the risks and actively anticipate known business risks to the Group through
+its Risk Management framework, which is discussed in the Statement of Risk Management and Internal Control on page
+046 of this Annual Report.
+[MDA_P014]
+We have seen the recent rise in raw material prices corresponding with a surge in the consumer product
+prices. With this rise, the Group is developing strategies to mitigate this impact, using a mixture of resources
+allocation and cost control management. ACKNOWLEDGEMENTS
+Throughout this past year, the Management would like thank our employees for their hard work, diligence and
+support during the unimaginable pandemic and subsequently, endemic times. The Group also wishes to thank
+the various stakeholders that have ensured the business’ success and sustainability. Though there are too many to
+name individually, we would like to thank our shareholders, investors, clients, suppliers, business partners, bankers,
+Government and Regulatory bodies for their continued support, trust and confidence in SDS Group Berhad. 018 | ANNUAL REPORT 2022

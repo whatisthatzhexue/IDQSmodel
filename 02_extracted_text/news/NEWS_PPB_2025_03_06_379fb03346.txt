@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: PPB, CIMB, SunCon, OB, Cape EMS, Capital A, Kerjaya Prospek Property, Hibiscus, Vizione, KJTS, Aeon, Magni-Tech
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-03-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/06/trading-ideas-ppb-cimb-suncon-ob-cape-ems-capital-a-kerjaya-prospek-property-hibiscus-vizione-kjts-aeon-magni-tech
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. PPB Group Bhd anticipates its core business segment, grains and agribusiness, will continue to perform satisfactorily in 2025 despite anticipated challenges and uncertainties in the global grain market. CIMB Group Holdings Bhd aims to build a leading deposit franchise to reduce the cost of funds by 10 to 20 basis points by 2030, as part of its newly unveiled six-year roadmap known as Forward30.
+
+[NEWS_P002] Sunway Construction Group Bhd 's wholly-owned subsidiary Sunway Construction Sdn Bhd has inked the deal to undertake construction works worth RM1.5bn related to the Rapid Transit System Transport Oriented Development at Bukit Chagar, Johor Bahru. OB Holdings Bhd said the group's intellectual property infringement dispute with a client has been brought before a court in the Australian state of Victoria. Cape EMS Bhd has a new single-largest shareholder after investor Chung Chee Yang bought more shares and increased his holdings to 11.1% or 110.5mn shares in the company.
+
+[NEWS_P003] AirAsia Aviation Group, the airline arm of Capital A Bhd that is being transferred to its sister company AirAsia X Bhd , is accelerating its expansion plans by adding 14 new aircraft to its fleet in 2025. Kerjaya Prospek Property Bhd has proposed a renounceable rights issue of redeemable convertible unsecured loan stocks to raise up to RM324.9mn, mainly to fund property development projects and repay bank borrowings. Hibiscus Petroleum Bhd denied that its major shareholder Datuk Michael Tan Vee Mun has disposed of his shares in the company, as claimed in several “online postings”.
+
+[NEWS_P004] Vizione Holdings Bhd has proposed a share capital reduction of up to RM500mn to eliminate its accumulated losses and strengthen its financial position. KJTS Group Bhd has secured a contract from KIP Real Estate Investment Trust to provide retrofit works, operations and maintenance services as well as chilled water supply for seven of the retail property trust’s shopping malls. Aeon Co (M) Bhd has partnered with Pacific Trustees Bhd, the trustee of KIP Real Estate Investment Trust, to expand Aeon Mall Kinta City in Perak.
+
+[NEWS_P005] Magni-Tech Industries Bhd ’s net profit for 3QFY25 rose marginally by 1.5% to RM40mn from RM39.4mn a year ago, on the back of higher foreign exchange gains of RM4.3mn and lower raw material costs, particularly in the garment segment.

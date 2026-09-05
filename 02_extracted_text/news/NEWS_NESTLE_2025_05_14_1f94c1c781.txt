@@ -1,0 +1,18 @@
+[TITLE]
+Profit-taking drags FBM KLCI into the red at midday
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/14/profit-taking-drags-fbm-klci-into-the-red-at-midday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI turned lower at midday, reversing recent gains as profit-taking activity emerged following yesterday's strong run-up. At lunch break, the benchmark FBM KLCI fell 3.55 points, or 0.22%, to 1,578.84, rebounding from an intramorning low of 1,573.44. There were 489 gainers, 401 losers and 470 counters traded unchanged on the Bursa Malaysia. Turnover stood at 2.43 billion shares valued at RM1.42bil. The top loser on Bursa Malaysia was United Plantations, which lost 48 sen to RM22.50.
+
+[NEWS_P002] Carlsberg fell 28 sen to RM19.20, Nestle eased 24 sen to RM84.76 and PETRONAS Dagangan declined 20 sen to RM20.28. Among the gainers, Malaysian Pacific Industries rose 34 sen to RM21.32, SAM Engineering added 32 sen to RM4.42, DKSH gained 27 sen to RM5.26 and Hengyuan climbed 26 sen to RM1.90. TA Securities said stocks are likely to extend gains as the improvement in US-China trade relations has abated concerns of a global trade war and is expected to support risk-on sentiment in the near term.
+
+[NEWS_P003] “Immediate support has been revised higher to 1,526, representing the 50% Fibonacci retracement (FR) of the rally from the 1,369 low (June 2023) to the 1,684 peak (August 2024), with stronger support seen at the 38.2% FR (1,490) and 23.6% FR (1,444). “Immediate resistance is also revised upwards to the 76.4% FR (1,610) with tougher upside hurdles at 1,644 and the 29/08/24 high of 1,684,” TA said. Meanwhile, Malacca Securities expects further upside in Malaysia’s technology sector, following the rally on Wall Street and renewed optimism after the US-China tariff truce.
+
+[NEWS_P004] The research house said sentiment was also lifted by news that the Trump administration has formally rescinded the Biden-era AI Diffusion Rule, which supported gains in local tech counters. On the flip side, Malacca Securities said the US-China trade deal is seen as negative for Malaysian glove players, as it makes Chinese gloves more competitively priced and may hurt demand for Malaysian gloves. “Besides, we believe trading opportunities will extend within the Steel sector like Hiap Teck, Hiap Teck and Malaysia Steel Works, as Malaysia is set to impose anti-dumping duties on steel and tinplate from China and other Asian nations,” it said.

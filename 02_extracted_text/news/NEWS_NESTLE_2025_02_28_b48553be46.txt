@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia slips on overnight fall on Wall Street
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/28/bursa-malaysia-slips-on-overnight-fall-on-wall-street
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Stocks on Bursa Malaysia fell in early trade Friday, tracking overnight losses on Wall Street. The S&P 500 dropped 1.59% to end the session at 5,861.57 points. The Nasdaq tumbled 2.78% to 18,544.42 points, while the Dow Jones Industrial Average declined 0.45% to 43,239.50 points. The FBM KLCI fell 5.99 points, or 0.38%, to 1,580.53 at 9.12 am. The index opened 6.56 points lower at 1,580.04 earlier. Inter-Pacific Research said the key index may seek near-term stability to end the week on a steadier note, though President Trump’s confirmation of import tariffs on neighbouring countries and China could keep market players cautious.
+
+[NEWS_P002] It noted that with the financial reporting season nearing its end, market players will turn to other developments for trading opportunities. “Even so, we think that further gains may become more difficult to attain as many market players will still be on a wait-and-see stance, and the key index could instead look to build up a base around 1,580-1,600 levels for the time being. “There is support at the 1,580-1,583 levels, with the ensuing support pegged at the 1,575 level.
+
+[NEWS_P003] The resistances, meanwhile, are at 1,590 and 1,595 points,” Inter-Pacific said. Meanwhile, Rakuten Trade expressed disappointment over the lack of sustainability in recent buying activity, suggesting that the benchmark index may undergo minor consolidation in the near term. “As such, we anticipate the index to hover within the 1,580-1,590 range today,” it said. Among the decliners on Bursa Malaysia, Nestle tumbled RM2.60 to RM85.40, Malaysian Pacific Industries fell 36 sen to RM18.54, ViTrox lost 29 sen to RM3.43, and Genting declined 30 sen to RM3.43.
+
+[NEWS_P004] United Plantations rose 24 sen to RM23.08, PETRONAS Gas added 16 sen to RM17.68, Negri Sembilan Oil Palms gained 15 sen to RM,4 and RHB Bank climbed 11 sen to RM6.87.

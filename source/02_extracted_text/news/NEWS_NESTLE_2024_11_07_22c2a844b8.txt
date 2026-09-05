@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI slides on profit-taking; tech and semiconductor stocks lead gains
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-11-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/07/fbm-klci-slides-on-profit-taking-tech-and-semiconductor-stocks-lead-gains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI, which opened higher this morning, gave way to profit-taking by midday, while regional markets were mixed as investors assessed the potential impact of a Donald Trump presidency. At 12:30 pm, the benchmark index fell 9.26 points, or 0.57%, to 1,624.91, recovering slightly from its intra-morning low of 1,623.30. Losers thumped gainers at 633 to 359 while 463 counters were unchanged. Turnover stood at 2.32 billion securities valued at RM1.6bil.
+
+[NEWS_P002] Nestle tumbled RM1.10 to RM100.10, F&N slid 84 sen to RM29.90, Hong Leong Financial Group lost 34 sen to RM18.46 and Kuala Lumpur Kepong declined 22 sen to RM22. On the other hand, technology and semiconductor-related stocks were among the top gainers on Bursa Malaysia. Malaysian Pacific Industries rose 80 sen to RM27.16, Inari added 20 sen to RM3.19, ViTrox climbed 18 sen to RM3.63, and Pentamaster inched up seven sen to RM4.07. Malacca Securities said given Wall Street’s strong overnight performance, we believe the "Trump Trade" could spill over to the local bourse, particularly in the technology sector in the near term.
+
+[NEWS_P003] “While we anticipate that the O&G sector may trade flat, given current crude oil prices, we maintain a positive view on glove stocks, as the ringgit is likely to depreciate in the near term following Trump’s victory. “Additionally, we favour the construction, building materials, property, and utilities sectors as we enter the corporate earnings season,” it said.

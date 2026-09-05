@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI falls for fourth day, bucking regional uptrend
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-05-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/29/fbm-klci-falls-for-fourth-day-bucking-regional-uptrend
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: While most regional markets rallied after a U.S. trade court blocked President Donald Trump’s sweeping tariffs, the FBM KLCI slipped into the red again, marking its fourth consecutive day of losses. At 5pm, the 30-stock index fell 4.5 points, or 0.3%, to 1,518.98 — just slightly above its intraday low of 1,518.38. It had earlier touched an intraday high of 1,526.94. Gainers and losers were closely balanced, with 466 gainers against 478 losers and 460 that were flat.
+
+[NEWS_P002] Volume was 3.3 billion shares, valued at RM2.22bil. Dealers expect near-term conditions to remain lacklustre due to lingering tariff headwinds and a limited number of domestic catalysts, which could keep most market participants on the sidelines for the time being. Among the losers on Bursa Malaysia, Panasonic Manufacturing slid 54 sen to RM13, Hong Leong Financial Group fell 44 sen to RM26.26, Ajinomoto eased 28 sen to RM14.24 and Hong Leong Bank declined 28 sen to RM19.62.
+
+[NEWS_P003] Conversely, Malaysian Pacific Industries surged RM1.78 to RM19.86, Hong Leong Industries gained 30 sen to RM14.30, PETRONAS Dagangan added 30 sen to RM20.50 and Batu Kawan rose 28 sen to RM19.18. In the forex market, the ringgit slipped 0.32% against the US dollar to 4.2382, and declined 0.13% versus the Singapore dollar at 3.2845. Around the region, MSCI's Asia ex-Japan stock index was firmer by 0.63%. Japan’s Nikkei 225 rose 1.88% to close at 38,432.98, South Korea’s Kospi gained 1.89% to 2,720.64, and Hong Kong’s Hang Seng Index ended 1.35% higher at 23,573.38.
+
+[NEWS_P004] China’s blue-chip CSI300 index rose 0.59% to close at 3,858.70, while the Shanghai Composite Index added 0.7% to finish at 3,363.45.

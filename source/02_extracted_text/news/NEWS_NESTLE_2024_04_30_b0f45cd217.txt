@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI steps back 0.42% as YTL Power weighs
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-04-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/30/fbm-klci-steps-back-042-as-ytl-power-weighs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI snapped its two straight sessions of gains as investors decided to take some money off the table and YTL Power weighed. At 5pm, the 30-stock index was down 6.69 points, or 0.42% to 1,575.97, its intraday low. The index gained 2.6% in April. Gainers and losers were closely balanced, with 524 gainers against 521 losers and 493 that were traded flat. Turnover was at 4.18 billion shares valued at RM3.75bil. According to data on Bursa Malaysia, foreign investors acquired RM452mil worth of local equities on Monday.
+
+[NEWS_P002] Local institutions sold RM392mil of equities while retailers disposed of RM60mil worth of equities yesterday. YTL Power slid 19 to RM4.60, and single-handedly took 2.2188 points off the FBM KLCI. YTL fell 10 sen to RM3.10. PPB lost 16 sen to RM15.74, PETRONAS Dagangan fell 16 sen to RM21.70 and PETRONAS Chemicals declined 11 sen to RM6.78. On the other hand, Nestle rose 30 sen to RM127.20, Telekom Malaysia gained six sen to RM6.19, Tenaga Nasional added four sen to RM11.96 and RHB Bank climbed three sen to RM5.50.
+
+[NEWS_P003] On the broader market, Chin Hin jumped 60 sen to RM5.90, Malaysian Pacific Industries added 30 sen to RM30.30, Dutch Lady tumbled 96 sen to RM32.86 and Crescendo lost 14 sen to RM3.60. Meanwhile, regional markets closed broadly higher. Japan’s Nikkei 225 rose 1.24% to 38,405.66 and South Korea’s Kospi gained 0.17% to 2,692.06. Hong Kong’s Hang Seng added 0.09% to settle at 17,763.03, while China’s CSI 300 Index was down 0.54% to 3,604.39.

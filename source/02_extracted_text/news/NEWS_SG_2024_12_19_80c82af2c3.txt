@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: MRCB, BCorp, WTK, YTL Power, Advancecon, Scientex, SD Guthrie, Eco World Development
+
+[METADATA]
+ticker: SG
+company_name: Saudee Group Berhad
+publish_date: 2024-12-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/19/trading-ideas-mrcb-bcorp-wtk-ytl-power-advancecon-scientex-sd-guthrie-eco-world-development
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Stocks that could see trading interest today include Malaysian Resources Corp Bhd (MRCB), Berjaya Corp Bhd, WTK Holdings Bhd , Quality Concrete Holdings Bhd (QCHB), YTL Power International Bhd , Advancecon Holdings Bhd , Scientex Bhd , SD Guthrie Bhd, and Eco World Development Group Bhd . MRCB has withdrawn from a consortium that is bidding for the proposed Kuala Lumpur-Singapore high-speed rail (KL-SG HSR) project. Berjaya Group, which is a part of the consortium via Berjaya Land Bhd , said MRCB has decided to withdraw from the consortium to pursue other strategic opportunities and hence, would no longer be part of the KL-SG HSR Consortium.
+
+[NEWS_P002] WTK has proposed to acquire a 15% stake in Durafarm Sdn Bhd for RM28.32mil cash. YTL Power’s 60%-owned subsidiary, YTL Communications Sdn Bhd (YTL Comms), has been cleared of any wrongdoing by the Malaysian Anti-Corruption Commission (MACC). The investigation was related to the 1BestariNet Internet project. QCHB has secured a contract from LCDA Real Estate Sdn Bhd for the proposed alienation, amalgamation, application for a variation of title condition and subdivision of several lots of land in Santubong, Kuching, Sarawak.
+
+[NEWS_P003] Advancecon's wholly owned subsidiary, Advancecon Infra Sdn Bhd, has secured a RM417.7mil contract from Advancecon Development Sdn Bhd, another indirect wholly owned subsidiary of Advancecon. Scientex posted a lower net profit of RM128.6mil, or earnings per share of 8.29 sen in the first quarter ended Oct 31, compared with RM137.8mil, or 8.89 sen in the year-ago quarter. Its revenue was flat at RM1.11bil. SD Guthrie, Eco World and NS Corp, representing the Negeri Sembilan state government, will be jointly developing a 1,166 acre industrial park in Bukit Pelandok, Negeri Sembilan, with a gross development value of RM2.95bil.
+
+[NEWS_P004] Overnight, US stocks plunged, with all three major indices posting their biggest daily decline in months after the Federal Reserve cut interest rates by a quarter of a percentage point. The Fed reduced rates by 25 basis points, bringing them to the 4.25%-4.50% range. The Dow Jones Industrial Average fell 2.58% to 42,326.87, the S&P 500 lost 2.95% to 5,872.16 and the Nasdaq Composite lost 3.56% to 19,392.69.

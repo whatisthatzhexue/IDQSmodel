@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI remains on track for second day of gains
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/26/fbm-klci-remains-on-track-for-second-day-of-gains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's blue chips rallied for a second successive day amid a boost in regional sentiment as investors hoped the US will be more reserved in its implementation of tariffs next week. At the end of the early session, the FBM KLCI was up 12.1 points to 1,525.7. Despite the buying in blue chips, the number of declining issuers on the market outnumbered advancers at a ratio of 1.29-to-1. The volume of shares traded was 2.16 billion for a total exchange value of RM1.17bil.
+
+[NEWS_P002] On the blue-chip index, Nestle surged RM2.34 to RM71.62, PETRONAS Dagangan gained 58 sen to RM18.98 and Axiata climbed 13 sen to RM1.91. Meanwhile, LPI Capital gained 36 sen to RM14.44 while Bursa Malaysia climbed 23 sen to RM8.03. Chemlite's debut on the ACE Market proved disappointing as it dipped two sen to 23 sen. It was the most actively traded stock on Bursa Malaysia with 47 million shares changing hands. Optimistic over Trump's announcement that there could be tariffs exmeptions for some countries on April 2, Asian markets have continued to climb higher.
+
+[NEWS_P003] China's composite index rose 0.18% to 3,375 while Hong Kong's Hang Seng gained 0.25% to 23,402. Japan's Nikkei climbed 0.58% to 25,442. In Southeast Asia, Singapore's Straits Times added 0.31% to 3,966 while Jakarta's composite index surged 3.28% to 6,443.

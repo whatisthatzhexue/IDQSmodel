@@ -1,0 +1,8 @@
+document_id: MDA_5202_MSM_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": false, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 4, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Discussion and Analysis (MD&A). In addition, corporate announcements are made to keep shareholders informed of significant developments affecting the Company, in full compliance with the Listing Requirements. The Board also ensures adherence to all applicable financial reporting standards, the provisions of the Companies Act 2016, and other relevant laws and regulations in Malaysia. We place the highest importance on upholding exemplary standards of corporate governance, transparency, and accountability. These principles are deeply embedded in our approach to conducting business and are integral to supporting our strategy. By adhering to these values, we aim to foster sustainable growth and create enduring value for our shareholders over the long term.

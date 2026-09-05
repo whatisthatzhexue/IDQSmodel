@@ -1,0 +1,14 @@
+[TITLE]
+Magma plans RCN issuance up to RM100mil
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2024-05-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/22/magma-plans-rcn-issuance-up-to-rm100mil
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Magma Group Bhd has proposed to undertake the issuance of redeemable convertible notes (RCN) with an aggregate principal amount of up to RM100mil. The group yesterday entered into a conditional subscription agreement with Advance Opportunities Fund VCC and Advance Opportunities Fund 1 (collectively, subscribers) to undertake the proposed notes. In a filing with Bursa Malaysia, Magma said the notes would mature on the date falling 36 months from the closing date of the first sub-tranche of the Tranche 1 Notes (proposed notes issue).
+
+[NEWS_P002] The proposed notes issue would be issued in three tranches, subject to the terms and conditions as set out in the subscription agreement. The proposed notes issue is expected to raise RM30mil through the issuance of Tranche 1 Notes. — Bernama

@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: TNB, LHI, MFM, PPB, UOA, SCIB, YNHP, Cape EMS, Binastra, VS Industry, Tropicana, T7, Manforce, BMS, Elsa
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/03/trading-ideas-tnb-lhi-mfm-ppb-uoa-scib-ynhp-cape-ems-binastra-vs-industry-tropicana-t7-manforce-bms-elsa
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Tenaga Nasional Bhd secured a court win after the High Court set aside RM78.5mn in additional tax assessments issued to its unit Southern Power Generation Sdn Bhd for 2017–2021, ruling the IRB had no legal basis. The High Court granted a judicial review stay for Leong Hup International Bhd , Malayan Flour Mills Bhd , PPB Group Bhd and Gold Coin Feedmills (M) Sdn Bhd against a RM367mn fine imposed by MyCC.
+
+[NEWS_P002] Ornapaper Bhd is acquiring two leasehold vacant lands with a four-storey worker hostel and guard house under construction in Melaka from Fairway Review Sdn Bhd for RM7.2mn. UOA Development Bhd will transfer three properties in UOA Business Park to UOA REIT for RM200mn in a related-party deal. Completion is expected in 4Q25, with a disposal gain of RM35.8mn. Sarawak Consolidated Industries Bhd has received an indicative offer from YTL Corp Bhd ’s unit, YTL Cement (Sarawak) Sdn Bhd, to acquire its wholly-owned subsidiary SCIB Concrete Manufacturing Sdn Bhd for RM113mn.
+
+[NEWS_P003] YNH Property Bhd has entered into a JV with Genland Sdn Bhd to develop a high-rise mixed development on a 7,235 sqm land parcel in Bangsar South. Cape EMS Bhd has signed a memorandum of agreement with Perak Transit Bhd to collaborate on large-scale infrastructure and clean energy projects in Perak. Prudential plc has emerged as a substantial shareholder in Binastra Corp Bhd after acquiring 9.7mn shares on Sept 29 via Eastspring funds, raising its stake to 5.78%.
+
+[NEWS_P004] VS Industry Bhd managing director Datuk Gan Sem Yam has emerged as a substantial shareholder with 5.7% stake after acquiring 29mn shares via an off-market deal on Oct 2 at 51.1 sen each. Tropicana Corp Bhd has redesignated group MD Din Tan Yong Chia as deputy group CEO, effective Oct 3. T7 Global Bhd acting executive chairman Tan Sri Dr Nik Norzrul Thani H N Hassan Thani raised his stake in the company to 22.7% after acquiring 52.2mn shares via Abyssina Resources (M) Sdn Bhd.
+
+[NEWS_P005] Manforce Group Bhd , a foreign worker management and hostel services provider, is seeking a listing on the ACE Market of Bursa Malaysia. BMS Holdings Bhd, a tile and stone surface distributor, has secured approval from Bursa Malaysia Securities for its ACE Market listing targeted in 4Q25. Elsa Bhd, an oil and gas service and equipment solutions provider, is seeking a listing on the ACE Market of Bursa Malaysia.

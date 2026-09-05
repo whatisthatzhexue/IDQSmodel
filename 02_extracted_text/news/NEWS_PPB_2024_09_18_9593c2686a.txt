@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia retreats as investors choose caution ahead of US rate decision
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-09-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/18/bursa-malaysia-retreats-as-investors-choose-caution-ahead-of-us-rate-decision
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI retreated in the early session on profit-taking ahead of the US Federal Reserve's meeting later this week. As the market halted for the lunch break, the FBM KLCI was down 6.59 points to 1,657.69 while the broader market registered 523 decliners compared to 326 gainers. Most of the broader market sectors were in the red, led by healthcare, which descended after strong gains in the previous sessions. The share turnover was 1.41 billion changing hands for RM1.46bil.
+
+[NEWS_P002] On the blue-chip index, YTL Power descended six sen to RM3.51 while YTL Corp dropped 12 sen to RM2.45. PPB Group shed 24 sen to RM14.20, PETRONAS Chemicals fell 10 sen to RM5.48 and PETRONAS Dagangan slid 22 sen to RM19.24. Meanwhile, the profit-taking in glove counters continued with the key players being among the highest traded stocks on Bursa Malaysia. Top Glove slid 10 sen to RM1.04, Hartalega shed 10 sen to RM3.04 and Supermax gave up three sen to 90 sen.
+
+[NEWS_P003] Kossan dropped 17 sne to RM2.08. and Careplus slipped two sen to 28.5 sen. The major regional indices were mostly lower as investors continued to place bets on the depth of the Federal Reserve's rate cut at its Thursday decision. Japan's Nikkei slipped 0.14% to 36,149, China's composite index was marginally lower at 2,702, and Singapore's Straits Times index was also slightly weaker at 3,591.

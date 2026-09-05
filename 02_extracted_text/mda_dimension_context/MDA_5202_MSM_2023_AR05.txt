@@ -1,0 +1,115 @@
+document_id: MDA_5202_MSM_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 70, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 361.237, "paragraph_count": 70, "paragraph_length_distribution": {"max": 3444, "mean": 925.971, "min": 166}, "repetition_ratio": 0.157143, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MSM
+AT A GLANCE
+A PERSPECTIVE FROM
+OUR LEADERSHIP
+OUR APPROACH TO
+VALUE CREATION
+OUR GROUP
+BUSINESS REVIEW
+MSM Malaysia Holdings Berhad
+Sustainable Excellence Through Integration
+GROUP FINANCIAL
+REVIEW
+DR MAZATUL 'AINI SHAHAR
+ABDUL MALEK SHAHAR, FCA
+Chief Financial Officer
+OVERVIEW OF GROUP FINANCIAL PERFORMANCE
+MSM Group has made considerable progress in revitalising the company,
+as demonstrated by the notable enhancement in performance despite
+narrowed losses throughout the fiscal year 2023 compared to the
+preceding year. While the journey has not been without its challenges,
+including heightened input costs, currency fluctuations, and regulatory
+constraints in Malaysia, the Group has successfully managed to navigate
+these hurdles. Despite facing pressures on profit margins and overall financial stability
+due to the aforementioned factors, strategic initiatives and improvements
+in production processes have allowed us to overcome these obstacles and
+chart a path towards a more promising financial future. Regarding the regulatory price ceiling in the Wholesale segment,
+we acknowledge the government’s acknowledgment of the systemic
+anomaly affecting packed sugar prices in Malaysia.
+[MDA_P018]
+SUSTAINABILITY OVERVIEW
+AT MSM
+ACCOUNTABILITY &
+TRANSPARENCY
+FINANCIAL
+STATEMENTS
+ADDITIONAL
+INFORMATION
+Annual Integrated Report
+MALAYSIA’S QUARTERLY GDP GROWTH
+Market
+Landscape
+Looking towards FY2024, various risks are poised to slow global
+economic growth. These include stringent measures by central banks to
+tackle inflation, economic fragmentation, El Nino weather phenomenon
+causes disruptions in commodity markets and geopolitical uncertainties
+such as escalating conflicts in the Middle East. In addition, several
+major elections are poised to take place several countries, including the
+US presidential election in 2024. Despite these challenges, Malaysia's
+economy is projected to benefit in 2024 from strong domestic demand
+and a resurgence in international demand.
+[MDA_P036]
+MSM
+AT A GLANCE
+A PERSPECTIVE FROM
+OUR LEADERSHIP
+OUR APPROACH TO
+VALUE CREATION
+OUR GROUP
+BUSINESS REVIEW
+MSM Malaysia Holdings Berhad
+Sustainable Excellence Through Integration
+Our commitment to sustainability is demonstrated through a rigorous
+process aimed at identifying and understanding our most significant material
+sustainability priorities. Through our robust approach, we continuously evolve
+our Sustainability Agenda to align with emerging priorities and stakeholder
+expectations. In 2023, we embarked on a substantial enhancement of our materiality approach by engaging an
+external consultancy for our inaugural Double Materiality Assessment. This initiative has yielded
+invaluable insights, sharpening our focus on sustainability and ESG matters that bear significance
+in two crucial aspects: MSM's impact on society and the environment, and the potential risks and
+opportunities affecting MSM's financial value.
+[MDA_P053]
+SUSTAINABILITY OVERVIEW
+AT MSM
+ACCOUNTABILITY &
+TRANSPARENCY
+FINANCIAL
+STATEMENTS
+ADDITIONAL
+INFORMATION
+Annual Integrated Report
+NACRA 2023
+30 November 2023
+MSM 3Q FY2023
+Analyst Briefing
+23 November 2023
+Engagement with
+Employees Provident Fund
+(EPF)
+22 August 2023
+Engagement with
+TA Securities
+3 November 2023
+Bursa Shariah
+Corporate Day
+5 October 2023
+VALUE-CENTRIC INVESTOR RELATIONS
+Feedback
+As part of our efforts to increase transparency, we encourage shareholders and investors to forward their questions and comments to
+MSM’s Investor Relations team via email at: investor.relations@msmsugar.com.
+For more information on our stakeholders communication channels, share price performance, research coverage and areas of discussion by shareholders,
+refer to pages 130 to 132 of this Annual Integrated Report.
+[MDA_P070]
+Additionally, the Division has achieved a remarkable milestone by successfully increasing its revenue from RM2.6 billion to an impressive RM3.0 billion. This substantial growth underscores our commitment to achieving unparalleled success and reflects our dedication to corporate excellence. This year, we have continued to improve our processes, by shifting to e-documents which not only improved operational efficiency but is also aligned
+with MSM’s commitment to Environmental, Social, and Governance (ESG) principles. Launch of Gula Super at AEON Big,
+Wangsa Maju. Launch of EV Van
+CGS 500g in 7 Eleven

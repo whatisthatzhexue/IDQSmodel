@@ -1,0 +1,179 @@
+document_id: MDA_7243_MAGMA_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 47, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P003]", "note": "margin: stated 37.10%, calculated 56.70% from profit/revenue, status material_discrepancy.", "source_text": "The summary of the Statement of Comprehensive Income is as follows: (RM ‘000) FPE 2022 (18 Months) FYE 2021 Variance FPE 2022 vs. FYE 2021 Revenue 26,725 19,499 37.1% Gross Profit (“GP”) 15,153 6,193 >100.0% Gross Profit Margin (“GPM”) 56.7% 31.8% Administrative Expenses -13,051 -6,723 (94.1%) Other", "status": "material_discrepancy"}], "document_id": "MDA_7243_MAGMA_2022", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 61, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P002]
+Review of Statement of Comprehensive Income
+[MDA_P003]
+The summary of the Statement of Comprehensive Income is as follows:
+(RM ‘000)
+FPE 2022
+(18 Months)
+FYE 2021
+Variance FPE 2022
+vs. FYE 2021
+Revenue
+26,725
+19,499
+37.1%
+Gross Profit (“GP”)
+15,153
+6,193
+>100.0%
+Gross Profit Margin (“GPM”)
+56.7%
+31.8%
+Administrative Expenses
+(13,051)
+(6,723)
+(94.1%)
+Other Cost
+(15,928)
+(9,938)
+(60.3%)
+(Loss) Before Tax (“LBT”)
+(13,826)
+(10,467)
+(32.1%)
+(Loss) After Tax from Continued Operations (1) (“LAT”)
+(14,307)
+(10,730)
+(33.3%)
+[MDA_P004]
+Note:
+[MDA_P005]
+(1)
+Attributable to owner of the Company
+[MDA_P006]
+For the FPE 2022, the Group recorded a total revenue of RM26.72 million, higher compared to FYE 2021
+total revenue of RM19.50 million which represents an increase of RM7.23 million or 37.1%. The increase was
+substantially contributed by all segments under IHB Group comprising of Hotel Operation, Hotel Management
+and Property Sales. During FPE 2022 (18 months), the financial year end was changed from 30th June to 31st
+December. Therefore the audited financial statement is for a period of eighteen (18) months from 1st July 2021 to
+31st December 2022.
+[MDA_P007]
+The GP for the FPE 2022 was RM15.15 million, higher compared to RM6.19 million recorded in FYE 2021. The
+increase in the GP was recognised in line with the change of financial year end from June 2022 to Dec 2022 (18
+months).
+[MDA_P008]
+The Group recognised a LBT of RM13.83 million for FPE 2022 compared to a LBT of RM10.47 million for FYE
+2021. The increased losses were mainly attributable to higher administrative expenses in line with increase of 6
+months of the financial period.
+[MDA_P009]
+The Group operates primarily in the hospitality industry whereby its source of income is mainly from the provision
+of management and operations services to hotel & resorts and hotel businesses. The Covid-19 pandemic has hit
+the industry that we are in severely and as a result, we were not able to maintain profitability from our business
+operations and this has resulted in an operating loss from our operating activities of RM14.31 million. In FPE
+2022, the Group’s finance cost was RM11.73 million compared to RM8.13 million in FYE 2021.
+Annual Report 2022
+[MDA_P010]
+Review of Statement of Financial Position
+[MDA_P011]
+The summary of the Statement of Financial Position is as follows:
+(RM ’000)
+As at 31 Dec
+As at 30 June
+Variance
+31.12.2022
+vs. 30.06.2021
+Property, Plant and Equipment
+110,682
+71,308
+55.2%
+Intangible Assets
+5,314
+6,376
+(16.7%)
+Total Trade Receivables
+20,962
+2,775
+>100.0%
+Contract Assets
+12,138
+54,736
+(77.8%)
+Total Assets
+221,815
+203,929
+8.8%
+Total Trade, Other Payables & Accruals
+58,035
+63,713
+(8.9%)
+Contract Liabilities
+1,028
+(55.4%)
+Total Liabilities
+156,130
+162,334
+(3.8%)
+Shareholders’ Equity
+65,685
+41,596
+57.9%
+NA per share (sen) (1)
+22.74
+3.42
+>100.0%
+[MDA_P012]
+Note:
+[MDA_P013]
+(1)
+Based on weighted average number of shares
+[MDA_P014]
+For FPE 2022, the Group’s total asset base increased by 8.8% to RM221.82 million from RM203.93 million in
+FYE 2021. The increase was primarily due to revaluation of property, plant and equipment of RM37.94 million.
+The intangible assets are mainly on the hotel management rights which a subsidiary of the Company has the
+rights over the management of hotels under our Impiana brand name.
+[MDA_P015]
+On the receivables front, total trade receivables saw an increase from RM2.78 million in FYE 2021 to RM20.96
+million in FPE 2022 mainly due to the construction progress billed to date. The contract assets which arose
+fromthe IRC project refers to the Group’s right to consideration for work completed on property development and
+completed billings as at the reporting date. The Management is not aware of any possible non-collection from
+these trade receivables and contract assets.
+[MDA_P016]
+Total liabilities witnessed a decrease of 3.8% from RM162.33 million recorded in FYE 2021 to RM156.13 million
+in FPE 2022.
+[MDA_P017]
+Shareholders’ Equity saw an overall increase of 57.9% from RM41.58 million in FYE 2021 to RM65.69 million in
+FPE 2022. The increase in Shareholders’ Equity is primarily attributed to in the revaluation exercise in FPE 2022.
+[MDA_P018]
+Review of Statement of Cash Flows
+[MDA_P019]
+The summary of the Statement of Cash Flows is as follows:
+(RM ’000)
+FPE 2022
+(18 months)
+FYE 2021
+Variance
+FPE2022
+vs. FYE2021
+Net cash flow used in operating activities
+(3,546)
+(2,086)
+(70.0%)
+Net cash flow used in investing activities
+(2,362)
+(1,600)
+(47.6%)
+Net cash flow generated from financing activities
+8,650
+9,118
+(5.1%)
+Net increase/(decrease) in cash and cash equivalents
+2,742
+5,432
+(49.5%)
+Cash and cash equivalents at the beginning of the financial
+period/ year
+(3,861)
+(9,293)
+58.5%
+Cash and cash equivalents at the end of the financial period/ year
+(1,032)
+(3,861)
+73.3%

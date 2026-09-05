@@ -1,0 +1,124 @@
+document_id: MDA_7035_CCK_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Revenue
+RM885.7
+million
+Profit After Tax
+RM63.1
+million
+Profit Before Tax
+RM81.4
+million
+Total Assets
+RM505.3
+million
+Total Liabilities
+RM143.1
+million
+Earnings Per Share
+10.12
+sen
+Current Ratio
+2.3
+times
+[MDA_P002]
+ANNUAL REPORT 5
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+5-YEARS FINANCIAL SUMMARY (CONT’D)
+SEN
+EPS
+Dividend per share
+1.25
+4.09
+1.75
+2.00
+1.25
+3.50
+10.12
+3.91
+5.98
+5.28
+NUMBER OF RETAIL STORES &
+SUPERMARKETS (UNITS)
+Supermarkets
+Retail stores
+1,000,000
+800,000
+600,000
+400,000
+200,000
+RM’000
+REVENUE
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+RM’000
+EBITDA
+100,000
+80,000
+60,000
+40,000
+20,000
+RM’000
+PROFIT BEFORE TAX
+80,000
+60,000
+40,000
+20,000
+RM’000
+PROFIT ATTRIBUTABLE TO
+OWNERS OF THE COMPANY
+[MDA_P005]
+The MD&A should be read together with the audited financial statements of the Group and Company as set out in this
+Annual Report. INTRODUCTION
+CCK’s business comprise of four (4) segments, namely; retail, poultry, prawn and food service. Business operations
+are carried out primarily in Sarawak, Sabah and Indonesia (Jakarta, Pontianak and Tarakan). The Group employs a
+total of approximately 2,800 employees across all business segments. Our Group’s mainstay and core business is the retail segment, which operates retail stores, supermarkets and
+wholesale stores. Since the opening of the first retail store in Sibu in 1970, our network has grown to seventy-two (72)
+touch points comprising of retail stores and supermarkets across East Malaysia (Sarawak and Sabah). Retail stores
+are operated under the CCK Fresh Mart brand and supermarkets under the CCKLocal brand. CCK Fresh Mart retail stores cater to both businesses and households and have a smaller range of strategically
+selected stock keeping units (“SKU”) which are specifically targeted to certain locations and buyer demographics. CCK Fresh Mart retail stores are typically smaller format stores located in both urban and rural areas.
+[MDA_P006]
+CCKLocal supermarkets typically occupy a larger footprint and offer households a wide range of SKUs ranging from
+local and imported food items to general household items. Our wide-reaching retail network is supported by a fully integrated supply chain consisting of a feed mill, layer farming,
+poultry farming and processing, prawn farming and processing, and the manufacturing of house-brand food products. As Sarawak’s largest integrated poultry supplier, our retail network benefits by being integrated with the poultry
+segment. Much like the retail network, CCK’s farm operations are also located in Sarawak and Sabah. On a blended
+basis, fresh dressed chicken and chicken parts make up approximately 20% of our retail stores’ products. The other
+80% of our stores’ products comprise house-brand and third-party frozen products, seafood products, fresh fruits, and
+vegetables.
+[MDA_P007]
+ANNUAL REPORT 7
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+INTRODUCTION (CONT’D)
+During the current financial year, CCK completed the acquisition of PT Bonanza. PT Bonanza operates out of Tarakan,
+Indonesia and processes shrimp for local and export sales. Principal products include frozen raw shrimp, frozen
+cooked shrimp and frozen Nobashi Ebi shrimp. The synergistic acquisition has complemented the Group’s export-
+oriented prawn products and added size and scale to the prawn segment.
+REVIEW OF FINANCIAL PERFORMANCE
+Revenue for FY2022 increased by 29.2% to RM885.7 million from last year (“FY2021”). The record revenue achieved
+during the year was due to a significant improvement in performance from all business segments. Notably, a general
+recovery in consumer demand due to the upliftment of movement controls in Sarawak led to an outperformance in the
+retail segment and an improvement in the poultry segment.
+The food service segment benefited from the re-opening of schools in Sarawak whilst the prawn segment was boosted
+by a recovery in export volume, growth in domestic sales, and the contribution from the newly acquired PT Bonanza
+in Q3FY2022 and Q4FY2022.
+[MDA_P008]
+Our retail network expanded in FY2022 to sixty-three (63) CCK Fresh Mart retail stores, three (3) CCKLocal
+supermarkets and six (6) wholesale stores giving us a total of seventy-two (72) touchpoints, up from seventy-one (71)
+in FY2021.
+The retail segment achieved a revenue of RM700.4 million during FY2022, 21.7% higher than FY2021. More matured
+contributions from three (3) CCKLocal supermarkets (in Kuching, Kota Kinabalu and Sibu) and four (4) CCK Fresh
+Mart retail stores, a sharp recovery in demand from both the retail and wholesale channels, and strong demand for
+our in-house manufactured processed products in Indonesia contributed to the performance of the segment. Notably,
+our Indonesian manufacturing operations benefited from the additional production capacity that come on stream
+in January 2021. Revenue from our Indonesian manufacturing operations (Pontianak and Jakarta) amounted to
+RM192.2 million, accounting for 21.6% of total Group revenue.

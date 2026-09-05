@@ -1,0 +1,24 @@
+[TITLE]
+PPB posts 3Q25 loss, sees better performance ahead
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-11-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/27/ppb-posts-3q25-loss-sees-better-performance-ahead
+confidence_tier: high
+
+[NEWS_P001] PPB posts 3Q25 loss, sees better performance ahead KUALA LUMPUR: PPB Group Bhd slipped into the red, posting a net loss of RM199.5mil in the third quarter ended Sept 30, 2025 (3Q25), compared with a net profit of RM208.1mil in the same quarter last year. The group said its loss before taxation for 3Q25 amounted to RM153mil, mainly due to the share of losses from Wilmar of RM290mil in the quarter, partially offset by improved performance from the grains and agribusiness segment.
+
+[NEWS_P002] Quarterly revenue rose to RM1.38bil from RM1.35bil previously, while it reported a loss per share of 14.03 sen compared with earnings per share of 14.63 sen a year earlier. For the nine months to Sept 30, PPB’s net profit fell 46.6% to RM456.1mil from RM854.2mil, mainly due to lower profit contributions from Wilmar, while revenue rose 3.4% to RM4.1bil compared with RM3.95bil previously. PPB said global grain prices have remained relatively stable despite ongoing uncertainties in global trade and broader macroeconomic pressures.
+
+[NEWS_P003] While this stability is favourable for its operations, it noted that it has also intensified competition in the market. “We continue to monitor volatility in the grains market closely and exercise prudent strategic grain sourcing to ensure supply reliability and cost efficiency. “At the same time, we will drive further operational improvements across our facilities to enhance productivity and resilience,” it said. The group expects the grains and agribusiness segment to perform better for the full financial year.
+
+[NEWS_P004] Meanwhile, it said the consumer products segment will continue to broaden its product range and introduce innovative offerings to deepen market penetration and enhance distribution efficiency. Despite rising operating costs, the segment is expected to deliver a satisfactory performance by leveraging its extensive distribution network and strong logistics capabilities. On film exhibition and distribution, PPB said the segment continues to build on the positive momentum from the previous quarter.
+
+[NEWS_P005] “Box office performance in the third quarter remained robust, supported by a strong mix of local, regional and anime titles that resonated well with its diverse audience base. “Looking ahead, this segment is poised to end the year on a strong note, underpinned by an exciting pipeline of Hollywood blockbusters and anticipated local releases. These titles are expected to sustain audience engagement and drive box office growth into the final quarter,” it added.
+
+[NEWS_P006] The property segment will continue to drive sales for the Lumina Bedong project through active marketing efforts, while several other development projects remain at the planning stage. PPB said its investment property activities will stay focused on enhancing asset utilisation, including improving tenant mix and maintaining operational efficiency across its malls. The segment is expected to deliver a stable performance for the remainder of the year.
+
+[NEWS_P007] “Wilmar's performance will continue to contribute substantially to the overall profitability of the group.”

@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia opens lower, tracking Wall Street’s slump
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-12-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/19/bursa-malaysia-opens-lower-tracking-wall-streets-slump
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia opened lower today, tracking Wall Street's overnight decline after the US Federal Reserve indicated a slower pace of rate cuts in the coming year. Overnight, US stocks plunged, with all three major indices posting their biggest daily decline in months after the Federal Reserve cut interest rates by 25 basis points, bringing them to the 4.25%-4.50% range. The Dow Jones Industrial Average fell 2.58% to 42,326.87, the S&P 500 lost 2.95% to 5,872.16 and the Nasdaq Composite lost 3.56% to 19,392.69.
+
+[NEWS_P002] The FBM KLCI fell 4.88 points, or 0.31% to 1,594.70 at 9.22 am. The index opened 4.4 points lower at 1,595.18. Among the declines on Bursa Malaysia, Nestle tumbled RM1.96 to RM97.04, Malaysian Pacific Industries slid 42 sen to RM25.86, United Plantations fell 30 sen to RM33 and PPB Group lost 26 sen to RM11.86. YTL Power, the top gainer on Bursa Malaysia, rose 24 sen to RM3.90. YTL Corp added 16 sen to RM2.30, Manulife gained seven sen to RM2.37 and Ranhill Utilities climbed five sen to RM1.43.
+
+[NEWS_P003] ACE Market debutant, Winstar Capital rose 18.5 sen, or 52.86% to 53.5 sen with 28.6 million shares done. Inter-Pacific Research noted that while the Federal Reserve's expected interest rate cut materialised, its impact on Bursa Malaysia stocks is likely to remain muted. This is attributed to ongoing selling by foreign funds, which continues to dampen prospects for a stronger recovery. At the same time, Inter-Pacific said domestic leads are far and in-between and this could leave investor sentiments still on the slide.
+
+[NEWS_P004] Therefore, the buying support from local funds are likely to remain benign with the 1,600 level remaining under threat due to the prevailing downside bias. “On the downside, the supports remain at the 1,595 and 1,590 levels, while the hurdles are at 1,605 and 1,610 points respectively. “The lower liners are also headed nowhere amid the continuing market indifference after many of these stocks made some headway recently. The buying interest appears to have eased and this could curtail further near-term upsides, in our view,” Inter-Pacific said.

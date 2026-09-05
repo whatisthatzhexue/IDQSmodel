@@ -1,0 +1,193 @@
+document_id: MDA_5102_GCB_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 98, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_5102_GCB_2021", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 203, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion
+& Analysis
+6 | GUAN CHONG BERHAD
+Our Financial Performance
+Continuing our trend of steady year-on-year growth, Group-wide revenue rose by 6.5% in FY2021. However, our net profit
+decreased by 30.5% mainly due to weaker butter ratio during the year and one-off gain on the disposal of an associate
+company in FY2020. Read more about our financial performance within the Financial Statements section of this report.
+Read more: Financial Performance Review, page 40
+Our Non-Financial Performance
+In FY2021, we increased our annual cocoa grinding capacity by 20,000MT to a total of 277,000MT across our worldwide
+production facilities. We were also crowned the Company of the Year Award in food manufacturing and were recognised
+for our exemplary community care initiatives at the Sustainability and CSR Malaysia Awards.
+RM3,923.3
+million
+14.86
+sen
+Revenue
+Earnings
+per share
+RM196.8
+million
+RM1,342.3
+million
+Profit
+before tax
+Shareholders’
+equity
+RM154.8
+million
+0.92
+times
+Net profit
+Net
+gearing ratio
+Snapshot of FY2021:
+Financial and Non-Financial Performance Highlights
+[MDA_P002]
+Sustainability report
+Corporate Governance
+& Compliance
+Financial STATEMENTS
+Others
+Integrated ANNUAL REPORT 2021 | 7
+Corporate Information
+Tan Ah Lai
+Independent Non-Executive Chairman
+(Re-designated on 15 April 2021)
+Tay Hoe Lian
+Managing Director/Chief Executive Officer
+Tay How Sik @ Tay How Sick
+Executive Director/Chief Operating Officer
+Hia Cheng
+Executive Director/Chief Financial Officer
+BOARD OF DIRECTORS
+AUDIT COMMITTEE
+Ang Nyee Nyee
+Chairman, Independent Non-Executive Director
+(Appointed as Committee Chairman on 15 April 2021)
+Tan Ah Lai
+Member, Independent Non-Executive Director
+(Re-designated as Committee Member on 15 April 2021)
+Nurulhuda Binti Abd Kadir
+Member, Independent Non-Executive Director
+(Appointed as Committee Member on 15 April 2021)
+YBhg Dato Dr. Mohamad Musa bin Md Jamil
+Member, Non-Independent Non-Executive Director
+(Ceased as Committee Member w.e.f. 15 April 2021)
+YBhg Datuk Tay Puay Chuan
+Member, Independent Non-Executive Director
+(Ceased as Committee Member w.e.f.
+[MDA_P008]
+Competitive Prices
+Offering fair market prices by
+sourcing competitively as one of
+the biggest players in the market. Ethical Operation
+Upholding strict operational
+standards and treating people with
+dignity and respect. Our suppliers
+are expected and required to have
+the strictest environmental and
+social awareness.
+[MDA_P009]
+Overview
+Introduction
+Statement from Leader
+Management Discussion
+& Analysis
+10 | GUAN CHONG BERHAD
+Corporate Structure
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+20%
+Guan Chong Trading
+Sdn. Bhd. (“GCT”)
+GCB America, Inc
+(“GCBA”)
+Carlyle Cocoa Co., LLC
+(“Carlyle”)
+GCB Foods Sdn. Bhd.
+(“GCBF”)
+Cocoarich Sdn. Bhd.
+(“Cocoarich”)
+GCB Oversea Holdings
+Corporation (“GCBOHC”)
+GCB Cocoa Malaysia
+Sdn. Bhd. (“GCBCM”)
+SMC Food21 (Malaysia)
+Sdn. Bhd. (“SMC”)
+100%
+100%
+100%
+100%
+100%
+GCB Cocoa Côte
+d’Ivoire (“GCBCCI”)
+Schokinag Holding
+GmbH (“SCHOKINAG”)
+GCB Cocoa UK Limited
+(“GCBCUK”)
+GCB Cocoa Europe B.V.
+(“GCBCE”)
+GCB Cocoa Trading Côte
+d’Ivoire (“GCBCTI”)
+100%
+Guan Chong Cocoa
+Manufacturer Sdn. Bhd.
+(“GCCM”)
+100%
+GCB Cacao GmbH
+(“GCB Cacao”)
+100%
+100%
+GCB Cocoa Singapore
+Pte Ltd (“GCBCS”)
+PT GCB Cocoa
+Indonesia (“GCBCI”)
+100%
+100%
+Schokinag-Schokolade-
+Industrie GmbH (“SSIG”)
+Schokinag Verwaltungs
+GmbH (“SVG”)
+100%
+PT Asia Cocoa
+Indonesia (“ACI”)
+10%
+90%
+(90% held by
+GCB Cocoa
+Singapore Pte Ltd)
+(10% held by
+Cocoarich
+Sdn. Bhd.)
+[MDA_P010]
+Sustainability report
+Corporate Governance
+& Compliance
+Financial STATEMENTS
+Others
+Integrated ANNUAL REPORT 2021 | 11
+Corporate Principal Activities, Market Environment,
+Competitive Landscape and Market Positioning
+Corporate Principal Activities
+Our business is principally involved in the manufacturing
+of cocoa-derived food ingredients including cocoa mass,
+cocoa butter, cocoa powder and cocoa cake, in addition
+to a full range of chocolates and couvertures that come in
+dark, milk and white varieties, and in solid or liquid form. Market Environment
+FY2021 presented a challenging year for the Group,
+as disruptions caused by the COVID-19 pandemic and
+geopolitical tensions have led to uncertainty, global
+inflation and supply chain disruptions. Even so, market demand during FY2021 was better than
+FY2020 as economies gradually recovered from the impact
+of COVID-19. Alongside the rapid rollout of COVID-19
+vaccines in most countries and travel restrictions that are
+gradually being lifted, there has been a surge in demand
+for chocolate in the market in the United States1, and the
+industry is adopting a cautiously optimistic outlook over
+the medium-to-long-term.

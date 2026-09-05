@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI dips amid cautious trade despite Wall Street gains
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/23/fbm-klci-dips-amid-cautious-trade-despite-wall-street-gains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI slipped at the open on Tuesday, tracking investors’ cautious sentiment despite overnight gains on Wall Street. Overnight, the Dow Jones Industrial Average rose 0.47% to 48,362.68, while the S&P 500 gained 0.64% to 6,878.49 and the Nasdaq Composite added 0.52% to 23,428.83. The FBM KLCI slipped 3.25 points, or 0.19%, to 1,668.04 at 9.20 am, after opening 2.51 points lower at 1,668.78. BLD Plantation tumbled RM1.60 to RM14.20, PETRONAS Gas fell 24 sen to RM17.86, Malaysian Pacific Industries shed 42 sen to RM32.16, and Negri Sembilan Oil Palms slipped 12 sen to RM5.63.
+
+[NEWS_P002] Consumer stocks led the gainers in early trade, with Nestle rising 80 sen to RM115.70, Ajinomoto adding 14 sen to RM13.78, Dutch Lady climbing eight sen to RM30.18 and Malayan Cement gaining six sen to RM7.29. Rakuten Trade noted that the benchmark index has added 30 points over the past five trading days. It believes the index is poised to test the 1,700 level, albeit with intermittent corrections. “As such, we expect the index to hover between the 1,665-1,680 range today,” Rakuten Trade said.
+
+[NEWS_P003] Meanwhile, Berjaya Research Sdn Bhd said the FBM KLCI is expected to trade within a neutral-to-modestly positive range, supported by stabilising regional sentiment and selective buying in key heavyweight counters. The research house noted that while upside may be capped by lingering profit-taking and the absence of fresh domestic catalysts, defensive sectors such as banks and utilities could offer relative support. Nevertheless, it said the local bourse has managed to hold on to its recent gains, suggesting that any potential downside pressure should be well cushioned, at least until year-end.
+
+[NEWS_P004] “The key index has formed another bullish candlestick to sustain above the recent breakout of 1,658 resistance points. “Upside-wise, if any, could lift the local bourse towards the next resistance, which is located at 1,675-1,680 points. On the flipside, the near-term supports are pegged at the 1,648-1,638 levels,” Berjaya Research said.

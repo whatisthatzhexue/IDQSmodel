@@ -1,0 +1,24 @@
+[TITLE]
+Muted near-term downstream earnings likely for planters
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-06-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/11/muted-near-term-downstream-earnings-likely-for-planters
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Hong Leong Investment Bank (HLIB) Research says the plantation sector is likely to see subdued near-term downstream earnings due to the overcapacity of refineries in Indonesia and a weak global economy. In a report, the research house said out of the seven planters under its coverage, five fell below expectations while Hap Seng Plantation Holdings Bhd and TSH Resources Bhd came in within. The planters that fell below expectations included FGV Holdings Bhd , Genting Plantations Bhd , IOI Corp Bhd , Kuala Lumpur Kepong Bhd (KLK) and SD Guthrie Bhd.
+
+[NEWS_P002] According to HLIB Research, a lower-than expected fresh fruit bunch (FFB) production and weaker downstream performance dragged the five planters. “When stacked against the consensus estimate, the proportion of disappointment was even higher with six out of seven disappointments,” it said. Quarter-on-quarter (q-o-q), six out of seven planters registered a weaker performance in the first quarter of 2024 (1Q24) as higher realised crude palm oil (CPO) prices were more than weighed down by seasonally low cropping season.
+
+[NEWS_P003] HLIB Research said the only exception was SD Guthrie, which registered a 4% q-o-q increase in its core net profit, as lower CPO production cost and higher realised palm product prices more than mitigated seasonally lower FFB output and lower downstream contribution. HLIB Research said as for its year-on-year analysis, all planters except KLK registered an improvement in the 1Q24 performance, backed by lower CPO production cost and higher oil extraction rate at the upstream segment.
+
+[NEWS_P004] Moving forward, HLIB Research said most planters are still guided for positive FFB output growth in 2024, supported mainly by continuing labour productivity improvement and more conducive weather conditions. It added CPO production cost is on track to trend lower in 2024, on the back of higher productivity and lower fertiliser prices. “We maintain our neutral stance on the sector, given the absence of a notable demand catalyst with IOI Corp as our top pick.
+
+[NEWS_P005] We maintain our 2024 to 2025 CPO price assumptions of RM4,000 per tonne and RM3,800 per tonne.” Kenanga Research has also placed a “neutral” call on the sector as the downstream segment continued to be sluggish, while upstream held better because of easier costs and firmer CPO prices. Kenanga Research said after an optimistic start to the year and the Bursa Plantation Index almost touching a two-year high of 7,500.86 on May 8, 2024, the plantation sector’s 1Q24 results ended weak.
+
+[NEWS_P006] “All three large integrated players including IOI Corp, KLK and SD Guthrie failed to meet expectations for their January to March 2024 quarterly results. Downstream revenue improved q-o-q on restocking and, potentially, bottoming out but overall market was still not strong,” it noted. As for upstream, it fared better due to firm CPO prices and lower costs as the Malaysian Palm Oil Board recorded RM3,983 per tonne prices, which came in seasonally higher q-o-q.
+
+[NEWS_P007] Kenanga Research said upstream cost pressures eased on the back of fuel and fertiliser prices dropping by 15% to 35% year-on-year, as well as recovering FFB output in Malaysia. It added its “neutral stance” on planters with the ability to grow their business like PPB Group Bhd , TSH Resources Bhd and United Malacca Bhd .

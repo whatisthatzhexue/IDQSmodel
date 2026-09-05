@@ -1,0 +1,59 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 114.421082,
+      "current_value": 16543.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P003]",
+      "metric": "margin",
+      "note": "margin: stated 45.90%, calculated 114.42% from profit/revenue, status material_discrepancy.",
+      "previous_value": 14458.0,
+      "source_text": "FPE 2022 Revenue 14,458 26,725 (45.9%) Gross Profit (“GP”) 16,543 15,153 9.2% Gross Profit Margin (“GPM”) 114.4% 56.7% Administrative Expenses -12,420 -13,051 4.8% Other Cost -17,141 -15,928 (7.6%) (Loss) Before Tax (“LBT”) -13,018 -13,826 5.8% (Loss) After Tax from Continued Operations -1 (“LAT”) -",
+      "stated_pct": 45.9,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": 90474.0,
+      "current_value": 90474.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P005]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 90474.00, stated total 2023.00, difference 4372.27%.",
+      "previous_value": 2023.0,
+      "source_text": "The summary of the Statement of Segmented Revenue is as follows: (RM ’000) FYE 2023 FPE 2022 (18 Months) Variance FYE 2023 vs. FPE 2022 Hotel Operation 12,077 13,556 (10.9%) Hotel Management 4,832 5,147 (6.1%) Property Development -2,451 8,022 (>100%) Total Revenue 14,458 26,725 (46.2%) In FYE2023, ",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    },
+    {
+      "calculated_change_pct": 2052.95,
+      "current_value": 2052.95,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P006]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 2052.95, stated total 26.73, difference 7580.32%.",
+      "previous_value": 26.73,
+      "source_text": "However, the Property Development sector registered a negative revenue that was mainly due to rescission and a new purchaser with net effect of the revenue and operating profit. Despite the positive momentum in the hotel-related segments, the Group encountered a LAT of RM13.10 million. The breakdown",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    }
+  ],
+  "document_id": "MDA_7243_MAGMA_2023",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "margin: stated 45.90%, calculated 114.42% from profit/revenue, status material_discrepancy.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 90474.00, stated total 2023.00, difference 4372.27%.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 2052.95, stated total 26.73, difference 7580.32%."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 0,
+  "num_financial_mentions": 73,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 2,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

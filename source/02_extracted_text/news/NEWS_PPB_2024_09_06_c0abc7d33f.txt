@@ -1,0 +1,22 @@
+[TITLE]
+PPB expects uptick in consumer product ops
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-09-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/06/ppb-expects-uptick-in-consumer-product-ops
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: PPB Group Bhd does not expect the high operational costs which impacted its consumer product segment in the first half of 2024 (1H24) to persist into 2H24. The consumer product segment was one of the two divisions of the Robert Kuok-controlled group that registered substantial declines in terms of profit in 1H24 on a year-on-year (y-o-y) basis, with the other being the film exhibition and distribution segment. For 1H24, the consumer product segment saw a profit of RM3mil, a 76% drop from RM12mil in 1H23, mainly attributable to higher trade promotion and operational costs.
+
+[NEWS_P002] “The consumer product business has not been as robust as we would have liked to see. We expect there will be quite an uptick as some festivities are coming up. “The high marketing costs in 1H24 will not persist into 2H24. It was a bit high because of the promotional activities. “We will obviously be stepping up promotional activities, but we expect volume to go up as well, so it should be manageable in 2H24. “We expect the consumer product segment to do better,” FFM Bhd Group chief executive officer Jeremy Goon said during the media briefing on its 1H24 financial results yesterday.
+
+[NEWS_P003] FFM is majority-owned by PPB Group and is the largest flour miller in the country. On the other hand, the consumer product segment’s revenue increased by 2% y-o-y in 1H24 to RM395mil underpinned by higher sales volume, and partially offset by higher trade promotion and lower sales of frozen products due to lower demand and change in consumer spending patterns. Goon said the fast-moving consumer goods market is still facing a lot of significant challenges despite the government’s efforts to phase out broad-based subsidies in favour of more targeted assistance for low-income groups.
+
+[NEWS_P004] “Over the years, we have seen persistent inflation, which has increased the cost of living and affected consumer prices and has led to some drop in both purchase frequency and shopping volumes across some sectors. We have also seen households which are prioritising essential items and cutting back on non-essential products. “We see the long-term outlook for consumer spending remains cautiously optimistic, supported by economic recovery and the strengthened ringgit,” he said.
+
+[NEWS_P005] PPB group managing director Lim Soon Huat added the stronger ringgit against the US dollar is beneficial to the group’s operations as its raw materials, like wheat and corn are priced in US dollars. “We are seeing good development in the currency market, which is supportive to our business. We want a more stable currency rather than big swings in the currency market so that it can help us to plan better,” he said. PPB’s film exhibition and distribution division’s profit fell by 91% y-o-y to RM1mil in 1H24 from RM14mil in 1H23 on lower contribution from concession and media advertising due to the absence of major Hollywood blockbusters in 1H24.
+
+[NEWS_P006] The lower profit was also because of higher cinema operating costs as well as one-off costs relating to cinema closures. PPB said in order to enhance cinema network efficiency, a total of four cinemas were closed during 1H24.

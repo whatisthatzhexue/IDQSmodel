@@ -1,0 +1,55 @@
+document_id: MDA_5533_OCB_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 93.64, "paragraph_count": 15, "paragraph_length_distribution": {"max": 1187, "mean": 937.6, "min": 34}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion and Analysis
+[MDA_P004]
+The date and time are stamped on the purchase orders based on approval, automatic reminder on delivery date
+emailed to supplier, and automatic reminder on overdue delivery emailed to supplier. It has increased efficiency,
+saved time and cost and enabled the Procurement Team to focus on other improvements and cost savings projects. All in all, Year 2021 has been a challenging year for the Division and it foresees that these challenges will persist for
+the first half of 2022 especially, in the areas of commodities inflation and supply chain uncertainties. The Division
+will continue to focus on automation and digitization to be cost-efficient going forward. Bedding Products Division
+The Division has invested in the operations of The KING KOIL Flagship Stores (“Flagship Stores”). Currently, it has
+14 Flagship Stores via a licensing agreement with dealers selling only specific models. In 2021, 1 new Flagship
+Store was opened in Pavilion Bukit Jalil, Kuala Lumpur. As at 31 December 2021, the Division had Flagship Stores in the following locations:
+1. Viva Mall, Kuala Lumpur
+2. Jalan Bangsar, Kuala Lumpur
+3. Sunway Pyramid, Kuala Lumpur
+4. Old Klang Road, Kuala Lumpur
+5.
+[MDA_P008]
+The Division will further develop new sales channels via specialty shops catering mainly to tourists market, online
+sales and pay TV channel. The Division has registered significant growth from online and pay TV channels sales. The Division will also further enhance its online sales by adding new merchandise selection for the customers. The Division will strengthen its business foundations based on strategic marketing plans targeting specific market
+segments (premium market, middle market, and Malay consumer market). As for the export market, the Division will continue to develop its export business potential. It is also strengthening
+the latex export business. There are plans to further develop the KING KOIL retail and export business in new
+markets like Thailand, Vietnam, Myanmar and Cambodia. The Division has successfully made inroads into a number
+of these markets. The Division will continue to improve its customer relationship management system in order to enhance its relationship
+with customers and improve its customers’ service experience. The Division has also planned to continue to enhance the design of its popular models to cater for consumers’
+current trend.
+[MDA_P012]
+Trading profit in general will remain thin. The sales contribution is expected to come from the project and hospital segment, sales generated from new product
+lines and through expansion of the present market coverage. The Division will continue to embark on building its
+house brand, AKRON via advertisement in various media platform, both online and offline. LIQUIDITY AND CAPITAL MANAGEMENT
+The Group maintains a healthy level of cash and cash equivalents and banking facilities from financial institutions to
+fund the Group’s short-term and long-term operation requirements. As at 31 December 2021, the Group’s cash and
+cash equivalents amounted to RM49.4 million (31 December 2020: RM56.7 million), a decrease of RM7.3 million,
+mainly attributable to net cash decreased from operating activities, whereas the Group’s total bank borrowings and
+total lease liabilities were RM84.14 million compared to RM40.41 million as at 31 December 2020. The Group’s gearing ratio was 0.19 times as at 31 December 2021 as compared to (0.09) times as at 31 December
+2020. Management
+Discussion and Analysis
+[MDA_P015]
+The Group is not overly excited about a revival of consumer “revenge” spending and the anticipated strong bounce
+back in public investment via the high allocation of RM75.6 billion development expenditure for Year 2022. We will continue to maintain our high level of productivity while optimizing our production costs. Our focus this time
+around will be the labour capital issues and the rising costs of raw materials. The shortage of workers and increased
+cost of raw materials have dampened our pace of production significantly. The proposed higher minimum wage
+and multi-tier levy going forward will add onto our operating cost. All our 3 Divisions have started to embrace the digital space and will continue to keep up with consumer trends
+via e-commerce. The online platform is an additional channel to educate and provide an in-depth understanding
+of our products and widen the distribution of information. For its immediate future, the Group is embarking into property development. This business will be operated under
+Enigma Sinar Sdn. Bhd. We plan to build and grow this business to eventually become our fourth Division. Management
+Discussion and Analysis

@@ -1,0 +1,88 @@
+document_id: MDA_0212_SDS_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 17, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 141.686, "paragraph_count": 17, "paragraph_length_distribution": {"max": 1193, "mean": 867.059, "min": 122}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+management discussion and analysis
+Dear valued shareholders, it is our pleasure to present the Annual Report and
+Audited Financial Statements of SDS Group Berhad (“SDS Group” or the
+“Group”) for the financial year ended 31 March 2020 (“FY2020”). OVERVIEW OF THE GROUP’S BUSINESS
+A New Milestone
+It was a notable achievement for SDS Group in its milestone to announce its successful Initial Public Offer (“IPO”). On 7
+October 2019, the Group was listed on the ACE Market of Bursa Malaysia Securities Berhad with an issue price of RM0.23
+per share. The IPO for the Group of 104,296,800 ordinary shares comprising public issues of 20,291,200 new shares,
+23,132,000 new shares were distributed among the Group’s Directors, employees, business associate or persons who
+have contributed to the success of the Group and 60,873,600 new shares are earmarked by way of the private placement
+to selected investors. Business Background
+As a Johor home-grown company, SDS Group has developed its business with three subsidiary brands including retail
+brand, ‘SDS’ and wholesale brands, ‘Top Baker’ and ‘Daily’s’.
+[MDA_P005]
+Moreover, during the
+movement control order (“MCO”) period, where there are
+restriction of mass movement and gatherings, the Group
+set up an in-house delivery team to provide delivery and
+continue to serve customers with its products. As a responsible corporate citizen, the Group has
+launched a straw-less campaign with the initiatives of
+only providing straw upon customers’ requests. This
+campaign aims to target a more environmentally friendly
+business approach.
+[MDA_P009]
+Due to the outbreak of the COVID-19
+pandemic, the Group has experienced lower revenue from the retail channel since February 2020 as consumers began
+to avoid crowded places. However, during this period, some of the fixed overhead expenses remained constant, thus
+resulting in a slightly lower gross profit margin. Profit Before Tax
+The profit before tax has decreased by 46.3% from RM9.3 million in FY2019 to RM5.0 million in FY2020. This is mainly
+due to the following reasons:
+1)
+One-off gain relating to the disposal of assets classified as held for sales amounting to RM2.0 million during the
+previous financial year; and
+2)
+The listing expenses of RM2.2 million incurred during the year.
+[MDA_P013]
+Hence,
+it is subjected to the labour and immigration laws
+that govern the employment of foreign workers. Any
+substantial changes to the policies on the employment
+of foreign workers may result in a shortage in the supply
+of foreign workers or an increase in labour wages. The Group continues to review its manufacturing
+process and aim to automate its processes at a
+reasonable cost to reduce reliance on manual labour. Downtime, Disruption or
+Unplanned Shutdown Risk
+Competition Risk
+From
+an
+operational
+perspective,
+the
+Group’s
+manufacturing division will be exposed to downtime
+risk. As most products are produced by its internal
+manufacturing
+facilities,
+any
+disruption
+in
+the
+operations or unplanned shutdown would affect the
+Group’s ability to generate revenue. The Group is operating in a highly competitive
+environment, with a lot of competitors in the market
+offering a great variety of similar products or services. To mitigate this risk, the Group strive to enhance its
+menu periodically with different new F&B products and
+providing excellent customer services to satisfy the
+consumers’ changing tastes and preferences.
+[MDA_P017]
+For retail outlets, the Group
+will continue its expansion plan in the Central region by setting up more new retail outlets in Klang Valley. The Group also
+plans to establish a franchise system to attract potential franchisees. Furthermore, the Group will continue to improve
+their delivery services to enhance its customers’ experience. For the wholesales channel, the Group will continue to
+expand its distribution network in the Northern region aside from broadening its existing distribution network. The Group
+expects the growth and improvement in the bottom lines result in years to come. ACKNOWLEDGEMENTS
+In conclusion, we wish to convey our appreciation to our shareholders, investors, clients, suppliers, business partners,
+bankers, government, and regulatory bodies for their support and trust in SDS Group. We would also like to express
+gratitude to our loyal employees and partners who had put in their effort, hard work, and commitment in achieving
+remarkable results and growth for the Group through these years. Looking forward, we will continue to expand our
+presence throughout Malaysia and to grow the size of the Group.

@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI claws back to positive zone at midday
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/08/fbm-klci-claws-back-to-positive-zone-at-midday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI clawed back into positive territory at midday amid mixed regional markets. At 12.30pm, the market barometer gained 0.16 of a point, or 0.01% to 1,592.03. The index had earlier fallen to an intra-morning low of 1,579.69. There were 394 gainers, 575 losers and 446 counters traded unchanged on the Bursa Malaysia. Turnover stood at 2.7 billion shares valued at RM1.52bil. Among the gainers, Heineken jumped 74 sen to RM22.64, Carlsberg rose 66 sen to RM18.74, Malaysian Pacific Industries added 54 sen to RM36.04 and Edaran gained 38 sen to RM2.60.
+
+[NEWS_P002] On the downside, Nestle slid 50 sen to RM107.30, Hong Leong Financial Group lost 14 sen to RM17.06, Gamuda fell 12 sen to RM7.34 and Crescendo declined 11 sen to RM4.20. Cape EMS rose 12.64%, or 5.5 sen to 49 sen with 231.43 million shares traded. Malacca Securities believes that, despite the negative overnight performance on Wall Street, the accumulation zone is near if local selling pressure persists. “We still like stocks within the construction, property, and technology sectors, which are benefiting from the data centre secular theme amid oversold conditions.
+
+[NEWS_P003] “Additionally, we like the finance sector as it provides a decent dividend yield during the current sell-off phase. In view of the stronger ringgit environment, we also favour the consumer sector,” it added. Meanwhile, TA Securities said stocks are likely to continue their recovery due to reduced concerns about the US economy, easing geopolitical risks in the Middle East, and assurances of monetary policy support from major global central bankers to mitigate a potential slowdown.
+
+[NEWS_P004] “Key index supports remain at recent low of 1,529, then 1,520 and 1,500, while immediate resistance on further rebound will be at 1,600, 1,620 and then 1,638,” it said. Elsewhere in the region, Japan’s Nikkei 225 fell 0.7%, Hong Kong’s Hang Seng Index added 0.53%, South Korea’s Kospi declined 0.92% and China’s composite index added 0.43%.

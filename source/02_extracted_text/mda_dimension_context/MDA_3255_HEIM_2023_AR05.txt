@@ -1,0 +1,188 @@
+document_id: MDA_3255_HEIM_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 59, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 389.249, "paragraph_count": 59, "paragraph_length_distribution": {"max": 2787, "mean": 981.864, "min": 44}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Roland Bala
+Managing Director
+Creating
+Good Times,
+Celebrating
+the Joy of True
+Togetherness
+In 2023, we celebrated
+the 150th anniversary of
+the Heineken® brand, the
+world’s no. 1 international
+premium beer. Forget
+the candles, this was
+about honouring how our
+consumers celebrate Good
+Times. Freddy Heineken
+once said, “I don’t sell beer.
+I sell ‘gezelligheid’ or ‘Good
+Times’,” and that’s what
+Heineken® is still all about.
+[MDA_P015]
+Within
+this framework, we have incorporated the
+HEINEKEN Risk Management Framework,
+which assists in identifying and addressing
+risks during strategy development and the
+pursuit of business objectives.
+[MDA_P030]
+Esg Review
+How We Are Governed
+Our Numbers and Other Information
+Annual Report 2023
+ESG Review
+About this
+statement
+As a responsible and
+progressive brewer
+guided by our purpose -
+To Brew the Joy of True
+Togetherness to Inspire
+a Better World, we are
+committed to creating
+long-term sustainable
+value for our stakeholders. The HEINEKEN Global
+sustainability strategy,
+Brew a Better World 2030
+showcases our ambitious
+goals aimed at driving
+a positive impact on
+the environment, social
+sustainability and the
+responsible consumption
+of alcohol. The three pillars
+of the strategy put us
+on the path to achieving
+net zero impact on the
+environment, contributing
+towards an inclusive, fair
+and equitable world while
+promoting moderation and
+responsible consumption. We measure our success
+not only by the value we
+provide to our shareholders
+but also by how we
+contribute to a resilient
+and shared future for our
+people and the planet. Featuring nine ambition areas and 24 concrete and measurable goals, the HEINEKEN Global
+Brew a Better World 2030 strategy raises the bar across our three core pillars of environmental
+sustainability, social sustainability, and responsible consumption.
+[MDA_P045]
+Esg Review
+How We Are Governed
+Our Numbers and Other Information
+Annual Report 2023
+ESG Review
+Our Sustainability Governance Structure
+HEINEKEN Malaysia upholds a comprehensive framework for accountability in identifying and addressing sustainability matters
+through a well-structured governance system. In 2022, the Group implemented a three-tiered structure encompassing the Board,
+the Sustainability Committee (SC), and the Sustainability Working Group (SWG). The Board's oversight plays a role in monitoring the
+progress of HEINEKEN Malaysia's sustainability strategy, evaluating progress, and identifying potential risks and opportunities. The Sustainability Committee Chairperson ensures consistent reporting on the progress of our sustainability initiatives to the Board,
+with support from a secretariat led by the Corporate Affairs & Legal Director. The secretariat also receives support provided by sponsors
+representing various functions. Through this synergistic effort, it ensures a thorough overview of our sustainability progress.
+[MDA_P059]
+Material Matters
+GRI Indicator
+UN SDG
+Key Stakeholders Groups
+Governance
+Regulatory Compliance
+GRI 2: General Disclosures
+- Shareholders / Investors
+- Regulators / Public Authorities
+- Customers / Trade Partners
+- Suppliers / Vendors / Contractors
+- Media / Analysts
+- Industry Associations
+Corporate Governance and
+Anti-Corruption
+GRI 205: Anti-corruption
+Data Privacy & Cybersecurity
+GRI 418: Customer Privacy
+Risk Management
+GRI 201: Economic Performance
+Environmental Sustainability: On a path towards net zero impact
+Climate Resilience & Energy
+Efficiency
+GRI 302: Energy
+GRI 305: Emissions
+- Shareholders / Investors
+- Regulators / Public Authorities
+- Customers / Trade Partners
+Water Stewardship
+GRI 303: Water and Effluents
+- Regulators / Public Authorities
+- NGOs / Communities
+Waste & Effluent
+Management
+GRI 306: Waste
+- Regulators / Public Authorities
+- NGOs / Communities
+Resource Use
+GRI 301: Materials
+- Regulators / Public Authorities
+- Customers / Trade Partners
+- Media / Analysts
+- Industry Associations
+Social Sustainability: On the path to an inclusive, fair and equitable world
+Diversity
+GRI 405: Diversity and Equal
+Opportunity
+- Employees
+Human Rights & Labour
+Standards
+GRI 401: Employment
+GRI 404: Training and Education
+- Regulators / Public Authorities
+- Suppliers / Vendors / Contractors
+- Employees
+Employee Health, Safety &
+Wellbeing
+GRI 403: Occupational Health
+and Safety
+- Regulators / Public Authorities
+- Suppliers / Vendors / Contractors
+- Employees
+- Industry Associations
+Human Capital
+Development
+GRI 404: Training and Education
+- Employees
+Community Investment &
+Development
+GRI 201: Economic Performance
+GRI 413: Local Communities
+- NGOs / Communities
+- Media / Analysts
+Supply Chain Management
+GRI 204: Procurement Practices
+- Regulators / Public Authorities
+- Suppliers / Vendors / Contractors
+- Employees
+Responsible Consumption: On the path to moderation with no harmful use
+Product Safety, Quality &
+Hygiene
+GRI 416: Customer Health and
+Safety
+- Regulators / Public Authorities
+- Customers / Trade Partners
+- Consumers
+- Employees
+Responsible Marketing &
+Consumption
+GRI 417: Marketing and Labelling
+- Shareholders / Investors
+- Customers / Trade Partners
+- Consumers
+- Employees
+- Media / Analysts

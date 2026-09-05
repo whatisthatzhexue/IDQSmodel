@@ -1,0 +1,132 @@
+document_id: MDA_5306_FFB_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 41, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+OUR VALUE CREATING BUSINESS MODEL
+[MDA_P002]
+OUTCOMES
+FINANCIAL CAPITAL
+·· Revenue: RM501.9 million
+·· Profit Before Tax: RM65.7 million
+·· Earnings Per Share: 4.87 sen
+·· Shareholders' Equity: RM611.0 million
+·· Cash and cash equivalents: RM28.1 million
+MANUFACTURED CAPITAL
+·· 78.6 million litres of finished goods sold
+·· 500 acres of land leased from Pahang State Government
+INTELLECTUAL CAPITAL
+·· 13 new products commercialised
+·· Received two awards at the Putra Brand Awards 2022
+·· All our completed Malaysian farms have been Certified
+Humane® by the Humane Farm Animal Care (“HFAC")
+HUMAN CAPITAL
+·· RM50.9 million paid towards directors’ and employees'
+remuneration and benefits
+·· 100% of our employees trained in the latest occupational
+health and safety practices
+·· Zero work-related fatalities and serious injuries
+·· Subsidised meals and free accommodation provided to
+80% and 50% of farm employees respectively
+SOCIAL & RELATIONSHIP CAPITAL
+·· RM3.2 million in income generated for local farmers
+·· RM133.9 million in income generated for stockists, dealers
+and agents under our home dealer programme
+NATURAL CAPITAL
+·· 335.0 million litres of Farm Dairy Effluent (FDE) recycled
+and removed from waste discharge
+·· 86.4 million kg of solid waste recycled and removed from
+waste discharge
+·· 28% of turnover from products using fully recycle, sustainably
+sourced packaging
+·· 428.8 million litres of municipal water saved through
+rainwater harvesting and tube well pumping
+·· 687,786 kg of chemical fertiliser removed from our cycle
+REGIONAL
+GROWTH
+PRODUCING
+HEALTHY
+PRODUCTS
+PRODUCT
+QUALITY
+& SAFETY
+COMMUNITY
+IMPACT
+EFFICIENT FARM
+MANAGEMENT &
+PRODUCTION
+DISTRIBUTION
+NETWORK
+EXPANSION
+TALENT
+ATTRACTION,
+RETENTION &
+DEVELOPMENT
+MATERIAL MATTERS
+ENVIRONMENTAL
+STEWARDSHIP
+| 01 | 02 | Section 03 Management Discussion and Analysis | 04 | 05 | 06 | 07 | 08 |
+[MDA_P003]
+In developing value creation strategies, we undertake detailed consideration of global megatrends and industry-
+based trends which have the potential to affect our operations. Our response to these trends is detailed below:
+DESCRIPTION
+The International Monetary Fund (IMF)’s Global
+Uncertainty Index has risen sharply to levels on par
+with the September 11 attacks and the UK’s vote in
+2016 to leave the European Union1. This reflects a
+turbulent macroeconomic environment, where the
+LINK TO
+MACROECONOMIC CHALLENGES
+The Russia-Ukraine conflict has exacerbated existing
+imbalances caused by the COVID-19 pandemic,
+leading to a sharp increase in inflation2 and in the
+price of oil3 and commodities4. In addition, global trade has been affected by supply
+chain bottlenecks caused by the pandemic and its
+resultant labour shortages5, with the Malaysian
+National Shippers’ Council (MNSC) reporting that
+sea freight rates have increased by up to 800% on
+some routes when compared to pre-pandemic
+levels5.
+[MDA_P004]
+While demand for our products has remained stable
+during this period, we have been adversely affected
+due to the increasing price of inputs, placing
+pressure on our margins, and have witnessed a
+sharp rise in logistics costs in importing raw milk
+from Australia to Malaysia. OUR RESPONSE
+• To protect our margins, we increased the prices of our chilled and
+ambient RTD products by 5% in September and December 2021
+respectively
+• As a vertically integrated dairy company, we benefit from an internal
+supply chain which allows us to mitigate against price increases
+across many of our inputs
+• We will continue to monitor prices and stock levels of raw materials
+to pre-emptively manage against volatility in supply and demand
+• We will continue to centrally procure our raw materials in order to
+achieve economies of scale and mitigate against price increases
+1. https://blogs.imf.org/2022/04/15/global-economic-uncertainty-surging-amid-war-may-slow-growth/
+2. https://tradingeconomics.com/united-states/inflation-cpi
+3. https://edition.cnn.com/2022/06/03/energy/oil-prices-what-next/index.html
+4.
+[MDA_P012]
+In considering the sustainability of our operations,
+it is therefore vital that we explore and implement
+technologies wherever practicable that enable us
+to enhance efficiencies in how we produce and
+distribute our products. Doing so will mitigate
+against the risk presented by advanced technologies
+introduced by new market entrants or existing
+players. OUR RESPONSE
+• We have adopted Industry 4.0 technology – including automated
+milking stations and an automated palletising system – to fulfil
+selected functions, with an eye to increasing adoption in the near
+future
+• We will continue to invest in improving the efficiency of our processing
+facilities by integrating advanced technology
+• We will continue to invest in Farm Fresh Mart – our digital customer
+acquisition channel – to capture new customers and bolster the
+growth of our home dealer network
+| 01 | 02 | Section 03 Management Discussion and Analysis | 04 | 05 | 06 | 07 | 08 |

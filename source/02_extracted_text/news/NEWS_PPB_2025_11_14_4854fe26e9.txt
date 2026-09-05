@@ -1,0 +1,22 @@
+[TITLE]
+Bursa Malaysia slips at midday, tracking regional markets
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-11-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/14/bursa-malaysia-slips-at-midday-tracking-regional-markets
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia ended the morning session lower, tracking the weakness in regional markets amid cautious global sentiment. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) slipped 0.32 per cent, or 5.28 points, to 1,626.99 from Thursday’s close of 1,632.27. The benchmark opened 1.46 points weaker at 1,630.81 and fluctuated between 1,623.81 and 1,630.96 during the session. On the broader market, decliners thumped gainers 747 to 242, while 453 counters were unchanged, 1,296 untraded and 10 suspended.
+
+[NEWS_P002] Turnover amounted to 2.43 billion units valued at RM1.25 billion. Rakuten Trade Sdn Bhd vice-president of equity research Thong Pak Leng said the overnight Wall Street tumbled on continued selling on artificial intelligence (AI)-related stocks and the situation is further exacerbated by the diminishing possibility of a Federal Reserve rate cut in December. "Notwithstanding the prevailing mini-consolidation, we believe the stage is set for the index to climb higher despite the recent volatility in US equities.
+
+[NEWS_P003] For today, we anticipate the index to trend between the 1,625 and 1,640 range,” he said. Among heavyweights, Maybank was flat at RM9.95, Public Bank fell two sen to RM4.28, CIMB lost one sen to RM7.56 and Tenaga Nasional shed six sen to RM13.44. IHH Healthcare rose four sen to RM8.29. On the most active list, Tanco decreased half-a-sen to 94 sen, Insights slid 8.5 sen to 92.5 sen, while Genting rose one sen to RM2.36. Both Perak Transit and TWL were flat at 26.5 sen and 2.5 sen, respectively.
+
+[NEWS_P004] Top gainers included Dutch Lady which rose RM1.10 to RM29.70, Malaysian Pacific Industries added 30 sen to RM30.90, Manulife gained 13 sen to RM2.26, Nestle and United Plantations increased 10 sen each to RM113.10 and RM26.10, respectively. Among the top losers, Petronas Dagangan slipped 44 sen to RM22.0, Chin Teck Plantations fell 22 sen to RM10.52, while Kotra Industries , Kuala Lumpur Kepong and PPB went down 20 sen to RM4.20, RM21.20 and RM11.60, respectively.
+
+[NEWS_P005] On the index board, the FBMT 100 Index slumped 36.29 points to 11,836.05, the FBM Emas Index declined 39.50 points to 12,070.02, the FBM Emas Shariah Index sank 54.22 points to 12,076.74, the FBM ACE Index tumbled 56.70 points to 5,015.90, and the FBM Mid 70 Index fell 42.68 points to 16,924.22. Sector-wise, the Plantation Index slipped 32.54 points to 8,123.31, the Financial Services Index dropped 26.39 points to 18,439.54, the Industrial Products and Services Index ticked down 1.71 points to 168.80, while the Energy Index eased 1.46 points to 755.35.
+
+[NEWS_P006] - Bernama

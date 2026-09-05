@@ -1,0 +1,100 @@
+document_id: MDA_7167_ABLEGLOB_2024
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 41, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_7167_ABLEGLOB_2024", "has_cost_discussion": true, "has_margin_discussion": false, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 22, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P002]
+2.
+REVIEW OF FINANCIAL RESULTS AND FINANCIAL CONDITION
+[MDA_P003]
+In FYE 2024, the total borrowings decreased by RM15.75 million to RM254.20 million from RM269.95 million
+mainly due to repayment of long-term financing, contributing positively to the gearing ratio. The gearing ratio
+decreased by 8.34% from 61.00% to 52.66% mainly due to continued growth in shareholders’ equity and the
+decrease in total borrowings, reflecting a stable financial position.
+[MDA_P004]
+From the investors’ perspective, the return on equity increased by 2.68% to 14.50% from 11.82%. The return
+on total assets increased by 1.88% to 8.40% from 6.52%. Both the increases of the returns are due to the
+increase in profitability in FYE 2024.
+[MDA_P005]
+Interest coverage ratio is approximately 15 times in FYE 2024, remains comparable to approximately 15 times
+in the previous financial year, which reflects the Group’s ability to pay off its debts against current year’s profit.
+[MDA_P006]
+As for share information, the earnings per share (“EPS”) is 22.43 sen for the FYE 2024 as compared to 16.86
+sen in the previous financial year. The net assets per share (“NAPS”) increased by 13 sen to RM1.57 for FYE
+2024 against RM1.44 in the previous financial year. The price earnings (“PE”) ratio is 8.60 for FYE 2024 as
+compared to 8.90 in the previous financial year. The share price in FYE 2024 and in the previous financial year
+was at RM1.93 and RM1.50 respectively.
+[MDA_P007]
+The summary of the financial indicators is highlighted on pages 2 to 5 of this Annual Report.
+3.
+REVIEW OF OPERATING ACTIVITIES
+[MDA_P008]
+The main factors that affected the operating activities in the Tin Cans segment are fluctuation in raw materials
+prices and machineries maintenance.
+[MDA_P009]
+Raw material prices directly affect the profitability of the Group. To remain competitive, we have always
+strived to provide the most competitive prices to our customers. The Management is actively monitoring the
+raw materials cost and engages with the customers on the selling price adjustments. The Management is
+always vigilant in monitoring the cost of manufacturing to stay competitive in the industry and ensure that
+this segment maintains its profitability.
+[MDA_P010]
+Maintenance is required for the existing machinery. The unique and scarcity of the spare parts is a challenge
+to the maintenance team when fixing the machineries of older models. To resolve these issues, the older
+model machineries are upgraded as necessary.
+[MDA_P011]
+For F&B segment, the main factor that affected the operating activities was volatility in raw materials prices.
+[MDA_P012]
+The prices of dairy and sugar remain volatile and it will affect the manufacturing costs significantly
+which poses a challenge to the Group. Management remains highly vigilant in monitoring the cost of
+manufacturing, exploring alternative sourcing options, and optimizing inventory management to maintain
+cost competitiveness.. As such, the management is in constant contacts and dialogues with the suppliers
+and traders to gauge the situation of the market in order to make the procurement decisions.
+STATEMENT ON MANAGEMENT DISCUSSION
+AND ANALYSIS
+(Cont’d)
+ABLE GLOBAL BERHAD
+A N N U A L R E P O R T 2 0 2 4
+p.
+[MDA_P013]
+4.
+REVIEW OF OPERATIONAL RISKS
+[MDA_P015]
+A.
+Business Risk
+[MDA_P016]
+The Group’s revenue and operating results could be adversely affected by many factors which include,
+amongst others, the costs of raw materials, costs of labour as well as maintenance costs of equipment
+and machineries.
+[MDA_P017]
+The Group attempts to mitigate these risks by continuously monitoring the prices of key raw materials,
+expanding the pool of suppliers and customers whilst continuing to establish long-term business
+relationship with the existing suppliers and customers, expanding the existing business by enhancing
+the Group’s strength and developing new products. Cost of labour has increased due to regulatory
+changes, the Group will look for opportunities in automation and enhance resource planning. Whilst
+for higher maintenance costs, routine maintenance is carried out to prioritise on the older models to
+mitigate the risk. However, we cannot provide any assurance that the above-mentioned measures will
+be successful in mitigating the adverse effect of business risks mentioned on the materiality of the
+financial position and performance of the Group.
+[MDA_P018]
+B.
+Political, Economic and Regulatory Considerations
+[MDA_P023]
+The Group faces competition from both new entrants and existing players which offer similar products.
+High product quality, manufacturing efficiency, marketing, reasonable pricing and ranges of products
+are critical factors towards ensuring the success and sustainability of the business.
+[MDA_P024]
+The Group will continue to take strategic measures and continuous review of the operational efficiency
+to move ahead of competition by addressing the factors above. Whereas for the F&B segment, the
+barriers to entry are mainly the relative high capital investment to set up the manufacturing facilities,
+established distribution channels, compliance with stringent safety standards and strong research and
+development capabilities.
+[MDA_P025]
+As the Group already has existing manufacturing plants with established distribution channels, the
+Group does not foresee immediate threat of new entrants that will significantly affect the Group’s
+business. The Group hopes to be able to maintain its market share.
+[MDA_P026]
+D.
+Foreign Exchange Risks

@@ -1,0 +1,22 @@
+[TITLE]
+Bursa Malaysia marginally lower at midday on profit-taking
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-10-31
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/31/bursa-malaysia-marginally-lower-at-midday-on-profit-taking
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia traded marginally lower at mid-day due to profit-taking, particularly in telecommunication, consumer product, and plantation counters. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) eased 1.27 points, or 0.08 per cent, to 1,612.93 from Thursday’s close of 1,614.20. The benchmark opened 4.31 points lower at 1,609.89, and moved between 1,607.66 and 1,615.10 throughout the morning trading session. However, the market breadth was negative with 508 decliners outpacing 367 gainers.
+
+[NEWS_P002] A total of 454 counters were unchanged, 1,341 untraded, and 60 suspended. Turnover reached 2.19 billion shares, valued at RM1.09 billion. Malacca Securities Sdn Bhd said that despite the recent selloff in US technology stocks amid concerns over large-scale artificial intelligence (AI) investments, it remains constructive on the sector. "We believe these investments will ultimately support selected local technology names, positioning them to benefit from the global AI megatrend.
+
+[NEWS_P003] In addition, other technology counters with improving fundamentals may present potential trading opportunities,” it said in a note. Big tech firms like Nvidia, Microsoft, and Alphabet are spending heavily on AI infrastructure, model training, and cloud capacity. Among the heavyweight stocks, Maybank and IHH Healthcare added one sen each to RM9.90 and RM8.21, respectively, while CIMB Group gained three sen to RM7.34, Public Bank was unchanged at RM4.22, and Tenaga Nasional eased two sen to RM13.30.
+
+[NEWS_P004] On the most active list, Dagang Nexchange added three sen to 31 sen, Tanco topped up 1.5 sen to 94.5 sen, and Insights Analytics climbed 3.5 sen to 74.5 sen. Perak Transit eased two sen to 34.5 sen, and Ekovest dropped one sen to 34 sen. Among the top gainers, Nestle surged RM4.20 to RM114.70, United Plantations gained 18 sen to RM24.82, and Sarawak Oil Palms grew 17 sen to RM3.69. Fraser & Neave added eight sen to RM28.42, and Ajiya bounced seven sen to RM1.19.
+
+[NEWS_P005] Top decliners included Chin Teck Plantations , which slumped 46 sen to RM11.28, while Malaysian Pacific and PPB Group shed 28 sen each to RM29.98 and RM11.32, respectively. Petronas Dagangan fell 18 sen to RM22.50, and Bursa Malaysia lost 17 sen to RM8.15. On the index board, the FBM Emas Index eased 11.50 points to 12,039.80, the FBMT 100 Index slipped 11.91 points to 11,780.56, and the FBM Emas Shariah Index declined 17.29 points to 12,107.84. The FBM 70 Index dropped 28.51 points to 17,048.63, and the FBM ACE Index weakened 6.05 points to 5,223.79.
+
+[NEWS_P006] Sector-wise, the Financial Services Index eased 2.38 points to 18,190.87, the Plantation Index shed 12.30 points to 8,007.87, and the Energy Index eased 1.20 points to 767.23. The Industrial Products and Services Index inched down 0.16 of a point to 171.34. - Bernama

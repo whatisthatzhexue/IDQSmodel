@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Sunway, Samaiden, Econpile, Sin-Kung, Jentayu, KIP REIT, Sunsuria, MMAG, Bank Islam
+
+[METADATA]
+ticker: SG
+company_name: Saudee Group Berhad
+publish_date: 2024-10-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/03/trading-ideas-sunway-samaiden-econpile-sin-kung-jentayu-kip-reit-sunsuria-mmag-bank-islam
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here are the announcements that made headlines in Corporate Malaysia. Sunway Bhd plans to buy a 17.58-acre (7.11-hectare) prime land in Taman Taynton, Kuala Lumpur, for RM320mn, earmarking it for mixed-use development. Samaiden Group Bhd has bagged a RM39.2mn contract to undertake a 10-megawatt LSS PV power plant in Bahau, Negeri Sembilan, in a related-party transaction. Econpile Holdings Bhd has secured two contracts from Sg Besi Construction Sdn Bhd, totalling RM33.3mn, to carry out piling and substructure works for residential and office buildings in Kuala Lumpur.
+
+[NEWS_P002] Sin-Kung Logistics Bhd is diversifying into private jet charter and air freight cargo services with the acquisition of loss-making Prima Air Sdn Bhd for RM20.7mn cash. Jentayu Sustainables Berhad and its subsidiary Oriole Power Sdn Bhd have signed a Project Development Collaboration Agreement with Sumitomo Corporation for the 162-megawatt Project Oriole, a run-of-river hydropower plant in Sipitang, Sabah. Google held a groundbreaking ceremony on Tuesday at The St Regis Kuala Lumpur to commence the construction of its first data centre in Malaysia at Sime Darby Property Bhd 's Elmina Business Park in the City of Elmina township, Selangor.
+
+[NEWS_P003] KIP Real Estate Investment Trust has secured shareholders’ approval to acquire the DPulze Shopping Centre in Cyberjaya for RM320mn. Sunsuria Bhd has revoked its proposed RM800,000 acquisition of an 80% stake in Mayer Land Sdn Bhd, which have allowed Sunsuria to participate in Mayer Land’s two Rumah Selangorku projects and a mixed development in Penang. MMAG Holdings Bhd has been classified as a Guidance Note 3 company after its external auditor, Grant Thornton Malaysia PLT, flagged material uncertainty in the company's audited financial statements for the FY23 that would affect its ability to continue as a going concern.
+
+[NEWS_P004] Bank Islam Malaysia Bhd has issued the second tranche amounting to RM250mn under its RM5bn sukuk wakalah programme.

@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia remains lower at midday amid weak sentiment
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-12-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/19/bursa-malaysia-remains-lower-at-midday-amid-weak-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia remained broadly lower at midday amid weak market sentiment and selling in index-linked counters, alongside declines in regional bourses. The FBM KLCI fell 3.09 points, or 0.19% lower at 1,596.49, recovering from its intra-morning low of 1,590.83. Market breadth turned negative as losers outpaced gainers on a ratio of 466-to-402 stocks. Traded volumes stood at 1.8 billion shares valued at RM1.43bil. TA Securities said the overnight correction in the U.S.
+
+[NEWS_P002] markets should filter through to drag the local market lower today after the Federal Reserve reduced its forecast for further rate cuts in 2025. “Immediate index support stays at 1,588, the 38.2% Fibonacci retracement (FR) of the 1,529 low (Aug 6) to 1,684 high (Aug 29) rally, with stronger key supports at 1,565, the 23.6% FR level, and then 1,550. “Immediate resistance remains at 1,628, next 1,648, followed by the September peak of 1,675,” it said.
+
+[NEWS_P003] Malacca Securities stated that negative sentiment is expected to spill over into the local stock market. However, it believes that export-oriented stocks, especially in the gloves and technology sectors, could benefit from a stronger dollar index. This is due to the Federal Reserve’s interest rate outlook, which indicates a slower easing cycle. “Also, we remain positive on stocks related to the data centre supply chain and anticipate that the sub-utility and building material segments will trade on a positive trend, at least in the near term,” Malacca Securities said.
+
+[NEWS_P004] Among the losers on Bursa Malaysia, Nestle tumbled RM3.22 to RM95.78, Malaysian Pacific Industries lost 38 sen to RM25.90, PPB Group slid 34 sen to RM11.78 and PETRONAS Dagangan eased 34 sen to RM19.90. Conversely, Ayer added 40 sen to RM7.60, F&N rose 30 sen to RM27.90, Batu Kawan gained 18 sen to RM20.16 and Hong Leong Industries climbed 14 sen to RM14.30. ACE Market debutant, Winstar Capital added 16 sen to 51 sen with 72.46 million shares traded.
+
+[NEWS_P005] Meanwhile, YTL Power rose by 24 sen to RM3.90, and YTL Corp added 21 sen to RM2.35, contributing 2.8811 points and 3.3846 points to the index, respectively.

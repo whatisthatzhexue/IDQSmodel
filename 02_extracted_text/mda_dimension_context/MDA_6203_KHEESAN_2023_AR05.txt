@@ -1,0 +1,53 @@
+document_id: MDA_6203_KHEESAN_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 38, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 54.023, "paragraph_count": 38, "paragraph_length_distribution": {"max": 1186, "mean": 356.763, "min": 1}, "repetition_ratio": 0.394737, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Khee San Berhad (“KSB”) and its three (3) subsidiaries Khee San Food Industries Sdn Bhd (“KSFI”), Khee San Marketing
+Sdn Bhd and Mega Global Confectionary Sdn Bhd (collectively known as “the Group”), are the largest manufacturers
+of candy in Malaysia. The Group’s headquarter and facilities are located in Seri Kembangan, Selangor Darul Ehsan, Malaysia where it
+produces and distributes the following products:
+The Group managed to achieve RM55.6 million revenue for the current financial year, an increase of RM22.6 million
+(68%) compared to the previous financial year primary due to improved in market demand and sales activity from
+local and export markets. In addition, the Group managed to register a gross profit (“GP”) of RM 11.8 million in the current financial year as
+compared to a thin gross profit margin of RM3.8 million in the previous financial year. The Group’s profit before tax for the current financial year was RM0.9 million, a significant increase of RM15.8 million
+compared to the previous financial year.
+[MDA_P010]
+)<(
+)<(
+(2.7)
+0.1
+3.6
+(0.9)
+0.2
+(0.5)
+(0.2)
+(0.7)
+(1.3)
+(0.4)
+0.5
+(1.9)
+1.7
+9DULDQFH
+$118$/5(3257 2023
+[MDA_P020]
+$
+[MDA_P029]
+As an example, sugar price fluctuations may severely impact the Group as it is a major component
+of the Group’s products. Realising this issue, the Group has taken necessary steps to reduce the risk of constant price
+fluctuations by engaging with its various raw material suppliers to strive for favourable longer-term supply
+arrangements. At the same time, the Group are constantly exploring with new suppliers to ensure that it is not overly
+dependent and reliant on its current key suppliers. The Group shall ensure that these initiatives are carried out without
+compromising its products quality. Fluctuation of raw materials price
+Significant fluctuation of foreign currency exchange rate will impact the Group’s cash flow movement and
+profitability as most of its input materials are sourced from abroad. In addition, the Group also relies on its export sales
+which are also subject to changes in currency exchange rates. The Group shall manage currency exchange rate
+fluctuations by continuing to monitor global currency movements and, if necessary, take proactive hedging positions
+to mitigate such risk.
+[MDA_P038]
+.+((6$1%(5+$'

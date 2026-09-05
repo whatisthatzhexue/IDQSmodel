@@ -1,0 +1,2 @@
+broad_rows,company_focused_rows,suspect_or_manual_review_rows,shared_document_rows,company_focused_share,rank_spearman_shared_docs,top_20_overlap,bottom_20_overlap,interpretation
+125,0,0,0,0.0,0.0,0.0,0.0,Broad sample is retained for document-level measurement; strict company-focused subset should be used for company-specific robustness.

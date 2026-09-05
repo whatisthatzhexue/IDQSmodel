@@ -1,0 +1,41 @@
+document_id: MDA_8303_LOTUS_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 137.712, "paragraph_count": 18, "paragraph_length_distribution": {"max": 1171, "mean": 576.556, "min": 95}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+Overview of Business and Operations
+Lotus KFM Berhad (“LKFM”) is principally engaged in flour milling and trading in its related products. The two main
+sources of revenue comprise of milling of wheat flour and trading of tapioca flour. Founded in 1984 and known as Kuantan Flour Mills (KFM) then, the company grew rapidly in the next 25 years before
+experiencing headwinds that affected its operation in 2015, when the company was classified as an affected listed issuer
+under PN17. On 28 November 2019, it had successfully completed its regularisation plan which was approved by Bursa
+Malaysia Securities Berhad (“Bursa Securities”) on 11 January 2019. Following a successful regularisation plan on 28 November 2019 which was approved by Bursa Securities in early 2019,
+the company then appointed several new Board members to strengthen its Board with diversified talent in skill, expertise
+and experience. The Company renewed its marketing strategy to continue re-captured its flour market share since the
+re-activation of its business operations.
+[MDA_P005]
+As compared with the prior year, LKFM
+has decreased its gross profit by 21.79%. The gross profit margin for the current year is 8.28% (FYE 2020: 9.94%). The
+main reason for the declining margin is due to the fluctuation of wheat prices. The COVID-19 pandemic had caused the
+global supply of wheat to decrease which resulted in an increase in the market price of wheat. Furthermore, the sea-freight rate also had increased due to the imbalance in container box demand issue in the shipping
+industry. As a result, the cost of importing wheat had increased which led to a lower gross profit margin. The Group’s inventories level for the current FYE 2021 had decreased by 47.97% to RM4.497 million (FYE 2020: RM8.642
+million), where LKFM is trying to maintain a lower inventory level to minimise the holding cost and carrying cost. By doing
+so, it can also reduce the risk of slow-moving stock. Trade receivables had decreased by 8.79% to RM5.940 million (FYE 2020: RM6.512 million) which is in line with current
+financial year sales. In short, the sales team is actively approaching customers for collection.
+[MDA_P010]
+As the cost of these raw materials constitutes a major part of wheat flour and tapioca starch cost, managing these
+costs remain the key challenge.
+[MDA_P014]
+ANNUAL REPORT 2021
+Anticipated Business Risks (cont’d)
+c)
+Volatility of currency exchange rates
+[MDA_P018]
+Note of Appreciation
+To our shareholders, customers, suppliers and business associates, who have given us valuable support, we wish to
+express our sincere appreciation and thanks to all of your enduring trust and confidence in our business. Management Discussion and Analysis
+(cont’d)

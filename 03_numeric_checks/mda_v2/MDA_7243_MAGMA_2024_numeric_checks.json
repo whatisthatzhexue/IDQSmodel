@@ -1,0 +1,59 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 1.447739,
+      "current_value": 248.76,
+      "direction_word": "increased",
+      "evidence_locator": "[MDA_P009]",
+      "metric": "assets",
+      "note": "Assets: stated 1.50%, calculated 1.45%, status consistent.",
+      "previous_value": 245.21,
+      "source_text": "Assets Total assets increased modestly by 1.5%, from RM245.21 million to RM248.76 million",
+      "stated_pct": 1.5,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": 109.808388,
+      "current_value": 16390.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P003]",
+      "metric": "margin",
+      "note": "margin: stated 3.20%, calculated 109.81% from profit/revenue, status material_discrepancy.",
+      "previous_value": 14926.0,
+      "source_text": "FYE 2023 Revenue 14,926 14,458 3.2% Gross Profit (“GP”) 16,390 16,543 (0.9%) Gross Profit Margin (“GPM”) 109.8% 114.4% Administrative Expenses -21,829 -12,420 (75.7%) Other Cost -40,582 -17,141 (>100%) (Loss) Before Tax (“LBT”) -46,020 -13,018 (>100%) (Loss) After Tax from Continued Operations -1 (“",
+      "stated_pct": 3.2,
+      "status": "material_discrepancy"
+    },
+    {
+      "calculated_change_pct": 42072.641,
+      "current_value": 42072.641,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P005]",
+      "metric": "segment revenue",
+      "note": "segment revenue: possible table extraction or multi-year pairing issue; components sum 42072.64, stated total -2451.00, difference 1816.55%.",
+      "previous_value": -2451.0,
+      "source_text": "MANAGEMENT DISCUSSION & ANALYSIS (Overview of Group Business) cont’d As a result, the Group reported a Loss Before Tax (“LBT”) of RM46.02 million, compared to RM13.02 million in FYE2023. The Loss After Tax (“LAT”) attributable to the owners from continuing operations widened to RM45.466 million, up ",
+      "stated_pct": 0,
+      "status": "needs_manual_review"
+    }
+  ],
+  "document_id": "MDA_7243_MAGMA_2024",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": true,
+  "internal_check_notes": [
+    "Assets: stated 1.50%, calculated 1.45%, status consistent.",
+    "margin: stated 3.20%, calculated 109.81% from profit/revenue, status material_discrepancy.",
+    "segment revenue: possible table extraction or multi-year pairing issue; components sum 42072.64, stated total -2451.00, difference 1816.55%."
+  ],
+  "num_calculable_changes": 2,
+  "num_consistent_checks": 1,
+  "num_financial_mentions": 88,
+  "num_material_discrepancies": 1,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 1,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "weak"
+}

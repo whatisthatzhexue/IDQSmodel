@@ -1,0 +1,70 @@
+document_id: MDA_6432_APOLLO_2020
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 41, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P014]", "note": "profit: stated 1.46%, calculated 5.89%, status material_discrepancy.", "source_text": "profit margin was improved by 1.46% from 24.77% to 26.23%", "status": "material_discrepancy"}], "document_id": "MDA_6432_APOLLO_2020", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 22, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P010]
+FINANCIAL PERFORMANCE
+[MDA_P011]
+Revenue
+[MDA_P012]
+The Group registered a turnover of RM174.93 million for the financial year ended 30 April 2020, a decrease of
+7.37% as compared to RM188.84 million in previous financial year ended 30 April 2019. 72% of the turnover
+was contributed by local market and there were no material changes on the sales proportion from previous
+financial year.
+[MDA_P013]
+Profit for the Financial Year
+[MDA_P014]
+The profit after taxation had decreased by 18.26% to RM14.24 million from RM17.43 million as recorded in the
+previous financial year. The current financial year’s profit margin was improved by 1.46% from 24.77% to
+26.23%. The lower turnover and other income coupled with a higher administrative expense had resulted in a
+lower profit.
+[MDA_P015]
+Consequently, the Group’s earnings per share had decreased from 21.78 sen to 17.81 sen over the financial
+year.
+[MDA_P016]
+ANNUAL REPORT 2020
+APOLLO FOOD HOLDINGS BERHAD 199401005792 (291471-M)
+[MDA_P018]
+Financial Position
+[MDA_P019]
+Total assets had decreased from RM266.29 million as at last financial year end to RM263.55 million as at
+current financial year end. A decrease of RM2.74 million in total current assets was mainly contributed by the
+decrease in receivable and inventories.
+[MDA_P020]
+Total liabilities had decreased by RM980k while the Group’s equity had decreased by RM1.75 million from
+previous financial year end. Net asset per share had reduced from RM3.06 to RM3.04 as at current financial
+year end.
+[MDA_P021]
+RISK OVERVIEW
+[MDA_P025]
+(ii) Fluctuation of Foreign Currency Exchange Rate
+[MDA_P026]
+Significant fluctuation of foreign currency exchange rate will impact the Group’s cash flow movement and
+profitability. The movement of the foreign currency exchange rate is closely monitored by the Group’s
+management.
+[MDA_P027]
+(iii) Changes in Consumer’s Preferences
+[MDA_P038]
+In view of inflation on key raw materials’ prices and the volatility of Ringgit Malaysia against foreign currencies,
+raw materials’ prices are expected to be unstable in the forthcoming year. Coupled with the uncertainties in
+the global economy due to the Covid-19 pandemic, the Group expects that the business performance in
+forthcoming year will become more challenging. In order to maintain its profitability, the Group will focus its
+efforts to closely monitor the prices of raw materials and to review its business strategies when deem
+necessary.
+[MDA_P039]
+The Board expects a forthcoming challenging year for the Group and will adopt a vigilant and prudent stance.
+The Group will strive to ensure that it continues to achieve satisfactory results by implementing prudent
+measures and improving operational efficiency so as to sustain the current margin without compromising the
+products’ quality. To improve its stream of revenue, the Group will put more efforts in focusing and enhancing
+its brands recognition and products’ varieties for new business opportunities.
+[MDA_P040]
+DIVIDEND POLICY
+[MDA_P041]
+The Board of Directors recommend a first and final dividend of 20 sen under the single tier system (tax
+exempt) for the financial year ended 30 April 2020. The dividend rate will subject to the shareholders’ approval
+at the forthcoming Annual General Meeting to be held on 28 October 2020. The dividend will be paid on 12
+January 2021 once it is approved.

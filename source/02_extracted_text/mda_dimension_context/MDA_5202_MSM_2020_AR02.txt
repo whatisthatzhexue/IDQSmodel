@@ -1,0 +1,109 @@
+document_id: MDA_5202_MSM_2020
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 87, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_5202_MSM_2020", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 229, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+GROUP CHIEF EXECUTIVE OFFICER
+REVIEW
+Generally, the business community in Malaysia is experiencing
+tighter cash flow due to enforced business closures as part
+of the government’s movement control order (MCO) from
+March to May 2020. For the food and beverage sector,
+manufacturers started regulating productions which directly
+affects the consumption of sugar. Domestic economic
+recovery has also been further hampered with the
+Conditional Movement Control Order (CMCO) announced in
+quarter 4 (Q4) of 2020 due to the third wave of COVID-19. This has caused a drop in domestic sugar consumption for
+the wholesale and industry segment for 2020. The sharp slowdown in economic activities is expected to
+contract Malaysia’s GDP by at least 3.1% in 2020 according to
+World Bank projections. 2020 Performance Review
+Overall, MSM’s financial performance was mainly affected
+by lower sugar consumption in the domestic wholesale
+and industry segment due to MCO since late March 2020. During the year under review, the Group’s domestic sales
+volume dropped by 110,000 tonnes or 13% lower compared
+to the prior year and revenue loss was approximately
+RM118 million.
+[MDA_P002]
+During the initial phase of MCO, most of
+the domestic customers suspended their operations whilst
+During the
+initial
+phase
+of MCO, most
+of the
+domestic
+customers
+suspended
+their operations whilst the Industry customers were facing export supply chain
+disruptions. Nonetheless, consumption trends have been improving since Q3 2020
+based onthe positive operational earnings ofthe Group since July 2020. “
+“
+2020 Market Overview
+Global and local markets were hit by an unprecedented
+impact from COVID-19 in 2020 that continues to reverberate
+into 2021. This has changed the landscape of business and
+challenged many industries, some of which, such as travel
+and hospitality, are recording immense setbacks following
+the travel bans and other virus containment measures
+imposed by the Government. the Industry customers were facing export supply chain
+disruptions. Nonetheless, consumption trends have been
+improving since Q3 2020 based on the positive operational
+earnings of the Group since July 2020. The weak sales volume in Domestic segment has been
+supplemented by an increased Export segment sales volume.
+[MDA_P003]
+The refined sugar volume has recorded a significant increase
+by almost threefold the volume recorded last year mainly
+influenced by increase Premium which contributed to an
+increase in revenue of more than RM200 million whilst new
+export products such as Liquid Sugar (LS), Fine Syrup (FS) and
+Premix Sugar (PS) contributed to an increase in revenue of
+approximately more than RM80 million. On the operations and reliability front, MSM continued to
+deliver up to customer expectations during the year and
+ensured sufficient sugar supply towards the nation. One of
+the highlights of the year was the celebration of ‘Gula Prai’
+as a trusted brand, with over 50 years of experience in sugar
+refining industries. Through the tagline ‘Sweetening the lives
+of Malaysians since 1964’, a refreshed brand positioning was
+introduced to strengthen brand positioning and create top of
+mind awareness of Malaysia’s longest serving sugar brand. Towards this end, MSM also introduced a new packaging for
+‘Gula Prai’ to reflect the brands long heritage in Malaysia.
+[MDA_P004]
+MSM MALAYSIA HOLDINGS BERHAD Annual Report 2020
+SUSTAINABILITY
+REPORT
+EFFECTIVE
+LEADERSHIP
+CORPORATE
+GOVERNANCE
+FINANCIAL
+STATEMENTS
+ADDITIONAL
+INFORMATION
+DETAILS OF THE ANNUAL
+GENERAL MEETING
+[MDA_P005]
+GROUP CHIEF EXECUTIVE OFFICER REVIEW
+During the year, MSM also made good strides on
+executing planned key strategic initiatives. Raw sugar procurement through the Just-In-Time
+method was set towards improving the Group’s cash
+position from minimal raw sugar stockholding, lowering
+Banker’s Acceptance (BA) interest cost and reducing
+external warehouse rental expenses. The Board has
+approved this initiative’s continuation through 2021 and
+2022. We completed MSM Johor’s LS and FS capacity upgrade
+to 12,000 tonnes/month. The upgraded FS lines were
+successfully installed in November 2020 while LS lines
+were completed in December 2020. The upgraded lines
+are projected to contribute up to 14% utilisation factor
+(UF) to MSM Johor. At present, the largest LS and FS
+importer is China with Indonesia and Philippines also
+identified as potential markets. Current existing world
+suppliers are refiners in Thailand, Vietnam, UAE and
+Malaysia. Another initiative that started in 2020 is to increase
+MSM Johor’s yield. The yield factor is critical to the sugar
+refining process as it determines the amount of sugar
+loss during the production.

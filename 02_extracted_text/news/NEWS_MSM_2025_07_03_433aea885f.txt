@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: TNB, Amtel, Gas Malaysia, GFM Services, MSM, UEM Edgenta, Dataprep, Wawasan Dengkil
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-07-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/03/trading-ideas-tnb-amtel-gas-malaysia-gfm-services-msm-uem-edgenta-dataprep-wawasan-dengkil
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Stocks in the news that could see trading interest on Thursday include Tenaga Nasional Bhd (TNB), Amtel Holdings Bhd , Gas Malaysia Bhd , GFM Services Bhd , MSM Malaysia Holdings Bhd , UEM Edgenta Bhd , Dataprep Holdings Bhd , and Wawasan Dengkil Holdings Bhd. The Federal Court allowed the Inland Revenue Board’s (IRB) appeal to reinstate an additional tax assessment of RM1.25bil against TNB for the 2018 assessment year, following a penalty remission from the original RM1.8bil notice.
+
+[NEWS_P002] TNB said the decision could negatively affect its earnings and net assets for the financial year ending Dec 31, 2025, but it is not expected to impact operations. Amtel has announced that its wholly-owned subsidiary, Amtel Cellular Sdn Bhd (AMCSB), will be venturing into the manufacturing and assembly of motor vehicles for the local and export markets. Gas Malaysia has resumed full gas supply operations following the lifting of a curtailment imposed after the transmission gas pipeline fire incident in Putra Heights, Subang Jaya.
+
+[NEWS_P003] GFM Services has signed a conditional share sale agreement to acquire a 60% stake in Shapadu Energy Sdn Bhd for RM30mil in cash from Shapadu Corp Sdn Bhd. MSM Malaysia has appointed Hasni Ahmad as acting group chief executive officer (CEO) effective July 3, 2025, following the resignation of Syed Feizal Syed Mohammad. UEM Edgenta has announced the resignation of its managing director and CEO Syahrunizam Samsudin, with effect from Aug 31, 2025. Dataprep’s subsidiaries Solsis (M) Sdn Bhd and Dataprep (M) Sdn Bhd have signed separate intellectual property (IP) rights purchase and transfer agreements with Qingdao Xingyun Digital Technology Co.
+
+[NEWS_P004] Ltd (QXDT) for RM12mil and RM3.5mil, respectively. Wawasan Dengkil has accepted a letter of award from TG Malim Hi-Tech Park Sdn Bhd to undertake site clearance and earthworks on 103.71 acres of land at Behrang Ulu, Perak for RM9.05mil.

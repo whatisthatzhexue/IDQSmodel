@@ -1,0 +1,59 @@
+document_id: MDA_5157_SG_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 168.442, "paragraph_count": 18, "paragraph_length_distribution": {"max": 1200, "mean": 869.611, "min": 76}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+SAUDEE GROUP BERHAD 200801036832 (838172-P)
+[MDA_P005]
+The reason for
+the decrease in COGS was mainly due to the inventories written off and rework of slow moving trading goods and sales of low margin
+products in FYE 2020. Furthermore, the reduction in COGS was also due to the effort of reducing overheads by programmes implemented
+by the management. Our Group’s administrative and selling expenses comprised mainly of marketing cost such as promotion expenses, listing of products
+cost, sales commissions, salaries and etc. The Group’s administrative and selling expenses reduced by RM1.4 million or 19.5% from RM14.8
+million in FYE 2020 to RM13.5 million in FYE 2021. The decrease was mainly due to the lean management implemented by the Group to
+reduce the selling and administrative costs. However, this reduction is mitigate by expected credit losses on trade receivables of RM1.5
+million in FYE 2021. The Group was able to improve the efficiency and reduce the employees expenses by RM0.9 million as compared
+to FYE 2020.
+[MDA_P010]
+This was mainly due to purchase of
+material towards the end of the financial year to be ready for post
+lock down period implemented by Malaysia government. However,
+the Management will continue to monitoring this situation and
+minimise the stock level and stock holding period. Trade and other receivables reduced by RM2.4 million from RM16.6
+million for FYE 2020 to RM14.2 million in FYE 2021. This represents
+a trade turnover period of 58 days for FYE 2021 as compared to 68
+days for FYE 2020. MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+SAUDEE GROUP BERHAD 200801036832 (838172-P)
+[MDA_P014]
+The Group will continuously improve on production efficiency
+and to further realise plan to penetrate into a bigger share in HORECA and OEM segment. EARNINGS / (LOSS) PER SHARE (SEN)
+(1.47)
+(2.64)
+0.34
+(18.04)
+(2.48)
+2017 (14 months)
+(5.00)
+5.00
+-
+(10.00)
+(15.00)
+(20.00)
+(25.00)
+ANNUAL REPORT 2021
+[MDA_P018]
+The SWG activities are:
+•
+Identifying environmental, economic and social risks and opportunities
+•
+Implement sustainability strategies for managing EES risks within their departments
+•
+Monitor EES performance and provide updates to the Board. BOARD OF DIRECTORS
+Sustainability Working Group
+Members of SWG comprise of Independent Non-Executive Directors, Executive Director and Heads of Departments
+SAUDEE GROUP BERHAD 200801036832 (838172-P)

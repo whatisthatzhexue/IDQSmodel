@@ -1,0 +1,542 @@
+{
+  "advisory_warnings": [
+    "missing input: 11_stability_analysis/reports/statistical_stability_report.md"
+  ],
+  "blocking_reasons": [
+    "mda_stability_success_rate",
+    "cross_validation_not_interpretable",
+    "cross_validation_run_complete",
+    "reproducibility_package_incomplete",
+    "statistical_stability_validation_exists"
+  ],
+  "can_write": [
+    "methodology",
+    "scoring framework",
+    "pipeline validation",
+    "limitations",
+    "reproducibility"
+  ],
+  "cannot_write": [
+    "final empirical results"
+  ],
+  "cross_validation_ready": false,
+  "freeze_allowed": false,
+  "mda_ready": false,
+  "news_ready": true,
+  "paper_ready": false,
+  "recommended_next_actions": [
+    "repair MD&A JSON/schema/stability failures without changing dimensions or weights",
+    "rerun cross-validation after real News scoring/text are available",
+    "build reproducibility package and rerun readiness check"
+  ],
+  "reproducibility_ready": false,
+  "steps": [
+    {
+      "result": {
+        "advisory_warnings": [
+          "missing input: FINAL_OUTPUT/dataset_frozen_metadata.json",
+          "missing input: FINAL_OUTPUT/final_quality_report.md",
+          "missing input: 11_stability_analysis/reports/statistical_stability_report.md",
+          "missing input: 08_reports/news_pipeline_status_report.md",
+          "missing input: 09_cross_validation/cross_validation_report.md",
+          "missing input: 09_cross_validation/claim_links.csv",
+          "missing input: FINAL_OUTPUT/mda_final_dataset.csv",
+          "news_pipeline_status_report is markdown-only or missing JSON; using final freeze metadata and registry checks"
+        ],
+        "blocking_reasons": [
+          "missing_final_freeze_metadata",
+          "mda_final_dataset_size",
+          "mda_stability_success_rate",
+          "mda_schema_valid",
+          "mda_system_error_rate",
+          "no_critical_evidence_failure",
+          "ar02_numeric_discrepancy_controlled",
+          "news_final_dataset_or_real_registry_not_ready",
+          "news_final_dataset_size",
+          "news_schema_valid",
+          "news_json_parse_failure_rate",
+          "news_registry_real",
+          "cross_validation_not_interpretable",
+          "cross_validation_pipeline_ready",
+          "real_news_exists",
+          "eligible_company_year_pair_count",
+          "cross_validation_run_complete",
+          "reproducibility_package_incomplete",
+          "requirements_txt_exists",
+          "run_reproduce_exists",
+          "pytest_log_exists",
+          "self_check_log_exists",
+          "final_freeze_log_exists",
+          "statistical_stability_validation_exists"
+        ],
+        "claim_link_count": 0,
+        "cross_validation_empirical_ready": false,
+        "cross_validation_pipeline_ready": false,
+        "cross_validation_ready": false,
+        "eligible_company_year_pair_count": 0,
+        "freeze_allowed": false,
+        "gate_a_mda": {
+          "ar02_numeric_discrepancy_controlled": false,
+          "mda_final_dataset_size": false,
+          "mda_schema_valid": false,
+          "mda_stability_success_rate": false,
+          "mda_system_error_rate": false,
+          "no_critical_evidence_failure": false,
+          "no_critical_scope_violation": true
+        },
+        "gate_b_news": {
+          "news_final_dataset_size": false,
+          "news_json_parse_failure_rate": false,
+          "news_registry_real": false,
+          "news_schema_valid": false,
+          "news_source_fields_present": true,
+          "synthetic_count_zero": true
+        },
+        "gate_c_cross_validation": {
+          "contradictions_flagged": true,
+          "cross_validation_pipeline_ready": false,
+          "cross_validation_run_complete": false,
+          "eligible_company_year_pair_count": false,
+          "mda_final_dataset_size": false,
+          "news_final_dataset_size": false,
+          "no_systematic_matching_failure": true,
+          "real_news_exists": false,
+          "same_source_not_independent": true,
+          "synthetic_news_count_zero": true
+        },
+        "gate_d_reproducibility": {
+          "final_freeze_log_exists": false,
+          "pytest_log_exists": false,
+          "requirements_txt_exists": false,
+          "run_reproduce_exists": false,
+          "self_check_log_exists": false,
+          "statistical_stability_validation_exists": false
+        },
+        "gate_e_paper_ready": false,
+        "mda_final_dataset_size": 0,
+        "mda_human_validation_ready": false,
+        "mda_ready": false,
+        "mda_semantic_ready": false,
+        "mda_stability_success_rate": null,
+        "mda_structural_ready": false,
+        "missing_inputs": [
+          {
+            "path": "FINAL_OUTPUT/dataset_frozen_metadata.json",
+            "reason": "missing input"
+          },
+          {
+            "path": "FINAL_OUTPUT/final_quality_report.md",
+            "reason": "missing input"
+          },
+          {
+            "path": "11_stability_analysis/reports/statistical_stability_report.md",
+            "reason": "missing input"
+          },
+          {
+            "path": "08_reports/news_pipeline_status_report.md",
+            "reason": "missing input"
+          },
+          {
+            "path": "09_cross_validation/cross_validation_report.md",
+            "reason": "missing input"
+          },
+          {
+            "path": "09_cross_validation/claim_links.csv",
+            "reason": "missing input"
+          },
+          {
+            "path": "FINAL_OUTPUT/mda_final_dataset.csv",
+            "reason": "missing input"
+          }
+        ],
+        "mock_mode": false,
+        "news_company_focused_dataset_size": 0,
+        "news_final_dataset_size": 0,
+        "news_ready": false,
+        "paper_ready": false,
+        "recommended_next_actions": [
+          "repair MD&A JSON/schema/stability failures without changing dimensions or weights",
+          "provide real news_raw.csv or news_raw.xlsx with ticker, company_name, publish_date, source_name, title, url, article_text",
+          "score real News documents with qwen3:8b after valid full-text News inputs are available",
+          "rerun cross-validation after real News scoring/text are available",
+          "build reproducibility package and rerun readiness check"
+        ],
+        "reproducibility_ready": false,
+        "synthetic_news_count": 0,
+        "system_level_error_rate": null,
+        "systemic_conflict_flag": false
+      },
+      "step": "run_paper_readiness_check_initial"
+    },
+    {
+      "result": {
+        "blocking_reasons": [
+          "mda_stability_success_rate",
+          "cross_validation_not_interpretable",
+          "cross_validation_run_complete",
+          "reproducibility_package_incomplete",
+          "requirements_txt_exists",
+          "run_reproduce_exists",
+          "pytest_log_exists",
+          "self_check_log_exists",
+          "statistical_stability_validation_exists"
+        ],
+        "paper_ready": false,
+        "rounds_run": 2,
+        "stop_reason": "no further automatic progress"
+      },
+      "step": "run_paper_convergence_loop"
+    },
+    {
+      "result": {
+        "excluded_documents_count": {
+          "mda": 0,
+          "news": 0
+        },
+        "final_dataset_size": {
+          "mda": 149,
+          "news": 125,
+          "news_company_focused": 0
+        },
+        "final_output_dir": "FINAL_OUTPUT",
+        "freeze_allowed": false,
+        "reason_distribution": {
+          "confirmed_numeric_failure": 0,
+          "cross-validation conflict": 0,
+          "json failure": 0,
+          "low confidence": 0,
+          "missing evidence": 0,
+          "not_enough_numbers": 45,
+          "numeric_review_required": 0
+        },
+        "system_level_error_rate": 0.0
+      },
+      "step": "run_final_data_freeze"
+    },
+    {
+      "result": {
+        "advisory_warnings": [
+          "missing input: 11_stability_analysis/reports/statistical_stability_report.md"
+        ],
+        "blocking_reasons": [
+          "mda_stability_success_rate",
+          "cross_validation_not_interpretable",
+          "cross_validation_run_complete",
+          "reproducibility_package_incomplete",
+          "requirements_txt_exists",
+          "run_reproduce_exists",
+          "pytest_log_exists",
+          "self_check_log_exists",
+          "statistical_stability_validation_exists"
+        ],
+        "claim_link_count": 0,
+        "cross_validation_empirical_ready": false,
+        "cross_validation_pipeline_ready": true,
+        "cross_validation_ready": false,
+        "eligible_company_year_pair_count": 11,
+        "freeze_allowed": false,
+        "gate_a_mda": {
+          "ar02_numeric_discrepancy_controlled": true,
+          "mda_final_dataset_size": true,
+          "mda_schema_valid": true,
+          "mda_stability_success_rate": false,
+          "mda_system_error_rate": true,
+          "no_critical_evidence_failure": true,
+          "no_critical_scope_violation": true
+        },
+        "gate_b_news": {
+          "news_final_dataset_size": true,
+          "news_json_parse_failure_rate": true,
+          "news_registry_real": true,
+          "news_schema_valid": true,
+          "news_source_fields_present": true,
+          "synthetic_count_zero": true
+        },
+        "gate_c_cross_validation": {
+          "contradictions_flagged": true,
+          "cross_validation_pipeline_ready": true,
+          "cross_validation_run_complete": false,
+          "eligible_company_year_pair_count": true,
+          "mda_final_dataset_size": true,
+          "news_final_dataset_size": true,
+          "no_systematic_matching_failure": true,
+          "real_news_exists": true,
+          "same_source_not_independent": true,
+          "synthetic_news_count_zero": true
+        },
+        "gate_d_reproducibility": {
+          "final_freeze_log_exists": true,
+          "pytest_log_exists": false,
+          "requirements_txt_exists": false,
+          "run_reproduce_exists": false,
+          "self_check_log_exists": false,
+          "statistical_stability_validation_exists": false
+        },
+        "gate_e_paper_ready": false,
+        "mda_final_dataset_size": 149,
+        "mda_human_validation_ready": false,
+        "mda_ready": false,
+        "mda_semantic_ready": false,
+        "mda_stability_success_rate": 0.0,
+        "mda_structural_ready": false,
+        "missing_inputs": [
+          {
+            "path": "11_stability_analysis/reports/statistical_stability_report.md",
+            "reason": "missing input"
+          }
+        ],
+        "mock_mode": false,
+        "news_company_focused_dataset_size": 0,
+        "news_final_dataset_size": 125,
+        "news_ready": true,
+        "paper_ready": false,
+        "recommended_next_actions": [
+          "repair MD&A JSON/schema/stability failures without changing dimensions or weights",
+          "rerun cross-validation after real News scoring/text are available",
+          "build reproducibility package and rerun readiness check"
+        ],
+        "reproducibility_ready": false,
+        "synthetic_news_count": 0,
+        "system_level_error_rate": 0.0,
+        "systemic_conflict_flag": false
+      },
+      "step": "run_paper_readiness_check_after_freeze"
+    },
+    {
+      "result": {
+        "cn": "PAPER_OUTPUT\\01_methods\\methods_section_cn.md",
+        "en": "PAPER_OUTPUT\\01_methods\\methods_section_en.md"
+      },
+      "step": "build_paper_methods_section"
+    },
+    {
+      "result": {
+        "cn": "PAPER_OUTPUT\\02_data\\data_section_cn.md",
+        "en": "PAPER_OUTPUT\\02_data\\data_section_en.md",
+        "sample_table": "PAPER_OUTPUT\\tables\\table_1_sample_construction.csv"
+      },
+      "step": "build_paper_data_section"
+    },
+    {
+      "result": {
+        "cn": "PAPER_OUTPUT\\01_methods\\scoring_framework_cn.md",
+        "en": "PAPER_OUTPUT\\01_methods\\scoring_framework_en.md",
+        "weighting_table": "PAPER_OUTPUT\\tables\\table_5_weighting_schemes.csv"
+      },
+      "step": "build_paper_scoring_framework"
+    },
+    {
+      "result": {
+        "mda_rows": 149,
+        "news_rows": 125,
+        "paper_ready": false
+      },
+      "step": "build_paper_results_tables"
+    },
+    {
+      "result": {
+        "cn": "PAPER_OUTPUT\\05_quality_control\\quality_control_section_cn.md",
+        "en": "PAPER_OUTPUT\\05_quality_control\\quality_control_section_en.md"
+      },
+      "step": "build_paper_stability_and_qc"
+    },
+    {
+      "result": {
+        "cn": "PAPER_OUTPUT\\06_cross_validation\\cross_validation_section_cn.md",
+        "cross_validation_ready": false,
+        "en": "PAPER_OUTPUT\\06_cross_validation\\cross_validation_section_en.md"
+      },
+      "step": "build_paper_cross_validation_section"
+    },
+    {
+      "result": {
+        "cn": "PAPER_OUTPUT\\07_limitations\\limitations_cn.md",
+        "en": "PAPER_OUTPUT\\07_limitations\\limitations_en.md"
+      },
+      "step": "build_paper_limitations"
+    },
+    {
+      "result": {
+        "commands": [
+          "bash run_reproduce.sh",
+          "SKIP_VENV=1 bash run_reproduce.sh",
+          "python 06_scoring/scripts/audit_filter_news_relevance.py --mode manual_preserve",
+          "python 06_scoring/scripts/build_news_registry_from_filter_news.py",
+          "python 06_scoring/scripts/extract_filter_news_texts.py",
+          "python 06_scoring/scripts/run_filter_news_final_scoring.py --model qwen3:8b",
+          "python 06_scoring/scripts/backfill_qwen_runtime_metadata.py",
+          "python 06_scoring/scripts/extract_mda_claims.py",
+          "python 06_scoring/scripts/extract_news_claims.py",
+          "python 06_scoring/scripts/run_claim_scoring.py --source-type news --mock",
+          "python 06_scoring/scripts/run_claim_scoring.py --source-type mda --mock",
+          "python 06_scoring/scripts/run_cross_validation.py --mode full --mock",
+          "python 06_scoring/scripts/finalize_filter_news_cross_validation.py --skip-run",
+          "python 06_scoring/scripts/self_check_pipeline.py --max-rounds 5",
+          "python 06_scoring/scripts/validate_stability_outputs.py",
+          "python 06_scoring/scripts/run_final_data_freeze.py",
+          "python -m pytest 06_scoring/tests -q",
+          "python 06_scoring/scripts/run_paper_readiness_check.py"
+        ],
+        "empty_csv_audit_path": "PAPER_OUTPUT\\09_reproducibility\\empty_csv_audit.csv",
+        "requirements": "requirements.txt",
+        "run_reproduce": "run_reproduce.sh",
+        "top_level_manifest": "FINAL_PACKAGE_MANIFEST.md"
+      },
+      "step": "build_paper_reproducibility_package"
+    },
+    {
+      "result": {
+        "advisory_warnings": [
+          "missing input: 11_stability_analysis/reports/statistical_stability_report.md"
+        ],
+        "blocking_reasons": [
+          "mda_stability_success_rate",
+          "cross_validation_not_interpretable",
+          "cross_validation_run_complete",
+          "reproducibility_package_incomplete",
+          "statistical_stability_validation_exists"
+        ],
+        "claim_link_count": 0,
+        "cross_validation_empirical_ready": false,
+        "cross_validation_pipeline_ready": true,
+        "cross_validation_ready": false,
+        "eligible_company_year_pair_count": 11,
+        "freeze_allowed": false,
+        "gate_a_mda": {
+          "ar02_numeric_discrepancy_controlled": true,
+          "mda_final_dataset_size": true,
+          "mda_schema_valid": true,
+          "mda_stability_success_rate": false,
+          "mda_system_error_rate": true,
+          "no_critical_evidence_failure": true,
+          "no_critical_scope_violation": true
+        },
+        "gate_b_news": {
+          "news_final_dataset_size": true,
+          "news_json_parse_failure_rate": true,
+          "news_registry_real": true,
+          "news_schema_valid": true,
+          "news_source_fields_present": true,
+          "synthetic_count_zero": true
+        },
+        "gate_c_cross_validation": {
+          "contradictions_flagged": true,
+          "cross_validation_pipeline_ready": true,
+          "cross_validation_run_complete": false,
+          "eligible_company_year_pair_count": true,
+          "mda_final_dataset_size": true,
+          "news_final_dataset_size": true,
+          "no_systematic_matching_failure": true,
+          "real_news_exists": true,
+          "same_source_not_independent": true,
+          "synthetic_news_count_zero": true
+        },
+        "gate_d_reproducibility": {
+          "final_freeze_log_exists": true,
+          "pytest_log_exists": true,
+          "requirements_txt_exists": true,
+          "run_reproduce_exists": true,
+          "self_check_log_exists": true,
+          "statistical_stability_validation_exists": false
+        },
+        "gate_e_paper_ready": false,
+        "mda_final_dataset_size": 149,
+        "mda_human_validation_ready": false,
+        "mda_ready": false,
+        "mda_semantic_ready": false,
+        "mda_stability_success_rate": 0.0,
+        "mda_structural_ready": false,
+        "missing_inputs": [
+          {
+            "path": "11_stability_analysis/reports/statistical_stability_report.md",
+            "reason": "missing input"
+          }
+        ],
+        "mock_mode": false,
+        "news_company_focused_dataset_size": 0,
+        "news_final_dataset_size": 125,
+        "news_ready": true,
+        "paper_ready": false,
+        "recommended_next_actions": [
+          "repair MD&A JSON/schema/stability failures without changing dimensions or weights",
+          "rerun cross-validation after real News scoring/text are available",
+          "build reproducibility package and rerun readiness check"
+        ],
+        "reproducibility_ready": false,
+        "synthetic_news_count": 0,
+        "system_level_error_rate": 0.0,
+        "systemic_conflict_flag": false
+      },
+      "step": "run_paper_readiness_check_after_reproducibility"
+    },
+    {
+      "result": {
+        "advisory_warnings": [
+          "missing input: 11_stability_analysis/reports/statistical_stability_report.md"
+        ],
+        "blocking_reasons": [
+          "mda_stability_success_rate",
+          "cross_validation_not_interpretable",
+          "cross_validation_run_complete",
+          "reproducibility_package_incomplete",
+          "statistical_stability_validation_exists"
+        ],
+        "claim_link_count": 0,
+        "cross_validation_empirical_ready": false,
+        "cross_validation_pipeline_ready": true,
+        "cross_validation_ready": false,
+        "eligible_company_year_pair_count": 11,
+        "freeze_allowed": false,
+        "mda_final_dataset_size": 149,
+        "mda_human_validation_ready": false,
+        "mda_ready": false,
+        "mda_semantic_ready": false,
+        "mda_stability_success_rate": 0.0,
+        "mda_structural_ready": false,
+        "mock_mode": false,
+        "news_company_focused_dataset_size": 0,
+        "news_final_dataset_size": 125,
+        "news_ready": true,
+        "paper_ready": false,
+        "recommended_next_actions": [
+          "repair MD&A JSON/schema/stability failures without changing dimensions or weights",
+          "rerun cross-validation after real News scoring/text are available",
+          "build reproducibility package and rerun readiness check"
+        ],
+        "reproducibility_ready": false,
+        "synthetic_news_count": 0,
+        "system_level_error_rate": 0.0,
+        "systemic_conflict_flag": false
+      },
+      "step": "build_paper_ready_report"
+    },
+    {
+      "result": {
+        "missing_files": [],
+        "passed": true,
+        "report_exists": true,
+        "status_exists": true
+      },
+      "step": "validate_paper_outputs"
+    },
+    {
+      "result": {
+        "log_path": "PAPER_OUTPUT\\09_reproducibility\\pytest_run.log",
+        "passed": false,
+        "returncode": 4
+      },
+      "step": "run_tests"
+    }
+  ],
+  "tests": {
+    "log_path": "PAPER_OUTPUT\\09_reproducibility\\pytest_run.log",
+    "passed": false,
+    "returncode": 4
+  },
+  "validation": {
+    "missing_files": [],
+    "passed": true,
+    "report_exists": true,
+    "status_exists": true
+  }
+}

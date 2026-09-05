@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit slips at opening against greenback as US rate cut hopes fade
+
+[METADATA]
+ticker: OFI
+company_name: Oriental Food Industries Holdings Berhad
+publish_date: 2025-07-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/16/ringgit-slips-at-opening-against-greenback-as-us-rate-cut-hopes-fade
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit opened lower against the US dollar today as the greenback strengthened on waning hopes of an interest rate cut this month by the United States. At 8 am, the ringgit dipped to 4.2480/2575 against the greenback, compared to Tuesday’s close of 4.2395/2440. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the US June Consumer Price Index (CPI) report released on Tuesday suggests that the inflation rate there is climbing, dashing hopes for an interest rate cut at the upcoming US Federal Open Market Committee (FOMC) meeting at the end of July.
+
+[NEWS_P002] "The US CPI came in at 2.7 per cent higher year-on-year in June from 2.4 per cent in the preceding month and similarly, the core CPI rose 2.9 per cent during June after sustaining 2.8 per cent increases for three consecutive months," he told Bernama. Mohd Afzanizam also noted that China's second quarter gross domestic product (GDP) moderated to 5.2 per cent from 5.4 per cent in the first quarter, resulting in the Chinese yuan weakening against the greenback by 0.15 per cent to 7.1825 yuan.
+
+[NEWS_P003] "In light of the latest US CPI and China’s GDP, the ringgit could experience some knee jerk reaction with the US dollar-ringgit pair at around RM4.24-RM4.26 today," he added. At the open, the ringgit was traded higher against a basket of major currencies. It improved against the Japanese yen to 2.8552/8618 from 2.8702/8734 yesterday, strengthened against the British pound to 5.6893/7021 from 5.7047/7107, and gained versus the euro to 4.9311/9421 from 4.9539/9591.
+
+[NEWS_P004] The local note trended mixed against ASEAN currencies. The ringgit trended firmer vis-à-vis the Singapore dollar at 3.3066/3145 from 3.3095/3133, and edged up against the Thai baht to 13.0355/0783 from 13.0784/0988. But it slipped against the Indonesian rupiah to 261.1/261.8 from 260.6/261.0 and dropped against the Philippine peso at 7.49/7.51 from 7.47/7.49 from Tuesday's close. - Bernama

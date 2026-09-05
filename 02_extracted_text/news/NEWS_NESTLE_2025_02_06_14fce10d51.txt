@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI tracks regional indices higher as nerves settle
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/06/fbm-klci-tracks-regional-indices-higher-as-nerves-settle
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI held on to a slight lead as it entered the lunch break with regional markets ticking higher after a recent bout of volatility. At 12.30pm, the benchmark index was up 1.88 points to 1,576.39, paring earlier gains. Investors, however, were seen taking money out of smaller caps with 405 stocks registering declines compared to 345 gaining. Turnover was 1.67 billion shares valued at RM958.27mil. In Asia, investors looked past fears of a full-blown trade war and anticipated the release of corporate results in the coming weeks.
+
+[NEWS_P002] China's composite index rose 0.76% to 3,254 and Hong Kong's Hang Seng gained 0.29% to 20,655. Japan's Nikkei gained 0.4% to 39,986 while Singapore's Straits Times added 0.46% to 3,832. On Bursa Malaysia, Nestle bounced 64 sen higher to RM90.02 and LPI Capital climbed 44 sen to RM13.80 Bonia surged 13 sen to RM1.38 while HCK climbed nine sen to RM2.35. Of actives, Northern Solar topped the list after rising 16.5 sen to 79.5 sen on 122.18 million shares done.
+
+[NEWS_P003] Ingenieur rose one sen to 5.5 sen on 51.44 million shares changing hands while MYEG gained 0.5 sen to 97.5 sen on 39.69 million stocks crossed.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rises slightly on dovish Fed comments
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-07-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/10/fbm-klci-rises-slightly-on-dovish-fed-comments
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI maintained a slight lead going into the lunch break as investors grew more optimistic over the prospect of rate cuts in the US. At 12.30pm, the key index was up 2.63 points to 1,617.05 underpinned by gains in plantations plays. Over the course of trading, the FBM KLCI moved within a 5.7-point range of 1,613.65 to 1,619.35. Kuala Lumpur Kepong rose eight sen to RM20.02 while PPB climbed 16 sen to RM14.32. CIMB jumped nine sen to RM7.06, outpacing other banks including Maybank, which lost four sen to RM10.02 and Public Bank, up one sen to RM4.12.
+
+[NEWS_P002] The domestic market as a whole, however, faced selling pressure as 569 stocks were in decline compared to 381 gainers. Share turnover in the early session was 2.63 billion valued at RM1.6bil. Of actives, Dataprep rose 2.5 sen to 23.5 sen, Hubline dropped 0.5 sen to 7.5 sen and Bintai Kinden gained one sen to 11 sen. In Asian markets, major indices stayed cautious despite the dovish comments from Fed chair Jerome Powell overnight. China's composite index fell 0.3% to 2,949 and Japan's Nikkei slipped 0.05% to 41,560.
+
+[NEWS_P003] Singapore's Straits Times index rose 0.6% to 3,447 while Hong Kong's Hang Seng index gained 0.27% to 17,570.

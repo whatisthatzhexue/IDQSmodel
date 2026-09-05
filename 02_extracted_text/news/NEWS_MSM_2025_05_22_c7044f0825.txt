@@ -1,0 +1,14 @@
+[TITLE]
+Intraday short selling for MSM Malaysia suspended
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-05-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/22/intraday-short-selling-for-msm-malaysia-suspended
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: Trading of intraday short selling (IDSS) for MSM Malaysia Holdings Bhd shares has been suspended for the rest of the day as the last done price of the approved securities dropped more than 15 per cent or 15 sen from the reference price. As of 3.46 pm, MSM Malaysia lost 20 sen, or 14.39 per cent, to RM1.19 with 8.69 million shares traded. The sugar producer fluctuated between RM1.17 and RM1.39 during the trading session to date. In a special announcement today, Bursa Malaysia said the short selling under IDSS will only be activated at 8.30 am tomorrow (May 23).
+
+[NEWS_P002] - Bernama

@@ -1,0 +1,44 @@
+document_id: MDA_7167_ABLEGLOB_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 51, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 128.118, "paragraph_count": 51, "paragraph_length_distribution": {"max": 632, "mean": 322.745, "min": 47}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Statement on Management Discussion and Analysis (“MD&A”) provides an insight of the financial performance
+of Able Global Berhad (“AGB”) (Formerly known as Johore Tin Berhad) and its subsidiaries (“the Group”) for
+the financial year ended 31 December 2021 (“FYE 2021”). This MD&A also contains information on the Group’s
+overview of business and operations, current financial position, reviewing of operating activities, assessing the
+operational risks faced by the Group and discussing the future prospect of the Group.
+1.
+OVERVIEW OF BUSINESS AND OPERATIONS
+A.
+Business and Operations
+[MDA_P013]
+For F&B segment, the profit before tax decreased by RM13.17 million to RM28.09 million from RM41.80
+million is in line with the decrease in revenue and due to the increase in cost of goods sold in FYE 2021.
+Furthermore, the F&B segment shared the losses of equity accounted joint ventures amount to RM3.86
+million in FYE 2021 as both joint ventures commenced the operations in Quarter 3 of FYE 2021.
+[MDA_P026]
+Another factor that affects the operating activities of F&B segment is freight cost. The ongoing pandemic-
+related delays and closures of ports lead to higher freight costs and transit time volatile. The subsidiaries
+of F&B segment experience higher freight cost and delay in shipments. As there is no certainty when this
+situation is expected to normalise, the subsidiaries in F&B segment are trying to cope with the situation by
+engaging multiple shipping agents in order to get the best quote and the earliest possible delivery date to
+suit the customer’s requirement.
+4.
+REVIEW OF OPERATIONAL RISKS
+[MDA_P039]
+The Group’s continued success will depend upon, to a certain extent, the skills, experiences, abilities
+and continued efforts of the key management personnel. The loss of key management personnel in the
+Group may have an adverse impact on the performance of the Group.
+[MDA_P051]
+This forward-looking statement is based on current expectations and assumptions made by the Board
+through the analysis of historical information and trends. The Board is under no obligation to and expressly
+disclaims any obligation to, update or alter its forward-looking statements, whether as a result of new
+information, subsequent events or otherwise.
+This statement is made in accordance with a Board resolution dated 15 April 2022.
+Statement on Management Discussion and Analysis
+(Cont’d)

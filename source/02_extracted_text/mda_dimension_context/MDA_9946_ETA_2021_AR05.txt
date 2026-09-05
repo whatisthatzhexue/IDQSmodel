@@ -1,0 +1,73 @@
+document_id: MDA_9946_ETA_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 76.851, "paragraph_count": 12, "paragraph_length_distribution": {"max": 1137, "mean": 468.25, "min": 43}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+(Cont’d)
+[MDA_P004]
+RM’000
+RM’000
+RM’000
+RM’000
+RM’000
+Investment Ratio
+NTA per share
+2.18 0.48 0.43 0.38 0.24
+Basic Earnings/ (Loss) Per Share (Sen)
+5.27
+(8.05)
+(5.39) (3.84) 0.68
+Gross Dividend rate (%)
+2.00
+–
+–
+–
+–
+Dividend coverage ratio (times)
+2.64
+–
+–
+–
+–
+[MDA_P007]
+Liquidity ratio
+Current ratio
+2.45 2.34 1.81 1.32 1.87
+Quick ratio
+1.31 1.26 0.99 0.61
+0.93
+Note:
+1)
+The issued ordinary shares of the Company was increased from 246,626,468 to 493,252,936 unit of ordinary shares
+by way of issuance of 246,626,468 new ordinary shares arising from right issue exercise. The right issue has been
+completed following the Rights Shares were listed and quoted on the Main Market of Bursa Malaysia Securities
+Berhad on 15 December 2020.
+2)
+Basic Earning/(Loss) per ordinary share for the financial year is calculated by dividing the profit/(loss) after tax
+attributable to owners of the parent by weighted average number of ordinary shares outstanding during the financial
+year.
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+(Cont’d)
+[MDA_P010]
+Since 2018, REX has reduced its products by 40% to focus more on higher margin products,
+products that were less profitable but required lots of resources to produce were outsourced, headcount were significantly
+rationalized by investing in automation. The challenges brought about by the pandemic has made the management team take a closer look at its distribution
+channels, inventory management and cash conversion cycle. This has driven us to make significant changes to our goods
+return policies and how we handle our distributors. This approach has a positive effect as inventory write-offs and doubtful
+debts have reduced significantly. We remain proactive in addressing the challenges ahead and are cautiously optimistic of retaining a positive performance
+in the new FYE 2022. MANAGEMENT DISCUSSION
+AND ANALYSIS
+(Cont’d)
+[MDA_P012]
+DAMENDRAN KUNARETNAM
+Group Managing Director
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+(Cont’d)

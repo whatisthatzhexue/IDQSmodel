@@ -1,0 +1,16 @@
+[TITLE]
+Red Crescent distributes flood aid to over 6,000 families nationwide
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2024-12-18
+source_name: The Star
+url: https://www.thestar.com.my/news/nation/2024/12/18/red-crescent-distributes-flood-aid-to-over-6000-families-nationwide
+confidence_tier: low
+
+[NEWS_P001] KUALA BERANG: The Malaysian Red Crescent Society (MRCS) has distributed aid to more than 6,000 families affected by floods caused by the northeast monsoon nationwide. Its chairman Tan Sri Tunku Puteri Intan Safinaz Almarhum Sultan Abdul Halim Mu'adzam Shah said the assistance included food kits, clean water supply, hot meals and healthcare. The Tunku Temenggong of Kedah said mental health and psychosocial support services were also provided at flood relief centres to help victims deal with physical and emotional challenges.
+
+[NEWS_P002] "Besides that, the society also conducts health screening, hygiene promotion activities and visits to the homes of ailing flood victims to give them material and physical support. "This initiative is carried out in collaboration with various security agencies and private parties including KFC Malaysia, Nestle Malaysia, the National Disaster Management Agency and the Malaysian Armed Forces," she said after handing over flood aid to 70 families in Kampung Tadok, Hulu Terengganu here on Wednesday (Dec 18).
+
+[NEWS_P003] Earlier, Tunku Puteri Intan Safinaz also spent time visiting and delivering donations to two elderly flood victims at their homes in Kampung Bukit Tadok. She also called on the corporate sector and the community to continue contributing to ensure that the aid operation continues. "Donations from corporate and community partners enable the MRCS to expand its reach and provide continuous assistance to those in need," she said. - Bernama

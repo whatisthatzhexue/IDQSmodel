@@ -1,0 +1,16 @@
+[TITLE]
+Singaporeans will need ETA permit to enter the UK from Jan 8, 2025
+
+[METADATA]
+ticker: ETA
+company_name: Annual Report 2020
+publish_date: 2024-09-13
+source_name: The Star
+url: https://www.thestar.com.my/aseanplus/aseanplus-news/2024/09/13/singaporeans-will-need-eta-permit-to-enter-the-uk-from-jan-8-2025
+confidence_tier: low
+
+[NEWS_P001] SINGAPORE: Singaporeans heading to the United Kingdom are required to apply and obtain an Electronic Travel Authorisation (ETA) before making their trip from Jan 8, 2025, onwards. Application for the digital travel permit costs £10 (S$17). Singaporeans can apply for it from Nov 27 via the official UK government website or app. The ETA - which will be digitally linked to an individual’s passport - is valid for two years, allowing multiple short visits lasting up to six months per visit.
+
+[NEWS_P002] It generally takes three days to process an ETA application, according to the UK ETA website. Travellers will be informed via email if their application is approved or rejected. The ETA is required regardless of the mode of transport used, including arrival by flight, sea or land, such as through the rail tunnel connecting Britain and France. Transit passengers who are changing planes at UK airports are also required to have the ETA. A UK ETA does not allow entry to the Republic of Ireland and other European countries.
+
+[NEWS_P003] The new ETA requirement, which applies to travellers from more than 80 jurisdictions, is aimed at improving the security of the UK border. The system seeks to deter illegal immigration, stop organised crime syndicates, and identify potential threats to national security, according to the UK ETA website. By April 2025, all visitors who can now travel without a visa to the UK will need an ETA. - The Straits Times/ANN

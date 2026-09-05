@@ -1,0 +1,18 @@
+[TITLE]
+Maybank, YTL stocks drive FBM KLCI higher at lunch break
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/29/maybank-ytl-stocks-drive-fbm-klci-higher-at-lunch-break
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Gains in YTL Power, YTL Corp, and Maybank provided strong support for the FBM KLCI to close the morning session on a positive note. At lunch break, the FBM KLCI rose 4.49 points, or 0.28% to 1,614.96 after hitting an intra-morning high of 1,618.75. There were 323 gainers, 499 losers and 473 counters traded unchanged on the Bursa Malaysia. Turnover stood at 1.5 billion shares valued at RM986.7mil. Maybank added six sen to RM10.46, nudging the index higher by 1.0446 points.
+
+[NEWS_P002] YTL Corp and YTL Power rose nine sen each, contributing 1.4594 and 1.0873 points to the index, respectively. Laggards among the KLCI component stocks were Nestle, Hong Leong Financial Group and PETRONAS Chemicals. On the broader market, BLD Plantation jumped 52 sen to RM11.24, Sunmow added 25 sen to RM1.55, Hong Leong Industries slid 20 sen to RM13.40 and United Plantations fell 14 sen to RM26.86. Newly listed OB Holdings added one sen, or 4.17% to 25 sen with 56.96 million shares traded.
+
+[NEWS_P003] TA Securities said the market should stay in a downward bias due to the weak undertone and lack of buying momentum, with most investors sidelined until sentiment improves. It noted that the immediate index support will be at 1,600 psychological level, with the next crucial support coming in at the 200-day moving average level of 1,588, and next at 1,575, the 76.4%FR level. “Immediate overhead resistance stays at last week's high of 1,648, with next upside hurdles at 1,660, and recent highs of 1,675 and 1,684,” it added.
+
+[NEWS_P004] Meanwhile, Hong Leong Investment Bank (HLIB) Research said the FBM KLCI is likely to consolidate further in the near term in anticipation of the upcoming 3Q24 local results season, amid foreign net outflows and bearish technical readings. Support is at 1,589-1,600, while resistance is at 1,625-1,636-1,648. “Moreover, the outlook may be tempered by external risks, including lingering Middle East turmoil, US elections, and uncertainties surrounding China's stimulus measures and its economic recovery plans,” the research house said.

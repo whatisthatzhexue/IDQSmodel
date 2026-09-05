@@ -1,0 +1,131 @@
+document_id: MDA_3026_DLADY_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 67, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+[MDA_P007]
+MANAGING DIRECTOR’S REPORT
+At Dutch Lady Milk Industries Berhad (DLMI), we faced the
+dual dilemma. First was to keep our products accessible
+and affordable even with an increase in the price points,
+mainly due to the unprecedented inflation rate that stood
+at 8.9% (Euromonitor 2022) globally and 3.3% (Dept. of Statistics Malaysia, FY2022) in Malaysia. Second
+was related to our survival and winning profitably amid
+supply chain disruptions and while meeting the consumer
+demand. We successfully addressed these by:
+In 2022, we retained our
+market position as
+no.1 dairy producer
+and remained the
+largest purchaser
+of local fresh milk
+#1
+[MDA_P011]
+Management Discussion & Analysis
+MANAGING DIRECTOR’S REPORT
+With such a singular focus on purpose and people, we believe performance follows. At DLMI, performance is
+about ‘Winning Profitably’ in a manner that it is meaningful for both our shareholders and stakeholders. In
+other words, we can map our performance in two contexts:
+PERFORMANCE
+a. Product & Market Performance:
+96.4%
+of our consumer
+dairy products
+were compliant
+with Global
+Nutritional
+Standards
+18%
+increase
+in revenue
+Chosen
+BRAND OF
+THE DECADE
+by KANTAR -
+amongst all the
+brands in Malaysia,
+10 consecutive years
+RM54.6
+million profit
+before tax
+[MDA_P021]
+Amid a challenging market with inflationary
+pressures, we saw a strong demand. This
+can be attributed to greater consciousness
+amongst consumers on their nutritional
+needs and preference for our brand. As a
+result, the volume for the year ending 31
+December 2022 saw a 12% increase over
+2021. This contributed to a positive 18%
+increase in Revenue, RM114.2 Adjusted
+Operating Profit and RM54.6 million profit
+before tax (PBT). The positive revenue
+performance can be assigned to continued
+strong in-home consumption of our three
+main product categories – Dutch Lady
+Liquid Milk, Dutch Lady Growing Up Milk
+and Friso Growing Up Milk. The inflationary
+costs for raw materials went up by
+10-15% and could not be fully offset
+through product price increase. However, a
+cost optimisation exercise across the board
+helped to mitigate a substantial portion of
+the impact of higher raw material costs. One-off impacts of RM43 million negatively
+impacted profit before tax, whereas in 2021
+an exceptional upside was realised from the
+sale of land under the current Production
+Facility @ Petaling Jaya.
+[MDA_P023]
+Management Discussion & Analysis
+MANAGING DIRECTOR’S REPORT
+FUTURE-PROOFING BUSINESS & PEOPLE
+Given the volatility and the changing paradigm of business and responsibility, in 2023 and beyond, we will remain
+cautiously optimistic. While disruptions will continue to impede the pace of growth, strong consumer confidence in our
+brand and consistently growing demand will propel our performance. 2023 will mark 60th anniversary for DLMI in Malaysia. We will be as old (or young) as Malaysia and our commitment to
+Nourishing our Nation. Our priorities next year will be:
+ACKNOWLEDGMENTS
+I take this opportunity to specially extend our sincere appreciation to Arent Naber, Finance Director, who has now moved
+on to take the next challenging role with FrieslandCampina China. His contributions to DLMI have been invaluable. I also
+welcome new additions to the Management Team covering functions of Finance, Sales, HR, Marketing and Manufacturing,
+who will be critical in championing new ideas and new growth for DLMI.
+[MDA_P032]
+After reconciliation, DLMI paid to its shareholders a total of RM32
+million in interim dividends consisting of two standards dividends
+of RM0.25 each. This represents a distribution of 69% of the
+profits attributable to shareholders. ANALYSIS OF INCOME
+Our reported Revenue increased 18% versus the prior year from
+RM1,134 million to RM1,339 million driven by a 12% upside in volume,
+positive product mix, as well as price increases necessitated
+by the inflationary pressure from increasing costs of dairy raw
+materials as well as increases in other raw materials and logistics. Cost of sales increased in line with volume, but accelerated
+due to a 10 to 15% higher average price of raw materials in
+2022 as compared to 2021. This increase is caused by global
+inflationary pressure on the costs of dairy and other raw
+materials, and due to foreign exchange headwinds during
+the year. This surge in the cost of raw materials impacted
+Gross Profit Margins, which declined from 35% to 27% as
+costs could only partially be reflected in the price of our dairy
+products. One-off impacts further impacted Gross Margins.
+[MDA_P034]
+Operating Profit declined by 80.3% from RM286.5 million
+to RM56.4 million. This decline is largely attributable to
+the gain of RM155 million in 2021 related to the disposal
+of manufacturing land and buildings and lease-back of our
+current Production Facility @ Petaling Jaya. In 2022 one-
+off restructuring costs related to the discontinuation of milk
+powder operations in Petaling Jaya in 2023 and other lines
+in 2024 of RM17.9 million were incurred. In addition, the first
+Bilateral Advanced Pricing Arrangement (“BAPA”) between
+the competent authorities of Malaysia and The Netherlands
+with regards to certain related party transactions was
+finalised in 2022. This arrangement covers the years 2018
+to 2022. Hence, in 2022, DLMI has booked the impact from
+2018 to 2021 which amounts to RM24.9 million. Additionally,
+accelerated depreciation was implemented in 2021 for assets
+in our Production Facility @ Petaling Jaya not transferring
+to the new Production Facility @ Bander Enstek. A limited
+amount of OPEX costs have also been made related to the
+construction project.

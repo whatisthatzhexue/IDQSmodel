@@ -1,0 +1,26 @@
+document_id: MDA_4065_PPB_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+PERFORMANCE REVIEW PPB Group Berhad Annual Report 2024
+[MDA_P004]
+6. Supply chain disruption risk Disruptive worldwide events such as climate change and geopolitical tensions expose the Group to supply chain
+[MDA_P005]
+disruption risks. The Group recognises the need for our supply chains to be resilient. To mitigate the impact, actions being taken include close monitoring of global supply and demand, strategic procurement of raw materials, diversification of supply sources and optimisation of operational efficiencies through our Group’s extensive procurement experience and technical competency.
+[MDA_P006]
+Group Outlook and Prospects for 2025 Looking to 2025, while the global environment continue to pose
+[MDA_P009]
+products to our customers. We expect performance of the segment to be satisfactory in 2025. The Consumer Products segment will continue to expand our product range and strengthen our market presence to enhance distribution efficiency amid rising operating costs. With a well-established distribution network, robust logistics infrastructure, and resilient household spending in Malaysia,
+[MDA_P011]
+The box office performance of the Film Exhibition & Distribution segment continues its upward trend, signalling a steady recovery in moviegoing interest. With an anticipated stronger lineup of movie releases in 2025, the cinema industry is expected to continue its recovery. Supported by ongoing operational efficiency initiatives, including cost optimisation efforts and enhanced customer experiences, we expect to deliver improved results in 2025. In December 2024, the Property segment launched the Lumina Bedong, a township development in Kedah, with Phase 1 comprising 125 freehold single-storey linked houses. While other development projects are in various planning
+[MDA_P014]
+LIM SOON HUAT Group Managing Director 26 March 2025 RM’Million RM’Million Change %
+[MDA_P016]
+Revenue 5,386 5,721 (5.9) Profit before taxation 1,333 1,488 (10.4) Profit after taxation 1,242 1,421 (12.6) Profit attributable to owners of the parent 1,219 1,394 (12.6)
+[MDA_P017]
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION Equity attributable to owners of the parent 26,573 27,137 (2.1) Total equity 27,215 27,811 (2.1)
+[MDA_P021]
+GROUP FINANCIAL HIGHLIGHTS

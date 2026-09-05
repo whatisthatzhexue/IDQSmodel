@@ -1,0 +1,122 @@
+document_id: MDA_9946_ETA_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_9946_ETA_2021", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": false, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 8, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P003]
+30 Jun 17
+30 Jun 18
+30 Jun 19
+30 Jun 20
+30 Jun 21
+[MDA_P004]
+RM’000
+RM’000
+RM’000
+RM’000
+RM’000
+Investment Ratio
+NTA per share
+2.18 0.48 0.43 0.38 0.24
+Basic Earnings/ (Loss) Per Share (Sen)
+5.27
+(8.05)
+(5.39) (3.84) 0.68
+Gross Dividend rate (%)
+2.00
+–
+–
+–
+–
+Dividend coverage ratio (times)
+2.64
+–
+–
+–
+–
+[MDA_P005]
+Operating Ratio
+After tax return on shareholders’ fund (%)
+2.28
+(11.99)
+(11.70)
+(9.29) 2.04
+Pre-tax profit/(loss) margin (%)
+1.74 (11.58) (10.48) (5.63) 2.44
+[MDA_P006]
+Financial Ratio
+Gearing (times)
+0.154
+0.237
+0.321
+0.415
+0.227
+Interest Coverage ratio
+3.28 (8.76) (6.52) (3.10) 3.56
+[MDA_P007]
+Liquidity ratio
+Current ratio
+2.45 2.34 1.81 1.32 1.87
+Quick ratio
+1.31 1.26 0.99 0.61
+0.93
+Note:
+1)
+The issued ordinary shares of the Company was increased from 246,626,468 to 493,252,936 unit of ordinary shares
+by way of issuance of 246,626,468 new ordinary shares arising from right issue exercise. The right issue has been
+completed following the Rights Shares were listed and quoted on the Main Market of Bursa Malaysia Securities
+Berhad on 15 December 2020.
+2)
+Basic Earning/(Loss) per ordinary share for the financial year is calculated by dividing the profit/(loss) after tax
+attributable to owners of the parent by weighted average number of ordinary shares outstanding during the financial
+year.
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+(Cont’d)
+[MDA_P008]
+REX INDUSTRY BERHAD
+Annual Report 2021
+Changes in the composition of the Group
+There were no changes in the composition of the Group for the financial year ended 30 June 2021. Corporate Exercise
+The Company undertook a fund-raising exercise during the financial year for a renounceable rights issue of new ordinary
+shares at the issue price of RM0.10 per rights share, on the basis of 1 rights share for every 1 existing share held. With
+246,626,468 Right Shares subscribed, the Company raised proceeds of approximately RM24.66 million. It was listed and
+quoted on the Main Market of Bursa Malaysia Securities Berhad on 15 December 2020. The proceeds raised from the Rights Issue will be utilised firstly in priority to defray the expenses related to the Rights
+Issue, and secondly towards repayment of bank borrowings, thirdly towards upgrade of machineries and lastly toward the
+working capital required for the day-to-day operations of the Group. Dividend
+The Company has recommended a first and final dividend of 0.2 sen per ordinary share amounting to RM986,505 in respect
+of the financial year ended 30 June 2021.
+[MDA_P009]
+Outlook and Prospects
+The Group’s business will remain challenging and volatile due to the uncertainty caused by Covid-19 pandemic. We are,
+however, encouraged by our performance in the last quarter of FYE 2021. We are cautiously confident of building on this
+positive momentum into FYE 2022. With the aggressive rate of vaccination programs being rolled out in Malaysia, along with a streamlined product portfolio, our
+proven strategies and plans and great teamwork, the group remains optimistic on further strengthening our market position. Covid-19 has resulted in more frugal consumers and a shift in purchase sites and habits. At-home consumption, e-commerce,
+modern trade and budget RM2.00 shops are gaining firmer traction. Budget RM2.00 shops will see greater relevance going
+forward but while it offers a good avenue to expand our business into, eroding margins may pose a challenge. The group sees improvements for its margins going forward as we continue to improve our production efficiency, product
+mix and grow our topline.
+[MDA_P010]
+Since 2018, REX has reduced its products by 40% to focus more on higher margin products,
+products that were less profitable but required lots of resources to produce were outsourced, headcount were significantly
+rationalized by investing in automation. The challenges brought about by the pandemic has made the management team take a closer look at its distribution
+channels, inventory management and cash conversion cycle. This has driven us to make significant changes to our goods
+return policies and how we handle our distributors. This approach has a positive effect as inventory write-offs and doubtful
+debts have reduced significantly. We remain proactive in addressing the challenges ahead and are cautiously optimistic of retaining a positive performance
+in the new FYE 2022. MANAGEMENT DISCUSSION
+AND ANALYSIS
+(Cont’d)
+[MDA_P011]
+REX INDUSTRY BERHAD
+Annual Report 2021
+Significant Event
+The Covid-19 pandemic will remain the most significant event for the new Financial Year. It appears that Malaysians will
+have to live with the virus and exercise self-responsibility as the Government prepares its people for the “endemic” phase
+of Covid-19 by the end of October 2021. In the “endemic” phase, sectors that had to be closed due to Covid-19 containment efforts will eventually be allowed to
+open with new Covid-19 norms being practised. Whilst the business environment is expected to remain challenging and volatile, the Group with its streamlined product
+portfolio, great teamwork and astute execution of strategies and plans is confident to surmount the challenges ahead and
+capitalize from school re-opening and HORECA segment starting out again. Acknowledgements
+I take this opportunity to thank my fellow Board members, our shareholders, customers and business partners for their
+continued support, trust and unwavering confidence over the past years. To all our dedicated staff and management team, thank you for your commitment and leading the company forward.

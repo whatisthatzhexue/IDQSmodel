@@ -1,0 +1,121 @@
+document_id: MDA_7216_KAWAN_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+(cont’d)
+The Food and Beverage (“F&B”) industry in which we operate experienced unprecedented supply and demand
+volatility in FY2020. Movement restrictions impacted supply chain and operational efficiencies industry-wide, resulting
+in growth of frozen food sales at grocers and retailers while, foodservice outlets experienced a dramatic reduction in
+customer footfall for much of the year. Changes in customers’ purchasing and consumption behaviour are summarised
+below:
+F&B
+Market Trends
+and Consumer
+Behaviour
+Shift in food consumption behaviour from eating out to dining in
+due to movement strictions and safety concerns
+Rise of online shopping and food delivery services as shoppers
+prioritised safety and convenience
+Demand for home cooking and frozen products soared in place
+of dining out
+Consumers preferred convenient and healthier food options
+Mainstream groceries and retailers gained market share from
+the drop in food service demand
+Despite facing a succession of challenges, our team rose to the occasion.
+[MDA_P005]
+Our leadership team streamlined our production and product ranges in order to protect margins while maintaining
+supply and availability. As the conditions began to progressively stabilise, we quickly rebuilt the mix elements of our
+product ranges to continue to broaden our consumer choices. We leveraged on our insights in consumer behaviour
+patterns in decision making. We activated our business continuity management processes in the early days of the pandemic, allowing non-
+essential personnel to work off-site and utilised a range of traditional and digital channels of communication to
+maintain operational efficiency. Pandemic prevention measures were put in place at our manufacturing facilities to
+ensure that production can continue safely, while we leveraged the strong supply chain partnerships we built over the
+years to ensure a steady supply of raw materials throughout the outbreak. This allowed us to sustain our production
+and minimise supply disruption to our customers, who appreciated the high level of service provided during this
+challenging period, and our ability to deliver orders on time.
+[MDA_P018]
+KAWAN FOOD BERHAD • ANNUAL REPORT 2020
+Paratha remained our core product for the
+export market, contributing 70% of our
+international sales, followed by Chapatti and
+Spring Roll Pastry, coming in at 14% and 8%
+of our export sales respectively for FY2020.
+Malaysian Operations
+Here at our home base, our products
+are distributed mainly through traditional
+retailers, distributors, agents, hypermarkets,
+supermarkets,
+foodservice
+distributors,
+and to hotels, restaurants and caterers
+(“HORECA”). Our products are also sold
+online through our e-Commerce website
+www.kawanfood.my and various ecommerce
+platforms such as Lazada, Shopee and
+Dropee.
+Despite the challenging local economic conditions, our domestic sales increased by 31.7% to RM111.3 million in
+FY2020, up from 84.5 million in FY2019. The increase in revenue was mainly contributed by the growth from the
+following sales channels:
+Domestic market channels
+Growth
+%
+Amount (RM)
+Distributors
+27.1
+36.3 million
+Key accounts
+51.3
+52.0 million
+e-Commerce
+>100.0
+1.0 million
+Retail, wholesaler & cash sales
+15.4
+12.1 million
+[MDA_P019]
+Management Discussion and Analysis
+(cont’d)
+Export Sales By Products Category
+14%
+8%
+8%
+70%
+■ Paratha ■ Chapatti ■ Spring Roll Pastry ■ Others
+[MDA_P020]
+KAWAN FOOD BERHAD • ANNUAL REPORT 2020
+Management Discussion and Analysis
+(cont’d)
+The majority of our domestic sales are through retailers. Our top five (5) customers contributed 13.2% to our total
+domestic sales in FY2020. Top five (5) local
+customers
+13.2%
+Econsave
+Giant
+Aeon Co
+NSK Trade City
+Mydin
+Foodservices revenue had decreased slightly by 9.4% from RM11 million in FY2019 to RM9.9 million in FY2020
+following the implementation of lockdown measures and restrictions on outdoor activities. We recognise that the
+foodservice environment will remain challenging as long as the disruption from the COVID-19 pandemic continues. Nevertheless, its long-term potential continues to be promising and remains a key strategic segment of the Group
+where we intend to keep building our market share. Spring Roll Pastry was our largest domestic
+product category, contributing 28% to the
+local sales. This was followed by Paratha and
+Frozen Vegetable categories, contributing
+21% and 20% of our local revenue
+respectively, followed by Bun and Bakery
+products at 14%.
+[MDA_P025]
+GROUP FINANCIAL REVIEW
+Fiscal Performance
+Our position in the frozen food supply value chain helped us benefit from the sales surge to deliver an outstanding
+performance in FY2020, providing safe and delicious food to our customers amid disruptions to production and global
+supply chains. As such, Group revenue grew by 19.0% from RM214.1 million in FY2019 to RM254.7 million in FY2020, driven by export
+and domestic sales which grew by 13.3% and 31.7% respectively. Paratha remained the highest product contributor
+to the Group sales revenue which accounted for 45.3% of the Group’s sales. In terms of revenue contribution by
+geographical segments, Malaysia remained the largest market for Kawan, generating 43.7% of the Group turnover,
+followed by North America at 23.7% and Asia at 13.0%. The Group’s Profit Before Tax (“PBT”) in FY2020 increased by 108.5% to RM32.0 million, mainly due to higher revenue. Our financial position remained strong after a tumultuous FY2020, ending the year with a market capitalisation of
+RM747.8 million.

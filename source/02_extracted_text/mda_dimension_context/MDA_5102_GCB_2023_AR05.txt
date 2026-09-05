@@ -1,0 +1,217 @@
+document_id: MDA_5102_GCB_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 82, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 319.737, "paragraph_count": 82, "paragraph_length_distribution": {"max": 4046, "mean": 920.683, "min": 181}, "repetition_ratio": 0.02439, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION &
+ANALYSIS
+Strategic Review
+Market Overview
+Outlook
+Our Value Creation Story
+Value Creation Business Model
+Key Stakeholder Engagement
+Material Matters
+Key Risks & Mitigation Actions
+Growth Strategies
+Financial Review
+Financial Review
+Operational Performance Review
+Operational Performance Review
+[MDA_P021]
+OUTPUTS
+OUTCOMES
+UN SDGs
+OUR STAKEHOLDERS
+READ
+MORE
+Key Stakeholder
+Engagement, page 48
+Customers
+Shareholders & Investors
+Suppliers & Contractors
+Employees
+Governments,
+Regulators & NGOs
+• Product Footprint, Pricing &
+Quality
+• Sustainable Operational
+Performance & Expansion
+• Responsible & Ethical
+Suppliers
+• Talent Attraction,
+Development & Retention
+• Governance & Compliance
+MATERIAL MATTERS
+READ
+MORE
+Material Matters,
+• Competitive Risk
+• Expansion & Liquidity Risk
+• Cocoa Bean Supply Risk
+• Human Workforce Risk
+• Compliance Risk
+RISKS
+READ
+MORE
+Key Risks & Mitigation
+Actions, page 55
+GROWTH STRATEGIES
+Growth & Expansion
+Sustainability
+Innovation
+READ
+MORE
+Growth Strategies,
+Financial Capital
+• Cash and bank balance: RM85.09 million
+• Revenue: RM5.32 billion
+• Net profit: RM100.93 million
+• Share capital: RM495.24 million
+• Shareholders' equity: RM1.75 billion
+• Earnings per share: 8.59 sen
+• Net dividends per share: 2.00 sen
+• Total borrowings: RM2.21 billion
+• Net gearing ratio: 1.21 times
+Financial Statements, page 162
+READ
+MORE
+Manufactured Capital
+• Existing production facilities:
+- Bean Grinding: 330,000 MT
+- Value-Added: 99,000 MT
+- Industrial Chocolate: 116,000 MT
+Where We Operate, page 12
+READ
+MORE
+Intellectual Capital
+• Enhanced reliance on advanced machinery and technologies
+that reduce non-renewable energy use
+• Greater use of solar panels and biomass machinery for energy
+generation, improving our net energy consumption
+• Adoption and implementation of relevant international quality
+standards for cocoa products
+• Energy monitoring by measuring kWh consumed per MT of
+processed cocoa beans, aiming for consumption reduction
+Snapshot of FY2023, page 17 &
+Climate Change Adaptation, page 102
+READ
+MORE
+Human Capital
+• A diverse Board that is experienced and knowledgeable in key
+areas like risk assessment, strategic planning, successional
+planning, and financial and operational management
+• 100% of our employees trained in the latest occupational
+health and safety practices
+• RM184.8 million distributed in FY2023 for directors’ and
+employees’ remuneration and benefits
+• A Succession Planning Policy and Procedure, as well as
+a successor readiness programme, for the cultivation of a
+sustainable talent pool
+Financial Statements, page 162 &
+Empowering Our People, page 118
+READ
+MORE
+Social & Relationship Capital
+• Heightened awareness amongst our stakeholders on the
+need for sustainable business practices
+• Contribution of over RM132,000 to local communities and
+RM44.9 million in income taxes
+Sustainable Growth, page 94
+READ
+MORE
+Natural Capital
+• Our high-quality purchased cocoa beans
+• Energy consumed in FY2023:
+- Electricity: 409,586 GJ
+- Natural gas: 433,036 GJ
+- Heat purchased: 7,057 GJ
+- Solar energy: 9,974 GJ
+• Total volume of water discharged: 913.7 ML
+Climate Change Adaptation, page 102 &
+Mindful Water Management, page 105
+READ
+MORE
+Customers
+• Solid customer
+collaborations driven by
+consistent volume and
+quality fulfilment
+• Continual expansion and
+broadening of our reach in
+the Asian and European
+markets
+Shareholders & Investors
+• Maintaining strong financial
+stability
+• Generating continual and
+growing value through
+capital appreciation and
+dividend distributions
+Suppliers & Contractors
+• Steady supplier base
+growth
+• Fostering responsible
+practices that benefit both
+the communities involved
+and the environment
+• Enhancing product quality
+and bolstering the adoption
+of advanced technology
+Employees
+• Skilled, motivated and
+diverse workforce
+• Non-discriminatory and
+equal opportunities for
+employees
+• Improved employee
+engagement, productivity
+and satisfaction
+• Clear grievance and
+whistleblowing procedures
+• Career progression and
+reward systems
+• Adherence to international
+quality and safety standards
+Snapshot of FY2023,
+READ
+MORE
+Governments, Regulators
+& NGOs
+• Continued economic
+contributions through sales
+and taxes
+• Consistent alignment with
+government policies
+• Continued engagement in
+essential CSR activities
+• Sustained robust corporate
+governance
+[MDA_P042]
+GUAN CHONG BERHAD
+MANAGEMENT DISCUSSION & ANALYSIS
+Operational Performance Review
+Financial Review
+Strategic Review
+MANAGEMENT DISCUSSION & ANALYSIS
+TALENT ATTRACTION, DEVELOPMENT & RETENTION
+• We recognise and appreciate our responsibility to provide
+employees with safe and healthy workplaces, fostering a
+culture that values work-life balance. • We place great importance on a fair and equitable reward
+system that considers the diverse levels and skill sets of
+our employees across our business operations. • Our commitment to the continuous development of
+our employees is paramount in achieving our collective
+organisational goals. To this end, we have introduced
+targeted training initiatives aimed at enhancing the skills
+and knowledge of our workforce. • We value greater diversity within our workforce, valuing
+both varied backgrounds and skills, in an effort to
+strengthen our collective problem-solving capabilities
+and equip us to address the challenges we may encounter. This is evident in the make-up of our management teams,
+each bringing a unique blend of skills, experiences and
+backgrounds to empower our agile and capable approach
+to business management and global expansion.

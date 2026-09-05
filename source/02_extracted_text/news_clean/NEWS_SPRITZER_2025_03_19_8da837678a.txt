@@ -1,0 +1,18 @@
+[TITLE]
+Consumer sector poised to capitalise on tourism windfall
+
+[METADATA]
+ticker: SPRITZER
+company_name: SPRITZER
+publish_date: 2025-03-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/19/consumer-sector-poised-to-capitalise-on-tourism-windfall
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Retail trade grew 8.2% year-on-year in January 2025 reflecting a positive start to the year. Growth was driven by higher spending on food, beverages and tobacco and non-specialised stores, according to MIDF Research. It said despite policy adjustments, such as higher diesel prices and increased utility tariffs, overall price pressures remained contained, ensuring limited impact on consumer purchasing power. On the macroeconomic front, it noted that the labour market remained a key pillar of support, with the unemployment rate unchanged at 3.1% and the labour force participation rate steady at 70.6%, signalling continued employment stability.
+
+[NEWS_P002] “Looking ahead, we remain optimistic about the sustainability of domestic consumption, underpinned by stable employment conditions, rising wages, and government policy support. “Factors such as higher civil servant salaries, increase in minimum wage, and continued cash assistance programmes are expected to strengthen consumer spending power. “Additionally, the upcoming Aidilfitri, combined with a recovery in tourism, will further support retail activity,” the research house said in a report.
+
+[NEWS_P003] The tourism sector is also experiencing a resounding resurgence and key consumer centric businesses stand to reap substantial benefits. “Spritzer Bhd is poised to capitalise on increased bottled water demand, fuelled by higher tourist footfall and prolonged visitor stays. Similarly, Oriental Kopi Holdings Bhd is well positioned to harness rising consumer traffic in bustling urban hubs and tourist-heavy locales, leveraging Malaysia’s thriving culinary scene to attract experience-seeking tourists.” Elsewhere, it said Family Mart, operated by QL Resources Bhd is set to capture the growing demand for grab-and-go meals, beverages, and essential travel provisions, particularly as international visitor mobility intensifies.
+
+[NEWS_P004] In 2024, international arrivals soared by one-quarter to 25 million. China led the revival, followed by India while steady gains from Singapore and Indonesia reinforced Malaysia’s appeal as a top-tier travel destination.

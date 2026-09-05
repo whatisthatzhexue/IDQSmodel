@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI gets mild boost from positive US closing
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/11/fbm-klci-gets-mild-boost-from-positive-us-closing
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia could end the week on a recovery track as the positive sentiment picked up on Friday after a late rally in the previous session. Investors returned to buying Malaysian blue chips, taking the benchmark FBM KLCI 1.36 points higher to 1,537.88 as trading commenced on Friday. "The local market is poised to continue its rebound," said TA Securities, attributing to support from bargain-hunting activity for sold down shares. However, the research firm warned that investor sentiment may remain cautious amid lingering uncertainty over future trade relation with the US.
+
+[NEWS_P002] "Immediate index support stays at 1,490, with stronger supports found at 1,465 followed by 1,444. Immediate resistance is kept at 1,564 with next upside hurdles seen at the recent high of 1,586, followed by 1,610 ahead." There could also be some spillover upside from the US market given the record performances in the S&P500 and Nasdaq indices overnight. Rakuten Trade noted in its morning report that the positive showing on Wall street inficated traders were ignoring US President Donald Trump's ongoing tariffs assault on global trade.
+
+[NEWS_P003] "Interests remain focused on AI stocks pushing Nvidia as the first company to be valued at US$4 trillion," it said. On Bursa Malaysia, early gainers included Nestle up 64 sen to RM79.44, MPI rising 30 sen to RM21.30 and United Plantation gaining six sne to MR21.66. Processed food and beverage producers A1 AKK made its start on the ACE Market, but failed to make much of a wave as its share price stayed unchanged at its initial public offering price of 25 sen.
+
+[NEWS_P004] The share, however, was the most actively traded with about 13 million units traded within the first 15 minutes of trading. Other active stocks included TWL down 0.5 sen to 2.5 sen and Zetrix AI up 1.5 sen to 99.5 sen.

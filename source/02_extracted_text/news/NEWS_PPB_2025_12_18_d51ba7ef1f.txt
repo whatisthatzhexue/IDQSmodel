@@ -1,0 +1,20 @@
+[TITLE]
+Bursa Malaysia erases earlier losses to end morning session higher
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-12-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/18/bursa-malaysia-erases-earlier-losses-to-end-morning-session-higher
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia erased earlier losses to close the morning trading session higher on Thursday, outperforming regional peers as buying activities emerged in selected heavyweights, mainly the industrial and consumer product and services counters. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) rose 1.05 points, or 0.06 per cent, to 1,642.49 from Wednesday’s close of 1,641.44. The index had opened 1.21 points lower at 1,640.23, and moved between 1,636.61 and 1,642.55 throughout the session.
+
+[NEWS_P002] However, market breadth was negative with decliners beating gainers 446 to 395, while 514 counters were unchanged, 1,421 untraded, and 12 suspended. Turnover reached 1.35 billion units valued at RM982.89 million In a note, Malacca Securities Sdn Bhd said that ongoing window-dressing activities may provide buying support for the benchmark index over the near term. "The technical indicators are showing a buy signal; the moving average convergence divergence (MACD) histogram is in the positive territory, while the relative strength index (RSI) is hovering above 50, indicating an upward momentum.
+
+[NEWS_P003] "Resistance is anticipated around 1,656-1,661, while support is located at 1,621-1,626,” it said. Among the heavyweights, Press Metal Aluminium grew 11 sen to RM7, Sime Darby gained seven sen to RM2.05 and Tenaga Nasional added eight sen to RM13.32, while Maybank and Public Bank were flat at RM10.30 and RM4.41, respectively. On the most active list, Zetrix AI and TWL remained unchanged at 80.5 sen and 2.5 sen, respectively. Top Glove gained three sen to 68 sen and V.S Industry inched up one sen to 49 sen, while Tanco edged down two sen to RM1.13.
+
+[NEWS_P004] Besides Press Metal Aluminium, other top gainers were United Plantations, which climbed 44 sen to RM29.44, Nestle advanced 40 sen to RM114.20, PPB added 24 sen to RM10.30, and Kuala Lumpur Kepong rose 18 sen to RM19.54. As for the top losers, Malaysian Pacific Industries lost 72 sen to RM31.68, Dutch Lady Milk erased 66 sen to RM30.04, IHH Healthcare dropped 19 sen to RM8.40, BLD Plantations fell 16 sen to RM16.04, and Telekom Malaysia was 15 sen lower at RM7.74.
+
+[NEWS_P005] On the index board, the FBM Emas Index was 5.31 points higher at 12,085.73, the FBMT 100 Index inched up 3.85 points to 11,877.97 and the FBM Emas Shariah Index bagged 14.57 points to 11,935.71, while the FBM ACE Index fell 30.41 points to 4,741.08, and the FBM 70 Index shed 11.36 points to 16,672.24. Sector-wise, the Industrial Products and Services Index edged up 0.64 of a point to 170.46 and the Plantation Index strengthened 37.65 points to 8,207.96, while the Energy Index inched down 3.54 points to 765.83, and the Financial Services Index narrowed by 32.0 points to 19,144.22.- Bernama

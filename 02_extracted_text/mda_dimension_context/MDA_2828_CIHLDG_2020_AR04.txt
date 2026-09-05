@@ -1,0 +1,34 @@
+document_id: MDA_2828_CIHLDG_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P014]
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+ANTICIPATED OR KNOWN RISKS
+Foreign Exchange Risk
+The Group exports approximately 95% of its products worldwide each year, thereby increasing the risk of exposure to currency
+exchange. However, this risk is mitigated by way of forward currency contracts, wherever possible. Country Risk
+To a large extent, financial performance is dependent on political, economic and regulatory environment in the importing
+countries. Any adverse developments may result in default of contracts, collection problems leading to bad debts and possible
+loss of market share. The Group thus closely monitors the situation on a weekly basis of the importing countries to identify, plan
+and execute counter measures to mitigate such risks. FUTURE PROSPECTS
+Possible Trend And Outlook
+The Group will focus on its expansion plans for revenue growth for its edible oil operations and with smart partnership tie-up with
+property developers for the Tap and Sanitary Ware Division to enhance shareholders’ value.
+[MDA_P015]
+The Edible Oil Products Division is focusing on expanding its customer base and products range especially in non-oil products
+such as, soap related products, evaporated and condensed milk and milk powder to improve future earnings and margins for
+the Group. In addition, the division has also initiated cost control measures in its daily operation. It is also reorganising its current
+production floor layout in order to accommodate increasing demand by improving production efficiency by way of increasing
+production automation to help reduce reliance on manual processes and foreign workers. The Tap and Sanitary Ware Division will emphasize the retail market and online retail stores as more contractors now purchase
+tapware and sanitary wares from the hardware retailers. Additionally, the Tap and Sanitary Ware Division managed to secure a
+number of hospital projects to ensure a more sustainable and long-term business model, with more still in the negotiation stage. The division will continue to focus into specification and extension of its range of products in the healthcare market.
+[MDA_P016]
+The division also aspires to be the “Station Master” for tap and sanitary ware for all MRT and LRT stations nationwide, after
+securing the supply tender to all 32 MRT 2 stations from Sg Buloh – Serdang – Putrajaya. Going forward, it is looking to secure
+more of such projects to ensure a sustainable stream of income for better profit margin for the Group. Dividend Policy
+The Group has no dividend policy in place on the account of possible requirements of funds for future expansions and growth. ANNUAL REPORT 2020
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)

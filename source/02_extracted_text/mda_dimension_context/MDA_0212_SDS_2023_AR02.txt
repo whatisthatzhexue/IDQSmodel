@@ -1,0 +1,96 @@
+document_id: MDA_0212_SDS_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P007]", "note": "margin: stated 134.30%, calculated 8157.26% from profit/revenue, status material_discrepancy.", "source_text": "The driving factor for the higher sales has been the uplifting of movement controls at the country’s borders as well as the increased options for value-for-money bakery products given the economic pressure on the customers’ purchasing power. The Group establishment of distribution centres at the str", "status": "material_discrepancy"}], "document_id": "MDA_0212_SDS_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 2, "num_consistent_checks": 1, "num_financial_mentions": 64, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion
+and Analysis
+The Group’s unique
+proposition of wide-
+ranging product
+offerings and options
+on sales channels
+had allowed SDS to
+continue to meet
+the demands of its
+customers. INDUSTRY OVERVIEW
+With the recent changes taking place in the presence of globalisation, sustainability goals and health consciousness,
+businesses are closely being evaluated based on their operational procedures, adaptability and environmental
+impact. World travels, the internet, purchasing power, awareness on nutrition and fast-paced lifestyle are also
+crucial indicators for the food industry. The multiple big trends marked a significant shift and become the catalysts
+in reshaping the industry in this region. It is thus vital for companies such as SDS Group Berhad and its subsidiaries
+(“SDS” or the “Group”) to seize the opportunities in today’s dynamic market. Whilst activities and the economy have returned to normalcy, SDS has been at the forefront to benefit from
+reopening of dine-in restaurants as well as more sales opportunities from all other revenue streams post pandemic.
+[MDA_P002]
+Nonetheless, our operations for the financial year ended 31 March 2023 (“FY2023”) was disrupted with geopolitical
+issues and inflationary concerns which saw impact on the business’ supply chain, higher ingredient costs as well
+as pricing of its products. In response to the price escalation trend as well as keen competition, SDS leveraged on its own innovation efforts
+to produce creative products to stay competitive and meet consumers’ expectations for a more exciting fare. This
+has also paved the way for the expansion of SDS customer base and strengthening of earnings in recent years. Backed by a strong local market presence and its solid manufacturing and logistic capabilities, SDS focuses on
+production efficiency and cost management and continuously offers quality, value-for-money products. The Group is firm on its journey to unlock the potential of new customers through wider market reach, strategic
+distribution centres as well as accelerating the momentum of online purchases.
+[MDA_P003]
+SDS GROUP BERHAD
+ANNUAL REPORT 2023
+Management Discussion
+and Analysis
+2023 BUSINESS AND OPERATIONAL PERFORMANCE
+(I)
+PERFORMANCE OVERVIEW
+[MDA_P004]
+As a manufacturer of bread and confectionery products with markets in both wholesale and retail segments, SDS
+diversified business has already made strong presence in the country. Beside improvement on the manufacturing
+operations and expansion of its wholesale distribution network, the Group has also strengthened its retail segment
+through online business which utilised online delivery platforms such as GrabFood and Food Panda.
+[MDA_P005]
+Although there was a great pressure over the increasing price of raw materials, SDS displayed high resistance
+power and has achieved optimisation in its operating costs to cushion the negative impact. The Group’s unique
+proposition of wide-ranging product offerings and options on sales channels had allowed SDS to continue to meet
+the demands of its customers.
+[MDA_P006]
+As a result, the Group delivered a sturdy performance across its business segments for FY2023. Revenue had jumped
+by 43.1% with RM283.7 million recorded in FY2023 against RM198.3 million registered in FY2022. Both the retail and
+wholesale segments have registered positive growth in revenue.
+[MDA_P007]
+The driving factor for the higher sales has been the uplifting of movement controls at the country’s borders as well
+as the increased options for value-for-money bakery products given the economic pressure on the customers’
+purchasing power. The Group establishment of distribution centres at the strategic locations in Peninsular Malaysia
+had certainly contributed to the higher revenue recorded in the wholesale segment. On the other hand, its retail
+segment recorded a significant 60.2% increase in revenue as compared to the previous year, due to the dining-out
+trend and higher orders through online platforms. The much-improved revenue had led to a significant increase
+in profit after tax for the Group at RM24.8 million in FY2023 as compared to RM10.6 million in FY2022, recording a
+134.3% increase. Improvement in gross profit margin (31.1% to 31.5% in FY2023), efficient control over administrative
+and selling and distribution expenses have all contributed to the impressive performance for this financial year. In
+addition, the Group’s finance cost has decreased mainly due to advance repayment of term loan and lease liabilities.
+[MDA_P008]
+INDICATOR
+FY2023
+FY2022
+% CHANGE
+BETWEEN
+FY2023 AND
+FY2022
+Revenue (RM’000)
+283,667
+198,283
+43.1%
+Gross Profit (RM’000)
+89,292
+61,596
+45.0%
+Gross Profit Margin (%)
+31.5
+31.1
+1.3%
+Profit before tax (RM’000)
+32,767
+14,103
+132.3%
+Profit after tax attributable to owners of the Company (RM’000)
+24,529
+10,618
+131.0%

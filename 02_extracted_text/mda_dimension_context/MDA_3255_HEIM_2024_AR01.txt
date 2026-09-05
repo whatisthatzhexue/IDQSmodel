@@ -1,0 +1,106 @@
+document_id: MDA_3255_HEIM_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 44, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+HEINEKEN Malaysia delivered
+strong financial results in 2024,
+showing significant progress
+from the previous year, fueled
+by strategic marketing efforts
+and the successful launch
+of innovation products that
+resonated well with consumers. BUSINESS AND OPERATIONS
+At HEINEKEN Malaysia, we are guided by our purpose, ‘Brew
+the Joy of True Togetherness to Inspire a Better World’, creating
+memorable experiences that bring people together and foster a
+sense of community. We have remained resilient amidst challenges
+by aligning our initiatives with our growth strategy, EverGreen, to
+future-proof our business. A key aspect of this strategy is to drive
+superior growth by investing in our brands and diversifying our
+offerings to cater to evolving consumer preferences, ensuring we
+meet market demands. This approach, coupled with a cost and
+value optimisation mindset to fund our growth, has enabled us to
+achieve financial growth despite external pressures.
+[MDA_P002]
+We continue
+to invest in becoming the best-connected brewer, raising the bar
+on sustainability and responsibility and unlocking the potential of
+our people to be in a strong position to seize future opportunities. Looking ahead, we aim to continue advancing our journey
+of learning and growth through our EverGreen strategy and
+continue to deliver balanced growth. The following is a review of
+our financial performance, operational progress, sustainability
+and responsibility efforts and our outlook for 2025. OUR PERFORMANCE
+In
+2024,
+our
+Company
+demonstrated
+strong
+financial
+performance, marking a significant improvement over the
+previous year. HEINEKEN Malaysia Group achieved a total
+revenue of RM2.80 billion, marking a 6% increase from the
+previous year’s RM2.64 billion. The Group also recorded a 21% rise
+in net profit, growing from RM387 million in FY2023 to RM467
+million in FY2024. This growth was driven by strategic commercial
+initiatives, including targeted marketing campaigns and the
+successful launch of innovation products that resonated well with
+consumers.
+[MDA_P003]
+At the same time, effective cost management allowed
+HEINEKEN Malaysia to enhance operational efficiency and reduce
+expenses. A strong rebound in consumer confidence also played
+a key role, as spending patterns returned to pre-pandemic levels
+with increased demand for premium and good quality beverages. In addition, the Group benefited from the recognition of deferred
+tax income relating to reinvestment allowance, resulting in a
+lower effective tax rate, which further supported net profit growth. Earnings per share (EPS) rose from RM1.28 to RM1.55, reflecting
+the Group's strong financial performance. This increase in EPS is
+a positive indicator for shareholders, demonstrating the Group's
+ability to generate higher profits per share. However, Net Cash
+from Operating Activities declined by 12% to RM513 million,
+primarily due to working capital movements, reflecting the
+normalisation of FY2023’s one-off positive impact from the
+factoring arrangement, which had significantly improved capital
+efficiency. This created a high base for comparison in FY2024. Net Assets for FY2024 were recorded at RM539 million, an
+increase of 18% compared to FY2023.
+[MDA_P004]
+This growth is mainly due
+to improved business performance during the year. The increase
+in Net Assets signifies a stronger balance sheet and enhanced
+financial stability, which is beneficial for long-term growth. Capital Expenditure for FY2024 was approximately RM90 million,
+a decrease of 37% compared to the previous year. This reduction
+is primarily due to lower spending following the completion of the
+brewery upgrade in 2023. The decrease in capital expenditure
+suggests that the Group was focused on optimising its existing
+assets and improving operational efficiency rather than pursuing
+new investment in FY2024. The Group paid a total of RM1.45 billion in Excise, Customs
+Duties and Sales Tax for the year, representing 52% of the Group's
+revenue. This significant contribution to Government revenues
+underscores the Group's role as a major taxpayer. Additionally, the
+Group incurred RM118 million in income taxes, translating into
+an effective tax rate of 20%. This lower effective tax rate is due to
+the recognition of deferred tax income relating to reinvestment
+allowance, which highlights the Company's strategic tax planning
+and utilisation of available tax incentives.
+[MDA_P007]
+This creative approach kept Heineken® part of the festivities
+while in compliance with local law. The creative activation
+earned multiple accolades, including Bronze for the Cannes Lion
+International Festival of Creativity and Kancil Awards. We continued to innovate with Heineken® Refresh – a unique music
+discovery platform enhancing social experiences. The “Refresh
+Your Music, Refresh Your Nights,” initiative encourages fans to
+explore new sounds and discover fresh tracks. The Heineken® Fresh
+List on Spotify offers an exhilarating digital experience, powered
+by the Heineken® Refreshing Algorithm, which introduced tracks
+outside common preferences. We successfully brought together
+18,000 fans at the finale of Heineken® Refresh event to discover
+new music together for an unforgettable experience. Recognising the surge in online gaming, especially simulator
+racing, we introduced Heineken® Player 0.0, an innovative mobile
+simulator racing competition promoting responsible consumption
+through engaging digital experiences. This connected with
+digitally savvy audiences by blending the excitement of gaming
+with our no alcohol offering – Heineken® 0.0.

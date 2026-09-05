@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rises amid US rate cut optimism, firmer gold prices
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/16/fbm-klci-rises-amid-us-rate-cut-optimism-firmer-gold-prices
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI traded higher at midday, lifted by overnight gains on Wall Street and firmer gold prices, as optimism grew over the prospect of further U.S. interest rate cuts. At midday, the FBM KLCI rose 2.94 points, or 0.18%, to 1,614.49 after touching an intramorning high of 1,617.28. There were 444 gainers, 545 losers and 503 counters traded unchanged on the Bursa Malaysia. Turnover stood at 2.2 billion shares valued at RM1.47bil. TA Securities said market sentiment is expected to be lifted by optimism over further U.S.
+
+[NEWS_P002] interest rate cuts, following dovish remarks from Federal Reserve Chair Jerome Powell. “Immediate resistance is maintained at the December 2024 high of 1,644, followed by tougher upside hurdles at the highs of 1,684, and 1,695. “Immediate support level will be at the 61.8%FR (1,564), with stronger supports seen at the 50%FR (1,527) followed by the 38.2%FR (1,490),” it added. Among the top gainers on Bursa Malaysia, Nestle rose RM1.50 to RM104.20, Carlsberg added 76 sen to RM16.18, Malaysian Pacific Industries advanced 76 sen to RM29.60, while Heineken gained 58 sen to RM20.38.
+
+[NEWS_P003] On the other hand, PETRONAS Dagangan slid 52 sen to RM22.48, Petron fell 15 sen to RM3.69, Kelington Group lost 14 sen to RM5.70 and Scientex declined 10 sen to RM3.49. Meanwhile, gold-related counters continued to attract buying interest. Tomei rose 17 sen to RM1.99, Poh Kong added 10 sen to RM1.23, while AuMas climbed 3.5 sen to 84 sen. According to Reuters, spot gold was up 0.8% at a record US$4,241.77 per ounce as of 3.11 am GMT, while U.S. gold futures for December delivery gained 1.2% to US$4,253.70.

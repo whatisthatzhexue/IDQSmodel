@@ -1,0 +1,169 @@
+document_id: MDA_6203_KHEESAN_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 38, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_6203_KHEESAN_2023", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 62, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Khee San Berhad (“KSB”) and its three (3) subsidiaries Khee San Food Industries Sdn Bhd (“KSFI”), Khee San Marketing
+Sdn Bhd and Mega Global Confectionary Sdn Bhd (collectively known as “the Group”), are the largest manufacturers
+of candy in Malaysia. The Group’s headquarter and facilities are located in Seri Kembangan, Selangor Darul Ehsan, Malaysia where it
+produces and distributes the following products:
+The Group managed to achieve RM55.6 million revenue for the current financial year, an increase of RM22.6 million
+(68%) compared to the previous financial year primary due to improved in market demand and sales activity from
+local and export markets. In addition, the Group managed to register a gross profit (“GP”) of RM 11.8 million in the current financial year as
+compared to a thin gross profit margin of RM3.8 million in the previous financial year. The Group’s profit before tax for the current financial year was RM0.9 million, a significant increase of RM15.8 million
+compared to the previous financial year.
+[MDA_P002]
+At the same time, our profit after tax for the financial year was RM1.7 million,
+with an increase in RM15.4 million as compared to previous financial year. The improvement in bottom line was
+mainly attributed to the Group’s higher revenue, strict cost management and improvement in production efficiency. 1. INTRODUCTION
+• Chewy
+• Deposited
+• Hard
+• Tablet
+• Chewing Gum
+• Bubble Gum
+6:((76 &$1',(6
+The summary of the Statement of Comprehensive Income is as follows:
+2. FINANCIAL REVIEW
+a) Review of Statement of Comprehensive Income
+Revenue
+Gross Profit
+Gross Profit Margin (“GPM”)
+Other Income
+Distribution Costs
+Administrative Expenses
+Other Expenses
+Finance Costs
+Profit / (Loss) Before Tax
+Profit / (Loss) After Tax
+55.6
+11.8
+21.2%
+2.6
+(0.1)
+(11.4)
+(0.2)
+(1.8)
+0.9
+1.7
+33.0
+3.8
+11.5%
+1.2
+(0.2)
+(12.8)
+-
+(6.9)
+(14.9)
+(13.7)
+[MDA_P003]
+500LOOLRQ
+[MDA_P005]
+$
+[MDA_P006]
+.+((6$1%(5+$'
+[MDA_P007]
+MANAGEMENT DISCUSSION & ANALYSIS
+There is no major movement of total assets in FYE 2023 as compared to FYE 2022, other than the increase in
+inventories by RM3.6 million was due to the increase in demand of sales. The increase in inventories was offset by the
+decrease in property, plant and equipment was mainly due to depreciation of property, plant and equipment of
+RM3.0 million in current financial year. Total Liabilities stood at RM148.0 million, which represents a decrease of 1% in comparison with RM 149.9 million
+registered in FYE 2022. This was result of the decrease in deferred tax liabilities to RM1.3 million due to the write off and
+impairment of property, plant and equipment during the year. Correspondingly, the Shareholders’ Equity improved to negative RM77.4 million primarily due to the factors
+mentioned above.
+[MDA_P008]
+The summary of the Statement of Financial Position is as follows:
+b) Review of Statement of Financial Position
+Property, Plant and Equipment
+Right-Of-Use Assets
+Inventories
+Trade and Other Receivables
+Cash and Bank Balances
+Other Assets
+Total Assets
+Trade and Other Payables
+Deferred Tax Liabilities
+Total Borrowings
+Other Liabilities
+Total Liabilities
+Shareholders’ Equity
+54.1
+0.9
+9.1
+4.2
+2.3
+-
+70.6
+62.1
+3.6
+75.4
+6.9
+148.0
+(77.4)
+56.8
+0.8
+5.5
+5.1
+2.1
+0.5
+70.8
+62.8
+4.9
+75.8
+6.4
+149.9
+(79.1)
+[MDA_P012]
+$
+[MDA_P013]
+.+((6$1%(5+$'
+[MDA_P014]
+MANAGEMENT DISCUSSION & ANALYSIS
+The Group’s revenue performance for FYE 2023 and FYE 2022 on a geographical market segment basis is as follows:
+3. GROUP REVENUE PERFORMANCE OVERVIEW
+Domestic Market
+Export Market
+Total
+39.8
+15.8
+55.6
+19.0
+14.0
+33.0
+[MDA_P015]
+500LOOLRQ
+[MDA_P016]
+)<(
+)<(
+The Group’s net cash generated from operating activities was RM0.9 million compared to RM3.6 million net cash
+used in the previous financial year. The improvement in net cash generated from operating activities is a direct result
+of the strong gross profit position of the Group. The Group’s net cash used in investing activities was RM0.3 million as compared to RM0.6 million net cash generated
+from the previous financial year. The reversal is mainly due to the proceeds from disposal of property, plant and
+equipment and right-of-use assets of RM0.3 million and RM0.5 respectively in previous financial year. There has been a reversal in the net cash from financing activities of RM2.0 million. The reversal is mainly due to the
+proceeds from issuance of shares in FYE 2022.
+[MDA_P017]
+The summary of the Statement of Cash Flows is as follows:
+c) Review of Statement of Cash Flows
+Net cash generated from/(used in) operating activities
+Net cash (used in)/generated from investing activities
+Net cash (used in) / generated from financing activities
+Net increase/(decrease) in cash and cash equivalents
+Cash and cash equivalents at the beginning of the year
+Cash and cash equivalents at the end of the year
+0.9
+(0.3)
+(0.4)
+0.2
+(7.5)
+(7.3)
+[MDA_P018]
+500LOOLRQ
+[MDA_P020]
+$
+[MDA_P021]
+.+((6$1%(5+$'

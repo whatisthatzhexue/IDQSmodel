@@ -1,0 +1,14 @@
+[TITLE]
+Bursa makes changes to indices
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-12-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/12/bursa-makes-changes-to-indices
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: The FTSE4Good Bursa Malaysia (F4GBM) Index will see 26 new inclusions and six exclusions for its December 2025 review, bringing the total number of constituents to 180. The syariah-compliant FTSE4Good Bursa Malaysia Shariah (F4GBMS) Index will see 24 inclusions and 10 exclusions, bringing its total to 139. Both changes take effect on Dec 22. In a statement, the local exchange said Ajinomoto (M) Bhd , Gas Malaysia Bhd and Johor Plantations Group Bhd are among the companies that now qualify for both the F4GBM Index and F4GBMS Index under the latest review.
+
+[NEWS_P002] Sunway Real Estate Investment Trust has been added to the F4GBM Index but not to the F4GBMS Index. The six exclusions from the F4GBM Index are Carimin Petroleum Bhd , Comfort Gloves Bhd , Fraser & Neave Holdings Bhd , Hextar Healthcare Bhd , Innature Bhd and Tasco Bhd . Hengyuan Refining Company Bhd was removed from the F4GBMS Index.

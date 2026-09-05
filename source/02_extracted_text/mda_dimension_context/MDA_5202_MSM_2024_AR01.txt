@@ -1,0 +1,14 @@
+document_id: MDA_5202_MSM_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": false, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 4, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Discussion and Analysis (MD&A). In addition, corporate announcements are made to keep shareholders informed of significant developments affecting the Company, in full compliance with the Listing Requirements. The Board also ensures adherence to all applicable financial reporting standards, the provisions of the Companies Act 2016, and other relevant laws and regulations in Malaysia. We place the highest importance on upholding exemplary standards of corporate governance, transparency, and accountability. These principles are deeply embedded in our approach to conducting business and are integral to supporting our strategy. By adhering to these values, we aim to foster sustainable growth and create enduring value for our shareholders over the long term.
+[MDA_P002]
+RISK MANAGEMENT AND INTERNAL CONTROLS The Board remains committed to maintaining and continually enhancing MSM Group’s and its subsidiaries’ risk management and internal control systems, with the support of the AGRC. The Group’s control environment incorporates several critical components, including the AGRC, organisational structure, Code of Business Practice, Business Continuity Management, Group Internal Audit, Legal, Company Secretary, Limit of
+[MDA_P003]
+Authorities, Policies and Procedures, Financial and Operational Information, and Systems and Information Security. The Group operates within a well-defined organisational structure with established responsibilities, authorities, and reporting lines to the Board. This structure is designed to support the development, planning, execution, monitoring, and achievement of the Group’s objectives, ensuring that robust internal controls are embedded throughout its operations. For further details on the Group’s risk management and internal control framework,
+[MDA_P004]
+please refer to the Statement on Risk Management and Internal Control on pages 161 to 172 of this AIR. Further information on the activities of the Committee during the financial year ended 31 December 2024 can be found in the AGRC Report on pages 152 to 154 of this AIR.

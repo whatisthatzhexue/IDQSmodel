@@ -1,0 +1,167 @@
+document_id: MDA_4065_PPB_2020
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_4065_PPB_2020", "has_cost_discussion": true, "has_margin_discussion": false, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 94, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "moderate"}
+selected_paragraphs:
+[MDA_P001]
+Financial Review
+4,190,690
+1,420,933
+4,683,776
+1,271,628
+The Group achieved total revenue of RM4.19 billion,
+11% lower than FY2019. This was mainly attributable to
+lower revenue from the Film exhibition and distribution
+segment. Group pre-tax profit was higher by 12% to
+RM1.42 billion for FY2020 (FY2019: RM1.27 billion),
+mainly due to higher contribution from Wilmar
+at RM1.24 billion (FY2019: RM960 million). Profit
+attributable to owners of the parent amounted to
+RM1.32 billion, and earnings per share was 14.3%
+higher at 92.6 sen (FY2019: 81.0 sen). Financial performance by business segments
+Grains and agribusiness
+Consumer products
+Film exhibition and distribution
+Environmental engineering and utilities
+Property
+Group financial position
+Revenue
+(RM’000)
+Profit before tax
+(RM’000)
+Profit attributable to
+shareholders
+(RM’000)
+Earnings per share (sen)
+1,316,961
+1,152,551
+92.6
+81.0
+Segment
+revenue
+remained
+relatively
+unchanged at RM3.29 billion (FY2019: RM3.30
+billion). Segment profit increased by 28% to
+RM272 million (FY2019: RM213 million) mainly
+attributable to lower raw material costs and
+higher share of profit from associates.
+[MDA_P002]
+Segment revenue (RM’000)
+Segment profit (RM’000)
+3,291,130
+3,304,147
+271,682
+213,010
+Segment
+revenue
+was
+relatively
+unchanged
+at
+RM628 million (FY2019: RM627 million). Segment profit
+was higher at RM32 million (FY2019: RM647,000). The increase was mainly attributable to a one-off gain of
+RM21 million on step-acquisition of an associate and
+better performance at the bakery division. Segment revenue (RM’000)
+Segment profit (RM’000)
+628,275
+627,440
+31,548
+Segment revenue was lower by 3% at RM190 million
+(FY2019: RM195 million). Segment profit was 28%
+higher at RM14 million (FY2019: RM11 million), mainly
+attributable to share of profit from joint venture (a one-
+time impairment of RM8.9 million of an overseas joint
+venture was made in FY2019). Excluding that, segment
+performance was affected by slower project activities. Segment revenue (RM’000)
+Segment profit (RM’000)
+189,543
+194,839
+14,382
+11,272
+Segment revenue was lower at RM114 million
+(FY2019:
+RM556
+million). The
+segment
+recorded a loss of RM136 million (FY2019:
+profit of RM67 million). Segment results were
+significantly impacted by reduced admissions,
+intermittent closure of cinemas and deferment
+of movie titles during the year.
+[MDA_P003]
+Segment revenue (RM’000)
+Segment (loss)/profit (RM’000)
+114,255
+556,127
+(135,598)
+66,838
+Segment
+revenue
+and
+profit
+was
+at
+RM67 million (FY2019: RM65 million) and RM4
+million (FY2019: RM14 million) respectively. The lower segment profit was mainly due to
+lower rental income and the absence of a
+one-time gain on disposal of property of
+RM4.7 million recorded in FY2019. Segment revenue (RM’000)
+Segment profit (RM’000)
+67,046
+64,635
+3,940
+13,891
+Total
+assets
+Total
+liabilities
+Net
+assets
+per share
+(RM)
+The Group’s total assets increased by 5.5% to
+RM24.9 billion as at 31 December 2020. This was
+mainly attributable to the increase in share of net
+assets in Wilmar. Group total liabilities decreased
+by 7.7% to RM1.34 billion as at 31 December 2020. The decrease was mainly due to a decrease in trade
+and other payables by RM280 million to RM368
+million, partially offset by an increase in borrowings by
+RM120 million to RM481 million. Net assets per share stood at RM16.04 as at
+31 December 2020.
+[MDA_P004]
+24,883,658
+1,337,213
+16.04
+23,579,757
+1,448,966
+15.07
+(RM’000)
+Group cash and cash equivalents
+Group cash and cash equivalents remained strong at
+Group bank borrowings
+Group bank borrowings increased by RM120 million to RM481 million as at
+31 December 2020. About 94% of the Group’s bank borrowings were
+trade finance facilities. 99% of the Group’s bank borrowings are unsecured and bear variable
+interest rates. 84% or RM405 million are foreign currency denominated working capital
+loans for the foreign operations of the Grains and Agribusiness segment;
+these are mainly in Indonesian Rupiah, Vietnamese Dong and United States
+Dollars. Group capital expenditure
+The Group incurred total capital expenditure of RM109 million in FY2020.
+[MDA_P005]
+Major areas of spend are as follows:
+RM1.42 billion
+(FY2019: RM1.50 billion)
+RM52 million in the Grains and agribusiness segment,
+mainly for the construction of new flour milling plants and
+upgrading of the flour and feed milling plants;
+RM22 million in the Film exhibition and distribution
+segment for the opening of new cinemas, upgrading of
+existing cinemas and acquisition of film rights;
+RM18 million in the Property segment, mainly for the
+construction of investment properties; and
+RM15 million in the Consumer products segment, mainly
+for the construction of a frozen food production factory.

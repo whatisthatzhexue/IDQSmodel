@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rises on dovish Fed remarks, ahead of BNM OPR
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-07-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/11/fbm-klci-rises-on-dovish-fed-remarks-ahead-of-bnm-opr
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI continued its rally as Wall Street stocks continued to pile on gains following dovish remarks from the Federal Reserve chair. "In the US, comments from Jerome Powell in the two-day testimony, where he expressed concerns that the higher-for-longer interest rate environment may slow down the economic growth, have boosted appetite in the stock markets," said Malacca Securities Research in its market review. Overnight, the S&P500 and Nasdaq marked new territories led by technology related stocks, while the Dow added 1.1%.
+
+[NEWS_P002] However, the research firm said investors will be monitoring the upcoming US consumer price index and producer price index data later today and tomorrow On the domestic front, investors will be looking out for Bank Negara's monetary policy decision this afternoon, which is expected to maintain status quo on the overnight policy rate. At the start of trading, the FBM KLCI was up 2.78 points to 1,621.16, in line with the improved sentiment over the inflation environment.
+
+[NEWS_P003] QL Resources jumped 11 sen to RM6.64, Telekom Malaysia gained six sne to RM7 and Nestle rose RM1.70 to RM124.40. Bank shares were also higher, including Maybank adding four sen to RM10.06, Hong Leong Bank climbing eight sen to RM19.20 and CIMB rising three sen to RM7.12. Among actives, Techbase rose 0.5 sen to 22 sen, Powerwell added 0.5 sen to 57 sen and Aimflex gained 0.5 sen to 20.5 sen.

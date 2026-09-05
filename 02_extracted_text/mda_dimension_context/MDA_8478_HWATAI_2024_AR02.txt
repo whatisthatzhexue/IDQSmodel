@@ -1,0 +1,100 @@
+document_id: MDA_8478_HWATAI_2024
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 9, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_8478_HWATAI_2024", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 21, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+STATEMENT OF MANAGEMENT
+DISCUSSION & ANALYSIS
+[MDA_P002]
+annual report 2024
+HWA TAI INDUSTRIES BERHAD
+FINANCIAL AND OPERATIONS REVIEWS (continued)
+The breakdown of the Group’s for FYE2024 and FYE2023 is as follows:
+FYE2024
+RM’000
+%
+FYE2023
+RM’000
+%
+Export sales
+10,487
+11,934
+Local sales - Hwa Tai & OEM Products
+89,379
+68,748
+Total
+99,866
+80,682
+In the financial year ended 31 December 2024 (FYE2024), Hwa Tai achieved a substantial revenue increase of
+23.8%, reaching RM99.87 million compared to RM80.68 million in FYE2023. This growth was primarily attributed to
+stronger sales in local markets, including Peninsular Malaysia, East Malaysia, and e-commerce platforms. The significant revenue growth contributed to the Group’s turnaround, reporting a profit before taxation of RM0.984
+million in FYE2024 compared to a loss of RM7.103 million in FYE2023. This improvement was primarily driven by
+robust performance in the domestic market.
+[MDA_P003]
+FINANCIAL POSITION
+The table below provides an overview of the Group’s financial position in FYE2024 and FYE2023:
+FYE2024
+RM’000
+FYE2023
+RM’000
+Total assets
+104,896
+96,847
+Total liabilities
+76,917
+70,163
+Shareholders’ equity
+27,960
+26,665
+Total borrowings
+(Secured lease liabilities were excluded)
+29,502
+29,859
+Cash, bank balances and short-term deposits
+7,945
+7,607
+Net assets per share (sen)
+37.36
+35.63
+Profit / (Loss) per share (sen)
+1.73
+(9.49)
+In FYE2024, Hwa Tai demonstrated a notable improvement in its financial position. Total assets grew to RM104.90
+million, driven primarily by an increase in trade and other receivables as well as inventories. A slight reduction in
+total borrowings, combined with higher cash reserves, reflects enhanced operational efficiency. The net assets per
+share rose to 37.36 cents, signalling that improved profitability has added value to the company. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+[MDA_P004]
+annual report 2024
+HWA TAI INDUSTRIES BERHAD
+BUSINESS STRATEGICS AND RISK FACTORS
+Hwa Tai remains steadfast in its commitment to innovation, customer expansion, and operational excellence. Guided by a focus on delivering high-quality biscuits and confectionery products, we continue to prioritize market
+responsiveness and sustainable growth. Business Strategies:
+1. Innovation and Product Development: Our Research and Development division is dedicated to continuous
+product innovation, focusing on healthier options and enhancing our existing product portfolio. We aim to
+align with changing customer preferences while maintaining our commitment to quality and taste. 2. Market Expansion: Expanding our presence locally and internationally is a key growth driver. This includes
+penetrating new markets, launching diverse products, and strengthening our distribution networks to increase
+market reach and consumer accessibility. 3. E-commerce Initiatives: Recognizing the rapid growth of digital commerce, Hwa Tai is actively investing
+in online platforms to enhance our digital presence.
+[MDA_P006]
+Weaknesses: The company relies heavily on R&D for innovation, faces risks in entering new markets, encounters
+challenges with e-commerce implementation, and deals with operational complexities and intense competitive
+pressures. Opportunities: Rising health and wellness trends, global market expansion, digital transformation, strategic
+partnerships, and innovative branding provide significant growth potential for Hwa Tai. Threats: Market saturation, stringent regulatory compliance, economic uncertainty, technological disruptions, and
+supply chain vulnerabilities present risks to the company’s operations and profitability. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+[MDA_P007]
+annual report 2024
+HWA TAI INDUSTRIES BERHAD
+BUSINESS STRATEGICS AND RISK FACTORS (continued)
+Risk Factors:
+1. Market Competition: A highly competitive landscape, driven by evolving consumer preferences and new
+market entrants, poses challenges to profitability and market share. 2. Raw Material Price Volatility: Fluctuating costs of key inputs, such as wheat and sugar, impact production
+costs and profit margins. Strategic procurement and cost control are vital to mitigate these risks. 3. Supply Chain Disruptions: Disruptions caused by natural disasters, geopolitical events, or logistical issues
+could impact production schedules and order fulfilment. 4. Consumer Demand Shifts: Changes in dietary trends or economic conditions may affect product demand. Adapting to these shifts is essential to sustain growth. 5. Regulatory Compliance: Adherence to food safety and quality standards is critical. Non-compliance could
+lead to penalties and damage consumer trust. 6. Economic and Geopolitical Risks: Uncertainties in global trade, exchange rates and regulations can affect our
+operations and market access. 7.

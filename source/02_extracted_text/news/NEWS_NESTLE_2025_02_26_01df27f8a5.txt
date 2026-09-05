@@ -1,0 +1,18 @@
+[TITLE]
+Bargain hunting drives FBM KLCI rally, lifting index by 20.68 points
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/26/bargain-hunting-drives-fbm-klci-rally-lifting-index-by-2068-points
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI staged a rally after yesterday's sell-off, driven by buying interest in banking and Petronas-linked stocks. The market barometer rallied 20.68 points, or 1.32%, to 1,588.71, its intraday high, thanks to buying support in banking and Petronas-linked counters. The index hit an intraday low of 1,565.46. On the broader market, gainers trounced losers by 534 to 471, while 473 counters were unchanged. About 2.82 billion shares, valued at RM2.82bil, changed hands.
+
+[NEWS_P002] Dealers noted that although the benchmark index finished higher today, market sentiment remained tepid, with investors staying on the sidelines until signs of recovery emerge. According to data on Bursa Malaysia, foreign investors continued to sell local stocks on Tuesday, disposing of RM276mil worth of equities. Local institutions and retailers acquired RM195mil and RM81mil worth of equities, respectively. On Bursa Malaysia, United Plantations was the top gainer, jumping 64 sen to RM22.64, followed by Hong Leong Bank, which added 54 sen to RM21.24 and Allianz, which rose 44 sen to RM18.44.
+
+[NEWS_P003] Nestle tumbled RM1.52 to RM88.48, BLD Plantation shed 46 sen to RM10.84, Heineken declined 36 sen to RM26.84 and PIE Industrial fell 25 sen to RM4.25. Among the banks, Maybank rose 24 sen to RM10.70, contributing 4.2153 points to the index, while Public Bank gained nine sen to RM4.55, adding 2.547 points. Hong Leong Bank advanced 54 sen to RM21.24, lifting the index by 1.7038 points. On the forex market, the ringgit was quoted at 4.4272 against the US dollar, down 0.09%.
+
+[NEWS_P004] The local currency was down 0.31% against the euro at 4.6472. It fell 0.3% against the pound sterling at 5.6021 and fell 0.26% against the Singapore dollar at 3.3108. On the external front, MSCI’s Asia ex-Japan stock index was higher by 1.2%. Japan’s Nikkei 225 fell 0.25% while South Korea’s Kospi closed up 0.41%. Hong Kong’s Hang Seng ended 3.27% higher. China’s CSI300 index added 0.87% and the Shanghai Composite closed up 1.02%.

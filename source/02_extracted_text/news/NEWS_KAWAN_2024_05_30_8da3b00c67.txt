@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI bucks regional trend as stocks bounce
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2024-05-30
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/30/fbm-klci-bucks-regional-trend-as-stocks-bounce
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI erased earlier losses as investors turned bullish on domestic equities amid the downbeat sentiment in global markets. At 12.30pm, the key index rose 2.4 points to 1,607.75, bucking the regional trend as the global appetite for equities shrank following a US economic survey that showed policymakers remained hawkish on interest rates. Underlying the improved benchmark, however, was a negative performance on the broader market as 589 stocks dipped into the red as compared to 473 gainers and 438 unchanged.
+
+[NEWS_P002] Eight of the 13 market sectors were positive, led by construction and plantations. Meanwhile, the utilities and energy sectors lagged the most. There were a total of 3.27 billion shares traded for RM2.1bil. Among the biggest gainers on Bursa Malaysia were Press Metal , rising 22 sen to RM4.09, IHH gaining seven sen to RM6.26 and Genting adding six sen to RM4.84. Dutch Lady , which released its results yesterday, rose 60 se nto RM35.50, while IJM gained 25 sen to RM2.79.
+
+[NEWS_P003] SAM Engineering climbed 22 sen to RM6.20 and Mah Sing jumped 21 sen to RM1.73. Kawan Renergy, now in its second day of trading, rose 15.5 sen to 62 sen. Of actives, Lagenda pared losses to five sen at RM1.12, MYEG rose one sen to RM1.05 and Epicon gained four sen to 35.5 sen. In key Asian markets, Japan's Nikkei slumped 1.26% to 38,081 while Hong Kong's Hang Seng dropped 1.22% to 18,262. China's composite index slipped 0.12% to 3,107 and Singapore's Straits Times index fell 0.28% to 3,313.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI retraces higher, in line with regional recovery
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/02/fbm-klci-retraces-higher-in-line-with-regional-recovery
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI pared losses as it entered midday as possible trade talks between the US and China helped to offset profit-taking in the domestic market. At 12.30pm, the main index was down 2.43 points to 1,537.79, as foreign funds took profit after six consecutive days of net inflows. The broader market, however, was positive with the advancing issues outpacing declining by a ratio of 1.94-to-1. Volume was 1.63 billion shares changing hands for RM1.14bil.
+
+[NEWS_P002] In key Asian market, the sentiment was upbeat with Hong Kong's Hang Seng rising 1.69% to 22,492 to lead the rally. Japan's Nikkei gained 1.01% to 36,821 and Singapore's Straits Times added 0.29% to 3,843. China's composite index dropped 0.23% to 3,279. On Bursa Malaysia, blue chips that saw some profit-taking pressure after recent gains included Nestle down RM1 to RM86, PETRONAS Gas falling 28 sen to RM17.22 and PETRONAS Chemicals shaving 20 sen to RM3.47.
+
+[NEWS_P003] Top actives were Reach Ten up 2.5 sen to 54.5 sen, Nationgate climbing 11 se ot RM1.47 and Tanco rising 1.5 sen to 87.5 sen.

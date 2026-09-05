@@ -1,0 +1,119 @@
+document_id: MDA_5157_SG_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+Analysis of Revenue (Cont'd)
+The Management will continue to monitor the prospect of secondary Covid-19 outbreak leading the re-imposition of containment
+measures. Therefore, the Management we continue to improve on its production efficiency and to capture a bigger market share in
+the HORECA and OEM segment which higher profit margin while sustain its market share capture for FPP segment during MCO period. Meanwhile, the Management continue to put effort in monitoring its cash flow management and cost reduction programme that
+important in view of the ever-changing business environment amidst the on-going Covid-19 pandemic.
+[MDA_P003]
+Analysis of Profit/(Loss)
+FYE 2020
+FYE 2019
+01.08.2020
+to
+31.07.2019
+01.08.2018
+to
+31.07.2019
+Analysis of Profit and expenses :
+Profit/(Loss)
+Loss before tax
+(RM’000)
+(28,007)
+(2,410)
+(Loss)/Profit after tax
+(RM’000)
+(30,611)
+(Loss)/Earnings before interest, taxes, depreciation and amortisation (“(L)/EBITDA”)
+(RM’000)
+(21,611)
+4,940
+Expenses
+Cost of goods sold (“COGS”)
+(RM’000)
+91,077
+70,523
+Administrative and selling expenses
+(RM’000)
+14,824
+13,908
+Finance costs
+(RM’000)
+1,632
+2,120
+The LBITDA of RM21.6 million mainly due to inventories written off of RM25.1 million. If excluded the inventories written off there is EBITDA
+of RM3.5 million in FYE 2020 as the Management continuous on implementing cost reduction programme and focus on the improving
+the quality of products to improve the market shares in Food Service segment. However, the positive impact on this programme has offset
+Covid-19 outbreak on 11 March 2020. This was followed by Federal Government issuing a Gazetted Order known as the Movement Control
+Order (‘MCO’) which was effective for the period from 18 March 2020 to 3 May 2020 and Conditional Movement Control Order (‘CMCO’)
+from 4 May 2020 to 9 June 2020.
+[MDA_P004]
+Subsequently, Recovery Movement Control Order (‘RMCO’) was gazetted which is effective for the period
+from 10 June 2020 to 31 December 2020. The pandemic has cause the Management to written off the slow moving inventories and and
+rework done on slow moving trading goods and low margin products. The rework of the slow moving products causes an increase in COGS
+by way of increase in production costs in FYE 2020. The causes the COGS in FYE 2020 increase by RM20.6 million as compared to FYE 2019
+COGS at RM70.5 million. During this financial year end, the Group has recorded LAT of RM30.61 million as compare to PAT of RM0.45 million in FYE 2019. However,
+the Group still maintained its positive operating cash flow of RM2.3 million. Analysis of Expenses
+Our Group’s COGS increased by RM20.6 million or 29.1% from RM70.5 million in FYE 2019 to RM91.1 million in FYE 2020. The reason on the
+increase in COGS was mainly due to the inventories written off and rework of slow moving trading goods and low margin products. This
+causes the increased in material conversion cost i.e. increase in processing cost to convert existing goods to other products.
+[MDA_P005]
+However, the
+impact of written down value of inventories and rework cost was slightly mitigated by continuous cost reduction programme implemented
+by the Management. Our Group’s administrative and selling expenses comprised mainly of marketing cost such as promotion expenses, listing of products
+cost, sales commissions, salaries and etc. The Group’s administrative and selling expenses increased by RM0.9 million or 6.6% from RM13.9
+million in FYE 2019 to RM14.8 million in FYE 2020. The increase mainly due to allowance for expected credit losses on trade receivables of
+RM0.6 million and bad debts written off of RM2.3 million in FYE 2020. The Group able to reduce the employee benefit expenses by RM1.6
+million as compared to FYE 2019. This reduction in expenses mainly contributed from salary in sales personnel and promotional expenses
+arises from the effectiveness in changing the sales model from Direct Retail Selling model to Distributorship model. Our Group’s finance cost decrease by RM0.5 million or 23.0% from RM2.2 million in FYE 2019 to RM1.6 million in FYE 2020.
+[MDA_P006]
+Going forward,
+our finance cost should be on the decreasing trend as a result of our Group’s gradual reduction of bank borrowings. ANNUAL REPORT 2020
+[MDA_P007]
+MANAGEMENT DISCUSSION & ANALYSIS (CONT’D)
+Earnings Per Share (“EPS”)
+EARNINGS / (LOSS) PER SHARE (SEN)
+(3.83) (2.64)
+0.34
+(21.96)
+(2.48)
+14 months
+The impact of written off and written down of inventories has
+contributed to an overall loss after tax of RM30.6 million. As such,
+our Group has recorded loss on EPS of 21.96 as compared to EPS of
+0.34 in FYE 2019. Cash Flow Analysis
+FYE 2020
+FYE 2019
+(RM’000)
+(RM’000)
+Operating cash flow before
+working capital change
+2,240
+1,258
+Changes in working capital
+1,535
+7,364
+Tax refund/(paid)
+(333)
+Interest paid
+(1,621)
+(2,120)
+Net cash from operating
+activities
+2,333
+6,169
+Our Group has recorded net cash from operating activities of
+RM2.3 million in FYE 2020 as compared to net cash from operating
+activities of RM6.2 million in FYE 2019 after deduct interest paid
+of RM1.6 million for FYE 2020 and RM2.1 million for FYE 2019
+respectively. The decreased in cash from operating activities was
+due to the longer collection period from customers due to MCO
+and CMCO during the financial year 2020. Even facing the Covid-19
+pandemic challenge, the Group still able to maintain current ratio
+at above one.

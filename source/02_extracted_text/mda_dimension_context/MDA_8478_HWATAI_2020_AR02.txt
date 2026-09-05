@@ -1,0 +1,83 @@
+document_id: MDA_8478_HWATAI_2020
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 11, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_8478_HWATAI_2020", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 22, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(Continued)
+[MDA_P002]
+ANNUAL REPORT 2020 I HWA TAI INDUSTRIES BERHAD
+FINANCIAL AND OPERATIONS REVIEWS (Continued)
+There was a slight increase in the Group’s gross profit margin at approximately 30% in FYE 2020 as compared with
+29% in FYE2019. The slight increase of margin was mainly due to no major fluctuation prices of sugar, flour and
+packaging materials, which are major cost components for our products. Moreover, there was no major movement
+of foreign currency exchange (FOREX) on our export sales which mainly transacted in US Dollar in FYE2020 as
+compared to FYE2019. The Group had incurred total expenses of RM21.45 million in FYE2020, almost on par as compared with RM21.80
+million in FYE2019, a marginal decrease of 1.63%. The expenses were mainly from advertising and promotional
+expenses, staff cost and impairment loss on trade receivable. These expenses were also formed partly from selling
+and distribution expenses, administration expenses and other expenses.
+[MDA_P003]
+Other income of RM0.50 million in FYE2020 and RM0.94 million in FYE2019 was primarily derived from reversal of
+impairment loss for associate and interests earned on fixed deposits placed at financial institutions for both of the
+financial years. The Group had fully provided the impairment loss on the remaining cost of investment in our China associated
+company, Shan Dong Yingerle Hwa Tai Food Industry Co. Ltd in financial year ended 31 December 2018 (“FYE2018”). The impairment loss arose from prolonged decline in value of investment and significant financial difficulty in the
+associated company. Thus, there will be no material impact on the Group’s results irrespective of the performance
+of the associate neither in FYE2020 or coming years. Should there be any evidence which indicates that the
+performance of the associated company is or will be better than expected, the Group will expect a write back of
+these impairments.
+[MDA_P004]
+In compliance with the disclosure of Malaysian Financial Reporting Standard, a share of loss of RM344,000 in this
+associate was recorded and the impact was mitigated by a reversal of partial impairment loss of RM342,000 for
+this associate in FYE2020 which the impairment loss for its remaining cost of investments was fully provided in
+FYE2018. FINANCIAL POSITION
+The table below highlights the Group’s financial position in FYE2020 and FYE2019:
+FYE2020
+RM’000
+FYE2019
+RM’000
+Total assets
+63,501
+58,837
+Total liabilities
+39,907
+36,339
+Shareholders’ equity
+23,588
+22,490
+Total borrowings
+(Secured lease liabilities were included)
+19,669
+16,428
+Cash and bank balances and short-term deposits
+6,973
+9,073
+Net assets per share (sen)
+31.52
+30.05
+Earnings/(Loss) per share (sen)
+1.46
+(2.97)
+The shareholders equity increased to RM23.59 million in FYE2020 from RM22.49 million in FYE2019, an increase
+of RM1.10 million. Total assets and total liabilities stood at RM63.50 million and RM39.91 million respectively in
+FYE2020. An increase of RM4.66 million and RM3.57 million for total assets and total liabilities respectively were
+recorded in FYE2020 as compared with FYE2019.
+[MDA_P005]
+Net assets per share and earnings per share were 31.52 sen and
+1.46 sen respectively in FYE2020, reflected some improvement as compared with net asset per share and loss per
+share of 30.05 sen and 2.97 sen respectively in FYE2019. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(Continued)
+[MDA_P006]
+HWA TAI INDUSTRIES BERHAD I ANNUAL REPORT 2020
+FINANCIAL POSITION (Continued)
+Included in short term deposits in FYE2019 is an amount of RM4.86 million, which is part of the RM7.00 million
+Right Issue proceeds raised for capital expenditure from our previous corporate exercise in year 2015 as approved
+by our shareholders at our Extraordinary General Meeting held on 12 November 2014. The Board has resolved to extend the utilization of the proceeds to 13 April 2020 and 13 July 2020 as announced
+on 8 April 2019 and 9 April 2020 respectively. The balance of proceeds raised from the Rights Issue amounting to
+RM7.00 million which was earmarked for capital expenses for business expansion which is to be utilized by the
+timeframe of 13 July 2020 is now fully utilized as announced on 15 June 2020. Investment in capital expenditure of approximately RM9.14 million in FYE2020 was primarily comprised of capital
+work-in-progress amounting to RM6.77 million pertaining to the indirect fire convection biscuit line and the remainder
+was mainly on factory upgrading and machineries.

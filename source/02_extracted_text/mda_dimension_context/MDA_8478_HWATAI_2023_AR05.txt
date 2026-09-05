@@ -1,0 +1,76 @@
+document_id: MDA_8478_HWATAI_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 133.375, "paragraph_count": 12, "paragraph_length_distribution": {"max": 1193, "mean": 906.917, "min": 57}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+FINANCIAL AND OPERATIONS REVIEWS (continued)
+In the financial year ended 31 December 2023 (“FYE2023”), Hwa Tai reported a marginal revenue increase to
+RM80.68 million, marking a 5.80% rise from FYE2022. This growth was primarily driven by increased sales in
+local markets across Peninsular Malaysia, East Malaysia, and e-commerce platforms. Despite facing logistical
+challenges such as fluctuating currency exchange rates and supply chain disruptions, our export sales remained
+resilient, maintaining parity with the previous year’s performance. Operating in an increasingly competitive market, the Group faced higher operating costs in FYE2023, primarily
+attributed to escalating raw material and labor expenses. Total expenses increased marginally to RM25.74 million,
+reflecting investments in advertising, promotions, staff, and depreciation. Other income remained steady, derived
+from interests earned and proceeds from asset disposals. Despite efforts to mitigate losses, Hwa Tai reported a loss of RM7.10 million in FYE2023, compared to RM5.83
+million in FYE2022. This loss was primarily driven by increased operating costs and challenges in international
+markets.
+[MDA_P004]
+HWA TAI
+INDUSTRIES
+BERHAD
+annual
+report
+p a g e
+BUSINESS STRATEGICS AND RISK FACTORS
+Hwa Tai remains committed to innovation, customer expansion, and operational excellence. Our Research and
+Development division continues to focus on product innovation and market research to meet evolving consumer
+preferences. Expansion into new markets, product diversification, and e-commerce initiatives are key strategies to
+drive growth. Operational improvements, including factory upgrades and machinery investments, aim to enhance efficiency
+and product quality while mitigating risks associated with labor shortages and fluctuating raw material prices. Comprehensive quality control measures ensure product safety and compliance with industry standards. Business Strategies:
+1. Innovation and Product Development: Hwa Tai’s Research and Development division remains dedicated
+to continuous innovation and product development. We prioritize creating healthier product options and
+enhancing our existing product portfolio to align with evolving consumer preferences. 2. Market Expansion: To drive growth, we are actively expanding our customer base both locally and
+internationally.
+[MDA_P007]
+HWA TAI
+INDUSTRIES
+BERHAD
+annual
+report
+p a g e
+BUSINESS STRATEGICS AND RISK FACTORS (continued)
+Risk Factors:
+1. Market Competition: The biscuit manufacturing industry is highly competitive, with the emergence of new
+players and changing consumer preferences. Intensifying competition may put pressure on profit margins
+and market share. 2. Raw Material Price Volatility: Fluctuations in the prices of raw materials, such as wheat, sugar, and packaging
+materials, pose a significant risk to our profitability. Sudden price increases could impact production costs
+and erode margins if not adequately managed. 3. Supply Chain Disruptions: Disruptions in the supply chain, whether due to natural disasters, geopolitical
+tensions, or transportation issues, could disrupt production schedules and impact our ability to fulfill customer
+orders on time. 4. Consumer Demand Shifts: Changes in consumer preferences, dietary trends, or economic conditions may
+impact demand for our products. Failure to anticipate and adapt to these shifts could result in inventory
+imbalances and decreased sales. 5.
+[MDA_P010]
+HWA TAI
+INDUSTRIES
+BERHAD
+annual
+report
+p a g e
+OUTLOOK AND FUTURE PROSPECTS
+Looking ahead, Hwa Tai acknowledges the challenges posed by global economic uncertainties and geopolitical
+tensions. However, with economies gradually recovering and supply chains stabilizing, we remain cautiously
+optimistic about the future. Our continued focus on consumer trends, operational efficiency, and market expansion will be pivotal in driving
+future growth. We recognize the importance of diversifying our product portfolio to mitigate risks and capture
+new market opportunities. Strategic partnerships and collaborations within the food industry will play a key role in
+leveraging our strengths and expanding our market presence. Furthermore, we are committed to investing in sustainability initiatives throughout our supply chain to meet evolving
+consumer expectations and regulatory requirements. By prioritizing sustainability, we aim to enhance our brand
+reputation and appeal to environmentally-conscious consumers. Expanding into emerging markets with growing demand for biscuits and confectionery products presents significant
+opportunities for growth.
+[MDA_P012]
+We are committed to navigating challenges, adapting to market dynamics, and delivering
+long-term value to our shareholders and stakeholders. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)

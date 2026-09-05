@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI rebounds in early trade on U.S.-China trade optimism
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/11/fbm-klci-rebounds-in-early-trade-on-us-china-trade-optimism
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI surged in early Wednesday trade, lifted by optimism over U.S.-China trade talks, as investors awaited further developments. In London, negotiators from Washington and Beijing said they had “agreed a framework on trade” to present to their leaders, Reuters reported. The FBM KLCI rebounded sharply, climbing 11.58 points, or 0.76%, to 1,528.49 as of 9:18 a.m., after opening 3.91 points higher at 1,520.86. Inter-Pacific Research noted that the key index seems to have found support just above the psychological 1,500 level and is likely to hold steady in the near term.
+
+[NEWS_P002] This comes as market participants remain focused on the ongoing U.S.-China trade talks, which are still at a standstill following another round of inconclusive overnight negotiations. Nevertheless, the research house said the FBM KLCI is likely to head higher, as a mild upside bias may persist over the near term, partly supported by optimism that a trade deal between the U.S. and China could be reached. “At the same time, the selling pressure is also easing somewhat and should allow for more bargain hunting to emerge for now.
+
+[NEWS_P003] “On the upside, there are resistances at the 1,523-1,525 levels and 1,530 points respectively. The supports, meanwhile, are at 1,510 and 1,503 points respectively,” Inter-Pacific said. Meanwhile, Rakuten Trade observed that in the absence of fresh incentives, there has been little appeal for traders to engage with the local bourse, leading to waning interest and subdued trading activity in recent months. “Even the IPOs were not spared as most registered marginal gains at best.
+
+[NEWS_P004] “For today, we expect the index to hover within the 1,510-1,520 range,” it said. On the local bourse, Nestle jumped 78 sen to RM75.78, PETRONAS Dagangan added 38 sen to RM20.92, United Plantations gained 30 sen to RM21.96 and Allianz rose 26 sen to RM19.38. Country View slid 11 sen to RM2.25, F&N declined eight sen to RM27.72, Carlsberg fell four sen to RM19.68 and Hong Leong Industries lost four sen to RM13.54. Overnight, the S&P 500 climbed 0.55% to end the session at 6,038.81 points.
+
+[NEWS_P005] The Nasdaq gained 0.63% to 19,714.99 points, while the Dow Jones Industrial Average rose 0.25% to 42,866.87 points.

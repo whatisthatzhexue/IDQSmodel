@@ -1,0 +1,97 @@
+document_id: MDA_7167_ABLEGLOB_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 83, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+The Statement on Management Discussion and Analysis (“MD&A”) provides an insight of
+the financial performance of Able Global Berhad (“AGB”) and its subsidiaries (“the Group”)
+for the financial year ended 31 December 2022 (“FYE 2022”). This MD&A also contains
+information on the Group’s overview of business and operations, current financial position,
+reviewing of operating activities, assessing the operational risks faced by the Group and
+discussing the future prospect of the Group.
+1.
+OVERVIEW OF BUSINESS AND OPERATIONS
+A.
+Business and Operations
+[MDA_P010]
+For F&B segment, the profit before tax decreased by RM9.63 million to RM18.46 million from RM28.09
+million and is mainly attributable to the higher cost of goods sold caused by the increase in raw material
+costs. Although the selling prices were adjusted, the full increase in costs could not be completely passed
+down to the customers, especially in the domestic market. In addition, the earlier price commitment to our
+customers and the continual increase in the raw material prices contributed to the decrease in margin in the
+current year-to-date.
+[MDA_P018]
+The main factors that affected the operating activities in the Tin Cans segment are shortage of labour and
+increase in raw materials prices.
+[MDA_P019]
+Raw material prices directly affect the profitability and to remain competitive, we have always strived to
+provide the most competitive prices to our customers. The Management is actively monitoring the raw
+materials cost and engages with the customers on the selling price adjustments. The Management is always
+vigilant in monitoring the cost of manufacturing to stay competitive in the industry and ensure that this
+segment remains its profitability.
+[MDA_P020]
+For F&B segment, the main factors that affected the operating activities were volatility in raw materials prices
+and freight costs.
+[MDA_P021]
+The prices of dairy and sugar remain volatiles and it will affect the manufacturing costs significantly. This
+posed a challenge to the Management in inventory control and procurement management. As such, the
+management is in constant contacts and dialogues with the suppliers and traders to gauge the situation of
+the market in order to make the procurement decisions.
+[MDA_P024]
+The following are the main factors that may affect the operational risks of the Group:
+A.
+Business Risk
+[MDA_P025]
+The Group’s revenue and operating results could be adversely affected by many factors which include,
+amongst others, the costs of raw materials, costs of labour as well as maintenance costs of equipment
+and machineries.
+[MDA_P026]
+The Group attempts to mitigate these risks by continuously monitoring the prices of key raw materials,
+expanding the pool of suppliers and customers whilst continuing to establish long-term business
+relationship with the existing suppliers and customers, expanding the existing business by enhancing
+the Group’s strength and developing new products. However, we cannot provide any assurance that
+the above-mentioned measures will be successful in mitigating the adverse effect of business risks
+mentioned on the materiality of the financial position and performance of the Group.
+B.
+Political, Economic and Regulatory Considerations
+[MDA_P028]
+Political and economic uncertainties include but not limited to risk of war, global economic downturn,
+expropriation, nationalisation, changes in political leadership, changes in investment policies,
+unfavourable changes in government policies such as changes in interest rates, method of taxation,
+exchange controls or the introduction of new regulations, import duties and tariffs and re-negotiation
+or nullification of existing contracts.
+[MDA_P029]
+The Group will continue to adopt effective measures such as prudent management and efficient
+operating procedures to mitigate these factors that will affect the Group’s business.
+C.
+Competition Risks
+[MDA_P030]
+The Group faces competition from both new entrants and existing players which offer similar products.
+High product quality, manufacturing efficiency, marketing, reasonable pricing and ranges of products
+are critical factors towards ensuring the success and sustainability of the business.
+[MDA_P031]
+The Group will continue to take strategic measures and continuous review of the operational efficiency
+to move ahead of competition by addressing the factors above. Whereas for the F&B segment, the
+barriers to entry are mainly the relative high capital investment to set up the manufacturing facilities,
+established distribution channels, compliance with stringent safety standards and strong research and
+development capabilities.
+[MDA_P033]
+The Group is exposed to foreign exchange risks on sales and purchases that are denominated in a
+currency other than RM. The currencies giving rise to this risk are primarily in USD.
+[MDA_P041]
+Moving forward into year 2023, the Group is of the opinion that the businesses will begin to normalise
+as countries around the world, including Malaysia, are experiencing economic recovery from COVID-19
+pandemic as most countries are removing the COVID-19 regulations. Commodities prices, however, are
+expected to remain volatile due to the inflationary pressure as well as the global economic situation and will
+cause volatility of raw material costs.
+[MDA_P042]
+For Tin Cans segment, demand is expected to grow marginally in this matured and stable industry but will
+remain challenging in the short-term. Raw material costs are less volatile but still at a high level. With raw
+materials cost at such high levels, it is creating a challenging business environment and will put additional
+pressure on the profit margin in the short term.
+[MDA_P046]
+Barring any unforeseen circumstances, the Board believes that the overall prospects and future financial
+performance of the Group is expected to be favourable in the mid-term.

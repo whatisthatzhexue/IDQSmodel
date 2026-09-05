@@ -1,0 +1,33 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 8.279915,
+      "current_value": 31.0,
+      "direction_word": "",
+      "evidence_locator": "[MDA_P003]",
+      "metric": "margin",
+      "note": "margin: stated 9.20%, calculated 8.28% from profit/revenue, status consistent.",
+      "previous_value": 374.4,
+      "source_text": "The current year revenue is also 16% higher than our prepandemic annual revenue of RM374.4 million recorded in year 2019. The revenue growth is mainly attributed to our much higher sales recorded throughout the year after movement restrictions were relaxed and the reopening of all economic sectors f",
+      "stated_pct": 9.2,
+      "status": "consistent"
+    }
+  ],
+  "document_id": "MDA_7103_SPRITZER_2022",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": false,
+  "internal_check_notes": [
+    "margin: stated 9.20%, calculated 8.28% from profit/revenue, status consistent."
+  ],
+  "num_calculable_changes": 1,
+  "num_consistent_checks": 1,
+  "num_financial_mentions": 69,
+  "num_material_discrepancies": 0,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "moderate"
+}

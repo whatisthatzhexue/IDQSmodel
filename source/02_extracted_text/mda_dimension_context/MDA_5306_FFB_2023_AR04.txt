@@ -1,0 +1,119 @@
+document_id: MDA_5306_FFB_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 54, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion
+and Analysis
+A. Strategic Review
+62 Market Landscape – Key Market Trends
+66 Key Risks and Mitigation
+69 Material Matters
+74 Our Strategic Priorities
+B. Financial Review
+76 Group Financial Review
+78 5-Year Group Financial Summary
+79 5-Year Financial Highlights
+80 Our Financial Snapshot
+81 Statement of Financial Position
+82 Investor Relations
+87 Financial Calendar
+C. Operational Review
+90 Farming
+92 Manufacturing
+96 Distribution
+HIGHLIGHTS:
+Strategic
+Review
+Financial
+Review
+pg62
+pg76
+[MDA_P003]
+In our commitment to drive sustained value creation, we thoroughly analyse and evaluate all market factors and
+developments that hold the potential to shape our operations. The strategies we craft to address these global
+megatrends and respond to the shifting industry landscape play a vital role in safeguarding the sustainability and
+performance of our business. Macroeconomic Challenges
+Description
+While the latest trends in the International Monetary Fund (IMF)’s
+Global Uncertainty Index indicate that uncertainty due to factors
+such as the COVID-19 pandemic and international trade tensions
+have contracted compared to last year, the Russia-Ukraine conflict
+remains the dominant contributor for global economic insecurity1. The ongoing war is likely to continue to cause volatility in
+commodities, materials and logistics costs. Meanwhile, the World Bank recently softened its stance on
+impending global recession, but forecasted global GDP growth
+of just 2.1% in 2023, well below the 3.1% in global growth recorded
+last year.
+[MDA_P005]
+https://www.imf.org/en/Blogs/Articles/2023/01/26/global-economic-uncertainty-remains-
+elevated-weighing-on-growth
+• Given the long-term nature of the headwinds and to counter the excessive impact of
+the input cost increases, we have increased our prices by an average of 5% in both
+August 2022 and July 2023 for our chilled products in Malaysia, on top of a 10% price
+increase in Singapore in August 2022
+• To counter the elevated Australia farmgate prices, we have already started to vary our
+milk mix by expanding further our farm capacities in both Malaysia and Australia
+• We closely monitor prices and stock levels to enable us to pre-emptively manage
+against supply and demand volatility
+• We are hedging our costs by locking in prices for our ingredients upfront for future
+deliveries as well as entering into forward contracts to hedge our foreign currency exposure
+OUR RESPONSE
+Key Stakeholders
+Material Matters
+Capitals
+Farm Fresh Berhad | Integrated Annual Report 2023
+M a n a g e m e n t D i s c u s s i o n & A n a l y s i s
+Strategic Review
+Market Landscape
+– Key Market Trends
+[MDA_P007]
+https://public.wmo.int/en/media/press-release/global-temperatures-set-reach-new-records-
+next-five-years
+• After undertaking our first independent carbon footprint exercise
+for the year 2020 and taking steps to reduce our carbon footprint,
+we have then undertaken a second independent carbon footprint
+inventory exercise to evaluate our performance for the calendar
+year 2022 and assess the progress that we have made over the
+years
+• We have also started utilising renewable energy with the
+commencement of our solar PV projects at our Muadzam Shah
+and Larkin farms, and a new rooftop solar facility slated for launch
+at our Taiping processing facility in early 2024
+• We are also on track to launch a new biogas plant at our Muadzam
+Shah by the end of 2023, with an additional biogas plant planned
+for our Taiping farm
+• We continue to adopt regenerative agriculture practices across
+our farms to reduce our reliance on chemical fertilisers and curb
+methane emissions from animal waste, with a target of implementing
+regenerative agriculture practices across all our farms by 2024
+OUR RESPONSE
+Key Stakeholders
+Material Matters
+Capitals
+Farm Fresh Berhad | Integrated Annual Report 2023
+[MDA_P008]
+Health & Wellness
+Description
+In the realm of health and wellness, we are acutely aware of the pressing health challenges confronting the
+younger generation in Malaysia, as underscored by the 2019 National Health and Morbidity Survey3 (“NHMS
+2019”). Disturbingly, the prevalence of childhood obesity has surged from 6.1% in 2011 to an all-time high of
+14.8% in 2019, surpassing rates in neighbouring countries like Thailand (7.8%), Vietnam (5%) and Indonesia
+(3.5%). Furthermore, the NHMS 2019 reported that 21.8% of children in Malaysia are stunted, a concerning issue as
+it significantly impacts their future adult height, as pointed out by experts like Professor Dr Muhammad Yazid
+Jalaludin, a senior consultant paediatric endocrinologist at Universiti Malaya Medical Centre. At the same time, findings from the South East Asian Nutrition Study (SEANUTS) has revealed that for urban
+children aged 7 to 12 years in six regions of Malaysia, 14.4% are overweight and 20.1% are obese.
+[MDA_P010]
+• We will stay true to our mission of delivering a wide variety of nutritious dairy-based products, which are free
+from preservatives, artificial flavorings, colorings and foreign substances, as we cement our position as Malaysia’s
+most trusted producer of dairy products
+• Recognising the market demand, we successfully launched a growing up milk for children, that is fortified with
+nutrients and free from preservatives, artificial flavouring, sugar, maltodextrin and other unnecessary ingredients. We will continue to expand our penetration within this market with the launch of a powder variant by end-
+• We launched two new plant-based products in FY2023, our Oat and Almond barista milk, and we will continue
+to introduce new products that meet the evolving needs and dietary restrictions of our consumers
+• We aim to continually grow and expand our market share and product range in the yoghurt category to
+capitalise on growing consumer consumption of probiotic rich dairy products
+OUR RESPONSE
+3.

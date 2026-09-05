@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI slips on dividend payouts, buying momentum remains intact, say analysts
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/11/fbm-klci-slips-on-dividend-payouts-buying-momentum-remains-intact-say-analysts
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI gapped lower at Thursday's open as its highest weighted constituent, Maybank, went ex-dividend, dragging on the market. Also the largest market cap on Bursa Malaysia, the bank shaved 30 sen off its reference price as it crossed the "ex-date" for its first interim dividend of 2025. The FBM KLCI was also bogged down by selling in Nestle and PETRONAS-related counters, shaving 7.92 points to 1,582.83. There have been expectations that growing buying momentum would extend a three-day rally as last night's weak US wholesale report further emphasised the likelihood of a rate cut in September.
+
+[NEWS_P002] According to TA Securities, blue chips are expected to extend gains on hopes that lower borrowing costs in the US could spur foreign fund inflows to the local market. Rakuten Trade separately noted that foreign funds had started nibbling on local equities after weeks of local institutions supporting the market. But there have been signs of growing caution as concerns over a slowing economy grew. More cautious traders were seen pumping the brakes on equities spending as the weaker US economic report sparked worries that the Federal Reserve was too slow in taking action, leading to recession fears.
+
+[NEWS_P003] Overnight, the US stock indices, as barometers of global equity performance, were mixed. The S&P500 and Nasdaq edged higher to fresh record highs on the back of AI plays, while the Dow Jones was dragged lower by Apple as the latest iPhone release disappointed. Notably, there were more losers than gainers on the S&P500, which suggested the rally rested on shaky foundations. Meanwhile, Bursa Malaysia's biggest price moves included Maybank, bouncing six sen to RM9.73 after deducting the 30 sen dividend.
+
+[NEWS_P004] Nestle shaved 50 sen to RM95, PETRONAS Dagangan dropped 14 sen to RM21.86 and Tenaga Nasional shaved eight sen to RM13.26. PETRONAS Gas also went ex-dividend, taking 16 sen off its reference price for its shareholders' payout. The share was down four sen to RM18.50. Meanwhile, UWC jumped 15 sen to RM3.15 following a leap in earnings announced yesterday. KLCC gained eight sen to RM8.53 while British American Tobaaco added eight sen to RM4.83. Of actives, VS Industry was up 0.5 sen to 54.5 sen, TWL was flat at three sen and NexG was unchanged at 49 sen.

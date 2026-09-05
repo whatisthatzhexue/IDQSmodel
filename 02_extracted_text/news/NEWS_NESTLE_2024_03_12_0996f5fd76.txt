@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rises amid broader market weakness
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-03-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/12/fbm-klci-rises-amid-broader-market-weakness
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI rebounded from a flat start to trade in the green at midday, amid a weak broader market. The market bellwether rose 5.16 points, or 0.33% to 1,549.87, with an advance-decline score of 365-513 on the broader market. Traded volumes stood at 2.5 billion shares valued at RM1.3bil. TA Securities said the local market should trade sideways pending fresh domestic catalysts to lift stocks from the current consolidation. “Stronger index supports cushioning downside will be at 1,529, 1,515 and 1,492, the respective rising 30-day, 50-day and 100-day moving averages.
+
+[NEWS_P002] “Immediate resistance will be from the recent 21-month high of 1,559, followed by 1,580, with a stronger upside hurdle seen at the 1,600 level,” it said. Among the gainers on Bursa Malaysia, Nestle jumped 90 sen to RM121.50, F&N gained 44 sen to RM29.66, ViTrox added 19 sen to RM7.29 and PPB rose 18 sen to RM15.44. CTOS fell 30 sen to RM1.15, Ajinomoto slid 28 sen to RM18.72 and Ge-Shen lost 24 sen to RM3.20. Micorlink hit the limit down, tumbling 30.19%, or 16 sen to 37 sen with 40.23 million shares traded.
+
+[NEWS_P003] Bursa Malaysia has suspended the short selling of Microlink's shares for the rest of the day. The suspension was triggered after the counter dropped more than 15% or 15 sen from its reference price. In Asian markets, Japan's Nikkei 225 slid 0.6% to 38,589.89 while South Korea’s Kospi rose 0.5% to 2,672.57. The Shanghai Composite Index lost 0.47% to 3,054.12 and Hong Kong's Hang Seng gained 1.7% to 16,870.21.

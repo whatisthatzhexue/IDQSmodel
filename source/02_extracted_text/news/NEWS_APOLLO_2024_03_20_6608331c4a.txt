@@ -1,0 +1,20 @@
+[TITLE]
+Banks lead Bursa blue-chips lower
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-03-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/20/banks-lead-bursa-blue-chips-lower
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysian stocks stayed in the red over the early Wednesday session as caution over upcoming developments in US interest rate policy weighed on sentiment. The benchmark FBM KLCI was down 3.94 points to 1,541.02 at the lunch break with the financial services sector weighing on the index. The country's leading banks topped the list of laggards with Maybank, the highest-weighted counter, sliding seven sen to RM9.58, while CIMB dropped nine sen to RM6.52 and Public Bank fell three sen to RM4.25.
+
+[NEWS_P002] Despite investors selling down the blue chips, the lower liners were seen holding firm as the broader Malaysian market maintained an even spread of 455 decliners to 449 gainers and 456 stocks unchanged. The market saw a share turnover of 2.23 billion, crossing hands for RM1.2bil. Bursa Malaysia has spent the early half of the week moving along a consolidation channel as investors awaited announcements by global central banks that would determine the interest rate environment moving forward.
+
+[NEWS_P003] Expectations for the US Federal Reserve's decision later tonight are for the lending rate to remain status quo. However, recent hot inflation data have investors fretting that policymakers might lean towards fewer rate cuts over the course of the year. On the domestic market, stocks in the spotlight include Ge-shen, which rebounded 38 sen to RM4.17, taking the share to a fresh historical high. Given its recent price changes, Bursa Securities had issued an unusual market activity query to the plastic injection molding service provider on Monday, following which it responded that it was not aware of any reason behind the share activity.
+
+[NEWS_P004] Most recently, the company announced it had entered into a non-binding term sheet to acquire 60% stakes each in Amity Research & Development Sdn Bhd (ARD) and Amity Technical Services & Consultancy (M) Sdn Bhd (ATSCM) for RM13.5mil cash. Meanwhile, Apollo Food also charted a new record share price after climbing 30 sen to RM7.30, on the back of its recent quarterly profit surge. In Asian markets, China's composite index managed to shrug off investor indecision to climb 0.5% to 3,076 as Beijing announced it was leaving its benchmark lending rates unchanged, as expected.
+
+[NEWS_P005] The country's blue-chip CSI300 also rose, 0.2% to 2,584, while Hong Kong's Hang Seng added 0.2% to 16,559. Japan's stock exchange was shuttered on Wednesday for a national holiday.

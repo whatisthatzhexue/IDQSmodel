@@ -1,0 +1,14 @@
+[TITLE]
+Apollo Food to mitigate rising cost
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-12-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/05/apollo-food-to-mitigate-rising-cost
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: Apollo Food Holdings Bhd will remain focused on strengthening its distribution networks and trade channels to achieve deeper market penetration while enhancing its brand visibility. For the second quarter ended Oct 31, 2024, the group posted a revenue of RM77.3mil compared to RM66mil in the preceding year’s corresponding quarter. Its net profit was also higher at RM10.6mil compared to RM9.95mil a year ago, on the back of increases in both domestic and export sales.
+
+[NEWS_P002] In a statement, the food manufacturer said on the operational front, it will advance plans to enhance efficiency and maximise output, with upgrades to be implemented in the coming quarters. However, it said the rising cost of raw materials and other input costs remain a key concern, resulting in a cautious outlook.

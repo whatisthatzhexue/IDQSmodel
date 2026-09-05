@@ -1,0 +1,11 @@
+{
+  "csv_path": "06_scoring/HUMAN_VALIDATION/mda_human_validation_sample.csv",
+  "instructions_path": "06_scoring/HUMAN_VALIDATION/mda_human_validation_instructions.md",
+  "mda_human_validation_ready": false,
+  "requested_sample_size": 30,
+  "sample_rows": 30,
+  "source_document_rows": 149,
+  "source_rating_rows": 745,
+  "unique_document_count": 21,
+  "xlsx_path": "06_scoring/HUMAN_VALIDATION/mda_human_validation_sample.xlsx"
+}

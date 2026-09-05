@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI rallies to six-month high, nears key 1,600 level
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-08-21
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/21/fbm-klci-rallies-to-six-month-high-nears-key-1600-level
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI climbed to a six-month high on Thursday, buoyed by ongoing corporate earnings season despite mixed regional markets, as investors awaited policy cues from the U.S. Federal Reserve’s annual symposium. At closing, the FBM KLCI climbed 4.66 points, or 0.29% to 1,592.87, its highest since February. The market traded within a range of 6.14 points between an intra-day high of 1,596.02 and a low of 1,589.88 during the session. Winners and losers were closely balanced, with 513 gainers against 522 losers and 491 that were flat.
+
+[NEWS_P002] About 2.7 billion shares, valued at RM2.9bil, changed hands. Rakuten Trade vice-president of research Thong Pak Leng said the FBM KLCI rebounded after profit-taking, with momentum supported by improving sentiment and renewed investor confidence despite weak Wall Street cues. “With the index staying comfortably above both its 20-day and 50-day exponential moving averages (EMAs), the technical setup suggests a healthy and sustainable uptrend,” he said, adding that optimism is growing as the index nears the key 1,600 level, signalling potential for further gains.
+
+[NEWS_P003] “Overall, the outlook remains constructive, with opportunities for growth as confidence builds across regional markets. As such, we anticipate the FBM KLCI to trend within the 1,580–1,600 range towards the weekend,” he said. Among the gainers, Nestle surged RM3 to RM92, PETRONAS Chemicals gained 58 sen to RM4.76, Kuala Lumpur Kepong added 26 sen to RM19.46, and PETRONAS Dagangan climbed 26 sen to RM22.76. Malaysian Pacific Industries , the top loser on Bursa Malaysia, slid 78 sen to RM22.14.
+
+[NEWS_P004] Heineken fell 56 sen to RM21.54, Carlsberg lost 46 sen to RM16.48, and Amway declined 27 sen to RM4.76. Meanwhile, Bursa Malaysia data showed foreign investors sold RM209mil of local equities on Wednesday, while local institutions and retailers bought RM186mil and RM23mil respectively. On the forex market, the ringgit gained 0.11% to 4.222 against the US dollar and 0.17% to 3.2822 against the Singapore dollar. On the external front, MSCI’s Asia ex-Japan stock index was 0.24% higher.
+
+[NEWS_P005] Japan’s Nikkei 225 dropped 0.65% to 42,610.17, while Hong Kong’s Hang Seng eased 0.24% to 25,104.61. In South Korea, the Kospi advanced 0.37% to 3,141.74. On the mainland, the CSI300 gained 0.39% to 4,288.07, and the Shanghai Composite inched up 0.13% to 3,771.10.

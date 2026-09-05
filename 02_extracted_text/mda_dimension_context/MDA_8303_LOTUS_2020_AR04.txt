@@ -1,0 +1,125 @@
+document_id: MDA_8303_LOTUS_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+Despite with the lower performance in sales, as
+compared with prior financial year, there was an
+operating loss suffered and then LKFM’s new
+management had turned around the loss and generated
+profit for the current financial year. The Group’s long-term assets had recorded an increase
+of 61.48% to RM23.446 million (FYE 2019: RM14.519
+million). This was mainly due to the adoption of MFRS
+16 Leases during the financial year. The Group’s inventories level for current FYE 2020 had
+decreased by 13.57% to RM8.642 million (FYE 2019:
+RM9.998 million), where LKFM is trying to maintain a
+lower inventory level to minimise the holding cost and
+carrying cost. By doing so, it can also reduce the risk of
+slow-moving stock. Trade receivables are maintaining as RM6.512 million
+(FYE 2019: RM6.317 million) which is in line with
+current financial year sales. In short, the sales team is
+actively approaching to customers for collection. Other
+receivables have increased to RM5.280 million which is
+159.33% (FYE 2019: RM2.036 million). The increase is
+mainly due to the advances received from the customers
+to purchase wheat and starch products.
+[MDA_P006]
+ANTICIPATED BUSINESS RISKS
+The business risks faced by the Group basically include
+market competitions, volatility of imported raw material
+prices,
+movements
+of
+currency
+exchange
+rates,
+performance of user industries and changes in economic,
+political and regulatory conditions. a)
+Market competitions
+The flour milling sector remains competitive
+among the flour milling operators locally as well as
+imported wheat flour and starch. The Group will
+continue to develop new market strategy to
+capture new market, particularly on less well-
+served segments, improve its distribution channels
+as well as product mix and quality to meet a wider
+range of customers’ needs and requirements.
+[MDA_P008]
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+ANTICIPATED BUSINESS RISKS (cont’d)
+b)
+Volatility of raw material prices
+Volatility of prices on imported raw materials
+such as wheat and tapioca remain the key
+challenges. Both wheat and tapioca are globally
+traded commodities, and as a result, their prices
+may fluctuate from time to time. The price of
+wheat and tapioca are influenced by global
+macroeconomic factors including, among others,
+supply and demand of wheat and tapioca, as
+well as stock levels.
+As the cost of these raw materials constitute a
+major part of wheat flour and tapioca starch cost,
+managing these costs remain the key challenge.
+Any increase in the prices of these imported raw
+materials, if unable to pass on to customers on
+time,
+may
+adversely
+affect
+the
+financial
+performance of the Group.
+Stability of imported raw material prices remain a
+key challenge for all the industry players. This is
+an inherent risk faced by all the industry players.
+[MDA_P009]
+The Group has taken proactive measures to
+mitigate the unexpected interruption of the
+supply of these imported raw materials as well
+as their prices by increasing inventory to a
+reasonable level when prices are relatively low. c)
+Volatility of currency exchange rates
+As LKFM’s main raw materials such as wheat
+and tapioca are fully imported from oversea
+markets and are traded in US currency. Fluctuations in US/RM rates will have great
+impact on its raw material costs and hence its
+financial performance. However, during the
+current financial year, the Group has purchased
+the aforesaid raw materials locally from its
+business collaboration partner, LOTUS. Hence,
+the aforesaid currency risk is protected. d)
+Dependency on performance of user
+industries
+Flour is mainly used in food manufacturing
+industries and food services operations. Any
+adverse performance in user industries would
+affect the demand for these products and hence,
+the financial performance of the Group. We will
+continue to take prudent approach to manage
+this risk. However, this is an inherent risk in the
+wheat flour milling industry.
+[MDA_P012]
+OUTLOOK OF INDUSRTY
+The operating environment is expected to remain highly
+competitive and we anticipate intensifying pressures on
+margins as consumers’ living costs rise. Nevertheless,
+the Group will persevere in elevating operational
+efficiency and focus on exploring various marketing
+strategies
+to
+improve
+the
+Group’s
+revenue
+and
+profitability.
+We always uphold our mantra of offering excellent
+customer service, with great prices as our inherent
+objective. Regardless of the economic weather, the
+benchmark for best value is set so that our customers
+can get the best possible deals with no compromise in
+quality and services.

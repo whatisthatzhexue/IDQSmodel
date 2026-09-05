@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI ends higher amid global trade optimism, ringgit falls
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/09/fbm-klci-ends-higher-amid-global-trade-optimism-ringgit-falls
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended Friday on a positive note as global trade talks lifted investor sentiment, though the ringgit weakened against the US dollar. The market bellwether closed at 1,546.50, up 0.24% or 3.76 points, taking its full-week gains to 0.26%. Market breadth was flat, with gainers and decliners nearly even at 454 and 459, respectively, while 517 counters remained unchanged. Turnover stood at 2.94 billion shares worth RM1.9bil. Among the gainers, PETRONAS Dagangan rose 56 sen to RM20.38, Heineken added 22 sen to RM27.62, Chin Tek Plantations gained 18 sen to RM8.38 and TMK Chemical climbed 16 sen to RM1.30.
+
+[NEWS_P002] On the other hand, Nestle tumbled RM2.02 to RM84.50, Kluang fell 22 sen to RM5.43, Allianz lost 14 sen to RM18.96 and PGF slid 12 sen to RM1.78. Meanwhile, the ringgit weakened by 0.47% against the greenback to 4.3007 and by 0.3% against the Singapore dollar to 3.3131. Reuters reported that the ringgit and Thailand's baht led losses among subdued Asian currencies on Friday, as a firmer dollar weighed on sentiment. The local currency fell as much as 1.1% to 4.322 per dollar, its weakest point since May 2, snapping a five-week winning streak with a sharp weekly decline of nearly 3%, Reuters added.
+
+[NEWS_P003] Among the key regional markets: Japan’s Nikkei 225 closed up 1.56% to 37,503.33; South Korea’s Kospi fell 0.08% to 2,577.27; Hong Kong’s Hang Seng Index rose 0.4% to 22,867.74; China’s CSI 300 Index declined 0.17% to 3,846.16; Taiwan’s Taiex advanced 1.81% to 20,915.04 and; Singapore’s Straits Times Index added 0.7% to 3,875.19 points.

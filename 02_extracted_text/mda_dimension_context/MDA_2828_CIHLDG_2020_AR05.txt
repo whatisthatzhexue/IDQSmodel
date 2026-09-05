@@ -1,0 +1,46 @@
+document_id: MDA_2828_CIHLDG_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 131.237, "paragraph_count": 16, "paragraph_length_distribution": {"max": 1263, "mean": 924.938, "min": 74}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+OVERVIEW OF GROUP’S BUSINESS AND OPERATIONS
+Company Profile
+The Group is divided into two main divisions, namely the Edible Oil Products Division and the Tap and Sanitary Ware Division. The former focuses on exporting consumer-packed edible oil products while the latter is mainly involved in manufacturing, trading
+and distribution of sanitary ware and tap fittings to the property development market. Edible Oil Products Division
+The Edible Oil Products Division consists of Continental Resources Sdn Bhd [198801006186 (173543-U)] (“CRSB”) and the
+Palmtop Group (“Palmtop”). CRSB has three plants based in Banting, Klang equipped with 23 packing lines with a rated packing capacity of 414,000 metric
+tonnes of edible oils per annum and 37 oil tanks with a total tankage capacity of 3,870 metric tonnes. CRSB also has 15 Jerry-Can (“JC”) moulding machines with a monthly production capacity of 600,000 jerry cans in various sizes,
+i.e. 3L, 5L, 10L, 18L, 20L & 25L. 10 JC machines at Plant 2 and 5 JC machines at CRSB’s new Plant 3.
+[MDA_P005]
+we operate.
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)
+ANNUAL REPORT 2020
+[MDA_P009]
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Operating expenses increased from RM72 million to RM105 million during the year, a 46% increase as compared to the previous
+year in line with revenue growth and due to documentation and agency fees, higher factory equipment upkeep costs and higher
+provisions for staff bonuses and overtime. These costs were however moderated by lower travelling expenses, staff refreshment,
+entertainment costs, trade exhibition expenses brought about by the early phase Movement Control Order (“MCO”) lockdowns
+and global travel bans. Total finance costs also decreased by 17% from RM13 million to RM11 million during the reporting financial year. This is mainly
+due to lower utilisation of trade facilities because of the efforts to reduce facility utilisation to control finance costs by paying cash
+for certain capital expenditures, wherever possible.
+[MDA_P013]
+REVIEW OF OPERATING ACTIVITIES
+Operating Activities
+The Group’s profit before interest and taxation (“PBIT”) increased by 38% from RM46 million in the previous financial year to RM64
+million this year. The positive growth was particularly attributed from the better margins in exporting edible oil products during
+the COVID-19 lockdown period. Local packing production in some of the countries has been significantly affected. As a result,
+there was a shortage in stocks resulting in a demand surge in edible oil products especially in the East and West Africa regions. Aside from that, there were no further significant developments in the operating activities during the financial year. C.I. HOLDINGS BERHAD 197801000889 (37918-A)
+ANNUAL REPORT 2020
+[MDA_P016]
+The division also aspires to be the “Station Master” for tap and sanitary ware for all MRT and LRT stations nationwide, after
+securing the supply tender to all 32 MRT 2 stations from Sg Buloh – Serdang – Putrajaya. Going forward, it is looking to secure
+more of such projects to ensure a sustainable stream of income for better profit margin for the Group. Dividend Policy
+The Group has no dividend policy in place on the account of possible requirements of funds for future expansions and growth. ANNUAL REPORT 2020
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)

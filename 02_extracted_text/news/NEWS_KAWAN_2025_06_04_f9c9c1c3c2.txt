@@ -1,0 +1,18 @@
+[TITLE]
+Trading ideas: Cypark, CapitaLand, Ta Win, Deleum, Zelan, Ramssol, Edelteq, Oasis, UUE, Taghill, Kawan Renergy
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-06-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/04/trading-ideas-cypark-capitaland-ta-win-deleum-zelan-ramssol-edelteq-oasis-uue-taghill-kawan-renergy
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Cypark Resources Bhd has announced a slew of boardroom changes, including the appointment of former Bursa Malaysia chairman Tan Sri Abdul Wahid Omar as its new chairman and independent non-executive director, effective June 9. Capitaland Malaysia Trust plans to raise up to RM250mn through a private placement of up to 435.4 million new units, mainly to repay bank borrowings.
+
+[NEWS_P002] Ta Win Holdings Bhd is disposing of a parcel of industrial land with a single-storey detached factory in Port Klang to Metal Recovery Industries Sdn Bhd for RM44.5mn. Deleum Bhd has completed its USD7mn (RM31.3mn) acquisition of a 70% stake in Indonesia-based PT OSA Industries. Zelan Bhd has been ordered by an arbitral tribunal to pay RM22.4mn plus interest to subcontractor Landasan Kapital (M) Sdn Bhd over a construction contract dispute. Ramssol Group Bhd has partnered with iFLYTEK, a leading Chinese AI company valued at RM58bn, as its authorised distributor and reseller in Asia via the iFLYTEK Open Platform.
+
+[NEWS_P003] Edelteq Holdings Bhd is setting up a 50:50 joint venture with Halo Technologies Sdn Bhd to manufacture automated optical inspection machines. Oasis Harvest Corp Bhd is acquiring Metta Food & Lifestyle Sdn Bhd, operator of banquet-themed restaurants De.Wan 1958 by Chef Wan and Cafe Chef Wan, for RM30.8mn in cash. UUE Holdings Bhd is entering the solar photovoltaic industry via a 60%-owned subsidiary, Enerxite Sdn Bhd, with JV partner Daryl Lai Yit Sheng holding the remaining stake.
+
+[NEWS_P004] Taghill Holdings Bhd chief executive officer and executive director Ng Wai Hoe has resigned with immediate effect, citing personal reasons. Kawan Renergy Bhd announced the immediate resignation of its independent non-executive director Dr Chuah Chaw Teo, citing time constraints resulting from personal and corporate commitments.

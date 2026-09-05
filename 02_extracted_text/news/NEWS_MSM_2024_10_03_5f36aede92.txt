@@ -1,0 +1,18 @@
+[TITLE]
+SupportLine
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-10-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/03/supportline
+confidence_tier: high
+
+[NEWS_P001] Leong Hup International Bhd made a move past the 76 sen resistance in intraday trade yesterday.A confirmed breach in the coming session will affirm a growing rally, backed by increasing positive momentum. The technical indicators are painting a positive picture with the slow-stochastic rising to a robust 60 points while the 14-day relative strength index (RSI) has subsided below the overbought line at 69 points. The daily moving average convergence and divergence (MACD) histogram is also steering higher with successively higher positive charts.
+
+[NEWS_P002] Based on the daily price chart, the resistance levels rest at 85 sen and 96 sen. Support is found at 68.5 sen and 62.5 sen. MSM Malaysia Holdings Bhd 's recovery is gaining speed as it attempts to retrace losses from a May to September correction. Overhead, the share is seeing pressure from a descending 50-day simple moving average (SMA), which in crossing should affirm the recovery trend. Resistance is pegged to RM1.47 and RM2.17. The slow-stochastic has risen to 75 points and the RSI is also strong at 56 points.
+
+[NEWS_P003] The MACD histogram, meanwhile, is yet to signal a positive trend but is indicating increasing momentum with higher positive bars. There is support for the share at RM1 and 90 sen. Icon Offshore Bhd bounced higher yesterday to signal the end of a three-week correction phase. The share arrived above the 50-day SMA line in intraday trading, suggesting the start of bullish sentiment. A recovery trend is expected to ensue, affirmed by the slow-stochastic rising out of oversold conditions and the ascent of the RSI to the 50-point line.
+
+[NEWS_P004] The MACD histogram has also halted its descent and turned higher to indicate an improving trend. Resistance is pegged to RM1.20 and RM1.30 while support can be found at RM1 and 92 sen. The comments above do not represent a recommendation to buy or sell.

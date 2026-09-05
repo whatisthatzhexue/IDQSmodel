@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia dips ahead of Raya holiday
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-04-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/09/bursa-malaysia-dips-ahead-of-raya-holiday
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Profit-taking activities ahead of the Hari Raya Aidilfitri holiday led to Bursa Malaysia finishing lower on Tuesday. At closing, the FBM KLCI fell by 6.47 points, or 0.41%, to 1,553.51, rebounding from its intraday low of 1,553.43. In today’s session, 18 of the KLCI-component stocks ended lower while five counters traded higher and seven counters remained unchanged. On the broader market, losers outpaced gainers 496 to 466, while 540 counters were unchanged.
+
+[NEWS_P002] Turnover stood at 3.46 billion shares valued at RM2.06bil. Among the losers, Dutch Lady slid 38 sen to RM34.12, Negri Sembilan Oil Palms lost 14 sen to RM3.86, Tenaga fell 14 sen to RM11.66 and Panasonic Manufacturing declined 12 sen to RM19.36. Allianz, the top gainer on Bursa Malaysia rose 46 sen to RM22.20. Ajinomoto gained 42 sen to RM19.70, F&N added 42 sen to RM31.42 and Plenitude advanced 23 sen to RM1.68. Meanwhile, Berjaya Food rose 1.5 sen, or 2.42% to 63.5 sen with 29.83 million shares traded on news that Tan Sri Vincent Tan is considering taking the company private.
+
+[NEWS_P003] Bloomberg cited sources that Tan is in talks with banks about financing for a potential deal. Among the banks, Maybank declined six sen to RM9.63, CIMB lost seven sen to RM6.57, AmBank gave up one sen to RM4.23 and Hong Leong Bank fell eight sen to RM19.34. RHB Bank rose one sen to RM5.74 while Public Bank closed flat at RM4.19. Meanwhile, the ringgit was quoted at 4.7517, up 0.02% against the US dollar. US West Texas Intermediate crude rose 42 cents to US$86.85 and Brent added 44 cents to US$90.82 per barrel.
+
+[NEWS_P004] Among the key regional markets: Japan’s Nikkei 225 closed up 1.08% to 39,773.13; South Korea’s Kospi fell 0.46% to 2,705.16; Hong Kong’s Hang Seng Index rose 0.57% to 16,828.07; China’s CSI300 Index closed down 0.08% to 3,533.49; Taiwan’s Taiex ended up 1.85% to 20796.20 and; Singapore’s Straits Times Index rose 0.72% to 3,239.18 points.

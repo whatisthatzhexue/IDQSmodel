@@ -1,0 +1,16 @@
+[TITLE]
+United Malacca expects spike in FFB production
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2024-06-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/28/united-malacca-expects-spike-in-ffb-production
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: United Malacca Bhd expects fresh fruit bunch (FFB) production to increase in the financial year 2025 (FY25) due to better age profile and improvement in operational efficiency. For the fourth quarter ended April 30, 2024 (4Q24), the group’s net profit grew by 78% year-on-year (y-o-y) to RM15.3mil or an earnings per share of 7.29 sen. Revenue increased by 27% y-o-y to RM171.5mil. In a filing with Bursa Malaysia, United Malacca said its Malaysian plantation operations recorded a profit of RM25.5mil in the quarter under review.
+
+[NEWS_P002] This was 8.6 times higher than RM3mil in the corresponding quarter of the preceding year due to the higher average crude palm oil price of RM4,068 per tonne (preceding year: RM3,999 per tonne) and palm kernel price of RM2,347 per tonne (preceding year: RM2,035 per tonne), higher FFB production by 7% or 5,781 tonnes and lower unit cost of production incurred. The group also noted that excluding depreciation, fair value changes on biological assets (net) and interest expense, its Malaysian operations recorded an earnings before interest, taxes, depreciation and amortisation (ebitda) of RM35mil which was 144% higher y-o-y.
+
+[NEWS_P003] Going forward, the company stated its priority remains focused on improving labour productivity, mechanisation initiatives and cost efficiency as well as increasing oil yield.

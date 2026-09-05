@@ -1,0 +1,16 @@
+[TITLE]
+MRCB confirms withdrawal from KL-SG HSR consortium
+
+[METADATA]
+ticker: SG
+company_name: Saudee Group Berhad
+publish_date: 2024-12-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/19/mrcb-confirms-withdrawal-from-kl-sg-hsr-consortium
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The Malaysian Resources Corporation Bhd (MRCB) has announced that it has issued a notice of termination to Berjaya Rail Sdn Bhd, ending their teaming agreement. In a filing with Bursa Malaysia today, MRCB said the agreement, signed on Dec 15, 2023, was intended for the submission of a non-binding conceptual proposal to MyHSR Corporation Sdn Bhd for the Kuala Lumpur-Singapore High-Speed Rail (KL-SG HSR) project. The company stated that, according to Clause 12.1.2 of the teaming agreement, the termination will take effect after 30 days following the notice of termination.
+
+[NEWS_P002] Yesterday, the Berjaya Corporation Bhd -led consortium, which participated in MyHSR Corporation Sdn Bhd’s request for information (RFI) exercise for the KL-SG HSR project, announced that one of its partners has decided to withdraw. Berjaya said that MRCB has withdrawn and will pursue other strategic opportunities, thus no longer being part of the KL-SG HSR consortium. "The consortium, which includes Berjaya Rail Sdn Bhd, Keretapi Tanah Melayu Bhd, IJM Corporation Bhd , and its technical partners such as Deutsche Bahn, Hitachi Rail, and Hyundai Rotem, will be further strengthened to better align with the evolving needs of the project and to meet the government’s expectations,” Berjaya said.
+
+[NEWS_P003] - Bernama

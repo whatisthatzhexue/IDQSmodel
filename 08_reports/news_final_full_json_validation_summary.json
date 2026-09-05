@@ -1,0 +1,10 @@
+{
+  "dimension_record_count": 625,
+  "doc_type": "news",
+  "evidence_match_rate": 1.0,
+  "json_success_rate": 1.0,
+  "output_name": "news_final_full",
+  "schema_success_rate": 1.0,
+  "system_failure_rate": 0.0,
+  "validation_csv_path": "08_reports\\news_final_full_json_validation.csv"
+}

@@ -1,0 +1,152 @@
+document_id: MDA_5202_MSM_2022
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 121, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+NAVIGATING THE HIGH-COST
+ENVIRONMENT
+Despite the generally higher prices, MSM
+remained more committed than ever to its
+strategy of always procuring raw sugar at the
+lowest possible price. MSM have also explored various pricing
+mechanisms to better manage the volatility
+and to reduce exposure to pricing risk. For
+example, MSM entered into a long-term
+freight contract with Wilmar Sugar Pte. Ltd. to better manage the extremely high costs of
+transporting raw sugar that was heightened
+by the Russian-Ukraine conflict. In addition,
+MSM strategically continues to hedge Brent
+Crude Oil through options trading in order
+to capitalise from the increasing Brent Crude
+Oil prices and using the gains to offset the
+high gas prices that both MSM’s refineries
+are subjected to. MSM’s strategies regarding raw sugar pricing
+and implementation of hedging manoeuvres
+are guided by the Trading Committee. The
+Trading Committee is tasked with monitoring
+the global sugar situation together with our
+hedging positions as well as forex exposure
+to ensure the best possible outcome for the
+Group. OVERVIEW
+The price of raw sugar has remained elevated
+in FY2022, with higher average prices
+compared to FY2021.
+[MDA_P004]
+Several factors, mainly
+related to tight supply, led to the benchmark
+NY11 to trade within a range of 17.20 – 21.18
+US cents per pound in 2022 compared to a
+range of 14.67 - 20.69 US cents per pound
+in 2021. This included COVID-19 induced supply
+chain disruptions which continue to hamper
+deliveries of goods globally, exacerbated
+by high freight costs and bottlenecks in major
+Group
+Business Review
+OUTLOOK
+We foresee that 2023 will be yet another
+challenging year as rising global sugar
+consumption, either as food or as ethanol
+for biofuel, coupled with stagnant global
+sugar production, may cause raw sugar
+prices to maintain at a high level or break
+even higher. Nevertheless, MSM’s main
+priority in 2023 is to continue to secure raw
+sugar at the lowest possible price to help
+maximise the Group’s margin.
+[MDA_P008]
+From a HSE perspective, there was a further reduction in Lost Time Injuries with an improvement
+from 22 in 2021 to 8 in 2022. We also achieved zero industrial-related fatalities groupwide,
+although there was one traffic-related fatality in MSM Prai in first quarter of 2022. PLANNED & UNPLANNED SHUTDOWNS IN 2022
+Date
+Event
+Mitigation/Response
+January
+Boiler #1 Breakdown
+We have commenced long-term
+rectification activities for Boiler #1
+which is expected to be completed by
+May 2023. 12-18
+February
+Planned Maintenance Shutdown
+- Extended further to 14 March
+2022 due to a defect found on
+Boiler #2
+Defect was immediately rectified. 12-25
+August
+Planned Maintenance Shutdown
+- Boiler #2 Inspection
+Follow up inspection requirement by
+DOSH. Inspection passed and allowed
+for full term validity of Certificate of
+Fitness (CF) of 15 months. September
+to
+2 October
+Shutdown by the Department
+of Environment due to effluent
+discharge exceeding the
+prescribed limit
+The issue was caused by the Industrial
+Effluent Treatment System (IETS) plant. This has since been rectified and an
+upgraded IETS plant is expected to
+be completed in June 2023.
+[MDA_P009]
+We also
+engaged a consultant and academicians
+to improve the IETS and our overall
+environmental mitigation plans. 3 to 12
+October
+Steam Turbine Generator #2
+Vibration issue at high speed rectified by
+steam turbine specialist. OUTLOOK
+Looking ahead, MSM remains committed to
+ensuring high levels of reliability and availability
+at both our refineries. For MSM Prai, the plan is to
+replace aging critical machinery and equipment
+to maintain the performance of the refinery. The
+rejuvenation plan for MSM Prai will be carried
+out over a four year duration to extend the
+refinery’s life by an additional 30 years. With MSM Johor, we are looking forward to
+the recommissioning of Boiler #1 in May 2023
+as well as other upgrades and improvement
+programmes that are underway. This includes
+the upgrade of the IETS plant to ensure
+compliance with prescribed discharge limits
+and improvements to equipment reliability
+programmes,
+in
+addition
+to
+centralising
+operational maintenance plans via digitalisation.
+[MDA_P016]
+Amid the challenges, we continued to optimise
+our operations by embracing digitalisation to
+automate certain tasks and to bring us closer to
+our customers. OUTLOOK
+In the coming year, our Domestic Sales Team will focus on maintaining consistent delivery to cater to the growing
+Domestic demand and to improve Gula Prai’s visibility at CRPs. With the expansion of 1kg/2kg packing lines
+at MSM Johor, we are well positioned to meet the needs of the domestic market. An additional refined sugar
+warehouse is also under construction, targeted for completion by the first half of 2023. The Export segment’s objective is to achieve stability in both quality and delivery, as well as to nurture customers’
+confidence as a key priority. This is in line with our efforts to elevate our products to a premium level. Regional
+collaborations are also in the pipeline to further establish our products overseas by raising our market share in
+Asia Pacific. As FGV Holdings Berhad plans to diversify into the fast-moving consumer goods sector, we are working closely
+with them in order to expand outside our core sugar business and explore potential synergies.
+[MDA_P017]
+Tengku Haidar Tengku
+Ahmad
+Head, Group Commercial
+Division
+Sophia Foo Soo Huey
+Head, Domestic Sales
+Azura Osman
+Head, Group Supply Chain
+Mohd Ismaniza Ismail
+Head, Export Sales
+Ungku Farzana
+Ungku A Razak
+Assistant Manager,
+Business Intelligence &
+Government Liaison

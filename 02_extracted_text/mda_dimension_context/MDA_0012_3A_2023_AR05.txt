@@ -1,0 +1,79 @@
+document_id: MDA_0012_3A_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 129.912, "paragraph_count": 18, "paragraph_length_distribution": {"max": 1191, "mean": 858.444, "min": 38}, "repetition_ratio": 0.055556, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Revenue
+RM 603.9
+million
+Profit After Tax (PAT)
+RM 45.2
+million
+1.0 Three-A Resources Management Discussion & Analysis
+Business Overview
+Three-A Resources Berhad ("3A" or "the Company") is an investment
+holding company that has been publicly listed since 2002, subsequently
+transferred to the Main Market of Bursa Malaysia in 2008. Through
+our wholly-owned subsidiary, San Soon Seng Food Industries Sdn Bhd
+("SSSFI"), 3A operates as a leading manufacturer of food and beverage
+ingredients. Originating as a caramel producer in 1977, SSSFI has since
+diversified our product range, establishing our presence across various
+global markets. Together, as a cohesive entity ("the Group"), 3A and
+SSSFI remain committed to manufacturing excellence, with a core
+focus on producing high-quality food and ingredients. Leveraging our
+collective expertise, the Group has successfully extended our reach
+beyond the confines of Asia where we now have an established
+presence on the international stage. Our primary objective at 3A is to relentlessly pursue excellence in
+our business operations.
+[MDA_P005]
+MANAGEMENT DISCUSSION
+AND ANALYSIS (CONTINUED)
+Statista, the market and consumer data provider also reveals that the
+global revenue in the food market was forecast to continuously increase
+between 2023 and 2028 by in total 3.6 trillion U.S. dollars (+38.46
+percent). This market is poised for significant growth, projecting an
+annual increase of 6% through the compound annual growth rate
+(CAGR) from 2023 to 2028 indicating a favourable trend for 3A. With the
+confectionery and snacks segment standing out as the market's largest
+segment with an expected market revenue of US$1.77 trillion in 2024,
+these global statistics show a positive potential for companies like 3A. In the prevailing economic climate, 3A's trajectory is significantly
+influenced by current market dynamics, necessitating a diligent and
+adaptable approach in our strategic deliberations. Throughout the fiscal
+year 2023, the Group implemented initiatives aimed at enhancing our
+business resilience, particularly in response to challenges encountered,
+such as geopolitical risks affecting raw material expenses and the
+escalation of inflationary pressures.
+[MDA_P010]
+Strategic initiatives include ongoing plans for plant expansions, upgrades,
+and modernisation, demonstrating a focused effort to achieve economies
+of scale and operational excellence. Our current business strategy
+emphasises operational efficiency, with a particular focus on initiatives
+to increase automation and decrease dependence on foreign labour. These measures aim to enhance plant efficiency, drive cost savings,
+and ensure long-term sustainability. Marketing and Customer Base Expansion
+Focused on expanding market presence and cultivating customer
+loyalty, the Group actively participated in exhibitions and trade fairs
+to attract new customers and showcase products for both local and
+export markets. We strive to foster customer loyalty by sharing hands-
+on information on key aspects such as business varieties, food safety,
+formulas and batches, regulatory compliance, sales and profitability,
+and critical success factors. Maintaining strong customer relationships is essential for long-term
+business success. We achieve this by actively listening to our customers’
+needs, providing solutions, and continually seeking improvements to
+achieve our marketing goals.
+[MDA_P014]
+The Group's
+strategic priorities include optimising the sales mix, venturing into
+new markets to diversify revenue streams, enhancing plant efficiency
+to drive operational excellence, and fostering innovation to develop
+[MDA_P018]
+Lastly, we would like to express our profound gratitude to our Chairman
+and directors for their invaluable wisdom and foresight in guiding the
+Group towards a brighter future. With the support of the 3A team, we
+eagerly anticipate the Group's outlook for sustainable success in the future. PERFORMANCE REVIEW
+THREE-A RESOURCES BERHAD 199901006659 (481559-M)

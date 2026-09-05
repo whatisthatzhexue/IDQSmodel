@@ -1,0 +1,20 @@
+document_id: MDA_9946_ETA_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 25, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P023]
+Annual Report 2023
+CORPORATE EXERCISE
+The Company undertook a fund-raising exercise during the financial year for a renounceable rights issue for
+ordinary shares at RM0.10 per Rights Share, on the basis of 1 Rights Share for every 3 existing Rex Shares
+held, together with 54,805,755 Warrants on the basis of 1 Warrant for every 3 Rights Shares subscribed. With
+164,417,645 Rights Shares subscribed, the Company raised proceeds of approximately RM16.44 million. The
+Rights Shares and Warrants were listed and quoted on the Main Market of Bursa Malaysia Securities Berhad
+on 30 August 2022. The proceeds raised from the Rights Issue were utilised firstly in priority to defray the expenses related to the
+Rights Issue, secondly towards business expansion, and lastly towards the working capital required for the
+day-to day operations of the Group. Outlook and Prospects
+The Group expects the business environment in the foreseeable future to remain challenging due to continued
+uncertainties in the commodity markets, geo-political tensions, weakening of the Ringgit and consumer
+demand being impacted by inflationary pressures.

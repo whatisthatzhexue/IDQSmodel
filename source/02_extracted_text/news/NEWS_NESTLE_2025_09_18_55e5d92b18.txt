@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI slides below 1,600 as regional markets end mixed
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-18
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/18/fbm-klci-slides-below-1600-as-regional-markets-end-mixed
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI stayed in the red all day and closed below the 1,600 mark on Thursday, tracking mixed performances across regional markets. The 30-stock index fell 12.77 points, or 0.79%, to 1,598.93 after trading between an intraday high of 1,606.86 and a low of 1,597.41. Winners and losers were closely balanced, with 494 gainers against 515 losers and 509 that were flat. About 2.6 billion shares, valued at RM2.5bil, changed hands. Among the decliners, Nestle tumbled RM2.90 to RM95, Allianz-PA fell 16 sen to RM17.50, Chin Tek lost 16 sen to RM9.90 and Dutch Lady declined 16 sen to RM27.20.
+
+[NEWS_P002] Allianz rose 38 sen to RM18.88, Hong Leong Industries added 34 sen to RM13.94, Formosa Prosonic advanced 21 sen to RM1.66 and Ajinomoto gained 20 sen to RM13.50. Mclean Technologies, which received an unusual market activity (UMA) query from Bursa Malaysia, gained three sen, or 6.45%, to 49.5 sen with 33.52 million shares traded. Meanwhile, foreign funds bought RM349mil of equities on Wednesday, while local institutions and retailers were net sellers, offloading RM229mil and RM119mil respectively.
+
+[NEWS_P003] On the forex market, the ringgit eased 0.23% against the US dollar to 4.1975 but inched up 0.03% against the Singapore dollar to 3.28. Asian equities finished mixed on Thursday, with Japan’s Nikkei 225 closing above 45,000 for the first time and South Korea’s Kospi hitting a record high, while Hong Kong and China markets ended lower. The Nikkei rose 1.15% to 45,303.43 while the Kospi gained 1.40% to a record 3,461.30. In contrast, Hong Kong’s Hang Seng fell 1.35% to 26,544.85, while China’s CSI 300 slid 1.16% to 4,498.11 and the Shanghai Composite eased 1.15% to 3,831.66.

@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI leaps 1.33%, bucking regional losses after US tariff cut
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2025-08-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/01/fbm-klci-leaps-133-bucking-regional-losses-after-us-tariff-cut
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia closed higher on Friday, bucking regional trends, as investor sentiment improved following the US decision to cut tariffs on Malaysian exports to 19% and the unveiling of the 13th Malaysia Plan. The FBM KLCI surged 20.10 points, or 1.33%, to close at 1,533.35, after trading between a high of 1,534.48 and a low of 1,519.17. Today’s gain marks the strongest performance since its 2.32% jump on May 13. However, the index was little changed over the week.
+
+[NEWS_P002] On Bursa Malaysia, there were 570 gainers, 452 losers, and 521 counters traded unchanged. A total of 3.16 billion shares, valued at RM2.22bil, changed hands. Gamuda contributed the most to the index’s gain and recorded the largest move, rising 4.25%, or 22 sen, to RM5.40. Other gainers included Tenaga Nasional, which rose 28 sen to RM13.30, and CIMB, which added 24 sen to RM6.79. PETRONAS Chemicals was the biggest drag on the index, falling 2.06%, or eight sen, to RM3.80.
+
+[NEWS_P003] On the broader market, Ajinomoto rose 22 sen to RM13.08, Malaysian Pacific Industries added 20 sen to RM20.34, while Heineken slipped 34 sen to RM23.50 and Mesiniaga lost 16 sen to RM1.30. Newly listed UMS Integration jumped 50 sen to RM5.50 with 6.12 million shares traded. According to data from Bursa Malaysia, foreign investors offloaded RM85mil worth of local equities on Thursday. Meanwhile, local institutions and retailers were net buyers, picking up RM50mil and RM36mil worth of shares, respectively.
+
+[NEWS_P004] On the forex market, the ringgit slipped 0.23% against the US dollar to 4.2790. It also weakened 0.14% against the Singapore dollar to 3.2964, fell 0.07% against the pound sterling to 5.6464, and declined 0.09% versus the euro to 4.8856. Key regional markets ended the day lower, including: Japan’s Nikkei 225 closed down 0.66% to 40,799.60; Hong Kong’s Hang Seng Index fell 1.07% to 24,507.81; China’s CSI300 Index declined 0.51% to 4,054.93; Taiwan’s Taiex gave up 0.46% to 23,434.38; South Korea’s Kospi finished down 3.88% to 3,119.41 and; Singapore’s Straits Times Index fell 0.48% to 4,153.83 points.

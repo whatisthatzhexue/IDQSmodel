@@ -1,0 +1,59 @@
+{
+  "checks": [
+    {
+      "calculated_change_pct": 36.393773,
+      "current_value": 608.93,
+      "direction_word": "increased",
+      "evidence_locator": "[MDA_P008]",
+      "metric": "assets",
+      "note": "Assets: stated 36.00%, calculated 36.39%, status consistent.",
+      "previous_value": 446.45,
+      "source_text": "Assets: Trade Receivables Trade receivables increased by 36% from RM446.45 million to RM608.93 million",
+      "stated_pct": 36.0,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": 29.128183,
+      "current_value": 241.87,
+      "direction_word": "increased",
+      "evidence_locator": "[MDA_P008]",
+      "metric": "assets",
+      "note": "Assets: stated 29.00%, calculated 29.13%, status consistent.",
+      "previous_value": 187.31,
+      "source_text": "Assets: Cash And Bank Balances The Group’s bank balances and deposits placed with licensed banks increased by 29%, from RM187.31 million to RM241.87 million",
+      "stated_pct": 29.0,
+      "status": "consistent"
+    },
+    {
+      "calculated_change_pct": 34.552602,
+      "current_value": 403.9,
+      "direction_word": "increased",
+      "evidence_locator": "[MDA_P009]",
+      "metric": "borrowings",
+      "note": "borrowings: stated 35.00%, calculated 34.55%, status consistent.",
+      "previous_value": 300.18,
+      "source_text": "borrowings increased by 35%, from RM300.18 million to RM403.90 million",
+      "stated_pct": 35.0,
+      "status": "consistent"
+    }
+  ],
+  "document_id": "MDA_2828_CIHLDG_2022",
+  "has_cost_discussion": true,
+  "has_margin_discussion": true,
+  "has_profit_discussion": true,
+  "has_revenue_discussion": true,
+  "has_segment_discussion": false,
+  "internal_check_notes": [
+    "Assets: stated 36.00%, calculated 36.39%, status consistent.",
+    "Assets: stated 29.00%, calculated 29.13%, status consistent.",
+    "borrowings: stated 35.00%, calculated 34.55%, status consistent."
+  ],
+  "num_calculable_changes": 3,
+  "num_consistent_checks": 3,
+  "num_financial_mentions": 58,
+  "num_material_discrepancies": 0,
+  "num_minor_discrepancies": 0,
+  "num_not_calculable": 0,
+  "num_severe_direction_conflicts": 0,
+  "overall_numeric_consistency": "strong"
+}

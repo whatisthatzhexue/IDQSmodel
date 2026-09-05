@@ -1,0 +1,133 @@
+document_id: MDA_2828_CIHLDG_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+OVERVIEW OF GROUP’S BUSINESS AND OPERATIONS
+Company Profile
+The Group is divided into two main divisions, namely the Edible Oil Products Division and the Tap and Sanitary Ware Division. The former focuses on exporting consumer-packed edible oil products while the latter is mainly involved in manufacturing, trading
+and distribution of sanitary ware and tap fittings to the property development market. Edible Oil Products Division
+The Edible Oil Products Division consists of Continental Resources Sdn Bhd [198801006186 (173543-U)] (“CRSB”) and the
+Palmtop Group (“Palmtop”). CRSB has three plants based in Banting, Klang equipped with 23 packing lines with a rated packing capacity of 414,000 metric
+tonnes of edible oils per annum and 37 oil tanks with a total tankage capacity of 3,870 metric tonnes. CRSB also has 15 Jerry-Can (“JC”) moulding machines with a monthly production capacity of 600,000 jerry cans in various sizes,
+i.e. 3L, 5L, 10L, 18L, 20L & 25L. 10 JC machines at Plant 2 and 5 JC machines at CRSB’s new Plant 3.
+[MDA_P002]
+As CRSB manufactures its own jerry cans packaging material, there are cost savings of between of up to 5% in terms of costs
+incurred for the purchase of packing materials and their logistics costs. These savings are either shared with the customers or
+serve to improve the selling margins. These high-quality jerry cans are packed with cooking oil and exported with very minimal
+rejections and customer complaints. Thus, placing CRSB in a more competitive position amongst its competitors in the industry in
+increasing profitability and market share. Palmtop Group in turns operates two packing plants in Pasir Gudang, Johor which comprises of Palmtop Vegeoil Products Sdn. Bhd. [199301012218 (266956-P)], PNC Oil Factory (Malaysia) Sdn. Bhd. [199501042433 (371637-V)] and Continental Palms
+Pte Ltd, a sales & marketing office based in Singapore. It has 14 packing lines with a rated packing capacity of 237,000 metric
+tonnes of edible oils per annum and 32 oil tanks with a total capacity of 4,000 metric tonnes. Tap And Sanitary Ware Division
+The Tap and Sanitary Ware Division currently has one manufacturing plant in Senawang, Negeri Sembilan.
+[MDA_P003]
+It also has a sales
+and marketing headquarters located in Damansara Utama, Petaling Jaya which also functions as a distribution centre. The division is committed to service and promote business partnerships with its retail outlets nationwide, leverage Original
+Equipment Manufacturer (“OEM”) partnerships with local and overseas brands and work closely with major developers and
+government agencies to secure orders. It will also emphasise on building materials to increase revenue and focus on stringent
+control on quality for OEM/trading items. Through its agents under the respective brands, the division traded various types of
+building materials such as roof tiles, wall and floor tiles, paint, kitchen appliances, precast concrete products and timber plywood. However, as the building materials industry is currently experiencing very bad times, it is the intention to sell the Tap and Sanitary
+Ware Division to whomever will be keen to expand and tap into the hardware market totalling around 1,000 dealers. The Group
+will then focus all its effort and resources to further drive growth in the edible oil business.
+[MDA_P004]
+Vision
+The Group strives to develop, enhance and create a comprehensive portfolio of consumer brands to enable the generation of
+sustainable profit growth and reasonable investment returns to the shareholders. Principal Activities Of The Group
+• Blending and packing of vegetable-based edible oils. • Marketing, branding and merchandising of various consumer-packed edible oil products in the domestic and international market. • Manufacturing and trading a broad range of tap and sanitary ware products. Key Markets
+Asia (including Australasia), Africa and the Middle East regions. Strategies In Creating Value
+• Leveraging core competencies and areas of strategic advantage. • Identifying compelling market opportunities by maintaining abreast of market developments and evolving customer needs. • Offering a broad and compelling portfolio of products and brands tailored to customer needs/wants. • Continual optimisation of business processes. • Providing opportunities for growth and enrichment to the employees, the business partners and the communities in which
+[MDA_P006]
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Highlights Of The Group’s Financial Information For The Past 5 Financial Years
+Financial (in RM’000)
+Revenue
+2,572,493
+2,272,914
+2,602,701
+2,175,392
+1,305,383
+Profit before interest and tax
+63,584
+45,934
+58,395
+59,528
+57,630
+Finance costs
+(10,517)
+(12,640)
+(13,095)
+(8,683)
+(5,311)
+Net profit
+45,311
+27,074
+45,034
+38,573
+38,348
+Shareholders’ Funds
+227,663
+210,392
+211,153
+192,946
+173,880
+Total assets
+805,076
+573,969
+588,973
+664,075
+421,865
+Borrowings
+375,136
+202,057
+243,034
+248,274
+134,867
+Debt/Equity (%)
+Earnings per share (sen)
+18.59
+11.75
+19.20
+16.70
+16.43
+Net assets per share (RM)
+1.41
+1.30
+1.30
+1.19
+1.07
+Dividend per share (sen)
+Share Performance (RM)
+Year high
+1.55
+1.94
+2.39
+2.73
+3.20
+Year low
+0.82
+1.21
+1.80
+2.28
+1.67
+Year close
+1.20
+1.37
+1.84
+2.34
+2.55
+Market capitalisation
+(as at financial year end)
+194.4 million
+221.94 million
+298.08 million
+379.08 million
+413.1 million
+REVIEW OF FINANCIAL RESULTS AND FINANCIAL CONDITION
+Revenue
+The Group’s revenue increased by 13% from RM2.3 billion to RM 2.6 billion for the financial year under review as compared to
+the previous financial year, mainly contributed from the factors below:
+• Increase in shipments of full container loads (“FCLs”) or tonnage sold.

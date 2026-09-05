@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI slides in early trade, tracking overnight Wall Street losses
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-10-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/24/fbm-klci-slides-in-early-trade-tracking-overnight-wall-street-losses
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI traded lower early Thursday as Wall Street declined overnight, with investors on edge about the Fed's rate-cut outlook in the coming months and the upcoming US presidential election. The FBM KLCI fell 1.86 points, or 0.11% to 1,639.67 at 9.16 am. The index opened 2.48 points lower at 1,639.05 earlier. Overnight, the Dow Jones Industrial Average fell 0.96% to 42,514.95, the S&P 500 lost 0.92% to 5,797.42 and the Nasdaq Composite lost 1.60% to 18,276.65.
+
+[NEWS_P002] SPI Asset Management managing partner Stephen Innes said as US election uncertainty grows, markets are increasingly factoring in the possibility that Trump's return could upend current assumptions, fueling volatility and prompting a shift in sentiment. He said investors are now bracing for the economic impact of a more protectionist agenda, adding another layer of risk to an already jittery global market. “Beneath the betting market buzz driving the ‘Trump Trade’, traditional ‘Blue Wall’ polls still show the U.S.
+
+[NEWS_P003] election is a tightly contested affair. This uncertainty is spooking markets, with investors opting for deleveraging and defensive positioning in risk assets. “It's no surprise that global markets are starting to reflect these jitters. Profit-taking and risk reduction tend to hit the most profitable corners first, and on Wednesday, it was the mega-cap stocks that felt the squeeze, along with gold,” Innes said. Inter-Pacific Research has maintained its view that the directionless trading environment will continue to dominate trades and leave the key index to drift for longer.
+
+[NEWS_P004] The research house said fresh buying interest remained thin due to a lack of catalysts, with strong speculation that the Fed would keep rates steady after the deeper-than-expected cut in September. Furthermore, there are also few leads from the recently unveiled Malaysian Budget 2025 that could still cause more market players to remain on the sidelines. “Nevertheless, the selling pressure is also light and this should still allow the 1,640 level to be preserved for the time being with the ensuing support pegged at 1,635 points.
+
+[NEWS_P005] “On the upside, the psychological 1,650 level is the ensuing resistance, followed by the 1,655 level,” Inter-Pacific said. On Bursa Malaysia, Nestle slid 80 sen to RM103.60, Kuala Lumpur Kepong fell 12 sen to RM21.04, Vstecs lost 10 sen to RM3.43 and PMB Technology declined 10 sen to RM1.77. F&N rose 20 sen to RM31.40, United Plantations added 18 sen to RM26.50, MNRB gained 11 sen to RM2.22 and Hong Leong Industries climbed eight sen to RM13.60.

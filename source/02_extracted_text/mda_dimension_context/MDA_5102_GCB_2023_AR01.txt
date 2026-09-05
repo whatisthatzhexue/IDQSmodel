@@ -1,0 +1,120 @@
+document_id: MDA_5102_GCB_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 82, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION &
+ANALYSIS
+Strategic Review
+Market Overview
+Outlook
+Our Value Creation Story
+Value Creation Business Model
+Key Stakeholder Engagement
+Material Matters
+Key Risks & Mitigation Actions
+Growth Strategies
+Financial Review
+Financial Review
+Operational Performance Review
+Operational Performance Review
+[MDA_P003]
+This will place upward pressure on prices
+across the cocoa industry, with market players grappling
+with the dilemma of raising prices or absorbing costs to
+maintain competitiveness. Economic Challenges
+The prevailing global inflationary pressures have prompted
+an uptick in interest rates, a trend that is likely to persist
+due to the ongoing uncertainty surrounding the global
+economic outlook. Concurrently, this gloomy economic
+outlook may impact discretionary spending, primarily
+due to the burden of high household debt-servicing costs
+limiting customers' disposable income. As we navigate through the strategic landscape of our operations, it is essential to gain a comprehensive understanding of
+the prevailing conditions in the cocoa market, such as supply and demand dynamics, price fluctuations, economic challenges
+and sustainability milestones, all of which shape our strategic approach in the ever-evolving cocoa industry. Economic Recession Concerns
+The looming possibility of an economic recession poses
+further challenges. The combination of inflation, higher
+interest rates and escalating commodity prices could
+result in a global economic slowdown.
+[MDA_P009]
+With these
+fundamentals in place, we concentrate
+on our three core growth strategies -
+Growth & Expansion, Sustainability and
+Innovation - allowing us to maximise
+our cost efficiencies and capture a more
+substantial share of the global cocoa-
+derived ingredients and chocolate
+market. MANAGEMENT DISCUSSION & ANALYSIS
+Leveraging Established
+Fundamentals to Meet
+Stakeholder Expectations
+To ensure that we continue to not only
+meet but exceed the expectations of our
+diverse stakeholders, we are committed to
+seeking progress within our fundamental
+focus areas of profitability, reliability,
+business stability and market share. In
+our cocoa processing operations in key
+grinding countries, we are committed to
+expanding production capacity, enhancing
+product quality and prioritising the
+sustainability of cocoa, further solidifying
+our commitment to ESG considerations in
+response to growing interest among our
+customer base. We see significant potential for growth
+through capacity-driven initiatives, as
+demonstrated by our expansion into
+new regions like Côte d'Ivoire, Germany
+and the UK since 2019.
+[MDA_P018]
+Through forming strong alliances with
+local partners, we are dedicated to serving our customers worldwide and growing
+together with them in long-term partnerships. AMBITION
+SINCERITY
+Product
+Quality &
+Safety
+Competitive
+Prices
+Flexibility &
+Excellence
+in Customer
+Service
+Technical
+Support &
+Innovation
+Ethical
+Operations
+OUR PROMISES
+OUR VISION
+OUR MISSION
+OUR VALUES
+Procurement
+Collaborating closely with suppliers
+to ensure sustainable sourcing of raw
+materials that meet our high quality
+standards. Production
+Prioritising production that delivers top-
+quality cocoa products with maximum
+customer
+benefit
+and
+minimal
+environmental impact. QA (Products & Processes)
+Establishing
+standardised
+safety
+production processes and systems
+compliant with global food and safety
+standards. Sales & Marketing
+Capitalising on our managerial expertise,
+operational experience and established
+processes to produce and sell high-
+quality cocoa products while consistently
+gathering feedback to drive continuous
+improvement and foster sustainable
+value.

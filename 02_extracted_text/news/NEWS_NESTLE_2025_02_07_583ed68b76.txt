@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI extends winning run for fourth straight session
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/07/fbm-klci-extends-winning-run-for-fourth-straight-session
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI extended its rally for the fourth straight session, supported by broader optimism as markets abroad mostly closed higher. The 30-stock index rose 5.74 points, or 0.36%, to close at 1,590.91 points. For the week, the index jumped 33.99 points or 2.18%. Daily gainers for FBM KLCI constituents at 15 counters outweigh the decliners at nine counters, while six remained unchanged. In the broader market, gainers outnumbered losers 651 to 372, with 2.9 billion shares worth RM2.22bil changing hands.
+
+[NEWS_P002] Top gainers on Bursa Malaysia included Hong Leong Industries, which jumped 46 sen to RM13.66, F&N, which added 34 sen to RM26.20, and Inari, which rose 29 sen to RM2.72. PETRONAS Gas, the top loser on Bursa Malaysia, slid 32 sen to RM17.48. Nestle declined 20 sen to RM90.50 and PETRONASD Dagangan lost 18 sen to RM19.52. Among the banks, Maybank and Public Bank closed unchanged at RM10.42 and RM4.45, respectively. CIMB rose 17 sen to RM8.39, Hong Leong Bank added two sen to RM20.42, and RHB Bank gained one sen to RM6.48.
+
+[NEWS_P003] Meanwhile, the ringgit was quoted at 4.4375 against the US dollar, down 0.05%. It also weakened 0.38% against the Singapore dollar to 3.2889. US West Texas Intermediate crude rose 52 cents to US$71.13 and Brent gained 58 cents to US$74.87 per barrel. Among the key regional markets: Japan’s Nikkei 225 closed down 0.72% to 38,787.02; Hong Kong’s Hang Seng Index rose 1.16% to 21,133.54; China’s CSI 300 Index advanced1.3% to 3,892.70; Taiwan’s Taiex climbed 0.69% to 23,478.27; South Korea’s Kospi closed down 0.58% to 2,521.92 and; Singapore’s Straits Times Index added 0.8% to 3,861.42 points.

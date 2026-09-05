@@ -1,0 +1,170 @@
+document_id: MDA_5157_SG_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Introduction
+The summary of the results of SAUDEE and its subsidiaries (“Group”) for the past two (2) financial years ended 31 July 2022 (“FYE 2022”)
+to FYE 2023 summarised below:-
+FYE 2023
+FYE 2022
+01.08.2022
+to
+31.07.2023
+01.08.2021
+to
+31.07.2022
+KEY RESULTS
+Revenue
+(RM’000)
+95,583
+96,880
+Loss before tax (“LBT”)
+(RM’000)
+(7,290)
+(3,960)
+Loss after tax (“LAT”)
+(RM’000)
+(7,367)
+(4,406)
+(Loss)/Earnings before interest, taxes, depreciation and amortisation
+(“(L)/EBITDA”)
+(RM’000)
+(1,448)
+1,262
+OTHER KEY DATA
+Total assets
+(RM’000)
+156,259
+149,579
+Total liabilities
+(RM’000)
+20,090
+12,366
+Share capital
+(RM’000)
+169,139
+162,816
+Shareholders’ funds
+(RM’000)
+136,170
+137,214
+FINANCIAL RATIOS
+Return on shareholders’ funds
+(Sen)
+(0.05)
+(0.03)
+Current ratio
+(Times)
+3.74
+8.80
+Debts to equity ratio
+(Times)
+0.01
+0.01
+Weighted average number of shares
+(‘000)
+1,103,129
+902,141
+Net loss per share
+(Sen)
+(0.67)
+(0.49)
+Net assets per share
+(RM)
+0.12
+0.15
+The purpose of this review is to highlight and provide brief insight on the key financial and operating information at the Group level. This
+review and comparison is for the FYE 2023 against FYE 2022 results.
+[MDA_P002]
+Analysis of Revenue
+95,583
+96,880
+FYE 2023
+FYE 2022
+(RM’000)
+(RM’000)
+Manufacturing-further process products
+(“FPP”)
+84,251
+64,219
+Food Service (HORECA and OEM)
+8,352
+16,709
+Trading products
+2,980
+15,952
+95,583
+96,880
+Our Group’s total revenue for FYE 2023 stands at RM95.58 million decrease by RM1.3 million as compared to RM96.88 million in FYE 2022
+due to the following reasons:
+i)
+Improved FPP sales during the FYE 2023 sales increase in FPP segment by RM20.0 million. This was mainly due to the continued
+trends of consumer behavior for frozen FPP products as it can be kept for longer period, and
+ii)
+However, this improvement in FPP has been set off against the slow demand in Food service activities of RM8.4 million and no
+trading activities after second half of FYE 2023 due to lower margin for trading activities. As summary total revenue been decreased
+by RM1.3 million in FYE 2023 as compared with FYE 2022.
+[MDA_P003]
+ANNUAL REPORT 2023
+Analysis of Revenue (Cont’d)
+The Management will continue to improve its production efficiency and increase its production capacity to capture a bigger market share
+in the FPP segment which has cater more sales and increase the market for East Malaysia, i.e. Sabah and Sarawak. As during the financial
+under review, the Company investing into expand its production capacity that able to produce more in FPP products and meet the
+demand of local and East Malaysia market. The Management continued to put effort in monitoring its cash flow management and cost
+reduction programme that is important in view of the ever-changing business environment on uncertainty in Global market situation such
+as Russian Ukraine conflict and GAZA conflict.
+[MDA_P004]
+Analysis of Profit/(Loss)
+FYE 2023
+FYE 2022
+01.08.2022
+to
+31.07.2023
+01.08.2021
+to
+31.07.2022
+Analysis of profit/(loss) and expenses :
+Loss
+Loss before tax
+(RM’000)
+(7,290)
+(3,960)
+Loss after tax
+(RM’000)
+(7,367)
+(4,406)
+(Loss)/Earnings before interest, taxes, depreciation and amortisation
+(“(L)/EBITDA”)
+(RM’000)
+(1,448)
+1,262
+Expenses
+Cost of goods sold (“COGS”)
+(RM’000)
+82,289
+79,058
+Administrative and selling expenses
+(RM’000)
+22,795
+24,502
+Finance costs
+(RM’000)
+The loss in EBITDA of RM1.4 million was mainly due to the increase in labour costs and electricity costs in FYE 2023 by RM2.2 million as
+compared to EBITDA of RM1.2 million in FYE 2022. However, the impact of costs increase was mitigated by continuing cost reduction
+programme implemented. Furthermore, this loss also impacted by the fair value loss of other investments amounting to RM4.8 million in
+total. The loss is not incurred any outflow of actual fund. The actual EBITDA excluded this fair value loss on other investments should be
+RM3.4 million as compare to of RM8.5 million in FYE 2022.
+[MDA_P005]
+Therefore, due to the above recognition of fair value loss, for FYE 2023, the Group recorded LAT of RM7.4 million as compared to LAT of
+RM4.4 million in FYE 2022. The increase in LAT mainly due increase in labour costs due to implementation of minimum wages, increase in
+utilities charges and fair value loss charge out for other investments in FY 2023. However, the increase in LAT was mitigated by the effort of
+the management team which continues to implement cost efficiency and reduction programmes and the good strategy by management
+to continued concentrate on the FPP instead of HORECA in FYE 2023. Even though the Group recorded LAT of RM7.4 million during FYE 2023, the Group was still able to generated net operating cash inflow of
+RM20.4 million that is further discussed in the analysis on cash flow. Analysis of Expenses
+Our Group’s COGS increased by RM3.2 million or 4.09% from RM79.1 million in FYE 2022 to RM82.3 million in FYE 2023. The reason for the
+increase in COGS was mainly due increase in labour costs and utilities cost as discuss in above. Furthermore, this also impact GP margin
+reduce to 13.9% in FY2023 as compared with 18.4% in FY2022.

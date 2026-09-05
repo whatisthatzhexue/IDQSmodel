@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: TNB, Yinson, Harn Lee, Pesona Metro, Magma, Ecobuilt, Digistar, Eonmetall, Asia Poly, Scientex, UWC, VS Industry, Poh Kong, MyNews
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2024-09-25
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/25/trading-ideas-tnb-yinson-harn-lee-pesona-metro-magma-ecobuilt-digistar-eonmetall-asia-poly-scientex-uwc-vs-industry-poh-kong-mynews
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Tenaga Nasional Bhd has launched its inaugural Transition Finance Framework, outlining the utility giant’s plan to engage in sustainable finance transactions in the form of loans or sukuk. Yinson Renewables, a subsidiary of Yinson Holdings Bhd, has fully launched its 97MWp Matarani Solar Plant in Peru. Harn Len Corporation Bhd has signed an agreement to sell a land parcel in Johor Bahru for RM55.0mn to Starsea Resources Sdn Bhd.
+
+[NEWS_P002] Pesona Metro Holdings Bhd has secured a RM321.1mn contract from Sime Darby Property (Golfhome) Sdn Bhd, which is wholly owned by Sime Darby Property Bhd, to carry out superstructure works for 3 condominium blocks in Jalan Bukit Kiara, Kuala Lumpur. Magma Group Bhd is acquiring a 2.3-acre plot of land in the Persiaran Dutamas area of Kuala Lumpur from a company connected to its executive chairman and major shareholder Datuk Seri Lee Hock Seng, for RM80.0mn.
+
+[NEWS_P003] Trading in Ecobuilt Holdings Bhd shares on Bursa Malaysia will resume at 9am today, following a Court of Appeal ruling in favour of the construction firm regarding a winding-up petition. Digistar Corporation Bhd is looking to raise up to RM9.0mn via a private placement of 30% of its share base to fund its new pay-TV venture and repay bank borrowings. Eonmetall Group Bhd is looking to raise RM8.6mn by placing out up to 10% of its share base to fund its working capital.
+
+[NEWS_P004] Asia Poly Holdings Bhd has trimmed its shareholding in Dolphin International Bhd to 3.1% and ceased to become a substantial shareholder. Scientex Bhd net profit for 4QFY24 rose 18.2% YoY to RM135.9mn thanks to higher contributions from its packaging and property segments. UWC Bhd 4QFY24 net profit increased 6.1% YoY to RM2.0mn, following a recovery of the semiconductor sector, coupled with revenue contributions from its recently acquired subsidiaries.
+
+[NEWS_P005] VS Industry Bhd 4QFY24 net profit surged 107% YoY to RM126.7mn due to a one-off gain of RM46.7mn arising from the partial disposal of its equity interest in a subsidiary and increased orders and a better product mix. Poh Kong Holdings Bhd 4QFY24 net profit surged more than four times YoY to RM22.0mn while quarterly revenue grew 8.5% YoY to RM342.5mn. MyNews Holdings Bhd reported a net profit of RM2.6mn for 3QFY24 reversing a net loss of RM2.2mn in the same period last year due to the increase in in-store sales brought about by better product mix and operational improvement.

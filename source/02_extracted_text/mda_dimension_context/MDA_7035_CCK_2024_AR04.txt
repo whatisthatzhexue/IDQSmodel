@@ -1,0 +1,71 @@
+document_id: MDA_7035_CCK_2024
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+CCK Fresh Mart retail stores cater to both businesses and households, carrying a smaller range of strategically
+selected stock keeping units (“SKU”) which are specifically targeted to certain locations and buyer demographics. CCK Fresh Mart retail stores are typically smaller format stores located in both urban and rural areas. CCKLocal supermarkets typically occupy a larger footprint and offer households a wide range of SKUs ranging from
+local and imported food items to general household items. CCK’s wide-reaching retail network is supported by a fully
+integrated supply chain consisting of a feedmill, layer farming, poultry farming and processing, prawn farming and
+processing, and the manufacturing of house-brand food products. As Sarawak’s largest integrated poultry supplier, CCK’s wide-reaching retail network benefits from being vertically
+integrated with the poultry segment. Much like the retail network, CCK’s farm operations and processing facilities
+are also located in Sarawak and Sabah. On a blended basis, fresh dressed chicken and chicken parts make up
+approximately 15% of CCK Fresh Mart retail stores’ SKU.
+[MDA_P013]
+This additional production capacity
+supported the higher sales volumes of our own in-house brands of sausages, nuggets and other processed products. Sausages continue to be the CCK’s best seller in Indonesia whilst the sales of nuggets continue to gain momentum. All products from our two (2) factories in Jakarta and Pontianak are sold to our network of six (6) locally partnered
+Freshmart outlets in Pontianak as well as to third parties in Jakarta and Pontianak. Notably, during FY2024, the Group successfully completed the disposal of 37.7% stake in PT Adilmart to Astrantia
+in December 2024. We are optimistic that this strategic alignment will add a new dimension to our growth strategies
+and accelerate our pace of expansion. Beyond unlocking operational efficiencies, Astrantia will also support the
+expansion of production capacity, the opening of new sales channels, and brand building. With this partnership, we are
+well-positioned to drive long-term, sustainable growth for PT Adilmart. ANTICIPATED OR KNOWN RISKS
+a. Credit Risk
+[MDA_P014]
+CCK practises a policy of dealing with creditworthy customers based on careful evaluation of each credit
+customer’s financial standing and credit history. This practice mitigates the risk of financial loss from possible
+default payments. The Group has also in place a credit monitoring process which regularly monitors the status
+and payments of our credit customers.
+b.
+Foreign Currencies Fluctuation Risk
+[MDA_P015]
+The Group imports frozen products for the network of retail stores where the purchases are denominated in US
+dollars. As such, the Group is exposed to currency fluctuation risk. Any adverse fluctuation in the MYR/USD
+rate may affect the profitability of the Group. In addition, fluctuations in the MYR/USD will likely affect the cost
+of feed for the poultry segment.
+c.
+Liquidity Risk
+[MDA_P016]
+The Group maintains an adequate level of cash and cash equivalents and banking facilities to ensure sufficient
+liquidity to meet its liabilities as and when they fall due. The Group’s exposure to liquidity risk arises principally
+from trade payables, other payables and other bank borrowings (bankers’ acceptances and a revolving credit).
+[MDA_P017]
+ANNUAL REPORT | 9
+MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d)
+d.
+Competition Risk
+[MDA_P018]
+CCK retail stores face increasing risks from existing and new competitors who offer similar products and compete
+on the basis of pricing. To mitigate this, we are continuously looking at means to improve our competitive edge.
+The Management not only focuses on pricing of products but also in evolving business models which improve
+the customers’ shopping experience.
+e.
+Biosecurity And Disease Risk
+[MDA_P020]
+We cater to diverse consumer needs with
+a wide range of offerings – including poultry, fresh produce, seafood, and both house-brand and third-party frozen
+goods. While our key business segments are closely tied to consumer sentiment and demand, the inherent resilience
+of these staple products reinforces our position in the market. Employing a vertically integrated business model, this allows us to exert greater control over our supply chain and
+operations. This integrated approach, coupled with the nature of our product offerings, gives us the ability to be agile
+whilst developing a commendable resilience to market fluctuations and challenges. That said, we continue to operate in a high inflationary environment, exerting pressure on costs throughout the supply
+chain. This inflationary trend compounds the challenges posed by fluctuating currency exchange rates and rising
+input costs, further straining our cost structures. Specifically, the volatility of the US dollar against the Malaysian Ringgit remains a concern as it leads to fluctuations in
+prices of corn and soy.
+[MDA_P021]
+Feed prices constitute a significant portion of the poultry segment’s costs which in-turn make
+up about 50% of our retail segment’s sales. Consequently, we actively employ strategies to address these cost pressures, seeking efficiencies wherever possible
+while remaining mindful of the impact on pricing and profitability. Our focus remains on mitigating these cost pressures through prudent cost management practices, operational
+optimisations, and strategic pricing adjustments, ensuring that we maintain our competitiveness in the market. Strategically expanding our retail network remains integral to our growth trajectory, with a concerted focus on optimising
+economies of scale and enhancing the efficiency of our fully integrated supply chain. This will bolster our capacity to
+meet evolving consumer demands while maximising operational efficiencies.

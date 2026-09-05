@@ -1,0 +1,24 @@
+[TITLE]
+Bursa Malaysia closes higher for fourth consecutive session
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-16
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/16/bursa-malaysia-closes-higher-for-fourth-consecutive-session
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia extended its positive performance, closing higher for a fourth consecutive session, supported by improving local market sentiment underpinned by a firm domestic macroeconomic backdrop. At 5 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) rose 4.59 points, or 0.28 per cent, to 1,648.31, from Monday’s close of 1,643.72. The index had opened 0.95 of a point lower at 1,642.77, and moved between 1,636.50 and 1,648.71 throughout the trading session However, on the broader market, decliners beat gainers 699 versus 408.
+
+[NEWS_P002] A further 520 counters were unchanged, 1,149 untraded and 12 suspended. Turnover rose to 2.59 billion units worth RM2.27 billion from 2.50 billion units worth RM2.16 billion on Monday. IPPFA Sdn Bhd director of investment strategy and country economist Mohd Sedek Jantan said gains were led by financial counters among index heavyweights, reflecting renewed confidence in earnings resilience and balance-sheet strength. He noted that the positive tone was further reinforced by the recent United States (US) Federal Reserve interest rate cut, which has eased global financial conditions and improved risk appetite.
+
+[NEWS_P003] "In addition, year-end portfolio rebalancing activity among local institutional investors has provided incremental support to selected large-cap and defensive names, contributing to the index’s sustained upward momentum,” he told Bernama. Among heavyweights, Maybank was flat at RM10.36, Public Bank dipped two sen to RM4.47, while CIMB gained five sen to RM7.98, IHH Healthcare grew two sen to RM8.72 and Tenaga Nasional rose four sen to RM13.14. On the most active list, Tanco and V.S Industry each slipped three sen to RM1.15 and 48.5 sen, respectively, Zetrix AI slid 1.5 sen to 81 sen, Velesto inched down one sen to 27.5 sen, and SNS Network fell two sen to 50.5 sen.
+
+[NEWS_P004] Top gainers included Nestle, which climbed 70 sen to RM113, Dutch Lady Milk Industries rose 56 sen to RM30.68, Fraser and Neave gained 42 sen to RM35.48, United Plantations added 24 sen to RM28.94 and Hong Leong Bank increased 18 sen to RM21.86. Top losers included Malaysian Pacific Industries , which fell 30 sen to RM31.50, Hong Leong Industries retreated 24 sen to RM15.68, Yinson Holdings and United Malacca were 12 sen lower at RM2.20 and RM5.80, respectively, and Frontken erased 11 sen to RM4.13.
+
+[NEWS_P005] On the index board, the FBM Emas Index edged up 8.82 points to 12,099.20, the FBM ACE Index gained 12.13 points to 4,737.42, and the FBMT 100 Index bagged 15.87 points to 11,900.83, while the FBM Emas Shariah Index slipped 3.99 points to 11,910.50 and the FBM 70 Index retreated 54.82 points to 16,618.60. Sector-wise, the Plantation Index advanced 40.58 points to 8,180.03, the Financial Services Index strengthened 35.91 points to 19,316.07, while the Energy Index eased 5.48 points to 760.06, and the Industrial Products and Services Index edged down 0.39 of a point to 169.49.
+
+[NEWS_P006] The Main Market volume rose to 1.30 billion units worth RM2.06 billion from 1.25 billion units worth RM1.94 billion on Monday. Warrants turnover increased to 987.56 million units worth RM118.87 million against 953.61 million units worth RM115.93 million previously. The ACE Market volume slid to 299.21 million units valued at RM94.17 million, versus 300.47 million units valued at RM101.62 million yesterday. Consumer products and services counters accounted for 217.40 million shares traded on the Main Market, industrial products and services (241.74 million), construction (82.30 million), technology (209.04 million), financial services (57.94 million), property (144.64 million), plantation (22.18 million), real estate investment trusts (15.68 million), closed-end fund (8,600 shares), energy (119.79 million), healthcare (75.41 million), telecommunications and media (41.40 million), transportation and logistics (43.51 million), utilities (28.90 million), and business trusts (140,300).
+
+[NEWS_P007] - Bernama

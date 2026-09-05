@@ -1,0 +1,20 @@
+[TITLE]
+Nestle maintains strong market leadership
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2024-07-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/26/nestle-maintains-strong-market-leadership
+confidence_tier: high
+
+[NEWS_P001] PETALING JAYA: Against a background defined by constrained purchasing power, subdued consumer sentiment and cautious spending throughout the Chinese New Year and Hari Raya festive seasons, Nestle (M) Bhd saw its sales reach RM3.3bil for the first half of 2024 (1H24). This represented a dip of 8% versus the historically high record sales achieved for 1H23. In a statement released yesterday, the fast-moving consumer goods group said the cumulative turnover for 1H24 is comparable to the solid figures achieved in 1H22.
+
+[NEWS_P002] Meanwhile, it said revenue for the second quarter ended June 30, 2024 (2Q24) reached RM1.52bil, down from the RM1.75bil achieved in the equivalent period of 2023. According to Nestle Malaysia chief executive Juan Aranols, the current environment continues to reflect subdued consumer sentiment and constrained purchasing power impacted particularly by the accumulated inflation in food and other basic items. “We recognise the significant challenges this represents for Malaysian families.
+
+[NEWS_P003] As such, we remain focused on providing solid value propositions across our brands and products that meet the expectations of Malaysians, always with the highest quality and using the best ingredients,” he said. He added the group will continue to improve the nutritional profile of its products citing as an example, the Healthier Choice Logo for health drink Milo by the Health Ministry. “We have also brought to market a number of relevant innovations such as Kit Kat Dark Borneo, made with cocoa beans from Sabah and Sarawak, sourced via our Nestle Borneo Cocoa initiative, in partnership with the Malaysian Cocoa Board,” said Aranols.
+
+[NEWS_P004] Furthermore, he drew attention to how Nestle Malaysia’s agricultural engagements had continued to support the uplifting of local farming communities while helping the group to further localise the high-quality ingredients needed to manufacture its products. Focusing back on its performance, he said profitability for the quarter and for the half-year, while contracting when compared to the high baseline periods of 2023, remained at a healthy level, with 1H24 pre-tax profit at RM385mil.
+
+[NEWS_P005] The performance resulted in a net earnings of RM289.1mil for 1H24, allowing the company to declare a first interim dividend payment of 70 sen per share, the same level as last year. When commenting on the profitability evolution for 1H24, Aranols recognised the significant challenges that high food costs, driven by the global situation of commodity prices, create for Malaysian families. He said: “Hence, we continue to make every possible effort to moderate the translation to our final prices of these external cost increases, absorbing them to the best of our ability and mitigating cost pressure through all possible actions.”

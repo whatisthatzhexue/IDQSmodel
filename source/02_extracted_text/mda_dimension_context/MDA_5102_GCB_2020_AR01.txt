@@ -1,0 +1,91 @@
+document_id: MDA_5102_GCB_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 18, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Dear Shareholders,
+Despite a tumultuous year amidst the prolonged effects of the
+COVID19 pandemic, Guan Chong Berhad (GCB or the Group) posted
+commendable results for the financial year ended 31 December 2020
+(FY2020), successfully manoeuvring around the weaker global market
+for cocoa and related products while maintaining our bottomline
+performance.
+List of Cocoa Grinding Facilities
+Location
+Annual Grinding
+Capacity
+Annual
+Industrial
+Chocolate
+Capacity
+Guan Chong Cocoa Manufacturer Sdn Bhd
+Pasir Gudang, Malaysia
+80,000 MT
+-
+GCB Cocoa Malaysia Sdn Bhd
+Pasir Gudang, Malaysia
+50,000 MT
+-
+PT Asia Cocoa Indonesia
+Batam, Indonesia
+120,000 MT
+-
+SCHOKINAG Schokolade-Industrie GmbH
+Mannheim, Germany
+7,000 MT
+90,000 MT
+Total
+257,000 MT
+90,000 MT
+[MDA_P003]
+OPERATIONAL HIGHLIGHTS
+Production Highlights
+FY2020 was marked by the challenging landscape for our business operations, stemming from several market and supply
+chain issues posed by the effects of the COVID-19 pandemic. For one, our operations in Malaysia were disrupted by the lockdown imposed by the Malaysian Government from mid-March
+till end-April 2020. While we were granted approvals to maintain operations due to our essential goods category, various
+other hurdles arose such as disruptions to trucking and supply activities, and slower response times across other supply
+chain participants. In spite of that, we still managed to sustain our grinding level to near maximum capacity of 250,000 MT in Pasir Gudang
+and Batam, as we continued to ensure that our cocoa ingredients are readily available to be distributed to meet our clients’
+demand. We also managed to register healthy sales of cocoa ingredients in FY2020, albeit at a slightly lower volume from a year
+ago. The lower demand for chocolate was a result of closure of travel borders and global lockdowns imposed by numerous
+often-travelled-to countries in Europe.
+[MDA_P004]
+While prices of cocoa butter saw weakness, prices of cocoa solids firmed up as
+consumers opted for the cheaper alternative compound chocolate products, of which cocoa powder is the main ingredient. Overall, we maintained a commendable EBITDA of RM349.3 million in FY2020, 5.0% higher compared to RM332.8 million
+in the previous year, largely contributed by the one-off gain of RM27.9 million from the disposal of an associate, Fuji Global
+Chocolate (M) Sdn Bhd (formerly known as GCB Specialty Chocolates Sdn Bhd). FINANCIAL PERFORMANCE
+Group revenue in FY2020 grew 25.3% to RM3.7 billion compared to RM2.9 billion in the last year despite the lower sales
+tonnage, with the growth driven mainly by maiden contribution from the sale of industrial chocolate by SCHOKINAG. GCB’s gross profit improved 5.2% to RM376.0 million from RM357.4 million previously, as a result of increased selling price
+of cocoa solids and improved yield per tonne. GCB’s pre-tax profit in FY2020 was sustained at RM267.3 million, 0.1% higher
+versus RM266.9 million the previous year.
+[MDA_P005]
+The Group also posted a 2.2% higher net profit attributable to shareholders of RM222.7 million in FY2020, compared to
+RM217.9 million in the previous year. The increase was largely from the one-off gain on disposal of an associate, Fuji Global
+Chocolate (M) Sdn Bhd, to industrial chocolate producer Fuji Oil Asia Pte Ltd in February 2020, as the latter exercised a call
+option to acquire GCB’s 27.75% stake in the associate. As at 31 December 2020, the Group’s total assets stood at RM2.9 billion, increasing 42.8% from RM2.0 billion previously,
+due to higher property, plant and equipment from the expansions into Germany, Cote D’Ivoire, and UK, as well as increased
+inventory level and trade receivables.
+[MDA_P008]
+Inventories, which largely consist of raw materials, rose 25.8% to RM1.3 billion on higher levels of cocoa ingredients and
+consolidation of inventories from SCHOKINAG, compared to RM1.0 billion previously. Trade and other receivables as at
+31 December 2020 increased to RM509.1 million, from RM412.3 million a year ago in line with the Group’s larger revenue
+base. In addition to that, trade and other payables increased to RM364.2 million, from RM325.2 million, largely due to the
+consolidation of trade and other payables from SCHOKINAG. At the same time, GCB’s cash and bank balances improved to RM78.2 million, compared to RM46.8 million in the prior year. Shareholders’ equity as at 31 December 2020 increased to RM1.2 billion, from RM0.9 billion due to increase in retained
+earnings and exercise of warrants. The Group’s total borrowings increased to RM1.1 billion from RM0.7 billion previously as it aimed to undertake expansion
+plans overseas. The increased borrowings in FY2020 was mainly from the first tranche of Islamic Medium Term Notes
+issuance of RM300 million.
+[MDA_P009]
+Of total borrowings, Shariah-compliant loans made up RM354.7 million from RM237.3 million
+prior, as the Group looks to maintain its Shariah-compliant status. Due to the higher borrowings, the Group’s net gearing increased to 0.9 times, from 0.7 times in FY2019. DIVIDEND
+The Group continued to reward shareholders during the year by declaring total dividends of 3.5 sen per share in respect of
+FY2020. This comprised two interim dividends of 1.5 and 1.0 sen per share, along with a proposed final dividend for 1.0
+sen per share, subject to shareholders’ approval at the Annual General Meeting. Combined, the total dividend payout will be RM36.0 million, which represents 16.1% of FY2020 net profit attributable to
+shareholders. RISKS
+Competition
+As a medium-sized cocoa player in the market, we face the risk of heightened competition against major multinational
+companies with wider presence in the market, larger capacities, and better bargaining power. These players tend to have
+an end-to-end value chain, from producing and trading of cocoa ingredients to branding and distribution of chocolate and
+cocoa-based products.

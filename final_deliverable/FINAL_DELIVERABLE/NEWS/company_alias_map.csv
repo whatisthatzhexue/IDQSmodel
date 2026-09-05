@@ -1,0 +1,149 @@
+ticker,stock_code,company_name,alias,alias_type,match_strength
+3A,0012,Three-A Resources Berhad,Three-A Resources Berhad,legal_name,strong
+3A,0012,Three-A Resources Berhad,Three-A Resources,short_name,medium
+3A,0012,Three-A Resources Berhad,3A,ticker,weak
+3A,0012,Three-A Resources Berhad,0012,stock_code,weak
+ABLEGLOB,7167,JOHOTIN,JOHOTIN,legal_name,strong
+ABLEGLOB,7167,JOHOTIN,ABLEGLOB,ticker,weak
+ABLEGLOB,7167,JOHOTIN,7167,stock_code,weak
+AJI,2658,Ajinomoto,Ajinomoto,legal_name,strong
+AJI,2658,Ajinomoto,AJI,ticker,weak
+AJI,2658,Ajinomoto,2658,stock_code,weak
+AJI,2658,Ajinomoto,Ajinomoto Malaysia Berhad,legal_name,strong
+AJI,2658,Ajinomoto,Ajinomoto Malaysia,brand_name,strong
+APOLLO,6432,Apollo Food Holdings Berhad,Apollo Food Holdings Berhad,legal_name,strong
+APOLLO,6432,Apollo Food Holdings Berhad,Apollo Food,short_name,medium
+APOLLO,6432,Apollo Food Holdings Berhad,APOLLO,ticker,weak
+APOLLO,6432,Apollo Food Holdings Berhad,6432,stock_code,weak
+CAB,,CAB Cakaran Corporation Berhad,CAB Cakaran Corporation Berhad,legal_name,strong
+CAB,,CAB Cakaran Corporation Berhad,CAB Cakaran,short_name,medium
+CAB,,CAB Cakaran Corporation Berhad,CAB,ticker,weak
+CARLSBG,2836,Carlsberg Brewery Malaysia Berhad,Carlsberg Brewery Malaysia Berhad,legal_name,strong
+CARLSBG,2836,Carlsberg Brewery Malaysia Berhad,Carlsberg Brewery,short_name,medium
+CARLSBG,2836,Carlsberg Brewery Malaysia Berhad,CARLSBG,ticker,weak
+CARLSBG,2836,Carlsberg Brewery Malaysia Berhad,2836,stock_code,weak
+CARLSBG,2836,Carlsberg Brewery Malaysia Berhad,Carlsberg Malaysia,brand_name,strong
+CARLSBG,2836,Carlsberg Brewery Malaysia Berhad,Carlsberg,brand_name,strong
+CCK,7035,CCK,CCK,ticker,weak
+CCK,7035,CCK,7035,stock_code,weak
+CIHLDG,2828,CIHB,CIHLDG,ticker,weak
+CIHLDG,2828,CIHB,2828,stock_code,weak
+CNOUHUA,5188,China Ouhua Winery Holdings Limited,China Ouhua Winery Holdings Limited,legal_name,strong
+CNOUHUA,5188,China Ouhua Winery Holdings Limited,China Ouhua Winery Limited,short_name,medium
+CNOUHUA,5188,China Ouhua Winery Holdings Limited,CNOUHUA,ticker,weak
+CNOUHUA,5188,China Ouhua Winery Holdings Limited,5188,stock_code,weak
+COCOLND,,Cocoaland Holdings Berhad,Cocoaland Holdings Berhad,legal_name,strong
+COCOLND,,Cocoaland Holdings Berhad,Cocoaland,short_name,medium
+COCOLND,,Cocoaland Holdings Berhad,COCOLND,ticker,weak
+DLADY,3026,Dutch Lady Milk Industries Berhad,Dutch Lady Milk Industries Berhad,legal_name,strong
+DLADY,3026,Dutch Lady Milk Industries Berhad,Dutch Lady Milk,short_name,medium
+DLADY,3026,Dutch Lady Milk Industries Berhad,DLADY,ticker,weak
+DLADY,3026,Dutch Lady Milk Industries Berhad,3026,stock_code,weak
+DLADY,3026,Dutch Lady Milk Industries Berhad,Dutch Lady,brand_name,strong
+DLADY,3026,Dutch Lady Milk Industries Berhad,DLMI,short_name,medium
+ETA,9946,Annual Report 2020,ETA,ticker,weak
+ETA,9946,Annual Report 2020,9946,stock_code,weak
+FFB,5306,FarmFresh,FarmFresh,legal_name,strong
+FFB,5306,FarmFresh,FFB,ticker,weak
+FFB,5306,FarmFresh,5306,stock_code,weak
+FFB,5306,FarmFresh,Farm Fresh Berhad,legal_name,strong
+FFB,5306,FarmFresh,Farm Fresh,brand_name,strong
+FN,3689,Fraser & Neave Holdings Bhd,Fraser & Neave Holdings Bhd,legal_name,strong
+FN,3689,Fraser & Neave Holdings Bhd,Fraser & Neave,short_name,medium
+FN,3689,Fraser & Neave Holdings Bhd,FN,ticker,weak
+FN,3689,Fraser & Neave Holdings Bhd,3689,stock_code,weak
+FN,3689,Fraser & Neave Holdings Bhd,F&NHB,short_name,medium
+FN,3689,Fraser & Neave Holdings Bhd,F&N,brand_name,medium
+GCB,5102,Guan Chong Berhad,Guan Chong Berhad,legal_name,strong
+GCB,5102,Guan Chong Berhad,Guan Chong,short_name,medium
+GCB,5102,Guan Chong Berhad,GCB,ticker,weak
+GCB,5102,Guan Chong Berhad,5102,stock_code,weak
+HARISON,5008,Harrisons Holdings (Malaysia) Berhad - 2020,Harrisons Holdings (Malaysia) Berhad - 2020,legal_name,strong
+HARISON,5008,Harrisons Holdings (Malaysia) Berhad - 2020,Harrisons () - 2020,short_name,medium
+HARISON,5008,Harrisons Holdings (Malaysia) Berhad - 2020,HARISON,ticker,weak
+HARISON,5008,Harrisons Holdings (Malaysia) Berhad - 2020,5008,stock_code,weak
+HBGLOB,5187,HB Global Limited,HB Global Limited,legal_name,strong
+HBGLOB,5187,HB Global Limited,HBGLOB,ticker,weak
+HBGLOB,5187,HB Global Limited,5187,stock_code,weak
+HEIM,3255,Heineken,Heineken,legal_name,strong
+HEIM,3255,Heineken,HEIM,ticker,weak
+HEIM,3255,Heineken,3255,stock_code,weak
+HEIM,3255,Heineken,Heineken Malaysia Berhad,legal_name,strong
+HEIM,3255,Heineken,Heineken Malaysia,brand_name,strong
+HUPSENG,,Hup Seng Industries Berhad,Hup Seng Industries Berhad,legal_name,strong
+HUPSENG,,Hup Seng Industries Berhad,Hup Seng,short_name,medium
+HUPSENG,,Hup Seng Industries Berhad,HUPSENG,ticker,weak
+HWATAI,8478,Hwa Tai,Hwa Tai,legal_name,strong
+HWATAI,8478,Hwa Tai,HWATAI,ticker,weak
+HWATAI,8478,Hwa Tai,8478,stock_code,weak
+KAWAN,7216,Kawan Food,Kawan Food,legal_name,strong
+KAWAN,7216,Kawan Food,KAWAN,ticker,weak
+KAWAN,7216,Kawan Food,7216,stock_code,weak
+KAWAN,7216,Kawan Food,Kawan Food Berhad,legal_name,strong
+KHEESAN,6203,Khee San Berhad,Khee San Berhad,legal_name,strong
+KHEESAN,6203,Khee San Berhad,Khee San,short_name,medium
+KHEESAN,6203,Khee San Berhad,KHEESAN,ticker,weak
+KHEESAN,6203,Khee San Berhad,6203,stock_code,weak
+KOTRA,,Kotra Industries Berhad,Kotra Industries Berhad,legal_name,strong
+KOTRA,,Kotra Industries Berhad,Kotra,short_name,medium
+LEONGHUP,,Leong Hup International Berhad,Leong Hup International Berhad,legal_name,strong
+LEONGHUP,,Leong Hup International Berhad,Leong Hup International,short_name,medium
+LEONGHUP,,Leong Hup International Berhad,LEONGHUP,ticker,weak
+LEONGHUP,,Leong Hup International Berhad,Leong Hup,brand_name,strong
+LOTUS,8303,Lotus KFM Berhad,Lotus KFM Berhad,legal_name,strong
+LOTUS,8303,Lotus KFM Berhad,Lotus KFM,short_name,medium
+LOTUS,8303,Lotus KFM Berhad,LOTUS,ticker,weak
+LOTUS,8303,Lotus KFM Berhad,8303,stock_code,weak
+MAGMA,7243,Impiana Hotels Bhd,Impiana Hotels Bhd,legal_name,strong
+MAGMA,7243,Impiana Hotels Bhd,Impiana Hotels,short_name,medium
+MAGMA,7243,Impiana Hotels Bhd,MAGMA,ticker,weak
+MAGMA,7243,Impiana Hotels Bhd,7243,stock_code,weak
+MFLOUR,3662,Malayan Flour Mills Berhad,Malayan Flour Mills Berhad,legal_name,strong
+MFLOUR,3662,Malayan Flour Mills Berhad,Malayan Flour Mills,short_name,medium
+MFLOUR,3662,Malayan Flour Mills Berhad,MFLOUR,ticker,weak
+MFLOUR,3662,Malayan Flour Mills Berhad,3662,stock_code,weak
+MSM,5202,MSM Malaysia Holdings Berhad,MSM Malaysia Holdings Berhad,legal_name,strong
+MSM,5202,MSM Malaysia Holdings Berhad,MSM,ticker,weak
+MSM,5202,MSM Malaysia Holdings Berhad,5202,stock_code,weak
+MSM,5202,MSM Malaysia Holdings Berhad,MSM Malaysia,brand_name,strong
+NESTLE,4707,Nestle Malaysia Berhad,Nestle Malaysia Berhad,legal_name,strong
+NESTLE,4707,Nestle Malaysia Berhad,Nestle,short_name,medium
+NESTLE,4707,Nestle Malaysia Berhad,4707,stock_code,weak
+NESTLE,4707,Nestle Malaysia Berhad,Nestle Malaysia,brand_name,strong
+NESTLE,4707,Nestle Malaysia Berhad,Nestlé Malaysia Berhad,legal_name,strong
+NESTLE,4707,Nestle Malaysia Berhad,Nestlé Malaysia,brand_name,strong
+NESTLE,4707,Nestle Malaysia Berhad,Nestlé,brand_name,strong
+OCB,5533,OCB Berhad,OCB Berhad,legal_name,strong
+OCB,5533,OCB Berhad,OCB,ticker,weak
+OCB,5533,OCB Berhad,5533,stock_code,weak
+OFI,7107,Oriental Food Industries Holdings Berhad,Oriental Food Industries Holdings Berhad,legal_name,strong
+OFI,7107,Oriental Food Industries Holdings Berhad,Oriental Food,short_name,medium
+OFI,7107,Oriental Food Industries Holdings Berhad,OFI,ticker,weak
+OFI,7107,Oriental Food Industries Holdings Berhad,7107,stock_code,weak
+ORGABIO,,Orgabio Holdings Berhad,Orgabio Holdings Berhad,legal_name,strong
+ORGABIO,,Orgabio Holdings Berhad,Orgabio,short_name,medium
+PPB,4065,PPB Group Berhad,PPB Group Berhad,legal_name,strong
+PPB,4065,PPB Group Berhad,PPB,ticker,weak
+PPB,4065,PPB Group Berhad,4065,stock_code,weak
+PPB,4065,PPB Group Berhad,PPB Group,brand_name,strong
+PWROOT,7237,Power Root,Power Root,legal_name,strong
+PWROOT,7237,Power Root,PWROOT,ticker,weak
+PWROOT,7237,Power Root,7237,stock_code,weak
+PWROOT,7237,Power Root,Power Root Berhad,legal_name,strong
+QL,,QL Resources Berhad,QL Resources Berhad,legal_name,strong
+QL,,QL Resources Berhad,QL Resources,short_name,medium
+QL,,QL Resources Berhad,QL,ticker,weak
+REX,,Rex Industry Berhad,Rex Industry Berhad,legal_name,strong
+REX,,Rex Industry Berhad,Rex Industry,short_name,medium
+REX,,Rex Industry Berhad,REX,ticker,weak
+SDS,0212,SDS Group Berhad,SDS Group Berhad,legal_name,strong
+SDS,0212,SDS Group Berhad,SDS,ticker,weak
+SDS,0212,SDS Group Berhad,0212,stock_code,weak
+SG,5157,Saudee Group Berhad,Saudee Group Berhad,legal_name,strong
+SG,5157,Saudee Group Berhad,Saudee,short_name,medium
+SG,5157,Saudee Group Berhad,SG,ticker,weak
+SG,5157,Saudee Group Berhad,5157,stock_code,weak
+SPRITZER,7103,Spritzer Bhd,Spritzer Bhd,legal_name,strong
+SPRITZER,7103,Spritzer Bhd,Spritzer,short_name,medium
+SPRITZER,7103,Spritzer Bhd,7103,stock_code,weak
+SPRITZER,7103,Spritzer Bhd,Spritzer Berhad,legal_name,strong

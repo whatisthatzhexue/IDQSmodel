@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI poised to wrap volatile week with more losses
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-07-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/26/fbm-klci-poised-to-wrap-volatile-week-with-more-losses
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI was on course to a third straight day of losses as it approached the end of a volatile week for global markets. The benchmark index was down 1.89 points to 1,613.29 at the lunch break, paring losses after hitting a low of 1,610.65 earlier in the day. The broader market was also put under pressure with 569 counters falling into the red overall compared to 307 gainers. Six out of the 13 market sectors slipped into the red, led lower by financial services, plantations and energy stocks.
+
+[NEWS_P002] Market share turnover was 2.35 billion shares changing hands for RM1.24bil. Heavyweights that were sold down included Tenaga Nasional falling six sen to RM13.94, PETRONAS Gas slipping eight sen to RM17.98 and YTL Corp shedding three sen to RM3.55. Nestle Malaysia, which posted a sharp decline in second-quarter earnings yesterday, dove RM5.10 to a seven-month low of RM116.90. Newly listed Kucingko, meanwhile, continued to lead the market in traded volume, with 137.79 million shares changing hands.
+
+[NEWS_P003] The 2D animation firm was up 28.5 sen to 58.5 sen on its ACE Market debut, easing off an intra-morning high of 84 sen a share. In regional markets, investors calmed their nerves after the frenetic selling earlier in the week, with some recovery sentiment pushing up prices. Japan's Nikkei rose 0.21% to 37,950 while Hong Kong's Hang Seng gained 0.17% to 17,033. China's composite index dropped 19 sen to 2,881 while Singapore's Straits Times Index fell 0.12% to 3,426.

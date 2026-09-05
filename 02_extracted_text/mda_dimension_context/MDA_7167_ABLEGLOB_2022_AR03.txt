@@ -1,0 +1,84 @@
+document_id: MDA_7167_ABLEGLOB_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 83, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+AGB is an investment holding company with its subsidiaries involved in Tin Cans Manufacturing
+(“Tin Cans”) segment and the Food and Beverage (“F&B”) segment. The Tin Cans segment involves
+manufacturing of various tins, cans and other containers and providing tinplates printing services. The
+F&B segment involves manufacturing and selling of milk and other related dairy products, as well as
+packing and trading of all types of dairy products.
+[MDA_P004]
+For Tin Cans segment, most of the customers are locally based, with minor market share in Singapore.
+The customer base consists of various industries mainly in biscuit, paint and chemical, edible oil and
+food processing industries. As for the tinplates printing services, most of the printing services are
+exported within South-East Asia market as well as local market.
+[MDA_P005]
+Whilst for F&B segment, approximately 80% of the dairy products are exported, mainly to West
+Africa, South-East Asia Region and American Continent. The dairy products comprise of sweetened
+condensed milk, evaporated milk as well as milk powder packed in both bulk and consumer packs.
+2.
+REVIEW OF FINANCIAL RESULTS AND FINANCIAL CONDITION
+[MDA_P006]
+For FYE 2022, the Group achieved revenue of RM549.82 million as compared to RM499.86 million in the
+previous financial year, an increase of RM49.96 million. Profit before tax decreased by RM8.63 million to
+RM42.80 million as compared to RM51.43 million in the previous financial year.
+[MDA_P007]
+For Tin Cans segment, the revenue decreased by RM3.38 million to RM124.13 million from RM127.51 million
+mainly due to lower sales demand in current year-to-date.
+[MDA_P008]
+As for the F&B segment, the revenue increased by RM53.35 million to RM425.70 million from RM372.35
+million mainly due to the increase in the sales demand from the customers and partly due to the increase in
+selling prices.
+[MDA_P009]
+Profit before tax of Tin Cans segment increased by RM1.38 million to RM26.38 million from RM25.00 million
+is mainly due to lower operating expenses incurred during the year.
+[MDA_P010]
+For F&B segment, the profit before tax decreased by RM9.63 million to RM18.46 million from RM28.09
+million and is mainly attributable to the higher cost of goods sold caused by the increase in raw material
+costs. Although the selling prices were adjusted, the full increase in costs could not be completely passed
+down to the customers, especially in the domestic market. In addition, the earlier price commitment to our
+customers and the continual increase in the raw material prices contributed to the decrease in margin in the
+current year-to-date.
+[MDA_P013]
+In FYE 2022, the total borrowings increased by RM166.05 million to RM253.96 million from RM87.91 million
+mainly due to financings through term loan for the acquisition of land. As a result, the gearing ratio increased
+by 39.96% to 63.05% from 23.09%.
+[MDA_P014]
+On the investor’s perspective, the return on equity decreased by 1.49% to 8.34% from 9.83%. The return
+on total assets decreased by 2.39% to 4.66% from 7.05%. Both the decreases of the returns are due to the
+decrease in profitability in FYE 2022.
+[MDA_P015]
+Interest coverage ratio is approximately 23 times in FYE 2022 as compared to 110 times in the previous
+financial year, which reflect the Group’s ability to pay off its debts against current year’s profit.
+[MDA_P016]
+As for share information, the earnings per share (“EPS”) is 10.85 sen for the FYE 2022 as compared to 12.00
+sen in the previous financial year. The net assets per share (“NAPS”) increased by 7 sen to RM1.31 for FYE
+2022 against RM1.24 in the previous financial year. The price earnings (“PE”) ratio is 12.44 for FYE 2022 as
+compared to 13.42 in the previous financial year. The share price in FYE 2022 and in the previous financial
+year was at RM1.35 and RM1.61 respectively.
+[MDA_P018]
+The main factors that affected the operating activities in the Tin Cans segment are shortage of labour and
+increase in raw materials prices.
+[MDA_P019]
+Raw material prices directly affect the profitability and to remain competitive, we have always strived to
+provide the most competitive prices to our customers. The Management is actively monitoring the raw
+materials cost and engages with the customers on the selling price adjustments. The Management is always
+vigilant in monitoring the cost of manufacturing to stay competitive in the industry and ensure that this
+segment remains its profitability.
+[MDA_P020]
+For F&B segment, the main factors that affected the operating activities were volatility in raw materials prices
+and freight costs.
+[MDA_P022]
+Due to the high percentage of outputs that are exported, freight cost is another factor that affects the
+operations of the F&B segment. During the first half of FYE 2022, the pandemic-related delays and closures
+of ports led to high freight costs. During this period, our subsidiaries in the F&B segment managed the
+situation by engaging with multiple shipping agents in order to get the best quotes and the earliest possible
+delivery date to suit the customer’s requirement. During the second half of FYE 2022, the freight costs started
+to decline and this trend eased some cost pressure for the F&B segment.
+[MDA_P025]
+The Group’s revenue and operating results could be adversely affected by many factors which include,
+amongst others, the costs of raw materials, costs of labour as well as maintenance costs of equipment
+and machineries.

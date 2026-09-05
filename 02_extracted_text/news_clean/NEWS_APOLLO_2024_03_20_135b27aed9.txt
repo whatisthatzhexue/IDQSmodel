@@ -1,0 +1,18 @@
+[TITLE]
+Investors take cautious approach as US rate decision looms
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-03-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/20/investors-take-cautious-approach-as-us-rate-decision-looms
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysian stocks were flattish at Wednesday's open as investors digested recent announcements by global central banks, with a highly anticipated rate decision by the US Federal Reserve yet to come. At 9am, the FBM KLCI eked out a mild 1.1-point gain to 1,554.06 as investors moved cautiously forward in light of heightened uncertainty over how recent hot inflation data have swayed the thinking of Fed officials. Going by CME FedWatch Tool projections, the US central bank is consensually expected to keep rates unchanged although the question now lies in whether it will signal that interest rates will stay higher for longer than expected.
+
+[NEWS_P002] Meanwhile, the Bank of Japan's (BOJ) move to end its negative interest rate policy could attract the flow of funds from other global markets, including Bursa Malaysia. "We anticipate the local bourse to trade cautiously sideways, ahead of the Fed interest rate guidance and potential outflows of funds to Japan following the BOJ's hawkish move. "The lower liners could be bracing for profit taking as well after enjoying a decent run over recent weeks," said Apex Securities Research in its market outlook.
+
+[NEWS_P003] The research firm remains bullish on energy stocks following the extended gains in oil prices, which have hit multi-month highs for the second consecutive session. It is also positive on global-related counters given the high prices of gold, while Poh Kong's recent stellar quarterly profit also suggested outsized earnings for Malaysian gold merchants. Apollo Food , meanwhile, continues to break share price records as it extended its rally by another 30 sen to RM7.30.
+
+[NEWS_P004] Shares in the confectionery maker have gained about 20.5% since the start of the week following a third-quarter report that showed net earnings tripling to RM30.2mil. Top actives on the market include MMAG up one sen to 16 sen, MLab down 0.5 sen to one sen and Hong Seng unchanged at one sen.

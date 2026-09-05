@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia snaps winning streak; Oriental Kopi soars 98.86%
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-01-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/23/bursa-malaysia-snaps-winning-streak-oriental-kopi-soars-9886
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia pulled back on Thursday after four consecutive sessions of gains, with sellers dominating the market amid profit-taking activities. The market bellwether, FBM KLCI, closed down 10.6 points, or 0.67%, at 1,577.20, recovering from its intraday low of 1,575.67. The number of decliners on the market significantly outpaced gainers, with 671 decliners to 283 gainers. Traded volume rose to 3.23 billion shares, valued at RM2.75 billion, as profit-taking activities took control.
+
+[NEWS_P002] Among the decliners, Allianz slid 70 sen to RM18.90, Batu Kawan fell 38 sen to RM20.02, Nestle lost 38 sen to RM91 and PIE Industrial declined 16 sen to RM5.08. ACE Market debutant Oriental Kopi surged 98.86%, or 46.5 sen to 87.5 sen and emerged as the top gainer on Bursa Malaysia. It was also the most actively traded counter, with 828.72 million shares changing hands. Other gainers included Carlsberg, which rose 20 sen to RM20.22. Atlan added 20 sen to RM2.70.
+
+[NEWS_P003] F&N gained 18 sen to RM25.80, while Panasonic Manufacturing climbed 14 sen to RM17.50. According to Bursa Malaysia data, foreign investors continued to sell local equities, disposing of RM70mil on Wednesday, while local institutions and retailers bought equities worth RM43mil and RM27mil, respectively. On the external front, Japan’s Nikkei 225 added 0.79% to close at 39,958.87 while South Korea’s Kospi ended 1.24% lower at 2,515.49. Hong Kong’s Hang Seng index was down 0.4% to 19,700.56.
+
+[NEWS_P004] China’s CSI300 index closed up 0.18% at 3,803.74 while the Shanghai Composite index was up 0.51% at 3,230.16 points.

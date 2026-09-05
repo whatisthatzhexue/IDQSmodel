@@ -1,0 +1,16 @@
+[TITLE]
+Kim Loong targets 5% growth in FFB output
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2024-03-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/03/27/kim-loong-targets-5-growth-in-ffb-output
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Kim Loong Resources Bhd is targeting to achieve at least 5% higher fresh fruit bunch (FFB) production for the current financial year ending Jan 31, 2025 (FY25). This is after taking into account the better age profile of young palms productive area and its ongoing replanting programme. In a filing with Bursa Malaysia, the oil palm plantation and milling company said it targets to replant about 1,000 ha in FY25. On its palm oil milling operations, the management targets to achieve a total processing throughput of 1.6 million tonnes of FFB for the current financial year.
+
+[NEWS_P002] “We also expect our biogas plant at Telupid, Sabah, which has commenced supply of power to the grid since December 2023, to contribute positively to revenue as well as profit from FY25.” For the fourth quarter ended Jan 31, 2024, Kim Loong’s net profit dipped to RM24.87mil from RM36.62mil, while revenue declined to RM365.16mil from RM431.82mil a year earlier. Basic earnings per share stood at 2.56 sen versus 3.79 sen previously. Kim Loong said it recorded lower revenue and profit for the quarter under review mainly due to an 8% drop in average FFB selling price, despite a 3% increase in the FFB production for the quarter.
+
+[NEWS_P003] Meanwhile, the company said the lower revenue from the milling operations for the quarter under review was mainly due to an 11% drop in the quantity of crude palm oil sold. For FY24, Kim Loong’s net profit dropped to RM147.71mil from RM162.26mil while revenue fell to RM1.53bil from RM1.91bil previously.

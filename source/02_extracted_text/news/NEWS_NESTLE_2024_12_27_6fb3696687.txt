@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI surges on year-end window dressing, led by TNB's strong gains
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-12-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/27/fbm-klci-surges-on-year-end-window-dressing-led-by-tnb039s-strong-gains
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI surged by midday today, fueled by year-end window dressing activities, in line with the gains seen in most regional markets. The market barometer surged 17.79 points, or 1.1%, to 1,631.49, its highest level since early November 2024. The index hit an intra-morning high of 1,632.63. There were 506 gainers, 412 losers and 508 counters traded unchanged on the Bursa Malaysia. Turnover stood at 1.72 billion shares valued at RM1.16bil.
+
+[NEWS_P002] TA Securities said mild window dressing activities should aid selective key index heavyweights higher ahead of the weekend, while trading activity stay muted due to the year-end holiday season. “Immediate index resistance remains at 1,627, next 1,648, followed by the September peak of 1,675. “Immediate support stays at 1,588, the 38.2% fibonacci retracement (FR) of the 1,529 low (Aug 6) to 1,684 high (Aug 29) rally, with stronger key supports at 1,565, the 23.6% FR level, and then 1,550,” TA said.
+
+[NEWS_P003] Tenaga Nasional (TNB) jumped 82 sen, or 5.78%, to RM15 with 12.51 million shares traded, single-handedly contributing 6.8580 points to the index. It earlier hit a record high of RM15.04. TNB announced that the base tariff of electricity will be raised by 14.2% to 45.62 sen per kilowatt-hour, starting July 1, 2025, under the fourth phase of the regulatory period (RP4) of the incentive-based regulation framework. The current base tariff is set at 39.95 sen/kWh.
+
+[NEWS_P004] Malacca Securities said with the proposed electricity tariff hike by TNB starting July 2025, traders may find trading opportunities in the utilities sector. “On top of that, as TNB was being shortlisted to develop a 500MW solar plant in Kedah under the LSS5 programme, along with the government's recent removal of the 85% demand cap under the self-consumption (SelCo) programme, it presents further upside opportunities in the solar-related counters,” it added.
+
+[NEWS_P005] Other gainers on Bursa Malaysia include United Plantations rose 68 sen to RM31.28, Nestle gained 46 sen to RM98 and Dutch Lady added 40 sen to RM30.38. Among the decliners, Hong Leong Industries slid 22 sen to RM14.22, Scientex lost 14 sen to RM4.43, PETRONAS Dagangan declined 12 sen to RM19.45 and Ajinomoto gave up eight sen to RM15.30.

@@ -1,0 +1,8 @@
+document_id: MDA_2836_CARLSBG_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": false, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+financial dynamics. The four levers are enhancing our portfolio choices, constantly executing with excellence, driving a winning culture, and ensuring sustainable funding for our journey. Each of these levers are supported by priorities that interlock to create value for our stakeholders in our quest to be the most successful, professional and attractive brewer. Our Portfolio Choices, Execution Excellence and Cultivating a Winning Culture We are committed to driving innovation in our product offerings through premiumisation, strengthening our mainstream brands, and accelerating our presence in Alcohol-Free Brews and the Beyond Beer segment. This portfolio innovation is complemented by our unwavering commitment to execution excellence. Here, we focus on excelling at the point of purchase; mastering digital, data,

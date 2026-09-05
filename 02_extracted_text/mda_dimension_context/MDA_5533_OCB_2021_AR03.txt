@@ -1,0 +1,71 @@
+document_id: MDA_5533_OCB_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 15, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Registration No. 195901000114 (3465-H)
+REVIEW OF THE OPERATING ACTIVITIES (cont’d)
+Consumer Foods Division (cont’d)
+Spices & Seasonings Specialities Sdn. Bhd. received the FSSC 22000 certification in August 2021. With this
+certification which is a program under the Global Food Safety Initiative (“GFSI”) and equivalent to ISO 22000,
+demonstrated that the quality standard and food safety control systems are well run and aligned with international
+standards. With this system in place, we would be able to maintain the highest standard of quality and leverage on
+it to expand our customer base particularly, for OEM projects. Operationally, one of the major challenges for Year 2021 was the unprecedented increase in cost of raw materials
+such as soybean oil, palm olein, wheat flour and a host of other ingredients. These inflationary pressures were
+brought about by a combination of factors such as spike in ocean freight, shortage of vessels and containers, delays
+from port shutdowns, poor yield of crops, and shortage of manpower amongst others.
+[MDA_P003]
+This directly impacted the
+Division’s cost of materials and operations which necessitated the increase in consumer selling price across the
+full range of our Noodles and Salad Dressing products. The other main focus of the Plants’ Management was the prevention, control and management of Covid-19 at the
+Plants. Apart from the setting up of the Covid-19 Response Team in 2020, the Plants also practiced social distancing,
+work from home arrangements, virtual meetings, wearing of PPEs, frequent sanitising, temperature monitoring and
+bi-weekly RTK testing. In total, the Plants reported 56 Covid-19 positive cases in 2021. Another change during the year was the shifting of all foreign workers to a hostel in Mantin, Negeri Sembilan in
+compliance with Act 446, Workers’ Minimum Standards of Housing and Amenities Act 1990. Continuing on the digitization plan, the Division also kicked off the e-Purchase Order project which went live in
+August 2021. With this system in place, the system automatically ensures thresholds for approval are adhered to.
+[MDA_P004]
+The date and time are stamped on the purchase orders based on approval, automatic reminder on delivery date
+emailed to supplier, and automatic reminder on overdue delivery emailed to supplier. It has increased efficiency,
+saved time and cost and enabled the Procurement Team to focus on other improvements and cost savings projects. All in all, Year 2021 has been a challenging year for the Division and it foresees that these challenges will persist for
+the first half of 2022 especially, in the areas of commodities inflation and supply chain uncertainties. The Division
+will continue to focus on automation and digitization to be cost-efficient going forward. Bedding Products Division
+The Division has invested in the operations of The KING KOIL Flagship Stores (“Flagship Stores”). Currently, it has
+14 Flagship Stores via a licensing agreement with dealers selling only specific models. In 2021, 1 new Flagship
+Store was opened in Pavilion Bukit Jalil, Kuala Lumpur. As at 31 December 2021, the Division had Flagship Stores in the following locations:
+1. Viva Mall, Kuala Lumpur
+2. Jalan Bangsar, Kuala Lumpur
+3. Sunway Pyramid, Kuala Lumpur
+4. Old Klang Road, Kuala Lumpur
+5.
+[MDA_P006]
+ANNUAL REPORT 2021
+REVIEW OF THE OPERATING ACTIVITIES (cont’d)
+Bedding Products Division (cont’d)
+As at 31 December 2021, the Division has only 1 KING KOIL Concept Store (“Concept Store”) located at Central
+i-City Mall, Shah Alam, Selangor. The main aim of the Concept Store is to further promote brand equity and enhance
+customers’ experience of KING KOIL products. During the year under review, the Division organised a Facebook live show by an influencer to introduce our Galax
+Series mattresses. The Galax Series mattresses were introduced in the third quarter of 2021. Galax Series is a
+compressed Pocket Spring mattress that can be transported in a box (mattress-in-a-box). This range of mattress
+offers a 100-day free trial to customers and comes with a 15-year warranty. The multiple lockdowns that occurred during the Covid-19 pandemic period had seen the unprecedented growth of
+digital and e-commerce. The Division also launched its online store promotion via its own website to cater for this
+segment. The Division will speed up the digital transition to help mitigate the economic downturn brought about
+by Covid-19 pandemic.
+[MDA_P007]
+In 2021, the Division continued to be actively involved in its e-commerce activities by participating in various
+campaigns on both, Lazada and Shopee platforms during special festivities such as:
+1. Chinese New Year Sale
+2. Lazada Birthday
+3. Ramadan Sale
+4. Hari Raya Sale
+5. Mid-Year Sale
+6. Merdeka Sale
+7. 9.9, 10.10, 11.11 and 12.12 Sale
+8. Christmas Sale
+Going forward, the Division will continue to leverage on digital marketing such as digital billboard, online sales,
+Google Ads and others to enhance the brand awareness among Malaysians. In addition to that, the Division will
+continue using traditional marketing such as the print media to reach our audience offline to create awareness
+among the older generation consumers. The Division will continue with its advertising and promotion budget for media spending to create the consumer pull
+and brand building activities. The Division will allocate additional budget into the digital and social media marketing. Social media marketing, such as in Facebook, Instagram, Key Opinion Leaders and other similar applications will
+continue to play an important role in the Division’s marketing activities.

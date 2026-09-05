@@ -1,0 +1,16 @@
+[TITLE]
+Cautious buying on Bursa Malaysia as geopolitical concerns continue
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/20/cautious-buying-on-bursa-malaysia-as-geopolitical-concerns-continue
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's benchmark stock index rose on Thursday, taking its cue from Wall Street as the Federal Reserve affirmed it expected two interest rate cuts for the year. The FBM KLCI gained 4.74 points to 1,522.30 as trading commenced on the domestic market, driven higher by bargain-hunters picking up oversold shares from the previous day's selldown. TA Securities said the overnight rebound on Wall Street should revive the local market, but the undertoned remained cautious given rising geopolitical concerns abroad as well as a lack of domestic positive catalysts.
+
+[NEWS_P002] "Immediate index resistance is retained at 1,550, followed by 1,580, with tougher upside hurdle at 1,605. Immediate support is set at 1,500, with stronger key retracement supports seen at 1,472 and 1,450," it said in its market outlook. Rakuten Trade in its own review said the local bourse remains under pressure due to a lack of domestic catalysts and the flight of funds to Hong Kong. "The Hang Seng Index is bracing for earnings from 38 companies over the next few days, which many are expecting to be good," said the researh firm.
+
+[NEWS_P003] For the FBM KLCI, Rakuten expects the index to hover within the 1,515-1,525 range today. On the blue-chip index, CIMB rose four sen to RM6.97, YTL Power gained seven sne to RM3.34 and Nestle bounced 80 sen to RM64.36. Notable gainers on the broader market included MPI adding 34 sen to RM17.94, United Plantations rising 14 sen to RM21.66 and Vitrox jumping 11 sen to RM3.02. Of actives, Sapura Energy was flat at 4.5 sen, Innature gained 1.5 sen to 23 sen and Pertama Digital rose 2.5 sen to 19.5 sen.

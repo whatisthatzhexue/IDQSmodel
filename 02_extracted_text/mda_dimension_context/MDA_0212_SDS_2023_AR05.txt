@@ -1,0 +1,51 @@
+document_id: MDA_0212_SDS_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 141.355, "paragraph_count": 34, "paragraph_length_distribution": {"max": 1168, "mean": 555.794, "min": 85}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion
+and Analysis
+The Group’s unique
+proposition of wide-
+ranging product
+offerings and options
+on sales channels
+had allowed SDS to
+continue to meet
+the demands of its
+customers. INDUSTRY OVERVIEW
+With the recent changes taking place in the presence of globalisation, sustainability goals and health consciousness,
+businesses are closely being evaluated based on their operational procedures, adaptability and environmental
+impact. World travels, the internet, purchasing power, awareness on nutrition and fast-paced lifestyle are also
+crucial indicators for the food industry. The multiple big trends marked a significant shift and become the catalysts
+in reshaping the industry in this region. It is thus vital for companies such as SDS Group Berhad and its subsidiaries
+(“SDS” or the “Group”) to seize the opportunities in today’s dynamic market. Whilst activities and the economy have returned to normalcy, SDS has been at the forefront to benefit from
+reopening of dine-in restaurants as well as more sales opportunities from all other revenue streams post pandemic.
+[MDA_P009]
+The diversified business model tackling the retail and wholesale segments has proven to be working well for the
+Group in ensuring continued supply of its products to Malaysian customers. The results were also a strong indication
+of its financial discipline and agility to fast decision-making in capitalising on any opportunities.
+[MDA_P018]
+Total assets recorded an increase by 13.1% to RM161.9 million during FY2023 mainly due to higher capital
+expenditures, trade receivables and cash and bank balances from the increase in revenue and net profit. Total
+borrowings on the other hand have reduced significantly by 72.2% from RM17.4 million to RM4.9 million in FY2023
+mainly due to early repayment of term loan and lease liabilities under hire purchase arrangement.
+[MDA_P026]
+Concurrently, the Group expanded its R&D team and facilities to be ahead in meeting the demand for its products.
+The use of warmer display was its latest feature and has garnered good response. Some of the Group’s bakery
+products were sold in warm temperature to improve their attractiveness. Due to the good response, SDS has since
+created new products series specially for warmer display. Other outcome coming from product research include
+ready-to-eat, ready-to-drink, and frozen products as well as sauces. New special menus were also launched during
+festive period together with some new bakery products namely Chocolate Tuxedo Cheese Cake, Fudgy Choco
+Velvet, Snowy Almond Croissant and more.
+[MDA_P034]
+With your full support and faith in
+us, the team at SDS look forward to transforming
+the Group to be more resilient and agile towards
+achieving sustainable success. Our next journey will be towards delivering superior
+delectable bakery products and enjoyable dining
+experience for our customers.

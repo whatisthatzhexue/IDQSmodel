@@ -1,0 +1,89 @@
+document_id: MDA_3662_MFLOUR_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 8, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P003]
+Our Group’s
+Earnings before interest, taxes, depreciation and
+amortisation (“EBITDA”) from continuing operations
+after fair value loss arising from remeasurement of
+contingent consideration receivable and provision
+for profi t guarantee payment of RM77.87 million
+and RM15.00 million respectively, decreased by
+20.6% to RM123.15 million in the current fi nancial
+year as compared to RM155.10 million previously. Review of Operation
+In 2021, in spite of the challenges faced from
+COVID-19 pandemic with several lockdowns in
+the country, rising cost of raw material and low
+utilisation of capacity, our Group’s revenue grew
+by 14.5% to RM2.43 billion mainly due to higher
+sales volume and selling prices. The grains sales
+volume was 18% lower than previous year due to
+the lower demand of feeds. Despite the operating
+losses from the grains business, the performance
+from fl our milling business had more than offset
+the losses resulting in the Group’s operating profi t
+increasing to RM183.25 million.
+[MDA_P004]
+The Group’s share of profi t from the joint venture
+in Indonesia, PT Bungasari Flour Mills Indonesia
+(“BFMI”) amounted to RM8.2 million as compared
+to a share of profi t of RM1.0 million in the preceding
+year. The higher share of profi t is mainly driven by
+increased sales volume and better margins earned. Amidst positive progress in the fl our and grains
+trading segment, we will continue our efforts to
+drive production effi ciency through better fl our
+extraction and blending process. The Group’s share of loss from joint venture, DTSB
+stood at RM10.47 million for the 7 months ended
+31 December 2021. The 12 months results of DTSB
+Group in 2021 amounted to a loss of RM57.27
+million as compared to RM88.42 million in 2020
+mainly due to recognition of deferred tax income of
+RM36.02 million arising from unabsorbed tax losses
+and unutilised capital allowances as compared to
+RM9.22 million in the preceding year. Despite the immense challenges in the poultry
+integration segment in 2021, we are continuously
+implementing progressive efforts to improve feeds
+quality, better farm-house hygiene and higher bio-
+security controls to mitigate future spread of diseases
+and improve broilers quality.
+[MDA_P006]
+ANNUAL REPORT 2021 - Malayan Flour Mills Berhad
+Anticipated or Known Risks
+Food safety and compliance to standards are top
+priorities for us as a food manufacturer as usage
+of fl our and poultry is very wide and diverse and it
+cut across different cultural background, race and
+religion. To ensure our customers and consumers
+can use products produced by us without any
+worry or doubt, we have implemented Hazard
+Analysis and Critical Control Points (“HACCP”) in
+all our manufacturing facilities. At the same time,
+all our products are halal certifi ed by Department
+of Islamic Development Malaysia (“JAKIM”) and are
+subject to annual compliance audit. Due to the nature of the fl our industry which is
+highly dependent on global wheat prices, we will
+continually monitor the global wheat prices to
+ensure that the fl our business continues to remain
+profi table. Due to the nature of the poultry industry which
+faces inherent risk of avian diseases outbreak,
+we are always vigilant in managing our farms with
+comprehensive bio-security measures in place.
+[MDA_P007]
+In summary, we are confi dent that based on our
+track record and leading position in the fl our and
+poultry industries, our Group will be able to mitigate
+such risks with our proactive and preventive
+measures put in place. Outlook and Prospects for 2022
+As food manufacturing is our core business, we are
+responsible to feed people in the countries in which
+we operate but challenges of uncertain global
+economic environment, volatile commodity prices
+and foreign exchange rates arising from COVID-19
+pandemic will have an impact on the Group’s
+performance. Due to these challenges, the Board will be taking
+proactive and preventive measures to mitigate the
+uncertainties on the Group’s performance in 2022. MANAGEMENT DISCUSSION
+AND ANALYSIS (CONT’D)

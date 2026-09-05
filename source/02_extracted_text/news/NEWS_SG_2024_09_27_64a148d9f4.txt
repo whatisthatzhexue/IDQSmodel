@@ -1,0 +1,16 @@
+[TITLE]
+Investors take profit ahead of US economic releases
+
+[METADATA]
+ticker: SG
+company_name: Saudee Group Berhad
+publish_date: 2024-09-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/27/investors-take-profit-ahead-of-us-economic-releases
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia made a cautious start to Friday trading as investors anticipated further US economic data that would offer more insight into the world's largest economy. The benchmark FBM KLCI fell 2.73 points to 1,668.59 at the opening bell, with investors opting to cash out ahead of the weekend. According to Malacca Securities Research, a key factor to watch for will be the strength of the ringgit. Given the slight weakening of the ringgit to RM4.14/US$ from RM4.115/US$, there has been some relief for export-related sectors such as gloves and technology.
+
+[NEWS_P002] However, the research firm said traders should also focus on consumer stocks in view of the elevated ringgit. "In addition, sectors such as construction, building materials, property, and utilities could be worth positioning for ahead of Budget 2025, especially with potential announcements on the KL-SG HSR project. "Following the Invest Malaysia event in Johor, it should boost trading activity in Johor-themed counters," it said. Among blue-chip counters, YTL Power dropped 10 sne to RM3.73m Sunway shed five sen to RM4.23 and Maybank dipped six sne to RM10.60.
+
+[NEWS_P003] Press Metal was up 13 sen to RM5.01. Of actives, JKG Land rose two sen to 12.5 sen, Lambo dropped two sen to 0.5 sen and Zentech was flat at one sen.

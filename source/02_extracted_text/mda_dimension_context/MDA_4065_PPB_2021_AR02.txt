@@ -1,0 +1,81 @@
+document_id: MDA_4065_PPB_2021
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 33, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"audited_or_material_discrepancies": [{"evidence_locator": "[MDA_P004]", "note": "segment revenue: components sum 28511.00, stated total 67200.00, difference -57.57%, status material_discrepancy.", "source_text": "GRAINS AND AGRIBUSINESS SEGMENT The Grains and Agribusiness segment is the largest contributor to Group revenue. This segment comprises Flour Milling, Feed Milling, Corn Trading and Livestock Farming, contributing 78% of the Group’s revenue and 4% of profit in FY2021. FFM Berhad (“FFM”) Group, an 80", "status": "material_discrepancy"}], "document_id": "MDA_4065_PPB_2021", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": true, "num_calculable_changes": 1, "num_consistent_checks": 0, "num_financial_mentions": 114, "num_material_discrepancies": 1, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "weak"}
+selected_paragraphs:
+[MDA_P001]
+Annual Report for a more detailed management discussion and analysis
+of our business operations and performance in FY2021.
+COVID-19 Initiatives
+PPB Group continued to undertake various initiatives to
+support the community during the COVID-19 pandemic.
+We spent a total of RM6 million in 2021 on food products
+for
+20,000
+vulnerable
+recipients;
+medical
+equipment
+requested by hospitals, and items to enhance the
+wellbeing of frontliners. We also provided a total of 149,700
+lunch meals to 2,400 recipients in Seremban, Penang, Johor,
+and the Klang Valley, whilst generating income for more
+than 50 unemployed individuals or struggling operators who
+prepared the meals. In addition, PPB engaged local singers,
+buskers, muralists, home bakers and skilled workers, with
+334 engagements to assist them in earning an income.
+MESSAGES FROM OUR LEADERS
+2021 Annual Repor t
+RISE ABOVE ADVERSIT Y
+[MDA_P002]
+MANAGING DIRECTOR’S REVIEW
+Dear Shareholders,
+The PPB Group performed satisfactorily in 2021 despite the continuing COVID-19 pandemic. Notwithstanding the difficulties faced by our businesses, the Group results remained stable, due
+largely to the contribution from Wilmar International Limited (“Wilmar”). Group revenue was 16% higher at RM4.86 billion (2020: RM4.19 billion), with revenue increase
+in all business segments. Group pre-tax profit was also higher, with a 5% increase to RM1.50
+billion (2020: RM1.42 billion), mainly due to a higher share of results of Wilmar of RM1.50
+billion (2020: RM1.24 billion). “
+“
+Economic and Operating Environment in 2021
+The Malaysian economy registered positive growth of 3.6% in the fourth quarter of 2021. This was supported mainly by improved domestic
+demand as economic activities recovered following the easing of containment measures under the National Recovery Plan (“NRP”). The Group performance improved gradually with our business segments adapting to the new normalcy in line with the NRP. The Grains
+and Agribusiness segment recorded a small profit despite challenging business conditions.
+[MDA_P003]
+Notably, our Film Exhibition and Distribution
+segment had a strong close in the fourth quarter of the year, as the relaxation of COVID-19 standard operating procedures (“SOP”) and
+strong movie title releases mitigated the segment loss. The Group will continue optimising and managing costs, focusing on operational excellence and new business initiatives for additional
+revenue streams. Lim Soon Huat
+Managing Director
+MESSAGES FROM OUR LEADERS
+2021 Annual Repor t
+RISE ABOVE ADVERSIT Y
+FFM Grains and Mills’ flour mill in Pasir Gudang
+[MDA_P004]
+GRAINS AND AGRIBUSINESS SEGMENT
+The Grains and Agribusiness segment is the largest contributor to Group revenue. This segment comprises Flour Milling, Feed Milling, Corn
+Trading and Livestock Farming, contributing 78% of the Group’s revenue and 4% of profit in FY2021. FFM Berhad (“FFM”) Group, an 80% subsidiary of PPB, owns and operates nine flour mills, of which five are located in Malaysia, two in
+Vietnam and one each in Indonesia and Thailand, with a total flour milling capacity of 7,540 MT/day. FFM also has 20% interest in eight
+associates in China, which have a combined flour milling capacity of 18,950 MT/day. FFM also owns and operates five feed mills across Malaysia, with a total milling capacity amounting to 67,200 MT/month. The livestock farming operations comprise a layer farm in Trong, Perak and two breeder farms in Sua Betong, Negeri Sembilan and Gurun,
+Kedah. The production capacity of the Trong layer farm is estimated at 21 million eggs per month, while the breeder farms have a combined
+production capacity of about 3 million chicks per month.
+[MDA_P005]
+Flour Milling
+Animal Feed Milling
+Navigating the Pandemic
+FFM Group’s increased revenue for 2021 was due to the higher
+selling prices and sales volume in both Indonesia and Vietnam. The
+rise in raw materials cost contributed to the increase in selling price
+of flour; a portion of the cost increase being passed to customers. The increase in wheat prices and freight charges has intensified
+market competition, and the price volatility had driven up the
+cost of products. However, we leveraged on our Group’s extensive
+experience in grains procurement, supply chain management and
+technical competency to mitigate the adverse impact of the wheat
+price volatility and supply chain disruption. FFM’s flour milling capacity has increased with the completion of
+its new 500 MT/day wheat flour mill constructed by 51%-owned
+VFM-Wilmar Flour Mills Co Ltd at its existing factory in Quang
+Ninh Province, in northern Vietnam at an estimated cost of
+USD20 million. Looking ahead, the domestic market growth looks more positive
+after the opening of all economic sectors.

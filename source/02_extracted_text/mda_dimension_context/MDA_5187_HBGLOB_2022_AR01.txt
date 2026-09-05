@@ -1,0 +1,70 @@
+document_id: MDA_5187_HBGLOB_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+The following MD&A of the operating performance and financial condition of the Group for the twelve (12)
+months ended 31 December 2022 should be read in conjunction with the Audited Financial Statement for the
+year ended 31 December 2022 and related notes thereto. The information presented in the MD&A, including
+information relating to comparative year in 2021, is presented in accordance with the Singapore Financial
+Reporting Standards (International) [SFRS(I)s], unless otherwise stated. Overview of Business and Objectives
+HB Global Limited (“HBGL”) is principally an investment holding company and currently the Group has one
+wholly owned subsidiary and a 60% owned subsidiary as below:
+100% owned Subsidiary:
+(i) Shandong Hengbao Foodstuffs Co., Ltd. (“SHF”) – the main operation plant situated in China
+75% owned Subsidiary:
+(i) HB Infrastructures and Technologies Sdn Bhd (“HBIT”) – the main operating situated in Malaysia
+Our group’s core activities involve the processing, packaging, and production of a diverse range of ready-to-
+serve foods, frozen vegetables, and other food products through our subsidiaries.
+[MDA_P004]
+ANNUAL REPORT 2022
+HB GLOBAL LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Operation Overview
+HBGL Group’s revenue had decreased by RMB55.4 million or approximately 42% from RMB131.5 million in
+financial year ended 31 December 2021 (“FYE2021”) to RMB76.1 million in financial year ended 31 December
+2022 (“FYE2022”). The decrease was mainly due to decrease in sales of China subsidiary as during FYE2022, there
+was some disruption in the production and supply chain due to lockdown in certain areas of China which have
+been affected with rising Covid 19 cases. The Group incurred a net loss before taxation of RMB 167.1 million in
+FYE2022 as compared to RMB38.5 million in FYE2021. In order to maintain competitiveness in the current market conditions, it is essential for the Group to focus on
+improving its production planning and implementing rigorous quality control measures on its manufactured
+products. The Group is continuously monitoring and enhancing its production lines to ensure optimal efficiency.
+[MDA_P005]
+Operations Review
+HB Global’s expenses are classified into five main components: costs of sales, selling and distribution expenses,
+administrative expenses, other expenses, and finance costs. In the year under review, costs of sales constituted
+the large portion of the Group’s operating expenditure, accounting for 33.1% of total expenses. Given the potential risks posed by currency fluctuations and changing consumer behavior, HBGL has put in
+place effective contingency plans to mitigate such risks. To minimize costs, management has implemented a
+tight control operating model, while also leveraging technology to enhance operational efficiency. Financial Review
+In the financial year ended 31 December 2022 (“FYE2022”), the Group’s revenue declined significantly by RMB55.4
+million or approximately 42% compared to the previous financial year, mainly attributable to reduced sales by
+the China subsidiary. This was due to disruptions in the production and supply chain caused by lockdowns in
+certain areas of China that were affected by the rising number of Covid-19 cases.
+[MDA_P007]
+The decrease in current assets from RMB195.7 million to
+RMB35.6 million was mainly due to the write-off of prepayments related to land use rights in the China subsidiary
+amounting to RMB85.7 million. Furthermore, the cash and bank balances reduced from RMB10.9 million to
+RMB2.2 million, primarily due to the lower revenue and tight margin in major segments of the Group. To maintain its financial stability and competitiveness, the Group will take necessary measures such as
+implementing better cash flow management and improving revenue generation to ensure a positive cash
+balance. Additionally, the Group will also focus on reducing costs by optimizing its operational efficiency,
+enhancing production capacity, and streamlining its supply chain management. By doing so, the Group can
+better allocate its resources and remain financially sound in the challenging market environment.
+[MDA_P008]
+ANNUAL REPORT 2022
+HB GLOBAL LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Business Strategics and Risk Factors
+The Research and Development division of our company is committed to improving our products to meet
+the ever-increasing demands of consumers and to remain competitive in the market. Our focus is on product
+innovation and creativity to develop healthier options that align with consumer preferences while maintaining
+the highest quality standards. Additionally, we are constantly expanding our customer base by exploring new domestic and international
+markets, launching new products, and enhancing our product quality and variety. To adapt to the changing
+landscape of the retail industry, we are also investing in various online shopping initiatives to drive sales. Apart from the above, the Group has also made strategic investments in the upgrading of its factories and
+the acquisition of advanced machineries to enhance its production efficiency, reduce operational costs, and
+increase profitability. These investments have enabled the Group to keep up with the latest technological
+advancements in the industry and maintain a competitive edge over its peers.

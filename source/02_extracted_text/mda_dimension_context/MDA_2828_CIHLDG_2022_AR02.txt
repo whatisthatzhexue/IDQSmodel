@@ -1,0 +1,50 @@
+document_id: MDA_2828_CIHLDG_2022
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_2828_CIHLDG_2022", "has_cost_discussion": true, "has_margin_discussion": true, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 3, "num_consistent_checks": 3, "num_financial_mentions": 58, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "strong"}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION AND ANALYSIS
+Overview Of Group’s Business And Operations
+Company Profile
+The Group is divided into two main divisions, being the Edible Oil Products Division and the Tap and Sanitary Ware Division. The Edible Oil Products Division focuses on exporting vegetable-based edible oil and fat products in consumer pack form, while
+the Tap and Sanitary Ware Division is generally involved in the trading and distribution of sanitary ware and tap fittings to the
+property development and retail markets. Edible Oil Products Division
+The Edible Oil Products Division consists of Continental Resources Sdn Bhd [198801006186 (173543-U)] (“CRSB”) and the
+Palmtop Group (“Palmtop”). CRSB has three (3) plants based in Banting, Klang equipped with twenty three (23) packing lines with a rated packing capacity of
+348,000 metric tonnes of edible oils per annum and thirty seven (37) oil tanks with a total tankage capacity of 4,000 metric tonnes. CRSB also has sixteen (16) Jerry-Can (“JC”) blow-moulding machines with a monthly production capacity of 1 million units of jerry
+cans in various sizes, i.e., 3L, 5L, 10L, 18L, 20L & 25L.
+[MDA_P002]
+Eleven (11) JC machines at Plant 2 and five (5) JC machines at Plant 3. As CRSB manufactures its own jerry cans packaging material, there are cost savings of between up to 5% in terms of costs incurred
+for purchasing packing materials and their logistics costs. These savings are either shared with our customers or serve to improve
+our selling margins. These high-quality jerry cans are packed with cooking oil and exported with very minimal rejections and
+customer complaints. Thus, CRSB is in a more competitive position amongst its competitors in the industry to increase profitability
+and market share. Palmtop, in turn, operates two (2) packing plants in Pasir Gudang, Johor which comprises of Palmtop Vegeoil Products Sdn Bhd
+[199301012218 (266956-P)], PNC Oil Factory (Malaysia) Sdn Bhd [199501042433 (371637-V)] and Continental Palms Pte Ltd,
+a sales & marketing office based in Singapore. It has fifteen (15) packing lines with a rated packing capacity of 316,000 metric
+tonnes of edible oils per annum and thirty seven (37) oil tanks with a total capacity of 4,500 metric tonnes.
+[MDA_P003]
+Tap And Sanitary Ware Division
+The Tap and Sanitary Ware Division currently has one (1) assembly and Quality Assurance (“QA”) plant in Senawang, Negeri
+Sembilan. While the sales and marketing headquarters is located in Damansara Utama, Petaling Jaya, which also functions as
+a distribution centre. The division is committed to service and promote business partnerships with its retail outlets nationwide, leveraging Original
+Equipment Manufacturer (“OEM”) partnerships with local and overseas brands and working closely with major developers and
+government agencies to secure orders. It will also emphasise building materials to increase revenue and focus on stringent control
+on quality for OEM/trading items. Under the respective brands, the division trades various types of building materials such as roof
+tiles, wall and floor tiles, paint, kitchen appliances, precast concrete products and timber plywood through agents. However, as the building materials industry is currently experiencing difficult times, there are plans to sell the Tap and Sanitary
+Ware Division to any party that is keen to expand and tap into the hardware market totalling almost 1,000 dealers.
+[MDA_P004]
+The Group
+will then channel all its effort and resources to further drive the edible oil business growth. Vision
+Our group strives to develop, enhance and create a comprehensive portfolio of consumer brands to enable the generation of
+sustainable profit growth and reasonable investment returns to our shareholders. Principal Activities Of Our Group
+• Blending and packing of vegetable-based edible oils. • Marketing, branding and merchandising of various consumer-packed edible oil products in the domestic and international market. • Trading in a broad range of tap and sanitary ware products. Key Markets
+Asia (including Australasia), Africa and the Middle East regions. Strategies In Creating Value
+• Leveraging core competencies and areas of strategic advantages. • Identifying compelling market opportunities by maintaining abreast of market developments and evolving customer needs. • Offering a broad and compelling portfolio of products and brands tailored to customer needs/wants. • Continual optimisation of business processes. • Providing opportunities for growth and enrichment to our employees, our business partners and the communities in which we operate.
+[MDA_P005]
+ANNUAL REPORT 2022
+C.I.

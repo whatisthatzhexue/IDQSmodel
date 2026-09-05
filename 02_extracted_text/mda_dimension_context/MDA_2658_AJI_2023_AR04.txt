@@ -1,0 +1,211 @@
+document_id: MDA_2658_AJI_2023
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 52, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION & ANALYSIS
+Inauguration of
+Effluent Treatment
+Management
+(SALAM)
+Corporate name
+was changed to
+Ajinomoto
+(Malaysia)
+Sdn Bhd
+Company name
+was changed to
+Ajinomoto
+(Malaysia) Berhad
+as the public
+company
+Commencement of
+AJI-NO-MOTO®
+plant operation
+Awarded HALAL
+Certification
+Establishment
+of ASEAN
+Application
+Centre
+Launch of AJI-SHIO®
+Table Topping
+Seasoning
+• Launch of PAL SWEET®
+Sweetener
+• Launch of Hydrolysed
+Vegetable Protein (HVP)
+Powder
+Launch of
+AJI-PLUS™
+Blended Flavour
+Enhancer
+Launch of
+AJI.MIX™
+Blended
+Seasoning
+Awarded
+ISO 9001
+Certification
+Launch of
+TUMIX® Stock
+Seasoning
+• Launch of
+VONO®
+Instant Soup
+• Launch of
+ACTIVA™ TG
+Series
+Awarded
+OSHAS 18001
+Certification
+50th
+Anniversary
+of Ajinomoto
+(Malaysia)
+Berhad
+Establishment
+of Chicken
+Meat
+Powder Plant
+Hydrolysed
+Vegetable
+Protein (HVP)
+process
+improvement
+Launch of
+Seri-Aji® Menu
+Specific
+Seasoning
+Launch of Slim Up™
+Sweetener
+Awarded
+HACCP
+Certification
+Awarded
+ISO 14001
+Certification
+Launch of
+AJINOMOTO®
+Chicken Stock
+Launch of
+AJI-AROMA™
+Flavour Enhancing
+Seasoning
+Establishment
+of Ajinomoto
+(Malaya)
+Co., Ltd
+Launch of AJI-EKI™
+(Hydrolysed
+Vegetable Protein
+Liquid)
+• Establishment of Production
+2 (seasonings and food
+production line) factory
+• Launch of AJIMATE™ Taste
+Enhancing Seasoning
+• Awarded AJI-NO-MOTO®
+Product Certification
+• Launch of
+Rasa Sifu™
+All in One
+Seasoning
+• Launch of
+aminoVITAL®
+Jellly Flavoured
+Drink with
+Amino Acids
+• Launch of Seri-Aji®
+Fritter Seasoned
+Flour
+• Launch of Seri-Aji®
+Banana Fritter Flour
+Establishment of new
+plant at Bandar Enstek,
+Negeri Sembilan, as a
+'Global
+Customer-Centric Halal
+Food Company'
+• Launch of Seri-Aji® Curry Fried Rice Seasoning
+and Seri-Aji® Chicken Soup Seasoning Powder
+Launch of AJINOMOTO® Chicken Gyoza
+Launch of AJIRISE™ K and AJIRISE™ UM
+Our Business
+History & Milestones
+$MLQRPRWR
+0DOD\VLD
+%HUKDG
+´WKH&RPSDQ\µ
+ÀUVWVWDUWHGLWVEXVLQHVVRSHUDWLRQLQ0DOD\VLDLQ
+DVDPRQRVRGLXP
+glutamate (“MSG”) distributor imported from its parent company in Japan under the brand, AJI-NO-MOTO®.
+[MDA_P003]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W)
+ANNUAL REPORT 2023
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d.)
+Our Policy
+The Company’s Vision is to be a "Global Customer-Centric Halal Food Company" to contribute towards enhancing
+people's food and well-being through our Specialties and Innovative Solutions. It is the Company’s policy to consistently
+develop and distribute high quality and safe food products that meet customers’ needs and satisfaction, and at the
+same time ensure compliance with international and local laws and regulations for food manufacturing. The Company
+also concurrently supports and implements strategies to meet ESG requirements and standards in its business plans and
+policies. CERTIFIED TO MS1500:2019
+REF. NO.: 1092-02/2004
+Malaysian Standard on Halal Food
+General Requirements
+CERTIFIED TO ISO 9001:2015
+CERT. NO.: QMS 00504
+Quality Management Systems
+(“QMS”)
+CERTIFIED TO ISO 14001:2015
+CERT. NO.: EMS 00368
+Environmental Management Systems
+(“EMS”)
+CERTIFIED TO ISO 45001:2018
+CERT. NO.: OHS 00302
+Occupational Health And Safety
+Management Systems
+(“OHS”)
+CERTIFIED TO MS 1480:2019
+CERT.
+[MDA_P004]
+NO.: 53-A4-01757
+Food Safety according to Hazard
+Analysis and Critical Control Points
+System
+(“HACCP”)
+As a responsible employer, the Company is committed to providing a safe and healthy working environment for all its
+employees. Product Range
+Consumer Products
+For the past 6 decades, the Company has continuously strived to develop new products in meeting consumer needs. To-date, the Company has manufactured and distributed a wide range of seasoning and food products which include
+chicken stock, all-in-one seasoning, menu seasoning, pepper, sweetener and jelly drink with amino acids. Recently, the
+Company launched 2 new variants of Seri-Aji® seasoning – Seri-Aji® Curry Fried Rice Seasoning and Seri-Aji® Chicken Soup
+Seasoning Powder to provide simple and convenient cooking with exceptional deliciousness for Malaysian households. The Company has also added a new product category with the launch of Frozen Gyoza, an authentic Japanese cuisine
+which consumers are able to enjoy at home without fuss. The Company will continue to expand and improve its product range with innovative, high quality and convenient
+products to meet changing consumer trends, behaviours and needs.
+[MDA_P010]
+3URÀWIRUWKH\HDULQFUHDVHGIURP50PLOOLRQLQWKHSUHFHGLQJÀQDQFLDO\HDUWR50PLOOLRQLQ)<(GXH
+WR WKH WD[ ZULWH EDFN RI 50 PLOOLRQ LQ WKH FXUUHQW ÀQDQFLDO \HDU 7KH WD[ ZULWH EDFN ZDV DWWULEXWHG WR WKH SULRU
+year’s income tax overprovision of RM3.7 million and deferred tax asset recognition of RM13.8 million for unutilized special
+UHLQYHVWPHQWDOORZDQFHZKLFKLVH[SHFWHGWRRIIVHWDJDLQVWWKH&RPSDQ\·VIXWXUHSURÀWV
+Segment Information
+Consumer Business
+Revenue in Consumer Business segment was RM462.1 million, soared by 33.1% as compared to the revenue of RM347.1
+PLOOLRQLQWKHSUHFHGLQJÀQDQFLDO\HDU7KHLQFUHDVHZDVFRQWULEXWHGE\WKHKLNHLQWKHVDOHVYROXPHDQGWKHEHWWHUVHOOLQJ
+SULFHRI$-,120272LQERWKWKHGRPHVWLFDQGH[SRUWPDUNHWVDVZHOODVVDOHRI780,;LQWKHGRPHVWLFPDUNHW3URÀW
+ZDV50PLOOLRQGHFUHDVHGE\50PLOOLRQDVFRPSDUHGWRWKHSURÀWRI50PLOOLRQLQWKHSUHFHGLQJÀQDQFLDO\HDU
+due to the increase in raw material prices particularly for AJI-NO-MOTO®, computer hardware and software maintenance
+costs and transitional costs from new factory relocation.
+[MDA_P015]
+The Company’s exports and imports of raw materials are denominated in USD. Hence, the Company is exposed
+to exchange risks, especially between the USD and the Malaysian Ringgit and this has impacted the Company’s
+ÀQDQFLDOUHVXOWV
+[MDA_P018]
+Price Fluctuations for Raw Materials and Fuel
+[MDA_P020]
+Food Safety Matters

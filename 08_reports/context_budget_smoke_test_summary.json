@@ -1,0 +1,17 @@
+{
+  "allow_full_scoring": true,
+  "allow_recover_55_dimensions": true,
+  "context_budget_pass": "30/30",
+  "evidence_match": "30/30",
+  "http_success": "30/30",
+  "inner_json_parse": "30/30",
+  "matrix_doc_count": 2,
+  "mock": false,
+  "model_name": "qwen3:8b",
+  "overall_status": "passed",
+  "records_path": "08_reports\\context_budget_smoke_test_records.csv",
+  "repeat_count": 20,
+  "schema_success": "30/30",
+  "score_range_success": "30/30",
+  "total_calls": 30
+}

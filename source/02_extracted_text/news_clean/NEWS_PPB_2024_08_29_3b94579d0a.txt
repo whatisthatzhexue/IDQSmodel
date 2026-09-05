@@ -1,0 +1,16 @@
+[TITLE]
+PPB Group 2Q net profit higher at RM308.919mil
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-08-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/29/ppb-group-2q-net-profit-higher-at-rm308919mil
+confidence_tier: high
+
+[NEWS_P001] KUALA LUMPUR: PPB Group Bhd ’s net profit for the second quarter ended June 30, 2024 (2Q 2024) increased to RM308.919 million against RM202.814 million in the same period last year. Revenue, however, fell to RM1.319 billion from RM1.480 billion previously, the group said in a filing with Bursa Malaysia today. For the first half ended June 30, 2024 (1H 2024), the group recorded a higher net profit of RM646.090 million versus RM580.351 million while revenue slipped to RMRM2.606 billion from RM3 billion previously.
+
+[NEWS_P002] The conglomerate said the lower revenue for 2Q 2024 and 1H 2024 was mainly due to the absence of contribution from its 2023-divested Indonesian flour operations. "Excluding that, revenue for 2Q 2024 and 1H 2024 was relatively unchanged from 2Q 2023 and 1H 2023,” it said. The higher net profit for 2Q 2024 was attributable to a higher contribution of RM244 million from Wilmar International Ltd versus RM139 million in 2Q 2023, and RM510 million in 1H 2024 against RM460 million a year ago.
+
+[NEWS_P003] An interim dividend of 12 sen per share will be payable on Sept 26, 2024. - Bernama

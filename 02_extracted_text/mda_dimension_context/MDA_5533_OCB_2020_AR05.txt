@@ -1,0 +1,60 @@
+document_id: MDA_5533_OCB_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 14, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 105.739, "paragraph_count": 14, "paragraph_length_distribution": {"max": 1198, "mean": 904.071, "min": 34}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P004]
+The plant continuously launched new ranges of
+sauces, which has further broadened our range offerings for both the Food Service and Retail channels. Operationally, the challenge for year 2020 was the increase in wages and cost of raw materials such as soybean
+oil, palm olein and wheat flour. With the increase of the minimum wage to RM1,200 per month per worker, the
+manpower cost was also increased. The Management will continue to automate more production processes to
+reduce dependency on manpower. Spices & Seasonings Specialities Sdn. Bhd. (“Spices”) has implemented barcoding system to improve the accuracy
+and efficiency of its production, delivery and stock management. This helps to automate the traceability process
+from receipt of raw materials through production and delivery of goods to customers. MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P008]
+ANNUAL REPORT 2020
+REVIEW OF THE OPERATING ACTIVITIES (cont’d)
+Bedding Products Division
+The Division invested in the operations of The KING KOIL Flagship stores (“Flagship Stores”). It currently has
+13 Flagship Stores via a licensing agreement with dealers. As at 31 December 2020, the Division had Flagship Stores at the following locations:
+1. Viva Mall, Kuala Lumpur
+2. Jalan Bangsar, Kuala Lumpur
+3. Sunway Pyramid, Kuala Lumpur
+4. Old Klang Road, Kuala Lumpur
+5. Ikano Power Centre, Kuala Lumpur
+6. Jalan Sungai Besi, Kuala Lumpur
+7. Aman Centre, Alor Setar
+8. Gurney Plaza, Penang
+9. Vivacity, Kuching, Sarawak
+10. Imago, Kota Kinabalu, Sabah
+11. Paradigm Mall, Johor Bahru
+12. Mid Valley South Bay, Johor Bahru
+13. Toppen Shopping Centre, Johor Bahru
+The Division had opened its second KING KOIL Concept Store (“Concept Store”) located at Central i-City Mall, Shah
+Alam on 19 September 2020. The main aim of the Concept Store is to further promote brand equity and enhance
+customers’ experience of KING KOIL products.
+[MDA_P011]
+[Registration No. 195901000114 (3465-H)]
+LIQUIDITY AND CAPITAL MANAGEMENT
+The Group maintains a healthy level of cash and cash equivalents and banking facilities from financial institutions
+to fund the Group’s short-term and long-term operation requirements. As at 31 December 2020, the Group’s cash
+and cash equivalents amounted to RM56.7 million, an increase of RM2.4 million from 31 December 2019 mainly
+attributable to net cash generated from operating profit before working capital changes, whereas the Group’s total
+bank borrowings were RM36.9 million compared to RM35.7 million as at 31 December 2019. The Group’s gearing ratio was at 0.21 times as at 31 December 2020 compared to 0.22 times as at 31 December 2019. CAPITAL EXPENDITURE REQUIREMENTS, CAPITAL STRUCTURE AND CAPITAL RESOURCES
+The Group strives to maintain a prudent financial structure to ensure that it has access to adequate capital and
+financing on terms which are favourable to the Group. The Group invested capital expenditure aggregating RM8.1 million in FYE 2020 (FYE 2019: RM5.7 million) to support
+the growth in production capacity.
+[MDA_P014]
+The Yang
+di-Pertuan Agong also declared a state of emergency that will last until 1 August 2021, or earlier if Covid-19 cases
+are effectively lowered. The Group in these critical times will put our best foot forward cautiously to strengthen our existing business and
+to protect our traditional market. But we are prepared to explore and identify potential business opportunities that
+are expected to open up once the Covid-19 pandemic clears up. At the same time we will re-look at streamlining the organization structure, optimize financial and human resources,
+enhance corporate governance and transparency, and improve on efficiency and productivity. On the business
+operations, we will seek and identify business synergies across the Group. This will be an added value to our currently
+diversified business operations and to transform the Company into a high performing and sustainable organization. MANAGEMENT DISCUSSION AND ANALYSIS

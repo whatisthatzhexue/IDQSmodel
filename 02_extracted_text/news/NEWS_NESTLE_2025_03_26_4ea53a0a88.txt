@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI extends gains for second consecutive day
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/26/fbm-klci-extends-gains-for-second-consecutive-day
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed higher on Tuesday, tracking regional gains as investors awaited clarity on impending U.S. tariffs. At 5pm, the 30-stock index closed at 1,518.05, up 0.29% or 4.45 points. The market traded within a range of 11.08 points between an intra-day high of 1,525.73 and a low of 1,514.65 during the session. On the broader market, losers outnumbered gainers by 428 to 399 while 480 counters unchanged. Trading volume stood at 3.11 billion units worth RM2.46bil.
+
+[NEWS_P002] Top gainers on Bursa Malaysia included Nestle which surged RM3.12 to RM72.40, Panasonic Manufacturing which added 60 sen to RM14.02, PETRONAS Dagangan, which gained 50 sen to RM18.90 and Dutch Lady which rose 40 sen to RM28.90. Among the losers, PPB Group slid 16 sen to RM11.54, Heineken fell 14 sen to RM26.90, Kuala Lumpur Kepong lost 12 sen to RM20.70 and Amway declined 10 sen to RM5.16. Newly listed Chemlite Innovation closed down two sen, or 8% at 23 sen with 70.48 million shares traded.
+
+[NEWS_P003] Stock market data showed foreign investors and retailers were net sellers at RM258mil and RM55mil respectively on Tuesday. Local institutions were net buyers at RM314mil. Meanwhile, the ringgit was quoted at 4.4310, up 0.14% against the US dollar. It also rose 0.07% against the Singapore dollar at 3.3140. US West Texas Intermediate crude rose 30 cents to US$69.30 and Brent gained 31 cents to US$73.33 per barrel. Elsewhere in the region, Japan’s Nikkei 225 closed up 0.65%, Hong Kong’s Hang Seng Index rose 0.6%, South Korea’s Kospi gained 1.08%, China’s CSI 300 Index lost 0.33% and Singapore’s Straits Times Index declined 0.28%.

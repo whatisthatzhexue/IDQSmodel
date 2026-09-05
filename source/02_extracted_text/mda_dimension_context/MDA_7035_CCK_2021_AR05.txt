@@ -1,0 +1,45 @@
+document_id: MDA_7035_CCK_2021
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 19, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 125.004, "paragraph_count": 19, "paragraph_length_distribution": {"max": 1138, "mean": 630.158, "min": 60}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+FINANCIAL REVIEW (CONT’D)
+Revenue for the financial year ended 31 December 2021 (“FY2021”) increased by 4.5% to RM685.5 million against
+the corresponding period last year (“FY2020”), a record high for the Group.
+[MDA_P005]
+The Group property, plant and equipment increased marginally by RM1.7 million to RM204.6 million. Notable capital
+expenditure carried out during FY2021 were the purchase of a shoplot in Kuching, the renovation and commissioning
+of four (4) additional CCK Fresh Mart retail stores in East Malaysia. This was funded by a combination of bank
+borrowings and internally generated funds.
+[MDA_P010]
+ANNUAL REPORT // 9
+ANTICIPATED OR KNOWN RISKS
+a.
+Credit Risk
+[MDA_P015]
+Concerns regarding disease and biosecurity at our chicken farms are constantly high on the agenda. The
+economic impact of a disease outbreak in any farm can be catastrophic on CCK’s bottom line. Constant
+monitoring is a compulsory standard operating procedure across all our operations even as we continuously
+innovate and update our biosecurity measures. DIVIDENDS
+CCK has an internal dividend policy of paying up to 30% of the profit after taxation and minority interests whilst taking
+into consideration the level of available funds, the amount of retained earnings, capital expenditure commitments and
+other investment planning requirements. In line with our continued focus on shareholder returns, the Board is pleased to announce a first and final single-tier
+dividend of 1.25 sen per share for the financial year ended 31 December 2021. PROSPECTS
+Looking back at 2021, more than a year since the emergence of Covid-19; Malaysia continued to experience a tough
+and disruptive operating environment due to the extension of the Movement Control Order (“MCO”) and multiple
+lockdowns.
+[MDA_P019]
+The Board and Management teams are therefore constantly striving to mitigate the risks in this challenging and ever-
+changing operating environment. With the various strategies in place and our robust business model, we look forward
+to a full recovery yet are cautious of the risks of Covid-19 and an inflationary economic environment. APPRECIATION
+I would like to record my profound appreciation to my fellow directors on the Board, the management teams and the
+staff of the CCK Group of Companies for all their hard work and dedication. Their commitment and their tireless work
+have made CCK the success it is today. I would also like to acknowledge the support of our shareholders, business
+partners, suppliers and customers and thank you for your continued belief in CCK as we navigate this period together. TIONG CHIONG HIIUNG
+GROUP MANAGING DIRECTOR
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)

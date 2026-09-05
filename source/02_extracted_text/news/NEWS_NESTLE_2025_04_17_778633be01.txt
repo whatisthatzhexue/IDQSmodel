@@ -1,0 +1,16 @@
+[TITLE]
+Losses on Bursa Malaysia limited by optimism over China visit
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-04-17
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/04/17/losses-on-bursa-malaysia-limited-by-optimism-over-china-visit
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Investors on Bursa Malaysia shrugged off a tech-driven slump on Wall Street overnight as news of further Malaysia-China cooperations helped to keep the domestic market on an even keel. At the start of Thursday trading, the benchmark FBM KLCI was down a slight 1.75 points to 1,475.17, as Chinese President Xi Jinping's visit and subsequent investment deals were welcomed by the investor community. "Both countries exchanged 31 MoUs and documents covering investments and collaborations across various sectors, potentially providing positive sentiment for the local market," said Malacca Securities Research in a note.
+
+[NEWS_P002] It added that sectors such as tourism, plantation, technology, and construction may benefit from the signed partnerships. In the background, however, escalating US-China trade tensions continue to weigh on the global economic outlook. Rakuten Trade noted that the FBM KLCI closed lower on Wednesday at almost the 1,475 mark as hopes for a sustainable uptrend evaporated due to the absence of buying interests amid a weak regional performance. "As funds are becoming increasingly “risk-off” with many are opting for gold as a safe haven, we expect the index to hover within the 1,470-1,480 range today," it added in its review.
+
+[NEWS_P003] Stocks that dipped in early trade included F&N down 80 sen to RM25, Nestle dropping 64 sen to RM76.40 and MPI falling 18 sneto RM14.70. Kein Hing rose nine sen to RM1.29, Paragon Globe jumped seven sen to RM2.07 and Petron Malaysia added five sne ot RM3.27. Of actives, Revenue was flat at 9.5 sen, Kinergy Advancement unchanged at 32.5 sen and Aumas was up 2.5 sen to 78.5 sen.

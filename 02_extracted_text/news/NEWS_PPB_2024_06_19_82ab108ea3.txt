@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI to continue consolidation, oil and gold counters rally
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-06-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/19/fbm-klci-to-continue-consolidation-oil-and-gold-counters-rally
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI could be seeing further consolidation above the 1,600 psychological level in the absence of fresh catalysts, said Apex Securities Research. As for the lower liners, the research firm anticipates a similar pattern although bargain-hunting activities may take place over the near term. It said investors will be looking ahead to key economic announcements including US industrial production data, manufacturing production and retail sales data as well as EU inflation rate to gauge any weaknesses within the economy.
+
+[NEWS_P002] "We expect trading interest to flow towards oil and gas stocks with Brent oil prices rising above US$80/bbl. "Meanwhile, the firmer gold prices due to expectation of reduce interest rate may warrant a look onto gold-related stocks," said the research firm in its outlook. Meanwhile, it said the technology sector may also mirror the positive performance on Nasdaq overnight. At the open, the FBM KLCI was up 2.34 points to 1,608.47, as the index continued to move closely to the 14-day simple moving average.
+
+[NEWS_P003] Blue chips with an early lead included Telekom up 16 sen to RM6.97, PPB gaining 12 sen to RM14.62 and PETRONAS Chemicals rising five sen to RM6.56. Gold-related counters were also on the rise, including Poh Kong up six sen to RM1.23 and Tomei gaining four sen to RM1.80. Hibiscus Petroleum climbed four sen to RM2.48 on the back of the increase in crude oil prices. Of actives, KTI was flat at 30 sen, Ingenieur unchanged at seven sen and Dnex up 0.5 sen to 50.5 sen.

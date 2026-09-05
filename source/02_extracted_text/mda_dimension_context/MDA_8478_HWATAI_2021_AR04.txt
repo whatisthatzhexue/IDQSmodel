@@ -1,0 +1,62 @@
+document_id: MDA_8478_HWATAI_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 12, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Certain countries like Thailand, Indonesia and Philippines, saw
+an increase in demand in our biscuits in FYE 2021 but was partially offset by the decline of sales due to lockdown
+in certain countries especially in Middle East due to Covid-19 pandemic. The performance of international market
+would have been better but was affected mainly by the exorbitant freight charges that have gone up few folds. While our export market has room for growth, we may face challenges with more competition as the market is
+getting crowded with more low quality producers surfacing from various other countries, the spread of Covid-19
+pandemic, increase in price of commodities, as well as pushing up the cost of freight horrendously. The higher domestic sales registered in FYE2020 was due to the outbreak of Covid-19 pandemic, Movement
+Control Order (“MCO”) was imposed by the Malaysia Government starting from 18 March 2020 to curb its spread. Malaysians were forced to stay at home for long periods following the imposition of MCO.
+[MDA_P004]
+> HWA TAI INDUSTRIES BERHAD : Annual Report 2021
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+FINANCIAL AND OPERATIONS REVIEWS (CONTINUED)
+The loss reported in FYE2021 was mainly attributed to the Group recording a lower revenue, very much higher
+operating cost mainly caused by rising price of raw materials and packing materials due to continuous increase in
+price of commodities which are major cost components for our products. The Company had on 10 November 2021
+received a notice from the Ministry of Health, Malaysia to temporarily close its factory located at Batu Pahat, Johor,
+Malaysia from 11 November 2021 to 20 November 2021 to curb the spread of the coronavirus Covid-19 infection at
+the said premise. The temporary suspension had further severely dampened the performance of the Group due to
+the delay in delivery of products for both domestic and international sales order.
+[MDA_P008]
+The Group expects to invest broadly the same in the year ahead so as to keep up with technological
+changes where continuous capital expenditure investments are vital to improve efficiency and productivity of our
+factory. BUSINESS STRATEGICS AND RISK FACTORS
+In view of market competition and ever-growing demands from consumers, our Research and Development
+division has continuously focused on product innovation, creativeness on developing healthier choices products
+for consumers, market research in improving our current products to suit consumers preferences without
+compromising on quality. We have been continuously expanding our customer network by penetration to new markets locally and
+internationally, developing and launching new products and also improve our product quality and variety. In line
+with the new norm and e-commerce phenomenon, the Group also is working on various online shopping initiatives
+to drive sales. Apart from the above, the Group has continuously invested in factory upgrading and machineries to improve the
+production efficiency for cost savings.
+[MDA_P009]
+Our factory has been renovated and designed according to food manufacturing
+standards in order to reduce the risk of contamination and facilitate the production of safe finished products. Old factory roof system is removed and reinstalled with new insulated roof system for better manufacturing &
+warehousing environment. The project of conversion of LPG (Liquefied Petroleum Gas) to Natural Gas, as a source
+of burning energy for the production plant which will result in cost savings by approximately 50% was completed
+in previous years. As a player in the food industry, the Group is exposed to the risk associated with product quality and standard
+as product safety and quality are of paramount importance to the Group. The risk may have financial impact as
+well as reputation impact. Comprehensive policies and procedures established on processing, plant & machinery
+sanitisation as well as employee personal hygiene to prevent contamination. Also the products traceability and
+compliance with stringent quality system are in place too. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+[MDA_P010]
+> HWA TAI INDUSTRIES BERHAD : Annual Report 2021
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(CONTINUED)
+BUSINESS STRATEGICS AND RISK FACTORS (CONTINUED)
+Our business risk is mainly from potential labour shortages, low profit margin due to stiff competition, price
+fluctuations of raw materials and changes in consumer demand. These risks may lead to cost increase which will
+affect our profitability if such costs are not able to be passed on to our consumers. To mitigate these risks, our
+management has taken steps such as remaining flexible in sourcing raw materials and packing materials from
+different suppliers to ensure our Group is not overly dependent on a single supplier without compromising its
+product quality. Also, to always update and acquire advanced machineries and improve plant automation to be less
+dependent on labour. Compliance with Food and Beverage Standard and licensing/approval from authorities are
+vital for us as a biscuit manufacturer.

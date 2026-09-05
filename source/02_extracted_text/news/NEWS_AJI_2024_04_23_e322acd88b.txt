@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI ends at near 2-year high
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-04-23
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/23/fbm-klci-ends-at-near-2-year-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI continued its upward trend for the fifth consecutive session, rising to its highest in almost two years. The market bellwether advanced 2.05 points, or 0.13% to 1,561.64, its highest since early June 2022. The index rose 1.7% this month. There were 642 gainers, 402 losers and 507 counters traded unchanged on the Bursa Malaysia. About 3.73 billion shares, valued at RM2.8bil, changed hands. Dealers said the performance was buoyed by buying support from the index-linked counters led by Maybank, IHH Healthcare and CIMB Group .
+
+[NEWS_P002] Maybank added eight sen to RM9.82, pushing the index higher by 1.3915 while IHH Healthcare rose nine sen to RM6.24 boosting the index by 1.1426. CIMB climbed five sen to RM6.67, contributing 0.7695 points to the index. On the broader market, Dutch Lady gained 40 sen to RM33.50, Allianz added 34 sen to RM21.44, PIE rose 25 sen to RM5.90 and Ajinomoto climbed 22 sen to RM19.16. Among the losers, Malaysian Pacific Industries slid 36 sen to RM29.98, Malaysia Smelting Corp lost 19 sen to RM2.82, BAT fell 17 sen to RM8.21 and Pentamaster gave up 16 sen to RM4.14.
+
+[NEWS_P003] ACE Market debutant, Topmix added 11 sen, or 35.48% to 42 sen with 124.87 million shares traded. In terms of fund flows, foreign funds and local institutions were net buyers on Monday, acquiring equities worth RM115mil and RM42mil respectively. Local retailers emerged as net sellers, disposing of RM157mil worth of equities. Meanwhile, the ringgit was quoted at 4.7778, down 0.02% against the US dollar. US West Texas Intermediate crude gained 88 cents to US$82.78 and Brent added 94 cents to US$87.94 per barrel.
+
+[NEWS_P004] Elsewhere in the region, Japan’s Nikkei 225 added 0.3%, South Korea’s Kospi fell 0.24%, China’s CSI 300 index fell 0.7% and Hong Kong’s Hang Seng Index surged 1.92%.

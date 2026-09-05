@@ -1,0 +1,58 @@
+document_id: MDA_5533_OCB_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 32, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+The Board of Directors of OCB Berhad (“OCB” or “the Company”) and the Management are pleased to present
+material non-financial information on OCB and its group of companies (“OCB Group” or “the Group”) to complement
+the detailed information in the Directors’ Report and Financial Statements sections. The Management Discussion
+and Analysis (“MD&A”) will give shareholders and investors an operational commentary of the business of the Group.
+OVERVIEW OF THE GROUP’S BUSINESS AND OPERATIONS
+OCB is an investment holding company. During the financial year ended 31 December (“FYE”) 2023, the Company
+has 4 business operations which are divided into the following divisions:
+[MDA_P010]
+However, retail
+sales dropped 4% to RM50.1 million as compared to RM52.1 million in the FYE 2022. Building Materials Division posted a higher loss before taxation of RM4.8 million in the FYE 2023 as against to a
+loss before taxation of RM4.5 million in the FYE 2022 due to the delay in certain projects, clearance of old stocks
+and coupled with a higher operating expenses ratio. The Group has not adopted any dividend policy. The Board of Directors of the Company (“Board”) annually evaluates
+the Group’s profitability, cash flows position and long-term plans prior to deciding on any dividend payment. The Board has proposed a first and final single-tier dividend of 1.5 sen per share amounting to RM1,542,750 in
+respect of the FYE 2023 (FYE 2022: Nil) for approval by shareholders at the forthcoming Annual General Meeting
+of the Company. The earnings per share of the Company for FYE 2023 was 8.28 sen versus loss per share of 3.51 sen for FYE 2022. Consumer Foods Division
+The Consumer Foods Division registered a revenue of RM199.6 million for FYE 2023 as against a revenue of
+RM157.2 million in the FYE 2022. The increase in revenue was mainly due to the contract of new OEM noodles
+business.
+[MDA_P011]
+Noodles’ sales reported a 58% increase to RM95.9 million as compared to RM60.7 million in the FYE 2022. These were mainly due to a new OEM business and increase customers coverage because of self-distribution. OEM noodles business registered RM29.9 million as compared to RM15.2 million in the FYE 2022. The Division is
+positive on the prospect of this business. Sales of in-house brands noodles also reported an increase of RM20.5
+million to RM66.0 million in the FYE 2023. The salad dressing segment also grew by RM4.2 million or 10% mainly contributed by the increase in selling price
+and more people are eating out as the economy continue to open-up. The sales of trading segment (creamer) increased by RM3.7 million or 7% due to a higher demand from the export
+market. This segment has achieved RM55.9 million sales for FYE 2023 as compared to RM52.2 million in the
+immediate preceding financial year. The sales of seasonings segment, on the other hand, saw a decrease by RM0.3 million or 25% in the FYE 2023
+attributable to a lower repeat orders from the overseas market for the Ready to Cook Curry Paste range.
+[MDA_P013]
+ANNUAL REPORT 2023
+REVIEW OF THE FINANCIAL RESULTS AND FINANCIAL CONDITIONS (cont’d)
+Bedding Products Division
+The Bedding Products Division registered a higher revenue of RM68.8 million and a profit before taxation of RM6.9
+million in the FYE 2023 compared to a revenue of RM67.1 million and a profit before taxation of RM5.5 million in the
+FYE 2022. The higher profit before taxation was mainly attributable to the improvement in sales and product margin. The Division showed an improvement in its domestic project sales to RM18.3 million in the FYE 2023 as compared
+to RM13.6 million in the immediate preceding financial year. The increase was mainly due to increase in activities
+in the domestic scene after the reopening of Covid-19 lockdown. The domestic retail market recorded lower sales of 4% to RM50.1 million after the surge in demand in the previous
+year because of the reopening of the economy and the effect of the pent-up demand. Revenue from export sales dropped to RM0.8 million in the FYE 2023 as compared to RM1.4 million reported for
+FYE 2022 due to the Covid-19 pandemic impact on the overseas’ hospitality segment.
+[MDA_P015]
+The industry suffered
+supply chain disruptions and expect better days as the economy continue opening. REVIEW OF THE OPERATING ACTIVITIES
+Consumer Foods Division
+The Semenyih and Sibu noodle plants have a current combined capacity of 12.0 million pieces of noodles per shift
+per month. For the full year 2023, the Semenyih noodle plant utilised 93% of its daily shift capacity while Sibu plant
+ran at full capacity. The sales of instant noodles surged 58% compared to last year. Domestic market made up 87% of total sales in
+this category. Sales of IBUMIE was again strongly powered by the East Malaysian market which was up 21% year-
+on-year, partly driven by an increase in volume and price. The Division also started production for an OEM label brand of instant noodles which contributed 31% to the
+overall turnover of this product category in Year 2023. Beside the major improvement from existing OEM customers
+business, the Division also managed to secure additional OEM customer during the year. MANAGEMENT DISCUSSION
+AND ANALYSIS

@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia dips, ringgit at six-week high against US dollar
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-10-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/10/29/bursa-malaysia-dips-ringgit-at-six-week-high-against-us-dollar
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia extended its decline on Wednesday, with persistent selling dragging the benchmark index lower as the ringgit climbed to a six-week high against the US dollar. At closing, the FBM KLCI fell for a second consecutive day, slipping 2.02 points to 1,611.54. The benchmark index moved within a 10.58-point range, touching an intraday high of 1,617.02 and a low of 1,606.44. There were 442 gainers, 547 losers and 529 counters traded unchanged on the Bursa Malaysia.
+
+[NEWS_P002] Turnover stood at 2.72 billion shares valued at RM2.37bil. The ringgit strengthened 0.05% to its highest level in about six weeks at 4.1937 against the US dollar. The local unit also rose 0.14% to 3.2361 against the Singapore dollar, 4.8748 against the euro, and 5.5364 against the British pound. On Bursa Malaysia, Malaysian Pacific Industries was the top loser, dropping 50 sen to RM31.12, followed by Bintulu Port, down 21 sen to RM5.05, PETRONAS Dagangan, 16 sen lower at RM22.30, and Ecomate, slipping 11 sen to RM1.41.
+
+[NEWS_P003] Among the gainers, Nestle rose RM2.10 to RM109.20, Malayan Cement added 33 sen to RM6.75, Chin Teck gained 32 sen to RM11.32, and United Plantations advanced 20 sen to RM24.28. Elsewhere in the region, Japan’s Nikkei 225 rose 2.2% to a record high of 51,307.65. South Korea’s Kospi advanced 1.76% to 4,081.15, while Hong Kong’s Hang Seng Index slipped 0.33% to 26,346.14. China’s CSI300 rose 1.19% to 4,747.84, its highest level since January 2022, while the Shanghai Composite added 0.7% to 4,016.33, closing at its strongest since July 2015.

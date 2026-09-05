@@ -1,0 +1,18 @@
+[TITLE]
+Blue-chip buying lifts FBM KLCI as regional markets advance
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-11-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/26/blue-chip-buying-lifts-fbm-klci-as-regional-markets-advance
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The local bourse ended on a stronger footing on Wednesday, supported by buying interest in blue-chip counters that lifted the FBM KLCI. The 30-stock index closed up 12.76 points, or 0.8%, at 1,624.50, just a shade below its intraday high of 1,611.74. It had earlier slipped to an intraday low of 1,614.41. There were 517 gainers, 608 losers and 563 counters traded unchanged on the Bursa Malaysia. Turnover stood at 3.9 billion shares valued at RM3bil.
+
+[NEWS_P002] Dealers said bargain-hunting in selected heavyweights may offer intermittent support, but the broader upside is likely to remain capped as market participants stay defensive. They noted that corporate earnings releases will remain in focus. Among the gainers, Allianz-PA jumped 80 sen to RM19.20, Hong Leong Industries added 64 sen to RM14.98, Allianz rose 46 sen to RM18.54 and Telekom Malaysia climbed 27 sen to RM7.61. On the downside, Kuala Lumpur Kepong slid 44 sen to RM20.60, Malaysian Pacific Industries fell 24 sen to RM32.80, D&O lost 21.5 sen to 87.5 sen and Nestle declined 20 sen to RM109.80.
+
+[NEWS_P003] In terms of fund flows, foreign funds were net buyers on Tuesday, acquiring RM49mil worth of equities, while local institutions and retailers turned net sellers, offloading RM30mil and RM19mil respectively. On the forex market, the ringgit eased 0.08% to 4.1355 against the US dollar and slipped 0.37% to 3.1847 against the Singapore dollar. On the external front, Asian markets ended broadly higher, with Japan’s Nikkei 225 climbing 1.85% and South Korea’s Kospi advancing 2.67%.
+
+[NEWS_P004] Hong Kong’s Hang Seng added 0.13%, while China’s CSI300 rose 0.61%, and the Shanghai Composite Index diverged, slipping 0.15%.

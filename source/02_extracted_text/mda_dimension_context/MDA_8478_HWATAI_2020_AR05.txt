@@ -1,0 +1,51 @@
+document_id: MDA_8478_HWATAI_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 11, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 139.243, "paragraph_count": 11, "paragraph_length_distribution": {"max": 1169, "mean": 861.909, "min": 57}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(Continued)
+[MDA_P003]
+Other income of RM0.50 million in FYE2020 and RM0.94 million in FYE2019 was primarily derived from reversal of
+impairment loss for associate and interests earned on fixed deposits placed at financial institutions for both of the
+financial years. The Group had fully provided the impairment loss on the remaining cost of investment in our China associated
+company, Shan Dong Yingerle Hwa Tai Food Industry Co. Ltd in financial year ended 31 December 2018 (“FYE2018”). The impairment loss arose from prolonged decline in value of investment and significant financial difficulty in the
+associated company. Thus, there will be no material impact on the Group’s results irrespective of the performance
+of the associate neither in FYE2020 or coming years. Should there be any evidence which indicates that the
+performance of the associated company is or will be better than expected, the Group will expect a write back of
+these impairments.
+[MDA_P006]
+HWA TAI INDUSTRIES BERHAD I ANNUAL REPORT 2020
+FINANCIAL POSITION (Continued)
+Included in short term deposits in FYE2019 is an amount of RM4.86 million, which is part of the RM7.00 million
+Right Issue proceeds raised for capital expenditure from our previous corporate exercise in year 2015 as approved
+by our shareholders at our Extraordinary General Meeting held on 12 November 2014. The Board has resolved to extend the utilization of the proceeds to 13 April 2020 and 13 July 2020 as announced
+on 8 April 2019 and 9 April 2020 respectively. The balance of proceeds raised from the Rights Issue amounting to
+RM7.00 million which was earmarked for capital expenses for business expansion which is to be utilized by the
+timeframe of 13 July 2020 is now fully utilized as announced on 15 June 2020. Investment in capital expenditure of approximately RM9.14 million in FYE2020 was primarily comprised of capital
+work-in-progress amounting to RM6.77 million pertaining to the indirect fire convection biscuit line and the remainder
+was mainly on factory upgrading and machineries.
+[MDA_P009]
+ANNUAL REPORT 2020 I HWA TAI INDUSTRIES BERHAD
+BUSINESS STRATEGICS AND RISK FACTORS (Continued)
+Our business risk is mainly from potential labour shortages, price fluctuations of raw materials and changes in
+consumer demand. These risks may lead to cost increase which will affect our profitability if such costs are not able
+to be passed on to our consumers. To mitigate these risks, our management has taken steps such as remaining
+flexible in sourcing raw materials and packing materials from different suppliers to ensure our Group is not overly
+dependent on a single supplier without compromising its product quality. Also to acquire advanced machineries
+and improve plant automation to be less dependent on labour. Compliance with Food and Beverage Standard and
+licensing/approval from authorities are vital for us as a biscuit manufacturer. The management seeks to limit
+these risks by maintaining strict compliance with the terms and conditions imposed by the respective authorities,
+procure raw materials from reputable suppliers which have long standing business relationship with our Group.
+[MDA_P011]
+Local and world economy were badly affected and slowing down, volatility of Ringgit Malaysia against major foreign
+currencies and the impact on volatile raw materials and packaging materials costs. These challenges have thus
+increased our costs of production and customer acquisition. We will constantly focus on improving the Group’s performance through the implementation of proactive measures,
+the innovation of product portfolio, the broadening of our distributor network, enhancing our brand recognition
+and products’ varieties for new business opportunities, cost rationalization, streamlining of resources and the
+enhancement of operational efficiency. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(Continued)

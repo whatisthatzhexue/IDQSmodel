@@ -1,0 +1,121 @@
+document_id: MDA_5187_HBGLOB_2023
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 11, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 144.518, "paragraph_count": 11, "paragraph_length_distribution": {"max": 1198, "mean": 971.455, "min": 227}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+Overview of Business and Objectives
+HB Global Limited (“HBGL”) is principally an investment
+holding company and currently the Group has one
+active wholly owned subsidiary as below:
+100% owned Subsidiary:
+(i) Shandong Hengbao Foodstuffs Co., Ltd. (“SHF”) –
+the main operating plant situated in China
+Our Group specializes in the processing, packaging,
+and production of a wide array of ready-to-serve
+foods, frozen vegetables, and other culinary products
+through our subsidiaries. Over the years, we have
+established ourselves as a leading gourmet convenient
+food specialist in China, equipped with advanced
+food processing technologies such as cleaning,
+slicing/cutting, blanching, boiling, frying, vacuum
+frying, steaming, smoking, stewing, and barbequing. We produce a diverse range of food materials and
+quick-frozen products, primarily catering to the needs
+of our customers and distributors. Additionally, we
+operate as an original equipment manufacturer (OEM)
+for third-party brands.
+[MDA_P003]
+Recognizing that customer
+preferences evolve, we continuously strive to monitor
+and refine our offerings to meet their changing needs. By prioritizing quality, the Group aims to fortify its
+market position and cultivate enduring relationships
+with its customers. Operation Overview
+HBGL Group’s revenue had increased by RMB3.9
+million or approximately 4.9% from RMB76.1 million in
+financial year ended 31 December 2022 (“FYE2022”) to
+RMB80.0 million in financial year ended 31 December
+2023 (“FYE2023”). The increase was mainly due to
+increase in sales of China subsidiary as during FYE2023,
+there was recovery from disruption in the production
+and supply chain due to lockdown in certain areas of
+China which have been affected with rising Covid 19
+cases. The Group had a decrease in net loss before
+taxation to RMB47.9 million in FYE2023 as compared to
+RMB171.0 million in FYE2022. Dear Valued Shareholders,
+The following MD&A of the operating
+performance and financial condition
+of the Group for the twelve (12) months
+ended 31 December 2023 should be
+read in conjunction with the Audited
+Financial Statement for the year ended
+31 December 2023 and related notes
+thereto.
+[MDA_P006]
+Financial Review
+In the FYE2023, the Group’s revenue slightly increase
+by RMB 3.9 million or approximately 4.9% compared
+to the previous financial year, mainly attributable to
+increase sales by the China subsidiary. This shows the
+recovery from disruptions in the production and supply
+chain caused by lockdowns in certain areas of China
+that were affected by the rising number of Covid-19
+cases. In addition, other income in FYE 2023 amounted
+to RMB7.9 million, which was considerably lower than
+the RMB14.1 million recorded in FYE 2022. Furthermore, the Group’s other operating expenses
+decreased from RMB137.3 million to RMB28.5 million,
+mainly due to higher impairment loss provided on
+property, plant and equipment and write off of
+intangible assets and prepayments of land use rights
+in FYE 2022. As a result, the Group incurred a net
+loss before taxation of RMB45.8 million in FYE 2023
+compared to RMB167.7 million in FYE 2022, mainly due
+to significantly lower other operating expenses in FYE
+2023. Financial Position
+As of December 31, 2023, the Company’s net assets
+amounted to approximately RMB162.4 million.
+[MDA_P009]
+ANNUAL REPORT 2023
+HB GLOBAL LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+(cont’d)
+Given our role in the food industry, we are acutely
+aware of the risks associated with product quality and
+safety. To mitigate these risks, we have implemented
+rigorous policies and procedures for processing, plant
+and machinery sanitation, and employee hygiene. Our strict adherence to quality systems and product
+traceability protocols underscores our commitment
+to preventing contamination and ensuring product
+safety. Acknowledging various business risks such as labour
+shortages, fluctuations in raw material prices, logistics
+costs, and national policies, our management team
+has taken comprehensive measures to mitigate
+these issues. These include forming partnerships with
+multiple suppliers, investing in advanced machinery
+and
+automation,
+and
+optimizing
+our
+logistics
+operations through technology solutions and strategic
+negotiations. To address the risk of changing national policies, we
+actively engage with government officials, expand
+operations internationally, and ensure compliance
+with all regulations.
+[MDA_P011]
+Demand is anticipated to further
+strengthen, leading to stabilization in trading volume
+and margins. Looking ahead, the Group is committed to exploring
+new markets and opportunities to enhance revenue
+streams
+and
+product
+competitiveness. While
+uncertainties persist, our proactive approach to
+adapting to changes in the business landscape
+positions us positively for sustained growth. We remain
+hopeful and committed to our strategic goals.

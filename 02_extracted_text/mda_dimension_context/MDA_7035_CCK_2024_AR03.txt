@@ -1,0 +1,118 @@
+document_id: MDA_7035_CCK_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 43, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+Profit Before Tax
+RM 112.03
+million
+Current Ratio
+3.91
+times
+Earnings Per Share
+11.51
+sen
+Revenue
+RM 1,057.65
+million
+Profit After Tax
+RM 71.58
+million
+Total Assets
+RM 767.96
+million
+Total Liabilities
+RM 155.11
+million
+[MDA_P002]
+ANNUAL REPORT | 5
+NUMBER OF RETAIL STORES &
+SUPERMARKETS (UNITS)
+MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d)
+1,200,000
+1,000,000
+800,000
+600,000
+400,000
+200,000
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+PROFIT BEFORE TAX
+RM’000
+REVENUE
+RM’000
+EBITDA
+RM’000
+PROFIT ATTRIBUTABLE TO OWNERS
+OF THE COMPANY
+RM’000
+150,000
+120,000
+90,000
+60,000
+30,000
+100,000
+80,000
+60,000
+40,000
+20,000
+5-YEARS FINANCIAL SUMMARY (CONT’D)
+EPS
+Dividend per share
+5.98
+2.00
+1.25
+3.50
+4.25
+3.50
+3.91
+10.12
+13.35
+11.51
+Retail stores
+Supermarkets
+[MDA_P003]
+CCK CONSOLIDATED HOLDINGS BERHAD
+6 |
+The Management Discussion and Analysis (“MD&A”) is intended to provide the stakeholder with operational and
+financial highlights of CCK Consolidated Holdings Berhad (“CCK” or “the Group”) for the financial year ended
+31 December 2024 (“FY2024”). The MD&A should be read together with the audited financial statements of the Group and Company as set out in this
+Annual Report. INTRODUCTION
+CCK’s business comprises of four (4) segments, namely; retail, poultry, prawn and food service. Business operations
+are carried out primarily in Sarawak, Sabah and Indonesia (Jakarta, Pontianak and Tarakan). The Group employs a
+total of approximately 2,986 employees across all business segments. The Group’s mainstay and core business is the retail segment, which operates retail stores, supermarkets and
+wholesale stores. Since the opening of the first retail store in Sibu in 1970, CCK’s network has grown to seventy-six
+(76) touch points comprising of retail stores and supermarkets across East Malaysia (Sarawak and Sabah). Retail
+stores are operated under the CCK Fresh Mart brand and supermarkets under the CCKLocal brand.
+[MDA_P004]
+CCK Fresh Mart retail stores cater to both businesses and households, carrying a smaller range of strategically
+selected stock keeping units (“SKU”) which are specifically targeted to certain locations and buyer demographics. CCK Fresh Mart retail stores are typically smaller format stores located in both urban and rural areas. CCKLocal supermarkets typically occupy a larger footprint and offer households a wide range of SKUs ranging from
+local and imported food items to general household items. CCK’s wide-reaching retail network is supported by a fully
+integrated supply chain consisting of a feedmill, layer farming, poultry farming and processing, prawn farming and
+processing, and the manufacturing of house-brand food products. As Sarawak’s largest integrated poultry supplier, CCK’s wide-reaching retail network benefits from being vertically
+integrated with the poultry segment. Much like the retail network, CCK’s farm operations and processing facilities
+are also located in Sarawak and Sabah. On a blended basis, fresh dressed chicken and chicken parts make up
+approximately 15% of CCK Fresh Mart retail stores’ SKU.
+[MDA_P005]
+The other 85% of CCK Fresh Mart retail stores’ products
+comprise house-brand and third-party frozen products, seafood products, fresh fruits, and vegetables. REVIEW OF FINANCIAL PERFORMANCE
+Revenue for FY2024 increased by 7.8% to RM1,057.6 million from a year ago (“FY2023”). Revenue growth was
+driven by improved performances from the retail and poultry segments. Notably, higher consumer demand led to a
+better performance in the retail segment whilst higher demand for poultry products from both our institutional clients
+and our own retail stores (intersegment sales) boosted the poultry segment. During FY2024, two (2) new CCK Fresh Mart retail stores were opened in Beaufort in Sabah and in Kanowit in
+Sarawak and one (1) CCK Fresh Mart retail store was closed in Mukah in Sarawak. This brought our retail network
+to sixty-seven (67) CCK Fresh Mart retail stores, three (3) CCKLocal supermarkets and six (6) wholesale stores. This
+gives us a total of seventy-six (76) touchpoints, up from seventy-five (75) as at end FY2023. The retail segment achieved a revenue of RM819.8 million during FY2024, 9.0% higher than FY2023.
+[MDA_P006]
+Growth was
+driven by more matured contributions from our established retail network, higher sales volumes from both the retail
+and wholesale channels, and strong demand for our in-house manufactured processed products in Indonesia. Notably, our Indonesian manufacturing operations was able to cater to the strong demand due to the additional
+production capacity that came on stream in January 2021. Revenue from our Indonesian manufacturing operations
+(Pontianak and Jakarta) amounted to RM212.6 million, accounting for 20.0% of total Group revenue for FY2024. MANAGEMENT DISCUSSION AND ANALYSIS (Cont’d)

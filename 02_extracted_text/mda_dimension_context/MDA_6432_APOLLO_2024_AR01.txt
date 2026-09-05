@@ -1,0 +1,54 @@
+document_id: MDA_6432_APOLLO_2024
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 44, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P012]
+The Group recorded revenue of RM255.27 million for the financial year ended 30 April 2024, a decrease
+of 0.67% as compared to RM257.00 million in the previous financial year ended 30 April 2023. A large
+proportion of revenue was contributed by local market, accounting for 74.16% of total revenue. There
+were no material changes on the sales proportion from previous financial year.
+[MDA_P014]
+The profit after taxation had increased by 71.03% from RM31.65 million as recorded in the previous
+financial year to RM54.13 million. During the financial year, the Group recorded a one-off gain (net of
+tax) on the disposal of investment properties of RM18.66 million, accounting for 34.47% of profit after
+taxation. Excluding the one-off gain, the Group still recorded a commendable 12.08% year-on-year
+growth in profit after tax on the back of improved gross profit margins.
+[MDA_P022]
+RISK OVERVIEW
+[MDA_P023]
+The Group is currently facing a few risk factors that might affect the Group’s profitability. Those risks
+include the following:
+[MDA_P029]
+The Group is sensitive to the evolving consumer preferences and will continue to invest in
+product innovation to remain relevant to our customer base.
+[MDA_P033]
+A large proportion of the Group’s workforce comprises of foreign workers to overcome the
+difficulties in employing local employees. Any future changes to the policies imposed by the
+Malaysia Government on employment of foreign workers will affect the Group’s production and
+consequently, the profitability of the Group.
+[MDA_P038]
+In order to remain competitive going forward, the Group will continue its’ efforts to enhance its core
+operations. Focus remains on increasing efficiency and leveraging on the Group’s strong brand to
+develop new export market and customer segments. Initiatives such as manufacturing space
+rationalisation, upscaling automation and digitalisation to optimise overall productivity and efficiency are
+envisaged to strengthen the Group’s future growth prospects. Additionally, the Group will proactively
+improve it’s distribution and marketing efforts to achieve deeper market penetration while still
+maintaining stringent quality control on the Group’s products.
+[MDA_P040]
+We remain cautious on the outlook for financial year ending April 2025 for both domestic and
+international markets due to uncertainty in global macroeconomics, trade relations, geopolitical events
+as well as rising inflationary environment in which the Group operates in.
+[MDA_P041]
+Price fluctuation of key raw materials supply chain coupled with the weakened Malaysia Ringgit remains
+a key challenge for the Group. Having said that, the Group remains committed to maintaining
+satisfactory results by continuing to enhance operating efficiency and implementing cautious measures
+without compromising product and service quality.
+[MDA_P044]
+In recognition of shareholders’ continuous support, the Board of Directors is pleased to recommend a
+Final Dividend of 5 sen per ordinary share under the single tier system (tax exempt) for the financial
+year ended 30 April 2024. The dividend will be subject to shareholders’ approval at the forthcoming
+Annual General Meeting to be held on 23 October 2024.

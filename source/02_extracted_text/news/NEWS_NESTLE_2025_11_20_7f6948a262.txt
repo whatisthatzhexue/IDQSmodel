@@ -1,0 +1,20 @@
+[TITLE]
+Pay-As-You-Throw policy proposed to reduce waste
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2025-11-20
+source_name: The Star
+url: https://www.thestar.com.my/metro/metro-news/2025/11/20/pay-as-you-throw-policy-proposed-to-reduce-waste
+confidence_tier: low
+
+[NEWS_P001] SELANGOR should implement a “Pay-As-You-Throw” (PAYT) policy to urgently address the increasing volume of waste generated in the state, an assemblyman has proposed. Dr Afif Bahardin (PN-Taman Medan) said the state must be more aggressive in its waste reduction efforts. “We dispose of about seven tonnes of waste in Selangor on a daily basis. “Can we introduce the ‘Pay-As You-Throw’ policy under the Selangor Climate Adaptation Centre (SCAC)?” he asked at the Selangor State Assembly sitting in Bangunan Dewan Negeri Selangor, Shah Alam, yesterday.
+
+[NEWS_P002] Under the PAYT system, the commercial, manufacturing and construction sectors would be charged based on the amount of waste disposed. The system is one of the measures mentioned in the Malaysian government’s Circular Economy Blueprint for Solid Waste (2025-2035). In response to Dr Afif’s question, state public health and environment committee chairman Jamaliah Jamaluddin confirmed that the SCAC was still gathering data to develop its action plan regarding the PAYT policy.
+
+[NEWS_P003] “This is among the issues discussed at the SCAC meeting, which we had in May this year. “We have about 10 projects lined up under SCAC. “Its role is to coordinate between stakeholders, non-governmental organisations and government agencies,” she said. Answering a supplementary question from Dr Afif on the centre’s operations, Jamaliah said the Selangor State Executive Council had approved setting up of SCAC at the end of 2024. “The total cost for the SCAC, which includes six staffing positions for a period of three years, amounts to RM4.38mil,” she said.
+
+[NEWS_P004] She added that the SCAC served as a reference centre and main coordinator for climate change adaptation policies and actions at the state level. Key SCAC initiatives include organising the Selangor State Climate Change Policy Coordination Workshop with 12 local authorities to raise awareness, and the Selangor Recycling (SelKitar) programme in collaboration with KDEB Waste Management and Nestle Malaysia, which is set for implementation across all 12 local councils.
+
+[NEWS_P005] Other programmes include “Sekolah Rakan Bumi” (Earth Partner Schools) for public secondary schools, featuring the Suara Bumi Climate Storytelling Competition and the Rakan Bumi Climate Action Challenge. Additionally, SCAC had collaborated with the Energy Transition and Water Transformation Ministry through the Disaster Risk Reduction and Surge Support programme by the Netherlands government. This programme provided technical support in flood management and nature-based solutions in the Bernam River Basin, specifically in the Sabak Bernam district.

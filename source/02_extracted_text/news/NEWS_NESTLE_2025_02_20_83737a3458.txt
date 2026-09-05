@@ -1,0 +1,18 @@
+[TITLE]
+Selling pressure keeps FBM KLCI in the red amid weak sentiment
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/20/selling-pressure-keeps-fbm-klci-in-the-red-amid-weak-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI recovered some of its losses but remained under selling pressure, reflecting the weaker sentiment seen across most regional markets. The 30-stock index slipped 3.21 points, or 0.2%, to 1,577.67. The index earlier slipped to its intraday low of 1,572.51. Stocks that fell outnumbered those that rose 644 to 347, with another 525 counters unchanged. A total of 3.15 billion shares changed hands, worth RM2.44bil. Data from Bursa Malaysia showed that foreign investors continued to sell local stocks on Wednesday, disposing of RM180mil worth of equities.
+
+[NEWS_P002] Local institutions and retailers were net buyers at RM66mil and RM115mil, respectively. Among the biggest decliners of the day were United Plantations, which lost 66 sen to RM31.24, PETRONAS Dagangan, which fell 64 sen to RM19.26, Kotra, which dropped 30 sen to RM4.20, and Nestle, which slid 26 sen to RM89.74. Malaysian Pacific Industries , the biggest gainer on Bursa Malaysia jumped 44 sen to RM21.40. Heineken rose 30 sen to RM26.78, Dutch Lady added 20 sen to RM30.40 and MISC gained 13 sen to RM7.32.
+
+[NEWS_P003] ES Sunlogy, which debuted on the ACE Market today, closed flat at 30 sen with 143.61 million shares traded. On the forex market, the ringgit rose 0.34% against the US dollar to 4.4280. The local currency also gained 0.33% against the pound sterling to 5.5822 and 0.07% against the Singapore dollar to 3.3068. On the external front, MSCI’s Asia ex-Japan stock index was lower by 0.72%. Japan’s Nikkei 225 fell 1.24% to close at 38,678.04, while South Korea’s Kospi declined 0.65% to 2,654.06.
+
+[NEWS_P004] Hong Kong’s Hang Seng dropped 1.60%, ending at 22,576.98. China’s CSI300 index fell 0.29% to 3,928.90 while the Shanghai Composite Index eased 0.2% to 3,350.78.

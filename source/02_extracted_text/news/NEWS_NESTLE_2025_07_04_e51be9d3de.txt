@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI closes slightly higher ahead of Trump’s trade decision
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-04
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/04/fbm-klci-closes-slightly-higher-ahead-of-trumps-trade-decision
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended slightly higher on Friday, as investors remained cautious ahead of U.S. President Donald Trump’s July 9 tariff deadline. Trump said his administration would begin sending letters to trading partners on Friday, outlining unilateral tariff rates that will take effect on Aug 1. The FBM KLCI closed 1.2 points higher, or 0.08%, at 1,550.19, after reaching an intraday high of 1,551.78. For the week, the benchmark index advanced about 1.4%.
+
+[NEWS_P002] Winners and losers were closely balanced, with 489 gainers and 466 losers, while 509 counters were unchanged. A total of about 3.4 billion shares worth RM2.5bil changed hands. Genting Plantations was the top gainer, rising 22 sen to RM5.23, followed by NationGate, which climbed 11 sen to RM1.78, Heineken, which gained 10 sen to RM25.44, and Hong Leong Industries, which added 10 sen to RM13.52. Conversely, Nestle tumbled RM2.48 to RM77.52, Dutch Lady slipped 54 sen to RM29.14, PETRONAS Dagangan eased 40 sen to RM21.56, and Westports fell 22 sen to RM5.58.
+
+[NEWS_P003] Meanwhile, the ringgit slipped 0.04% to 4.2242 against the US dollar but edged up 0.05% to 3.3154 against the Singapore dollar. Regional markets ended broadly lower, with losses in South Korea, Taiwan, Hong Kong, and Singapore outweighing modest gains in Japan and China. Among the key markets: Japan’s Nikkei 225 gained 0.06% to 39,810.88; South Korea’s Kospi lost 1.99% to 3,054.28; Hong Kong’s Hang Seng Index fell 0.65% to 23,916.06; China’s CSI 300 Index added 0.36% to 3,982.20; Taiwan’s Taiex closed down 0.73% at 22,547.50 and; Singapore’s Straits Times Index fell 0.18% to 4,012.21 points.

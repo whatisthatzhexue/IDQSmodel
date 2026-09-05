@@ -1,0 +1,120 @@
+document_id: MDA_3026_DLADY_2023
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 70, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P004]
+Meanwhile, sustainability KPIs are part of
+Managing Director and Management Team’s annual targets. Our three-year journey towards transition and adoption of
+Integrated Reporting principles, which commenced from
+the reporting cycle of 2022, is currently ongoing. The
+intent is to take a more interconnected approach to
+reporting performance. This means, we are committed to a
+four-year journey starting 2024 to align with the Taskforce
+on Climate-Related Financial Disclosures (TCFD) in line
+with Bursa’s sustainability reporting requirements and the
+new IFRS S1 and S2. SHAREHOLDER AND STAKEHOLDER VALUE
+DLMI strives to maximise value for both shareholders and
+stakeholders through a dedicated and balanced approach
+to risk and performance. Our emphasis is also on
+engagement and fostering valuable relationships with our
+employees, consumers, suppliers, industry and the
+government. Shareholders: We remain committed to delivering shareholder
+returns and to creating value for all stakeholders. On the back
+of a 7.7% revenue growth, DLMI generated an adjusted
+operating profit of RM159.1 million (excluding accelerated
+depreciation and one-offs).
+[MDA_P005]
+For the fiscal year ended 31
+December 2023, a total of RM32.0 million was disbursed as
+standard interim dividends to shareholders, representing a
+44.2% distribution of the Company’s net profit attributable to
+shareholders. Employees: DLMI remained committed to people welfare
+and wellbeing, enabling our talent and catalysing
+both performance and growth. We also continued our
+focus on embracing diversity as a powerful differentiator
+that contributes to real value. Being a multinational
+company, it is important to gain insights and leverage on
+our people who come from various backgrounds, respect
+their strengths and integrate their values into our culture
+as we embark on our journey to become a truly diverse,
+equitable, inclusive and purposive global organisation. I also take pride in the fact that as at 31 December 2023,
+we have 75% female representation on Board and 44% in
+top management. Consumers: Our priority for our consumers is on ensuring
+the accessibility and affordability of our products. Annually,
+we engage with over 3.8 million households (Kantar
+Worldpanel Malaysia – Household Panel, MAT P13 2023).
+[MDA_P012]
+Dear Shareholders and Stakeholders,
+MANAGING
+DIRECTOR’S
+R e p o r t
+60 YEARS OF BUILDING TRUST
+& DAIRY LEADERSHIP
+2023 marked our 60 years of strong dairy
+leadership in Malaysia. For generations, we have
+delivered our promise of quality, healthy, Halal,
+accessible and affordable nutrition. Over the
+years, we earned the trust of our consumers,
+customers, regulators as well as the government. We partnered with them to shape the dairy
+industry landscape in the country and we
+continue to support the national agenda of
+developing Malaysia’s capacity and capability in
+sustainable dairy. I take great pride in my association with
+Dutch Lady Milk Industries Berhad (DLMI),
+which I see as a Malaysian company, with
+international roots; committed to local
+nutritional needs through global nutritional
+standards; working to create local impact
+through cross-market best practices and
+global sustainable development goals. STAYING STRONG TO
+EXTERNAL HEADWINDS
+Market recovery in the post-COVID era, even
+in 2023, has been uneven. Exasperated
+by the turmoil in the global markets due to
+geo-political tensions, war and social chaos,
+markets were plagued by uncertainty.
+[MDA_P014]
+2023 was an important milestone for DLMI.
+As a leading dairy company committed to
+fulfilling the nutritional needs of Malaysians,
+we celebrated our 60th anniversary. We also
+demonstrated our resilient leadership by staying
+strong to external headwinds and delivered
+a profitable year. We remained on track to
+transition to our new state-of-the-art, Halal
+manufacturing facility in Bandar Enstek. Our
+new facility will enable us to double our current
+capacity with immense potential for future
+innovations. We also embarked on a critical
+journey to shape a fit-for-purpose operating
+model and a fit-for-purpose cost structure to
+fuel our future growth in a sustainable manner.”
+RAMJEET KAUR VIRIK
+Managing Director
+| Section | 01 | 02 | 03
+Management Discussion & Analysis – Strategic Review | 04 | 05 | 06 | 07 |
+[MDA_P015]
+Our focus during the year and in early 2024 has been on
+two critical aspects. First was to successfully transition our
+manufacturing facility DLMI@PJ with minimal disruption. The next was to ensure our new IR 4.0 manufacturing
+facility, DLMI@Enstek was being shaped into a full-capacity,
+efficient set-up. This required a careful balancing of
+priorities, resource planning and deployment of well-
+integrated strategies. In the last two quarters, we shifted
+our focus to future-proof our people and business by
+Our Purpose, People, Performance & Potential
+People growth leads to business growth. We
+maintain our emphasis on human capital as critical
+reinforcement into business to drive financial
+performance and reputational equity. Identifying,
+employing, and developing talent is what we do
+best and we continued to accelerate our efforts on
+building our people strength and capability. In 2023, DLMI became the first-ever dairy
+company to be certified as the Top Employer in
+Malaysia. The global authority, Top Employers
+Institute, assesses 20 Topics & 350 People
+Best Practices helping organisations to prioritise
+changes beyond processes, controls and
+operations.

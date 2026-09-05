@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia opens lower as selling pressure weighs on market sentiment
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-11-29
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/11/29/bursa-malaysia-opens-lower-as-selling-pressure-weighs-on-market-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia opened lower in early trade as selling pressure on selected heavyweight stocks dampened overall market sentiment, reflecting cautious investor behaviour. The FBM KLCI fell 9.04 points, or 0.57% to 1,588.60 at 9.10 am. The index opened 1.13 points weaker at 1,596.36 earlier. Among the decliners, Tenaga tumbled 94 sen to RM13.04, Malaysian Pacific Industries lost 22 sen to RM23.40, Time Dotcom declined 12 sen to RM4.73 and PPB Group gave up 12 sen to RM13.16.
+
+[NEWS_P002] Hong Leong Industries rose 26 sen to RM15.06, PETRONAS Dagangan added 24 sen to RM19.70, United Plantations gained four sen to RM30.04 and newly listed Supreme Consolidated climbed 13.5 sen to 38.5 sen. Markets in the United States were shut for the Thanksgiving holiday. Rakuten Trade noted that the FBM KLCI closed below the 1,600 level yesterday as hints of window dressing faded, with foreign funds selling off during the afternoon session. “In view of the weak market undertone, we expect bargain hunting to be muted hence expect the index to hover within the 1,600-1,610 range today,” it said.
+
+[NEWS_P003] Hong Leong Investment Bank Research noted that, given the mixed November results season and persistent outflows by foreign investors, the FBM KLCI is likely to continue its consolidation. Additionally, it said geopolitical tensions, uncertainty about Fed rate cuts, China’s weak growth, and Trump 2.0’s MAGA policy may escalate market volatility and cap any rebound near 1,615-1,625 -1,648 (support: 1,580-1,588) levels.

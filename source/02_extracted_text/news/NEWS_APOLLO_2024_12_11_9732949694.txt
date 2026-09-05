@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit opens flat vs greenback amid cautious sentiment
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-12-11
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/11/ringgit-opens-flat-vs-greenback-amid-cautious-sentiment
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit started the day nearly flat against the United States dollar today, as cautious sentiments surrounding the current economic outlook saw some investors turning to safe-haven assets, according to an economist. At 8 am, the local currency stood at 4.4250/4315 against the US dollar, compared to yesterday’s close of 4.4250/4300. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said local currency markets will continue to trade cautiously ahead of the release of the United States' (US) consumer price index report tonight.
+
+[NEWS_P002] He said at the same time, the focus will be on the US Federal Reserve (Fed) to see whether it will maintain its monetary easing path next year in light of Trump 2.0. “Their quarterly forecast will reveal whether they intend to revise their plans for 2025. The upcoming Federal Open Market Committee meeting next week is about the monetary policy direction for 2025 while the 25 basis point cut has already been priced in,” he told Bernama. As such, Mohd Afzanizam expects the MYR/USD to continue oscillating between RM4.42 and RM4.43 today.
+
+[NEWS_P003] In the meantime, the ringgit traded mostly lower against other major currencies. It weakened versus the British pound to 5.6547/6630 from 5.6432/6496 at the close on Tuesday and depreciated against the euro to 4.6600/6668 from 4.6595/6648 yesterday, but strengthened against the Japanese yen to 2.9143/9187 from 2.9189/9224 previously. Meanwhile, the local unit traded mixed against ASEAN currencies. It traded almost flat against the Singapore dollar at 3.2988/3041 versus 3.2988/3028 yesterday, and performed similarly versus the Indonesian rupiah at 278.7/279.3 from 278.7/279.2 on Tuesday.
+
+[NEWS_P004] The ringgit stood unchanged against the Philippines' peso at 7.63/7.64, but went down versus the Thai baht to 13.1189/1487 from 13.1006/1236 at Tuesday's close. - Bernama

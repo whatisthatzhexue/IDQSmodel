@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI slides amid cautious sentiment, geopolitical concerns
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2025-06-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/19/fbm-klci-slides-amid-cautious-sentiment-geopolitical-concerns
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended in the red on Thursday amid a cautious market undertone, as investors weighed ongoing tensions in the Middle East and the absence of fresh domestic catalysts. The FBM KLCI slid 10.51 points, or 0.7%, to 1,501.40, just above its intraday low of 1,501.38. All indices on Bursa Malaysia ended higher, except for the Bursa Malaysia Real Estate Investment Trust (REIT) Index. Market breadth remained negative with 660 losers outpacing 298 gainers, as 2.82 billion shares worth RM1.7bil changed hands.
+
+[NEWS_P002] Dealers noted a lack of buying interest, as most investors continue to stay on the sidelines. With few catalysts and lingering concerns over the Middle East conflict, conditions on the local bourse are expected to remain subdued. On Bursa Malaysia, Heineken slid 46 sen to RM26.42, PPB Group lost 41 sen to RM9.97, PETRONAS Dagangan fell 38 sen to RM20.98 and Kuala Lumpur Kepong declined 30 sen to RM19.72. Among the gainers, Chin Tek rose 33 sen to RM9.18, F&N added 26 sen to RM28.76, Paragon Union gained 12 sen to RM2.55 and Apollo climbed 11 sen to RM6.50.
+
+[NEWS_P003] According to data from Bursa Malaysia, foreign investors were net sellers of equities, amounting to RM53mil, while local institutions acquired RM17mil and retailers purchased RM36mil on Thursday. Meanwhile, the ringgit was quoted at 4.2595, down 0.16% against the US dollar, but up 0.03% against the Singapore dollar at 3.3086. Major regional indexes finished broadly lower, with Japan’s Nikkei 225 down 1.02% and Hong Kong’s Hang Seng Index losing 1.99%, while South Korea’s Kospi edged up 0.19%.
+
+[NEWS_P004] China’s CSI 300 Index fell 0.82%, and the Shanghai Composite Index closed 0.79% lower.

@@ -1,0 +1,20 @@
+[TITLE]
+Rising tourism brightens consumer sector outlook
+
+[METADATA]
+ticker: SPRITZER
+company_name: SPRITZER
+publish_date: 2025-02-19
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/19/rising-tourism-brightens-consumer-sector-outlook
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: The consumer sector outlook remains optimistic, backed by strong government initiatives, including a RM550mil allocation for tourism promotion in Budget 2025 and the extension of visa-free travel for Chinese tourists until 2026. According to MIDF Research, the Visit Malaysia Year 2026 campaign, which targets 35.6 million arrivals and RM147.1bil in receipts, further reinforces long-term growth prospects of the sector. “The sustained tourism recovery is expected to fuel stronger consumer activity, benefiting key sectors such as food and beverage (F&B), retail and convenience stores.
+
+[NEWS_P002] “Increased tourist inflows bode well for F&B players like Spritzer Bhd , which is set to benefit from higher demand for bottled water,” it added. The research house said Oriental Kopi Holdings Bhd was poised to gain from increased foot traffic at its urban outlets and tourist-heavy locations, capitalising on growing interest in local cuisine. Meanwhile, it reckoned that convenience stores like Family Mart which are operated by QL Resources Bhd stood to benefit from heightened demand for on-the-go meals, beverages and travel essentials.
+
+[NEWS_P003] “As airport traffic edges closer to pre-pandemic levels and government initiatives continue to attract more international visitors, the consumer sector remains well-positioned for sustained growth, reinforcing its role as a key beneficiary of Malaysia’s tourism resurgence,” MIDF Research added. Malaysia’s retail trade maintained a robust pace, growing 5.4% year-on-year (y-o-y) in December 2024 to RM65.8bil, bringing cumulative consumption to RM764.9bil in 2024, up from RM720.8bil in the previous year and RM661.1bil in 2022, primarily driven by strong growth in F&B, tobacco, and others in specialised stores.
+
+[NEWS_P004] Resilient labour market conditions further supported retail sales, with the unemployment rate dropping to 3.1%, marking a near decade low. This improvement was further supported by a steady rise in the labour force participation rate, which edged up to 70.6% in December 2024. Headline consumer price index (CPI) inflation moderated to 1.7% y-o-y, while core inflation eased to 1.6% y-o-y in December 2024, following three months of stagnation at 1.8% y-o-y.
+
+[NEWS_P005] “This signals that underlying demand pressures are contained, fostering a stable environment for sustained consumer purchasing power,” the research house said. It added that the delayed RON95 subsidy rationalisation, expected to take effect in mid-2025, continued to provide relief to consumers, with subsidies for 85% of the population cushioning the potential impact of rising fuel prices on household spending.

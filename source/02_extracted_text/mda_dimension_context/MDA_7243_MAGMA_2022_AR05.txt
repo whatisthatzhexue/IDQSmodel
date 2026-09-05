@@ -1,0 +1,31 @@
+document_id: MDA_7243_MAGMA_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 47, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 100.293, "paragraph_count": 47, "paragraph_length_distribution": {"max": 744, "mean": 261.383, "min": 5}, "repetition_ratio": 0.021277, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+1.
+FINANCIAL REVIEW
+[MDA_P012]
+Note:
+[MDA_P024]
+(a)
+Changes in Economic Environment and Natural Disasters
+[MDA_P036]
+The assets of the Group are required to be up-to-date and in good working condition to ensure smooth
+running operations. This means that the Group’s assets may incur further costs as it may be subject to
+redevelopments, renovation works and ad hoc maintenance and repairs. These costs usually increase over
+time.
+[MDA_P047]
+While these factors are beyond the Group’s control, the Group mitigates such risk by ensuring compliance
+with the relevant laws and regulations and conditions that are enforced and that the relevant licenses are
+obtained and renewed on a timely basis.
+MANAGEMENT DISCUSSION
+& ANALYSIS
+(cont’d)
+Impiana Hotels Berhad [Registration No. 200601021085 (740838-A)]

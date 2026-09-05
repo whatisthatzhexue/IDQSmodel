@@ -1,0 +1,78 @@
+document_id: MDA_4707_NESTLE_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 21, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 207.176, "paragraph_count": 21, "paragraph_length_distribution": {"max": 1187, "mean": 1015.048, "min": 189}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+“Through the significant external challenges confronted in 2024, Nestlé Malaysia remained focused on consistently delivering on
+our mission to provide high-quality nutrition, foods and beverages through our vast range of products, all Halal-certified, sold under
+trusted brands, and proudly made in Malaysia, by Malaysians. As we have done throughout our 112 years in Malaysia, we continued
+to adapt, innovate and, above all, stay true to our purpose of being a positive force in the life of the nation, creating shared value for all
+our stakeholders and leading industry action towards building a more sustainable future.“
+Juan Aranols
+Chief Executive Officer
+Business, Financial & Operational Review
+The defining element of the operating environment in 2024 was the unfavourable
+sentiment and hesitancy towards international brands triggered by global
+events. This was compounded by constrained consumer purchasing power and
+persistent volatility in food-related commodity costs, impacting the cost of living
+for many Malaysian families.
+[MDA_P006]
+This HCL certification currently encompasses,
+among others, 100% of our MILO powder and mixes range, where we have
+been able to significantly reduce the sugar content while still providing all
+the nutrition and taste that only MILO can deliver. This includes the MILO
+Intense Dark Chocolate launched in 2024, offering an equally nutritious
+option with a richer and more indulgent taste. Local origins were another area of focus with the addition of KIT KAT Dark Borneo, the first product from our Nestlé
+Borneo Cocoa Initiative, in partnership with the Malaysian Cocoa Board, that aims to accelerate the development of
+sustainable cocoa farming in Sabah and Sarawak. This secures a localised supply chain of responsibly-produced raw
+ingredients, while we elevate the living conditions of the rural communities involved. Many other meaningful portfolio additions occurred in 2024. The KIT KAT Chocolate Drink made its debut as a first-
+of-its-kind product created and produced in Malaysia, 100% Halal-certified and made with sustainably sourced cocoa.
+[MDA_P011]
+Some examples of major activities that helped to power up positive sentiments
+toward Nestlé brands were the following:
+•
+The NESTLÉ OMEGA PLUS Walk a Million Miles campaign once again
+encouraged awareness and action for heart health, promoting healthier
+lifestyles. In its fifth edition since the adoption of digitally enabled tools, we
+rallied a record 30,622 Malaysians who collectively achieved over 2.1 million
+miles, doubling the campaign's target. •
+MILO's long-standing efforts in spearheading grassroots sports development
+were further strengthened through our support for Malaysia's Olympic and
+Paralympic athletes. Contributing RM10,000 to each of the 56 national
+athletes representing Malaysia at the 2024 Paris Olympics and Paralympic
+Games, this initiative was aimed at celebrating their dedication and inspiring
+future generations of athletes. •
+The MAGGI Sah Malaysia Carnival brought communities together in 2024
+for yet another year of celebration of Malaysian culinary heritage. Reflecting
+the brand's five-decade legacy, the event attracted over 30,000 attendees
+through interactive experiences and cooking demonstrations, amongst other
+activities.
+[MDA_P016]
+•
+Our reforestation efforts gained further momentum on account of Project RELeaf, which
+plays a vital role in reducing carbon emissions and enhancing biodiversity conservation. With
+over 2 million trees already planted, we are on a good track to complete the 3 million trees
+in the scope of this project. Additionally, we launched the RELeaf Education Programme,
+engaging with schoolchildren to instil a deeper appreciation for environmental stewardship
+and sustainable practices from a young age. •
+Project SAVE, the Nestlé-led voluntary Extended Producer Responsibility (EPR) programme,
+yielded significant results in 2024, recovering over 13,500 tonnes of post-consumer
+packaging waste. After successfully covering all major cities in Selangor, we piloted the Door-
+to-Door Collection & Recycling programme in Penang Island, encouraging active community
+participation in recycling. Following the signing of an MOU at the end of the year, we are set
+to accelerate the rollout of the programme in 2025.
+[MDA_P021]
+Conclusion
+As we move past 2024, indicators of improving consumer sentiment provide encouraging signs of
+recovery, reconfirming we are on the right path towards returning to healthy growth levels in 2025
+and Nestlé Malaysia’s historic growth trajectory. We will remain relentlessly focused on providing
+the most complete portfolio of high-quality, great-tasting Halal products commercialised under
+trusted brands through the widest and most extensive sales and distribution network, supported by
+a dynamic organisation driven by our purpose of enhancing the lives of Malaysians and making a
+positive impact on society and the planet. With Malaysia as a key Halal hub for Nestlé globally, we
+are firmly committed to driving this and sustainably building on these strong foundations.

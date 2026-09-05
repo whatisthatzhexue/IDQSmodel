@@ -1,0 +1,154 @@
+document_id: MDA_2658_AJI_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 36, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Our Business
+History & Milestone
+Ajinomoto (Malaysia) Berhad (“the CompanyȄǼȱ ȱȱę¢Ȭȱ¢ȱȱȱŗşŜŗȱ ȱȱȱȱȱȱȱ
+monosodium glutamate (“MSG”) under the brand, AJI-NO-MOTO®, which was imported from its parent company in Japan. In
+1965, the Company commenced its own production of MSG and subsequently other food seasoning products at its current factory.
+The Company is one of the early Japanese companies to be set up in Malaysia and has since established itself as a responsible and
+dynamic food manufacturer and distributor for a variety of trusted food seasoning products including AJI-NO-MOTO® Umami
+seasoning, a well-established household name.
+[MDA_P002]
+Inauguration of
+Effluent Treatment
+Management
+(SALAM)
+Corporate name
+was changed to
+Ajinomoto
+(Malaysia)
+Sdn Bhd
+Company name
+was changed to
+Ajinomoto
+(Malaysia) Berhad
+as the public
+company
+Commencement of
+“AJI-NO-MOTO”
+plant operation
+Awarded HALAL
+Certification
+Establishment
+of ASEAN
+Application
+Centre
+Launch of
+“AJI-SHIO”
+Table Topping
+Seasoning
+ Launch of “PAL SWEET”
+Sweetener
+ Launch of Hydrolyzed
+Vegetable Protein (HVP)
+Powder
+Launch of
+“AJI-PLUS”
+Blended Flavour
+Enhancer
+Launch of
+“AJI-MIX”
+Blended
+Seasoning
+Awarded
+ISO 9001
+Certification
+Launch of
+“TUMIX” Stock
+Seasoning
+ /DXQFK RI 
+“VONO”
+Instant Soup
+ /DXQFK RI 
+“ACTIVA” TG
+Series
+Awarded
+OSHAS 18001
+Certification
+50th
+Anniversary
+of Ajinomoto
+(Malaysia)
+Berhad
+Establishment
+of Chicken
+Meat
+Powder Plant
+Hydrolysed
+Vegetable
+Protein (HVP)
+process
+improvement
+Launch of
+“SERI-AJI” Menu
+Specific
+Seasoning
+Launch of “Slim
+Up” Sweetener
+Awarded
+HACCP
+Certification
+Awarded
+ISO 14001
+Certification
+Launch of
+“Ajinomoto
+Brand”
+Chicken Stock
+Launch of
+“AJI-AROMA”
+Flavour Enhancing
+Seasoning
+Establishment
+of Ajinomoto
+(Malaya)
+Co., Ltd
+Launch of “AJI-EKI”
+(Hydrolyzed
+Vegetable Protein
+Liquid)
+ Establishment of Production
+2 (seasonings and food
+production line) factory
+ Launch of “AJIMATE” Taste
+Enhancing Seasoning
+ Awarded “AJI-NO-MOTO”
+Product Certification
+ Launch
+"Rasa Sifu"
+All in One
+Seasoning
+ Launch
+"aminoVITAL"
+Jellly Flavoured
+Drink with
+Amino Acids
+[MDA_P003]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W)
+ANNUAL REPORT 2020
+Our Policy
+As an established and trusted food seasoning company in Malaysia, it is the Company’s policy to consistently develop and distribute
+high quality and safe food products that meet customers’ needs and satisfaction, and at the same time comply with international
+and local laws and regulations for food manufacturing. This is the Company’s contribution to the joyful and healthy living of the
+community and society. ȱ ¢ȱȱĴȱȱȱȱ¡¢ȱȱ£ǯȱ ȱȱȱȱȱěȱȱȱȱǰȱ
+an integral component of the business ecosystem. As a responsible employer, the Company is dedicated to providing a safe and
+healthy workplace for all its employees. Product Range
+Consumer Products
+From distributing a single product, namely, AJI-NO-MOTO® Umami seasoning in 1961, the Company, today, manufactures and
+distributes a wide range of seasoning and food products. This includes chicken stock, all-in-one seasoning, menu seasoning for local
+dishes, and sweetener.
+[MDA_P019]
+Ź Once the bag is opened, use all otherwise tightly seal and
+[MDA_P034]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W)
+ANNUAL REPORT 2020
+Sales Branches & Overseas Market
+ ȱ ¢ȱȱŗŖȱȱȱ ¢ȱȱŗȱȱĜȱȱ ȱ ǯ
+[MDA_P036]
+Management Discussion & Analysis (cont’d.)

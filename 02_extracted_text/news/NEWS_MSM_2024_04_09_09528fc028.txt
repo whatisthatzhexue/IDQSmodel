@@ -1,0 +1,18 @@
+[TITLE]
+Ringgit closes higher against US dollar ahead of US CPI data
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2024-04-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/09/ringgit-closes-higher-against-us-dollar-ahead-of-us-cpi-data
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit ended the day higher against the US dollar as market players await the United States (US) consumer price index (CPI) data for March on Wednesday, said an analyst. At 6 pm, the ringgit rose to 4.7455/7500 against the US dollar from yesterday’s closing of 4.7505/7545. Bank Muamalat Malaysia Bhd chief economist Mohd Afzanizam Abdul Rashid said the headline and core CPI is expected to come in at 3.4 per cent in March versus 3.2 per cent in February and 3.7 per cent in March versus 3.8 per cent in February respectively, based on consensus estimates.
+
+[NEWS_P002] "It seems that the thought of three rate cuts in the US this year could be revisited in light of the recent strong job growth in March. "Additionally, if the inflation rate would take its own sweet time to reach the two per cent target, the more reason the Federal Reserve would need to stay vigilant on the risk of higher inflation especially when crude oil prices remain elevated. As such, the ringgit may weaken in the near term,” he told Bernama. At the close, the ringgit was traded lower against a basket of major currencies except the Japanese yen.
+
+[NEWS_P003] It strengthened vis-a-vis the Japanese yen at 3.1255/1287 from 3.1278/1306 at Monday’s close, but depreciated against the euro to 5.1565/1614 from 5.1434/1477 and weakened versus the British pound to 6.0173/0230 from 5.9980/0030 previously. The ringgit was traded mixed against ASEAN currencies. It was lower versus the Thai baht at 13.0500/13.0678 from 12.9434/12.9596 on Monday and fell against the Singapore dollar to 3.5262/5298 from 3.5202/5234 previously.
+
+[NEWS_P004] The local note inched up vis-a-vis the Indonesian rupiah to 299.3/299.8 compared to 299.7/300.1 at yesterday’s close and was flat versus the Philippine peso at 8.41/8.42. - Bernama

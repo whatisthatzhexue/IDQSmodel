@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI steadies above 1,580 as market awaits 1Q GDP release
+
+[METADATA]
+ticker: KAWAN
+company_name: Kawan Food
+publish_date: 2025-05-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/15/fbm-klci-steadies-above-1580-as-market-awaits-1q-gdp-release
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI clawed back into positive territory after an initial dip at opening, supported by easing trade tensions between the world’s two largest economies, which left Wall Street indexes mixed on Wednesday. The FBM KLCI edged up 1.08 points, or 0.07%, to 1,584.59 at 9.14 am, after opening 0.76 of a point lower at 1,582.75. Overnight, the Dow Jones Industrial Average fell 0.21% to 42,051.06. The S&P 500 gained 0.10%, to 5,892.58, while the Nasdaq Composite gained 0.72% to 19,146.81.
+
+[NEWS_P002] Rakuten Trade believes the index may re-test the 1,600 mark soon, thus expects it to hover within the 1,580-1,590 range today. The research house noted that the FBM KLCI ended slightly higher yesterday, managing to close positively despite the marginal gain. This was likely driven by continued bargain hunting from foreign funds, as reflected by net foreign inflows of nearly RM935mil over the past two days. Among the gainers on Bursa Malaysia, Nestle jumped 58 sen to RM85.38, Malaysian Pacific Industries rose 32 sen to RM21.64, F&N added 18 sen to RM26.90 and Batu Kawan gained 10 sen to RM19.
+
+[NEWS_P003] Allianz slid 22 sen to RM19.26, PETRONAS Dagangan fell 22 sen to RM20.32, JcbNext lost 13 sen to RM1.55 and LPI Capital declined six sen to RM14.40. Inter-Pacific Research said market players may be waiting for the release of Malaysia’s first quarter 2025 GDP data tomorrow to assess the impact of tariffs on the economy. However, the effect is expected to be relatively mild due to frontloading and sustained domestic activity. “As such, the FBM KLCI could revert to a mostly sideways trend for now as it looks to stay above the 1,580 level with the ensuing resistances at the 1,586-1590 levels, followed by the psychological 1,600 level.
+
+[NEWS_P004] The supports, meanwhile, are at 1,575 points and 1,565 points respectively,” it said.

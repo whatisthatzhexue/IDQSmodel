@@ -1,0 +1,59 @@
+document_id: MDA_8478_HWATAI_2020
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 11, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P007]
+The Group expects to invest broadly the same in the year ahead
+so as to keep up with technological changes where continuous capital expenditure investments are vital to improve
+efficiency and productivity of our factory. BUSINESS STRATEGICS AND RISK FACTORS
+In view of market competition and ever-growing demands from consumers, our Research and Development
+division has continuously focused on product innovation, creativeness on developing healthier choices products
+for consumers, market research in improving our current products to suit consumers preferences without
+compromising on quality. We have been continuously expanding our customer network by penetration to new markets locally and
+internationally, developing and launching new products and also improve our product quality and variety. In line
+with the new norm and e-commerce phenomenon, the Group also is working on various online shopping initiatives
+to drive sales. Apart from the above, the Group has continuously invested in factory upgrading and machineries to improve the
+production efficiency for cost savings.
+[MDA_P008]
+Our factory has been renovated and designed according to food manufacturing
+standards in order to reduce the risk of contamination and facilitate the production of safe finished products. Old factory roof system is removed and reinstalled with new insulated roof system for better manufacturing &
+warehousing environment. The project of conversion of LPG (Liquefied Petroleum Gas) to Natural Gas, as a source
+of burning energy for the production plant which will result in cost savings by approximately 50% was completed
+in FYE2018. As a player in the food industry, the Group is exposed to the risk associated with product quality and standard
+as product safety and quality are of paramount importance to the Group. The risk may have financial impact as
+well as reputation impact. Comprehensive policies and procedures established on processing, plant & machinery
+sanitization as well as employee personal hygiene to prevent contamination. Also the products traceability and
+compliance with stringent quality system are in place too. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(Continued)
+[MDA_P009]
+ANNUAL REPORT 2020 I HWA TAI INDUSTRIES BERHAD
+BUSINESS STRATEGICS AND RISK FACTORS (Continued)
+Our business risk is mainly from potential labour shortages, price fluctuations of raw materials and changes in
+consumer demand. These risks may lead to cost increase which will affect our profitability if such costs are not able
+to be passed on to our consumers. To mitigate these risks, our management has taken steps such as remaining
+flexible in sourcing raw materials and packing materials from different suppliers to ensure our Group is not overly
+dependent on a single supplier without compromising its product quality. Also to acquire advanced machineries
+and improve plant automation to be less dependent on labour. Compliance with Food and Beverage Standard and
+licensing/approval from authorities are vital for us as a biscuit manufacturer. The management seeks to limit
+these risks by maintaining strict compliance with the terms and conditions imposed by the respective authorities,
+procure raw materials from reputable suppliers which have long standing business relationship with our Group.
+[MDA_P010]
+In addition, the Group is also exposed to interest rate and liquidity risk as most of our borrowings are based on
+floating interest rates, where any fluctuation in interest rates could lead to higher borrowing costs which will again
+affect the profitability of the Group. We are not able to fully eliminate the risk of interest rate fluctuation faced and
+notwithstanding this, the Group will carry out periodic reviews of cashflow position and funding requirements to
+manage our exposure to adverse movements in interest rates. DIVIDEND
+The Board of Directors is not recommending any dividend in FYE2020. OUTLOOK AND FUTURE PROSPECTS
+We are cautiously optimistic at this juncture on the Covid-19 pandemic, optimism for economic recovery is
+gathering momentum in Malaysia beginning with the arrival of the Covid-19 vaccines targeting immunizing 70% of
+our population by the first quarter of 2022. Moving forward, we anticipate the year ahead to remain difficult and challenging amidst the Covid-19 outbreak.
+[MDA_P011]
+Local and world economy were badly affected and slowing down, volatility of Ringgit Malaysia against major foreign
+currencies and the impact on volatile raw materials and packaging materials costs. These challenges have thus
+increased our costs of production and customer acquisition. We will constantly focus on improving the Group’s performance through the implementation of proactive measures,
+the innovation of product portfolio, the broadening of our distributor network, enhancing our brand recognition
+and products’ varieties for new business opportunities, cost rationalization, streamlining of resources and the
+enhancement of operational efficiency. STATEMENT OF MANAGEMENT DISCUSSION & ANALYSIS
+(Continued)

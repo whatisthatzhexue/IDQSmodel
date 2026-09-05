@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Public Bank, LPI, Cisco, Media Prima, Sime Darby, Ireka, YTL, Perdana, MClean, Saudee, Enest, Seal, Sunsuria
+
+[METADATA]
+ticker: SG
+company_name: Saudee Group Berhad
+publish_date: 2024-10-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/10/09/trading-ideas-public-bank-lpi-cisco-media-prima-sime-darby-ireka-ytl-perdana-mclean-saudee-enest-seal-sunsuria
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Trading of Public Bank Bhd and LPI Capital Bhd shares will be suspended from 9 am on October 9, pending the release of a material announcement. Cisco, a global technology company, has signed collaboration agreements with Telekom Malaysia Bhd and Permodalan Nasional Bhd under its Country Digital Acceleration programme, aiming to drive artificial intelligence innovation in Malaysia.
+
+[NEWS_P002] Media Prima Bhd has clarified that Tan Sri Syed Mokhtar Al-Bukhary remains a substantial shareholder in the company. Sime Darby Bhd is expanding its electric vehicle offerings as it is set to bring Denza, a premium sub-brand by BYD, into Malaysia. Ireka Corporation Bhd has won a RM1.1bn highway construction sub-contract for road upgrade from Kampung Lomour Baru to Kampung Toupus (Work Package 33) as part of Phase 1B of the Pan Borneo Highway project in Sabah.
+
+[NEWS_P003] BlackRock Inc and the hotel unit of Malaysian developer YTL Corporation Bhd are set to purchase a group of serviced apartments in a prime office building in Singapore’s central business district, according to people familiar with the matter. Perdana Petroleum Bhd has accepted a work order award from Dayang Enterprise Holdings Bhd to charter two accommodation workboats. MClean Technologies Bhd has proposed several strategic moves aimed at solidifying its financial position and diversify its revenue stream, which includes an acquisition of a plastic injection moulding business from We Total Engineering Sdn Bhd at net book value of RM6.0mn.
+
+[NEWS_P004] Saudee Group Bhd will change its name to Saudigold Group Bhd, effective Oct 9. Meanwhile, SGB’s new stock short name will be quoted as “SG”, replacing “Saudee”. The company’s stock code remains unchanged. Enest Group Bhd , which is seeking a transfer from the LEAP Market to the ACE Market of Bursa Malaysia, has received approval from the exchange to waive the requirement to extend the exit offer to shareholders. Seal Incorporated Bhd is proposing to diversify its existing principal activities to include investment in renewable energy and related activities.
+
+[NEWS_P005] Sunsuria Bhd said it has won the exclusive rights to operate new British international schools in Malaysia, Singapore, Taiwan, Hong Kong, Japan, South Korea, India and other regions across Southeast and South Asia.

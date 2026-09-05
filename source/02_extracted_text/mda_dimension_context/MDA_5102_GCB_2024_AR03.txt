@@ -1,0 +1,148 @@
+document_id: MDA_5102_GCB_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+& ANALYSIS
+MARKET
+OVERVIEW
+OUTLOOK
+As we navigate the strategic landscape
+of our operations, it is essential to gain
+a comprehensive understanding of
+the prevailing conditions in the cocoa
+market. This includes factors such as
+supply and demand dynamics, price
+fluctuations, economic challenges, and
+sustainability milestones—all of which
+influence our strategic approach in the
+ever-evolving cocoa industry. While the Group acknowledges the
+external factors beyond our control, we
+remain steadfast in our commitment to
+navigating these challenges. Our focus
+will continue to be on seizing business
+opportunities,
+meeting
+customer
+demand, and generating sustainable
+profits to support our long-term growth
+objectives. Supply and Demand Dynamics
+The cocoa industry experienced a continued supply
+deficit during the 2023/24 crop year, following similar
+shortages in the previous two crop years. This trend
+was primarily driven by reduced cocoa production
+in origin countries affected by adverse weather
+conditions and diseases, leading to a 14.0% decline
+in global cocoa grinding compared to the previous
+crop year.
+[MDA_P002]
+However, there has been an increase in
+the planting of cocoa seedlings in Indonesia and
+certain regions of South America, which may help
+improve future cocoa bean supplies. Price Volatility
+The New York and London cocoa futures markets
+experienced significant volatility in FY2024, reaching
+an all-time high exceeding USD12,600 per MT on 18th
+December 2024—an increase of 206% compared
+to the previous year. This surge in prices has posed
+challenges for cocoa grinders, who are facing higher
+input costs for raw materials. In an effort to protect
+their profit margins, and compounded by a shortage
+of cocoa products, the prices of cocoa-derived
+products have also risen. Economic Challenges
+Global inflationary pressures have led to higher
+interest rates, a trend that is likely to persist amid
+ongoing uncertainty about the global economic
+outlook. This uncertain economic climate may
+dampen discretionary spending, as high household
+debt-servicing costs limit consumers’ disposable
+income.
+[MDA_P003]
+Côte d’Ivoire Presence Brings Us ‘Close To
+Source’ And ‘Close To Market’
+Our expansion into Côte d’Ivoire, the world’s largest
+cocoa bean supplier, has strategically positioned us
+closer to the source of cocoa beans, allowing us to
+initiate sustainability projects from the very beginning
+of the procurement process. This move enhances
+our cost-effectiveness and strengthens our ability
+to serve chocolate-consuming countries in Europe
+and the UK, where the majority of our customers
+are located. Our growing presence in Côte d’Ivoire
+will undoubtedly solidify our long-term position as a
+global leader in the chocolate supply chain. Economic Recession Concerns
+The looming threat of an economic recession
+presents additional challenges. The combination
+of inflation, rising interest rates, and escalating
+commodity prices may contribute to a global
+economic slowdown. While the chocolate industry
+is
+often
+viewed
+as
+recession-resistant—since
+consumers tend to indulge in affordable luxuries
+during economic downturns—the extent of this
+resilience will depend on the broader economic
+climate, including the impact of rising living costs,
+such as food and housing expenses.
+[MDA_P005]
+Leveraging Established Fundamentals To
+Meet Stakeholder Expectations
+To ensure that we not only meet but exceed the
+expectations of our diverse stakeholders, we remain
+committed to progress in our key focus areas:
+profitability, reliability, business stability, and market
+share. In our cocoa processing operations across key
+grinding countries, we are dedicated to expanding
+production capacity, enhancing product quality,
+and prioritising cocoa sustainability, reinforcing our
+commitment to ESG considerations in response to
+the growing interest among our customer base. We
+see
+significant
+growth
+potential
+through
+capacity-driven initiatives, as demonstrated by
+our expansions into new regions like Côte d’Ivoire,
+Germany, and the UK since 2019. These strategic
+moves reflect our ambitious plans for long-term
+growth and have unlocked numerous opportunities
+to complement and add value to our core business
+of producing cocoa-derived food ingredients. A prime example of this is our integration into
+industrial chocolate production.
+[MDA_P006]
+By utilising internally
+produced cocoa-derived food ingredients from
+Côte d’Ivoire to manufacture industrial chocolate at
+our German production facility, we have established
+a fully integrated internal supply chain and achieved
+valuable cost efficiencies. Moreover, our presence
+and production facilities in Europe and the UK enable
+us to label our products as “Made in Europe” and
+“Made in the UK,” enhancing our ability to penetrate
+markets with strong demand for European and UK-
+made chocolate. Together, these strategies empower us to not only
+meet the requirements of our key customers but also
+to address their expectations across four core areas:
+building a global supply chain presence, enhancing
+cost-effectiveness, increasing ESG considerations,
+and embracing greater sustainability practices. Navigating The Surge In
+Historic Cocoa Bean Prices
+In
+FY2024,
+cocoa
+bean
+prices
+surged
+to
+unprecedented levels, driven by a global deficit
+resulting from adverse weather conditions and
+widespread diseases in origin countries. In response,
+we have implemented several strategic measures
+to manage the increased costs and ensure the
+sustainability of our operations.

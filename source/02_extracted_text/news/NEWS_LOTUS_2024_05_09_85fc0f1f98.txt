@@ -1,0 +1,20 @@
+[TITLE]
+Ringgit almost unchanged against greenback at the close
+
+[METADATA]
+ticker: LOTUS
+company_name: Lotus KFM Berhad
+publish_date: 2024-05-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/09/ringgit-almost-unchanged-against-greenback-at-the-close
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit was almost unchanged against the US dollar at the close today amidst the firmer greenback and other regional currencies, said an economist. At 6 pm, the ringgit stayed almost unchanged at 4.7395/7425 versus the greenback from Wednesday’s close of 4.7390/7440. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid, however, opined that the ringgit was stable against the greenback today. He noticed that at Bank Negara Malaysia’s (BNM) Monetary Policy Committee (MPC) meeting today, the central bank is sanguine about the economic growth prospect while remaining vigilant on inflation risk.
+
+[NEWS_P002] "BNM has reiterated its stand that the prevailing ringgit value does not reflect its economic fundamentals and stressed that the execution of economic reforms is the key factor that will drive the ringgit stronger. "We expect the ringgit to remain supportive this week,” he told Bernama. At BNM’s third MPC meeting today, the central bank decided to maintain the Overnight Policy Rate (OPR) at 3.00 per cent. "External factors, namely shifting expectations of major economies’ monetary policy paths and ongoing geopolitical tensions, have led to heightened volatility in both capital flows and exchange rates across the region, including the ringgit,” it said.
+
+[NEWS_P003] The central bank said the coordinated initiatives by the government and BNM with the government-linked companies and government-linked investment companies as well as corporate engagements have gained further traction, cushioning the pressure on the ringgit. "BNM will continue to manage risks arising from heightened financial market volatility. Over the medium term, domestic structural reforms will provide more enduring support to the ringgit,” it added.
+
+[NEWS_P004] At the close, the ringgit traded higher against a basket of major currencies. It rose versus the Japanese yen to 3.0401/0422 from Wednesday’s close of 3.0495/0530, strengthened vis-a-vis the British pound to 5.9177/9215 from 5.9209/9272 earlier and went up against the euro to 5.0855/0887 from 5.0954/1007 previously. The local note traded mixed against ASEAN currencies. Against the Singapore dollar, the ringgit firmed to 3.4939/4964 from Wednesday’s 3.4956/4996, depreciated against the Thai baht to 12.8303/8436 from 12.8188/8383, inched down vis-a-vis the Indonesian rupiah at 295.3/295.6 from 295.2/295.7, and was flat against the Philippine peso at 8.26/8.27.
+
+[NEWS_P005] - Bernama

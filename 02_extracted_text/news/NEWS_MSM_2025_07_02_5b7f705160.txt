@@ -1,0 +1,12 @@
+[TITLE]
+MSM appoints Hasni Ahmad as acting CEO following Syed Feizal’s resignation
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-07-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/02/msm-appoints-hasni-ahmad-as-acting-ceo-following-syed-feizals-resignation
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: MSM Malaysia Holdings Bhd has appointed Hasni Ahmad as acting group chief executive officer (CEO) effective July 3, 2025. Hasni, 57, who is currently the group chief operating officer, will assume the responsibilities of group CEO until further notice. He holds a degree in Chemical Engineering with distinction from Clarkson University in New York, United States. In a separate filing with Bursa Malaysia, MSM said Syed Feizal Syed Mohammad, 60, has resigned to pursue personal interests.

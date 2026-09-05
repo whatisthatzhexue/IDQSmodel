@@ -1,0 +1,68 @@
+document_id: MDA_3689_FN_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 139.905, "paragraph_count": 37, "paragraph_length_distribution": {"max": 1197, "mean": 839.541, "min": 141}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+BUSINESS REVIEW:
+Food and Beverages
+Malaysia
+Managing Director,
+Domestic Commercial Operations
+(Peninsular Malaysia)
+Bryan Lee Chee Kong
+Director, Domestic
+Commercial Operations
+(East Malaysia & Brunei)
+Bart Lim Siang Chin
+[MDA_P010]
+100PLUS
+Already the undisputed favourite among healthy-living enthusiasts, 100PLUS went a step ahead
+with the launch of a zero-sugar version in January 2020. To encourage an active lifestyle among Malaysians, 100PLUS organised a series of ‘Hari Aktifkan
+Malaysiaku 2019’ across major cities in Malaysia, including Kota Kinabalu, Kuala Terengganu and
+Bukit Jalil and attracted the participation of over 20,000 Malaysians. 100PLUS Day covered a series
+of fun activities, including a 6km Obstacle Fun Run, Zumba sessions, engagement with 100PLUS
+brand ambassadors and plogging, as well as mini concerts featuring local artists. During the MCO, 100PLUS held virtual workout sessions, conducted by professional trainers, to
+help Malaysians achieve a healthier mind and body. These free, online sessions, which included
+HIIT and dance sessions, were part of 100PLUS’ month-long campaign to encourage a healthier
+lifestyle amidst the limitation in outdoor activities. 100PLUS has kept the nation’s frontliners hydrated since the most intense period of combatting
+the COVID-19 pandemic in March and April 2020.
+[MDA_P019]
+*Based on Retail Index Service for Carbonated Soft Drink category for the 12 months
+ending July 2020 in Total Malaysia. (Copyright © 2020, The Nielsen Company (M)
+Sdn Bhd)
+2.
+No. 1* in Total Malaysia in the Isotonic Segment in the Carbonated Soft Drink
+category
+[MDA_P028]
+BUSINESS REVIEW:
+Food and Beverages
+Thailand (Cont’d.)
+FRASER & NEAVE HOLDINGS BHD
+OUR JOURNEY AHEAD
+A tangible outcome of COVID-19 has been more
+significant consumer concern for maintaining good
+health. We are determined to capture more of the
+expanding healthy product market and have planned
+various new products that will satisfy consumers’
+demand for nutritious beverages that boost well-
+being. In the face of economic uncertainties, and cost-
+conscious consumer behaviour, we will continue to
+offer attractive savings with value packs and bundles. This will be complemented by an internal focus on
+driving cost efficiencies through greater automation,
+innovation and upskilling of our people. We will leverage e-commerce more fully as more
+and more Thais are embracing social media and
+online networks. In FY2020, we started a web-
+ordering system through F&N Dairies Thailand’s
+website targeting foodservice customers as well as
+online shoppers. Moving forward, we seek to learn
+from the experience of F&N Life (e-commerce store
+in Malaysia) and make our e-commerce channel a
+success in the Thai market.
+[MDA_P037]
+Comparatives for financial years prior to 2018 have not been restated. (ii)
+Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders’ approval. PERFORMANCE REVIEW:
+5-Year Group Financial Summary

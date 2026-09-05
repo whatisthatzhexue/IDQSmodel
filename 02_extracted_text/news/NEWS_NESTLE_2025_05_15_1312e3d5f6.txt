@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI struggles for momentum amid cautious buying interest
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-05-15
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/05/15/fbm-klci-struggles-for-momentum-amid-cautious-buying-interest
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI struggled to maintain its upward momentum due to weak buying interest, closing the morning session lower. At midday, the FBM KLCI slipped 8.57 points or 0.54% to 1,574.94, just marginally higher than its intramorning low of 1,574.13. Gainers numbered 396, trailing losers at 513, while 471 counters remained unchanged. Trading volume stood at 2.4 billion shares, valued at RM1.3bil. Nestle, the top decliner, fell 82 sen to RM83.98, followed by Kluang, which lost 40 sen to RM5.56.
+
+[NEWS_P002] PETRONAS Dagangan eased 32 sen to RM20.22, while Tenaga declined 18 sen to RM14.12. Among the gainers, Malaysian Pacific Industries rose 42 sen to RM21.74, Heineken added 24 sen to RM27.74, Carlsberg gained 22 sen to RM19.38 and Chin Tek climbed 11 sen to RM8.30. TA Securities said the local market should stay in consolidation mode as investors will likely remain cautious ahead of the release of Malaysia's first-quarter GDP data later this week. “Immediate resistance remains at 1,610, with the next major resistance seen at 1,644, followed by the August 2024 high of 1,684.
+
+[NEWS_P003] Immediate support is maintained at 1,526, with 1,490 and 1,444 acting as stronger supports,” it added. Meanwhile, Malacca Securities remains optimistic about the outlook for blue-chip stocks, citing strong fundamentals and stable dividends as key drivers amid renewed foreign fund inflows into the Malaysian market. The research house said that despite global headwinds from US tariffs and geopolitical tensions, Bank Negara Malaysia’s move to lower the Statutory Reserve Requirement (SRR) from 2% to a 14-year low of 1% may boost loan uptake among businesses and help stimulate economic growth.
+
+[NEWS_P004] “We maintain a positive outlook on the construction sector, driven by ongoing data centre investments and major developments across the country, such as the JSSEZ. The Construction Index has also broken above its MA200 resistance,” Malacca Securities said.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI slips below psychological 1,600 level as caution weighs on market
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-13
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/13/fbm-klci-slips-below-psychological-1600-level-as-caution-weighs-on-market
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI closed below the 1,600-point psychological level today, after reclaiming it just yesterday, as cautious sentiment persisted in the broader market. At 5pm, the market's key barometer lost 10.77 points or 0.67% to finish at an intraday low of 1,592.28. The index hit an intraday high of 1,605.48 earlier. The broader market exhibited a cautious tone, with decliners outnumbering gainers. There were 422 advancers to 573 decliners and 478 counters unchanged.
+
+[NEWS_P002] Turnover was 2.56 billion shares with a value of RM2.22bil. Dealers noted that investors remained cautious amid external uncertainties, with trade war concerns persisting after US President Donald Trump announced plans for reciprocal tariffs. Among the 30 FBM KLCI constituents, Nestle tumbled RM1.32 to RM90.64, PETRONAS Dagangan slid 46 sen to RM19.52, Hong Leong Bank fell 22 sen to RM20.42 and CIMB declined 12 sen to RM8.28. On the broader market, Malaysian Pacific Industries lost 30 sen to RM21.24, Allianz fell 22 sen to RM18.98, Able Global gave up 19 sen to RM1.53 and Carlsberg declined 18 sen to RM20.08.
+
+[NEWS_P003] Among the gainers, Heineken surged RM1.18 to RM25.98, F&N added 20 sen to RM26.70, Hong Leong Industries rose 16 sen to RM13.98 and Itmax climbed 15 sen to RM3.92. Meanwhile, Asian bourses ended mixed today, with Japan's Nikkei 225 rising 1.28% and South Korea’s Kospi adding 1.36%, while Hong Kong’s Hang Seng slipped 0.2% and China’s CSI 300 declined 0.38%.

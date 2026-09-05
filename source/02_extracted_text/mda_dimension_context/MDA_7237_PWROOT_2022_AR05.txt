@@ -1,0 +1,57 @@
+document_id: MDA_7237_PWROOT_2022
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 30, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 133.091, "paragraph_count": 30, "paragraph_length_distribution": {"max": 1199, "mean": 939.667, "min": 49}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+Power Root Berhad
+Registration Number: 200601013517 (733268-U)
+[MDA_P008]
+Power Root also continued to pursue the cross-category brand collaboration campaigns which we had started last
+year. For the current financial year, we partnered with QL Eggs and Daily’s Bakery by including complimentary Frenché
+Roast sachet samples with their products which allowed us to reach out to an estimated 100,000 consumers. These
+partnerships gave us a different avenue to introduce our product samples directly to end consumers, as opposed to
+our conventional store sampling method which had been curtailed by movement restrictions. Another new marketing avenue we explored was a tie-up with iQiyi, one of the largest on-demand video streaming
+video platforms in the world featuring Pan-Asian entertainment programmes such as dramas, movies and anime. Under
+this collaboration, purchasers of Frenché Roast products were eligible for a one-month free iQiyi VIP subscription. Concurrently, KOLs also featured this promotion to targeted customers via social media. Per’l Yuzu
+We are excited to have signed up the popular Korean singer and television personality Jang Han Byul as the Brand
+Ambassador for our newly-launched Per’l Yuzu drink.
+[MDA_P016]
+Livestreaming (real-time online selling entertainment programmes that include
+audience participation) which had become a popular marketing and sales tool, also took a hit as celebrity influencers
+were investigated as part of the government’s attempt to eliminate income disparity. Within this climate of restrictions, Power Root found it difficult to implement our marketing and sales plans. We made
+adjustments to our plans and explored different avenues for marketing and sales, and are preparing for China’s re-opening. The Group launched and promoted Ah Huat Charcoal Roast to our overseas markets in Hong Kong and Singapore
+during the year. Ah Huat Charcoal Roast was launched in Hong Kong with promotions in September and November
+2021. Meanwhile, in Singapore earlier in the year, we collaborated with Sunshine Bread in cross-collaboration marketing
+campaigns. Between April and June 2021, customers who purchased a loaf of Sunshine Bread Loaf were able to redeem
+two sachets of Ah Huat Charcoal Roast and for July 2021, buyers of a 65g Sunshine Cream Bun could redeem a sachet
+of Ah Huat Charcoal Roast.
+[MDA_P023]
+The Total Liabilities of the Group increased by RM37.0 million in FYE 2022 mainly due to an increase in loans and
+borrowings, and trade and other payables.
+With a low gearing of 0.075 as at 31 March 2022, the Group’s financial position remains sound.
+DIVIDENDS
+Note: *adjusted pursuant to bonus issue completed on 23 July 2018.
+On 12 October 2021, the Group paid a first interim single tier dividend of 0.5 sen per ordinary share amounting to RM2.1
+million in respect of the current financial year.
+On 5 January 2022, the Group paid a second interim single tier dividend of 1.2 sen per ordinary share amounting to
+RM5.0 million in respect of the current financial year.
+Dividend Per Share (“DPS”) (sen)
+6.50
+5.40
+12.50
+8.00
+7.92
+2018*
+[MDA_P030]
+Ms Tan has wide experience in accounting, audit and taxation. The Group looks forward
+to Ms Tan’s contribution and her expertise in helping Power Root grow. Finally, the Board would like to extend our sincere appreciation to all stakeholders of Power Root, especially our
+shareholders, management and staff. This has been another challenging and uncertain year with health and safety
+concerns at the forefront. We have met these challenges and remained strong because of your continuous support. Dato’ Afifuddin bin Abdul Kadir
+Y.A.D. Tengku Dato’ Setia Putra Alhaj bin Tengku Azman Shah Alhaj
+Independent Non-Executive Co-Chairmen

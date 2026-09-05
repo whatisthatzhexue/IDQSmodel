@@ -1,0 +1,14 @@
+[TITLE]
+FBM KLCI rallies after slow start
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-04-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/04/02/fbm-klci-rallies-after-slow-start
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Malaysia's benchmark stock index rose as blue-chip stocks bounced back from profit-taking in early morning trade. At 12.30pm, the FBM KLCI was up 5.53 points to 1,549.55 while the market breadth was nearly even with 480 gainers to 474 decliners and 461 counters unchanged. The trading volume was 2.71 billion shares valued at RM1.32bil. Leading blue chips included Kuala Lumpur Kepong rising 12 sen to Rm22.70, MISC adding 12 sen to RM7.78 and Tenaga climbing 16 sen to RM11.54 Consumer plays were on the rise including Nestle up RM1 to RM119.1, Dutch Lady gaining 84 sen to RM33.34 and F&N adding 68 sen to RM30.06.
+
+[NEWS_P002] Brewer Carlsberg jumped 18 sen to RM18.66. Of actives, Alpha rose 0.5 sen to 33 sen, Ahmad Zaki Resources gained three sen to 25 sen and Zantat rose one sen to 50 sen. Meanwhile, Asian markets were mixed with Hong Kong's Hang Seng outperfroming after it leapt 2.4% to 16,931. China's composite index was nearly flat at 3,078 while the blue-chip CSI300 was down 0.2% to 3,586. Japan's Nikkei fell 0.1% to 39,742.

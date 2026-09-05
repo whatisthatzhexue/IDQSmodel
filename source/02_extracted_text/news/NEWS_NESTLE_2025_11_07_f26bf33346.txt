@@ -1,0 +1,22 @@
+[TITLE]
+Bursa Malaysia remains positive at midday on mild buying
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-11-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/07/bursa-malaysia-remains-positive-at-midday-on-mild-buying
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia remained in positive territory at midday, as mild buying interest emerged late in the morning session, cushioning losses amid the downtrend in regional markets. At 12.30 pm, the FTSE Bursa Malaysia KLCI (FBM KLCI) rose 0.75 points, or 0.05 per cent, to 1,619.69, from Thursday’s close of 1,618.94. The benchmark index had opened 1.31 points lower at 1,617.63, and moved between 1,616.50 and 1,620.08 throughout the morning trading session.
+
+[NEWS_P002] Market breadth was lower with 598 losers thumping 296 gainers, while 559 counters were unchanged, 1,208 untraded, and 11 suspended. Turnover stood at 2.27 billion units valued at RM1.04 billion. Hong Leong Investment Bank Bhd said the local market is expected to remain in range-bound, risk-off mode throughout the trading session amid volatile swings in the United States (US) market. This is driven by persistent worries over stretched tech valuations, diverging US Federal Reserve rate-cut expectations, and the US Supreme Court’s skepticism toward President Donald Trump’s tariffs.
+
+[NEWS_P003] "In the near term, upside may be capped around the 1,632-1,640 resistance zone as investors gauge the impact of the prolonged US government shutdown and the upcoming Sabah state election,” it said in a note today. Among heavyweights, Maybank and Public Bank were flat at RM9.92 and RM4.26, respectively. CIMB Group gained one sen to RM7.51, Tenaga Nasional added two sen to RM13.22, and IHH Healthcare advanced three sen to RM8.25. On the most active list, Pharmaniaga rose three sen to 26.5 sen and Perak Transit edged up 1.5 sen to 28 sen, while MMAG slipped 1.5 sen to eight sen, Pertama Digital fell 6.5 sen to 4.5 sen and NexG Bina dipped half-a-sen to 3.5 sen.
+
+[NEWS_P004] Among the top gainers, Kuala Lumpur Kepong jumped 32 sen to RM21.10, Westports was 17 sen higher at RM5.48, FCW Holdings bagged 15 sen to RM1.90, Hong Leong Bank increased 14 sen to RM20.88, and Solarvest added 11 sen to RM3.21. As for the top losers, Nestle lost 40 sen to RM112.40, and both Kerjaya Prospek and PJBumi decreased 12 sen each to RM2.58 and RM1.21, respectively, while KESM Industries and UMS Integrated fell 11 sen each to RM3.45 and RM4.86, respectively.
+
+[NEWS_P005] On the index board, the FBMT 100 Index inched up 0.14 of a point to 11,795.34, while the FBM Emas Index sank 2.80 points to 12,035.09. The FBM Emas Shariah Index dropped 4.87 points to 12,052.33, the FBM ACE Index declined 26.10 points to 5,057.35, and the FBM Mid 70 Index lost 22.88 points to 16,919.86. Sector-wise, the Plantation Index gained 19.06 points to 8,076.59, the Financial Services Index was 17.66 points higher at 18,355.53, while the Energy Index inched down 0.29 of a point to 767.57, and the Industrial Products and Services Index eased 0.36 of a point to 168.60.
+
+[NEWS_P006] - Bernama

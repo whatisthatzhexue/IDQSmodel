@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI slightly down on profit-taking
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-03-28
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/03/28/fbm-klci-slightly-down-on-profit-taking
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Profit-taking in local blue-chips on Bursa Malaysia was capped by underlying optimism following the share's recent breakout. While some selling was expected after the previous day's rally and ahead of the expected four-day holiday weekend, the FBM KLCI was down only 3.69 points to 1,532.04. The benchmark index retained most of its 18-point increase from the previous day, even as most regional markets slumped in anticipation of Trumps' trade tariffs next week.
+
+[NEWS_P002] The ratio of declining issuers on Bursa Malayisa, however, outpaced advancers 1.58-to-1, to suggest a broad-based weakness in the lower-liners. Volume was 1.2 billion shares traded for a transaction value of RM922.79mil. Of the key Asian indices, only Singapore's Straits Times was above water, rising 0.19% to 3,989. Japan's equities, which took a dive after the Trump's announcement of 25% tariffs on auto imports, remained shaky with the Nikkei droping 2.36% to 36,908.
+
+[NEWS_P003] South Korea, where auto manufacturing is also an economic pillar, saw its benchmark Kospi drop 1.87% to 2,558. In China, the Shanghai composite index shed 0.71% to 3,349 and Hong Kong's Hang Seng fell 0.89% to 23,368. On Bursa Malaysia, the leading laggards were Nestle down RM1.22 to RM73.82, CelcomDigi falling eight sen to RM3.48 and PETRONAS Chemicals shedding 12 sen to RM3.63. Sapura Energy , up 0.5 sen to five sen, topped the actives list on the market with 38.33 millon shares.
+
+[NEWS_P004] Main Market debutant HI Mobility was up two sen to RM1.24 with 30.09 million shares done.

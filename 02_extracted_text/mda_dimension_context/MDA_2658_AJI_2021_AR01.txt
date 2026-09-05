@@ -1,0 +1,77 @@
+document_id: MDA_2658_AJI_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": false, "financial": true, "outlook": false, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 34, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Our Business
+History & Milestone
+Ajinomoto (Malaysia) Berhad (“the Company”) was incorporated sixty years ago in 1961 as a distributor of monosodium
+glutamate (“MSG”) under the brand, AJI-NO-MOTO®, which was imported from its parent company in Japan. In 1965,
+the Company commenced production of MSG and subsequently other food seasoning products at its current factory.
+The Company is one of the very first Japanese companies to be set up in Malaysia and has since established itself as a
+responsible and reputable food manufacturer and distributor for a variety of food seasoning products that is trusted by
+Malaysians for decades. AJI-NO-MOTO® Umami seasoning is an indispensable item in almost every household.
+[MDA_P002]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W) | ANNUAL REPORT 2021
+Our Policy
+As an established and trusted food seasoning company in Malaysia, it is the Company’s policy to consistently develop
+and distribute high quality and safe food products that meet customers’ needs and satisfaction, and at the same time
+comply with international and local laws and regulations for food manufacturing. This is the Company’s contribution to
+the joyful and healthy living of the community and society. The Company is committed to being an exemplary corporate citizen. We remain steadfast in our effort to conserve the
+environment, an integral component of the business ecosystem. As a responsible employer, the Company is committed
+to providing a safe and healthy working environment for all its employees. Product Range
+Consumer Products
+From distributing a single product, namely, AJI-NO-MOTO® Umami seasoning in 1961, the Company today manufactures
+and distributes a wide range of seasoning and food products. This includes chicken stock, all-in-one seasoning, menu
+seasoning, pepper, sweetener and flavoured drink with amino acids.
+[MDA_P018]
+► Once the bag is opened, use all otherwise tightly seal and
+[MDA_P033]
+AJINOMOTO (MALAYSIA) BERHAD 196101000252 (4295-W) | ANNUAL REPORT 2021
+MANAGEMENT DISCUSSION & ANALYSIS
+(cont’d.)
+India
+OVERSEAS MARKET
+Countries where we export our products to
+China
+Taiwan
+Indonesia
+Singapore
+Brunei
+New Zealand
+MauriƟus
+Maldives
+Sri Lanka
+Hong
+Kong
+Phillippines
+Guatemala
+Brazil
+Peru
+Colombia
+Cambodia
+Myanmar
+Jordan
+Kuwait
+Qatar
+United
+Arab
+Oman
+Yemen
+Bahrain
+Saudi Arabia
+Thailand
+Vietnam
+South Africa
+Ghana
+Nigeria
+Australia
+Japan
+South Korea
+Sales Branches & Overseas Market
+The Company has 10 branches in Malaysia and 1 sales office in Saudi Arabia.
+[MDA_P034]
+The Company’s products are well-received by customers in many countries.

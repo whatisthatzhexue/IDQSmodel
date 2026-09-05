@@ -1,0 +1,153 @@
+document_id: MDA_2836_CARLSBG_2021
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 55, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION & ANALYSIS
+CORPORATE
+STRATEGY: SAIL’22
+OUR TWO
+ENABLERS
+OUR SEVEN
+STRATEGIC PRIORITIES
+OUR THREE
+STRATEGIC LEVERS
+DEFEND OUR
+LICENCE
+TO OPERATE
+CREATE A
+WINNING
+CULTURE
+STRENGTHEN
+THE CORE
+POSITION
+FOR GROWTH
+DELIVER
+VALUE FOR
+SHAREHOLDERS
+“Go Big in Premium” with Kronenbourg 1664 Blanc,
+Somersby Cider, Asahi Super Dry and
+Connor’s Stout Porter
+“Innovate With Digital” to enhance the role of
+digitalisation in our operations
+Achieve “Growth in Net Profit”
+Deliver Stable Dividend Yield for Shareholders
+“Grow in Mainstream” with Carlsberg Danish Pilsner and
+Carlsberg Smooth Draught
+“Win in Each Store” with better in-store execution
+“Funding the Journey” by delivering efficiencies in
+Operating Expenses and Value Management
+[MDA_P002]
+Our Business
+Message from Our Leaders
+Creating Sustainable Value
+Delivering Strong Governance
+Financial Statements
+Other Information
+Commitment to Sustainability
+INTEGRATED ANNUAL REPORT 2021
+MANAGEMENT
+DISCUSSION & ANALYSIS
+The prolonged lockdown and various restrictions
+continued to weigh on the true growth potential
+of our mainstream brands as production,
+distribution and consumption were severely
+disrupted.
+Our mainstream brands Carlsberg Danish Pilsner
+and Carlsberg Smooth Draught continued to be
+impacted with total volume for Malaysia and
+Singapore declining by 11% compared to 2020.
+With dine-in not permitted and entertainment
+outlets remaining closed for almost two years,
+we witnessed a shift in consumer behaviour and
+purchase to off-trade.
+Nevertheless, building on the experience gained
+in 2020, we were better prepared to navigate the
+market dynamics through value management
+strategies, and defended brand equity through
+a series of nationwide campaigns.
+[MDA_P004]
+Flaunting a
+new bottle, fresher cap and new design, we also
+introduced the Carlsberg Smooth Draught on
+tap, completing the new refreshed look across
+the entire product range. To CELEBRATE the passion of our football
+fans in Malaysia and Singapore, we launched
+a limited edition CHEERS TO FOOTBALL
+packaging to pay tribute to football fans for
+their undying support and love for the sport. Our limited edition Carlsberg tees were curated
+with the intention of keeping the excitement
+and frenzy for football alive so that they could
+continue to cheer for their favourite teams at
+home with Carlsberg limited edition bottles,
+cans and exclusive merchandise. In 2022, we will continue to CELEBRATE all
+occasions, from cultural festivals to every goal
+scored in international football. And speaking
+of football, we will be toasting the longest
+partnership in the English Premier League’s
+history with a soon-to-be-unveiled special
+edition Carlsberg X Liverpool set featuring six
+Liverpool legends. GROW IN MAINSTREAM
+STRENGTHEN THE CORE
+[MDA_P005]
+Our Business
+Message from Our Leaders
+Creating Sustainable Value
+Delivering Strong Governance
+Financial Statements
+Other Information
+Commitment to Sustainability
+CARLSBERG BREWERY MALAYSIA BERHAD [196901000792 (9210-K)]
+MANAGEMENT
+DISCUSSION & ANALYSIS
+WIN IN EACH STORE
+FUND THE JOURNEY
+2021 marked the second year that on-trade
+consumption
+was
+dampened
+by
+various
+restrictions on dine-ins, social distancing and
+operating hours, as well as the slower reopening
+of bars, pubs and restaurants and the temporary
+closure of entertainment outlets, which have yet
+to be allowed to reopen. This adversely affected our modern on-
+trade channel and permanently changed the
+behaviour of a segment of consumers who now
+prefer to enjoy their drinks in the safety of their
+homes. Our response since the first year of the
+pandemic has been agile, quick and consistent,
+as we re-channelled our focus and investment
+to the off-trade channel to capture the increased
+demand. We reorganised internal resources and
+re-strategised commercial activities to drive
+sales through e-commerce, convenience stores,
+mini markets, supermarkets and hypermarkets.
+[MDA_P006]
+In 2020, off-trade sales surpassed on-trade and
+this trend continued to grow in 2021. We believe
+this will continue to be the case in 2022, despite
+the vaccination-induced herd immunity and
+relaxation of restrictions to allow for dine-in and
+travel, as this behaviour has now become the
+norm, especially in Singapore. To capitalise on this trend in Malaysia, Carlsberg
+Smooth Draught collaborated with Fizzics,
+a draught beer dispenser manufacturer, and
+launched our very own beer dispenser to enable
+consumers to replicate the draught experience
+at home. The Fizzics draught beer dispenser
+utilises Micro-Foam Technology that converts a
+can or bottle of Carlsberg Smooth Draught into
+the perfect pour. Towards the end of 2021, dine-in restrictions
+were gradually lifted and we witnessed a
+strong recovery in on-trade sales, especially in
+Malaysia, and we are hopeful that this trend will
+continue. The return of consumers to bars and
+restaurants, as well as the reopening of local
+tourism and, eventually, international travel, will
+help to drive footfall to and accelerate the slow
+recovery of on-trade outlets.

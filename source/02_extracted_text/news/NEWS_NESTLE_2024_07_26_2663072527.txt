@@ -1,0 +1,16 @@
+[TITLE]
+Trading ideas: SCIB, JAKS, AZRB, Iqzan, Nestle, IGB REIT, IGB Commercial REIT, KIP REIT, UOA REIT, ViTrox
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-07-26
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/07/26/trading-ideas-scib-jaks-azrb-iqzan-nestle-igb-reit-igb-commercial-reit-kip-reit-uoa-reit-vitrox
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. Sarawak Consolidated Industries Bhd has secured a RM162mn contract for an engineering, procurement, construction, and commissioning project, which will span 23 months in Mualim, Perak. JAKS Resources Bhd 's subsidiary has entered into a MoU with TDM Bhd ’s subsidiary to bid for the fifth Large Scale Solar programme. Ahmad Zaki Resources Bhd 's wholly-owned subsidiary has been awarded a RM151.99mn contract to design and construct the Port Dickson Specialist Hospital in Negeri Sembilan.
+
+[NEWS_P002] Iqzan Holdings Bhd is set to be delisted from Bursa Malaysia next Tuesday, following the regulator's rejection of the company's appeal for an additional extension to submit its regularisation plan. Excluding all exceptional items, Nestlé (Malaysia) Berhad’s 2QFY24 core net profit declined by 56.1% YoY to RM80.1mn, on the back of a 13.0% drop in revenue to RM1.5bn. IGB Real Estate Investment Trust ’s net property income for the 2Q24 rose 6.5% to RM109.48mn from RM102.79mn a year ago, due to higher rental income.
+
+[NEWS_P003] IGB Commercial Real Estate Investment Trust 's net property income rose 10.8% to RM34.45mn in the 2Q24 on higher rental income. KIP Real Estate Investment Trust 's net property income surged 62.8% to RM26.43mn for the 4QFY24, thanks to strong gains from retail properties in Peninsular Malaysia's northern and central regions. UOA REIT saw its net rental income fall 22.06% to RM16.48mn in its 2QFY24, dragged by higher property operating expenses. Vitrox Corp Bhd ’s 2QFY24 net profit fell 25.4% YoY to RM28.1mn, dragged by its ongoing research and development investment as well as unfavourable foreign exchange losses.

@@ -1,0 +1,24 @@
+[TITLE]
+Trading ideas: TM, MISC, Capital A, PTT, Aurelius Tech, AME Elite, Score Builders, YNHP, Frontken and Mulpha
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-05-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/14/trading-ideas-tm-misc-capital-a-ptt-aurelius-tech-ame-elite-score-builders-ynhp-frontken-and-mulpha
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the leading headlines from Corporate Malaysia. Telekom Malaysia Bhd said that it had signed deals with the Home Ministry relating to two contracts worth RM120.5mn, at the recent Defence Services Asia Exhibition and Conference 2024 and National Security Asia 2024. MISC Bhd is going to jointly develop specialised ships with Japanese multi-modal transportation company Mitsui OSK Lines Ltd, as well as Petronas, to transport liquefied carbon dioxide for storage in Malaysia.
+
+[NEWS_P002] Teleport, Capital A Bhd ’s majority-owned logistics arm, is planning to boost its network with 7 more air freighters, as it targets to increase the volume of parcels it delivers daily to 2mn by end-2025, from 130k parcels a day at end-2023. PTT Synergy Group Bhd has secured two contracts worth a total of RM169.9mn from Sime Darby Property Bhd . Aurelius Technologies Bhd plans to invest RM450mn over the next 5 years to build a new manufacturing hub on an industrial land spanning 571,908 sq ft in the Kulim Hi-Tech Park, Kedah.
+
+[NEWS_P003] AME Elite Consortium Bhd is selling 11 plots of freehold land measuring over 34.9 acres in Pulai, Johor Bahru, for RM209.8mn cash to Hong Kong-based data centre operator Digital Hyperspace Malaysia Sdn Bhd. Construction group Southern Score Builders Bhd is acquiring a 51% equity stake in electrical contractor SJEE Engineering Sdn Bhd for RM23.0mn cash to tap into new market segments within the construction value chain and to expand its income stream.
+
+[NEWS_P004] YNH Property Bhd ’s proposed sale of a 5.1-acre freehold land in Desa Sri Hartamas to Sunway Bhd for RM170mn has been extended for a fifth time, stretching the deadline by another year to 12 May 2025. Frontken Corp Bhd said a fire broke out at one of its facilities on Sunday (12 May) but was brought under control soon after, with no casualties reported. Mulpha International Bhd said its indirect wholly owned Australian subsidiary Mulpha Norwest Pty Ltd had accepted a cash advance facility of AUD100mn (~RM313.1mn) from National Australia Bank Ltd to refinance borrowings and for working capital.
+
+[NEWS_P005] Teo Seng Capital Bhd is buying eight parcels of land measuring 104.9 acres in Batu Pahat district in Johor for RM23.6mn. Uzma Bhd has secured a contract valued at USD9.3mn (RM43.9mn) to undertake standard and special application of coiled tubing and pumping services. Building materials maker Ajiya Bhd said its Thai unit, Thai Ajiya Safety Glass Co Ltd is disposing of a 13,544 sq m land in Thailand's Chonburi province, together with office buildings and a factory, for RM26.8mn.
+
+[NEWS_P006] Telecommunication services provider Silver Ridge Holdings Bhd said its 80%-owned subsidiary, Centropia Technologies One Sdn Bhd, had secured a RM17mn contract to provide recruitment services for two years. Serendib Capital Ltd said on Monday an agreement to rescue Sarawak Cable Bhd remains in force and cannot be terminated unilaterally. Home appliances company Fiamma Holdings Bhd is proposing a private share sale that is expected to raise up to RM56.3mn from investors to be identified later.
+
+[NEWS_P007] Golden Screen Cinemas, which is operated by Malaysian conglomerate PPB Group Bhd , said on Monday it will launch a new outlet in the KL East Mall here, and close its outlet in the Central Square shopping centre in Sungai Petani, Kedah. Shares of Sungei Bagan Rubber Co (Malaya) Bhd and its related companies extended their gains on Monday, as investors continued to bid up the stocks on news of the buyout of Singapore’s Great Eastern Holdings Ltd. KUB Malaysia Bhd 's has raised its stake in Central Cables Bhd to 98.9% at the close of its mandatory general offer for the remaining CCB shares on Monday.

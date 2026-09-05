@@ -1,0 +1,17 @@
+metric,value,status,systemic_conflict_flag,notes
+mda_final_dataset_size,149,reported,true,
+news_final_dataset_size,125,reported,true,
+mda_excluded_documents_count,0,reported,true,
+news_excluded_documents_count,0,reported,true,
+cross_validation_claim_link_count,316,systemic_conflict,true,
+cross_validation_contradiction_count,30,systemic_conflict,true,
+systemic_conflict_flag,true,systemic_conflict,true,true means final freeze is blocked
+rank_stability_spearman,0.995772,reported,true,from stability weight sensitivity output if available
+system_level_error_rate,0.0,reported,true,
+reason_distribution:confirmed_numeric_failure,0,reported,true,
+reason_distribution:cross-validation conflict,30,reported,true,
+reason_distribution:json failure,0,reported,true,
+reason_distribution:low confidence,0,reported,true,
+reason_distribution:missing evidence,0,reported,true,
+reason_distribution:not_enough_numbers,10,reported,true,
+reason_distribution:numeric_review_required,124,reported,true,

@@ -1,0 +1,52 @@
+document_id: MDA_7237_PWROOT_2020
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 22, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 128.875, "paragraph_count": 22, "paragraph_length_distribution": {"max": 1200, "mean": 856.364, "min": 34}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION
+AND ANALYSIS
+[MDA_P006]
+Quick access to information has given us the ability to better gauge performances and areas for improvement. This
+includes setting distribution-related key performance indicators (KPI), reviewing client credit capabilities, and introducing
+SOPs for targeted advertising and promotion (A&P) spending to ensure maximum impact on increasing our long term
+sales and market share. In recent months we have also changed distributors in key markets to new distributors who
+are better equipped with more comprehensive teams and network. Management Discussion And Analysis
+Cont’d
+[MDA_P012]
+Power Root Berhad Registration Number: 200601013517 (733268-U) I Annual Report 2020
+Our new brand, “Warung” by Alicafé and Alitéa won the ‘Best Breakthrough Advertiser’ award for our television commercial
+which resonated with the Malaysian audience. The commercial titled “Macam Dolu-Dolu” revived memories of yesteryears
+with an original soundtrack and scenes inspired by national legend P.Ramlee’s famous works. Alicafé Tongkat Ali and Ginseng (TAG) relaunch campaign
+We launched a new television commercial featuring three ambassadors who personified the strong, spirited TAG
+benefits - fireman-cum-singer Syafiq Farhain, renowned skateboard veteran Pa’din Musa and multitalented actor, host
+and singer, Alif Satar. From March to May 2019, 45 billboards featuring Alicafé TAG were prominently displayed along both sides of the North-
+South Expressway, from Johor in the south through to Kedah in the north. In addition, 6 giant billboards featuring Alicafé
+TAG were taken up in key city and town areas to promote awareness of Alicafé TAG’s ‘Lebih Padu Untuk Segalanya’
+campaign. Ah Huat promotions
+As one of Power Root’s main brands, Ah Huat promotions spanned a spectrum of events.
+[MDA_P017]
+PRODUCTION
+Over the past year, we have reviewed our manufacturing footprint and added in two new filling machines to raise our
+annual output to 2.7 million cartons. We are also in the process of replacing some of our old filling machines to improve
+production efficiency. FINANCIAL REVIEW
+Revenue and Profit After Tax (“PAT”)
+For the fiscal year end (FYE) 2020, we recorded profit after tax (PAT) of RM51.7million, an increase of 84.0% from the
+PAT of RM28.1 million in FYE 2019. This is the highest-ever net profit we have achieved in our corporate history, and demonstrates the first fruits of the
+ongoing Business Transformation Programme. The PAT increase was a result of higher sales, a favourable sales mix, as well as a reversal of the impairment loss on
+trade receivables – RM4.8 million this year against an impairment loss on trade receivables of RM6.5 million in prior year. For FYE 2020, the Group recorded revenue of RM386.1 million, an increase of approximately 14.2% from the revenue of
+RM338.0 million recorded in the previous FYE 2019. This increase was due to higher sales locally and through exports. Export earnings were mainly derived from sales in the GCC countries within MENA.
+[MDA_P022]
+Simultaneously, we are bolstering our operations team to enhance
+our manufacturing and manpower systems towards optimising capacity and maximising output. On the export front, Power Root will continue to expand our market, particularly in the MENA region, via the development
+of distribution networks and launch of new products. New challenges bring with them new opportunities. Power Root will be alert to these opportunities even as we focus
+on our long-term strategies. On behalf of the Board, I would like to thank our shareholders, stakeholders, management and staff of Power Root for
+the support during the year. Please stay safe. DATO’ AFIFUDDIN BIN ABDUL KADIR
+Y.A.D. TENGKU DATO’ SETIA PUTRA ALHAJ BIN TENGKU AZMAN SHAH ALHAJ
+Co-Chairmen
+Management Discussion And Analysis
+Cont’d

@@ -1,0 +1,84 @@
+document_id: MDA_5533_OCB_2024
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Registration No. 195901000114 (3465-H)
+REVIEW OF THE OPERATING ACTIVITIES
+Consumer Foods Division
+The Semenyih and Sibu noodle plants have a current combined capacity of 12.0 million pieces of noodles per shift
+per month. For the full year 2024, the Semenyih noodle plant utilised 116% of its daily shift capacity while Sibu
+plant ran at 128% capacity. The sales of instant noodles surged 18% compared to FYE 2023. Domestic market made up 88% of total sales
+in this category. In April 2024, the Division successfully launched a new noodle product, Ibumie Meepoh Kosong. The launch reflects the Division’s commitment to innovation and expanding its product offerings, ensuring it meets
+the growing demand in the market for high-quality, ready-to-prepare noodles. With its unique taste and appeal,
+Ibumie Meepoh Kosong aims to strengthen the IBUMIE brand’s presence in the competitive noodle market and
+attract a broader customer base. OEM label brand of instant noodles contributed 40% to the overall turnover of this product category in Year 2024. Besides the major improvements from existing OEM business customers, the Division also managed to secure
+additional OEM customers during the year.
+[MDA_P003]
+The Salad Dressing plant in Semenyih continued to run full swing, operating a second shift to keep up with
+orders. The plant produced a total of 8,900 metric tons of salad dressings for Year 2024. Sales remain solid and
+climbed 14% year-on-year. This product category is strongly driven by domestic sales which made up 94% of total
+turnover in this category. 74% of sales come from the Food Service pack formats which are sold mainly to Burger
+kiosks. There was also an increase in the contribution from the Retail Packs. The Division has begun supplying Salad Dressing in bulk packing to industrial users such as bread factories. Industrial users usually require customised formula for each factory, but we foresee that we can leverage our
+Research & Development experience to grow this channel. We are also expanding our supply to more restaurant
+chains and outlets to grow this product category. The Division also resumed participation in more food fairs as the global economy continues to reopen. In 2024, the
+Division participated in a total of 4 exhibitions, namely:
+1. Anuga Asia Thaifex Bangkok, Thailand
+2. SIAL Paris, France
+3.
+[MDA_P004]
+MIFB Trade Fair, Kuala Lumpur Convention Centre, Kuala Lumpur
+4. TLM Food Expo, Penang
+Operationally, the Division performed well in 2024, benefiting from the stabilization of raw material prices. Overall,
+direct material costs decreased by approximately 3%, with significant reductions in key ingredients, i.e. soybeans
+and flour. The price of soybeans decreased by 1%, while flour prices saw a more substantial decline of 10%. These
+cost savings contributed to improved profitability, as the Division was able to optimize its production costs without
+compromising product quality. The implementation of imbalanced cost pass-through (ICPT) in 2023 saw a significant increase in utility rate from
+RM0.037/kWh to RM0.20/kWh. In response to this significant hike in energy costs, the Division initiated a solar
+project in November 2024 as part of its strategy to reduce energy expenses. By investing in renewable energy, the
+Division aims to lower operational costs in the long term as well as enhance its sustainability efforts. All in all, Year 2024 has been a good year for the Division and we foresee it to perform better in the next financial
+year.
+[MDA_P005]
+To maintain this momentum, the Division will continue to prioritize automation and digitalization initiatives,
+with a focus on enhancing cost-efficiency and streamlining operations. By embracing these technologies, we aim
+to drive greater productivity, reduce operational costs, and ensure sustained growth in the years to come. MANAGEMENT DISCUSSION
+AND ANALYSIS
+[MDA_P006]
+ANNUAL REPORT 2024
+REVIEW OF THE OPERATING ACTIVITIES (cont’d)
+Bedding Products Division
+The Division has invested in the operations of The KING KOIL Flagship Stores. Currently, it has 13 Flagship Stores
+via a licensing agreements with dealers selling only specific models. As at 31 December 2024, the Flagship Stores are in the following locations:
+1. Jalan Bangsar, Kuala Lumpur
+2. Sunway Pyramid, Kuala Lumpur
+3. Old Klang Road, Kuala Lumpur
+4. Ikano Power Centre, Kuala Lumpur
+5. Sungai Besi, Kuala Lumpur
+6. Gurney Plaza, Penang
+7. Vivacity, Kuching, Sarawak
+8. Imago, Kota Kinabalu, Sabah
+9. Paradigm Mall, Johor Bahru
+10. Mid Valley South Bay, Johor Bahru
+11. Toppen Shopping Centre, Johor Bahru
+12. Pavilion Bukit Jalil, Kuala Lumpur
+13. Cheras 11th Mile, Selangor
+During the year under review, the Division has seen improvement in sales for its project segment. The Division has
+continued to intensify its efforts to put eye-catching brand graphics on trucks or lorries to increase exposure of its
+brand to a larger audience gaining traction as these trucks or lorries drive around town.
+[MDA_P007]
+The Division also invested
+into digital billboards to build brand awareness and boost sales to its business. With the right advertising methods,
+visuals and market targeting, the Division believes it can garner the attention of its target market and drive sales. The recent challenges and shifts in the global market have led to unprecedented growth in digital and e-commerce
+sectors. These platforms have become increasingly popular and it is now an indispensable part of the Division’s
+strategy. The Division will continue to accelerate its digital transition to capitalise on the growth of the business via
+digital and e-commerce platforms. In 2024, the Division continued to be actively involved in its e-commerce activities by participating in various
+campaigns on both Lazada and Shopee platforms during special festivities such as:
+1. Paydays Sale
+2. Chinese New Year Sale
+3. Ramadan Sale
+4. Parents’ Day Special
+5. Merdeka Special
+6. Black Series Introductory Offer
+7.

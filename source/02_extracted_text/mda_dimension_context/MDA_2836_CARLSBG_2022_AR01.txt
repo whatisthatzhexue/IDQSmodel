@@ -1,0 +1,137 @@
+document_id: MDA_2836_CARLSBG_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 68, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+CORPORATE
+STRATEGY: SAIL’22
+OUR TWO
+ENABLERS
+OUR SEVEN
+STRATEGIC PRIORITIES
+OUR THREE
+STRATEGIC LEVERS
+CREATE A
+WINNING
+CULTURE
+STRENGTHEN
+THE CORE
+‘Grow in Mainstream’ with
+Carlsberg Danish Pilsner and
+Carlsberg Smooth Draught
+‘Win in Each Store’
+with better in-store
+execution
+‘Fund the Journey’ by
+delivering efficiencies and
+building growth capabilities
+POSITION
+FOR GROWTH
+‘Go Big in Premium’ with 1664, Somersby
+Cider, Connor’s Stout Porter and Asahi
+‘Build New Revenue Streams’ with
+Alcohol-Free Brews and e-Commerce
+DELIVER
+VALUE FOR
+SHAREHOLDERS
+Achieve ‘Growth in Net Profit’
+Deliver stable dividend yield for
+shareholders
+DEFEND
+OUR
+LICENCE
+TO
+OPERATE
+ABOUT SAIL’22
+SAIL’22 was a seven-year (2016-2022) corporate strategy launched
+by the Carlsberg Group, building upon our purpose of Brewing for a
+Better Today and Tomorrow. SAIL’22 was spearheaded by the three strategic levers of Strengthen
+the Core, Position for Growth and Deliver Value for Shareholders. Two enablers underpinned these three levers – Create a Winning
+Culture throughout our organisation, and Defend Our Licence to
+Operate for business sustainability.
+[MDA_P012]
+We updated our FIT guidelines to raise the standard of in-store
+executions and to ensure that the right products are made
+available at the right places, based on market opportunities. Our comprehensive distribution network was also supported by
+tools to deliver excellence in customer service. Liverpool FC legends Sami Hyypiä and John Barnes taking a wefie with Carlsberg’s guests at the Carlsberg x Liverpool FC LEGENDary Experience held at Plaza
+Arkadia.
+[MDA_P015]
+Challenges Faced
+As with any other project of such scale and complexity,
+especially amid the global supply chain disruption and labour
+shortages, we experienced delays in installation and faced a
+slower rate of production initially. However, we overcame this challenge by conducting rigorous
+testing-and-commissioning to resolve technical glitches. We
+also deployed risk mitigation measures and interventions with
+additional technical experts and increased production hours to
+meet the year-end festive and Chinese New Year peak seasons. Sailing Forward
+As we enter the first year of SAIL’27, our Malaysia operations
+will be operationalising the OnePlan programme by the
+second half of 2023 to reduce complexity in demand and
+supply planning. This single, harmonised way of planning will
+transform our ways of working in the commercial, procurement
+and finance areas and enable us to identify capacity constraints
+quicker than today and respond faster to demand. MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P025]
+WHO WE ARE
+SAILING
+FORWARD
+PRIORITIES
+AND COMMITMENTS
+FINANCIAL STATEMENTS
+OTHER INFORMATION
+Integrated Annual Report 2022
+LEADERSHIP
+CREATING
+SUSTAINABLE VALUE
+As a result of the Funding the Journey mindset, we continued to be prudent in our operating expenses
+but disciplined in our resource allocation to fund the production plant upgrade and reinvestment into
+premiumisation. Our cash flow remained strong, with total free cash flow for the Group standing at RM276.1 million,
+an increase of 21.1% in 2022 as compared to 2021. Revenue from our Malaysia operations increased by 43.0% to RM1.7 billion, mainly driven by higher
+sales and price adjustments. Profit from operations improved by RM146.4 million or 77.5%, contributed
+by the increase in revenue and value management initiatives. In our Singapore operations, revenue grew by 21.2% to RM679.9 million and profit from operations grew
+by 54.9% to RM89.9 million. In addition, the share of profits from LBCP in 2022 was RM21.5 million, an increase of 41.8%, offsetting
+a one-off surcharge tax of RM3.7 million for 2022.
+[MDA_P026]
+This encouraging result was mainly driven by
+undisrupted production despite the political and economic turmoil that Sri Lanka faced throughout
+the financial year. Deliver Stable Dividend Yield for Shareholders
+During the year, we were pleased to deliver consistent quarterly interim dividends, paid within 30 days
+of the date of announcement. The cumulative interim dividends for FY2022 amounted to 63 sen per
+ordinary share. With the proposed final dividend of 25 sen per ordinary share, the total declared and
+proposed dividend of 88 sen per ordinary share represents a 85% payout of the Group’s consolidated
+net profit for 2022. We will continue to deliver on prudent dividend payouts, taking into consideration the Group’s
+performance, business prospects, capital requirements, expansion strategy and other factors considered
+relevant by the Board. In 2022, the Group’s net profit increased by 57.7% and revenue grew 36.1% year-on-year.
+[MDA_P027]
+The main
+drivers were higher sales from the recovery of on-trade consumption, a better portfolio and channel
+mix, value management and price adjustments to mitigate the impact of escalating commodity costs
+in both Malaysia and Singapore, despite the one-off impact of the RM22 million Prosperity Tax
+imposed by the Malaysian government for 2022. Profit after tax (PAT) was higher by 59.0% at RM324.9 million due to undisrupted operations and
+production in Malaysia, optimal cost controls and improved results from Lion Brewery (Ceylon) PLC
+(LBCP), which recorded a share of profits of RM21.5 million in 2022, an increase of RM6.3 million
+year-on-year. Revenue (RM million)
+1,785.0
+1,772.8
+2,412.5
+Earnings per Ordinary Share (sen)
+53.04
+65.74
+103.70
+Net Profit (RM million)
+162.2
+201.0
+317.0
+Return on Shareholders’ Fund
+105.1
+107.9
+181.1
+DELIVER VALUE FOR SHAREHOLDERS
+Guided by our ambition to be the most successful, professional and attractive brewer in the
+markets we operate in, we are committed to improving our performance year-on-year. This is
+achievable given our ability to sustain net profit growth and deliver stable dividend yield for our
+shareholders.

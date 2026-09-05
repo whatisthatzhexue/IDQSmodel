@@ -1,0 +1,20 @@
+[TITLE]
+Atletico de Madrid owners in advanced talks to sell majority stake to Apollo, sources say
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-09-19
+source_name: The Star
+url: https://www.thestar.com.my/sport/others/2025/09/19/atletico-de-madrid-owners-in-advanced-talks-to-sell-majority-stake-to-apollo-sources-say
+confidence_tier: low
+
+[NEWS_P001] LONDON (Reuters) - Owners of Atletico de Madrid are in advanced talks to sell a majority stake in the top-tier Spanish soccer club to Apollo Global Management, according to three people with knowledge of the deal. The U.S. firm could take control of the club by acquiring part of stakes owned by the club's CEO, Miguel Angel Gil Marin, and its chairman, Enrique Cerezo, one of the sources said. It could also buy shares from investment fund Ares Management, a second source said.
+
+[NEWS_P002] Apollo might not get a majority stake at first, but is expected to obtain it during a later stage of the transaction, a third person said. That person added that management is expected to stay and that the owners may only sell part of their holdings. A deal would mark the latest venture into sports by private equity firms, attracted by their stable and predictable revenue streams. Spanish publication Expansion first reported the talks concerned a majority stake sale, adding that a deal would value the club at 2.5 billion euros ($2.9 billion).
+
+[NEWS_P003] The three sources, who cautioned that a deal is not guaranteed and negotiations could still fall apart, spoke on condition of anonymity because the talks are private. Apollo and Ares declined to comment. Gil Marin and Cerezo declined to comment via a representative. The three investors own about 70% of the club through Atletico Holco. The remainder is owned by shipping and energy group Quantum Pacific, according to the club's website. A representative of Quantum Pacific was not immediately available to comment.
+
+[NEWS_P004] Apollo has three months of exclusivity that runs until mid-October to invest in the club, one of the people said. Atletico de Madrid has said that it would need to undertake a capital increase of at least 60 million euros to invest in the squad and build sport and leisure projects around its Metropolitano Stadium in Madrid. It added it would bring in new partners to invest capital. New York-listed Apollo, which manages more than $800 billion in assets, is planning to launch a $5 billion sports investment vehicle, the Financial Times has reported.
+
+[NEWS_P005] The global sports sponsorship market is expected to reach $115 billion in 2025 and at the current growth rate, will top $160 billion by 2030, according to consultancy firm PwC. ($1 = 0.8490 euros) ($1 = 0.8494 euros) (Reporting by Andres Gonzalez and Amy-Jo Crowley in London; Editing by Anousha Sakoui and Edwina Gibbs)

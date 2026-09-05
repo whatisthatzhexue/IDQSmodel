@@ -1,0 +1,86 @@
+document_id: MDA_4707_NESTLE_2023
+dimension_code: AR02
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 8, "section_count": 1, "section_headings": ["Unknown"]}
+numeric_check_summary:
+{"document_id": "MDA_4707_NESTLE_2023", "has_cost_discussion": true, "has_margin_discussion": false, "has_profit_discussion": true, "has_revenue_discussion": true, "has_segment_discussion": false, "num_calculable_changes": 0, "num_consistent_checks": 0, "num_financial_mentions": 6, "num_material_discrepancies": 0, "num_minor_discrepancies": 0, "num_severe_direction_conflicts": 0, "overall_numeric_consistency": "not_enough_numbers"}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+“In the face of global headwinds and
+uncertainties, Nestlé Malaysia demonstrated
+continued resilience in 2023, always guided
+by our commitment to fulfil the diverse
+expectations of Malaysians and reinforce our
+trusted position as the Good food, Good life
+Company, that is leading the industry transition
+in Malaysia towards a greener future.”
+FINANCIAL REVIEW
+The year 2023 witnessed an economically volatile landscape,
+marked by persistent inflationary pressures, heightened
+commodity prices and unfavourable exchange rates, as well
+as geopolitical tensions, aggravated by the conflicts and
+humanitarian crises. Against this background, Nestlé Malaysia
+delivered another year of resilient results and progress at
+multiple levels. Business growth was primarily driven by local
+sales which grew by 9.9%, contributing to a higher turnover of
+RM7.1 billion in 2023. As in prior years, this was the result of
+our holistic strategy, including robust commercial planning and
+execution, successful innovations across brands, and a constant
+search for efficiencies to generate the funds needed to continue
+investing in our brands.
+[MDA_P002]
+Supporting this was a strategic array of initiatives, including
+targeted campaigns that spanned both traditional offline
+channels and digital platforms. Our product innovation and
+renovation initiatives further strengthened our portfolio, aligning
+it with the evolving preferences of our diverse set of consumers. Additionally, our commitment to continuous operational efficiency
+improvements enabled us to optimise resources and drive cost-
+effectiveness throughout our value chain. We also intensified
+our ESG agenda, attaining solid progress in key sustainability
+programmes during the year, guided by our CSV approach. All
+efforts combined, we were able to deliver another year of solid top
+line growth, resilient profitability and healthy dividends. Juan Aranols
+Chief Executive Officer
+[MDA_P003]
+Nestlé (Malaysia) Berhad
+Management Discussion and Analysis
+BUSINESS & OPERATIONAL REVIEW
+Nestlé Malaysia’s sustained performance builds on the solid foundation established through our
+112-year legacy in the country. On this base, we strive to achieve excellence across all facets
+of our operations. Our dedicated teams, spanning across our businesses, manufacturing, sales
+and operational functions, work in effective alignment and coordination to propel our Company
+forward. Through their relentless efforts, we have maintained our position as the leading FMCG
+company in Malaysia. Driving Sustainable Growth Momentum
+Our manufacturing facilities, coupled with a robust nationwide logistics network, have ensured
+a seamless and consistent supply of our locally-produced high-quality products to meet the
+evolving demands of consumers. Complementing this is our extensive and highly experienced and
+committed commercial organisation, which has continued to protect and expand the presence
+of our core brands through impactful engagement and strategic demand generation campaigns.
+[MDA_P004]
+In 2023, we maintained a sharp focus on amplifying consumer excitement and enhancing
+accessibility for new products, while scaling up the reach of our market-leading brands to ensure
+that they remain top-of-mind for consumers. The introduction of innovative offerings in tandem
+with the continued nurturing of our brands has been instrumental in sustaining the relevance of
+our portfolio and supporting sales momentum across categories. Innovation Fuelled by Consumer Insights
+By immersing ourselves in the nuanced needs and evolving tastes of our consumers, we can
+unlock valuable insights that inspire and inform our product development efforts. These insights
+fuel the continuous product innovation that allows our much-loved brands to maintain a strong
+presence and relevance in the lives of Malaysians. Recognising emerging trends towards healthier and more sustainable options, we proactively
+expanded our plant-based offerings in 2023. To our HARVEST GOURMET plant-based meals
+range as well as our range of Dairy Free drinks under the MILO and NESCAFÉ brands, we have
+now added our new NESTLÉ GOODNES brand, providing an even broader range of delicious and
+nutritious plant-based choices.
+[MDA_P005]
+Our commitment to promoting healthier lifestyles was further reflected in our 41 products certified
+with the Ministry of Health’s Healthier Choice Logo (HCL), which remains the largest portfolio of
+HCL options in the nation, demonstrating our dedication to offering products that support the
+wellbeing of Malaysians. A green wave of enthusiastic participants swept over MBD 2023, as 60,000 participants gathered at
+Dataran Wawasan Putrajaya, united by a common goal of prioritising their health and fitness. We also remained attuned to consumer demand for indulgent and premium offerings, with several
+key product innovations that created great interest among consumers. Nestlé MILO Kaw Ice
+Cream, KIT KAT Pink Ice Cream, and the limited edition KIT KAT Salted Caramel Cookies created
+moments of delight. Additionally, we introduced new innovations that catered specifically to local
+taste preferences, such as MAGGI Curry Cube, MAGGI Mi Goreng Laksa Warisan, and MAGGI
+Pedas Giler Cheezy Berapi, further solidifying our connection with the diverse culinary preferences
+of Malaysians, as well as other multiple innovations across the rest of our portfolio.

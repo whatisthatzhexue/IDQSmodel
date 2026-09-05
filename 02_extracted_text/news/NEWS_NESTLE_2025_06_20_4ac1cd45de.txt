@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI perks up in late-morning trade as regional sentiment improves
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/20/fbm-klci-perks-up-in-late-morning-trade-as-regional-sentiment-improves
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: A late-morning rally in Bursa Malaysia's blue chips leading up to the lunch break took the FBM KLCI into positive territory on Friday. The benchmark index, which had been range-bound for much of the early session, jumped 3.35 points to 1,504.79 in a surge of buying interest marked by gains in financial heavyweights. Broader market sentiment, however, remained subdued as the number of declining issues outweighed advancing by a ratio 1.87-to-1.
+
+[NEWS_P002] There was also subdued trading on the market with 1.15 billion shares changing hands for a low value of RM663.67mil as investors awaited the outcome of trade negotiations of Malaysian policymakers in Washington. In banking counters, CIMB rose 11 sen to RM6.69 and Maybank gained seven sen to RM9.67. Hong Leong Bank climbed 16 sen to RM19.56, followwed by eight sen for RHB to RM6.32 and three sen for Public Bank to RM4.22. Nestle reversed its earlier losses to put on RM16 sen to RM71.72 while Kuala Lumpur Kepong gained 24 sen to RM19.96.
+
+[NEWS_P003] Of actives, PUC rose 0.5 sen to 2.5 sen, Astro dropped 1.5 sen to 16 sen and Pavilion REIT shed two sen to RM1.52. In regional markets, there was some rebound in equities prices after US President Donald Trump said he would wait two weeks before deciding on a potential attack on Iran. Hong Kong's Hang Seng snapped three days of losses to rise 1.15% to 23,504. China's blue-chip CSI300 added 0.24% to 3,852 while the country's composite index was little changed at 3,364.
+
+[NEWS_P004] Japan's Nikkei slid 0.12% to 38,443.

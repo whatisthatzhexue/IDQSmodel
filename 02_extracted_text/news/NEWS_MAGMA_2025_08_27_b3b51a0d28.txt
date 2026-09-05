@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI fails to rebound as previous day's decline sparks caution
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2025-08-27
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/27/fbm-klci-fails-to-rebound-as-previous-day039s-decline-sparks-caution
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The strong selling momentum on the FBM KLCI yesterday put investors on a cautious footing, which could prevent a quick rebound on the market. "The sell-down was rather drastic amid a regional sell-off as illustrated by the spike in daily trading volume to above the four billion level," said Rakuten Trade in a note. "Whilst we are hoping for an immediate rebound, we believe yesterday’s aggressive selling may have dented the underlying confidence somewhat thus expect the index to hover within the 1,580-1,590 range today." At the start of trading, the index was lying nearly flat against its previous closing price, eking out a 0.18-point gain to 1,581.77.
+
+[NEWS_P002] There was little support from the banking heavyweights following a sharp sell-off yesterday on profit-taking activities. Maybank was flat at RM9.75 while Public Bank dropped six sen to RM4.36, despite the previous day's declines, which were in tandem with the MSCI rebalancing activities. According to Malacca Securities, market participants are adopting a "wait and see" approach ahead of key technology earnings. "The FBMKLCI closed lower after breaching the 1,600 psychological level.
+
+[NEWS_P003] "However, technical indicators are showing positive signals: the MACD histogram is in positive territory, while the RSI is above the 50 level. Resistance is anticipated around 1,596–1,611, while support is located at 1,561–1,566," it said in a report. Early price movers included Kuala Lumpur Kepong down 14 sen to RM19.56, PETRONAS Chemicals shedding 12 sen to RM4.67 and Ambank sliding five sen to RM5.45. Of actives, Magma gained 3.5 sne to 34 sen, Pharmaniaga rose 0.5 sne to 17.5 sen and VTC climbed two sen to 32 sen.

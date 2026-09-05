@@ -1,0 +1,18 @@
+[TITLE]
+US softens tariff on Malaysia, boosting FBM KLCI
+
+[METADATA]
+ticker: MSM
+company_name: MSM Malaysia Holdings Berhad
+publish_date: 2025-08-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/01/us-softens-tariff-on-malaysia-boosting-fbm-klci
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Investors welcomed the reduction in US tariffs on Malaysian exports, with sentiment turning positive in early trade after the rate was lowered to 19% from the previous 25%. The FBM KLCI rose 8.97 points, or 0.59%, to 1,522.22 at 9.09 am, after opening 6.62 points higher at 1,519.87. On Bursa Malaysia, gainers included Malaysian Pacific Industries , which rose 40 sen to RM20.54, UMS Integration, which added 25 sen to RM5.25, Synergy House up 20 sen to 61.5 sen, and Maybank, gaining 17 sen to RM9.56.
+
+[NEWS_P002] Meanwhile, Heineken slipped 12 sen to RM23.80, United Malacca fell 10 sen to RM5.25, Chin Tek eased five sen to RM9.75, and MSM dropped five sen to 97 sen. “We are of the view that the imposition of a 19% tariff rate on Malaysian goods exported to the US could bode well for the Malaysian economy and stock market, as it offers a relatively competitive position compared to higher global tariff regimes,” said Berjaya Research Sdn Bhd. The research house said the reduced tariff level supports domestic industries while maintaining openness to trade, potentially attracting foreign investment and boosting investor confidence.
+
+[NEWS_P003] Under the latest US tariff list, Malaysia, Thailand, Indonesia, the Philippines, and Cambodia each face a 19% rate. Vietnam faces a 20% tariff, while Brunei is listed at 25%. Laos and Myanmar are subject to the highest rate at 40%. Singapore is not included in the latest round of adjustments. On the technical front, Berjaya Research noted that the FBM KLCI has formed a bearish candlestick pattern, indicating a continuation of its downward-bias consolidation.
+
+[NEWS_P004] However, the research house believes bargain hunting may emerge following greater clarity over tariff rates. This is seen as mildly positive and could lift the key index towards its immediate resistance at 1,540 points, with the next level at 1,550 points. “On the downside, near-term support is seen at 1,511 points, followed by 1,500 points,” it said.

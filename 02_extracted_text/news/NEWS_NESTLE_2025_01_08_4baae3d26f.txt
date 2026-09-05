@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia tumbles as over 800 stocks end in the red
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-01-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/08/bursa-malaysia-tumbles-as-over-800-stocks-end-in-the-red
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia finished lower on Wednesday, with over 800 counters ending in the red, as profit-taking activities weighed on sentiment in line with subdued regional markets. At 5pm, the FBM KLCI closed at its intraday low, down 14.96 points or 0.92% to 1,614.83, after reaching an intraday high of 1,631.15. All indices on Bursa Malaysia ended in the red. Decliners outpaced advancers, with 827 losers, 497 gainers, and 497 counters unchanged.
+
+[NEWS_P002] Turnover was 3.59 billion shares valued at RM3.06bil. Dealers said profit-taking activities remain widespread, particularly on stocks that were driven up during last year’s window dressing activities. Nestle fell the most, down 80 sen to RM95. Malaysian Pacific Industries lost 72 sen to RM25.08, PETRONAS Dagangan declined 40 sen to RM19.64 and MISC fell 32 sen to RM7.23. Among the gainers, United Plantations jumped 42 sen to RM31.38, F&N added 42 sen to RM27, NPC Resources gained 30 sen to RM2.90 and Dutch Lady climbed 20 sen to RM31.20.
+
+[NEWS_P003] ACE Market debutant Swift Energy Technology surged 41.07%, or 11.5 sen, to 39.5 sen. It was the most active counter on Bursa Malaysia, with 332.82 million shares traded. Meanwhile, the ringgit was quoted at 4.5030, down 0.35% against the US dollar. The local unit, however, rose 0.2% against the Singapore dollar at 3.2944. Elsewhere in the region, Japan’s Nikkei 225 fell 0.26%, Hong Kong’s Hang Seng Index closed down 0.86%, China’s CSI 300 Index declined 0.18%, while South Korea’s Kospi closed up 1.16%.

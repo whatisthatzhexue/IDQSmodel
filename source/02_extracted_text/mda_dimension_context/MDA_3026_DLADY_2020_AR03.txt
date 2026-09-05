@@ -1,0 +1,166 @@
+document_id: MDA_3026_DLADY_2020
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 24, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+obesity and stunting, especially amongst
+children. Beyond
+providing
+innovative
+products to better suit the dietary needs of
+Malaysians, DLMI has raised the awareness of
+the dual burden issues via multiple platforms
+leveraging on platforms such as the World Milk
+Day, online programmes. This is in addition to
+our periodic engagements with the Ministry of
+Health to encourage developments of policies
+that include milk products into Government
+driven programmes to ensure a healthy
+generation of Malaysians in the future. Performance
+The year 2020 began with great plans and
+ambitions. However, the COVID-19 pandemic
+changed the course of the year’s plans. As
+an organisation that is rooted in providing
+Nutrition and Nourishing Malaysians as our
+core purpose, we stood strong in facing this
+challenge and stood firm in our commercial
+strategy. In fact, we stayed agile in our
+approach to adapt to the new normal and
+focused on our core priorities, our commercial
+performance and emerged strong with overall
+volume increase of +7% vs 2019 as a total
+company. Zooming into our Consumer Dairy portfolio,
+we are happy to share that we hit all our
+commercial KPIs for 2020!
+[MDA_P005]
+Besides ensuring full product availability
+throughout the MCO period, DLMI nourished
+key Government frontliners as well as partnered
+with various Non-Government Organisations
+(NGOs), Key Opinion Leaders such as Yayasan
+Basmi Kemiskinan, Yayasan Salam Malaysia,
+Masjid Tun Abdul Aziz, and Foodbanks in
+providing nutritious milk products to assist the
+underprivileged and the B40 community in
+these challenging times. This initiative under
+the DLMI Cares (Prihatin) programme has
+benefitted more than 20 frontliner bodies and
+NGOs with contribution of approximately more
+than 200,000 milk packs, but has also created
+energy and passion among our employees by
+helping our fellow countrymen in need. At the farm level, DLMI continues to take its
+responsibility in developing a sustainable dairy
+industry by partnering with the Government
+via the Dairy Development Programme to
+increase local production of high-quality raw
+milk. This successful partnership with the
+Minister of Agriculture and Food Industry
+and the Department of Veterinary Services,
+especially to grow local raw milk supply
+has contributed to an increase of local milk
+supply by 30% in 2020.
+[MDA_P006]
+This partnership will
+be further strengthened moving forward in
+achieving the Government’s goal of a Self-
+Sufficiency Level for fresh milk at 67 million
+litres by 2025. Further, on this journey of Nourishing our
+nation, DLMI continues to raise awareness
+and empower Malaysians on the dual burden;
+Record
+high
+Record
+high
+overall
+production
+volume
+increaseD
+compared
+to 2019
+36.7%
+60.7%
+7%
+household
+penetration
+(+6.2pp vs 2019)
+Source: Kantar WP
+market share
+in the liquid
+milk category
+(+1.2pp vs 2019)
+Source: AC Nielson
+[MDA_P007]
+MANAGEMENT DISCUSSION & ANALYSIS
+For our Specialised Nutrition portfolio, our
+Growing Up Milk segment had performed
+well ahead of the category. We continue
+to see growth in penetration of Growing
+Up Milk to 24.4% (+1.2pp vs 2019, source
+Kantar WIP). This resulted in a further
+increase in our value share to 41.6%
+(+1.2pp vs 2019, source AC Nielsen), clearly
+leading the category. We maintained our
+strong performance with continued rigorous
+brand building activities and distribution
+expansion despite movement control order
+(MCO). As part of our mission in nourishing
+Malaysian
+children
+with
+quality
+dairy
+nutrition, in 2020, we also launched Dutch
+Lady MaxGro, a milk based formula dietary
+food for children 1-9 years of age. Dutch Lady
+MaxGro is especially formulated to support
+a child’s optimal growth. The launch comes
+with special growth application that can
+be used by mothers to track their child’s
+physical growth progress and cognitive
+development. For our premium brand, Friso Gold faced
+multiple challenges at the beginning of 2020
+that impacted negatively on our consumers
+including channel disruption during MCO.
+[MDA_P008]
+By end-2020, Friso Gold’s performance had
+stabilised contributed by a strong integrated
+TrackEasy launch across all our touchpoints. The introduction of the industry’s first and
+only smart packaging innovation, TrackEasy,
+brought further brand visibility for Friso
+Gold. TrackEasy allowed our consumers
+to trace the full journey from source
+(farm checks) to milk collection, packaging,
+final quality checks right up to retail. By year
+end, the brand’s value share closed at 10.7%
+in December from 8.7% in January. Finally,
+a
+special
+mention
+of
+teams
+working virtually to turn around multiple
+digital creatives and initiatives during the
+Movement Control Order, in order to continue
+driving our purpose of Nourish Malaysians
+with quality dairy nutrition to help them
+move forward in life. This included Public
+Service Announcements, Milk Giveaways to
+Frontliners & B40 families, reminder to stock
+up in store and recipe ideas while you are
+staying safely home. Overall, although profitability was under
+pressure due to COVID-19 costs, high milk
+prices and foreign exchange, the commercial
+team can walk tall knowing we did our best to
+stay focused on our purpose and came out
+stronger!
+[MDA_P015]
+With all these changes, we recognise
+the importance of keeping our employees continuously
+engaged, energised and supported during this trying
+time, simply because as a Company, we care. During this
+period it has been our main priority – to maintain a strong
+culture, Stronger Together with numerous actions below
+to stay connected. Dutch Lady Milk Industries Berhad
+Annual Report 2020

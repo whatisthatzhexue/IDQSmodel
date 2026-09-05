@@ -1,0 +1,24 @@
+[TITLE]
+Wall Street set for higher open as rate-cut expectations tick up
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2024-06-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/06/05/wall-street-set-for-higher-open-as-rate-cut-expectations-tick-up
+confidence_tier: low
+
+[NEWS_P001] U.S. stock index futures edged up on Wednesday as investors strengthened bets for an imminent start to rate cuts by the Federal Reserve, after a slew of reports signaled a weakening labor market and slowing growth in the world's largest economy. A late rally saw Wall Street ending Tuesday's session slightly higher, paring earlier losses, with rate-sensitive real estate stocks and consumer staples leading sector gains. That was on the heels of initial declines, after data showed U.S.
+
+[NEWS_P002] job openings in April fell to their lowest in more than three years - the latest report to suggest U.S. economic growth is cooling - allowing the Federal Reserve more leeway to cut interest rates. Benchmark U.S. Treasury yields slipped to their lowest level since April after the ADP National Employment report showed private employers increased their headcounts by 152,000 in April, significantly lower than forecast. Declining yields helped boost rate-sensitive megacap stocks in premarket trading, with Nvidia, Microsoft and Amazon.com up between 0.3% and 1.2%.
+
+[NEWS_P003] Traders now expect about 45 basis points of easing this year, according to the LSEG rate probabilities app. Additionally, expectations for a September rate reduction are now at over 67%, versus below 50% last week, according to the CME's FedWatch tool. With major indexes near all-time highs, investors are juggling worries of a weakening economy with hopes this would lead to earlier policy easing than previously anticipated. "The odds of recession have increased just from the data that we've seen...
+
+[NEWS_P004] the economy has tricked us and been more resilient than people expect, but at some point it's going to falter," said Thomas Martin, vice president and senior portfolio manager at Globalt Investments. He said some investors would also be more inclined to book profits. "A few big names around AI have driven the market, and when you have that kind of positioning and you get something that's a little bit weaker... the market gets nervous." Investors now await the nonfarm payrolls report, due Friday, for a comprehensive evaluation of the labor market.
+
+[NEWS_P005] Surveys on the services sector from S&P Global and the Institute for Supply Management, due later on Wednesday, will also be closely watched. At 8:32 a.m. ET, Dow e-minis were up 71 points, or 0.18%, S&P 500 e-minis were up 12.5 points, or 0.24%, and Nasdaq 100 e-minis were up 82.75 points, or 0.44%. Among others, Dollar Tree reversed earlier gains, slipping 2.3% after a disappointing quarterly profit forecast. The budget retailer said it would explore options that include a potential sale or spin-off of Family Dollar.
+
+[NEWS_P006] Intel gained 0.8% after buyout firm Apollo Global Management agreed to purchase a 49% equity interest for $11 billion, in a joint venture related to the chipmaker's Ireland manufacturing unit. Applied Materials added 2.2% after brokerage Barclays upgraded the chip stock to "equal weight" from "underweight". CrowdStrike Holdings jumped 12.1% after forecasting second-quarter revenue above estimates when markets closed on Tuesday, helped by strong demand for its cybersecurity offerings.
+
+[NEWS_P007] Hewlett Packard Enterprise forecast third-quarter revenue above Street expectations, helped by upbeat demand for its AI servers, sending its shares up 15.7%. - Reuters

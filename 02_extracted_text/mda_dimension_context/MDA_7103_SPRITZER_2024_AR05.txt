@@ -1,0 +1,85 @@
+document_id: MDA_7103_SPRITZER_2024
+dimension_code: AR05
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 29, "section_count": 1, "section_headings": ["Unknown"]}
+structure_features_json:
+{"average_sentence_length_chars": 126.61, "paragraph_count": 29, "paragraph_length_distribution": {"max": 1189, "mean": 964.0, "min": 166}, "repetition_ratio": 0.0, "section_count": 1}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion and Analysis
+BUSINESS AND OPERATIONS OVERVIEW
+The Malaysian economy grew by 5.0% in the fourth
+quarter of 2024. This performance was supported by
+strong expansion in investment activities, growth in
+export of goods and services and sustained household
+spending. For the overall 2024, Malaysia’s economy had
+achieved 5.1% growth marking a significant growth from
+the 3.7% achieved in 2023 driven by stronger domestic
+demand and higher investment. This marked a shift from
+the slower growth in 2023, which was affected by weaker
+global demand and tighter monetary conditions. In 2024,
+better investor confidence, a rebound in tourism and
+construction, and easing inflation boosted household
+spending. Overall, improved local and global conditions
+helped Malaysia recover and strengthen its economic
+performance compared to the previous year. Our Group’s revenue continued to reflect this economic
+strength, achieving an encouraging 21% growth in the
+current quarter and 18% for overall 2024.
+[MDA_P008]
+SPRITZER BHD
+ANNUAL REPORT 2024
+REVIEW OF FINANCIAL RESULTS AND FINANCIAL CONDITIONS
+Revenue
+The Group recorded a revenue of RM579.0 million in the year ended December 31, 2024, which is a 18% increase from the
+RM490.7 million recorded in the previous year. The Group’s current year revenue from manufacturing segment of RM554.3
+million represents an increase of 18% from RM468.6 million in the previous year. Revenue from trading segment increased
+11% from RM20.9 million to RM23.1 million in the year ended December 31, 2024. The increase in the Group’s sales revenue in the year ended December 31, 2024, is due to the increase in sales volume
+of bottled water from the manufacturing segment. Trading segment’s revenue for the year ended December 31, 2024,
+increased due to higher sales volume. Other gains and losses
+Included in other gains and losses for the year ended December 31, 2024, are income from sale of fresh fruit bunches
+(“FFB”) totalling RM2.6 million (2023: RM1.8 million) and property, plant and equipment written off amounting to RM6.3
+million (2023: RM0.8 million).
+[MDA_P015]
+As of December 31, 2024, the Company’s market
+capitalisation rose by 69% to RM977.4 million, compared
+to RM578.8 million as at the end of the previous year,
+driven by an increase in the market price per share to
+RM3.07 (2023: RM1.83). Bonus issue
+On November 27, 2024, UOB Kay Hian Securities (M) Sdn
+Bhd (“UOBKH”) had, on behalf of the Board, announced
+that Spritzer proposed to undertake a bonus issue of up
+to 319,314,145 new ordinary shares in Spritzer (“Spritzer
+Shares”) on the basis of 1 Bonus Share for every 1
+existing Spritzer Share held on an entitlement date to be
+determined later. The Bonus Shares will upon allotment
+and issuance, rank pari passu with the then existing Shares
+and would be issued as fully paid, at zero consideration
+and without capitalisation of the Company’s reserves.
+[MDA_P022]
+Reputation Risk
+Being the leading bottled water company with dominant
+market share, our core brands have high brand equity. To
+sustain and to enhance the image and reputation of the
+Group and our branded products, we are committed to
+high product quality and cultivate strong discipline to
+improve continuously. We cultivate ethical and responsible
+business behaviour with a strong culture to manage and to
+ensure compliance with the applicable standards, internal
+policies and procedures, external rules and regulations,
+and good practices. We invest in and focus on effective
+communication, image, and brand building. We are
+also mindful of the emergence of certain brand boycott
+activities in Malaysia. Business Operations Risks
+Our significant business operations risks include the risk
+of adequacy and suitability of water supply, supply chain
+risk, customer/consumer loyalty risk, regulatory risk, anti-
+bribery, and corruption risks. We have suitably qualified and
+experienced personnel to manage our business operations
+and we have established proper business processes to
+ensure the proper mitigation and management of our
+business operations risks.
+[MDA_P029]
+With our strong brand equity and strategic initiatives, the
+Board trusts the Group’s ability to maintain its market
+leadership position in the bottled water industry.

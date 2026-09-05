@@ -1,0 +1,158 @@
+document_id: MDA_3689_FN_2021
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 89, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management
+Discussion
+& Analysis
+[MDA_P002]
+Market
+Review
+FY2021 has been signiﬁcantly more challenging
+than FY2020 for our Malaysian, Thai and Export
+operations for three main reasons: Covid-19, the
+increase in price of commodities, as well as that
+of freight charges. In both Malaysia and Thailand, after a period
+during which Covid-19 cases seemed to be
+coming under control, the numbers started
+increasing again from the beginning of 2021
+and then again from the middle of the year. Each
+wave of the pandemic led to supply chain
+disruptions, reduced production, and softened
+consumer demand, the overall effect being to
+dampen the economy. Although gross development product (GDP) for
+Malaysia and Thailand improved in 2021
+compared to 2020 – with predicted growth
+coming in at between three per cent and four
+per cent in Malaysia, and one per cent in
+Thailand1 – this is from a very low base in 2020,
+when GDP shrunk 5.6 per cent and 6.1 per cent
+in both countries, respectively. Overall, the
+economies of Malaysia and Thailand have yet
+to reach pre-pandemic levels. The price of commodities, meanwhile,
+increased for several reasons, including
+reduced output.
+[MDA_P004]
+As for shipping, limited capacity has been
+pushing up the cost of freight since the last
+quarter of 2020, the increase further
+accelerating from the beginning of 2021.4
+According to the World Bank, https://www.reuters.com/
+world/asia-paciﬁc/world-bank-cuts-thai-gdp-growth-outlook-
+1-this-year-2021-09-28/
+According to the CPOC, https://www.cpopc.org/wp-content/
+uploads/2021/07/2021_PALM-OIL-SUPPLY-AND-DEMAND-
+OUTLOOK-REPORT-WITH-REFINITIV-1.pdf
+https://www.wsj.com/articles/sugar-prices-soar-after-
+brazilian-cold-snap-11630659234
+According to THINK Economic and Financial Analysis,
+https://think.ing.com/articles/the-rise-and-rise-of-global-
+shipping-costs
+Consumers’ expectations of companies have
+evolved signiﬁcantly over the years. Whilst,
+initially, consumers were focused on products
+and the lifestyles they stood for; today, they
+are more swayed by how the products were
+made, and the values of the producing
+companies. Consumers today actively seek
+brands that play their part in making the world
+cleaner, healthier, more resilient and
+equitable.
+[MDA_P006]
+•
+We have increased the use of recycled
+material in our packaging to 22% and aim
+for all our beverage and dairy packaging
+material to be 100% recyclable. To further
+promote recycling and post-consumption
+waste management, we are a pioneering
+member of the Malaysian Recycling
+Alliance, an industry coalition taking the
+lead in Extended Producer Responsibility
+(EPR) in Malaysia. •
+This year, we have conducted a human
+rights risk assessment to uphold the
+human rights of all stakeholder groups
+across our value chain. •
+Sri Nona Companies which dominate the
+ready-to-cook ketupat market, and is No. 2 in the oyster sauce segment, provide us
+with a strong base to supply halal
+packaged food for home consumption
+and meet the rising demand for
+convenience and ready-to-eat food
+products. We are looking into expanding
+our product range and production
+capacity to support this segment. •
+In line with the fact that people are
+cooking more, we focused our marketing
+efforts on in-home consumption, and
+especially our dairy products as these
+have multiple applications in food
+preparation.
+[MDA_P023]
+•
+Deliver F&N’s brand promise to
+consumers through product excellence
+•
+Retain and increase market share
+through product range expansion and
+portfolio diversity
+•
+Reputational risk and customer claims
+arising from a break in the supply chain
+or compromised packaging outside the
+factory
+•
+Regulatory changes that may affect
+product recipe and/or packaging
+Product & Service Labelling
+Labelling our products and services
+in a responsible and transparent
+way for consumers. •
+Meet regulatory requirements
+•
+Meet consumer expectations relating to
+product and ingredient communication
+•
+Failure to meet stakeholder expectations
+on transparency of product information
+Innovation
+Building competitive advantage
+through innovative products and
+solutions to meet consumer and
+societal needs.
+[MDA_P027]
+• Proactively identify and address human
+rights risks in F&N’s operations and
+supply chain ensures a safe workforce
+• Reduce inequalities (e.g. gender
+inequality)
+• Improve productivity and resource
+efficiency
+• Human rights violations in operations
+and supply chain lead to regulatory risks,
+monetary ﬁnes and reputational risk
+• Disruption to operations
+• Demotivated and unproductive workforce
+Human Capital Development
+Attracting, developing, and retaining
+high-performing employees, creating
+an inclusive and diverse culture. • Skilled and diverse employees allow
+F&N to deliver our business strategy and
+remain competitive
+• Ef fective training and upskilling
+programmes contribute to a high-
+performance culture
+• Provide job opportunities for the local
+community where we operate
+• Challenge to attract and retain talent
+• Adapting to the rapid skill set requirement
+changes of the evolving market
+Employee Safety, Health &
+Well-being
+Improving and maintaining the
+health, safety and well-being of our
+employees.

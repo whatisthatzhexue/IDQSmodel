@@ -1,0 +1,20 @@
+[TITLE]
+Trading ideas: Duopharma, Bursa Malaysia, SEGi, Capital A, Rimbunan Sawit, Tasco, Atrium REIT, KSL, GUH, Mentiga and F&N
+
+[METADATA]
+ticker: FFB
+company_name: FarmFresh
+publish_date: 2024-05-02
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/02/trading-ideas-duopharma-bursa-malaysia-segi-capital-a-rimbunan-sawit-tasco-atrium-reit-ksl-guh-mentiga-and-fn
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a summary of the corporate announcements that made headlines. Duopharma Biotech Bhd has accepted 11 letters of offers from Pharmaniaga Logistics Sdn Bhd for the supply of pharmaceutical and/ or non-pharmaceutical products worth RM578.09mil. Stock exchange operator Bursa Malaysia Bhd net profit rose 34% to RM75.03 million for the financial quarter ended March 31, 2024 (1QFY2024), from RM56.17 million a year before, thanks to higher trading activity and fees from listings and other services.
+
+[NEWS_P002] SEG International Bhd’s (SEGi) group managing director and major shareholder Tan Sri Clement Hii has bought over private equity firm Navis Capital Partners Ltd' 20.55% stake in SEGi for RM112.98 million cash or 45 sen per share. Capital A Bhd CEO Tan Sri Tony Fernandes said the low-cost carrier, which will soon merge with AirAsia X Bhd , will incorporate a “sustainability fee” soon. Rimbunan Sawit Bhd is expecting around 40% increase in its fresh fruit bunches (FFB) production for the financial year ending Dec 31, 2024 (FY2024) and is anticipating higher crude palm oil (CPO) prices due to growing demand.
+
+[NEWS_P003] Logistics solutions provider Tasco Bhd 's net profit for the financial quarter ended March 31, 2024 (4QFY2024) fell 18% year-on-year to RM17.86 million, from RM21.8 million, attributable to weaker air freight and ocean freight forwarding divisions, as freight rates fell back to pre-pandemic levels. Atrium Real Estate Investment Trust (REIT) saw its net rental income increase by 20.24% to RM10.65 million for 1QFY2024, from RM9.22 million a year before.
+
+[NEWS_P004] KSL Holdings Bhd has proposed to acquire 22 land parcels in Pulai measuring a total of 183.33 acres for RM211.58 million from three units of Tropicana Corp Bhd , with plans to develop 628 units of residential properties beginning 2028. GUH Holdings Bhd said its construction division has secured an RM69.49 million contract under the Sungai Rasau water supply scheme project from Gamuda Bhd . Mentiga Corp Bhd ’s external auditor has flagged that the loss-making group's current liabilities have significantly surpassed its group's current assets, based on its financial statements for FY2023.
+
+[NEWS_P005] Fraser & Neave Holdings Bhd (F&N) posted a net profit of RM165.41 million in the second quarter ended March 31, 2024 (2QFY2024), compared to RM101.18 million a year before, driven by higher sales amid Chinese New Year and Hari Raya festival seasons and better margins.

@@ -1,0 +1,40 @@
+[TITLE]
+Ringgit on the rise
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-11-14
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/11/14/ringgit-on-the-rise
+confidence_tier: low
+
+[NEWS_P001] PETALING JAYA: Economists are renewing their optimism for the ringgit following its week-long winning streak against a basket of major currencies including the US dollar, betting for the strong showing to press on as the local note’s appreciation is supported by domestic and external conditions. The current uptrend has been notable given its strengthening is not only against the greenback, but also compared to other major and regional currencies including the euro, yuan, yen, Singapore dollar and baht.
+
+[NEWS_P002] Mohd Sedek Jantan, investment strategist and country economist at IPP Global Wealth, explained that the local currency’s recent strong performance is not a single-factor narrative, but the convergence of a more credible domestic macro environment, a labour market that is finally translating into real demand, and an external landscape that is less hostile than it was even six months ago. “Domestically, a firmer current account position and better trade inflows are providing a more stable base for the ringgit.
+
+[NEWS_P003] “The labour market remains healthy, supported by strong employment and sustained minimum wage adjustments, which help underpin household spending. “Targeted cash transfers are also contributing to better purchasing power without placing undue pressure on fiscal balances. “Together, these elements sit within the wider Madani policy framework, which aims to create more balanced economic conditions,” he told StarBiz. Externally, Mohd Sedek observed that narrowing interest-rate differentials and expectations of a US Federal Reserve (Fed) pivot towards rate cuts have eased upward pressure on the US dollar.
+
+[NEWS_P004] At the same time, he said improved sentiment around US-China trade relations has encouraged renewed interest in regional assets, including Malaysia, before noting that this combination of softer dollar dynamics and better risk appetite has been favourable for the ringgit. Similarly, senior economist at United Overseas Bank (UOB) Julia Goh believes that the easing of US trade tensions and the US government’s reopening have supported risk sentiment overall.
+
+[NEWS_P005] She said: “The ringgit has risen sharply against the dollar since late October, breaking below the key 4.20 level, with the Malaysian note continuing to firm. “The recently concluded reciprocal trade deal with the United States, featuring major tariff concessions, reinforces Malaysia’s trade competitiveness and provides somewhat more clarity for trade. Goh told StarBiz that further support for the ringgit comes from expectations of a strong third quarter gross domestic product result for Malaysia due to be announced on Nov 14, with Bank Negara Malaysia holding its policy rate steady.
+
+[NEWS_P006] However, both economists recognise potential banana skins as well as the flipside of a strong ringgit, with Mohd Sedek conceding that the appreciation path is unlikely to be perfectly smooth, pointing out that periods of rapid strengthening for the currency may lead to brief technical pullbacks, which are typical in currency cycles. The economist predicts the ringgit ending this year at RM4.15 to the US dollar, implying around 7.2% appreciation since the RM4.47 level of Jan 1.
+
+[NEWS_P007] “Looking further ahead, we see more structural factors coming into focus. We expect the upward trend to continue into the first half of next year (1H26), driven by external tailwinds and improving perception of Malaysia’s macro direction. “The second half of next year will depend more on domestic factors – particularly policy execution, economic resilience, and clear communication,” said Mohd Sedek. He added that investor sentiment on fiscal discipline and structural reform would play a meaningful role in sustaining the ringgit’s strength, commenting that while markets frequently adjust to data volatility or external shocks, uncertainty over fiscal direction or reform consistency tends to have a deeper impact on sentiment.
+
+[NEWS_P008] “This distinction matters because economic indicators reflect current conditions, while fiscal strategy and reform efforts shape expectations about the future. “This helps explain why, even though S&P Global’s Malaysia Manufacturing Purchasing Managers’ Index slipped slightly from 49.8 to 49.5, business confidence rose to its highest level since April 2023. “Firms appear to be responding to improving policy clarity rather than to minor short-term fluctuations in activity data,” he said.
+
+[NEWS_P009] Mohd Sedek said fiscal discipline and structural reforms – including subsidy retargeting, labour-market improvements, and clearer industrial priorities – have become important anchors for investor confidence, signalling greater economic stability and a more predictable operating environment. He remarked that Malaysia’s recent move towards reciprocal trade agreements also contributes to reducing policy uncertainty and improving investor visibility, before adding that when businesses have more certainty about the trade and policy landscape, investment decisions become easier, followed by currency stability.
+
+[NEWS_P010] UOB’s Goh expected the ringgit to touch RM4.07 to the dollar by end-2026, noting that revisions are possible if current momentum persists. However, she acknowledged that key risks include the Fed’s Federal Open Market Committee meeting and decision next month, particularly its guidance on the 2026 rate-cut trajectory. “While the United States government shutdown has ended, the short-term funding bill only extends through Jan 30, raising the risk of another fiscal standoff after the holiday season.
+
+[NEWS_P011] “These events risks could disrupt the current foreign exchange trend,” she cautioned. Meanwhile, a research head of a foreign brokerage believes the consumer, travel, banking and utilities sectors would continue to benefit as the local note keeps up its appreciation. He also pointed out that the rubber gloves, technology and plantation industries may see eroding margins concurrently as these are export oriented sectors with ringgit-denominated expenses.
+
+[NEWS_P012] He said many consumer goods companies import raw materials, packaging, and finished goods, and as such a stronger ringgit lowers import bills, easing margin pressure. “We believe names like Nestle (Malaysia) Bhd, MR DIY Group (M) Bhd , Fraser & Neave Holdings Bhd and Padini Holdings Bhd will benefit from this respect. “Also, with jet fuel and aircraft leases being dollar-denominated, together with natural gas and coal being US-priced imports, we feel companies such as Capital A Bhd , Malaysia Airports Holdings Bhd , Tenaga Nasional Bhd and Malakoff Corp Bhd will also stand to gain,” said the research head.
+
+[NEWS_P013] Bernard Aw, Asia Pacific chief economist at credit insurer Coface, said fundamentally, the active pursuit of greater fiscal prudence, reflected in Budget 2026, and steps taken towards economic development opportunities such as the Johor-Singapore Special Economic Zone are support pillars for the ringgit. He said investors’ confidence in Malaysia’s fiscal discipline and continued reform efforts is significant as long-term drivers of ringgit strength.
+
+[NEWS_P014] “Malaysia’s commitment to deficit reduction has been well-received as it signals fiscal sustainability and reduces sovereign risk. “Recent appreciation in the ringgit is supported by a shift towards seeing Malaysia as a relatively stable emerging market, in which sustained reform efforts and continued fiscal consolidation is critical to maintain this perception,” Aw said. At 4pm yesterday, the ringgit was trading at RM4.13 to the greenback, RM3.17 to the Singapore dollar, RM4.79 to euro, while also strengthening against the yen, the yuan and the Hong Kong dollar.
+
+[NEWS_P015] However, it depreciated marginally in the day against the baht to 13 sen.

@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia rises as trade tensions, inflation risk eases
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-02-05
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/02/05/bursa-malaysia-rises-as-trade-tensions-inflation-risk-eases
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The domestic market could be extending its rebound after recent US jobs data pointed to a higher chance of a rate cut by the Federal Reserve. The benchmark FBM KLCI opened 1.07 points higher at 1,565.63 on Wednesday, a day after global equities rallied on the back of hopes that US President Donald Trump would be open to negotiations with China to circumvent a full-blown trade war. Meanwhile, Wall Street was also galvanised by upbeat earnings, including from Palantir and Spotify, which boosted the major indices.
+
+[NEWS_P002] "Back home, the FBM KLCI finally showed a promising performance as buying on blue chips returned," said Rakuten Trade in its daily outlook. "Though the retail space remains tight from the lack of liquidity, we need to see better improvements in the daily volume before participation from retailers normalises. "For today, we anticipate the index to hover within the 1,560-1,570 range." Malacca Securities Research said given the pullback in the construction sector over the past month, there might be bargain-hunting opportunities supported by the JS-SEZ initiatives and data centre boom in the country.
+
+[NEWS_P003] "Although traders have turned cautious toward glove counters following President Trump’s decision to pause his tariff orders on Mexico and Canada, we believe investors may hold on as earnings season approaches and we expect sequential growth in their earnings. "We also favour Oriental Kopi for its explosive growth potential, its candidacy for a main market transfer and the anticipated shariah status bode well for the company," it added in a note. On Bursa Malaysia, Gamuda rose 12 sen to RM4.30 and Tenaga Nasional climbed 14 sen to RM13.68.
+
+[NEWS_P004] Nestle bounced 56 sen higher to RM88.78 Of actives, Oriental Kopi gained one sen to 91 sen, Advance Synergy was flat at 9.5 sen and Bintai Kinden gained 0.5 sen to 10.5 sen.

@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI in the red, ringgit hits one-year high
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-08-01
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/08/01/fbm-klci-in-the-red-ringgit-hits-one-year-high
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI succumbed to profit-taking activities, lingering mostly in negative territory on Thursday, while the ringgit climbed against the US dollar. The 30-stock index was down 1.32 points, or 0.08% to 1,624.25 after moving between its intraday high of 1,626.35 and low of 1,621.44. Losers outpaced gainers 654 to 442, while 483 counters were unchanged. About 3.5 billion shares, valued at RM2.71bil, changed hands. The ringgit was quoted at 4.5730, appreciating 0.38% against the US dollar.
+
+[NEWS_P002] It advanced as much as 1% earlier to trade at 4.545 per dollar, its highest level in a year. The local unit was also higher against the Singapore dollar at 3.4172 and British pound at 5.8446. In terms of fund flows, foreign funds and retailers were net buyers on Wednesday acquiring equities worth RM121mil and RM20mil respectively. Local institutions sold equities worth RM141mil. Dutch Lady , the top loser on Bursa Malaysia slid 72 sen to RM30.78. Malaysian Pacific Industries lost 50 sen to RM37.10, PETRONAS Dagangan fell 50 sen to RM17.24 and F&N eased 42 sen to RM30.42.
+
+[NEWS_P003] Among the gainers, Nestle rose 40 sen to RM109, Aeon Credit added 27 sen to RM7.45, United Plantations added 24 sen to RM26.44 and Country View gained 17 sen to RM1.95. Around the region, MSCI's Asia ex-Japan stock index was firmer by 0.4%. Japan’s Nikkei 225 fell 2.49%, Hong Kong’s Hang Seng Index lost 0.23%, South Korea’s Kospi closed up 0.25% and China’s CSI 300 index declined 0.66%.

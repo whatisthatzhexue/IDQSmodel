@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI ends higher as caution caps momentum
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-06-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/06/20/fbm-klci-ends-higher-as-caution-caps-momentum
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI ended marginally higher on Friday, lifted by selective buying in blue chips, although overall market sentiment remained cautious amid global economic concerns and geopolitical tensions in the Middle East. The FBM KLCI rose 1.30 points, or 0.09%, to 1,502.74 after hitting an intraday high of 1,507.97 and a low of 1,500.04. Despite the gains, the FBM KLCI posted a full-week decline of 1.01%. Market activity was encouraging, with 2.6 billion shares worth RM3.4bil changing hands.
+
+[NEWS_P002] Market breadth, however, was negative, with 319 gainers versus 518 losers, while 505 counters remained unchanged. Dealers said investors remained cautious amid prevailing market uncertainty, with concerns over global economic conditions and ongoing geopolitical tensions in the Middle East continuing to weigh on sentiment. Among the gainers, Nestle rose 96 sen to RM72.52, Carlsberg added 92 sen to RM19.66, Malaysian Pacific Industries gained 90 sen to RM20.50 and Hong Leong Financial Group increased 58 sen to RM16.58.
+
+[NEWS_P003] PETRONAS Gas slid 54 sen to RM17.48, BAT fell 19 sen to RM4.37, Kluang Rubber lost 16 sen to RM5.75 and Petron Malaysia Refining & Marketing gave up 16 sen to RM3.73. According to data from Bursa Malaysia, foreign investors continued to sell local stocks on Thursday, offloading RM110mil worth of equities. Meanwhile, local institutions purchased RM115mil worth of equities, while retailers sold RM4mil. On the forex market, the ringgit was up 0.03% against the greenback to 4.2595.
+
+[NEWS_P004] The local currency declined by 0.3% against the euro, trading at 49,042. It also fell 0.4% against the pound sterling, reaching 5.7408, and dropped 0.18% against the Singapore dollar, closing at 3.3148. Among the key regional markets: Japan’s Nikkei 225 closed down 0.22% to 38,403.23; South Korea’s Kospi added 1.48% to 3,021.84; Hong Kong’s Hang Seng Index rose 0.93% to 23,453.00; China’s CSI 300 Index climbed 0.09% to 3,846.64; Taiwan’s Taiex added 0.19% to 22,045.74 and; Singapore’s Straits Times Index gained 0.02% to 3,894.80 points.

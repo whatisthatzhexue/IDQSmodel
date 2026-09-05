@@ -1,0 +1,18 @@
+[TITLE]
+FBM KLCI stays firm, but profit-taking pressures mount
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2024-05-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/08/fbm-klci-stays-firm-but-profit-taking-pressures-mount
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The rally on the domestic market could be taking a pause as global markets digest recent gains following a resurgence of investor sentiment. Having crossed the 1,600 psychological level in the previous session, the benchmark FBM KLCI rode the positive momentum 1.28 points higher at Wednesday's open to 1,607.91. However, analysts caution there could be profit-taking later in the day as investors await fresh leads on interest rate developments, both globally and domestically.
+
+[NEWS_P002] Overnight, US equities took a breather as investors sought direction on when the Federal Reserve could start cutting rates cuts. The Dow Jones rose 0.1% to 38,884 while the Nasdaq slipped 0.1% to 16,332 and the S&P500 shed 0.1% to 5,187. "We reckon the local bourse may take a pause amid weakened sentiment in the global stock markets. "Still, the extended inflows of foreign funds are likely to provide support to the local stock market," said Apex Securities Research in its market outlook.
+
+[NEWS_P003] Looking ahead, the research firm said investors are now awaiting the release of Malaysia's retail sales as well as Bank Negara's and Bank of England's interest rate decision this coming Thursday. Meanwhile, Malacca Securities Research said the overall uptrend on Bursa Malaysia remains intact but the significant gains over the past two weeks could lead to profit-taking activities. "Nevertheless, we still like the technology sector as more investments will be seen from big MNCs and should provide healthy sentiment towards the local markets," it said in a note.
+
+[NEWS_P004] In early trade, leading counters include Nestle up 40 sen to RM128.70, Kuala Lumpur Kepong adding 10 sen to RM23.22 and Malaysia Airports rising 10 sen to RM10.32. CTOS, which released a set of positive quarterly results yesterday, rose six sen to RM1.46 while AirAsia X maintained its rally by seven sen to RM1.69. Top actives included Ingenieur losing 0.5 sen to eight sen, TWL unchanged at 2.5 sen and Sapura Energy flat at five sen.

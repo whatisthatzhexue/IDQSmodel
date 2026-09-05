@@ -1,0 +1,110 @@
+document_id: MDA_3689_FN_2020
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": false}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 37, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+BUSINESS REVIEW:
+Food and Beverages
+Malaysia
+Managing Director,
+Domestic Commercial Operations
+(Peninsular Malaysia)
+Bryan Lee Chee Kong
+Director, Domestic
+Commercial Operations
+(East Malaysia & Brunei)
+Bart Lim Siang Chin
+[MDA_P004]
+While the market
+shrank considerably due to the Movement Control Order (MCO) and its iterations,
+relentless focus on product and marketing innovation, as well as effective
+execution targeted at meeting new norms in the marketplace, helped us to ride
+out the storm. Movement restrictions and social distancing had a significant yet differentiated
+impact on sales. Coffee shops, cafes, restaurants and hotels ceased operations
+during the height of the MCO, while demand from petrol marts, convenience
+stores and traditional trade retailers also fell significantly. In contrast, modern
+trade outlets continued to enjoy brisk sales as Malaysians were keen to get all their
+groceries at one go. E-commerce channels also continued to gain traction. Without doubt, the most exciting product introduced during the year was that
+of F&N Teh Tarik, our ready-to-drink version of the ‘national drink’. We launched
+F&N Ready-to-Drink Teh Tarik Ori seven months earlier than planned, foreseeing
+heightened demand following the temporary closure of mamak outlets.
+[MDA_P007]
+BUSINESS REVIEW:
+Food and Beverages
+Malaysia (Cont’d.)
+OUTLOOK
+The immediate future is wrought with the ongoing
+pandemic as well as local and global uncertainties. Despite the volatile landscape, we have been able to
+discern emerging trends and harness opportunities
+as efficiently as possible. Most pertinently, demand for healthier beverages
+is set to increase further. Catering to this, we have
+already planted the seeds for a greater presence
+in the wellness category. We will be focusing on
+purposeful innovation to nurture our health and
+wellness basket. At the same time, we will remain nimble and
+responsive to changes in consumers’ behaviour
+to optimise our investments and deliver the most
+effective marketing strategies. Having already scaled
+up F&N Life, we will continue to build the momentum
+gained to leverage the potential of online consumer
+engagement and sales fully. Continued emphasis on meeting consumers’ and
+customers’ expectations will lend us an edge, and
+bring smiles to everyone. MARKETING HIGHLIGHTS
+MALAYSIA
+F&N LIFE
+F&N Life was launched on 9 January 2020, enabling
+consumers to order their favourite F&N products in
+bulk and at competitive prices.
+[MDA_P008]
+In addition to offering
+our products, F&N Life provides product details and
+nutrition values, recipes and loyalty programmes. It
+is also an effective platform for online campaigns,
+contests and marketing activities. During Ramadan, F&N Life more than made up for
+the absence of bazaars with its digital campaign,
+‘Gerai Rasa Raya F&N’ offering ten value-add bundles
+that put together favourite soft drinks as well as
+dairy products. Not only were these delivered free to
+consumers throughout Peninsular Malaysia, but first-
+timers to the online store were also given a rebate. The campaign also included a cooking contest
+offering winners RM500 cash and RM500 F&N Life
+e-vouchers. OUR FINANCIAL PERFORMANCE
+Product innovation combined with execution excellence in both domestic and
+exports market helped to mitigate the market contraction due to COVID-19,
+enabling F&B Malaysia to record a slight 5.7 per cent decrease in revenue for
+the year to RM2.04 billion. Operating profit decreased by 10.0 per cent from RM161.1 million to RM144.9
+million during the period under review, mainly due to lower revenue and higher
+input costs.
+[MDA_P019]
+*Based on Retail Index Service for Carbonated Soft Drink category for the 12 months
+ending July 2020 in Total Malaysia. (Copyright © 2020, The Nielsen Company (M)
+Sdn Bhd)
+2.
+No. 1* in Total Malaysia in the Isotonic Segment in the Carbonated Soft Drink
+category
+[MDA_P026]
+In
+the mainstream segment, TEAPOT maintained its
+lead with the introduction of squeezable tubes in
+Matcha Green Tea and Mango flavours, improving its
+in-home penetration. The 1kg pouches of Carnation
+and TEAPOT evaporated milk also proved very
+popular, especially among hawkers looking for value
+deals. Sales of these products increased from 5,000
+cases a month in November 2019, when they were
+launched, to 25,000 cases in September 2020. We continued providing support to our hawker
+customers in domestic Thailand market, Cambodia
+and Laos through a loyalty programme utilising
+innovative digital media. Through this programme,
+the team ensured a high level of engagement
+with hawker customers by setting up a Line chat
+specifically for them (which now has more than
+8,000 members) and keeping track of the hawkers’
+movements and orders to ensure they are always
+well-stocked with our products. The Export market performed particularly well this
+year, growing by 14 per cent thanks to strong sales
+in Cambodia and Laos, which contributed to over
+RM200 million in revenue along with expanded
+distribution and reach.

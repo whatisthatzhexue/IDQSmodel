@@ -1,0 +1,48 @@
+document_id: MDA_2828_CIHLDG_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 13, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P010]
+Management
+Discussion And Analysis
+(Cont’d)
+Despite all the challenges and uncertainties during the pandemic, the Group is proud to state that we strived to protect the
+employees’ future by paying their full take-home salaries, annual bonuses and salary increments without delay, with no pay cuts
+whilst not resorting to any employee lay-offs. Review Of Operating Activities
+Operating Activities
+The Group is pleased with its performance during these challenging times. The Group’s Profit Before Interest and Taxation (“PBIT”)
+of RM127.87 million was up 101% compared to the RM63.58 million of the previous year’s corresponding period. The positive
+growth was particularly attributed from the improved operating margin due to favorable selling margins at destination markets
+because of sharp increases in prices resulting in increased immediate delivery contracts. The higher margins and prices are thus
+less susceptible to price negotiations with the customers. Aside from that, there were no further significant developments in the operating activities during the financial year.
+[MDA_P011]
+Anticipated Or Known Risks
+Foreign Exchange Risk
+The Group exports approximately 95% of its products worldwide each year, thereby increasing the risk of exposure to currency
+exchange. However, this risk is mitigated by way of forward currency contracts, wherever possible. Country Risk
+To a large extent, financial performance is dependent on political, economic and regulatory environment in the importing
+countries. Any adverse developments may result in default of contracts, collection problems leading to bad debts and possible
+loss of market share. The Group thus closely monitors the situation on a weekly basis of the importing countries to identify, plan
+and execute counter measures to mitigate such risks. Future Prospects
+Possible Trend And Outlook
+The Group will focus on its expansion plans for revenue growth for its edible oil operations and with smart partnership tie-up with
+property developers for the Tap and Sanitary Ware Divisions to enhance shareholders’ value. The Edible Oil Products Division is focusing on expanding its customer base. We believe that it is sustainable to approach new
+and reliable customers in various markets who currently buy from our competitors.
+[MDA_P012]
+We will also focus on our own product range,
+especially our own palm olein house brands and non-oil products such as soap-related products, evaporated and condensed milk
+and milk powder to improve future earnings and margin. The Group is also looking into expanding the capacity of manufacturing
+jerry cans. In addition, the division has also initiated cost control measures in its daily operations. The Tap and Sanitary Ware Division will emphasize the retail market and online retail stores as more contractors now purchase
+tapware and sanitary wares from the hardware retailers. This division will focus on direct distribution to the retail outlets and
+recruiting the related building industry stockists to retail taps and fittings. Additionally, the Tap and Sanitary Ware Division managed to secure several hospital projects to ensure a more sustainable and
+long-term business model, with more still in the negotiation stage. The division will continue to focus on the specification and
+extension of its range of products in the healthcare market.
+[MDA_P013]
+The division also aspires to be the “Station Master” for tap and sanitary
+ware for all MRT and LRT stations nationwide, after securing the supply tender to all 32 MRT2 stations from Sg Buloh – Serdang
+– Putrajaya. Moving forward, it is looking to secure more of such projects and expand their retail market segment to ensure a sustainable
+stream of income for a better profit margin for the Group. Dividend Policy
+The Group has no dividend policy in place on the account of possible requirements of funds for future expansions and growth. ANNUAL REPORT 2021
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)

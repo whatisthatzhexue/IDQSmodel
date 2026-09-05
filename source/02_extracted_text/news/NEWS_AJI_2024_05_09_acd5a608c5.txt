@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI steps back 0.22%, VSTECS hits record
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-05-09
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/09/fbm-klci-steps-back-022-vstecs-hits-record
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI took a small step back today on profit-taking amid cautious sentiment. At 5pm, the 30-stock index closed 3.53 points, or 0.22% higher at 1,601.22 after rising to an intraday high of 1,607.38. Market breadth was positive with 601 gainers, 458 losers and 532 counters unchanged on the Bursa Malaysia. Traded volumes fell to 4.65 billion shares valued at RM3.13bil. According to data on Bursa Malaysia, foreign investors continued to buy into local stocks on Wednesday, acquiring RM323mil worth of equities.
+
+[NEWS_P002] Local institutions and retailers sold equities worth RM307mil and RM16mil respectively. Overall market sentiment remained cautious as investors awaited the overnight policy rate (OPR) announcement by Bank Negara. The central bank kept the OPR steady at 3% after its monetary policy committee (MPC) meeting today, a move seen as supportive of the domestic economy while keeping inflation in check. PETRONAS Dagangan experienced the largest decline on Bursa Malaysia, dropping 34 sen to RM21.46.
+
+[NEWS_P003] Kuala Lumpur Kepong shed 28 sen to RM22.92, MSM lost 22 sen to RM3.26 and Malaysian Pacific Industries fell 20 sen to RM31. VSTECS hit the limit up, surging 29.71% or 82 sen to a record high of RM3.58, with 17.45 million shares traded. It has risen 37.69% in the past five days. The company was named as the first Amazon Web Services (AWS) distributor in Malaysia. Batu Kawan rose 32 sen to RM20.36, Kobay added 20 sen to RM1.93, Allianz gained 18 sen to RM21.68 and Ajinomoto climbed 18 sen to RM19.28.
+
+[NEWS_P004] Meanwhile, the ringgit rose 0.04% to 4.7395 against the US dollar. The local currency was up 0.25% against the euro at 5.0852. It also rose 0.12% against the Singapore dollar at 3.4931 and up 0.19% against the pound sterling at 5.9121. Around the region, MSCI's Asia ex-Japan index was lower by 0.27%. Japan’s Nikkei 225 ended down 0.34% at 38,073.98, while South Korea’s Kospi ended 1.2% lower at 2,712.14. Hong Kong’s Hang Seng Index closed up 1.22% at 18,537.81.
+
+[NEWS_P005] China’s blue-chip CSI300 index finished 0.95% higher at 3,664.56, while the Shanghai Composite Index added 0.83% to 3,154.32.

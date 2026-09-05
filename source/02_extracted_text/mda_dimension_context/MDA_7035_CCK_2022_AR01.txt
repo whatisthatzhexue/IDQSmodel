@@ -1,0 +1,134 @@
+document_id: MDA_7035_CCK_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": false, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 27, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION & ANALYSIS
+Revenue
+RM885.7
+million
+Profit After Tax
+RM63.1
+million
+Profit Before Tax
+RM81.4
+million
+Total Assets
+RM505.3
+million
+Total Liabilities
+RM143.1
+million
+Earnings Per Share
+10.12
+sen
+Current Ratio
+2.3
+times
+[MDA_P002]
+ANNUAL REPORT 5
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+5-YEARS FINANCIAL SUMMARY (CONT’D)
+SEN
+EPS
+Dividend per share
+1.25
+4.09
+1.75
+2.00
+1.25
+3.50
+10.12
+3.91
+5.98
+5.28
+NUMBER OF RETAIL STORES &
+SUPERMARKETS (UNITS)
+Supermarkets
+Retail stores
+1,000,000
+800,000
+600,000
+400,000
+200,000
+RM’000
+REVENUE
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+RM’000
+EBITDA
+100,000
+80,000
+60,000
+40,000
+20,000
+RM’000
+PROFIT BEFORE TAX
+80,000
+60,000
+40,000
+20,000
+RM’000
+PROFIT ATTRIBUTABLE TO
+OWNERS OF THE COMPANY
+[MDA_P007]
+ANNUAL REPORT 7
+MANAGEMENT DISCUSSION & ANALYSIS (Cont’d)
+INTRODUCTION (CONT’D)
+During the current financial year, CCK completed the acquisition of PT Bonanza. PT Bonanza operates out of Tarakan,
+Indonesia and processes shrimp for local and export sales. Principal products include frozen raw shrimp, frozen
+cooked shrimp and frozen Nobashi Ebi shrimp. The synergistic acquisition has complemented the Group’s export-
+oriented prawn products and added size and scale to the prawn segment.
+REVIEW OF FINANCIAL PERFORMANCE
+Revenue for FY2022 increased by 29.2% to RM885.7 million from last year (“FY2021”). The record revenue achieved
+during the year was due to a significant improvement in performance from all business segments. Notably, a general
+recovery in consumer demand due to the upliftment of movement controls in Sarawak led to an outperformance in the
+retail segment and an improvement in the poultry segment.
+The food service segment benefited from the re-opening of schools in Sarawak whilst the prawn segment was boosted
+by a recovery in export volume, growth in domestic sales, and the contribution from the newly acquired PT Bonanza
+in Q3FY2022 and Q4FY2022.
+[MDA_P009]
+Tracking the performance of the retail segment, demand for poultry products improved in FY2022 due to the re-
+opening of food and beverage outlets, demand from institutional clients and improved consumer sentiment. Poultry
+sales via our own retail stores (intersegment sales) also contributed to segment performance, leading to a 16.5%
+increase in total segment revenue to RM327.6 million for the period. The prawn segment’s revenue grew by 184.2% to RM57.8 million for FY2022. This significant growth was due to the
+contribution from our recently acquired subsidiary PT Bonanza that was completed in Q3FY2022. The performance
+of PT Bonanza boosted overall segment export volumes to Japan and Taiwan. Exports (ex. PT Bonanza) to other
+markets continued to gain momentum whilst domestic sales via our own retail channels also increased in tandem with
+the recovery in overall demand. The food service segment benefited from the re-opening of schools in Sarawak, as FY2022 revenue grew 280.2% to
+RM22.5 million. Profit before tax (“PBT”) for FY2022 increased by 160.9% to RM81.4 million.
+[MDA_P010]
+This significant growth in overall
+profitability was largely due to an outperformance from the retail segment and a turnaround in the poultry segment. Additionally, the contribution from PT Bonanza in Q3FY2022 and Q4FY2022 boosted the prawn segment whilst
+the re-opening of schools in Sarawak drove the performance of the food service segment. Gross profit margins for
+FY2022 inched up to 18.2% from 17.4% in FY2021. The retail segment continued to be the largest contributor to Group PBT, reporting a segment profit of RM67.0
+million. This translated to a 90.3% growth in profitability versus FY2021. The significant growth was driven by a
+myriad of factors, namely; increased contributions from new CCKLocal supermarkets and CCK Fresh Mart stores,
+strong demand for our in-house manufactured processed products in Indonesia, an overall improvement in consumer
+sentiment driving sales volumes in our retail and wholesale channels, and a one-off gain from disposal of investment
+property amounting to RM6.0 million in Q3FY2022.
+[MDA_P014]
+This was funded by a combination of bank borrowings and internally generated funds. REVIEW OF OPERATIONS
+[MDA_P020]
+The Group maintains an adequate level of cash and cash equivalents and banking facilities to ensure sufficient
+liquidity to meet its liabilities as and when they fall due. The Group’s exposure to liquidity risk arises principally
+from trade payables, other payables and other bank borrowings (bankers’ acceptances and a revolving credit).
+d.
+Competition Risk
+[MDA_P023]
+In line with our continued focus on shareholder returns, the Board is pleased to announce a first and final single-tier
+dividend of 3.5 sen per share for the financial year ended 31 December 2022.
+PROSPECTS
+With Covid-19 and movement restrictions firmly behind us, consumer sentiment has recovered as all sectors of the
+economy returned to normal. This is expected to have a positive direct impact on all our business segments as the
+flowthrough effects of a complete reopening is realised.
+That said, the volatility of the US dollar against the Malaysian Ringgit remains a concern as it leads to fluctuations in
+prices of corn and soy. This is further exacerbated by heightened inflation that has led to an overall increase in raw
+material input costs as well as along the supply chain. This phenomenon is likely to persist into the coming financial
+year and will affect the cost structures of both the retail and poultry segments.

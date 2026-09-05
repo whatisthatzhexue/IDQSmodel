@@ -1,0 +1,16 @@
+[TITLE]
+KLCI dips on profit taking, stays firmly above 1,600 level
+
+[METADATA]
+ticker: AJI
+company_name: Ajinomoto
+publish_date: 2024-05-08
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/05/08/klci-dips-on-profit-taking-stays-firmly-above-1600-level
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI finished marginally on Wednesday but remained firmly above the 1,600-point level, as profit-taking on select blue chips dragged. The 30-stock index closed down 0.93 of a point, or 0.06% to 1,604.75 after hitting an intraday high of 1,610.25. Winners and losers were closely balanced, with 568 gainers against 571. Activities were encouraging with 5.38 billion shares worth RM3.55bil changed hands. Dealers said the local bourse was unable to sustain its gains due to some emerging profit-taking following the recent gains.
+
+[NEWS_P002] MNRB Holdings, the top gainer on Bursa Malaysia, jumped 28.89%, or 52 sen to RM2.32 with 17.15 million shares traded. For the financial year ended March 31, MNRB’s net profit improved significantly to RM428.34mil from RM142.65mil in FY23 on revenue of RM3.6bil compared to RM2.97bil in the previous year. F&N rose 30 sen to RM32.50, LPI added 20 sen to RM12.28 and Ayer gained 17 sen to RM7.18. Among the losers, Dutch Lady tumbled RM1.02 to RM33.28, Ajinomoto fell slid 44 sen to RM19.10, Ideal Capital declined 24 sen to RM3.40 and Lebtech lost 18.5 sen to 60.5 sen.
+
+[NEWS_P003] BCM Alliance jumped 50%, or 0.5 sen to 1.5 sen with 545.49 million shares traded, making it the most active counter on Bursa Malaysia. On the forex market, the ringgit was down 0.13% against the greenback to 4.7450. The local unit rose 0.32% against the pound sterling to 5.9223 and 0.02% against the Singapore dollar to 3.4994. Elsewhere in the region, Japan’s Nikkei 225 fell 1.63%, Hong Kong’s Hang Seng Index closed down 0.9%, South Korea’s Kospi closed up 0.39%, China’s CSI300 index lost 0.79% and Singapore’s Straits Times Index declined 1.13%.

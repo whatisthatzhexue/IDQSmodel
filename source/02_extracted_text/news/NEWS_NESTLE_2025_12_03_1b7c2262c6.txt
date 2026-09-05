@@ -1,0 +1,18 @@
+[TITLE]
+Bursa Malaysia slips; ringgit climbs to 15-month high against dollar
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-12-03
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/12/03/bursa-malaysia-slips-ringgit-climbs-to-15-month-high-against-dollar
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia saw continued selling pressure on Wednesday, pushing the benchmark index lower, while the ringgit climbed to a 15-month high against the US dollar. At 5pm, the FBM KLCI fell 7.76 points, or 0.48%, to 1,622.84 after trading between an intraday high of 1,632.95 and a low of 1,617.79. Overall breadth was nearly even, with gainers holding a slight lead at 584 versus 523 decliners, while 541 counters were unchanged. Traded volumes stood at 3.3 billion shares worth RM2.3bil.
+
+[NEWS_P002] The ringgit was quoted at 4.1250 against the US dollar, appreciating 0.13% to its highest level in about 15 months, since September 2024. The local currency, however, eased 0.16% against the euro to 4.8029, slipped 0.21% against the pound sterling to 5.4686, and inched down 0.03% against the Singapore dollar to 3.1849. Among the losers, Nestle tumbled RM3.60 to RM116.60, F&N lost RM1.24 to RM35.12, PETRONAS Dagangan fell 72 sen to RM19.94 and PETRONAS Gas declined 22 sen to RM17.48.
+
+[NEWS_P003] Malaysian Pacific Industries led the gainers, surging RM1.24 to RM32.58. Other top advancers included Allianz, up 60 sen to RM20.50, United Plantation, which rose 54 sen to RM28.54, and Allianz-PA, which added 46 sen to RM20.50. Croesus IT, which debuted on the LEAP Market, rose three sen or 25% to close at 15 sen. In terms of fund flows, foreign investors were net buyers, accumulating RM156mil worth of equities on Bursa Malaysia. Local institutions and retailers were net sellers, offloading RM94mil and RM61mil, respectively.
+
+[NEWS_P004] MSCI’s broadest index of Asia-Pacific shares outside Japan slipped 0.09%, with regional markets ending mixed. Japan’s Nikkei 225 rose 1.14%, while South Korea’s Kospi advanced 1.04%. Hong Kong’s Hang Seng Index fell 1.28%, China’s CSI300 eased 0.51%, and the Shanghai Composite Index also declined 0.51%.

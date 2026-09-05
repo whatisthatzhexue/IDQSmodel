@@ -1,0 +1,16 @@
+[TITLE]
+Trading ideas: PTT, Azam Jaya, Harvest Miracle, AmFIRST REIT, Citaglobal, Pharmaniaga, Saliran, Pentamaster, Magma
+
+[METADATA]
+ticker: MAGMA
+company_name: Impiana Hotels Bhd
+publish_date: 2025-08-07
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/08/07/trading-ideas-ptt-azam-jaya-harvest-miracle-amfirst-reit-citaglobal-pharmaniaga-saliran-pentamaster-magma
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. PTT Synergy Group Bhd has allocated RM2.3bn in capital expenditure over the next two years for its automated warehouse business, which will cover the development of four new automated warehouses. Azam Jaya Bhd's unit Pembinaan Azam Jaya Sdn Bhd has bagged a RM120.9mn contract from the Transport Ministry for upgrading works at Tawau Airport in Sabah. Harvest Miracle Capital Bhd is formally diversifying into construction materials trading after successfully dipping its toes into the segment.
+
+[NEWS_P002] AmFIRST Real Estate Investment Trust has appointed Mana Mana Holdings Sdn Bhd, a subsidiary of Exsim Hospitality Bhd, as the project manager of the refurbishment and rebranding of the Summit Hotel Subang USJ in Selangor. The Sultan of Pahang, Al-Sultan Abdullah Ri'ayatuddin Al-Mustafa Billah Shah, has increased his stake in Citaglobal Bhd to 13.3% following the off-market acquisition of 15mn shares. Pharmaniaga Bhd has completed its regularisation plan, with the completion of RM520mn capital reduction that trimmed the pharmaceutical group’s issued share capital to RM249.6mn, as well as wipe out its accumulated losses.
+
+[NEWS_P003] Saliran Group Bhd inked a MoU with China-based Maoming Port Group Co Ltd and Malaysia’s PCA Group Sdn Bhd to establish a framework for cooperation in the oil and gas sector. Pentamaster Corp Bhd ’s net profit for 2QFY25 declined 41.7% YoY to RM11.6mn from RM19.9mn previously, dragged down by lower contribution from its factory automation segment and unfavourable foreign exchange losses. Magma Group Bhd former executive chairman Datuk Seri Ismail @ Farouk Abdullah has ceased to be a substantial shareholder in the hotel management and property development company, following a 0.24% stake trim to 4.9%.

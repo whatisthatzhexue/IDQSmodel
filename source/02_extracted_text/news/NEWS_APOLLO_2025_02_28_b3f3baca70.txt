@@ -1,0 +1,16 @@
+[TITLE]
+Meta in talks to raise $35 billion for data center financing led by Apollo, Bloomberg News reports
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-02-28
+source_name: The Star
+url: https://www.thestar.com.my/tech/tech-news/2025/02/28/meta-in-talks-to-raise-35-billion-for-data-center-financing-led-by-apollo-bloomberg-news-reports
+confidence_tier: low
+
+[NEWS_P001] (Reuters) -Apollo Global Management is in talks to lead a roughly $35 billion financing package for Meta Platforms to help develop data centers in the U.S., Bloomberg News reported on Thursday citing people with knowledge of the matter. The alternative asset manager has discussed providing a major part of the financing, according to the report. Growing computational requirements of artificial intelligence systems have significantly increased the demand for data centers.
+
+[NEWS_P002] Meta CEO Mark Zuckerberg had said in January the company would spend as much as $65 billion this year to expand its AI infrastructure. The Facebook-parent did not immediately respond to a request for comment, while Apollo Global Management declined to comment when contacted by Reuters. Meta also plans to invest $10 billion to set up an AI data center in Louisiana, it said in December. The amount of electricity used by the Meta data center in Louisiana will be matched by renewable energy, for which the tech firm will be working with utility Entergy.
+
+[NEWS_P003] Last week, brokerage TD Cowen said Microsoft canceled leases totaling "a couple of hundred megawatts" of capacity with at least two private data-center operators. It has stoked skepticism among investors due to slow payoffs and breakthroughs at Chinese startup DeepSeek, which showcased AI tech at a much lower cost than its Western rivals. (Reporting by Jaspreet Singh in Bengaluru; Editing by Vijay Kishore and Krishna Chandra Eluri)

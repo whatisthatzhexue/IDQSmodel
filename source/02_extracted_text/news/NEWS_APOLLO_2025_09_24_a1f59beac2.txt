@@ -1,0 +1,18 @@
+[TITLE]
+Investors take profit on Bursa Malaysia after Fed chair's remarks
+
+[METADATA]
+ticker: APOLLO
+company_name: Apollo
+publish_date: 2025-09-24
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/24/investors-take-profit-on-bursa-malaysia-after-fed-chair039s-remarks
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI edged lower at Wednesday's opening trade as the local market looked set to continue on a consolidation path ahead of the release of more US economic data. The domestic benchmark, which has hovered near the 1,600 psychological level for the past week, is seeing some profit-taking pressure amid an absence of domestic catalysts. An opportunity to cash out also presented itself overnight as Wall Street indices pulled back as the AI-driven rally took a breather amid fears the tech counters may be overvalued.
+
+[NEWS_P002] The FBM KLCI started 0.74 points lower at 1,602.81, as the index continued to struggle to make much headway above the 1,600 level. TA Securities said the local market is expected to continue in consolidation mode as investors await key US inflation data this week. This comes on the heels of comments from Federal Reserve chair Jerome Powell that suggested there might not be any aggressive rate-cutting measures ahead. "Immediate resistance stays at the December 2024 high of 1,644, followed by tougher upside hurdles at the highs of 1,684, and 1,695.
+
+[NEWS_P003] Immediate support is maintained at the 61.8%FR (1,564) with stronger supports seen at the 50%FR (1,527) followed by the 38.2%FR (1,490)," said the research firm in its technical outlook. Early declines were seen in PETRONAS Gas down 18 sen to RM18.26, Tenaga Nasional shaving six sen to RM13.34 and CIMB dropping five sen to RM7.24. Apollo Food fell 10 sen to RM6.40 after registering a 34% decrease in quarterly net earnings due to lower export sales and higher operating costs.
+
+[NEWS_P004] Among the gainers on the market, Hong Leong Financial Group rose 16 sen to RM17.10, Malayan Cement jumped nine sen ot RM6.40 and Sptrizer gained seven sen to RM2.05. Of actives, Espress Powerr topped the list upon its debut on the ACE Market, up 1.5 sen to 21.5 sen. In the runner-up spots, Advance Synergy rose 0.5 sen to 7.5 sen while NexG gained 0.5 sen to 51.5 sen.

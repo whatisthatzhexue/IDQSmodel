@@ -1,0 +1,16 @@
+[TITLE]
+FBM KLCI rebounds to intraday high after three-day losing streak
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-07-10
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/07/10/fbm-klci-rebounds-to-intraday-high-after-three-day-losing-streak
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: After three straight days of losses, the FBM KLCI rebounded today, ending at its intraday high as bargain hunting lifted selected blue chips. The FBM KLCI ended at its intraday high, gaining 7.28 points or 0.48% to close at 1,536.52. Market breadth was positive, with gainers outnumbering losers by 514 to 407. Trading volume rose to 3.25 billion shares, valued at RM2.44bil. Among the gainers, Nestle rose 40 sen to RM78.80, Hong Leong Industries added 26 sen to RM13.66, Kelington climbed 17 sen to RM4 and Negri Sembilan Oil Palms increased 14 sen to RM4.50.
+
+[NEWS_P002] Malaysian Pacific Industries , the biggest loser on Bursa Malaysia fell 28 sen RM21. Kluang slid 20 sen to RM5.65, Heineken declined 20 sen to RM24.80 and PETRONAS Dagangan fell 18 sen to RM21.60. Dealers expect the market to stay range-bound as investors adopt a cautious wait-and-see stance amid ongoing tariff uncertainty. Although sentiment remains weak, they said the mild reaction points to underlying resilience, with hopes of a recovery as developments unfold.
+
+[NEWS_P003] Stock market data showed that foreign investors sold a net RM88mil worth of equities on Wednesday. Local institutions and retailers were net buyers, with RM48mil and RM40mil, respectively. Meanwhile, the ringgit was quoted at 4.2502, up 0.04% against the US dollar, but slipped 0.09% against the Singapore dollar to 3.3232. Elsewhere in the region, Japan’s Nikkei 225 slipped 0.44%, while Hong Kong’s Hang Seng Index edged up 0.57%. South Korea’s Kospi gained 1.58%, China’s CSI 300 rose 0.47%, and Singapore’s Straits Times Index added 0.4%.

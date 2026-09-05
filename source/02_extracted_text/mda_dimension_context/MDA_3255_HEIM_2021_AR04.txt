@@ -1,0 +1,159 @@
+document_id: MDA_3255_HEIM_2021
+dimension_code: AR04
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 73, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P002]
+Annual REPORT 2021 | HEINEKEN MALAYSIA BERHAD
+Who
+We Are
+Our Business
+Model
+Performance
+Review
+Sustainability
+Review
+How We Are
+Governed
+Our Numbers & Other
+Information
+After a difficult 2020 due to the
+COVID-19 pandemic, we went into
+2021 hopeful of continued recovery. The
+prolonged restrictions and lockdowns
+had adversely impacted the Group’s
+business performance in the previous
+year and dampened economic recovery
+in the country. To protect our business,
+adapt to the new realities and accelerate
+recovery, we front-loaded our cost and
+value initiatives by right-sizing our cost
+base and the organisation. These bold
+moves were crucial to help the Group
+navigate the crisis whilst building for a
+stronger future. Unfortunately, due to the continued spike
+in COVID-19 cases, the Government
+announced another lockdown which
+took effect in June 2021. For the second
+time in two years, we had to suspend
+our brewery operations for 11 weeks
+from June 2021 to August 2021, whilst
+operating restrictions were once again
+imposed on food & beverage (F&B)
+outlets, which continued until Q4.
+[MDA_P003]
+The
+pause in our brewery operations was
+significantly longer than the seven
+week stoppage we faced in 2020 due to
+the first MCO and this impeded on the
+Group’s ability to conduct our normal
+business operations. Nevertheless, I am pleased to share that
+the bold moves we took proved effective
+and helped to mitigate the adverse
+impacts of the longer pause in our
+operations. The following is a review of
+our business performance, highlights of
+our marketing campaigns, as well as our
+sustainability progress. OUR PERFORMANCE
+Despite a longer lockdown, Group
+revenue increased by 12% in FY21 to
+RM1.98 billion, mainly due to improved
+revenue management and improved
+agility in managing our supply chain that
+helped mitigate the adverse impacts of
+the pause in our brewery operations. The improvement in revenue, coupled
+with highly disciplined cost management,
+enabled the Group’s Profit Before Tax
+(PBT) to grow by 62% in FY21 to RM321
+million.
+[MDA_P009]
+I am pleased to share that our world-
+class brands continued to be recognised
+by consumers amongst Malaysia’s most
+trusted and preferred brands at the
+Putra Brand Awards 2021. Heineken®
+and Tiger won Gold, and Guinness took
+home a Silver award. The triple win brings
+HEINEKEN Malaysia’s total awards tally
+at Putra Brand Awards to 36 awards since
+2010. CARE FOR PEOPLE & PLANET
+Our performance was made possible by
+the resilience and commitment of our
+One Strong Winning Team at HEINEKEN
+Malaysia. Navigating through the storm
+whilst building for the future, we kept an
+all hands on deck approach by keeping
+the team connected and motivated
+through regular communications and
+updates, despite the many uncertainties
+in the external environment. Building on our experience in the previous
+year, our team had adapted to the new
+normal and leveraged agile ways of
+working to unlock greater efficiency and
+productivity. This enabled us to be better
+prepared and mitigated the adverse
+impacts of the 11-week suspension of
+operations at our brewery, compared with
+the 7-week stoppage in the previous year. Our priority has always been to safeguard
+the health and safety of our people.
+[MDA_P011]
+We acknowledge that we have more to do
+to support more women to grow with us,
+especially in our Sales and Supply Chain
+functions, which are traditionally male-
+dominated. Representation alone is not sufficient,
+we are committed to train 100% of our
+people managers on inclusive leadership
+practices by 2023. In 2021, we had
+already trained 80% of our people
+managers and we are on track to meet
+this target to create a more inclusive and
+diverse workforce at HEINEKEN Malaysia. In 2022, we will be launching a new set of
+HEINEKEN Behaviours to complement our
+refreshed Purpose and Values. Once again,
+continued engagement with employees
+will be key to build and sustain a culture
+of high performance to shape our future
+growth journey. I am pleased to share that
+our world-class brands
+continued to be recognised
+by consumers amongst
+Malaysia’s
+most trusted
+and preferred
+brands at the Putra
+Brand Awards 2021.”
+[MDA_P015]
+Since 1994, the
+Tiger CECC has raised more than RM361
+million for schools across Malaysia,
+enabling the enhancement of teaching
+and learning environments through
+upgrade of facilities and amenities that
+has benefitted multiple generations of
+students who go on to contribute to
+Malaysia’s growth. In 2021, HEINEKEN Malaysia was
+accepted as one of the 54 members of
+the CEO Action Network (CAN), a closed-
+door peer-to-peer informal network of
+CEOs and Board members focused on
+sustainability advocacy, capacity building,
+action and performance. Through a
+dedicated Working Group, Workstreams
+and active members driving bespoke
+initiatives, CAN aspires to catalyse its
+members towards shaping future-ready
+and ESG-integrated business models
+and ecosystems. As a member, we are
+committed to engage with various
+stakeholders including our supply chain,
+regulators and policy makers, government,
+as well as our peers across various sectors
+to forge partnerships that are committed
+In 2021, we trained 80%
+of our people managers
+on inclusive leadership
+practices. We are on track
+to reach 100% by 2023.

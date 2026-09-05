@@ -1,0 +1,16 @@
+[TITLE]
+Trading ideas: PPB, Binastra, Inta Bina, Systech, Steel Hawk, CN Asia, Sentoria, Kerjaya Prospek
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-09-06
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/09/06/trading-ideas-ppb-binastra-inta-bina-systech-steel-hawk-cn-asia-sentoria-kerjaya-prospek
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Here is a recap of the announcements that made headlines in Corporate Malaysia. PPB Group Bhd is optimistic about its 2H2024 outlook, saying that the strengthening of the ringgit against the US dollar could lead to higher consumer spending and reduced raw materials cost. Binastra Corp Bhd has received a RM283.3mn contract for the main building works of a major residential development in Taman Desa, Kuala Lumpur from Kaisar Maxim Sdn Bhd.
+
+[NEWS_P002] Inta Bina Group Bhd has secured another construction contract from Sime Darby Property Bhd worth RM96.6mn to undertake main building and construction works for a 37-storey serviced apartment project in Putra Heights. Systech Bhd has teamed up with Pinetop Technology Venture Sdn Bhd to establish and operate data centres for an initial term of two years. Steel Hawk Bhd is bidding for more long-term Petroliam Nasional Bhd contracts and expanding its renewable energy business.
+
+[NEWS_P003] CN Asia Corp Bhd has signed a framework agreement with Jianghe Electromechanical Equipment Engineering Co Ltd to explore and invest in Malaysia’s wind energy sector. Sentoria Group Bhd said Messrs Grant Thornton Malaysia PLT has voluntarily resigned as the company’s external auditor. Kerjaya Prospek Property Bhd chief executive officer Joanne Lee Sor Phaik has stepped down from her position after just over a year in her role.

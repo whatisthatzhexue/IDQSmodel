@@ -1,0 +1,22 @@
+[TITLE]
+Ringgit opens higher against US$ for third straight day
+
+[METADATA]
+ticker: GCB
+company_name: Guan Chong Berhad
+publish_date: 2025-01-22
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/01/22/ringgit-opens-higher-against-us-for-third-straight-day
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The ringgit opened stronger for the third consecutive day against the greenback, supported by a decline in the US Dollar Index (DXY) as investors awaited further cues from the White House regarding developments in trade policy. At 8 am, the ringgit stood at 4.4660/4785 against the US dollar compared to yesterday’s closing rate of 4.4730/4780. Bank Muamalat Malaysia Bhd chief economist Dr Mohd Afzanizam Abdul Rashid said the DXY reportedly fell to 107.981 points, the lowest since Dec 27, 2024.
+
+[NEWS_P002] He said the currency market would likely focus on what the 47th United States (US) President would do with import tariffs. "Trump has indicated that his administration is in the midst of discussing the 10 per cent import tariff to be levied against China as fentanyl is being sent from China to Mexico and Canada. "While such a move is unsurprising, it goes to show that the degree of tariff imposition would be measured, and it will be implemented after due consideration has been made,” he told Bernama.
+
+[NEWS_P003] He noted that the markets would remain anxious as Trump is hitting hard on US neighbours, such as Canada and Mexico, with higher tariffs. He said that thus far, there seemed to be risk-on mode in the equities market while the US Treasury yields continued to trend lower. "Perhaps the impression is that Trump 2.0 is likely to be mindful of the import tariff hikes. "This could be positive for the ringgit, although currency markets will continue to stay cautious in the near term, as dollar-ringgit could hover around 4.47 to 4.48 today,” he noted.
+
+[NEWS_P004] Similarly, UOB Kay Hian Wealth Advisors head of investment research Mohd Sedek Jantan highlighted that while the US dollar has strengthened following Trump’s announcement of a 10 per cent tariff on China, his remarks have eased market uncertainty, as expectations had centred on the imposition of a more substantial tariff. However, he stated that the currency volatility persisted as markets awaited further cues from the White House regarding developments in trade policy.
+
+[NEWS_P005] "Despite this, the ringgit has exhibited lower volatility compared to most other emerging market currencies, which is likely to drive increased investor demand for the ringgit in the near term,” he added. At the opening, the ringgit traded mostly lower against major currencies. It slid against the euro to 4.6478/6608 from Tuesday’s close of 4.6291/6343 and dropped against the British pound to 5.5102/5256 from 5.4781/4842, but it edged higher against the Japanese yen to 2.8682/8765 from 2.8691/8725.
+
+[NEWS_P006] The ringgit traded mostly lower against ASEAN currencies. It weakened against the Thai baht to 13.1349/1810 from 13.1123/1347, fell against the Indonesian rupiah at 273.2/274.1 compared to 273.6/274.1, and edged lower against the Singapore dollar at 3.2969/3064 from 3.2899/2941. However, it rose against the Philippine peso to 7.63/7.66 versus Tuesday’s 7.65/7.66. - Bernama

@@ -1,0 +1,142 @@
+document_id: MDA_7103_SPRITZER_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 19, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+ECONOMIC OVERVIEW
+The Malaysian economy grew moderately by 3.7% in 2023, following a robust expansion of 8.7% recorded in the previous
+year. The slower growth in 2023 is attributed to the weakness in the manufacturing and export-oriented sectors amid weak
+global demand. Moreover, escalating geopolitical conflicts, inflationary pressure and volatile currency exchange rates have
+added further strain. However, the robust domestic demand, firm labour market and improving tourism activities continued
+to support the overall economic growth. Despite the less favourable economic conditions, the demand for our bottled water products has remained strong throughout
+the financial year ended December 31, 2023. Our revenue has improved strongly by 13% for the year ended December
+31, 2023. The sales of our bottled water products have remained favourable mainly due to the robust demand, the strong
+recovery in tourism activities and the hot weather environment. Our innovative branding, marketing and promotional
+activities and our ability to cope with the surge in demand have also enabled us to deliver a strong performance for the year.
+[MDA_P004]
+For Financial Year Ended December 31, 2023
+STRATEGIC DIRECTION
+Being the largest, most integrated and the leading bottled water
+company in Malaysia, we are committed to delivering to all our
+consumers of our high quality bottled water products with special focus
+on health benefits and at the same time, satisfying the sophisticated
+taste preference and the hydration needs of our consumers. We will
+continue to increase our product range to strengthen our leading
+position in the Malaysian bottled water industry. We will constantly
+improve our processes across our value chain and at the same time,
+improving our market coverage and sales volume. We will strive to
+improve our positions in the various markets where we are currently
+operating. We are also exploring business opportunities and investment
+in the beverage industry. We are also actively exploring and have started introducing sustainable
+packaging alternatives for our Spritzer bottled water products. We also
+collaborate with other stakeholders to jointly manage packaging waste
+and improve collection and recycling rates for a greener Malaysia and
+a more sustainable, waste-reduced future.
+[MDA_P005]
+199301010611 (265348-V)
+SPRITZER BHD
+MANAGEMENT DISCUSSION
+AND ANALYSIS
+FINANCIAL REVIEW
+Financial Highlights
+Financial year ended
+Change
+31.12.2023
+31.12.2022
+Amount
+%
+Revenue (RM’000)
+490,675
+433,300
+57,375
+Profit before taxation (RM’000)
+65,924
+45,200
+20,724
+Profit after taxation (RM’000)
+49,486
+36,965
+12,521
+Pre-tax margin (%)
+13.4
+10.4
+3.0
+Net margin (%)
+10.1
+8.5
+1.6
+Basic earnings per share (sen)
+15.5
+11.8
+3.7
+Diluted earnings per share (sen)
+15.2
+11.4
+3.8
+Dividend per share (sen)
+5.50
+4.17
+1.33
+Dividend payout ratio (%)
+(1)
+Current ratio (time)
+2.0
+2.1
+(0.1)
+Quick ratio (time)
+1.6
+1.6
+-
+No. of shares in issue, less treasury shares (‘000)
+316,291
+313,304
+2,987
+Total equity (RM’000)
+527,031
+493,480
+33,551
+Net debt to equity ratio (%)
+3.3
+-
+3.3
+Total assets (RM’000)
+687,910
+600,954
+86,956
+Total liabilities (RM’000)
+160,879
+107,474
+53,405
+Net assets per share (RM)
+1.67
+1.58
+0.09
+Market capitalisation (RM’000)
+578,813
+463,690
+115,123
+Note: Certain comparative figures have been restated to incorporate the effect of the bonus issue of 1 bonus share for every
+2 existing shares held, which has been completed in June 2023.
+[MDA_P006]
+Revenue, Results and Dividend
+The Group recorded a new high in annual revenue of RM490.7 million in the financial year ended December 31, 2023, a
+significant increase of 13% from the previous year’s revenue of RM433.3 million, mainly due to the increase in sales volume
+and better average selling price. Consequent to the higher revenue recorded and the lower raw material cost incurred,
+the profit before tax of the Group for the year ended December 31, 2023 was higher by 46% at RM65.9 million (2022:
+RM45.2 million) mainly due to economies of scale and favourable sales mix. Similarly, the profit after tax has also increased
+significantly by 34% to RM49.5 million (2022: RM37.0 million). In line with the higher earnings, the Group’s earnings per
+share and diluted earnings per share for the year stood at 15.5 sen and 15.2 sen (2022: 11.8 sen and 11.4 sen) respectively. The pre-tax profit margin has risen from 10.4% to 13.4% mainly due to higher sales, economies of scale, favourable sales mix
+and lower raw material cost in the current year. Similarly, the current year’s net margin has also risen from 8.5% to 10.1%.
+[MDA_P010]
+As of December 31, 2023, the Group’s net debt to equity ratio stood at 3.3%. Financial Position and Gearing
+The financial position of the Group has remained strong with the higher net earnings of RM49.5 million recorded during the
+year. Our total assets have increased by RM87.0 million or 14% from RM601.0 million on December 31, 2022 to RM687.9
+million on December 31, 2023. Our total liabilities have increased by RM53.4 million or 50% from RM107.5 million on
+December 31, 2022 to RM160.9 million on December 31, 2023. The Group’s ability to meet its short term financial and debt
+obligations has remained strong. As of December 31, 2023, the current ratio was high at 2.0 times (2022: 2.1 times) and with
+a comfortable the quick ratio of 1.6 times (2022: 1.6 times). Throughout the first nine months of the year, the Group were in
+a net cash position. As of December 31, 2023, the Group’s net debt to equity ratio stood at 3.3%. For Financial Year Ended December 31, 2023

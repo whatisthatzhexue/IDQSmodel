@@ -1,0 +1,20 @@
+[TITLE]
+FBM KLCI gains momentum at midday, tracking Wall Street’s record highs
+
+[METADATA]
+ticker: NESTLE
+company_name: Annual Review 2020
+publish_date: 2025-09-12
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2025/09/12/fbm-klci-gains-momentum-at-midday-tracking-wall-streets-record-highs
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: The FBM KLCI climbed steadily by midday, tracking Wall Street’s record gains as investors positioned themselves ahead of the upcoming long weekend. At 12.30 pm, the FBM KLCI rose 6.57 points, or 0.42% to 1,589.42, after hitting an intramorning high of 1,589.42. There were 512 gainers, 380 losers and 438 counters traded unchanged on the Bursa Malaysia. Turnover stood at 1.32 billion shares valued at RM982.9mil. TA Securities said investors are likely to stay on the sidelines ahead of the extended holiday break.
+
+[NEWS_P002] It said the immediate support remains firm at the 50% Fibonacci retracement level (1,527), with even stronger support observed at the 38.2% level (1,490) and the 23.6% level (1,444). “Immediate resistance is capped at 1,610, the 76.4%FR, with next upside hurdle at the December 2024 high of 1,644, followed by stronger resistance at 1,684,” it added. Meanwhile, Hong Leong Investment Bank Research noted that ahead of the Malaysia Day holidays (Sept 15–16), and provided the KLCI does not decisively break below 1,554 (the 200-day moving average), they maintain a positive outlook.
+
+[NEWS_P003] It anticipates a retest of the 1,600–1,640 range in September following a short period of consolidation. HLIB Research said the recent pullback presents a tactical accumulation opportunity for 2025, supported by expectations of a Fed pivot easing policy, solid FY26 earnings growth, and stable GDP around 4%. Strong investment momentum, especially in data centres and renewables, signals economic growth. Despite foreign outflows, the FBM KLCI stays resilient, backed by local buying, a stronger ringgit, attractive valuations, and low foreign shareholding, enhancing its risk-reward appeal.
+
+[NEWS_P004] “However, caution lingers over potential US tariffs on Malaysian-made semiconductors, following Trump’s remarks on imposing “fairly substantial” levies on firms that fail to relocate production to the U.S. This poses a downside risk to Malaysia’s E&E sector, with the US accounting for ~20% of export demand,” HLIB said. On Bursa Malaysia, consumer counters led the gainers. Nestle rose RM1.50 to RM97, Heineken gained 62 sen to RM20.96, F&N added 50 sen to RM27.50, and KSL climbed 40 sen to RM2.37.
+
+[NEWS_P005] On the other hand, Dutch Lady dropped 26 sen to RM27.14, PPB Group fell 15 sen to RM9.95, PETRONAS Gas declined 14 sen to RM18.32, and Eurospan slipped 14 sen to RM2.54.

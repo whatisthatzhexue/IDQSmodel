@@ -1,0 +1,1 @@
+case_id,document_id,doc_type,ticker,company_name,year_or_publish_date,issue_type,severity,score_impact,rank_impact,dimension_affected,recommended_action,source_file

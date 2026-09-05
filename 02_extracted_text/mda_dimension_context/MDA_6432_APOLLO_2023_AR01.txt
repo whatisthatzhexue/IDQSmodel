@@ -1,0 +1,48 @@
+document_id: MDA_6432_APOLLO_2023
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 46, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT DISCUSSION AND ANALYSIS
+[MDA_P004]
+(i) Apollo Food Industries (M) Sdn Bhd is principally engaged in manufacturing and trading in compound
+chocolates, chocolate confectionery products and layer cakes in overseas market.
+[MDA_P012]
+The Group recorded revenue of RM257.11 million for the financial year ended 30 April 2023, an increase of
+36.56% as compared to RM188.27 million in the previous financial year ended 30 April 2022. The reopening of
+Malaysia’s borders has increased the demand of the Group’s products which result in higher sales. A large
+proportion of revenue was contributed by local market, accounting for 68.38% of total revenue. There were no
+material changes on the sales proportion from previous financial year.
+[MDA_P014]
+The profit after taxation had increased by 217.45% from RM9.97 million as recorded in the previous financial
+year to RM31.65 million due to an increase in sales.
+[MDA_P020]
+As at 30 April 2023, the Group’s total assets was RM255.96 million as compared to RM244.00 million in the
+previous financial year end. Higher total assets were mainly contributed by higher inventories and cash and bank
+balances.
+[MDA_P022]
+RISK OVERVIEW
+[MDA_P023]
+The Group is currently facing a few risk factors that might affect the Group’s profitability. Those risks include the
+following:
+[MDA_P024]
+(i)
+Fluctuation of Raw Material Prices
+[MDA_P033]
+A large proportion of the Group’s workforce is relied on foreign workers to overcome the difficulties in
+employing local employees. Any future changes to the policies imposed by the Malaysia Government
+on employment of foreign workers will affect the Group’s production and consequently, the
+profitability of the Group.
+[MDA_P040]
+BUSINESS PROSPECT
+[MDA_P042]
+The reopening of borders has improved the economy and boost the demand of both local and export market
+after nearly two years under the pandemic. The Group expects the demand for the Group’s products will remain
+stable for the next financial year.
+[MDA_P046]
+In recognition of shareholders’ continuous support, the Board of Directors are pleased to recommend a Final
+Dividend of 15 sen per ordinary share under the single tier system (tax exempt) for the financial year ended
+30 April 2023. The dividend rate will subject to the shareholders’ approval at the forthcoming Annual General
+Meeting to be held on 17 October 2023. The dividend will be paid on 3 November 2023 once it is approved.

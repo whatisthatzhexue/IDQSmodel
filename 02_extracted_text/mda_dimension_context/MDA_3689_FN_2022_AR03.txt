@@ -1,0 +1,143 @@
+document_id: MDA_3689_FN_2022
+dimension_code: AR03
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 83, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+Management Discussion & Analysis
+Strategic Review
+Market Review
+OUR OPERATING LANDSCAPE
+The year 2022 has been marked by two key
+and opposing factors. Positively, it has seen the
+gradual unravelling of movement and social
+restrictions imposed to contain COVID-19. Yet, rather than herald a significant economic
+recovery, global GDP growth is expected to
+decelerate to about 3.2 per cent after hitting
+a high of 6.1 per cent in 2021. The International
+Monetary Fund (IMF) was prompted to
+downgrade its GDP forecast in July 2022
+because of the Russia-Ukraine war, intermittent
+COVID-19 outbreaks, and a continued slowdown
+in manufacturing and logistics. Starting from a lower base of 3.1 per cent
+growth in 20211 , Malaysia’s GDP is expected
+to expand by 6.4 per cent according to the
+World Bank, supported by domestic demand
+underpinned by enhanced labour market
+conditions2. Growth in Thailand, meanwhile, is
+anticipated at between 2.7 per cent and 3.2 per
+cent3, slightly higher than initially predicted as
+the tourism industry is beginning to pick up. This is from a base of 1.5 per cent growth in
+2021.
+[MDA_P002]
+Key factors reigning in a fuller recovery
+are high inflation and muted trade with China,
+which has enforced several lockdowns in
+attempts to maintain zero-COVID. Economic growth discrepancy aside, both
+countries continue to be affected by supply
+chain disruptions and a sharp increase in
+the price of commodities, especially palm
+oil, skimmed milk powder and tin plates – all
+of which are used in F&NHB’s products and
+packaging. Both our key markets have also been
+impacted by the US Government’s monetary
+tightening and interest rate hikes, which have
+resulted in the reverse flow of capital from
+emerging markets back to the US, contributing
+to depreciation in regional currencies. As of the end of September 2022, the Malaysian
+ringgit had weakened to 4.6 against the dollar. However, the Thai Baht was even more affected,
+dipping to 38 against the dollar – marking its
+lowest exchange rate since July 2006. The
+weak Ringgit and Baht further increase the cost
+of already high imported commodity prices.
+[MDA_P005]
+There is increased demand for low-sugar
+or no-sugar beverages, low-fat foods and
+nutritious food and beverage products. At
+the same time, more people are converting
+to a plant-based diet. Another outcome
+of the pandemic is greater awareness of
+staying active to enhance natural immunity
+against COVID-19. People are exercising
+more and enjoying other outdoor activities
+to maintain good mental and physical
+health. Therefore, food and beverage (F&B)
+players must cater to healthier lifestyles to
+resonate better with the current consumer
+mindset. • Our sugar index has dropped by 50%
+over the last ten years, representing the
+reduction of total sugar content in our
+drinks from 2013 to 2022. Over 90% of
+the ready-to-drink products sold today
+have less than 5g of sugar per 100 ml. • More than half of our total product
+portfolio
+now
+comprises
+healthier
+options endorsed by MOH’s Healthier
+Choice Logo, including six new products
+this year. • We invested RM128 million in a new liquid
+milk and plant-based manufacturing
+facility in Wang Muang and are equipping
+our Pulau Indah plant with plant-based
+capabilities.
+[MDA_P008]
+Before
+the end of 2022, we will be generating
+enough renewable energy to replace 20
+per cent of our electricity requirement
+with solar panels on the roofs of our plants. • Our new Shah Alam warehouse and regional
+distribution centre in Rojana (RDC) will
+contribute to an annual reduction of 1,400
+tonnes of CO2e emissions from reduced
+forklift operations and lesser shunting and
+double handling. • F&B Thailand is guiding some 2,000 dairy
+farmers in a cooperative to assess their
+carbon emissions and develop plans to
+reduce their carbon footprint. • We began a phased implementation of
+climate-related
+disclosures
+in
+relation
+to the Task Force on Climate-related
+Financial
+Disclosures
+(TCFD)
+recommendations
+and
+conducted
+a
+climate-related impact assessment this
+year. As the global population grows, we are
+consuming more and more of the world’s
+natural resources and discarding an increasing
+volume of waste, 90 per cent of which is either
+dumped or burned. Landfills overflow while
+poorly managed waste gets washed by rain
+and drains into the sea.
+[MDA_P009]
+As the World Bank puts
+it, poorly managed waste is contaminating the
+world’s oceans, clogging drains, transmitting
+diseases, increasing respiratory problems
+from burning, and unknowingly harming
+animals that consume waste. Among the
+most effective solutions to the problem is to
+increase circularity in the value chain, reduce
+raw materials needed, prioritise renewable
+inputs, and recover/recycle as much as
+possible. Consumers and other stakeholders
+today have high expectations of corporations
+in the fast-moving consumer goods sector to
+demonstrate a commitment to effective and
+sustainable waste management. • Apart from renewable energy, we source
+raw materials that are produced sustainably,
+such as RSPO, VIVE, and BONSUCRO. We
+only use paper carton products certified
+by Forest Stewardship Council (FSC). We
+also aim to achieve 100 per cent physical
+certified palm oil by 2025. • We have increased the use of recycled
+material in our packaging to 25 per cent and
+aim for all beverage and dairy packaging to
+be 100 per cent recyclable by 2025.

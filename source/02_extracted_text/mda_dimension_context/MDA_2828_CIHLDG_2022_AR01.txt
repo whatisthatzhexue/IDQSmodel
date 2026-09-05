@@ -1,0 +1,144 @@
+document_id: MDA_2828_CIHLDG_2022
+dimension_code: AR01
+context_scope: dimension_specific_selected_paragraphs_only
+source_features_json:
+{"coverage_map": {"business": true, "drivers": true, "financial": true, "outlook": true, "risk": true}, "has_financial_or_business_or_risk_or_outlook": true, "paragraph_count": 16, "section_count": 1, "section_headings": ["Unknown"]}
+selected_paragraphs:
+[MDA_P001]
+MANAGEMENT
+DISCUSSION AND ANALYSIS
+Overview Of Group’s Business And Operations
+Company Profile
+The Group is divided into two main divisions, being the Edible Oil Products Division and the Tap and Sanitary Ware Division. The Edible Oil Products Division focuses on exporting vegetable-based edible oil and fat products in consumer pack form, while
+the Tap and Sanitary Ware Division is generally involved in the trading and distribution of sanitary ware and tap fittings to the
+property development and retail markets. Edible Oil Products Division
+The Edible Oil Products Division consists of Continental Resources Sdn Bhd [198801006186 (173543-U)] (“CRSB”) and the
+Palmtop Group (“Palmtop”). CRSB has three (3) plants based in Banting, Klang equipped with twenty three (23) packing lines with a rated packing capacity of
+348,000 metric tonnes of edible oils per annum and thirty seven (37) oil tanks with a total tankage capacity of 4,000 metric tonnes. CRSB also has sixteen (16) Jerry-Can (“JC”) blow-moulding machines with a monthly production capacity of 1 million units of jerry
+cans in various sizes, i.e., 3L, 5L, 10L, 18L, 20L & 25L.
+[MDA_P004]
+The Group
+will then channel all its effort and resources to further drive the edible oil business growth. Vision
+Our group strives to develop, enhance and create a comprehensive portfolio of consumer brands to enable the generation of
+sustainable profit growth and reasonable investment returns to our shareholders. Principal Activities Of Our Group
+• Blending and packing of vegetable-based edible oils. • Marketing, branding and merchandising of various consumer-packed edible oil products in the domestic and international market. • Trading in a broad range of tap and sanitary ware products. Key Markets
+Asia (including Australasia), Africa and the Middle East regions. Strategies In Creating Value
+• Leveraging core competencies and areas of strategic advantages. • Identifying compelling market opportunities by maintaining abreast of market developments and evolving customer needs. • Offering a broad and compelling portfolio of products and brands tailored to customer needs/wants. • Continual optimisation of business processes. • Providing opportunities for growth and enrichment to our employees, our business partners and the communities in which we operate.
+[MDA_P006]
+HOLDINGS BERHAD 197801000889 (37918-A)
+MANAGEMENT
+DISCUSSION AND ANALYSIS
+(continued)
+Highlights of the Group’s Financial Information for the Past 5 Financial Years
+Financial (in RM’000)
+Revenue
+4,046,102
+3,144,549
+2,572,493
+2,272,914
+2,602,701
+Profit before Interest and Tax
+128,897
+127,873
+63,584
+45,934
+58,395
+Finance Costs
+(5,132)
+(6,796)
+(10,517)
+(12,640)
+(13,095)
+Net Profit
+119,360
+116,090
+45,311
+27,074
+45,034
+Shareholders’ Funds
+328,793
+281,328
+227,663
+210,392
+211,153
+Total Assets
+1,149,474
+849,942
+805,076
+573,969
+588,973
+Borrowings
+403,899
+300,176
+375,136
+202,057
+243,034
+Debt/Equity (%)
+Earnings per share (sen)
+41.04
+43.19
+18.59
+11.75
+19.20
+Net Assets per share (RM)
+2.03
+1.74
+1.41
+1.30
+1.30
+Dividend per share (sen)
+Share Performance (RM)
+Year high
+4.28
+3.70
+1.55
+1.94
+2.39
+Year low
+2.69
+1.09
+0.82
+1.21
+1.80
+Year close
+2.84
+3.23
+1.20
+1.37
+1.84
+Market capitalisation
+(as at financial year end)
+460.0 million
+523.3 million
+194.4 million
+221.94 million
+298.08 million
+Review Of Financial Results And Financial Condition
+Revenue
+The Group reported a significant increase in revenue of RM4.0 billion for the financial year ended 30 June 2022 (“FY2022”)
+compared to the RM3.1 billion recorded in the preceding year’s financial year ended 30 June 2021 (“FY2021”) despite all the
+ongoing uncertainties relating to the pandemic and unresolved global trade tensions.
+[MDA_P007]
+This 29% increase in revenue was attributed to the over 50% increase in average olein prices despite the 12.7% drop in total
+shipments of full container loads (“FCLs”) and the 6% strengthening of the USD against the RM. Profit Before Tax (“PBT”) & Expenses (costs)
+The Group’s PBT’s recorded a slight increase to RM123.77 million for the current year from RM121.08 million in the previous financial
+year was mainly contributed by the significant increase in commodity prices and premium pricing brought on by high demand for
+immediate delivery at market destinations. This is a result from reduced soft oil stocks and rising soyabean oil prices which widened
+the premium to olein prices. Operating expenses incurred an increase from the previous reporting period. This is predominantly due to lower margins, higher
+realised and unrealised forex losses and higher expected credit loss on financial assets. Finance costs decreased by 24% from RM6.8 million to RM5.1 million in the reporting period. This is mainly due to lower utilisation of
+trade facilities as part of our efforts to control finance costs by paying cash for certain capital expenditure, wherever possible.
+[MDA_P008]
+ANNUAL REPORT 2022
+C.I. HOLDINGS BERHAD 197801000889 (37918-A)
+MANAGEMENT
+DISCUSSION AND ANALYSIS
+(continued)
+Assets: Trade Receivables
+Trade receivables increased by 36% from RM446.45 million to RM608.93 million or on average being outstanding from 52 days
+to 55 days during the year. The slight increase is predominantly linked to higher sales over the reporting period which was also
+affected by the various lockdowns at the customers’ market who faced some delays in remitting payment due to documentation
+clearance delays at arrival ports. Assets: Inventories
+There was an increase in inventories by 52%, from RM72.22 million in the previous financial year to RM109.64 million. This is in
+proportion to the higher revenue and higher commodity prices recorded in the financial year under review. Assets: Cash And Bank Balances
+The Group’s bank balances and deposits placed with licensed banks increased by 29%, from RM187.31 million to RM241.87
+million. This was primarily due to higher proceeds arising from increased sales revenue made during the FY2022.

@@ -1,0 +1,16 @@
+[TITLE]
+Bursa Malaysia slips deeper into the red, in line with regional downtrend
+
+[METADATA]
+ticker: PPB
+company_name: PPB Group Berhad
+publish_date: 2024-12-20
+source_name: The Star
+url: https://www.thestar.com.my/business/business-news/2024/12/20/bursa-malaysia-slips-deeper-into-the-red-in-line-with-regional-downtrend
+confidence_tier: low
+
+[NEWS_P001] KUALA LUMPUR: Bursa Malaysia has slipped deeper into the red, in line with the downtrend seen among its regional peers. The FBM KLCI slid 8.68 points, or 0.54% to 1,591.41, its intraday low. The index hit an intraday high of 1,606.28. The FBM KLCI finished down 1.08% for the week. Losers trounced gainers by 552 to 462, while 522 counters traded unchanged. Trading volume was brisk at 3.4 billion shares valued at RM3.8bil. United Plantations, the top decliner on Bursa Malaysia, tumbled RM1.32, or 3.98% to RM31.82.
+
+[NEWS_P002] PETRONAS Dagangan slid 84 sen to RM19.02, Malaysian Pacific Industries lost 80 sen to RM25.20 and Allianz declined 20 sen to RM20.28. Among the gainers, PPB Group rose 26 sen to RM12.14, Heineken added 18 sen to RM24.10, Sunway Construction gained 18 sen to RM4.72 and Malayan Cement climbed 17 sen to RM5.01. Meanwhile, the ringgit extended its decline for the 10th consecutive session. It was quoted at 4.5078, down 0.05% against the US dollar. US West Texas Intermediate crude dropped 66 cents to US$68.72, while Brent crude declined by 66 cents to US$72.22 per barrel.
+
+[NEWS_P003] Among the key regional markets: Japan’s Nikkei 225 fell 0.29% to 38,701.90; Hong Kong’s Hang Seng Index declined 0.16% to 19,720.70; Shanghai Composite Index closed down 0.06% to 3,368.07; Taiwan’s Taiex climbed lost 1.84% to 22,510.25; South Korea’s Kospi ended down 1.3% to 2,404.15 and; Singapore’s Straits Times Index fell 1.14% to 3,719.93 points.

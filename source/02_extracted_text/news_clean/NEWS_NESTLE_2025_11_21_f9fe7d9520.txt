@@ -1,0 +1,16 @@
+[TITLE]
+‘410,000 Selangor households now recycling’
+
+[METADATA]
+ticker: NESTLE
+company_name: Nestle Malaysia Berhad
+publish_date: 2025-11-21
+source_name: The Star
+url: https://www.thestar.com.my/metro/metro-news/2025/11/21/410000-selangor-households-now-recycling
+confidence_tier: low
+
+[NEWS_P001] SELANGOR Recycling (SELKitar) is a success with over 400,000 households involved and 77,022kg of recyclables collected as of Oct 31 this year. State public health and environment committee chairman Jamaliah Jamaluddin said the programme focused on door-to-door collection of recyclables. “Resident groups are very active and their WhatsApp groups are buzzing with enthusiasm, especially when they check on the collection days. “However, a pilot project in villages has hit a snag because recycling trucks are sometimes unable to access the smaller roads,” she said, adding that the standard operating procedure for high-rises was being fine-tuned.
+
+[NEWS_P002] “The SELKitar Programme Phase 1 involves 20,000 households in residential and strata areas in Subang Jaya and Sepang as the pioneer zones. “However, it is also an expansion of projects in Petaling Jaya, Subang Jaya, Shah Alam and Klang over the years, bringing the total number of households to approximately 410,000.” Jamaliah was replying to Preakas Sampunathan (PH-Kota Kemuning) who asked about the success of the state’s recycling programmes, during the Selangor State Assembly sitting at Bangunan Dewan Negeri Selangor in Shah Alam yesterday.
+
+[NEWS_P003] The SELKitar programme officially began on May 13, 2025. Under Subang Jaya City Council (MBSJ), it recorded an increase in monthly collections of up to 45%, rising from 5,900kg in June to 8,600kg in September. In the Sepang Municipal Council area, monthly collection increased by 24% from 7,700kg in June to 9,500kg in September. Jamaliah said SELKitar was a collaboration between the state government, Selangor Climate Adaptation Centre (SCAC), KDEB Waste Management Sdn Bhd (KDEBWM) and Nestle Malaysia Sdn Bhd, with the objective of promoting recycling habits among residents, raising awareness and encouraging active participation in sustainable waste management.
